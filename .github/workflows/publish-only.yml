@@ -28,12 +28,15 @@ jobs:
           EXPORT_OUT="$PWD/site_out" python scripts/export_static.py
           kill %1 2>/dev/null || true
 
-      - name: Publish site (this repo's /docs)
+      - name: Publish site to gucci-intel-site (fixed URL)
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          rsync -a --delete site_out/ docs/
+          git clone --depth 1 "https://x-access-token:${GH_PAT}@github.com/anduli0/gucci-intel-site.git" site_repo
+          rsync -a --delete --exclude .git site_out/ site_repo/
+          cd site_repo
           git config user.name "gucci-intel-bot"
           git config user.email "minkyu494@gmail.com"
-          git add docs
+          git add -A
           git commit -m "cloud publish $(date +'%F %H:%M')" || echo "no site changes"
-          git pull --rebase origin main || true
           git push

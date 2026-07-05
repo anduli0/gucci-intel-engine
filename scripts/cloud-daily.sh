@@ -13,6 +13,7 @@ run_step() {
 run_step "/news-scrap"
 run_step "/daily-gucci"
 run_step "/daily-brief"
+run_step "/cd-watch"
 
 # Special/Event desk cadence guard: a fresh deep-dive at least every 3 days
 if ! python - <<'PY'

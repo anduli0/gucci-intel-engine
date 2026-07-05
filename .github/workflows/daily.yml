@@ -36,12 +36,24 @@ jobs:
       - name: Run daily pipeline
         run: bash scripts/cloud-daily.sh
 
-      - name: Commit data + site (Pages serves this repo's /docs)
+      - name: Commit data state back to this repo
         run: |
-          rsync -a --delete site_out/ docs/
           git config user.name "gucci-intel-bot"
           git config user.email "minkyu494@gmail.com"
-          git add data docs
-          git commit -m "daily cycle $(date +'%F %H:%M')" || echo "no changes"
+          git add data
+          git commit -m "data: $(date +'%F %H:%M') daily cycle" || echo "no changes"
           git pull --rebase origin main || true
           git push || echo "push skipped"
+
+      - name: Publish site to gucci-intel-site (fixed URL)
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git clone --depth 1 "https://x-access-token:${GH_PAT}@github.com/anduli0/gucci-intel-site.git" site_repo
+          rsync -a --delete --exclude .git site_out/ site_repo/
+          cd site_repo
+          git config user.name "gucci-intel-bot"
+          git config user.email "minkyu494@gmail.com"
+          git add -A
+          git commit -m "cloud update $(date +'%F %H:%M')" || echo "no site changes"
+          git push

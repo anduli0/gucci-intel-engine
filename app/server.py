@@ -25,7 +25,7 @@ from urllib.parse import parse_qs, urlparse
 APP_DIR = Path(__file__).resolve().parent
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 ALLOWED_CMDS = {"daily-gucci", "daily-brief", "weekly-luxury", "event-response", "news-scrap", "gucci-special", "gucci-products"}
-REPORT_CATEGORIES = ("special", "daily", "weekly", "events")
+REPORT_CATEGORIES = ("special", "cd", "daily", "weekly", "events")
 
 RUN_LOCK = threading.Lock()
 RUN_STATE = {"proc": None, "cmd": None, "arg": "", "started": None, "log": None, "exit": None}
