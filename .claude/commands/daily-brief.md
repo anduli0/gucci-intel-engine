@@ -5,7 +5,7 @@ argument-hint: "[YYYY-MM-DD] (default today)"
 
 DATE = $1 or today.
 
-1. WATCH (parallel ×8, shallow): IN ONE PARALLEL BATCH use (a) the luxury-brand-watcher subagent per group (Kering / LVMH / Hermes-Chanel / Jewelry / Beauty / Independents), passing BRAND_GROUP, DATE, MODE=daily — each writes data/luxury/{DATE}/{BRAND_GROUP}.json (same-day signals first; the desk tracks every corner of the luxury field every day); (b) the calendar-scout subagent (DATE) → data/calendar/{DATE}.json; (c) the ambassador-tracker subagent (DATE) → data/ambassadors/{DATE}.json.
+1. WATCH (parallel ×9, shallow): IN ONE PARALLEL BATCH use (a) the luxury-brand-watcher subagent per group (Gucci / Kering / LVMH / Hermes-Chanel / Jewelry / Beauty / Independents), passing BRAND_GROUP, DATE, MODE=daily — each writes data/luxury/{DATE}/{BRAND_GROUP}.json (same-day signals first; the desk tracks every corner of the luxury field every day); (b) the calendar-scout subagent (DATE) → data/calendar/{DATE}.json; (c) the ambassador-tracker subagent (DATE) → data/ambassadors/{DATE}.json.
 
 2. ANALYZE: use the daily-brief-analyst subagent once, passing DATE. It synthesizes ALL of today's watch files into an industry-wide brief — the luxury world as a whole, not a Gucci report (Gucci deep-dives live in the 구찌 비즈니스 리뷰). Draft → data/reports/daily/{DATE}-luxury-brief.md.
 

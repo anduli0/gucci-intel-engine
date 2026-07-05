@@ -22,3 +22,9 @@ if (-not (Probe 'http://127.0.0.1:8791/api/status')) {
     Start-Process pythonw -ArgumentList "$root\app\server.py", '--readonly', '--port', '8791' -WindowStyle Hidden
     Note 'restarted read-only viewer (8791)'
 }
+
+# Site sync: export + push the fixed viewer URL when anything changed
+# (commit no-ops when the export is identical, so this is cheap every 30 min).
+try {
+    & cmd /c "$root\scripts\publish-site.bat" | Out-Null
+} catch { Note "publish-site failed: $_" }

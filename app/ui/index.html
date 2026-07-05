@@ -411,7 +411,7 @@ const STR = {
     newsEmpty:'아직 뉴스 스크랩이 없음<br>실행 탭의 뉴스 스크랩을 돌리면 구찌 10건 + 럭셔리 10건이 매일 여기 쌓임',
     luxEmpty:'럭셔리 워치 데이터가 아직 없음<br>데일리 브리프 또는 위클리 럭셔리를 실행하면 업계 동향이 여기 쌓임',
     luxNone:'이 그룹의 신규 신호 없음', luxAsof:' 수집분', gucciView:'구찌 관점 — ',
-    groups:{'Kering':'케링','LVMH':'LVMH','Hermes-Chanel':'에르메스·샤넬','Jewelry':'주얼리','Beauty':'뷰티','Independents':'인디펜던트'},
+    groups:{'Gucci':'구찌','Kering':'케링','LVMH':'LVMH','Hermes-Chanel':'에르메스·샤넬','Jewelry':'주얼리','Beauty':'뷰티','Independents':'인디펜던트'},
     tags:{'competitive threat':'경쟁 위협','benchmark opportunity':'벤치마크 기회','category trend':'카테고리 트렌드','unrelated':'참고'},
     evEmpty:'이벤트 대응 기록이 없음<br>쇼·런칭·논란이 터지면 실행 탭에서 이벤트명을 넣고 돌리면 시점별 추적이 여기 쌓임',
     calEmpty:'캘린더 데이터가 아직 없음<br>데일리 브리프를 실행하면 다가오는 패션쇼·실적발표·출시 일정이 여기 쌓임',
@@ -476,7 +476,7 @@ const STR = {
     newsEmpty:'No news scrap yet<br>Run News Scrap from the Run tab — 10 Gucci + 10 luxury items land here daily',
     luxEmpty:'No luxury watch data yet<br>Run Daily Brief or Weekly Luxury to fill industry signals here',
     luxNone:'No new signals in this group', luxAsof:' collected', gucciView:'Gucci angle — ',
-    groups:{'Kering':'Kering','LVMH':'LVMH','Hermes-Chanel':'Hermès·Chanel','Jewelry':'Jewelry','Beauty':'Beauty','Independents':'Independents'},
+    groups:{'Gucci':'Gucci','Kering':'Kering','LVMH':'LVMH','Hermes-Chanel':'Hermès·Chanel','Jewelry':'Jewelry','Beauty':'Beauty','Independents':'Independents'},
     tags:{'competitive threat':'competitive threat','benchmark opportunity':'benchmark opportunity','category trend':'category trend','unrelated':'note'},
     evEmpty:'No event-response records<br>When a show, launch or controversy breaks, run it from the Run tab to track checkpoints here',
     calEmpty:'No calendar data yet<br>Run Daily Brief to fill upcoming shows, earnings and launches here',
@@ -958,7 +958,7 @@ async function loadLux(){
     $('luxBody').innerHTML=`<div class="empty">${t().luxEmpty}<br><span class="go" onclick="showTab('run')">${t().goRun}</span></div>`;
     return;
   }
-  const groups=Object.keys(luxData.groups);
+  const groups=Object.keys(luxData.groups).sort((a,b)=>(a==='Gucci'?-1:b==='Gucci'?1:a.localeCompare(b)));
   if(!luxSel||!groups.includes(luxSel)) luxSel=groups[0];
   $('luxGroups').innerHTML = groups.map(g=>
     `<button class="${g===luxSel?'on':''}" data-g="${esc(g)}" onclick="selLux('${esc(g)}')">${t().groups[g]||g} (${luxData.groups[g].length})</button>`).join('')
