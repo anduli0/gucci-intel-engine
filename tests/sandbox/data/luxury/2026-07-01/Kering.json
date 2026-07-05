@@ -1,0 +1,27 @@
+{
+  "synthetic": true,
+  "findings": [
+    {
+      "brand": "Saint Laurent",
+      "event_type": "campaign",
+      "headline": "생로랑 가을 캠페인 공개, 미니멀 테일러링 전면 배치 (합성)",
+      "url": "https://example.com/ysl-fall-campaign",
+      "source": "Synthetic T1 Outlet",
+      "tier": "T1",
+      "published_at": "2026-07-01",
+      "why_it_matters": "케링 내부 자원 배분이 생로랑 쪽으로 기울면 구찌 캠페인 예산 협상에 영향",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "product launch",
+      "headline": "보테가 신규 레더 라인, 장인정신 스토리로 프리미엄 가격 안착 (합성)",
+      "url": "https://example.com/bv-leather-launch",
+      "source": "Synthetic T2 Outlet",
+      "tier": "T2",
+      "published_at": "2026-07-01",
+      "why_it_matters": "장인정신 내러티브의 가격 방어력 입증 — 구찌 레더굿즈 스토리텔링에 벤치마크",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

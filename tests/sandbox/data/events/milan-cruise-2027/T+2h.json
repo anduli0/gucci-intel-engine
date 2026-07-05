@@ -1,0 +1,20 @@
+{
+  "synthetic": true,
+  "event_id": "milan-cruise-2027",
+  "event_name": "밀라노 2027 크루즈쇼 (합성)",
+  "brand": "Gucci",
+  "checkpoint": "T+2h",
+  "items": [
+    {
+      "id": "ev-001",
+      "region": "EU",
+      "source": "Synthetic T1 Outlet",
+      "tier": "T1",
+      "url": "https://example.com/cruise-show-review",
+      "published_at": "2026-07-01",
+      "summary": "런웨이 직후 호평 다수 (합성)",
+      "sentiment": 1,
+      "magnitude": 1.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sea-2026-07-01-01",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "sea-2026-07-01-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "sea-2026-07-01-03",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  }
+]

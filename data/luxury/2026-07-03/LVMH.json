@@ -1,0 +1,118 @@
+{
+  "brand_group": "LVMH",
+  "date": "2026-07-03",
+  "mode": "daily",
+  "generated_at": "2026-07-03T00:00:00Z",
+  "findings": [
+    {
+      "brand": "Fendi",
+      "event_type": "show_announcement",
+      "headline": "Fendi confirms July 9 Rome couture debut for Maria Grazia Chiuri at Galleria Nazionale d'Arte Moderna",
+      "url": "https://www.wantedinrome.com/news/fendi-takes-couture-to-national-modern-art-gallery-in-rome.html",
+      "source": "Wanted in Rome",
+      "tier": "T2",
+      "published_at": "2026-07-02",
+      "why_it_matters": "구찌의 전 Dior 경쟁 구도가 Fendi로 이동—Maria Grazia Chiuri의 쿠튀르 데뷔가 이탈리아 장인정신 서사를 선점하면 구찌의 로마 heritage 포지셔닝이 상대적으로 약화될 수 있음",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "runway_show",
+      "headline": "Pharrell Williams presents Louis Vuitton SS27 menswear with a real 8m wave set in Paris, merging surf culture and luxury tailoring",
+      "url": "https://hypebeast.com/2026/6/pharrell-williams-louis-vuitton-ss27-paris-fashion-week-runway-collection",
+      "source": "Hypebeast",
+      "tier": "T2",
+      "published_at": "2026-06-24",
+      "why_it_matters": "LV가 서프·스케이트 문화를 하이럭셔리와 결합하는 쇼 연출로 젊은 남성 소비자 접점을 확장—구찌도 하이브리드 문화코드 쇼 연출 전략을 재검토할 필요가 있음",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "partnership",
+      "headline": "Louis Vuitton extends F1 Monaco Grand Prix title sponsorship to 2035 with a bespoke red Monogram trophy trunk",
+      "url": "https://www.lvmh.com/en/news-lvmh/louis-vuitton-celebrates-a-new-chapter-in-its-history-with-monaco-at-the-formula-1-louis-vuitton-grand-prix-de-monaco-2026",
+      "source": "LVMH Newsroom",
+      "tier": "T1",
+      "published_at": "2026-05-25",
+      "why_it_matters": "모나코 F1 타이틀 파트너십 2035년 연장으로 LV가 글로벌 스포츠-럭셔리 접점을 장기 독점—구찌는 스포츠 스폰서십 포트폴리오에서 차별화된 카테고리를 선점해야 함",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Fendi",
+      "event_type": "executive_move",
+      "headline": "Pietro Beccari takes over as CEO of LVMH Fashion Group (including Fendi, Celine, Loewe) from January 2026, consolidating oversight under Louis Vuitton chief",
+      "url": "https://www.lvmh.com/en/publications/pietro-beccari-is-appointed-head-of-the-lvmh-fashion-group-in-addition-to-his-responsibilities-at-louis-vuitton",
+      "source": "LVMH Newsroom",
+      "tier": "T1",
+      "published_at": "2025-12-01",
+      "why_it_matters": "LV 중심의 LVMH 패션 그룹 통합 지휘 체계는 브랜드 간 자원 배분과 시너지를 가속시킬 수 있어 Kering-구찌 독립 브랜드 모델 대비 경쟁 압박이 커질 수 있음",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "LVMH Group",
+      "event_type": "m_and_a",
+      "headline": "LVMH acquires full ownership of French business magazine Challenges, adding to its media portfolio alongside Les Echos, Le Parisien and L'Opinion",
+      "url": "https://finance.yahoo.com/news/lvmh-acquires-full-ownership-french-163256354.html",
+      "source": "WWD / Yahoo Finance",
+      "tier": "T1",
+      "published_at": "2025-12-31",
+      "why_it_matters": "LVMH의 프랑스 경제·비즈니스 언론 장악 확대는 브랜드 서사 통제력 강화를 의미—구찌/Kering은 독립 미디어 관계를 더욱 전략적으로 관리해야 함",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Dior",
+      "event_type": "financial_forecast",
+      "headline": "HSBC upgrades LVMH to Buy, forecasting 10% Dior sales growth in 2026 driven by Jonathan Anderson's creative reboot and accessible price-point expansion",
+      "url": "https://uk.finance.yahoo.com/news/dior-reboot-seen-helping-lvmh-144704872.html",
+      "source": "WWD / Yahoo Finance",
+      "tier": "T1",
+      "published_at": "2026-04-15",
+      "why_it_matters": "Dior의 V자 회복 전망이 현실화되면 구찌의 패션·레더굿즈 부문 점유율 경쟁이 심화—Jonathan Anderson 효과로 Dior 신규 고객 유입이 가속될 위험",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Loewe",
+      "event_type": "product_launch",
+      "headline": "Loewe's Amazona 180 bag dominates street style as new creative directors McCollough and Hernandez establish a debut hero accessory for the brand's 180th anniversary",
+      "url": "https://www.purseblog.com/loewe/loewe-amazona-180/",
+      "source": "PurseBlog",
+      "tier": "T2",
+      "published_at": "2026-02-26",
+      "why_it_matters": "Loewe가 창립 기념 아이코닉 백으로 소비자 화제를 집중시키는 전략은 구찌의 뱀부백·호르스빗 등 헤리티지 핸드백 재활성화 벤치마크로 활용 가능",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "LVMH Group",
+      "event_type": "earnings",
+      "headline": "LVMH Q1 2026 organic revenue +1% to 19.1 billion euros; fashion and leather goods down 2% organically due to Middle East conflict headwinds, with US and Asia ex-Japan resilient",
+      "url": "https://www.lvmh.com/en/publications/lvmh-continues-to-achieve-organic-growth-in-the-first-quarter-in-a-global-environment-impacted-by-the-conflict-in-the-middle-east",
+      "source": "LVMH Newsroom",
+      "tier": "T1",
+      "published_at": "2026-04-13",
+      "why_it_matters": "패션·레더굿즈 부진(-2%) 속 미국·아시아(일본 제외) 반등은 구찌가 집중해야 할 지역 우선순위를 재확인시켜 주는 시장 흐름 신호",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Tiffany",
+      "event_type": "retail_expansion",
+      "headline": "Beverly Hills Architectural Commission approves three-story Tiffany flagship on Rodeo Drive, including restaurant and VIP rooftop terrace, with construction to complete by June 2028",
+      "url": "https://beverlyhillscourier.com/2026/05/21/commission-approves-new-tiffany-co-flagship-store/",
+      "source": "Beverly Hills Courier",
+      "tier": "T2",
+      "published_at": "2026-05-21",
+      "why_it_matters": "Tiffany의 로데오 드라이브 초대형 플래그십(레스토랑+VIP 루프탑)은 하이엔드 주얼리 경험 공간 경쟁 기준을 높여 구찌의 NA 시장 부티크 경험 전략 재검토를 자극함",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH Group",
+      "event_type": "talent_initiative",
+      "headline": "LVMH Prize 2026 announces nine finalists from 2,400+ applicants for September 4 final at Fondation Louis Vuitton, including first-ever Kenyan finalist",
+      "url": "https://wwd.com/fashion-news/fashion-features/2026-lvmh-prize-finalist-list-1238928073/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-06-15",
+      "why_it_matters": "LVMH Prize의 글로벌 다양성 확대(케냐 첫 진출)는 신흥 디자인 인재 발굴을 LVMH가 주도하는 트렌드—구찌/Kering도 차세대 크리에이터 스카우트 생태계 강화가 필요함",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

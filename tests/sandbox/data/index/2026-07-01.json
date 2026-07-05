@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-01",
+  "regions": {
+    "NEA": {
+      "GMAI": 61.03,
+      "band": "우호",
+      "NSS": 0.6781,
+      "components": {
+        "sentiment": 0.8391,
+        "buzz": 0.5,
+        "engagement": 0.6347,
+        "sov": 0.1875
+      },
+      "sov_known": true,
+      "counts": {
+        "pos": 2,
+        "neu": 1,
+        "neg": 0
+      },
+      "n_items": 3,
+      "delta": -0.35
+    },
+    "SEA": {
+      "GMAI": 23.88,
+      "band": "경고",
+      "NSS": -1.0,
+      "components": {
+        "sentiment": 0.0,
+        "buzz": 0.5,
+        "engagement": 0.675,
+        "sov": 0.1875
+      },
+      "sov_known": true,
+      "counts": {
+        "pos": 0,
+        "neu": 0,
+        "neg": 3
+      },
+      "n_items": 3,
+      "delta": -41.17
+    },
+    "NA": {
+      "GMAI": 50.38,
+      "band": "중립",
+      "NSS": 0.2319,
+      "components": {
+        "sentiment": 0.616,
+        "buzz": 0.5,
+        "engagement": 0.5938,
+        "sov": 0.1875
+      },
+      "sov_known": true,
+      "counts": {
+        "pos": 1,
+        "neu": 1,
+        "neg": 0
+      },
+      "n_items": 2,
+      "delta": -2.25
+    },
+    "EU": {
+      "GMAI": 63.58,
+      "band": "우호",
+      "NSS": 0.7653,
+      "components": {
+        "sentiment": 0.8827,
+        "buzz": 0.5,
+        "engagement": 0.6738,
+        "sov": 0.1875
+      },
+      "sov_known": true,
+      "counts": {
+        "pos": 1,
+        "neu": 1,
+        "neg": 0
+      },
+      "n_items": 2,
+      "delta": 1.67
+    }
+  },
+  "global": {
+    "GMAI": 54.62,
+    "band": "중립",
+    "delta": -5.16,
+    "sentiment_weighted": 0.6948
+  },
+  "missing_blocks": [],
+  "triggers": [
+    "SEA dropped ≥ 10pt (Δ=-41.17)",
+    "SEA in 경고 band (GMAI=23.88)"
+  ],
+  "region_weights_used": {
+    "NEA": 0.35,
+    "SEA": 0.12,
+    "NA": 0.25,
+    "EU": 0.28
+  }
+}

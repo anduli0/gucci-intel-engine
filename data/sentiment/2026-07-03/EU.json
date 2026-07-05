@@ -1,0 +1,128 @@
+[
+  {
+    "id": "EU-2026-07-03-001",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Dazed Digital editorial praises Demna's debut 'Primavera' collection with standing ovation, star-studded runway, and strong creative acclaim — clear third-party positive review.",
+    "signal_tags": ["creative_direction_praise", "runway_acclaim", "standing_ovation", "celebrity_endorsement"],
+    "confidence": 0.95
+  },
+  {
+    "id": "EU-2026-07-03-002",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "UK trade press delivers headline-level positive review: standing ovation, 'cultural trigger', instant shareability — unambiguous brand enthusiasm from favorable trade criticism.",
+    "signal_tags": ["trade_press_positive", "standing_ovation", "cultural_moment", "kate_moss_endorsement"],
+    "confidence": 0.95
+  },
+  {
+    "id": "EU-2026-07-03-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Swift AI-model backlash ('AI slop', 'cheap') across Instagram and X, academic reputational risk warning, and Gucci forced to remove AI content — clear controversy damaging luxury brand image.",
+    "signal_tags": ["ai_backlash", "controversy", "luxury_image_damage", "reputational_risk", "social_media_negative"],
+    "confidence": 0.93
+  },
+  {
+    "id": "EU-2026-07-03-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "UK trade coverage frames Gucci's 2026 as a 'crisis': softer sales, reduced traffic, AI criticism, and consumers shifting to lower-cost alternatives — negative earnings and momentum press.",
+    "signal_tags": ["sales_slump", "store_traffic_decline", "ai_criticism", "value_shift", "brand_crisis"],
+    "confidence": 0.92
+  },
+  {
+    "id": "EU-2026-07-03-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Q1 revenue -14% reported / -8% comparable for Gucci weighing on Kering group — headline-level negative earnings and momentum press from UK retail trade.",
+    "signal_tags": ["revenue_decline", "negative_earnings", "sales_weakness", "kering_turnaround"],
+    "confidence": 0.95
+  },
+  {
+    "id": "EU-2026-07-03-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "France24 covers Kering CMD turnaround plan including WE retail -7%, network cuts, and outlet reduction — negative financial trajectory softened by forward-looking restructuring framing.",
+    "signal_tags": ["revenue_decline", "network_restructuring", "turnaround_plan", "western_europe_sales_drop"],
+    "confidence": 0.80
+  },
+  {
+    "id": "EU-2026-07-03-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "ESG trade analysis highlights revenue collapse (€17.2bn→€14.7bn) and margin implosion (27%→11%); central thesis is ESG commitments face real test under financial distress — cautionary negative framing.",
+    "signal_tags": ["financial_distress", "margin_collapse", "esg_risk", "revenue_decline"],
+    "confidence": 0.78
+  },
+  {
+    "id": "EU-2026-07-03-008",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Who What Wear UK delivers strongly positive third-party review of pre-fall 2026: 'ageless, trend-proof longevity', new It-bag candidate, coherent heritage synthesis — clear collection praise.",
+    "signal_tags": ["collection_praise", "creative_direction_positive", "it_bag", "trade_press_positive"],
+    "confidence": 0.93
+  },
+  {
+    "id": "EU-2026-07-03-009",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "UK fashion press declares Gucci Borsetto an 'instant classic' spotted on top models — breakout product enthusiasm is headline-level positive brand signal.",
+    "signal_tags": ["it_bag", "product_praise", "celebrity_spotted", "purchase_intent_signal"],
+    "confidence": 0.92
+  },
+  {
+    "id": "EU-2026-07-03-010",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "T3 culture press reviews Monte Carlo Summer campaign positively for aesthetics and European luxury positioning — mild enthusiastic third-party coverage without viral or trade-level weight.",
+    "signal_tags": ["campaign_positive", "european_luxury_positioning", "archival_heritage"],
+    "confidence": 0.80
+  },
+  {
+    "id": "EU-2026-07-03-011",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade press review is highly positive on campaign storytelling, but mixed public forum comments ('cheap and dated') partially offset; net positive at reduced magnitude.",
+    "signal_tags": ["campaign_positive", "trade_press_positive", "mixed_public_reaction", "flora_heritage"],
+    "confidence": 0.72
+  },
+  {
+    "id": "EU-2026-07-03-012",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "French fashion blog reports Gucci's F1 Alpine title partnership positively, highlighting EU cultural resonance and new brand platform — mild positive collaboration coverage from T3 source.",
+    "signal_tags": ["collaboration_positive", "f1_partnership", "brand_extension", "eu_cultural_resonance"],
+    "confidence": 0.80
+  },
+  {
+    "id": "EU-2026-07-03-013",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Sports trade covers Gucci tennis ambassador strategy generating significant cultural press in Europe; Sinner/Sabalenka on-court luxury carry — mildly positive brand strategy signal.",
+    "signal_tags": ["ambassador_positive", "sports_marketing", "cultural_press", "product_visibility"],
+    "confidence": 0.78
+  },
+  {
+    "id": "EU-2026-07-03-014",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Pre-CMD analysis cites €3.8bn revenue loss over two years and frames Demna as 'long-term bet in a situation demanding short-term results' — skeptical/critical financial narrative with five risk flags.",
+    "signal_tags": ["revenue_loss", "financial_risk", "strategic_doubt", "turnaround_skepticism"],
+    "confidence": 0.88
+  }
+]

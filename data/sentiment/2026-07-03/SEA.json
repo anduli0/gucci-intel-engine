@@ -1,0 +1,128 @@
+[
+  {
+    "id": "SEA-2026-07-03-001",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party editorial cover feature praising Gucci Generation collection designs and ambassador's personal style journey under Demna's creative direction.",
+    "signal_tags": ["editorial_cover", "ambassador", "creative_direction", "collection_praise"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-03-002",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Favorable Thai-language editorial coverage of GucciCore Cruise 2027 show highlights — New York homecoming narrative, celebrity attendance, and Demna's wardrobe concept treated positively.",
+    "signal_tags": ["editorial", "runway_coverage", "cruise_2027", "celebrity_front_row"],
+    "confidence": 0.82
+  },
+  {
+    "id": "SEA-2026-07-03-003",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Tatler Asia explicitly cites Gulf Kanawut's FW2026 look as 'most widely shared moment' of Milan show and frames partnership as evidence of Gucci's growing SEA audience priority — headline-level ambassador enthusiasm.",
+    "signal_tags": ["ambassador", "viral_moment", "SEA_market_priority", "FW2026", "editorial_praise"],
+    "confidence": 0.92
+  },
+  {
+    "id": "SEA-2026-07-03-004",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Positive but incidental Gucci mention within a broader brand portfolio profile; ambassador engagement noted as digital and regional rather than headline-level.",
+    "signal_tags": ["ambassador", "digital_activation", "portfolio_mention"],
+    "confidence": 0.78
+  },
+  {
+    "id": "SEA-2026-07-03-005",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "L'Officiel Singapore reports Generation Gucci Singapore launch 'sent social media into a frenzy' — viral event energy, rising fashion icon association, and strong product moment (Paparazzo bag).",
+    "signal_tags": ["launch_event", "viral_social", "product_placement", "celebrity_appearance"],
+    "confidence": 0.90
+  },
+  {
+    "id": "SEA-2026-07-03-006",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Positive event coverage of Billkin at SS2026 launch; boutique redesign framed as brand investment signal; no critical or negative tone.",
+    "signal_tags": ["launch_event", "ambassador", "boutique_redesign", "flagship"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-03-007",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "ELLE Singapore headline declares Gucci 'Did The Impossible' making Times Square feel luxurious — clear headline-level critical acclaim for Demna's GucciCore concept and star-studded show.",
+    "signal_tags": ["critical_acclaim", "headline_praise", "creative_direction", "GucciCore", "celebrity_lineup"],
+    "confidence": 0.92
+  },
+  {
+    "id": "SEA-2026-07-03-008",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Positive Tatler Asia coverage of La Famiglia VIP preview; heritage pieces and ambassador Billkin framed favorably; 'peak Gucciness' phrasing is editorial enthusiasm.",
+    "signal_tags": ["editorial", "heritage_pieces", "ambassador", "VIP_event", "Singapore_flagship"],
+    "confidence": 0.83
+  },
+  {
+    "id": "SEA-2026-07-03-009",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Elle Indonesia frames Demna's FW2026 debut as marking 'a new era' — favorable editorial tone toward creative transition; collection details (Kate Moss closing, innovative hems) presented approvingly.",
+    "signal_tags": ["editorial", "creative_direction", "new_era_narrative", "FW2026"],
+    "confidence": 0.82
+  },
+  {
+    "id": "SEA-2026-07-03-010",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Positive Indonesian editorial runway review of Cruise 2026; archival heritage and structural design praised; no criticism present.",
+    "signal_tags": ["editorial", "runway_review", "archival_heritage", "cruise_2026"],
+    "confidence": 0.80
+  },
+  {
+    "id": "SEA-2026-07-03-011",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Hypebeast editorial enthusiastically describes GucciCore Times Square spectacle — fictional sub-brands and leather-key invitations treated as creative flourishes; comments=0 so engagement signal is absent, keeping magnitude at 0.5.",
+    "signal_tags": ["editorial", "runway_coverage", "GucciCore", "Times_Square", "Hypebeast"],
+    "confidence": 0.80
+  },
+  {
+    "id": "SEA-2026-07-03-012",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Yahoo Finance/Reuters headline: Gucci Q1 2026 revenue −14% reported / −8% comparable to €1.34bn, explicitly identified as drag on Kering group; Asia-Pacific flagged as key challenge — clear negative earnings/momentum press.",
+    "signal_tags": ["earnings_decline", "revenue_miss", "APAC_weakness", "Kering_drag", "financial_news"],
+    "confidence": 0.97
+  },
+  {
+    "id": "SEA-2026-07-03-013",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "PhilSTAR Life positive event coverage of Gucci holiday event in Manila with A-list Filipino celebrities; standout product (Giglio bag) highlighted approvingly.",
+    "signal_tags": ["launch_event", "celebrity_attendance", "Manila", "product_highlight"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-03-014",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Mega Asia frames MBS SS26 VIP preview as signal of 'long-term investment in Singapore as SEA flagship hub' — positive investment narrative alongside ambassador and boutique coverage.",
+    "signal_tags": ["VIP_event", "ambassador", "flagship_investment", "Singapore", "boutique_redesign"],
+    "confidence": 0.83
+  }
+]

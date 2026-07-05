@@ -1,0 +1,254 @@
+{
+  "event_id": "gucci-cruise-2027-times-square",
+  "checkpoint": "retro",
+  "generated_at": "2026-07-03",
+  "weeks_elapsed": 7,
+  "items": [
+    {
+      "id": "RETRO-NA-001",
+      "region": "NA",
+      "source": "AnOther Magazine",
+      "tier": "T2",
+      "url": "https://www.anothermag.com/fashion-beauty/17184/gucci-cruise-2027-review-new-york-demna-guccicore",
+      "published_at": "2026-05-17",
+      "summary": "Enthusiastic endorsement calling the show 'hardcore' and 'euphoric.' Praised Demna for moving from body-focused to personality-driven storytelling. Framed the collection as evidence that Demna understands how to dress 'lots and lots of people, in all kinds of different ways.'",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NA-002",
+      "region": "NA",
+      "source": "Coveteur",
+      "tier": "T2",
+      "url": "https://coveteur.com/gucci-cruise-2027-review",
+      "published_at": "2026-05-17",
+      "summary": "Positive verdict focusing on commercial viability. Noted standout pieces including monogrammed hobo bags, shiny fuchsia single-breasted suit, GG logo stilettos, and emblazoned neckties. Implied critique that success depended heavily on spectacle and celebrity rather than pure design innovation.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NA-003",
+      "region": "NA",
+      "source": "The Zoe Report",
+      "tier": "T2",
+      "url": "https://www.thezoereport.com/fashion/gucci-cruise-2027-guccicore-review",
+      "published_at": "2026-05-17",
+      "summary": "Described as 'Demna's most commercially oriented and wearable Gucci work to date.' Praised the spectacle and star-studded casting including Tom Brady, Paris Hilton, and Cindy Crawford. Framed GucciCore as a strategic pivot to everyday fundamentals.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NA-004",
+      "region": "NA",
+      "source": "Our Culture Magazine",
+      "tier": "T2",
+      "url": "https://ourculturemag.com/2026/05/19/inside-times-square-sorry-inside-gucci-cruise-2027/",
+      "published_at": "2026-05-19",
+      "summary": "Review noted the deliberate collapse between luxury and mass consumerism as a brand statement. Identified references to Tom Ford tailoring and Alessandro Michele's web stripe motifs. Standout pieces included oversized furs, trench coats, and sheer finale looks.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NA-005",
+      "region": "NA",
+      "source": "WWD",
+      "tier": "T1",
+      "url": "https://wwd.com/runway/resort-2027/new-york/gucci/review/",
+      "published_at": "2026-05-17",
+      "summary": "Full collection review highlighting GucciCore as the culmination of Demna's prior studies of the house. Praised commercial clarity and archetypal pieces including the peacoat and pencil skirt. Front row attendance documented: Kim Kardashian, Mariah Carey, Lindsay Lohan, Anna Wintour.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NA-006",
+      "region": "NA",
+      "source": "W Magazine",
+      "tier": "T1",
+      "url": "https://www.wmagazine.com/fashion/gucci-cruise-2027-times-square-guccicore-runway-photos",
+      "published_at": "2026-05-17",
+      "summary": "Described GucciCore garments as pieces audiences will 'want to inhabit the moment they drop.' Positive framing of the Times Square venue as brand statement.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NA-007",
+      "region": "NA",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "url": "https://www.businessoffashion.com/reviews/fashion-week/gucci-cruise-2027-demna/",
+      "published_at": "2026-05-17",
+      "summary": "Called Demna's revamp of Gucci as bringing it 'further into focus.' Balanced commercial ambition with creative assessment. Noted the show drove visibility for the average consumer as luxury brands look to the Western market amid China/Europe slowdowns.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NA-008",
+      "region": "NA",
+      "source": "Backrow (Jenny Odell critique)",
+      "tier": "T3",
+      "url": "https://www.backrow.net/p/gucci-s-looksmaxxed-times-square-slop",
+      "published_at": "2026-05-18",
+      "summary": "Sharp contrarian critique: dismissed the collection as 'utterly mid fashion' with 'looksmaxxed makeup, giant furs, snakeskin-print pants' as derivative self-conscious styling. Questioned whether celebrity attendance and viral content constituted manufactured hype rather than design merit. Noted uncertainty about Demna's sincerity.",
+      "sentiment": "negative"
+    },
+    {
+      "id": "RETRO-NA-009",
+      "region": "NA",
+      "source": "Lampoon Magazine",
+      "tier": "T2",
+      "url": "https://lampoonmagazine.com/cruise-collections-2027-america-dior-gucci-louis-vuitton/",
+      "published_at": "2026-05-20",
+      "summary": "Ideological critique: highlighted contradiction between Demna's prior anti-Trump positioning at Balenciaga and staging spectacle in Trump's New York. Argued Times Square was chosen purely for visibility amplification, not cultural meaning. Concluded luxury fashion's contradictions are features, not bugs.",
+      "sentiment": "negative"
+    },
+    {
+      "id": "RETRO-NA-010",
+      "region": "NA",
+      "source": "Men's Folio (Singapore/SEA)",
+      "tier": "T2",
+      "url": "https://www.mens-folio.com/style/gucci-cruise-2027-the-spectacle-or-the-spectated/",
+      "published_at": "2026-05-19",
+      "summary": "Nuanced analysis acknowledging conceptual success while maintaining skepticism about commercial translation. Cited Kering's 8% revenue decline as context. Key question: whether spectacular presentation translates once 'the traffic starts moving again.' Called the show 'a wager, and likely an expensive one.'",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "RETRO-NA-011",
+      "region": "NA",
+      "source": "Dazed",
+      "tier": "T2",
+      "url": "https://www.dazeddigital.com/fashion/article/70279/1/gucci-cruise-2026-times-square-new-york-demna-guccicore-casting",
+      "published_at": "2026-05-17",
+      "summary": "Focused on casting diversity and Demna's urban authenticity vision. Quoted Demna: 'To do something that felt real to New York, I wanted to show this collection on the kind of people you might pass on the street.' Noted AI-generated promotional content on screens as deliberate provocation.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NA-012",
+      "region": "NA",
+      "source": "Azat.tv (strategic analysis)",
+      "tier": "T3",
+      "url": "https://azat.tv/en/gucci-times-square-cruise-2027-demna-analysis/",
+      "published_at": "2026-05-18",
+      "summary": "Strategic analysis framing GucciCore as deliberate pivot from maximalism toward accessible fundamentals. Identified risk that saturation strategy could alienate luxury traditionalists. Noted AI-generated garden scenes in show as self-critique of consumer culture.",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "RETRO-NA-013",
+      "region": "NA",
+      "source": "Fashion Week Daily",
+      "tier": "T2",
+      "url": "https://fashionweekdaily.com/celebs-celebrities-gucci-cruise-2027/",
+      "published_at": "2026-05-17",
+      "summary": "Celebrity documentation. Front row included Kim Kardashian, Mariah Carey, Lindsay Lohan and husband Bader Shammas, Iman, Stormzy, Willy Chavarria, Shawn Mendes, Alix Earle. Runway walkers: Paris Hilton, Tom Brady, Cindy Crawford, Emily Ratajkowski, Dree Hemingway, Sophia Lamar.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NEA-001",
+      "region": "NEA",
+      "source": "OverseasIdol / fan media (China/Korea)",
+      "tier": "T3",
+      "url": "https://overseasidol.com/en/lee-young-ae-and-zhang-linghe-go-viral-after-sitting-together-at-gucci-cruise-2027/",
+      "published_at": "2026-05-17",
+      "summary": "Lee Young Ae (Korea) and Zhang Linghe (China) seated together went viral in NEA markets. Zhang Linghe, attending for third consecutive year, did multiple Weibo/Instagram livestreams late-night Asia time. Fan volume caused stream lag. Moment described by netizens as a 'fateful encounter.'",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-NEA-002",
+      "region": "NEA",
+      "source": "WION News",
+      "tier": "T2",
+      "url": "https://www.wionews.com/entertainment/gucci-cruise-2027-pursuit-of-jade-star-zhang-linghe-k-drama-actress-lee-young-ae-steal-the-show-at-times-square-1779082513932",
+      "published_at": "2026-05-17",
+      "summary": "Reported Zhang Linghe and Lee Young Ae 'stealing the show' in NEA coverage. Zhang wore the Gucci Primavera FW26 collection, described as first person globally to wear the outfit. Korean actress Lee Young Ae generated Korean fan community engagement.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-SEA-001",
+      "region": "SEA",
+      "source": "Metro Style (Philippines)",
+      "tier": "T2",
+      "url": "https://metro.style/fashion/2026/5/17/zhang-linghe-anne-curtis-davika-hoorne-gucci-cruise-2026-new-york-1400",
+      "published_at": "2026-05-17",
+      "summary": "Framed as 'Asian Power' moment with Anne Curtis (Philippines), Davika Hoorne (Thailand), Zhang Linghe (China) all attending. Filipino and Thai media produced extensive coverage. Anne Curtis posted social video with Davika doing outfit check.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-SEA-002",
+      "region": "SEA",
+      "source": "L'Officiel Singapore",
+      "tier": "T2",
+      "url": "https://www.lofficielsingapore.com/fashion/guccicore-anne-curtis-outfits-new-york-celebrity-fashion-cruise-2027",
+      "published_at": "2026-05-18",
+      "summary": "Documented all outfits worn by Anne Curtis at GucciCore New York events. Coverage emphasis on wearable styling validation by regional celebrity. Positive framing of GucciCore's applicability beyond Western markets.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-SEA-003",
+      "region": "SEA",
+      "source": "Elle Singapore",
+      "tier": "T2",
+      "url": "https://elle.com.sg/fashion/celebrity-style/gucci-cruise-celebrities-2027-davika-hoorne-shawn-mendes-anne-curtis/",
+      "published_at": "2026-05-18",
+      "summary": "Spotlighted Davika Hoorne, Shawn Mendes, and Anne Curtis. Thai and Filipino SEA markets received dedicated regional coverage emphasizing local ambassador presence at global show.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-EU-001",
+      "region": "EU",
+      "source": "Vogue Scandinavia",
+      "tier": "T2",
+      "url": "https://www.voguescandinavia.com/articles/gucci-cruise-2027-review",
+      "published_at": "2026-05-17",
+      "summary": "Editor-in-chief Martina Bonnier's ceremonial and celebratory piece. Emphasized boldness of Times Square venue choice and Gucci's historical connection to New York since 1953. Tone celebratory rather than critically analytical. Noted ~600 invited guests.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-EU-002",
+      "region": "EU",
+      "source": "Lampoon Magazine (Italy)",
+      "tier": "T2",
+      "url": "https://lampoonmagazine.com/cruise-collections-2027-america-dior-gucci-louis-vuitton/",
+      "published_at": "2026-05-20",
+      "summary": "Italian critical perspective challenging the ideological logic of American visibility-seeking. Viewed the Times Square choice as the fashion system functioning as commercial machine rather than cultural statement. Most skeptical EU voice.",
+      "sentiment": "negative"
+    },
+    {
+      "id": "RETRO-COMMERCIAL-001",
+      "region": "GLOBAL",
+      "source": "WWD (Kering Q1 2026 financial results)",
+      "tier": "T1",
+      "url": "https://wwd.com/business-news/financial/kering-q1-2026-results-meo-1238911937/",
+      "published_at": "2026-04-14",
+      "summary": "Kering Q1 2026 revenue -6% to €3.57B; Gucci -14.3% reported / -8% organic to €1.35B. NA was bright spot +9%. CFO cited upcoming NY Cruise show as 'key milestone' for recovery. Recovery described as 'gradual.'",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "RETRO-COMMERCIAL-002",
+      "region": "GLOBAL",
+      "source": "Retail Boss / investor analysis",
+      "tier": "T3",
+      "url": "https://retailboss.co/retailboss-co-luxury-kering-gucci-turnaround-2026/",
+      "published_at": "2026-05-10",
+      "summary": "Kering's ReconKering roadmap to 2030 (presented April 16, Florence Capital Markets Day): Phase 1 structural reset by end-2026, Phase 2 reconstruction through 2028, Phase 3 return to competitive leadership by 2030. Cruise 2027 positioned as Phase 1 execution milestone.",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "RETRO-COMMERCIAL-003",
+      "region": "NA",
+      "source": "Gucci official / fashion reporting",
+      "tier": "T1",
+      "url": "https://www.runwaylive.com/gucci-cruise-2027-demna-times-square-takeover.html",
+      "published_at": "2026-05-17",
+      "summary": "GucciCore described as permanent core wardrobe (not seasonal), evolving over time. Gucci NY limited-edition capsule launched May 17 exclusively at Fifth Avenue, Wooster Street, Meatpacking boutiques, Saks Fifth Avenue, Bloomingdale's, and gucci.com. First permanent-wardrobe architecture in Demna's tenure.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "RETRO-COMMERCIAL-004",
+      "region": "GLOBAL",
+      "source": "CNBC",
+      "tier": "T1",
+      "url": "https://www.cnbc.com/2026/02/10/gucci-kering-earnings-stock-sales-q4-fy-new-ceo.html",
+      "published_at": "2026-02-10",
+      "summary": "Kering shares jumped 12% on new CEO Luca de Meo appointment and Q4 results beating estimates. Recovery bet centered on Demna-led creative turnaround and de Meo's operational discipline.",
+      "sentiment": "positive"
+    }
+  ],
+  "aggregate_sentiment": {
+    "positive": 16,
+    "neutral": 4,
+    "negative": 3,
+    "notes": "Mainstream fashion press consensus is strongly positive on spectacle and commercial direction. Contrarian voices (Backrow, Lampoon) raise structural/ideological critiques. NEA and SEA regional amplification via celebrity ambassadors was notably effective. Sell-through data unavailable (미확인); Q2 2026 Kering financials not yet published as of 2026-07-03."
+  }
+}

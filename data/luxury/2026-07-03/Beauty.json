@@ -1,0 +1,114 @@
+{
+  "findings": [
+    {
+      "brand": "L'Oreal Luxe / Kering",
+      "event_type": "acquisition",
+      "headline": "L'Oreal completes 4.6 billion dollar purchase of Kering Beaute, gaining Creed ownership and 50-year licenses for Balenciaga and Bottega Veneta beauty; Gucci beauty license to transfer from Coty upon 2028 expiry",
+      "url": "https://www.loreal.com/en/press-release/group/loreal-completes-the-acquisition-of-kering-beaute/",
+      "source": "L'Oreal official press release",
+      "tier": "T1",
+      "published_at": "2026-03-31",
+      "why_it_matters": "구찌 뷰티 라이선스가 2028년 이후 L'Oreal로 이관 확정됨에 따라, 현 운영사 Coty와의 분쟁 장기화가 브랜드 연속성에 리스크로 작용하며 구찌 뷰티 전략 재설계 시급",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Coty / Gucci Beauty",
+      "event_type": "legal dispute",
+      "headline": "Coty's UK Commercial Court lawsuit against Kering and Gucci over beauty license remains pending; Coty holds roughly 600 million dollars in annual Gucci retail sales at risk through 2028 contract expiry",
+      "url": "https://www.thefashionlaw.com/gucci-beauty-clash-puts-luxury-licensing-under-the-microscope/",
+      "source": "The Fashion Law",
+      "tier": "T1",
+      "published_at": "2026-03-31",
+      "why_it_matters": "구찌 뷰티 라이선스 법적 분쟁이 해결되지 않아 제품 출시·마케팅 연속성이 불안정하며, Coty의 사업 축소 리스크가 구찌 뷰티 시장 지위에 직접 영향 가능",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "L'Oreal Luxe (Maison Margiela)",
+      "event_type": "product launch",
+      "headline": "Maison Margiela Scentsorium haute parfumerie collection of six genderless fragrances launched at 330 euros for 75ml, positioning L'Oreal Luxe in ultra-premium scent territory above the Replica line",
+      "url": "https://hypebeast.com/2026/4/maison-margiela-haute-parfumerie-scentsorium-collection-launch",
+      "source": "Hypebeast",
+      "tier": "T2",
+      "published_at": "2026-04-01",
+      "why_it_matters": "L'Oreal이 자체 포트폴리오 내에서 300유로대 오트 파르퓨므리를 확장하며, 구찌 뷰티가 Coty 라이선스 하에 공략 중인 프레스티지 향수 세그먼트에서 직접 경쟁 심화",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "L'Oreal",
+      "event_type": "strategic partnership",
+      "headline": "L'Oreal and OpenAI announce AI collaboration at VivaTech 2026: ChatGPT product discovery integration for L'Oreal brands including Lancome, plus AI-powered skin microbiome research for La Roche-Posay",
+      "url": "https://www.loreal.com/en/press-release/research-and-innovation/l-oreal-and-openai-join-forces-for-transformation-in-beauty-with-ai/",
+      "source": "L'Oreal official press release",
+      "tier": "T1",
+      "published_at": "2026-06-17",
+      "why_it_matters": "L'Oreal이 ChatGPT 내 뷰티 제품 추천 채널을 선점함으로써 AI 기반 소비자 발견 경쟁에서 구찌 뷰티 등 소규모 라이선스 브랜드 대비 구조적 우위를 확보",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Estee Lauder (Tom Ford Beauty)",
+      "event_type": "award / recognition",
+      "headline": "Tom Ford Oud Voyager Eau de Parfum wins Fragrance of the Year Ultra Luxury at 2026 Fragrance Foundation Awards; ELC fragrance portfolio records plus 10 percent organic sales growth through Q3 FY2026",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/6-17-2026",
+      "source": "Estee Lauder Companies official newsroom",
+      "tier": "T1",
+      "published_at": "2026-06-18",
+      "why_it_matters": "Tom Ford 울트라 럭셔리 향수 수상으로 ELC가 프레스티지 향수 권위를 강화하며, 구찌 뷰티가 향후 L'Oreal 이관 후 경쟁해야 할 초고가 향수 시장에서의 벤치마크 기준을 높임",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Estee Lauder Companies",
+      "event_type": "infrastructure / innovation",
+      "headline": "ELC opens Global Fragrance Atelier in Paris combining AI-enabled neuroscience modeling and olfactive research to cut fragrance development lead times by up to 50 percent across Tom Ford, Jo Malone, Le Labo and Kilian Paris",
+      "url": "https://cosmeticsbusiness.com/estee-lauder-companies-opens-fragrance-atelier",
+      "source": "Cosmetics Business",
+      "tier": "T2",
+      "published_at": "2025-10-14",
+      "why_it_matters": "ELC가 파리 향수 R&D 인프라를 AI로 고도화하며 신제품 속도와 품질을 동시에 높임으로써, 구찌 뷰티가 라이선스 전환 후 L'Oreal과 경쟁 시 기술 격차를 고려해야 함",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Rabanne (Puig)",
+      "event_type": "product launch",
+      "headline": "Rabanne to launch 1 Million Black fragrance targeting Gen Z with woody-vanilla-tropical accord; Italian rollout August 5, US launch September 1 with model Thatcher Thornton as ambassador; projected to reach 50 percent of original 1 Million revenue within five years",
+      "url": "https://finance.yahoo.com/media-advertising/articles/rabanne-president-talks-strategy-readies-191201857.html",
+      "source": "WWD via Yahoo Finance",
+      "tier": "T1",
+      "published_at": "2026-07-01",
+      "why_it_matters": "라반느가 Gen Z 겨냥 블록버스터 향수 확장으로 남성 프레스티지 향수 시장 점유율을 공격적으로 늘리며, 구찌 뷰티 남성향 라인업과 동일 소비자층을 직접 겨냥",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Balmain Beauty (Estee Lauder)",
+      "event_type": "product launch",
+      "headline": "Balmain Beauty's Destin de Balmain first prestige fragrance launched February 2026 across Ulta, Macy's, Selfridges and Douglas in roughly 5,000 doors by end of June, marking ELC's expansion into fashion-house fragrance licensing",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/02-20-2026-073007790",
+      "source": "Estee Lauder Companies official newsroom",
+      "tier": "T1",
+      "published_at": "2026-02-20",
+      "why_it_matters": "ELC가 패션하우스 향수 라이선스 영역을 Balmain으로 확장하며 L'Oreal-Kering 연합과 유사한 패션-뷰티 복합 포트폴리오를 구축, 구찌 뷰티의 포지셔닝 경쟁 환경이 양쪽에서 압박을 받는 구도",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH (BDK Parfums)",
+      "event_type": "investment / M&A",
+      "headline": "LVMH Luxury Ventures took minority stake in niche French fragrance brand BDK Parfums, known for Gris Charnel and Rouge Smoking, with 45 percent year-over-year sales growth; Dubai boutique and Southeast Asia launch planned for 2026",
+      "url": "https://www.businessoffashion.com/news/beauty/lvmh-bdk-parfums-luxury-investment/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2025-12-01",
+      "why_it_matters": "LVMH가 틈새 향수 부문 투자를 통해 구찌 뷰티의 향후 니치 포지셔닝 전략이 겨냥하는 초고가 독립 브랜드 세그먼트를 선점",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "L'Oreal Luxe (overall)",
+      "event_type": "earnings / market signal",
+      "headline": "L'Oreal Luxe Q1 2026 sales significantly outpaced the market with fragrance as the standout growth engine; Prada Paradigme, YSL Libre and Valentino Born in Roma drove exceptional growth alongside new Emporio Armani Power of You launch",
+      "url": "https://www.loreal-finance.com/eng/press-release/first-quarter-2026-sales",
+      "source": "L'Oreal Finance",
+      "tier": "T1",
+      "published_at": "2026-04-22",
+      "why_it_matters": "L'Oreal Luxe가 멀티-패션하우스 향수 포트폴리오로 시장 성장을 상회하며, 구찌 뷰티 라이선스 이관 후 L'Oreal이 구찌 향수를 얼마나 빠르게 성장 엔진으로 전환할 수 있는지 가늠할 수 있는 벤치마크",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

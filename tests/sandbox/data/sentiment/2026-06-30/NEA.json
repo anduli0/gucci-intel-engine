@@ -1,0 +1,35 @@
+[
+  {
+    "id": "nea-2026-06-30-01",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-06-30-02",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-06-30-03",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "na-2026-06-30-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "na-2026-06-30-02",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "na-2026-06-30-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  }
+]

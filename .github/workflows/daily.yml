@@ -1,0 +1,64 @@
+name: daily-intelligence
+
+on:
+  schedule:
+    - cron: '0 23 * * *'   # 23:00 UTC = 08:00 KST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-run
+  cancel-in-progress: false
+
+jobs:
+  intelligence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    env:
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      TZ: Asia/Seoul
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Run daily pipeline
+        run: bash scripts/cloud-daily.sh
+
+      - name: Commit data state back to this repo
+        run: |
+          git config user.name "gucci-intel-bot"
+          git config user.email "minkyu494@gmail.com"
+          git add data
+          git commit -m "data: $(date +%F) daily cycle" || echo "no data changes"
+          git pull --rebase origin main || true
+          git push || echo "push skipped"
+
+      - name: Publish site (GitHub Pages repo)
+        env:
+          DEPLOY_KEY: ${{ secrets.SITE_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/deploy
+          chmod 600 ~/.ssh/deploy
+          ssh-keyscan github.com >> ~/.ssh/known_hosts 2>/dev/null
+          export GIT_SSH_COMMAND="ssh -i ~/.ssh/deploy -o IdentitiesOnly=yes"
+          git clone --depth 1 git@github.com:anduli0/gucci-intel-site.git site_repo
+          rsync -a --delete --exclude .git site_out/ site_repo/
+          cd site_repo
+          git config user.name "gucci-intel-bot"
+          git config user.email "minkyu494@gmail.com"
+          git add -A
+          git commit -m "cloud update $(date +'%F %H:%M')" || echo "no site changes"
+          git push

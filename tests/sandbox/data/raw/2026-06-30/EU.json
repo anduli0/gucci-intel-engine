@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "synthetic": true,
+      "id": "eu-2026-06-30-01",
+      "region": "EU",
+      "source": "Synthetic T1 Outlet",
+      "tier": "T1",
+      "url": "https://example.com/eu-2026-06-30-01",
+      "published_at": "2026-06-30",
+      "title": "Synthetic item eu-2026-06-30-01",
+      "summary": "Synthetic fixture item for pipeline verification.",
+      "reach": 300000,
+      "likes": 3000,
+      "comments": 300,
+      "shares": 150
+    },
+    {
+      "synthetic": true,
+      "id": "eu-2026-06-30-02",
+      "region": "EU",
+      "source": "Synthetic T2 Outlet",
+      "tier": "T2",
+      "url": "https://example.com/eu-2026-06-30-02",
+      "published_at": "2026-06-30",
+      "title": "Synthetic item eu-2026-06-30-02",
+      "summary": "Synthetic fixture item for pipeline verification.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 12,
+    "Louis Vuitton": 15,
+    "Dior": 10,
+    "Chanel": 9,
+    "Prada": 6,
+    "Bottega Veneta": 4,
+    "Saint Laurent": 5,
+    "Balenciaga": 3
+  }
+}

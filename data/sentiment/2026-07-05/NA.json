@@ -1,0 +1,151 @@
+{
+  "region": "NA",
+  "date": "2026-07-05",
+  "items": [
+    {
+      "id": "NA-2026-07-05-001",
+      "sentiment": 1,
+      "magnitude": 1.0,
+      "rationale": "BoF T1 trade press delivers favorable review of GucciCore Times Square show, praising commercial direction and celebrity draw — textbook positive trade-press criticism.",
+      "signal_tags": ["cruise-2027", "runway-show", "GucciCore", "Times-Square", "Demna", "celebrity", "trade-press-positive"],
+      "confidence": 0.95
+    },
+    {
+      "id": "NA-2026-07-05-002",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "Who What Wear lifestyle coverage frames the Times Square spectacle positively ('glam and the gritty'), reinforcing cultural cachet without critical depth.",
+      "signal_tags": ["cruise-2027", "GucciCore", "Times-Square", "spectacle", "lifestyle-press-positive"],
+      "confidence": 0.90
+    },
+    {
+      "id": "NA-2026-07-05-003",
+      "sentiment": 0,
+      "magnitude": 0.5,
+      "rationale": "Dazed reports factually on casting and AI-generated screen content; ambiguous 'provocative brand dialogue' framing provides no clear net positive or negative brand signal.",
+      "signal_tags": ["cruise-2027", "GucciCore", "casting", "AI-content", "informational"],
+      "confidence": 0.75
+    },
+    {
+      "id": "NA-2026-07-05-004",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "The Zoe Report praises casting diversity and historical brand continuity, delivering a positive collection review with mild critical depth.",
+      "signal_tags": ["cruise-2027", "GucciCore", "Demna", "review", "positive"],
+      "confidence": 0.88
+    },
+    {
+      "id": "NA-2026-07-05-005",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "Nylon covers Gucci Summer 2026 campaign positively, highlighting US-familiar cast and Flora heritage revival as connecting legacy to contemporary appeal.",
+      "signal_tags": ["summer-2026-campaign", "Flora-print", "Amelia-Gray", "Anok-Yai", "campaign-positive"],
+      "confidence": 0.88
+    },
+    {
+      "id": "NA-2026-07-05-006",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "The Impression delivers an overall positive campaign verdict; noted 'deliberate restraint' as a mild limitation, making this conditional positive at reduced magnitude.",
+      "signal_tags": ["summer-2026-campaign", "Flora-print", "campaign-review", "mild-positive"],
+      "confidence": 0.82
+    },
+    {
+      "id": "NA-2026-07-05-007",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "L'Officiel USA frames La Famiglia retail launch positively as 'bold, sophisticated vision' with see-now-buy-now accessibility in key NA flagships.",
+      "signal_tags": ["La-Famiglia", "Demna", "retail-launch", "see-now-buy-now", "positive"],
+      "confidence": 0.85
+    },
+    {
+      "id": "NA-2026-07-05-008",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "Hypebeast covers Generation Gucci campaign with enthusiasm among streetwear-adjacent readership; 'gritty glamour' framing generates genuine brand interest.",
+      "signal_tags": ["Generation-Gucci", "campaign", "Demna", "streetwear", "positive"],
+      "confidence": 0.87
+    },
+    {
+      "id": "NA-2026-07-05-009",
+      "sentiment": -1,
+      "magnitude": 1.0,
+      "rationale": "T1 Glossy headline 'Gucci isn't fixed yet' frames Kering Q1 results negatively; global Gucci down 8% comparable, 100+ store closures confirmed — negative earnings/momentum press per rubric despite NA bright spot.",
+      "signal_tags": ["Kering-Q1-2026", "financials", "store-closures", "restructuring", "negative-earnings"],
+      "confidence": 0.80
+    },
+    {
+      "id": "NA-2026-07-05-010",
+      "sentiment": -1,
+      "magnitude": 1.0,
+      "rationale": "WWD T1 'Gucci Still Sluggish' frames Q1 results as structural decline (-14.3% reported globally); over-distribution and reduced cultural relevance cited as ongoing problems.",
+      "signal_tags": ["Kering-Q1-2026", "financials", "Gucci-sales", "negative-earnings", "structural-weakness"],
+      "confidence": 0.85
+    },
+    {
+      "id": "NA-2026-07-05-011",
+      "sentiment": -1,
+      "magnitude": 0.5,
+      "rationale": "Documented backlash over AI model use — 'AI slop' labeling, reputational risk commentary — constitutes a brand controversy per rubric; amplified by US/global social media.",
+      "signal_tags": ["AI-campaign", "PRIMAVERA", "backlash", "controversy", "social-media-negative"],
+      "confidence": 0.85
+    },
+    {
+      "id": "NA-2026-07-05-012",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "NINGNING ambassador appointment covered substantively by Billboard with Met Gala 920-hour custom gown; genuine crossover appeal signal, magnitude damped per fandom spike rule.",
+      "signal_tags": ["NINGNING", "aespa", "brand-ambassador", "K-pop", "Met-Gala", "fandom-damped"],
+      "confidence": 0.80
+    },
+    {
+      "id": "NA-2026-07-05-013",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "WWD T1 strategic analysis validates Gucci's NA show placement as commercially sound amid 4.5% projected US luxury growth — positive brand positioning signal.",
+      "signal_tags": ["US-market-strategy", "cruise-2027", "North-America-growth", "strategic-positive"],
+      "confidence": 0.82
+    },
+    {
+      "id": "NA-2026-07-05-014",
+      "sentiment": -1,
+      "magnitude": 1.0,
+      "rationale": "Tariff analysis identifies Kering/Gucci as particularly vulnerable with 24% US revenue exposure and no US manufacturing; pricing pressure and structural risk to NA margin confirmed.",
+      "signal_tags": ["tariffs", "trade-policy", "Kering-exposure", "pricing-pressure", "macro-negative"],
+      "confidence": 0.88
+    },
+    {
+      "id": "NA-2026-07-05-015",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "PurseForum thread shows genuine US consumer purchase intent on Flora revival; multiple users citing retail availability and conversion — authentic demand signal from T3 community.",
+      "signal_tags": ["Flora-print", "community-buzz", "purchase-intent", "US-consumer", "positive"],
+      "confidence": 0.80
+    },
+    {
+      "id": "NA-2026-07-05-016",
+      "sentiment": 1,
+      "magnitude": 0.5,
+      "rationale": "Hypebeast announcement of Cruise 2027 New York show is positively framed via historical brand significance; mildly positive given largely informational/scheduling nature.",
+      "signal_tags": ["cruise-2027", "announcement", "New-York", "Demna", "mild-positive"],
+      "confidence": 0.72
+    },
+    {
+      "id": "NA-2026-07-05-017",
+      "sentiment": 1,
+      "magnitude": 1.0,
+      "rationale": "AnOther Magazine delivers an emotionally strong positive review — 'euphoric,' 'unmistakably Gucci' — widely shared as validation of Gucci's cultural relevance reclaim in the US.",
+      "signal_tags": ["cruise-2027", "GucciCore", "review", "cultural-relevance", "strong-positive"],
+      "confidence": 0.92
+    }
+  ],
+  "aggregate": {
+    "weighted_sentiment": 0.206,
+    "positive_count": 12,
+    "neutral_count": 1,
+    "negative_count": 4,
+    "dominant_sentiment": "positive",
+    "top_positive_item": "NA-2026-07-05-001",
+    "top_negative_item": "NA-2026-07-05-014"
+  }
+}

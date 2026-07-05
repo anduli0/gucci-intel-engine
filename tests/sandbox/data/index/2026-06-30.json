@@ -1,0 +1,95 @@
+{
+  "date": "2026-06-30",
+  "regions": {
+    "NEA": {
+      "GMAI": 61.38,
+      "band": "우호",
+      "NSS": 0.6668,
+      "components": {
+        "sentiment": 0.8334,
+        "buzz": 0.5,
+        "engagement": 0.675,
+        "sov": 0.1875
+      },
+      "sov_known": true,
+      "counts": {
+        "pos": 2,
+        "neu": 1,
+        "neg": 0
+      },
+      "n_items": 3,
+      "delta": null
+    },
+    "SEA": {
+      "GMAI": 65.05,
+      "band": "우호",
+      "NSS": 0.8302,
+      "components": {
+        "sentiment": 0.9151,
+        "buzz": 0.5,
+        "engagement": 0.675,
+        "sov": 0.1875
+      },
+      "sov_known": true,
+      "counts": {
+        "pos": 2,
+        "neu": 0,
+        "neg": 0
+      },
+      "n_items": 2,
+      "delta": null
+    },
+    "NA": {
+      "GMAI": 52.63,
+      "band": "중립",
+      "NSS": 0.3193,
+      "components": {
+        "sentiment": 0.6597,
+        "buzz": 0.5,
+        "engagement": 0.613,
+        "sov": 0.1875
+      },
+      "sov_known": true,
+      "counts": {
+        "pos": 1,
+        "neu": 1,
+        "neg": 1
+      },
+      "n_items": 3,
+      "delta": null
+    },
+    "EU": {
+      "GMAI": 61.91,
+      "band": "우호",
+      "NSS": 0.7228,
+      "components": {
+        "sentiment": 0.8614,
+        "buzz": 0.5,
+        "engagement": 0.6265,
+        "sov": 0.1875
+      },
+      "sov_known": true,
+      "counts": {
+        "pos": 1,
+        "neu": 1,
+        "neg": 0
+      },
+      "n_items": 2,
+      "delta": null
+    }
+  },
+  "global": {
+    "GMAI": 59.78,
+    "band": "중립",
+    "delta": null,
+    "sentiment_weighted": 0.8076
+  },
+  "missing_blocks": [],
+  "triggers": [],
+  "region_weights_used": {
+    "NEA": 0.35,
+    "SEA": 0.12,
+    "NA": 0.25,
+    "EU": 0.28
+  }
+}

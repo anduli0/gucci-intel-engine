@@ -1,0 +1,24 @@
+[
+  {
+    "id": "eu-2026-07-01-01",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-01-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  }
+]

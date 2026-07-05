@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "synthetic": true,
+      "id": "na-2026-06-30-01",
+      "region": "NA",
+      "source": "Synthetic T1 Outlet",
+      "tier": "T1",
+      "url": "https://example.com/na-2026-06-30-01",
+      "published_at": "2026-06-30",
+      "title": "Synthetic item na-2026-06-30-01",
+      "summary": "Synthetic fixture item for pipeline verification.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "synthetic": true,
+      "id": "na-2026-06-30-02",
+      "region": "NA",
+      "source": "Synthetic T2 Outlet",
+      "tier": "T2",
+      "url": "https://example.com/na-2026-06-30-02",
+      "published_at": "2026-06-30",
+      "title": "Synthetic item na-2026-06-30-02",
+      "summary": "Synthetic fixture item for pipeline verification.",
+      "reach": 150000,
+      "likes": 1500,
+      "comments": 150,
+      "shares": 75
+    },
+    {
+      "synthetic": true,
+      "id": "na-2026-06-30-03",
+      "region": "NA",
+      "source": "Synthetic T3 Outlet",
+      "tier": "T3",
+      "url": "https://example.com/na-2026-06-30-03",
+      "published_at": "2026-06-30",
+      "title": "Synthetic item na-2026-06-30-03",
+      "summary": "Synthetic fixture item for pipeline verification.",
+      "reach": 40000,
+      "likes": 400,
+      "comments": 40,
+      "shares": 20
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 12,
+    "Louis Vuitton": 15,
+    "Dior": 10,
+    "Chanel": 9,
+    "Prada": 6,
+    "Bottega Veneta": 4,
+    "Saint Laurent": 5,
+    "Balenciaga": 3
+  }
+}

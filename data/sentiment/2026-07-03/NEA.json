@@ -1,0 +1,161 @@
+[
+  {
+    "id": "NEA-2026-07-03-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned press release (Kering Japan); per rubric, brand-owned promo copy is neutral — self-praise is not public opinion.",
+    "signal_tags": [
+      "brand_owned",
+      "product_launch",
+      "japan_exclusive",
+      "SLG"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "NEA-2026-07-03-002",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Third-party (Allkpop) reports immediate global sell-out driven by Jin ambassador effect; viral trending on Yahoo Japan — clear, headline-level positive demand signal.",
+    "signal_tags": [
+      "ambassador_effect",
+      "sellout",
+      "viral",
+      "kpop",
+      "product_demand"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "NEA-2026-07-03-003",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party (Esquire Korea) positive cultural sponsorship coverage — Gucci official partner for 4th consecutive year at Baeksang Awards, establishing strong K-entertainment affiliation.",
+    "signal_tags": [
+      "cultural_sponsorship",
+      "awards_partnership",
+      "korea",
+      "brand_equity"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-03-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Third-party (Esquire Korea) factual product-campaign description; no evaluative praise or criticism, plain reporting of SS26 eyewear imagery and availability.",
+    "signal_tags": [
+      "product_launch",
+      "eyewear",
+      "campaign_coverage",
+      "factual"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-03-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade-press item (Supple.kr/MoneyToday) reporting Korea-exclusive optical collection SKUs and distribution; no sentiment language, plain product announcement.",
+    "signal_tags": [
+      "product_launch",
+      "eyewear",
+      "korea_exclusive",
+      "factual"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-03-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Luxury Daily (T1) reports Asia-Pacific retail down 4% with Gucci cited as group drag; mild negative — mixed article (jewelry positive) but Gucci-specific signal is negative.",
+    "signal_tags": [
+      "apac_decline",
+      "earnings",
+      "gucci_drag",
+      "negative_momentum"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-03-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Jing Daily (T1) frames 2026 as 'reset year' with Kering 'steadying'; Gucci repositioning effort cited neutrally — cautiously optimistic but rooted in prior decline; insufficient clarity for +1, per 'when in doubt, neutral' rule.",
+    "signal_tags": [
+      "china_repositioning",
+      "reset_narrative",
+      "brand_strategy",
+      "factual_analysis"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-07-03-009",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party (nss magazine) reports Gucci 'reduced losses' in Q1 amid China luxury comeback; mild positive improvement signal from independent press in a positive sector context.",
+    "signal_tags": [
+      "china_recovery",
+      "loss_reduction",
+      "improvement_signal",
+      "sector_tailwind"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-03-010",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Third-party (X/WWD): Lee Know (Stray Kids) global ambassador appointment received 1.7M views, 71K reposts, 31K likes — viral, headline-level positive ambassador activation cementing dual K-pop strategy.",
+    "signal_tags": [
+      "ambassador_appointment",
+      "kpop",
+      "viral",
+      "high_engagement",
+      "stray_kids",
+      "brand_equity"
+    ],
+    "confidence": 0.97
+  },
+  {
+    "id": "NEA-2026-07-03-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned content (Gucci official Threads post); per rubric, brand-owned promo copy is neutral — self-promotional ambassador activation post.",
+    "signal_tags": [
+      "brand_owned",
+      "ambassador",
+      "cruise_show",
+      "korea"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "id": "NEA-2026-07-03-013",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Third-party arts press (Bijutsutecho) confirms Japan-exclusive Gucci x Yuko Higuchi collaboration sell-out tied to Jin's viral Weverse post and Yahoo Japan trending — headline-level positive collab/demand signal.",
+    "signal_tags": [
+      "collaboration",
+      "japan_exclusive",
+      "sellout",
+      "ambassador_effect",
+      "trending",
+      "kpop"
+    ],
+    "confidence": 0.93
+  }
+]

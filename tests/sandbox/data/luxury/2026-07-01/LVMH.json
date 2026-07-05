@@ -1,0 +1,27 @@
+{
+  "synthetic": true,
+  "findings": [
+    {
+      "brand": "Dior",
+      "event_type": "creative direction",
+      "headline": "디올 크리에이티브 디렉터 교체설 보도 (합성)",
+      "url": "https://example.com/dior-cd-rumor",
+      "source": "Synthetic T1 Outlet",
+      "tier": "T1",
+      "published_at": "2026-07-01",
+      "why_it_matters": "디렉터 공백기는 구찌가 크리에이티브 주도권을 가져올 수 있는 창",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "pricing",
+      "headline": "루이비통 주요 라인 5% 인상 발표 (합성)",
+      "url": "https://example.com/lv-price-hike",
+      "source": "Synthetic T2 Outlet",
+      "tier": "T2",
+      "published_at": "2026-07-01",
+      "why_it_matters": "인상 반발 여론이 커지면 구찌 가격 동결이 상대적 호감 포인트",
+      "relevance": "category trend"
+    }
+  ]
+}

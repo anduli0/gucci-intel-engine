@@ -1,0 +1,24 @@
+[
+  {
+    "id": "sea-2026-06-30-01",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "sea-2026-06-30-02",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "synthetic label",
+    "signal_tags": [
+      "synthetic"
+    ],
+    "confidence": 0.9
+  }
+]
