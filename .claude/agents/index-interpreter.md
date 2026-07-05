@@ -14,7 +14,7 @@ You own ALL index talk. The three daily reports divide strictly:
 
 READABILITY FIRST — this report must be understandable by someone who has NEVER seen an index before:
 - Open with a 3-4 line "오늘의 결론" in everyday language BEFORE any numbers: 오늘 구찌의 성적표를 한 문장으로, 어제보다 나은지, 어디가 좋고 어디가 나쁜지.
-- Include an early "지수를 읽는 법" section: explain GMAI like a 성적표/체온계 (0~100, 50이 보통, 높을수록 좋음), and each ingredient in one everyday sentence (감성=사람들이 좋게 말하는가, 화제=얼마나 많이 이야기되는가, 참여=반응이 얼마나 뜨거운가, 점유=경쟁자 대비 얼마나 이야기되는가).
+- Include an early "지수를 읽는 법" section: explain GMAI like a 성적표/체온계 (0~100, 50이 보통, 높을수록 좋음), and each ingredient in one everyday sentence (감성=사람들이 좋게 말하는가, 화제=뉴스·SNS·커뮤니티를 합쳐 얼마나 많이 이야기되는가[건수만], 참여=게시물 한 건당 반응이 얼마나 뜨거운가[좋아요·공유 등 보고된 수치만], 점유=경쟁자 대비 얼마나 이야기되는가). 화제와 참여는 서로 절대 섞이지 않는다(양 vs 강도)는 구분을 독자에게 한 번 짚어줄 것.
 - EVERY number must be paired with its plain meaning in the same sentence ("58.69점, 100점 만점에 중간을 조금 넘는 수준").
 - Short sentences. One idea per sentence. No untranslated jargon in the display text (아티팩트→착시/허수, 컴포넌트→재료, 델타→변화 폭, 밴드→구간 등; the English term may follow once in parentheses).
 - Prefer concrete comparisons ("이틀치 변화가 하루치처럼 보이는 착시") over statistical phrasing.

@@ -1,0 +1,98 @@
+{
+  "brand_group": "Independents",
+  "date": "2026-07-05",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Armani",
+      "event_type": "controversy",
+      "headline": "Armani Group disavows unauthorized 'King of Fashion' biopic",
+      "summary": "Two-time Palme d'Or winner Bille August is attached to direct 'Armani: The King of Fashion', a Giorgio Armani biopic produced by Andrea Iervolino. The Armani Group immediately distanced itself, saying it never authorized, supported or participated in the project.",
+      "url": "https://www.yahoo.com/entertainment/movies/articles/armani-movie-faces-huge-controversy-161731625.html",
+      "source": "Yahoo Entertainment",
+      "tier": "T2",
+      "published_at": "2026-07-02",
+      "why_it_matters": "창업자 사후 브랜드 이야기의 주도권을 놓고 벌어진 분쟁 — 구찌도 하우스 역사 콘텐츠의 관리 원칙을 미리 세워둘 필요가 있다.",
+      "why_it_matters_en": "A fight over who controls a founder's story after his death - Gucci should pre-define rules for house-history content.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Armani",
+      "event_type": "show",
+      "headline": "Armani Prive set for back-to-back shows at Paris couture week",
+      "summary": "Wallpaper's preview of the July 6-9 Paris haute couture calendar confirms Armani Prive will show twice back-to-back on Tuesday July 7, in a week packed with debuts including Pierpaolo Piccioli at Balenciaga and Duran Lantink at Jean Paul Gaultier.",
+      "url": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/haute-couture-week-aw-2026-what-to-expect-schedule",
+      "source": "Wallpaper*",
+      "tier": "T2",
+      "published_at": "2026-07-02",
+      "why_it_matters": "창업자 없이 맞는 시즌에도 쿠튀르 무대로 존재감을 지키는 전략 — 쿠튀르급 이벤트가 없는 구찌엔 화제성 공백이 커 보일 수 있는 주간이다.",
+      "why_it_matters_en": "Armani keeps couture-level visibility even post-founder; a spectacle-heavy week where Gucci has no comparable stage.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "OTB (Maison Margiela)",
+      "event_type": "industry",
+      "headline": "Martin Margiela's personal archive goes under the hammer during couture week",
+      "summary": "A landmark 200-piece auction of Martin Margiela's personal collection is set for July 9 in Paris, flagged in Wallpaper's couture-week preview, with the pre-sale exhibition running July 4-8 alongside the shows.",
+      "url": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/haute-couture-week-aw-2026-what-to-expect-schedule",
+      "source": "Wallpaper*",
+      "tier": "T2",
+      "published_at": "2026-07-02",
+      "why_it_matters": "디자이너 아카이브가 경매로 현금과 화제성을 동시에 만드는 흐름 — 구찌 아카이브 자산의 활용(전시·한정판·리세일) 전략에 참고할 사례다.",
+      "why_it_matters_en": "Designer archives are becoming cultural and commercial assets; a reference point for how Gucci monetizes its own archive.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Moncler",
+      "event_type": "launch",
+      "headline": "Moncler rolls out Genius app with AR try-ons and member perks",
+      "summary": "Moncler launched a free iOS/Android app that bundles its Genius collaboration drops, core outerwear and editorial content with augmented-reality try-ons and member-only perks, strengthening first-party customer data collection.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/moncler-genius-app-moncler-bets-on-modular-digital-style/69674568",
+      "source": "ad-hoc-news.de",
+      "tier": "T2",
+      "published_at": "2026-07-02",
+      "why_it_matters": "앱 안에서 드롭·AR 체험·멤버십을 묶어 자체 고객 데이터를 쌓는 방식 — 구찌 앱과 멤버십 설계의 직접 벤치마크다.",
+      "why_it_matters_en": "Drops, AR and membership bundled in-app to own customer data - a direct benchmark for Gucci's app strategy.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Valentino",
+      "event_type": "campaign",
+      "headline": "Valentino Beauty signs Dakota Johnson and Alexander Skarsgard as fragrance faces",
+      "summary": "Valentino Beauty named Dakota Johnson and Alexander Skarsgard the faces of an upcoming fragrance chapter built around modern intimacy and emotional expression. Johnson already serves as a Maison Valentino fashion ambassador, while Skarsgard is new to the brand.",
+      "url": "https://www.prnewswire.com/news-releases/valentino-beauty-taps-dakota-johnson-and-alexander-skarsgard-as-faces-of-a-new-fragrance-era-302814176.html",
+      "source": "PR Newswire (Valentino Beauty official release)",
+      "tier": "T1",
+      "published_at": "2026-06-30",
+      "why_it_matters": "A급 할리우드 듀오로 향수 사업을 키우는 발표 — 구찌 뷰티의 앰배서더 라인업·향수 매출과 정면으로 겹치는 경쟁 수다.",
+      "why_it_matters_en": "An A-list duo to grow fragrance - directly overlaps with Gucci Beauty's ambassador and scent business.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Ferragamo",
+      "event_type": "industry",
+      "headline": "Ferragamo shares lean on brand strength as investors wait for a catalyst",
+      "summary": "A July 4 market note says Ferragamo stock is being supported mainly by the strength of its footwear and leather-goods franchise while investors await the next company-specific catalyst, with the next earnings date not yet officially confirmed.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/ferragamo-stock-leans-on-brand-strength-investors-await-the-next/69687244",
+      "source": "ad-hoc-news.de",
+      "tier": "T2",
+      "published_at": "2026-07-04",
+      "why_it_matters": "턴어라운드 중인 경쟁사가 뚜렷한 호재 없이 정체된 구간 — 구찌가 리브랜딩 속도로 상대 우위를 벌릴 수 있는 시점이다.",
+      "why_it_matters_en": "A turnaround rival is stalling without a catalyst - a window for Gucci to widen the gap with its own relaunch pace.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Moncler",
+      "event_type": "industry",
+      "headline": "Investors hold Moncler to a brand-strength thesis ahead of its next update",
+      "summary": "A July 2 investor note says Moncler shares are trading on luxury-cycle sentiment and earnings quality, with the next earnings date not yet officially scheduled and attention focused on slowing US momentum and European tourist flows.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/moncler-stock-leans-on-brand-strength-as-investors-await-the-next-update/69673687",
+      "source": "ad-hoc-news.de",
+      "tier": "T2",
+      "published_at": "2026-07-02",
+      "why_it_matters": "아우터 최강자도 미국 수요 둔화와 유럽 관광객 변수로 관망세 — 하반기 럭셔리 수요의 온도를 읽는 신호로 봐야 한다.",
+      "why_it_matters_en": "Even outerwear's strongest player faces US and tourist-flow caution - a read on second-half luxury demand.",
+      "relevance": "category trend"
+    }
+  ]
+}

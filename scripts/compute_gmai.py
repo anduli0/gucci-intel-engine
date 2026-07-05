@@ -56,18 +56,6 @@ def parse_day(value):
         return None
 
 
-def engagement_weight(reach):
-    if reach is None:
-        return 0.5
-    try:
-        reach = float(reach)
-    except (TypeError, ValueError):
-        return 0.5
-    if reach < 0:
-        return 0.5
-    return min(1.0, math.log10(1 + reach) / 6.0)
-
-
 def recency_weight(published_at, ref_day):
     pub = parse_day(published_at)
     if pub is None:
@@ -77,21 +65,46 @@ def recency_weight(published_at, ref_day):
 
 
 def item_weight(item, ref_day):
+    """v2 evidence weight: credibility x freshness ONLY (§3.1).
+    reach/likes/comments/shares never enter w_i — interaction data lives
+    exclusively in the Engagement component."""
     tier = str(item.get("tier", "T3")).upper()
     tw = TIER_WEIGHTS.get(tier, 0.4)
-    return tw * engagement_weight(item.get("reach")) * recency_weight(item.get("published_at"), ref_day)
+    return tw * recency_weight(item.get("published_at"), ref_day)
+
+
+# §3.2b Buzz channels: reliability-adjusted multi-channel volume.
+CHANNEL_WEIGHTS = {"news": 1.0, "sns": 0.8, "community": 0.6}
+CHANNEL_ALIASES = {
+    "news": "news", "press": "news", "media": "news", "editorial": "news",
+    "sns": "sns", "social": "sns", "x": "sns", "instagram": "sns",
+    "tiktok": "sns", "youtube": "sns", "weibo": "sns",
+    "community": "community", "forum": "community", "board": "community",
+    "reddit": "community", "cafe": "community", "blog": "community",
+}
+
+
+def source_channel(item):
+    """source_type -> channel; legacy fallback: T1/T2 -> news, T3 -> community."""
+    st = str(item.get("source_type", "") or "").strip().lower()
+    if st in CHANNEL_ALIASES:
+        return CHANNEL_ALIASES[st]
+    tier = str(item.get("tier", "T3")).upper()
+    return "news" if tier in ("T1", "T2") else "community"
 
 
 def engagement_ratio(item):
+    """§3.2c: interaction depth for METRIC-BEARING items; None when the item
+    carries no reported metrics (v1 returned 0.5, diluting the component)."""
     reach = item.get("reach")
     likes, comments, shares = item.get("likes"), item.get("comments"), item.get("shares")
     if reach in (None, 0) or all(v is None for v in (likes, comments, shares)):
-        return 0.5
+        return None
     try:
         num = float(likes or 0) + 2.0 * float(comments or 0) + 3.0 * float(shares or 0)
         return min(1.0, num / float(reach) * 50.0)
     except (TypeError, ValueError, ZeroDivisionError):
-        return 0.5
+        return None
 
 
 def sigmoid(z):
@@ -143,8 +156,11 @@ def compute_sov(mention_counts, neutral=0.125):
 
 
 def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutral=0.125):
-    """Return the full component breakdown for one region."""
-    weights, wsm, weng = [], 0.0, 0.0
+    """Return the full component breakdown for one region (§3.1-3.3 v2)."""
+    weights, wsm = [], 0.0
+    weng_num, weng_den = 0.0, 0.0            # metric-bearing items only
+    v_today = 0.0                            # multi-channel volume (Buzz input)
+    channel_mix = {"news": 0, "sns": 0, "community": 0}
     counts = {"pos": 0, "neu": 0, "neg": 0}
     for it in items:
         w = item_weight(it, ref_day)
@@ -155,17 +171,23 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
         counts["pos" if s > 0 else ("neg" if s < 0 else "neu")] += 1
         weights.append(w)
         wsm += w * s * mag
-        weng += w * engagement_ratio(it)
+        ratio = engagement_ratio(it)
+        if ratio is not None:
+            weng_num += w * ratio
+            weng_den += w
+        ch = source_channel(it)
+        channel_mix[ch] += 1
+        v_today += CHANNEL_WEIGHTS[ch] * recency_weight(it.get("published_at"), ref_day)
 
     total_w = sum(weights)
     if total_w <= EPS:
-        nss, sentiment, engagement = 0.0, 0.5, 0.5
+        nss, sentiment = 0.0, 0.5
     else:
         nss = wsm / total_w
         sentiment = (nss + 1.0) / 2.0
-        engagement = weng / total_w
+    engagement_known = weng_den > EPS
+    engagement = (weng_num / weng_den) if engagement_known else 0.5
 
-    v_today = total_w
     history = [v for _, v in baseline_v]
     if len(history) < BASELINE_MIN_DAYS:
         buzz = 0.5
@@ -196,6 +218,8 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
             "sov": round(100.0 * W_SOV * sov, 2),
         },
         "sov_known": sov_known,
+        "engagement_known": engagement_known,
+        "channel_mix": channel_mix,
         "counts": counts,
         "n_items": len(items),
         "v_today": round(v_today, 4),
@@ -378,12 +402,13 @@ def run(date_str, root):
 
 
 def selftest():
-    """Reproduce methodology §3.6. PASS → exit 0, FAIL → exit 2."""
+    """Reproduce methodology §3.6 (v2). PASS → exit 0, FAIL → exit 2."""
     ref = date(2026, 1, 2)
     items = [
-        {"id": "i1", "tier": "T1", "reach": 200000, "published_at": "2026-01-02"},
-        {"id": "i2", "tier": "T3", "reach": 50000, "published_at": "2026-01-01"},
-        {"id": "i3", "tier": "T2", "reach": None, "published_at": "2026-01-02"},
+        {"id": "i1", "tier": "T1", "source_type": "news", "published_at": "2026-01-02"},
+        {"id": "i2", "tier": "T3", "source_type": "community", "published_at": "2026-01-01",
+         "reach": 50000, "likes": 300, "comments": 20, "shares": 10},
+        {"id": "i3", "tier": "T2", "source_type": "news", "published_at": "2026-01-02"},
     ]
     sent = {
         "i1": {"sentiment": 1, "magnitude": 1.0},
@@ -391,24 +416,36 @@ def selftest():
         "i3": {"sentiment": 0, "magnitude": 0.5},
     }
     total_w = wsm = 0.0
+    weng_num = weng_den = 0.0
+    v_today = 0.0
     for it in items:
         w = item_weight(it, ref)
         rec = sent[it["id"]]
         total_w += w
         wsm += w * rec["sentiment"] * rec["magnitude"]
+        ratio = engagement_ratio(it)
+        if ratio is not None:
+            weng_num += w * ratio
+            weng_den += w
+        v_today += CHANNEL_WEIGHTS[source_channel(it)] * recency_weight(it.get("published_at"), ref)
     nss = wsm / total_w
     sentiment = (nss + 1.0) / 2.0
-    gmai = 100.0 * (W_SENT * sentiment + W_BUZZ * 0.62 + W_ENG * 0.55 + W_SOV * 0.18)
+    engagement = weng_num / weng_den
+    gmai = 100.0 * (W_SENT * sentiment + W_BUZZ * 0.62 + W_ENG * engagement + W_SOV * 0.18)
 
-    ok_nss = abs(nss - 0.555) <= 0.005
-    ok_gmai = abs(gmai - 59.2) <= 0.2
-    print(f"selftest §3.6: NSS={nss:.4f} (target 0.555±0.005) {'ok' if ok_nss else 'MISMATCH'}")
-    print(f"selftest §3.6: GMAI_NEA={gmai:.2f} (target 59.2±0.2) {'ok' if ok_gmai else 'MISMATCH'}")
-    if ok_nss and ok_gmai:
-        print("PASS")
-        return 0
-    print("FAIL")
-    return 2
+    checks = [
+        ("NSS", nss, 0.4536, 0.005),
+        ("V_today", v_today, 2.36, 0.01),
+        ("Engagement", engagement, 0.37, 0.005),
+        ("GMAI_NEA", gmai, 54.26, 0.2),
+    ]
+    ok_all = True
+    for name, got, target, tol in checks:
+        ok = abs(got - target) <= tol
+        ok_all = ok_all and ok
+        print(f"selftest §3.6 v2: {name}={got:.4f} (target {target}±{tol}) {'ok' if ok else 'MISMATCH'}")
+    print("PASS" if ok_all else "FAIL")
+    return 0 if ok_all else 2
 
 
 def main():
