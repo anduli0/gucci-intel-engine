@@ -368,6 +368,24 @@ class Handler(BaseHTTPRequestHandler):
                 continue
             if isinstance(data, dict):
                 items = data.get("findings") or data.get("items") or []
+                if not items:
+                    # Schema guard: flatten drifted category sub-lists
+                    # (top_stories / shows_launches / financial ...) so the
+                    # Luxury Watch tab never renders a collected group as 0.
+                    seen = set()
+                    for k, v in data.items():
+                        if k in ("brand_group", "date", "mode", "generated_at",
+                                 "watch_summary") or not isinstance(v, list):
+                            continue
+                        for it in v:
+                            if not isinstance(it, dict):
+                                continue
+                            it.setdefault("url", it.get("source_url", ""))
+                            key = it.get("url") or it.get("headline")
+                            if key in seen:
+                                continue
+                            seen.add(key)
+                            items.append(it)
             else:
                 items = data
             groups[f.stem] = items if isinstance(items, list) else []
@@ -417,6 +435,24 @@ class Handler(BaseHTTPRequestHandler):
             return {"has_data": False}
         with open(files[-1], "r", encoding="utf-8") as f:
             data = json.load(f)
+        # Schema guard: subagents occasionally drift from the {"items":[...]}
+        # contract. Salvage known variants so the tabs never render blank.
+        if isinstance(data, dict) and not data.get("items"):
+            salvaged = []
+            for key in ("events", "gucci_ambassadors", "viral_moments",
+                        "competitor_ambassador_moves"):
+                v = data.get(key)
+                if isinstance(v, list):
+                    salvaged.extend(x for x in v if isinstance(x, dict))
+            for it in salvaged:  # map the common alternate field names
+                it.setdefault("url", it.get("source_url", ""))
+                it.setdefault("action_ko", it.get("gucci_action_window", ""))
+                if "name" not in it and "ambassador" in it:
+                    it["name"] = it["ambassador"]
+                if "what_en" not in it and "activity" in it:
+                    it["what_en"] = it["activity"]
+            if salvaged:
+                data["items"] = salvaged
         data["has_data"] = True
         return data
 

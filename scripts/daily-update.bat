@@ -21,6 +21,13 @@ call claude -p "/daily-gucci" --dangerously-skip-permissions >> %LOG% 2>&1
 echo [%date% %time%] 3/3 daily-brief >> %LOG%
 call claude -p "/daily-brief" --dangerously-skip-permissions >> %LOG% 2>&1
 
+rem Special/Event desk cadence guard: a fresh deep-dive at least every 3 days
+python -c "import glob,os,time,sys; fs=glob.glob('data/reports/special/*.md')+glob.glob('data/reports/events/*.md'); age=(time.time()-max((os.path.getmtime(f) for f in fs), default=0))/86400; print('special desk age(days): %%.1f' %% age); sys.exit(0 if age<3 else 1)" >> %LOG% 2>&1
+if errorlevel 1 (
+  echo [%date% %time%] special desk stale 3d+: running auto deep-dive >> %LOG%
+  call claude -p "/gucci-special auto" --dangerously-skip-permissions >> %LOG% 2>&1
+)
+
 rem Mondays: refresh the product board and publish the weekly report
 for /f %%D in ('powershell -NoProfile -Command "(Get-Date).DayOfWeek.value__"') do set DOW=%%D
 if "%DOW%"=="1" (

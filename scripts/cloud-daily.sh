@@ -14,6 +14,18 @@ run_step "/news-scrap"
 run_step "/daily-gucci"
 run_step "/daily-brief"
 
+# Special/Event desk cadence guard: a fresh deep-dive at least every 3 days
+if ! python - <<'PY'
+import glob, os, time, sys
+fs = glob.glob('data/reports/special/*.md') + glob.glob('data/reports/events/*.md')
+age = (time.time() - max((os.path.getmtime(f) for f in fs), default=0)) / 86400
+print('special desk age(days): %.1f' % age)
+sys.exit(0 if age < 3 else 1)
+PY
+then
+  run_step "/gucci-special auto"
+fi
+
 if [ "$(date +%u)" = "1" ]; then
   run_step "/gucci-products"
   run_step "/weekly-luxury"
