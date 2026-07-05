@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   publish:
@@ -28,20 +28,12 @@ jobs:
           EXPORT_OUT="$PWD/site_out" python scripts/export_static.py
           kill %1 2>/dev/null || true
 
-      - name: Publish site
-        env:
-          DEPLOY_KEY: ${{ secrets.SITE_DEPLOY_KEY }}
+      - name: Publish site (this repo's /docs)
         run: |
-          mkdir -p ~/.ssh
-          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/deploy
-          chmod 600 ~/.ssh/deploy
-          ssh-keyscan github.com >> ~/.ssh/known_hosts 2>/dev/null
-          export GIT_SSH_COMMAND="ssh -i ~/.ssh/deploy -o IdentitiesOnly=yes"
-          git clone --depth 1 git@github.com:anduli0/gucci-intel-site.git site_repo
-          rsync -a --delete --exclude .git site_out/ site_repo/
-          cd site_repo
+          rsync -a --delete site_out/ docs/
           git config user.name "gucci-intel-bot"
           git config user.email "minkyu494@gmail.com"
-          git add -A
+          git add docs
           git commit -m "cloud publish $(date +'%F %H:%M')" || echo "no site changes"
+          git pull --rebase origin main || true
           git push
