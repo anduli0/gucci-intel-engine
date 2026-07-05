@@ -359,7 +359,7 @@ class Handler(BaseHTTPRequestHandler):
         date = self._latest_date_dir(base)
         if not date:
             return {"has_data": False}
-        groups = {}
+        groups, keeps = {}, {}
         for f in sorted((base / date).glob("*.json")):
             try:
                 with open(f, "r", encoding="utf-8") as fh:
@@ -367,6 +367,8 @@ class Handler(BaseHTTPRequestHandler):
             except (OSError, json.JSONDecodeError):
                 continue
             if isinstance(data, dict):
+                kp = data.get("keep") or []
+                keeps[f.stem] = kp if isinstance(kp, list) else []
                 items = data.get("findings") or data.get("items") or []
                 if not items:
                     # Schema guard: flatten drifted category sub-lists
@@ -389,7 +391,7 @@ class Handler(BaseHTTPRequestHandler):
             else:
                 items = data
             groups[f.stem] = items if isinstance(items, list) else []
-        return {"has_data": bool(groups), "date": date, "groups": groups}
+        return {"has_data": bool(groups), "date": date, "groups": groups, "keeps": keeps}
 
     def api_events(self):
         out, known = [], set()

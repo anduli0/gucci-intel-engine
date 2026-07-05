@@ -21,14 +21,14 @@ GROUP ROSTERS — search EVERY named brand in your group BY NAME (one query per 
 
 TREND RADAR (mandatory every run): the roster is a FLOOR, not a ceiling. Each run, actively hunt for WHAT IS RISING in your group's territory — viral products, sell-outs, sales-surge callouts in earnings coverage, ranking movements (Lyst index, TikTok/Sephora/편집숍 bestseller lists, search-trend articles), new lines gaining editorial momentum. Include at least 1-2 such findings per run when they exist, tagged event_type "trend", even for brands not on the roster. A brand's beauty/fragrance/jewelry arm counts for the corresponding category group even when the fashion house sits elsewhere (e.g. Prada Beauty belongs to the Beauty desk). Missing a widely-reported rise (like Prada Beauty's 2026 surge) is a coverage failure.
 
-COVERAGE QUOTA: MODE=daily → minimum 6 findings per group (aim 8-12), at least 3 distinct brands represented; MODE=weekly → minimum 10. If a brand genuinely has no same-day signal, widen to 48h for that brand rather than dropping it silently. A thin file is a search failure to fix (more angles: shows, launches, executives, earnings, M&A, campaigns, collabs, retail, pricing, regulation, resale) before it is a quiet day.
+COVERAGE QUOTA: MODE=daily → minimum 6 findings per group (aim 8-12), at least 3 distinct brands represented; MODE=weekly → minimum 10. If a brand genuinely has no same-day signal, widen to 48h for that brand rather than dropping it silently. HARD MINIMUM: at least ONE finding published on DATE itself per group, every day. A thin file is a search failure to fix (more angles: shows, launches, executives, earnings, M&A, campaigns, collabs, retail, pricing, regulation, resale) before it is a quiet day.
 
 Procedure:
 - Use data/sources/pool.json brand_watch_set and T1/T2 media.
 - Per finding record EXACTLY these keys: brand, event_type, headline (own words), summary (1-2 sentences, own words), url, source, tier, published_at, why_it_matters (one line, from the Gucci perspective, Korean), why_it_matters_en (English one line — the app has a KO/EN toggle), relevance (competitive threat / benchmark opportunity / category trend / unrelated).
 - Save to data/luxury/{DATE}/{BRAND_GROUP}.json.
 
-SCHEMA IS A CONTRACT: the file MUST be {"brand_group":"...","date":"...","mode":"...","findings":[...]} — ONE flat "findings" list. NEVER split into category sub-lists (top_stories / shows_launches / executive_moves / financial 등 금지) and use url not source_url. The app renders data.findings verbatim — any other shape makes the whole group show 0 items.
+SCHEMA IS A CONTRACT: the file MUST be {"brand_group":"...","date":"...","mode":"...","findings":[...],"keep":[...]} where "keep" (optional, max 5, same field shape) holds no-longer-timely but strategically important items carried forward: read the previous date file for your group, retain what still matters, delete what became irrelevant — ONE flat "findings" list. NEVER split into category sub-lists (top_stories / shows_launches / executive_moves / financial 등 금지) and use url not source_url. The app renders data.findings verbatim — any other shape makes the whole group show 0 items.
 
 Return: the path + finding count + top 3 signals with their Gucci-perspective lines.
 
