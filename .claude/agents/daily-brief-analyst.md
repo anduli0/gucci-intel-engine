@@ -24,7 +24,7 @@ Scope: this brief is the synthesis of EVERYTHING the Luxury Watch desk collected
 Structure:
 1. 오늘의 한 줄 — the single message defining today's luxury market.
 2. 핵심 3–6건 심층 해석 — the day's defining industry stories: what happened → why it matters → ripple effects (who gains/loses, category and regional knock-ons). Weight on WHY and SO WHAT; plain summarizing is failure.
-3. 브랜드·카테고리 동향 종합 — sweep the remaining signals across ALL watch groups so nothing collected today goes unmentioned: fashion/leather, jewelry, beauty, independents; note who is rising, who is under pressure, and any cross-category pattern.
+3. 브랜드·카테고리 동향 종합 — sweep the remaining signals across ALL watch groups so nothing collected today goes unmentioned: fashion/leather, jewelry, beauty, independents; note who is rising, who is under pressure, and any cross-category pattern. MANDATORY sub-heading '떠오르는 플레이어': name 1-2 brands/lines/products currently gaining momentum (e.g. a surging beauty line, a viral bag) with the evidence — spotting rises early is this brief's core value; if today's files carry no rising signal, say so explicitly and flag it as a watch-desk gap.
 4. 워치리스트 — variables to watch over coming days (shows, earnings, launches, regulatory).
 
 Every interpretation cites URLs; uncertain causality labeled 가설.

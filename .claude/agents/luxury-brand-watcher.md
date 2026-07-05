@@ -16,8 +16,10 @@ GROUP ROSTERS — search EVERY named brand in your group BY NAME (one query per 
 - LVMH: Louis Vuitton, Dior, Fendi, Celine, Loewe, Givenchy, Loro Piana, LVMH corporate.
 - Hermes-Chanel: Hermès, Chanel.
 - Jewelry: Cartier, Van Cleef & Arpels, Tiffany, Bulgari, Boucheron, Pomellato, Harry Winston.
-- Beauty: Chanel Beauty, Dior Beauty, YSL Beauté, Gucci Beauty, L'Oréal Luxe, Estée Lauder brands.
+- Beauty: Chanel Beauty, Dior Beauty, YSL Beauté, Gucci Beauty, **Prada Beauty (급부상 — always check)**, Armani Beauty, Valentino Beauty, Hermès Beauty, L'Oréal Luxe, Estée Lauder brands.
 - Independents: Prada, Miu Miu, Moncler, Burberry, Armani, Zegna, Ferragamo, Brunello Cucinelli, OTB (Margiela/Diesel), Valentino.
+
+TREND RADAR (mandatory every run): the roster is a FLOOR, not a ceiling. Each run, actively hunt for WHAT IS RISING in your group's territory — viral products, sell-outs, sales-surge callouts in earnings coverage, ranking movements (Lyst index, TikTok/Sephora/편집숍 bestseller lists, search-trend articles), new lines gaining editorial momentum. Include at least 1-2 such findings per run when they exist, tagged event_type "trend", even for brands not on the roster. A brand's beauty/fragrance/jewelry arm counts for the corresponding category group even when the fashion house sits elsewhere (e.g. Prada Beauty belongs to the Beauty desk). Missing a widely-reported rise (like Prada Beauty's 2026 surge) is a coverage failure.
 
 COVERAGE QUOTA: MODE=daily → minimum 6 findings per group (aim 8-12), at least 3 distinct brands represented; MODE=weekly → minimum 10. If a brand genuinely has no same-day signal, widen to 48h for that brand rather than dropping it silently. A thin file is a search failure to fix (more angles: shows, launches, executives, earnings, M&A, campaigns, collabs, retail, pricing, regulation, resale) before it is a quiet day.
 

@@ -9,7 +9,7 @@ Read accumulated data/luxury/* (7-day window ending at DATE) plus supplementary 
 
 Analyze:
 1. Cross-brand patterns (pricing strategy, aesthetic currents, category moves).
-2. Inflection signals (momentum breaking or emerging).
+2. Inflection signals (momentum breaking or emerging) — MANDATORY '떠오르는 플레이어' call-outs: name the brands/lines/products gaining momentum this week (e.g. a surging beauty line like Prada Beauty, a viral bag) with evidence; early rise-detection is this desk's core value.
 3. Category temperature (RTW / leather goods / jewelry / beauty / watches).
 4. Regional demand & sentiment shifts (esp. NEA).
 5. Gucci implications — threats, opportunities, response angles.

@@ -1,0 +1,47 @@
+name: publish-only
+
+# Re-publish the site from the repo's current data without running the
+# pipeline — used to verify the deploy path and for manual re-publishes.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Asia/Seoul
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Export static site from repo data
+        run: |
+          python app/server.py --port 8790 &
+          sleep 3
+          EXPORT_OUT="$PWD/site_out" python scripts/export_static.py
+          kill %1 2>/dev/null || true
+
+      - name: Publish site
+        env:
+          DEPLOY_KEY: ${{ secrets.SITE_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/deploy
+          chmod 600 ~/.ssh/deploy
+          ssh-keyscan github.com >> ~/.ssh/known_hosts 2>/dev/null
+          export GIT_SSH_COMMAND="ssh -i ~/.ssh/deploy -o IdentitiesOnly=yes"
+          git clone --depth 1 git@github.com:anduli0/gucci-intel-site.git site_repo
+          rsync -a --delete --exclude .git site_out/ site_repo/
+          cd site_repo
+          git config user.name "gucci-intel-bot"
+          git config user.email "minkyu494@gmail.com"
+          git add -A
+          git commit -m "cloud publish $(date +'%F %H:%M')" || echo "no site changes"
+          git push
