@@ -1,0 +1,206 @@
+{
+  "updated": "2026-07-05",
+  "note": "주요 럭셔리 하우스 현직 크리에이티브/아티스틱 디렉터 전수 조사. 2025년 '크리에이티브 리셋'을 반영한 2026년 7월 기준 최신 좌석. status: active=재임 중, incoming=발표됐으나 미데뷔/데뷔 직후, departing=퇴임 예정. dossier=data/reports/cd 내 파일명(없으면 null).",
+  "directors": [
+    {
+      "brand": "Gucci",
+      "name": "뎀나 그바살리아 (Demna)",
+      "name_en": "Demna Gvasalia (Demna)",
+      "since": "2025-07",
+      "predecessor": "Sabato De Sarno",
+      "status": "active",
+      "title": "Artistic Director",
+      "dossier": "gucci-demna.md"
+    },
+    {
+      "brand": "Balenciaga",
+      "name": "피에르파올로 피촐리",
+      "name_en": "Pierpaolo Piccioli",
+      "since": "2025-07",
+      "predecessor": "Demna",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Chanel",
+      "name": "마티유 블라지",
+      "name_en": "Matthieu Blazy",
+      "since": "2025-10",
+      "predecessor": "Virginie Viard",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Dior",
+      "name": "조너선 앤더슨",
+      "name_en": "Jonathan Anderson",
+      "since": "2025",
+      "predecessor": "Maria Grazia Chiuri (women) / Kim Jones (men)",
+      "status": "active",
+      "title": "Creative Director (women's & men's)",
+      "dossier": null
+    },
+    {
+      "brand": "Fendi",
+      "name": "마리아 그라치아 치우리",
+      "name_en": "Maria Grazia Chiuri",
+      "since": "2025",
+      "predecessor": "Kim Jones (women) / Silvia Venturini Fendi (interim)",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Louis Vuitton (Women)",
+      "name": "니콜라 제스키에르",
+      "name_en": "Nicolas Ghesquière",
+      "since": "2013",
+      "predecessor": "Marc Jacobs",
+      "status": "active",
+      "title": "Artistic Director, Women's Collections",
+      "dossier": null
+    },
+    {
+      "brand": "Louis Vuitton (Men)",
+      "name": "퍼렐 윌리엄스",
+      "name_en": "Pharrell Williams",
+      "since": "2023-02",
+      "predecessor": "Virgil Abloh",
+      "status": "active",
+      "title": "Men's Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Saint Laurent",
+      "name": "안토니 바카렐로",
+      "name_en": "Anthony Vaccarello",
+      "since": "2016",
+      "predecessor": "Hedi Slimane",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Bottega Veneta",
+      "name": "루이즈 트로터",
+      "name_en": "Louise Trotter",
+      "since": "2024-12",
+      "predecessor": "Matthieu Blazy",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Celine",
+      "name": "마이클 라이더",
+      "name_en": "Michael Rider",
+      "since": "2024-10",
+      "predecessor": "Hedi Slimane",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Loewe",
+      "name": "잭 매컬러 & 라자로 에르난데스",
+      "name_en": "Jack McCollough & Lazaro Hernandez",
+      "since": "2025-03",
+      "predecessor": "Jonathan Anderson",
+      "status": "active",
+      "title": "Creative Directors",
+      "dossier": null
+    },
+    {
+      "brand": "Valentino",
+      "name": "알레산드로 미켈레",
+      "name_en": "Alessandro Michele",
+      "since": "2024",
+      "predecessor": "Pierpaolo Piccioli",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Givenchy",
+      "name": "세라 버튼",
+      "name_en": "Sarah Burton",
+      "since": "2024-09",
+      "predecessor": "Matthew M. Williams",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Versace",
+      "name": "피터 뮐리에",
+      "name_en": "Pieter Mulier",
+      "since": "2026-07",
+      "predecessor": "Donatella Versace",
+      "status": "incoming",
+      "title": "Chief Creative Officer",
+      "dossier": null
+    },
+    {
+      "brand": "Prada",
+      "name": "미우치아 프라다 & 라프 시몬스",
+      "name_en": "Miuccia Prada & Raf Simons",
+      "since": "2020",
+      "predecessor": "—",
+      "status": "active",
+      "title": "Co-Creative Directors",
+      "dossier": null
+    },
+    {
+      "brand": "Miu Miu",
+      "name": "미우치아 프라다",
+      "name_en": "Miuccia Prada",
+      "since": "1993",
+      "predecessor": "—",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Hermès (Women)",
+      "name": "나데주 바니-시부",
+      "name_en": "Nadège Vanhée-Cybulski",
+      "since": "2014",
+      "predecessor": "Christophe Lemaire",
+      "status": "active",
+      "title": "Artistic Director, Womenswear",
+      "dossier": null
+    },
+    {
+      "brand": "Hermès (Men)",
+      "name": "그레이스 웨일스 보너",
+      "name_en": "Grace Wales Bonner",
+      "since": "2026",
+      "predecessor": "Véronique Nichanian",
+      "status": "incoming",
+      "title": "Men's Creative Director (debut Jan 2027)",
+      "dossier": null
+    },
+    {
+      "brand": "Alexander McQueen",
+      "name": "션 맥거",
+      "name_en": "Seán McGirr",
+      "since": "2023-10",
+      "predecessor": "Sarah Burton",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    },
+    {
+      "brand": "Tom Ford",
+      "name": "하이더 아커만",
+      "name_en": "Haider Ackermann",
+      "since": "2024-09",
+      "predecessor": "Peter Hawkings",
+      "status": "active",
+      "title": "Creative Director",
+      "dossier": null
+    }
+  ]
+}
