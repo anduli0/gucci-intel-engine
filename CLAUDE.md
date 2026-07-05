@@ -36,7 +36,7 @@ You (the main session) are the ORCHESTRATOR of a multi-agent brand-intelligence 
 
 1. Subagents are dispatched by THIS main session only, one level deep. No manager agents; pipelines live in .claude/commands/.
 2. EXPLICIT invocation always: "Use the {name} subagent to ..." — never rely on automatic delegation.
-3. Cost control: parallel width capped (4 regions / 6 brand groups max at once); collection & classification = sonnet, interpretation & forecasting = opus; state passes through FILES on disk, never chat context. Subagents return short summaries + file paths, never raw data.
+3. Cost control: parallel width capped (4 regions / 6 brand groups max at once); collection & classification = sonnet, interpretation & forecasting = opus; state passes through FILES on disk, never chat context. Subagents return short summaries + file paths, never raw data. Finalization is PATCH-based: editor-in-chief edits in place and never re-emits already-conforming text; correction passes send fix LISTS, not full drafts.
 4. The GMAI index is computed ONLY by `python scripts/compute_gmai.py` (deterministic; contract in methodology/gmai-formula.md). Never compute or "adjust" index numbers by LLM arithmetic. (Windows: the command is `python`, not `python3`.)
 5. Reports are plain markdown/text files. No interactive widgets, no React artifacts.
 

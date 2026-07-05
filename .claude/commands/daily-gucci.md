@@ -18,7 +18,7 @@ DATE = $1 or today (YYYY-MM-DD). Execute strictly in order; every stage persists
    (b) use the business-reviewer subagent once, passing DATE — business narrative with ZERO index figures → data/reports/daily/{DATE}-gucci-business-review.md.
    Three distinct briefs publish every day: index-interpretation + gucci-business-review (this pipeline) + luxury-brief (/daily-brief). Index talk lives only in (a).
 
-5. GATE (each report separately): use the fact-checker subagent on each draft — for the business review the checker must also FAIL it if any index figure/name (GMAI, NSS, 밴드, 성분 점수, Δ) appears in it. On FAIL, return the fix list to the originating subagent for ONE correction pass, then re-check with the fact-checker subagent. Never publish without PASS.
+5. GATE (each report separately): use the fact-checker subagent on each draft — for the business review the checker must also FAIL it if any index figure/name (GMAI, NSS, 밴드, 성분 점수, Δ) appears in it. On FAIL, send ONLY the fix list (never the full draft) back to whichever subagent wrote the draft for ONE correction pass, then re-check with the fact-checker subagent. Never publish without PASS.
 
 6. PUBLISH: use the editor-in-chief subagent to finalize BOTH reports (Korean analyst-report format: 제목/목차/핵심 요약/prose sections/EN summary/출처 with all URLs). Then tell the user: both file paths + 3-line core (global GMAI/Δ/band from the interpretation, top driver, top recommendation).
 

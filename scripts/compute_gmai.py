@@ -57,11 +57,16 @@ def parse_day(value):
 
 
 def recency_weight(published_at, ref_day):
+    """v2.1: half-life 3 days (0.5^(d/3)). The v2 curve (0.6^d, half-life
+    ~1.4d) collapsed every weight to ~0 whenever the pool skewed older than a
+    few days, silently handing the whole region index to its single freshest
+    item. 3 days keeps the index reactive to today's news while letting the
+    trailing week provide statistical ballast."""
     pub = parse_day(published_at)
     if pub is None:
-        return 0.6  # unknown date: assume 1 day old, mildly discounted
+        return 0.5 ** (1.0 / 3.0)  # unknown date: assume 1 day old
     d = max(0, (ref_day - pub).days)
-    return 0.6 ** d
+    return 0.5 ** (d / 3.0)
 
 
 def item_weight(item, ref_day):
@@ -122,10 +127,19 @@ def load_raw(path):
 
 
 def load_sentiment(path):
+    """Accept every classifier output shape ever observed: a bare list of
+    records, {"items": [...]}, or a list wrapping one or more {"items": [...]}
+    blocks (output drift that silently zeroed a whole region on 2026-07-05)."""
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
     if isinstance(data, dict):
         data = data.get("items", [])
+    elif isinstance(data, list) and data and isinstance(data[0], dict) and "items" in data[0]:
+        merged = []
+        for block in data:
+            if isinstance(block, dict):
+                merged.extend(block.get("items", []) or [])
+        data = merged
     return {str(rec.get("id")): rec for rec in data if rec.get("id") is not None}
 
 
@@ -162,15 +176,22 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
     v_today = 0.0                            # multi-channel volume (Buzz input)
     channel_mix = {"news": 0, "sns": 0, "community": 0}
     counts = {"pos": 0, "neu": 0, "neg": 0}
+    matched = 0                              # items with a sentiment record
+    tag_impact = {}                          # signal_tag -> Σ(w·s·mag)
     for it in items:
         w = item_weight(it, ref_day)
         rec = sent_by_id.get(str(it.get("id")), {})
+        if rec:
+            matched += 1
         s = rec.get("sentiment", 0) or 0
         mag = rec.get("magnitude", 0.5) or 0.5
         s = 1 if s > 0 else (-1 if s < 0 else 0)
         counts["pos" if s > 0 else ("neg" if s < 0 else "neu")] += 1
         weights.append(w)
         wsm += w * s * mag
+        if s != 0:
+            for tag in rec.get("signal_tags") or []:
+                tag_impact[tag] = tag_impact.get(tag, 0.0) + w * s * mag
         ratio = engagement_ratio(it)
         if ratio is not None:
             weng_num += w * ratio
@@ -185,6 +206,11 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
     else:
         nss = wsm / total_w
         sentiment = (nss + 1.0) / 2.0
+    # Effective sample size: how many items REALLY carry today's sentiment
+    # once recency/tier weighting is applied ((Σw)²/Σw²). eff_n≈1 means one
+    # item decides the region — the UI must say so instead of implying breadth.
+    sum_w2 = sum(w * w for w in weights)
+    eff_n = (total_w * total_w / sum_w2) if sum_w2 > EPS else 0.0
     engagement_known = weng_den > EPS
     engagement = (weng_num / weng_den) if engagement_known else 0.5
 
@@ -199,6 +225,21 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
 
     sov, sov_known = compute_sov(mention_counts, neutral)
     gmai = 100.0 * (W_SENT * sentiment + W_BUZZ * buzz + W_ENG * engagement + W_SOV * sov)
+
+    # Marketer-facing driver attribution: each signal tag's contribution to the
+    # sentiment component, expressed in index POINTS (Σ over tags of one item's
+    # tags each get the full item impact; overlapping tags are a feature — the
+    # question answered is "which themes moved the needle", not partitioning).
+    tag_pts = []
+    if total_w > EPS and tag_impact:
+        for tag, imp in tag_impact.items():
+            pts = 100.0 * W_SENT * (imp / total_w) / 2.0
+            tag_pts.append([tag, round(pts, 2)])
+        tag_pts.sort(key=lambda x: x[1])
+    drivers = {
+        "neg": [p for p in tag_pts if p[1] < 0][:4],
+        "pos": [p for p in tag_pts if p[1] > 0][::-1][:4],
+    }
     return {
         "GMAI": round(gmai, 2),
         "band": band_of(gmai),
@@ -219,6 +260,12 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
         },
         "sov_known": sov_known,
         "engagement_known": engagement_known,
+        "buzz_known": len(history) >= BASELINE_MIN_DAYS,
+        "baseline_days": len(history),
+        "sentiment_coverage": round(matched / len(items), 3) if items else None,
+        "eff_n": round(eff_n, 1),
+        "low_evidence": eff_n < 3.0,
+        "drivers": drivers,
         "channel_mix": channel_mix,
         "counts": counts,
         "n_items": len(items),
@@ -250,6 +297,30 @@ def prior_gmai(csv_path, region, ref_date_str):
                 except (TypeError, ValueError):
                     continue
     return best_val
+
+
+def prior_components(csv_path, region, ref_date_str):
+    """Most recent component row (as 0-1 values) strictly before ref_date_str."""
+    if not csv_path.exists():
+        return None
+    best = None
+    with open(csv_path, "r", encoding="utf-8", newline="") as f:
+        for row in csv.DictReader(f):
+            if row.get("region") != region or not row.get("date"):
+                continue
+            if row["date"] >= ref_date_str:
+                continue
+            if best is None or row["date"] > best["date"]:
+                best = row
+    if not best:
+        return None
+    try:
+        return {"sentiment": (float(best["NSS"]) + 1.0) / 2.0,
+                "buzz": float(best["Buzz"]),
+                "engagement": float(best["Engagement"]),
+                "sov": float(best["SOV"])}
+    except (KeyError, TypeError, ValueError):
+        return None
 
 
 def run(date_str, root):
@@ -302,6 +373,22 @@ def run(date_str, root):
         cur = global_gmai if region == "GLOBAL" else results[region]["GMAI"]
         prev = prior_gmai(csv_path, region, date_str)
         deltas[region] = None if prev is None else round(cur - prev, 2)
+
+    # Delta attribution: how many index points each component contributed to
+    # today's move (exact per region; global = region-weighted aggregate,
+    # exact when the same region set exists on both days).
+    comp_w = {"sentiment": W_SENT, "buzz": W_BUZZ, "engagement": W_ENG, "sov": W_SOV}
+    for region, res in results.items():
+        prev_c = prior_components(csv_path, region, date_str)
+        res["delta_attrib"] = None if prev_c is None else {
+            k: round(100.0 * comp_w[k] * (res["components"][k] - prev_c[k]), 2)
+            for k in comp_w}
+    global_attrib = None
+    if all(res.get("delta_attrib") for res in results.values()):
+        global_attrib = {
+            k: round(sum(REGION_WEIGHTS[r] / wsum * results[r]["delta_attrib"][k]
+                         for r in results), 2)
+            for k in comp_w}
 
     # Triggers per §3.5 — structured (for the app to localize) + legacy text.
     triggers, triggers_v2 = [], []
@@ -366,6 +453,7 @@ def run(date_str, root):
             "GMAI": global_gmai,
             "band": band_of(global_gmai),
             "delta": deltas["GLOBAL"],
+            "delta_attrib": global_attrib,
             "sentiment_weighted": round(global_sent, 4),
         },
         "missing_blocks": missing,
@@ -402,7 +490,7 @@ def run(date_str, root):
 
 
 def selftest():
-    """Reproduce methodology §3.6 (v2). PASS → exit 0, FAIL → exit 2."""
+    """Reproduce methodology §3.6 (v2.1). PASS → exit 0, FAIL → exit 2."""
     ref = date(2026, 1, 2)
     items = [
         {"id": "i1", "tier": "T1", "source_type": "news", "published_at": "2026-01-02"},
@@ -434,16 +522,16 @@ def selftest():
     gmai = 100.0 * (W_SENT * sentiment + W_BUZZ * 0.62 + W_ENG * engagement + W_SOV * 0.18)
 
     checks = [
-        ("NSS", nss, 0.4536, 0.005),
-        ("V_today", v_today, 2.36, 0.01),
+        ("NSS", nss, 0.4170, 0.005),
+        ("V_today", v_today, 2.4762, 0.01),
         ("Engagement", engagement, 0.37, 0.005),
-        ("GMAI_NEA", gmai, 54.26, 0.2),
+        ("GMAI_NEA", gmai, 53.43, 0.2),
     ]
     ok_all = True
     for name, got, target, tol in checks:
         ok = abs(got - target) <= tol
         ok_all = ok_all and ok
-        print(f"selftest §3.6 v2: {name}={got:.4f} (target {target}±{tol}) {'ok' if ok else 'MISMATCH'}")
+        print(f"selftest §3.6 v2.1: {name}={got:.4f} (target {target}±{tol}) {'ok' if ok else 'MISMATCH'}")
     print("PASS" if ok_all else "FAIL")
     return 0 if ok_all else 2
 

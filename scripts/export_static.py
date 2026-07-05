@@ -59,12 +59,33 @@ def main():
     for name in ("icon-180.png", "icon-192.png", "icon-512.png", "manifest.webmanifest"):
         shutil.copy2(ui / name, OUT / name)
 
-    # 5. Product images
+    # 5. Product images — shrink at export time (UI renders them at ~118-480px;
+    # originals stay untouched in data/products/images). Falls back to a plain
+    # copy if Pillow is unavailable or a file can't be decoded.
     img_src = ROOT / "data" / "products" / "images"
     if img_src.exists():
+        try:
+            from PIL import Image
+        except ImportError:
+            Image = None
         for p in img_src.iterdir():
-            if p.is_file():
-                shutil.copy2(p, OUT / "product-images" / p.name)
+            if not p.is_file():
+                continue
+            dest = OUT / "product-images" / p.name
+            if Image is None:
+                shutil.copy2(p, dest)
+                continue
+            try:
+                im = Image.open(p)
+                im.thumbnail((640, 640))
+                if p.suffix.lower() == ".webp":
+                    im.save(dest, "WEBP", quality=80, method=6)
+                else:
+                    if im.mode not in ("RGB", "L"):
+                        im = im.convert("RGB")
+                    im.save(dest, "JPEG", quality=80, optimize=True, progressive=True)
+            except Exception:
+                shutil.copy2(p, dest)
 
     # 6. Hosting hygiene: no search indexing, no jekyll processing
     (OUT / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")

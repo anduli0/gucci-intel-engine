@@ -12,8 +12,11 @@ EXPECTED_AGENTS = {
     "regional-collector", "sentiment-classifier", "index-analyst",
     "business-reviewer", "event-responder", "luxury-brand-watcher",
     "trend-analyst", "daily-brief-analyst", "fact-checker", "editor-in-chief",
+    "index-interpreter", "news-scout", "product-analyst", "special-analyst",
+    "cd-analyst", "sov-auditor", "ambassador-tracker", "calendar-scout",
 }
-EXPECTED_COMMANDS = {"daily-gucci", "event-response", "weekly-luxury", "daily-brief"}
+EXPECTED_COMMANDS = {"daily-gucci", "event-response", "weekly-luxury", "daily-brief",
+                     "news-scrap", "gucci-special", "gucci-products", "cd-watch"}
 VALID_MODELS = {"sonnet", "opus", "haiku", "inherit"}
 
 

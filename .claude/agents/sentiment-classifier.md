@@ -11,7 +11,11 @@ Read data/raw/{DATE}/{REGION}.json. Label each item strictly per methodology/sen
 - Demote low-confidence polarity to neutral (confidence < 0.5 and polarity ±1 → 0).
 - When in doubt, neutral. Never force polarity.
 
-Save as data/sentiment/{DATE}/{REGION}.json (JSON array; each record keeps the item id).
+Save as data/sentiment/{DATE}/{REGION}.json. OUTPUT SHAPE IS BINDING: one FLAT
+JSON array of records — `[{"id": "...", "sentiment": 1, "magnitude": 1.0, ...}]`.
+NEVER wrap it in an object or an outer array (`[{"items": [...]}]` silently
+zeroed a whole region's labels on 2026-07-05). Every record MUST carry the
+exact item id from the raw pool.
 
 Return: the file path and counts of +1/0/−1 with magnitude split.
 
