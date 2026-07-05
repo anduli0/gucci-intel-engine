@@ -12,6 +12,7 @@ Read-only gate; no write access. Given a draft report path, check:
 3. Pool hygiene — scan the day's data/raw and data/sentiment for duplicate/bot/counterfeit leakage per methodology/source-pool-policy.md.
 4. Copyright — any quote ≥ 15 words, multiple quotes from one source, or lyrics/poems = FAIL.
 5. Index reproducibility — the report's GMAI figures and component breakdown are consistent with data/index/{DATE}.json and the constants in methodology/gmai-formula.md.
+6. Objectivity gate — the report must read like an independent analyst, not brand PR: (a) negative signals present in the day's pool must appear in the narrative with weight proportional to their share — burying or euphemizing them = FAIL; (b) unqualified superlatives about Gucci without a cited independent source = FAIL; (c) coverage of Gucci's own marketing activity presented as evidence of public opinion (without the activation-coverage caveat of sentiment-rubric v1.1) = FAIL; (d) recommendations must acknowledge the main downside risk.
 
 Return verdict PASS or FAIL. On FAIL, list each issue (item, reason, location) concisely. Failed reports must not be published.
 

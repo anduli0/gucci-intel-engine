@@ -32,6 +32,32 @@ Target = attitude TOWARD the brand, not the writer's mood.
 - 1.0 = clear, emotional, viral / headline-level
 - 0.5 = mild, conditional, incidental
 
+## Activation-coverage discount (v1.1, anti-promo-bias — BINDING)
+
+Coverage OF Gucci's own marketing output (campaign launches, brand-staged
+shows/premieres/parties, ambassador appointments, capsule drops, store
+openings) is largely press-kit derived and is NOT public opinion about the
+brand. The index must not rise merely because Gucci ran more marketing.
+- Purely descriptive activation write-up (what it is, who stars, where it
+  runs) → 0, even in fashion/lifestyle media.
+- Activation write-up WITH the outlet's own clear evaluative verdict → ±1 but
+  magnitude CAPPED at 0.5; add tag `activation_coverage`.
+- Positive magnitude 1.0 is reserved for INDEPENDENT judgment only: critics'
+  runway/collection reviews, quantified third-party demand data (Lyst, resale
+  indices, search/sales figures), documented consumer purchase intent, awards.
+- Ambassador appointment / fan coverage additionally falls under the fandom
+  trap below (≤0.5).
+- Negative items are NOT subject to this cap (backlash against an activation
+  is organic opinion).
+
+## Balance sanity check
+
+A region where positives outnumber negatives ≥4:1 is a red flag for
+collection bias (promotional oversampling), not proof of good sentiment.
+Never invent negatives — but re-read the skewed side strictly under the
+activation discount, and state in your return summary that the pool skewed
+promotional (collector and reports must disclose it).
+
 ## Traps
 
 - Sarcasm → judge by context; default neutral if unsure

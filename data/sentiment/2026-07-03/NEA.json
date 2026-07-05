@@ -31,16 +31,17 @@
   {
     "id": "NEA-2026-07-03-003",
     "region": "NEA",
-    "sentiment": 1,
+    "sentiment": 0,
     "magnitude": 0.5,
-    "rationale": "Third-party (Esquire Korea) positive cultural sponsorship coverage — Gucci official partner for 4th consecutive year at Baeksang Awards, establishing strong K-entertainment affiliation.",
+    "rationale": "Third-party (Esquire Korea) reports Gucci's official-partner sponsorship of Baeksang Awards (4th consecutive year); purely descriptive of the sponsorship activation with no outlet evaluative verdict — activation coverage, no independent judgment present; v1.1 activation discount applied.",
     "signal_tags": [
       "cultural_sponsorship",
       "awards_partnership",
       "korea",
-      "brand_equity"
+      "brand_equity",
+      "activation_coverage"
     ],
-    "confidence": 0.9
+    "confidence": 0.85
   },
   {
     "id": "NEA-2026-07-03-004",
@@ -116,15 +117,16 @@
     "id": "NEA-2026-07-03-010",
     "region": "NEA",
     "sentiment": 1,
-    "magnitude": 1.0,
-    "rationale": "Third-party (X/WWD): Lee Know (Stray Kids) global ambassador appointment received 1.7M views, 71K reposts, 31K likes — viral, headline-level positive ambassador activation cementing dual K-pop strategy.",
+    "magnitude": 0.5,
+    "rationale": "Third-party (X/WWD): Lee Know (Stray Kids) global ambassador appointment with high engagement stats (1.7M views, 71K reposts, 31K likes) — ambassador appointment is activation coverage and additionally falls under the fandom trap; magnitude capped at 0.5 despite high engagement since no independent critical verdict is present; v1.1 activation discount applied.",
     "signal_tags": [
       "ambassador_appointment",
       "kpop",
       "viral",
       "high_engagement",
       "stray_kids",
-      "brand_equity"
+      "brand_equity",
+      "activation_coverage"
     ],
     "confidence": 0.97
   },

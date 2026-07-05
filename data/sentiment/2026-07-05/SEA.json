@@ -1,127 +1,114 @@
-{
-  "region": "SEA",
-  "date": "2026-07-05",
-  "items": [
-    {
-      "id": "SEA-2026-07-05-001",
-      "sentiment": 1,
-      "magnitude": 1.0,
-      "rationale": "Third-party T2 editorial cover story featuring TIMETHAI in Generation Gucci — clear ambassador enthusiasm and collection praise in Thai premium media.",
-      "signal_tags": ["Generation Gucci", "Demna", "Thailand", "editorial", "ELLE Men", "TIMETHAI", "celebrity"],
-      "confidence": 0.9
-    },
-    {
-      "id": "SEA-2026-07-05-002",
-      "sentiment": 1,
-      "magnitude": 1.0,
-      "rationale": "ELLE Thailand provides full positive campaign coverage of Monte Carlo Chapter 2 with detailed accessory highlights and Flora 60th anniversary framing — strong editorial endorsement.",
-      "signal_tags": ["Monte Carlo", "summer campaign", "Flora", "Thailand", "campaign", "Demna", "accessories"],
-      "confidence": 0.9
-    },
-    {
-      "id": "SEA-2026-07-05-003",
-      "sentiment": 1,
-      "magnitude": 0.5,
-      "rationale": "Routine campaign-focused article in ELLE Men Thailand covering Monte Carlo Summer 2026 — positive but largely informational, lower reach than the cover story.",
-      "signal_tags": ["Monte Carlo", "summer 2026", "Thailand", "men's fashion", "Flora", "campaign"],
-      "confidence": 0.85
-    },
-    {
-      "id": "SEA-2026-07-05-004",
-      "sentiment": 1,
-      "magnitude": 0.5,
-      "rationale": "Tatler Asia profile reinforces Gucci as Billkin's flagship brand partnership; continued ambassador activation sustains brand visibility despite his physical absence from Milan.",
-      "signal_tags": ["Billkin", "brand ambassador", "Thailand", "Tatler Asia", "La Famiglia", "Generation Gucci"],
-      "confidence": 0.8
-    },
-    {
-      "id": "SEA-2026-07-05-005",
-      "sentiment": 1,
-      "magnitude": 1.0,
-      "rationale": "WWD T1 source confirming Billkin as Thailand brand ambassador — favorable trade-press signal explicitly cited as positive in rubric, strengthening Gucci's SEA soft-power strategy.",
-      "signal_tags": ["Billkin", "brand ambassador", "Thailand", "WWD", "appointment", "celebrity"],
-      "confidence": 0.95
-    },
-    {
-      "id": "SEA-2026-07-05-006",
-      "sentiment": -1,
-      "magnitude": 1.0,
-      "rationale": "T1 WWD negative earnings press: Gucci revenue -8% comparable in Q1 2026, Asia-Pacific down 4% — directly negative momentum signal per rubric.",
-      "signal_tags": ["Kering", "financials", "Q1 2026", "Asia-Pacific", "revenue", "results", "Demna"],
-      "confidence": 0.95
-    },
-    {
-      "id": "SEA-2026-07-05-007",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "Hypebeast reports explicitly mixed reaction — criticism of creative direction alongside enthusiasm; per rubric, when in doubt neutral, and mixed signals cancel to 0.",
-      "signal_tags": ["Generation Gucci", "Pre-Fall 2026", "Demna", "campaign", "Hypebeast", "SEA distribution"],
-      "confidence": 0.75
-    },
-    {
-      "id": "SEA-2026-07-05-008",
-      "sentiment": 1,
-      "magnitude": 0.5,
-      "rationale": "Organic social recall of Manila premiere on Threads — genuine positive sentiment but T3 source with only 91 views; low reach dampens magnitude per fandom-spike guidance.",
-      "signal_tags": ["The Tiger", "Manila", "Philippines", "Threads", "social", "premiere", "La Famiglia"],
-      "confidence": 0.65
-    },
-    {
-      "id": "SEA-2026-07-05-009",
-      "sentiment": 1,
-      "magnitude": 1.0,
-      "rationale": "ABS-CBN Metro.Style covers star-studded Manila premiere with named A-list celebrities in La Famiglia looks — strong positive brand-visibility signal for Philippine luxury market.",
-      "signal_tags": ["The Tiger", "Manila", "Philippines", "La Famiglia", "celebrity", "event", "ABS-CBN"],
-      "confidence": 0.9
-    },
-    {
-      "id": "SEA-2026-07-05-010",
-      "sentiment": 1,
-      "magnitude": 0.5,
-      "rationale": "Manila Bulletin best-dressed editorial reinforces Gucci status aspirations among Filipino consumers — positive but secondary/follow-up coverage, mild magnitude.",
-      "signal_tags": ["The Tiger", "Philippines", "Manila", "La Famiglia", "fashion", "celebrity", "Manila Bulletin"],
-      "confidence": 0.85
-    },
-    {
-      "id": "SEA-2026-07-05-011",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "Vietnam counterfeit enforcement is ambiguous: IP protection is net-positive but counterfeit prevalence signals brand dilution risk; rubric trap flags these as neutral-to-mild-negative — defaulting to neutral.",
-      "signal_tags": ["Vietnam", "counterfeit", "enforcement", "Da Nang", "Gucci", "Chanel", "Hermes", "crackdown"],
-      "confidence": 0.7
-    },
-    {
-      "id": "SEA-2026-07-05-012",
-      "sentiment": 1,
-      "magnitude": 0.5,
-      "rationale": "VMAN SEA profile on Jarren Garcia positions him as a key Gucci Philippines face across multiple activations — positive ambassador-association signal, mild magnitude for a profile piece.",
-      "signal_tags": ["Philippines", "Jarren Garcia", "VMAN SEA", "profile", "ambassador", "Cruise 2026"],
-      "confidence": 0.8
-    },
-    {
-      "id": "SEA-2026-07-05-013",
-      "sentiment": 1,
-      "magnitude": 0.5,
-      "rationale": "Third-party trade analysis names Gucci among brands accelerating SEA footprint in a favorable macro-growth narrative — positive contextual signal, moderate confidence.",
-      "signal_tags": ["SEA market", "luxury retail", "strategy", "Bangkok", "Singapore", "Vietnam", "growth"],
-      "confidence": 0.75
-    },
-    {
-      "id": "SEA-2026-07-05-014",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "VMAN SEA Instagram reel unverifiable due to authentication wall; confidence below 0.5 threshold — polarity demoted to neutral per rubric rule.",
-      "signal_tags": ["Instagram", "VMAN SEA", "SEA", "social", "regional activation", "T3"],
-      "confidence": 0.4
-    }
-  ],
-  "aggregate": {
-    "weighted_sentiment": 0.4286,
-    "positive_count": 10,
-    "neutral_count": 3,
-    "negative_count": 1,
-    "dominant_sentiment": "positive",
-    "top_positive_item": "SEA-2026-07-05-001",
-    "top_negative_item": "SEA-2026-07-05-006"
+[
+  {
+    "id": "SEA-2026-07-05-001",
+    "sentiment": 0,
+    "magnitude": 0,
+    "rationale": "T2 cover story featuring TIMETHAI in the Generation Gucci campaign is purely descriptive (who wears it, interview angle) with no outlet evaluative verdict — activation coverage (campaign cover feature); v1.1 activation discount applied.",
+    "signal_tags": ["Generation Gucci", "Demna", "Thailand", "editorial", "ELLE Men", "TIMETHAI", "celebrity", "activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-05-002",
+    "sentiment": 0,
+    "magnitude": 0,
+    "rationale": "ELLE Thailand's Monte Carlo Chapter 2 coverage is purely descriptive (silhouettes, cast, accessories, Flora anniversary framing) with no outlet evaluative verdict — activation coverage (campaign write-up); v1.1 activation discount applied.",
+    "signal_tags": ["Monte Carlo", "summer campaign", "Flora", "Thailand", "campaign", "Demna", "accessories", "activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-05-003",
+    "sentiment": 0,
+    "magnitude": 0,
+    "rationale": "ELLE Men Thailand's Monte Carlo Summer 2026 article is routine campaign description with no outlet evaluative verdict — purely informational activation coverage; v1.1 activation discount applied.",
+    "signal_tags": ["Monte Carlo", "summer 2026", "Thailand", "men's fashion", "Flora", "campaign", "activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-05-004",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Tatler Asia profile reinforces Gucci as Billkin's flagship brand partnership; continued ambassador activation sustains brand visibility despite his physical absence from Milan.",
+    "signal_tags": ["Billkin", "brand ambassador", "Thailand", "Tatler Asia", "La Famiglia", "Generation Gucci"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-05-005",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "WWD T1 confirms Billkin's appointment as Thailand brand ambassador — ambassador appointment is activation coverage and falls under the fandom trap; magnitude capped at 0.5 despite T1 sourcing since no independent critical verdict is present; v1.1 activation discount applied.",
+    "signal_tags": ["Billkin", "brand ambassador", "Thailand", "WWD", "appointment", "celebrity", "activation_coverage"],
+    "confidence": 0.95
+  },
+  {
+    "id": "SEA-2026-07-05-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 WWD negative earnings press: Gucci revenue -8% comparable in Q1 2026, Asia-Pacific down 4% — directly negative momentum signal per rubric.",
+    "signal_tags": ["Kering", "financials", "Q1 2026", "Asia-Pacific", "revenue", "results", "Demna"],
+    "confidence": 0.95
+  },
+  {
+    "id": "SEA-2026-07-05-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Hypebeast reports explicitly mixed reaction — criticism of creative direction alongside enthusiasm; per rubric, when in doubt neutral, and mixed signals cancel to 0.",
+    "signal_tags": ["Generation Gucci", "Pre-Fall 2026", "Demna", "campaign", "Hypebeast", "SEA distribution"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-07-05-008",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic social recall of Manila premiere on Threads — genuine positive sentiment but T3 source with only 91 views; low reach dampens magnitude per fandom-spike guidance.",
+    "signal_tags": ["The Tiger", "Manila", "Philippines", "Threads", "social", "premiere", "La Famiglia"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-07-05-009",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "ABS-CBN Metro.Style covers the brand-staged Manila premiere with named celebrity attendees in La Famiglia looks; mild evaluative framing ('reinforced visibility') but no independent critical verdict — activation coverage (brand-staged premiere); magnitude capped at 0.5; v1.1 activation discount applied.",
+    "signal_tags": ["The Tiger", "Manila", "Philippines", "La Famiglia", "celebrity", "event", "ABS-CBN", "activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-07-05-010",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Manila Bulletin best-dressed editorial reinforces Gucci status aspirations among Filipino consumers — positive but secondary/follow-up coverage, mild magnitude.",
+    "signal_tags": ["The Tiger", "Philippines", "Manila", "La Famiglia", "fashion", "celebrity", "Manila Bulletin"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-05-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Vietnam counterfeit enforcement is ambiguous: IP protection is net-positive but counterfeit prevalence signals brand dilution risk; rubric trap flags these as neutral-to-mild-negative — defaulting to neutral.",
+    "signal_tags": ["Vietnam", "counterfeit", "enforcement", "Da Nang", "Gucci", "Chanel", "Hermes", "crackdown"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-05-012",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "VMAN SEA profile on Jarren Garcia positions him as a key Gucci Philippines face across multiple activations — positive ambassador-association signal, mild magnitude for a profile piece.",
+    "signal_tags": ["Philippines", "Jarren Garcia", "VMAN SEA", "profile", "ambassador", "Cruise 2026"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-05-013",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party trade analysis names Gucci among brands accelerating SEA footprint in a favorable macro-growth narrative — positive contextual signal, moderate confidence.",
+    "signal_tags": ["SEA market", "luxury retail", "strategy", "Bangkok", "Singapore", "Vietnam", "growth"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-07-05-014",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "VMAN SEA Instagram reel unverifiable due to authentication wall; confidence below 0.5 threshold — polarity demoted to neutral per rubric rule.",
+    "signal_tags": ["Instagram", "VMAN SEA", "SEA", "social", "regional activation", "T3"],
+    "confidence": 0.4
   }
-}
+]

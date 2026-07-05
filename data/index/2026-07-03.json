@@ -51,8 +51,8 @@
         "community": 1
       },
       "counts": {
-        "pos": 5,
-        "neu": 5,
+        "pos": 4,
+        "neu": 6,
         "neg": 1
       },
       "n_items": 11,
@@ -63,9 +63,9 @@
     "SEA": {
       "GMAI": 54.41,
       "band": "중립",
-      "NSS": 0.5002,
+      "NSS": 0.5,
       "components": {
-        "sentiment": 0.7501,
+        "sentiment": 0.75,
         "buzz": 0.5,
         "engagement": 0.5,
         "sov": 0.1579
@@ -120,17 +120,17 @@
       "delta": null
     },
     "NA": {
-      "GMAI": 43.61,
+      "GMAI": 43.32,
       "band": "주의",
-      "NSS": 0.0459,
+      "NSS": 0.0329,
       "components": {
-        "sentiment": 0.523,
+        "sentiment": 0.5165,
         "buzz": 0.5,
         "engagement": 0.5,
         "sov": 0.129
       },
       "contrib": {
-        "sentiment": 23.53,
+        "sentiment": 23.24,
         "buzz": 10.0,
         "engagement": 7.5,
         "sov": 2.58
@@ -169,8 +169,8 @@
         "community": 2
       },
       "counts": {
-        "pos": 6,
-        "neu": 4,
+        "pos": 5,
+        "neu": 5,
         "neg": 4
       },
       "n_items": 14,
@@ -256,11 +256,11 @@
     }
   },
   "global": {
-    "GMAI": 39.02,
+    "GMAI": 38.95,
     "band": "주의",
     "delta": null,
     "delta_attrib": null,
-    "sentiment_weighted": 0.4139
+    "sentiment_weighted": 0.4122
   },
   "missing_blocks": [],
   "triggers": [

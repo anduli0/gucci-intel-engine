@@ -21,9 +21,9 @@
     "id": "SEA-2026-07-03-003",
     "region": "SEA",
     "sentiment": 1,
-    "magnitude": 1.0,
-    "rationale": "Tatler Asia explicitly cites Gulf Kanawut's FW2026 look as 'most widely shared moment' of Milan show and frames partnership as evidence of Gucci's growing SEA audience priority — headline-level ambassador enthusiasm.",
-    "signal_tags": ["ambassador", "viral_moment", "SEA_market_priority", "FW2026", "editorial_praise"],
+    "magnitude": 0.5,
+    "rationale": "Tatler Asia cites Gulf Kanawut's FW2026 look as 'most widely shared moment' of Milan show, framing partnership as evidence of Gucci's SEA audience priority — ambassador-at-brand-show coverage with evaluative framing but no quantified virality metric; magnitude capped at 0.5; v1.1 activation discount applied.",
+    "signal_tags": ["ambassador", "viral_moment", "SEA_market_priority", "FW2026", "editorial_praise", "activation_coverage"],
     "confidence": 0.92
   },
   {
@@ -39,9 +39,9 @@
     "id": "SEA-2026-07-03-005",
     "region": "SEA",
     "sentiment": 1,
-    "magnitude": 1.0,
-    "rationale": "L'Officiel Singapore reports Generation Gucci Singapore launch 'sent social media into a frenzy' — viral event energy, rising fashion icon association, and strong product moment (Paparazzo bag).",
-    "signal_tags": ["launch_event", "viral_social", "product_placement", "celebrity_appearance"],
+    "magnitude": 0.5,
+    "rationale": "L'Officiel Singapore reports Generation Gucci Singapore launch event 'sent social media into a frenzy' — brand-staged launch-event coverage with evaluative framing but no quantified virality figure; magnitude capped at 0.5; v1.1 activation discount applied.",
+    "signal_tags": ["launch_event", "viral_social", "product_placement", "celebrity_appearance", "activation_coverage"],
     "confidence": 0.90
   },
   {

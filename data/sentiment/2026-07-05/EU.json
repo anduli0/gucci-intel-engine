@@ -1,151 +1,138 @@
-{
-  "region": "EU",
-  "date": "2026-07-05",
-  "items": [
-    {
-      "id": "EU-2026-07-05-001",
-      "sentiment": 1,
-      "magnitude": 1.0,
-      "rationale": "Favorable T1 trade-press (BoF) runway review calling the collection 'a striking opening salvo' — canonical positive critical signal.",
-      "signal_tags": ["fashion_show", "AW2026", "Demna", "positive_review", "T1_trade_press"],
-      "confidence": 0.90
-    },
-    {
-      "id": "EU-2026-07-05-002",
-      "sentiment": -1,
-      "magnitude": 1.0,
-      "rationale": "T1 hard financial report: Gucci revenue -14.3% in Q1 2026 with Western Europe a significant underperformer — negative earnings momentum.",
-      "signal_tags": ["financials", "sales_decline", "Q1_2026", "Western_Europe", "negative_earnings"],
-      "confidence": 0.95
-    },
-    {
-      "id": "EU-2026-07-05-003",
-      "sentiment": -1,
-      "magnitude": 1.0,
-      "rationale": "EU regulatory fine of ~€120M to Gucci for anticompetitive RPM practices — material controversy and reputational damage.",
-      "signal_tags": ["regulatory", "EU_fine", "RPM", "controversy", "European_Commission"],
-      "confidence": 0.95
-    },
-    {
-      "id": "EU-2026-07-05-004",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "WWD show gallery is largely factual collection documentation; revenue-drop context is noted but no strong editorial judgment is applied.",
-      "signal_tags": ["fashion_show", "AW2026", "factual_reporting", "gallery"],
-      "confidence": 0.70
-    },
-    {
-      "id": "EU-2026-07-05-005",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "Analytical strategy piece on 'Rinascimento Gucci' — informational in nature, no net positive or negative editorial stance on brand health.",
-      "signal_tags": ["strategy", "turnaround", "Kering", "Luca_de_Meo", "informational"],
-      "confidence": 0.75
-    },
-    {
-      "id": "EU-2026-07-05-006",
-      "sentiment": -1,
-      "magnitude": 1.0,
-      "rationale": "Compound negative: sustained European sales slump plus social backlash over AI use in design/marketing, framing Gucci's brand equity as under structural pressure.",
-      "signal_tags": ["sales_decline", "AI_backlash", "brand_perception", "negative_press", "Europe"],
-      "confidence": 0.88
-    },
-    {
-      "id": "EU-2026-07-05-007",
-      "sentiment": 1,
-      "magnitude": 1.0,
-      "rationale": "AnOther Magazine positive critical review: collection framed as 'emotionally calibrated and commercially aware,' a substantive endorsement from UK fashion media.",
-      "signal_tags": ["fashion_show", "AW2026", "positive_review", "UK_media", "Demna"],
-      "confidence": 0.85
-    },
-    {
-      "id": "EU-2026-07-05-008",
-      "sentiment": 1,
-      "magnitude": 0.5,
-      "rationale": "Positive French luxury media framing of Demna's debut as a deliberate negotiation of Italian heritage and radical modernity; enthusiastic but T2 reach.",
-      "signal_tags": ["fashion_show", "AW2026", "French_media", "positive_review", "Italian_heritage"],
-      "confidence": 0.80
-    },
-    {
-      "id": "EU-2026-07-05-009",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "Neutral factual coverage of Cruise 2026 as a brand-transition bridge moment; no editorial judgment on brand strength or weakness.",
-      "signal_tags": ["cruise_collection", "brand_transition", "French_media", "factual_reporting"],
-      "confidence": 0.80
-    },
-    {
-      "id": "EU-2026-07-05-010",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "EU regulatory update on ESPR sustainability law; Gucci is incidentally bound as a large brand — informational compliance context, no brand sentiment signal.",
-      "signal_tags": ["regulation", "ESPR", "sustainability", "compliance", "incidental_mention"],
-      "confidence": 0.80
-    },
-    {
-      "id": "EU-2026-07-05-011",
-      "sentiment": 1,
-      "magnitude": 1.0,
-      "rationale": "High jewellery launch of ~140 one-of-a-kind pieces at Paris Haute Couture — positive product milestone directly supporting Kering's jewelry revenue strategy.",
-      "signal_tags": ["product_launch", "high_jewelry", "Paris_Haute_Couture", "heritage", "positive_launch"],
-      "confidence": 0.88
-    },
-    {
-      "id": "EU-2026-07-05-012",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "Monte Carlo summer campaign received genuinely split social reception — praised for glamour by some, 'cheap and dated' by others; no dominant polarity warrants neutral.",
-      "signal_tags": ["campaign", "mixed_reception", "social_buzz", "EU_resort", "divided_opinion"],
-      "confidence": 0.65
-    },
-    {
-      "id": "EU-2026-07-05-013",
-      "sentiment": 1,
-      "magnitude": 0.5,
-      "rationale": "Positive ambassador strategy narrative: Sabalenka/Sinner tennis partnerships generating EU sports-marketing visibility during Wimbledon; no viral metric data available.",
-      "signal_tags": ["ambassador", "tennis", "sports_marketing", "Wimbledon", "EU_visibility"],
-      "confidence": 0.82
-    },
-    {
-      "id": "EU-2026-07-05-014",
-      "sentiment": 1,
-      "magnitude": 0.5,
-      "rationale": "Carnets du Luxe French analysis reads Demna's sensuality pivot positively as a calculated reconnection with aspirational desire; T2 source, moderate reach.",
-      "signal_tags": ["fashion_show", "AW2026", "French_media", "positive_analysis", "Demna"],
-      "confidence": 0.82
-    },
-    {
-      "id": "EU-2026-07-05-015",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "Factual UK trade report on de Meo's retail-footprint reduction strategy; presents plans without editorial framing as positive or negative for brand standing.",
-      "signal_tags": ["strategy", "retail", "store_reduction", "Kering", "factual_reporting"],
-      "confidence": 0.75
-    },
-    {
-      "id": "EU-2026-07-05-016",
-      "sentiment": 0,
-      "magnitude": 0.5,
-      "rationale": "T3 fashion forum with organic but genuinely divided consumer reactions to Monte Carlo campaign; split opinion defaults to neutral per rubric.",
-      "signal_tags": ["social_buzz", "community_forum", "campaign_reaction", "mixed_opinion", "T3"],
-      "confidence": 0.70
-    },
-    {
-      "id": "EU-2026-07-05-017",
-      "sentiment": 1,
-      "magnitude": 1.0,
-      "rationale": "Dazed Digital frames Demna's AW26 debut as a 'blockbuster' with aspirational celebrity casting — positive UK cultural media endorsement with broad mainstream reach.",
-      "signal_tags": ["fashion_show", "AW2026", "UK_media", "celebrity_casting", "positive_review"],
-      "confidence": 0.85
-    }
-  ],
-  "aggregate": {
-    "weighted_sentiment": 0.147,
-    "positive_count": 7,
-    "neutral_count": 7,
-    "negative_count": 3,
-    "dominant_sentiment": "positive_neutral_tie",
-    "top_positive_item": "EU-2026-07-05-001",
-    "top_negative_item": "EU-2026-07-05-002"
+[
+  {
+    "id": "EU-2026-07-05-001",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Favorable T1 trade-press (BoF) runway review calling the collection 'a striking opening salvo' — canonical positive critical signal.",
+    "signal_tags": ["fashion_show", "AW2026", "Demna", "positive_review", "T1_trade_press"],
+    "confidence": 0.90
+  },
+  {
+    "id": "EU-2026-07-05-002",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 hard financial report: Gucci revenue -14.3% in Q1 2026 with Western Europe a significant underperformer — negative earnings momentum.",
+    "signal_tags": ["financials", "sales_decline", "Q1_2026", "Western_Europe", "negative_earnings"],
+    "confidence": 0.95
+  },
+  {
+    "id": "EU-2026-07-05-003",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "EU regulatory fine of ~€120M to Gucci for anticompetitive RPM practices — material controversy and reputational damage.",
+    "signal_tags": ["regulatory", "EU_fine", "RPM", "controversy", "European_Commission"],
+    "confidence": 0.95
+  },
+  {
+    "id": "EU-2026-07-05-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD show gallery is largely factual collection documentation; revenue-drop context is noted but no strong editorial judgment is applied.",
+    "signal_tags": ["fashion_show", "AW2026", "factual_reporting", "gallery"],
+    "confidence": 0.70
+  },
+  {
+    "id": "EU-2026-07-05-005",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analytical strategy piece on 'Rinascimento Gucci' — informational in nature, no net positive or negative editorial stance on brand health.",
+    "signal_tags": ["strategy", "turnaround", "Kering", "Luca_de_Meo", "informational"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-07-05-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Compound negative: sustained European sales slump plus social backlash over AI use in design/marketing, framing Gucci's brand equity as under structural pressure.",
+    "signal_tags": ["sales_decline", "AI_backlash", "brand_perception", "negative_press", "Europe"],
+    "confidence": 0.88
+  },
+  {
+    "id": "EU-2026-07-05-007",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "AnOther Magazine positive critical review: collection framed as 'emotionally calibrated and commercially aware,' a substantive endorsement from UK fashion media.",
+    "signal_tags": ["fashion_show", "AW2026", "positive_review", "UK_media", "Demna"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-05-008",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Positive French luxury media framing of Demna's debut as a deliberate negotiation of Italian heritage and radical modernity; enthusiastic but T2 reach.",
+    "signal_tags": ["fashion_show", "AW2026", "French_media", "positive_review", "Italian_heritage"],
+    "confidence": 0.80
+  },
+  {
+    "id": "EU-2026-07-05-009",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Neutral factual coverage of Cruise 2026 as a brand-transition bridge moment; no editorial judgment on brand strength or weakness.",
+    "signal_tags": ["cruise_collection", "brand_transition", "French_media", "factual_reporting"],
+    "confidence": 0.80
+  },
+  {
+    "id": "EU-2026-07-05-010",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "EU regulatory update on ESPR sustainability law; Gucci is incidentally bound as a large brand — informational compliance context, no brand sentiment signal.",
+    "signal_tags": ["regulation", "ESPR", "sustainability", "compliance", "incidental_mention"],
+    "confidence": 0.80
+  },
+  {
+    "id": "EU-2026-07-05-011",
+    "sentiment": 0,
+    "magnitude": 0,
+    "rationale": "High-jewellery launch coverage (~140 pieces at Paris Haute Couture) is purely descriptive of materials and heritage references with no outlet evaluative verdict — activation coverage (product/collection launch); v1.1 activation discount applied.",
+    "signal_tags": ["product_launch", "high_jewelry", "Paris_Haute_Couture", "heritage", "activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-05-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Monte Carlo summer campaign received genuinely split social reception — praised for glamour by some, 'cheap and dated' by others; no dominant polarity warrants neutral.",
+    "signal_tags": ["campaign", "mixed_reception", "social_buzz", "EU_resort", "divided_opinion"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-07-05-013",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Positive ambassador strategy narrative: Sabalenka/Sinner tennis partnerships generating EU sports-marketing visibility during Wimbledon; no viral metric data available.",
+    "signal_tags": ["ambassador", "tennis", "sports_marketing", "Wimbledon", "EU_visibility"],
+    "confidence": 0.82
+  },
+  {
+    "id": "EU-2026-07-05-014",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Carnets du Luxe French analysis reads Demna's sensuality pivot positively as a calculated reconnection with aspirational desire; T2 source, moderate reach.",
+    "signal_tags": ["fashion_show", "AW2026", "French_media", "positive_analysis", "Demna"],
+    "confidence": 0.82
+  },
+  {
+    "id": "EU-2026-07-05-015",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual UK trade report on de Meo's retail-footprint reduction strategy; presents plans without editorial framing as positive or negative for brand standing.",
+    "signal_tags": ["strategy", "retail", "store_reduction", "Kering", "factual_reporting"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-07-05-016",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "T3 fashion forum with organic but genuinely divided consumer reactions to Monte Carlo campaign; split opinion defaults to neutral per rubric.",
+    "signal_tags": ["social_buzz", "community_forum", "campaign_reaction", "mixed_opinion", "T3"],
+    "confidence": 0.70
+  },
+  {
+    "id": "EU-2026-07-05-017",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Dazed Digital frames Demna's AW26 debut as a 'blockbuster' with aspirational celebrity casting — positive UK cultural media endorsement with broad mainstream reach.",
+    "signal_tags": ["fashion_show", "AW2026", "UK_media", "celebrity_casting", "positive_review"],
+    "confidence": 0.85
   }
-}
+]

@@ -4,9 +4,9 @@
     "NEA": {
       "GMAI": 55.17,
       "band": "중립",
-      "NSS": 0.4966,
+      "NSS": 0.4963,
       "components": {
-        "sentiment": 0.7483,
+        "sentiment": 0.7482,
         "buzz": 0.5,
         "engagement": 0.5,
         "sov": 0.2
@@ -42,11 +42,11 @@
         "pos": [
           [
             "ambassador",
-            11.23
+            11.22
           ],
           [
             "zhang_linghe",
-            11.17
+            11.16
           ],
           [
             "china",
@@ -79,17 +79,17 @@
       "delta": 11.75
     },
     "SEA": {
-      "GMAI": 58.25,
-      "band": "중립",
-      "NSS": 0.6886,
+      "GMAI": 44.02,
+      "band": "주의",
+      "NSS": 0.0559,
       "components": {
-        "sentiment": 0.8443,
+        "sentiment": 0.5279,
         "buzz": 0.5,
         "engagement": 0.5,
         "sov": 0.1379
       },
       "contrib": {
-        "sentiment": 37.99,
+        "sentiment": 23.76,
         "buzz": 10.0,
         "engagement": 7.5,
         "sov": 2.76
@@ -105,20 +105,20 @@
         "neg": [],
         "pos": [
           [
-            "Thailand",
-            14.29
+            "La Famiglia",
+            1.26
           ],
           [
-            "Demna",
-            10.89
+            "premiere",
+            1.2
           ],
           [
-            "campaign",
-            10.03
+            "social",
+            1.2
           ],
           [
-            "Flora",
-            10.03
+            "Threads",
+            1.2
           ]
         ]
       },
@@ -128,19 +128,19 @@
         "community": 2
       },
       "counts": {
-        "pos": 10,
-        "neu": 3,
+        "pos": 7,
+        "neu": 6,
         "neg": 1
       },
       "n_items": 14,
       "sov_source": "objective",
       "delta_attrib": {
-        "sentiment": 4.24,
+        "sentiment": -9.99,
         "buzz": 0.0,
         "engagement": 0.0,
         "sov": -0.4
       },
-      "delta": 3.84
+      "delta": -10.39
     },
     "NA": {
       "GMAI": 54.1,
@@ -199,25 +199,25 @@
       "n_items": 17,
       "sov_source": "objective",
       "delta_attrib": {
-        "sentiment": 10.4,
+        "sentiment": 10.69,
         "buzz": 0.0,
         "engagement": 0.0,
         "sov": 0.09
       },
-      "delta": 10.49
+      "delta": 10.78
     },
     "EU": {
-      "GMAI": 49.29,
-      "band": "중립",
-      "NSS": 0.2902,
+      "GMAI": 42.04,
+      "band": "주의",
+      "NSS": -0.032,
       "components": {
-        "sentiment": 0.6451,
+        "sentiment": 0.484,
         "buzz": 0.5,
         "engagement": 0.5,
         "sov": 0.1379
       },
       "contrib": {
-        "sentiment": 29.03,
+        "sentiment": 21.78,
         "buzz": 10.0,
         "engagement": 7.5,
         "sov": 2.76
@@ -248,24 +248,7 @@
             -0.72
           ]
         ],
-        "pos": [
-          [
-            "positive_launch",
-            7.25
-          ],
-          [
-            "heritage",
-            7.25
-          ],
-          [
-            "Paris_Haute_Couture",
-            7.25
-          ],
-          [
-            "high_jewelry",
-            7.25
-          ]
-        ]
+        "pos": []
       },
       "channel_mix": {
         "news": 16,
@@ -273,41 +256,47 @@
         "community": 1
       },
       "counts": {
-        "pos": 7,
-        "neu": 7,
+        "pos": 6,
+        "neu": 8,
         "neg": 3
       },
       "n_items": 17,
       "sov_source": "objective",
       "delta_attrib": {
-        "sentiment": 26.13,
+        "sentiment": 18.88,
         "buzz": 0.0,
         "engagement": 0.0,
         "sov": 0.32
       },
-      "delta": 26.45
+      "delta": 19.2
     }
   },
   "global": {
-    "GMAI": 53.63,
+    "GMAI": 49.89,
     "band": "중립",
-    "delta": 14.61,
+    "delta": 10.94,
     "delta_attrib": {
-      "sentiment": 14.33,
+      "sentiment": 10.67,
       "buzz": 0.0,
       "engagement": 0.0,
       "sov": 0.27
     },
-    "sentiment_weighted": 0.7323
+    "sentiment_weighted": 0.6492
   },
   "missing_blocks": [],
   "triggers": [
-    "GLOBAL |Δ| ≥ 7pt (Δ=+14.61)"
+    "GLOBAL |Δ| ≥ 7pt (Δ=+10.94)",
+    "SEA dropped ≥ 10pt (Δ=-10.39)"
   ],
   "triggers_v2": [
     {
       "code": "global_delta",
-      "delta": 14.61
+      "delta": 10.94
+    },
+    {
+      "code": "region_drop",
+      "region": "SEA",
+      "delta": -10.39
     }
   ],
   "region_weights_used": {

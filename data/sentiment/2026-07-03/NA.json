@@ -110,10 +110,10 @@
   {
     "id": "NA-2026-07-03-013",
     "region": "NA",
-    "sentiment": 1,
+    "sentiment": 0,
     "magnitude": 0.5,
-    "rationale": "T1 trade press documents star-studded celebrity front row; coverage frames the event as generating widespread public exposure beyond fashion insiders.",
-    "signal_tags": ["celebrity_endorsement", "pr_positive", "brand_visibility", "T1_trade_press"],
+    "rationale": "T1 trade press purely lists the star-studded celebrity front row at a brand-staged show with no outlet evaluative verdict on Gucci itself — purely descriptive activation coverage; v1.1 activation discount applied.",
+    "signal_tags": ["celebrity_endorsement", "pr_positive", "brand_visibility", "T1_trade_press", "activation_coverage"],
     "confidence": 0.75
   },
   {
