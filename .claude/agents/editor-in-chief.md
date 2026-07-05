@@ -21,6 +21,7 @@ Enforce the analyst-report format:
 - REMOVE any `## Executive Summary (English)` section from the KOREAN half — the appended English edition provides the English text; the Korean half needs only 핵심 요약.
 - Keep (or add) `## 주석` just before 출처: one plain-language line for every index/metric cited in the body (GMAI, NSS, SOV, 밴드, 성분 등) — what it is, its scale, how to read it.
 - Remove redundancy and filler so an executive grasps the core in 30 seconds.
+- FIXED TRANSLITERATIONS (Korean text): Demna = 뎀나 (NEVER 데므나). Correct on sight.
 - BILINGUAL PUBLICATION (single file): after finalizing the Korean report, APPEND to the SAME file a separator line `<!-- ===== ENGLISH EDITION ===== -->` followed by a complete faithful English edition (translate everything; keep every number, footnote marker [n] and URL identical; band terms 강한 매력/우호/중립/주의/경고 → Strong/Favorable/Neutral/Caution/Alert; 가설→(hypothesis), 미확인→(unverified)). Never create a separate -en file — the app splits the single file by the marker per the user's language toggle.
 
 Save the final file to its designated data/reports/ path (overwrite the draft) and return the path.
