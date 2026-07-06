@@ -935,7 +935,7 @@ async function loadProd(){
   if(!prodSel||!cats.find(c=>c.key===prodSel)) prodSel=cats[0].key;
   $('prodCats').innerHTML = cats.map(c=>
     `<button class="${c.key===prodSel?'on':''}" data-g="${esc(c.key)}" onclick="selProd('${esc(c.key)}')">${esc(LANG==='en'?(c.name_en||c.name_ko):(c.name_ko||c.name_en))} (${(c.items||[]).length})</button>`).join('')
-    + `<span class="note" style="align-self:center;margin-left:6px">${t().prodHead(prodData.date)}${updB(prodData.date)}</span>`;
+    + `<span class="note" style="align-self:center;margin-left:6px">${t().prodHead(prodData.date)}</span>`;
   renderProd();
 }
 function selProd(k){ prodSel=k;
@@ -979,7 +979,7 @@ async function loadCal(){
     return;
   }
   $('calBody').innerHTML =
-    `<div class="newshead"><span class="d">${esc(d.date)}</span>${updB(d.date)}<span class="note">${t().calHead(d.date, d.items.length)}</span></div>`+
+    `<div class="newshead"><span class="d">${esc(d.date)}</span><span class="note">${t().calHead(d.date, d.items.length)}</span></div>`+
     d.items.map(it=>{
       const ty=(it.type||'industry').toLowerCase();
       const why = LANG==='en' ? (it.why_en||it.why_ko||'') : (it.why_ko||it.why_en||'');
@@ -1007,7 +1007,7 @@ async function loadAmb(){
     return;
   }
   $('ambBody').innerHTML =
-    `<div class="newshead"><span class="d">${esc(d.date)}</span>${updB(d.date)}<span class="note">${t().ambHead(d.date, d.items.length)}</span></div>`+
+    `<div class="newshead"><span class="d">${esc(d.date)}</span><span class="note">${t().ambHead(d.date, d.items.length)}</span></div>`+
     d.items.map(it=>{
       const what = LANG==='en' ? (it.what_en||it.what_ko||'') : (it.what_ko||it.what_en||'');
       const imp = LANG==='en' ? (it.impact_en||it.impact_ko||'') : (it.impact_ko||it.impact_en||'');
@@ -1054,7 +1054,7 @@ async function loadNews(){
   const item = it => {
     const ti = LANG==='en' ? (it.title_original||it.title_ko||'') : (it.title_ko||it.title_original||'');
     return `<div class="newsitem"><div class="rk">${it.rank??''}</div><div style="flex:1">
-      <div class="ti">${esc(ti)}</div>
+      <div class="ti">${esc(ti)}${updB(it.published_at)}</div>
       <div class="sm">${esc(pickL(it,'summary_ko','summary_en'))}</div>
       ${(it.why_gucci_ko||it.why_gucci_en)?`<div class="why">${t().gucciView}${esc(pickL(it,'why_gucci_ko','why_gucci_en'))}</div>`:''}
       <div class="src">${it.tier?`<span class="tierb">${esc(it.tier)}</span>`:''}${esc(it.source||'')} ${it.published_at?'· '+esc(it.published_at):''}
@@ -1078,7 +1078,7 @@ async function loadNews(){
        <div class="accbody">${note?`<div class="note" style="margin:2px 0 10px">${note}</div>`:''}${bodyHtml}</div>
      </div>`;
   $('newsBody').innerHTML =
-    `<div class="newshead"><span class="d">${esc(d.date)}</span>${updB(d.date)}<span class="note">${t().newsHead((d.gucci||[]).length,(d.luxury||[]).length)}${d.synthetic?' · synthetic':''}</span></div>`
+    `<div class="newshead"><span class="d">${esc(d.date)}</span><span class="note">${t().newsHead((d.gucci||[]).length,(d.luxury||[]).length)}${d.synthetic?' · synthetic':''}</span></div>`
     + acc('g', t().newsG, '', (d.gucci||[]).map(item).join(''), (d.gucci||[]).length)
     + acc('l', t().newsL, '', (d.luxury||[]).map(item).join(''), (d.luxury||[]).length)
     + (keep.length ? acc('a', t().arch, t().archNote, keep.map(keepItem).join(''), keep.length) : '');
@@ -1102,7 +1102,7 @@ async function loadLux(){
   if(!luxSel||!groups.includes(luxSel)) luxSel=groups[0];
   $('luxGroups').innerHTML = groups.map(g=>
     `<button class="${g===luxSel?'on':''}" data-g="${esc(g)}" onclick="selLux('${esc(g)}')">${t().groups[g]||g} (${luxData.groups[g].length})</button>`).join('')
-    + `<span class="note" style="align-self:center;margin-left:6px">${luxData.date}${t().luxAsof}${updB(luxData.date)}</span>`;
+    + `<span class="note" style="align-self:center;margin-left:6px">${luxData.date}${t().luxAsof}</span>`;
   renderLux();
 }
 function selLux(g){ luxSel=g;
@@ -1121,7 +1121,7 @@ function renderLux(){
       <div class="top"><span class="brand">${esc(it.brand||'')}</span>
         <span class="etype">${esc(it.event_type||'')}</span>
         <span class="tag ${cls}">${esc(ko)}</span></div>
-      <div class="hd">${esc(it.headline||'')}</div>
+      <div class="hd">${esc(it.headline||'')}${updB(it.published_at)}</div>
       ${why?`<div class="why">${t().gucciView}${esc(why)}</div>`:''}
       <div class="src">${esc(it.source||'')} ${it.tier?'· '+esc(it.tier):''} ${it.published_at?'· '+esc(it.published_at):''}
         ${it.url?` · <a href="${esc(it.url)}" target="_blank">${t().orig}</a>`:''}</div>
