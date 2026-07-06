@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NA-2026-07-06-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive Nettspend Wooster pop-up write-up with no independent evaluative verdict, purely activation coverage.",
+    "signal_tags": ["activation_coverage", "streetwear_crossover", "store_activation"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-06-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned official X promo post about its own activation; self-praise is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned", "sns"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-06-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent community buying guide favorably recommends Gucci bags to first-time luxury buyers, but framing is mild/conditional editorial advice.",
+    "signal_tags": ["purchase_intent", "community_editorial", "entry_level_positioning"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-07-06-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic aggregated consumer reviews cite recurring QC failures (stitching, tarnishing, peeling, shedding) and a price-to-quality mismatch versus Hermes.",
+    "signal_tags": ["quality_complaint", "value_for_money", "peer_comparison"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-06-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Straightforward trade reporting on High Jewellery collection launch with no evaluative verdict from the outlet.",
+    "signal_tags": ["activation_coverage", "product_launch", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-06-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Incidental mention of Gucci in a multi-brand lifestyle roundup, no independent judgment specific to Gucci.",
+    "signal_tags": ["incidental_mention", "lifestyle_roundup"],
+    "confidence": 0.7
+  }
+]

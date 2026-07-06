@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-07-06-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Reader reaction to Tian Xiwei's Monte Carlo campaign look is explicitly mixed (some say it doesn't suit her, others praise boldness), no net polarity.",
+    "signal_tags": ["campaign_reaction", "mixed_reaction", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-06-003",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Harper's Bazaar Vietnam editorial frames the campaign transformation favorably as versatility, but it is still activation coverage so magnitude capped at 0.5.",
+    "signal_tags": ["campaign_reaction", "editorial_verdict", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-06-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive cover-story write-up of TIMETHAI wearing Generation Gucci looks; no independent critical verdict, purely activation description.",
+    "signal_tags": ["activation_coverage", "ambassador", "cover_story"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-07-06-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official venue account promotional post about ambassador appearance at store event; brand/venue-owned promo copy is not public opinion.",
+    "signal_tags": ["activation_coverage", "ambassador", "brand_owned"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-06-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-account reshare of ambassador event footage described as fandom amplification rather than independent commentary; damped per fandom-spike trap.",
+    "signal_tags": ["fandom_spike", "ambassador", "activation_coverage", "fan_amplification"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-06-007",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Genuine collector engagement on Flora-print pieces with quantified demand signal (white GG Marmont sold out), independent judgment outside brand messaging.",
+    "signal_tags": ["community_sentiment", "product_praise", "quantified_demand", "sold_out"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-07-06-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Long-running contrarian-opinions thread with ongoing, split debate over whether Demna's design direction improves or dilutes the house; no clear net polarity.",
+    "signal_tags": ["community_sentiment", "design_debate", "mixed_reaction"],
+    "confidence": 0.5
+  }
+]

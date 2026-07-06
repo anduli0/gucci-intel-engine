@@ -1,0 +1,101 @@
+[
+  {
+    "id": "EU-2026-07-06-001",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade-press runway review scored engagement/wow-factor highly but flagged 'Gen Z cosplay' looks, a mixed qualified verdict",
+    "signal_tags": ["runway_review", "trade_press", "mixed_verdict"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-07-06-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Bernstein's 'more good than bad' 7.6/10 is an explicitly hedged, balanced score with no clear net polarity toward positive or negative",
+    "signal_tags": ["analyst_view", "trade_press", "mixed_verdict"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-06-003",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent editorial praise for the collection's archive-mining and Gucci's broad consumer base as strategic advantage, a favorable third-party review",
+    "signal_tags": ["runway_review", "independent_judgment", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-07-06-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock fell 6.91% on Gucci-driven turnaround-delay signal, worst CAC 40 performer, Barclays called 2026 targets 'increasingly difficult'",
+    "signal_tags": ["earnings_momentum", "stock_reaction", "analyst_view"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-06-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "French financial press on the same stock slide stresses persistent analyst doubt over Gucci's turnaround credibility",
+    "signal_tags": ["earnings_momentum", "stock_reaction", "analyst_view"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-06-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram campaign launch is press-kit-derived promo, not independent public opinion; descriptive write-up per activation-coverage discount",
+    "signal_tags": ["activation_coverage", "brand_owned", "campaign_launch"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-07-06-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Viral TikTok repost drew explicitly polarized reactions (icon moment vs. tasteless), no clear net direction so defaults neutral under in-doubt rule",
+    "signal_tags": ["viral_moment", "polarized_reaction", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-07-06-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community sentiment on PurseForum explicitly mixed but weighted toward nostalgia for pre-Demna archive styles, implying dissatisfaction with current design direction",
+    "signal_tags": ["community_sentiment", "design_criticism", "nostalgia"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-06-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Brand Finance rank slip 3rd to 5th framed by an industry commentator as a cautionary overexposure/diluted-desirability case; the circulated percentage figure is unverified so magnitude is capped and confidence reduced",
+    "signal_tags": ["brand_value_drop", "commentary", "unverified_figure"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-07-06-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Duplicate social recap of the Brand Finance rank slip sparking follower debate on whether Demna's reset can reverse it; circulating percentage claim unverified",
+    "signal_tags": ["brand_value_drop", "sns", "unverified_figure"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-07-06-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade coverage details compounding sales slump across US, Europe and China plus a distinct AI-use backlash from critics over artisanal-quality dilution",
+    "signal_tags": ["sales_slump", "ai_backlash", "trade_press"],
+    "confidence": 0.85
+  }
+]
