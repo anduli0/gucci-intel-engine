@@ -5,8 +5,12 @@ on:
     # Goal: cycle COMPLETE (site published) before 08:00 KST.
     # GitHub cron can start up to ~1h late and Monday runs exceed 2h,
     # so the main run fires at dawn and a backup follows.
+    # Retry ladder: every slot is guarded (no-op republish when today is done),
+    # so a failed earlier slot gets retried "as soon as possible" after 08:00.
     - cron: '7 19 * * *'   # 19:07 UTC = 04:07 KST — main run
-    - cron: '7 21 * * *'   # 21:07 UTC = 06:07 KST — backup (skips pipeline if today already done, republishes site)
+    - cron: '7 21 * * *'   # 21:07 UTC = 06:07 KST — backup 1
+    - cron: '7 22 * * *'   # 22:07 UTC = 07:07 KST — backup 2
+    - cron: '7 23 * * *'   # 23:07 UTC = 08:07 KST — backup 3 (last resort, finishes ASAP after 08:00)
   workflow_dispatch: {}
 
 permissions:
