@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NA-20260707-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity-wedding guest-look mention with no evaluative verdict on Gucci; incidental factual reporting.",
+    "signal_tags": ["celebrity_wearing", "fandom_spike", "factual_reporting"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260707-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analyst consensus is Hold/Neutral with wide target dispersion reflecting genuine disagreement, not a clear negative momentum call.",
+    "signal_tags": ["analyst_rating", "financial_press", "mixed_consensus"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260707-03",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent creator reviews praise Dionysus hardware/construction and resale value as a 'smart buy', tempered by recurring strap-weight complaints.",
+    "signal_tags": ["third_party_review", "resale_value", "quality_complaint", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260707-04",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector community debates new Flora reissues vs archival editions without a settled positive or negative verdict.",
+    "signal_tags": ["community_discussion", "product_debate", "demna_era"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260707-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine authentication/counterfeit-vigilance thread; steady secondhand trading activity, mild counterfeit-exposure signal per trap guidance.",
+    "signal_tags": ["counterfeit", "resale_market", "community"],
+    "confidence": 0.55
+  }
+]

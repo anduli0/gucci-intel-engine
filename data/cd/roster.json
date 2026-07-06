@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "note": "주요 럭셔리 하우스 현직 크리에이티브/아티스틱 디렉터 전수 조사. 2025년 '크리에이티브 리셋'을 반영한 2026년 7월 기준 최신 좌석. status: active=재임 중, incoming=발표됐으나 미데뷔/데뷔 직후, departing=퇴임 예정. dossier=data/reports/cd 내 파일명(없으면 null).",
   "directors": [
     {
@@ -40,7 +40,7 @@
       "predecessor": "Maria Grazia Chiuri (women) / Kim Jones (men)",
       "status": "active",
       "title": "Creative Director (women's & men's)",
-      "dossier": null
+      "dossier": "dior-jonathan-anderson.md"
     },
     {
       "brand": "Fendi",
@@ -139,6 +139,16 @@
       "since": "2026-07",
       "predecessor": "Donatella Versace",
       "status": "incoming",
+      "title": "Chief Creative Officer",
+      "dossier": null
+    },
+    {
+      "brand": "Burberry",
+      "name": "대니얼 리",
+      "name_en": "Daniel Lee",
+      "since": "2022-10",
+      "predecessor": "Riccardo Tisci",
+      "status": "active",
       "title": "Chief Creative Officer",
       "dossier": null
     },

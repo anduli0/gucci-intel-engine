@@ -1,0 +1,29 @@
+[
+  {
+    "id": "NEA-20260707-01",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reports Gucci's 2023 Seoul duty-free withdrawal as part of a multi-year luxury exodus tied to declining Korean duty-free/tourist retail, a negative retail-footprint narrative even though LV is the main subject.",
+    "signal_tags": ["retail_contraction", "duty_free", "negative_momentum_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20260707-02",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade-press write-up of Gucci Beauty's autumn 2026 cosmetics/fragrance lineup with no evaluative verdict; brand-owned promo cadence.",
+    "signal_tags": ["activation_coverage", "product_launch", "beauty"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-20260707-03",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan amplification of ambassador Lee Know wearing Gucci pieces; genuine but repetitive fandom sighting content, damped to mild magnitude per fandom trap.",
+    "signal_tags": ["fandom_spike", "ambassador", "activation_coverage", "kpop"],
+    "confidence": 0.55
+  }
+]

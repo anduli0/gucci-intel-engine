@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "NEA-20260707-01",
+      "region": "NEA",
+      "source": "Hankyung (Korea Economic Daily)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.hankyung.com/article/2026062460191",
+      "published_at": "2026-06-24",
+      "title": "Chanel, Gucci, and now Louis Vuitton exit Seoul duty-free stores",
+      "summary": "Louis Vuitton announced it will close its three remaining Seoul duty-free counters (Lotte Myeongdong, Shilla Seoul, Shinsegae Myeongdong), joining Chanel (2021) and Gucci/Hermes (2023), which withdrew earlier. The piece frames this as a multi-year luxury exodus from Korean duty-free tied to the collapse of group-tour and Chinese reseller traffic, with duty-free sales down from 24.86 trillion won (2019) to 12.53 trillion won (2024); city stores fell from 84% to 73% of total revenue.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NEA-20260707-02",
+      "region": "NEA",
+      "source": "Fashion Press (Japan)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.fashion-press.net/news/brand/56",
+      "published_at": "2026-07-01",
+      "title": "Gucci Beauty launches autumn 2026 floral-pattern cosmetics and fragrance",
+      "summary": "Japanese fashion trade outlet Fashion Press covered Gucci Beauty's autumn 2026 lineup for the Japan market, including a 10-shade floral-pattern eyeshadow palette, a matching lip color, and a creamy, transparent floral fragrance, continuing the brand's regular seasonal beauty release cadence.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NEA-20260707-03",
+      "region": "NEA",
+      "source": "X (Twitter) - K-pop fan community post",
+      "source_type": "sns",
+      "tier": "T3",
+      "url": "https://x.com/watsonyb66/status/2027168117752045946",
+      "published_at": "2026-07-XX",
+      "title": "Fan post: Stray Kids' Lee Know spotted in Gucci washed-denim shirt and authenticated bag",
+      "summary": "A Korean fan account posted photos documenting Stray Kids member Lee Know (Gucci global brand ambassador) wearing a Gucci washed cotton denim shirt and carrying a Gucci bag, part of ongoing organic fan amplification of Gucci ambassador sightings within the Korean K-pop fandom on X.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 3,
+    "Louis Vuitton": 1,
+    "Dior": 0,
+    "Chanel": 1,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0
+  }
+}

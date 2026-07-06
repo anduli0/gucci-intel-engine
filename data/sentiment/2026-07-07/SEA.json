@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-07-07-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Question about KLCC store closure with speculation but no confirmed cause or explicit brand verdict",
+    "signal_tags": ["retail_footprint", "store_closure", "question"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-07-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Commentary frames KLCC (Gucci's location) as losing prestige status, implying weaker strategic positioning for brands there including Gucci",
+    "signal_tags": ["retail_footprint", "market_positioning"],
+    "confidence": 0.45
+  },
+  {
+    "id": "SEA-2026-07-07-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Reader reaction to campaign styling is genuinely mixed, some call it unflattering, others praise it, no clear net polarity",
+    "signal_tags": ["campaign_styling", "mixed_reaction", "ambassador"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-07-07-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade coverage of High Watchmaking collection with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-07-07-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador appearance write-up for SS2026 launch event, press-kit derived with no critical verdict",
+    "signal_tags": ["activation_coverage", "ambassador", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-07-07-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive pop-up retail activation coverage with no evaluative judgment from the outlet",
+    "signal_tags": ["activation_coverage", "retail_activation"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-07-07-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive feature on past retail takeover referenced as ongoing context, no independent critical verdict",
+    "signal_tags": ["activation_coverage", "retail_activation"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-07-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Authenticity-check inquiry for secondhand item, no confirmed counterfeit finding, routine consumer question",
+    "signal_tags": ["counterfeit_inquiry", "resale"],
+    "confidence": 0.5
+  }
+]
