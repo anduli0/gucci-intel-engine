@@ -38,11 +38,14 @@ def main():
         (OUT / "api" / ep).write_bytes(get(f"/api/{ep}"))
 
     # 2. Static stubs: viewer mode, no runner
-    # "static": true tells the UI to switch run control to the remote engine
+    # "static": true tells the UI to switch run control to the remote engine.
+    # ui_mtime = index.html mtime: open pages poll this and self-reload when a
+    # newer UI ships, so stale phone tabs heal without a manual hard refresh.
+    ui_stamp = int((ROOT / "app" / "ui" / "index.html").stat().st_mtime)
     (OUT / "api" / "status").write_text(json.dumps({
         "static": True, "readonly": True, "running": False, "cmd": None, "arg": "",
         "started": None, "exit": None, "log": None, "auth_error": False,
-        "claude_available": False, "ui_mtime": 0, "root": ""}), encoding="utf-8")
+        "claude_available": False, "ui_mtime": ui_stamp, "root": ""}), encoding="utf-8")
     (OUT / "api" / "runlog").write_text('{"lines": []}', encoding="utf-8")
 
     # 3. Full report files (client splits KO/EN)
