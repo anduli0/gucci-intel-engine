@@ -2,7 +2,11 @@ name: daily-intelligence
 
 on:
   schedule:
-    - cron: '0 23 * * *'   # 23:00 UTC = 08:00 KST
+    # Goal: cycle COMPLETE (site published) before 08:00 KST.
+    # GitHub cron can start up to ~1h late and Monday runs exceed 2h,
+    # so the main run fires at dawn and a backup follows.
+    - cron: '7 19 * * *'   # 19:07 UTC = 04:07 KST — main run
+    - cron: '7 21 * * *'   # 21:07 UTC = 06:07 KST — backup (skips pipeline if today already done, republishes site)
   workflow_dispatch: {}
 
 permissions:
@@ -22,7 +26,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Backup-run guard: if today's cycle already published its reports,
+      # skip the pipeline and only re-export/republish the site.
+      - name: Check if today's cycle already completed
+        id: guard
+        run: |
+          today=$(date +%F)
+          if [ -f "data/reports/daily/${today}-luxury-brief.md" ]; then
+            echo "done=true" >> "$GITHUB_OUTPUT"
+            echo "Reports for ${today} already exist — republish only."
+          else
+            echo "done=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-node@v4
+        if: steps.guard.outputs.done == 'false'
         with:
           node-version: 20
 
@@ -31,12 +49,23 @@ jobs:
           python-version: '3.12'
 
       - name: Install Claude Code
+        if: steps.guard.outputs.done == 'false'
         run: npm install -g @anthropic-ai/claude-code
 
       - name: Run daily pipeline
+        if: steps.guard.outputs.done == 'false'
         run: bash scripts/cloud-daily.sh
 
+      - name: Export static site (republish path)
+        if: steps.guard.outputs.done == 'true'
+        run: |
+          python app/server.py --port 8790 &
+          sleep 3
+          EXPORT_OUT="$PWD/site_out" python scripts/export_static.py
+          kill %1 2>/dev/null || true
+
       - name: Commit data state back to this repo
+        if: steps.guard.outputs.done == 'false'
         run: |
           git config user.name "gucci-intel-bot"
           git config user.email "minkyu494@gmail.com"
