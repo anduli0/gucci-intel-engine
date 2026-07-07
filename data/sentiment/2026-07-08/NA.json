@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-20260708-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual stock/analyst-target reporting with split consensus, no clear directional verdict on the brand",
+    "signal_tags": ["earnings", "analyst_dispersion", "stock"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260708-02",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring viral consumer complaints about footwear/leather goods durability and unresponsive warranty relative to price",
+    "signal_tags": ["quality_complaint", "value_for_money", "sns"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260708-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive collector-community thread comparing reissues to archive pieces, no clear evaluative verdict on the brand overall",
+    "signal_tags": ["community_engagement", "collector_discussion"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260708-04",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press buying guide favorably recommends Gucci bags on value-retention and versatility versus competitors",
+    "signal_tags": ["favorable_trade_press", "value_retention", "purchase_intent"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260708-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive aesthetic reference to runway styling driving a beauty trend, no explicit evaluative verdict on the brand",
+    "signal_tags": ["runway_influence", "sns", "aesthetic_appreciation"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260708-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Persistent documented consumer complaints about stitching separation and hardware tarnishing questioning value for price",
+    "signal_tags": ["quality_complaint", "value_for_money", "consumer_reviews"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260708-07",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual analyst price-target dispersion reporting reflecting unresolved market disagreement, no directional verdict",
+    "signal_tags": ["earnings", "analyst_dispersion", "stock"],
+    "confidence": 0.85
+  }
+]

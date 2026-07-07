@@ -1,0 +1,101 @@
+[
+  {
+    "id": "EU-2026-07-08-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual business/licensing report on Coty-Kering deal resolving litigation, no evaluative opinion.",
+    "signal_tags": ["business_news", "licensing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-08-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock drops 6.9% on Gucci sales slowdown, Q1 down 8% and further decline expected.",
+    "signal_tags": ["earnings", "stock_reaction", "momentum_negative"],
+    "confidence": 0.95
+  },
+  {
+    "id": "EU-2026-07-08-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Barclays analyst note calls Gucci growth targets increasingly unreachable, drives 7.5% stock drop, headline-level.",
+    "signal_tags": ["analyst_downgrade", "stock_reaction", "momentum_negative"],
+    "confidence": 0.95
+  },
+  {
+    "id": "EU-2026-07-08-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Regional strike and labor/layoff crisis in Tuscany explicitly naming Gucci among affected employers.",
+    "signal_tags": ["labor_controversy", "sustainability", "manufacturing_crisis"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-08-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual entertainment-press casting/first-look announcement, no brand opinion expressed.",
+    "signal_tags": ["media_coverage", "factual"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-07-08-006",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified resale demand data: Gucci named top resale brand with Padlock bag resale up 530%.",
+    "signal_tags": ["resale_value", "third_party_data", "demand_signal"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-08-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum reaction genuinely split between praise and 'tacky'/'poor execution' criticism, no clear net polarity.",
+    "signal_tags": ["consumer_reaction", "mixed_sentiment", "activation_coverage"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-07-08-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of campaign chapter two, no independent critical verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-08-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promotional post; self-praise is not public opinion per rubric.",
+    "signal_tags": ["brand_owned", "activation_coverage", "sns"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-08-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sales slump plus AI-in-design backlash criticized as making products feel standardised, compounding negative narrative.",
+    "signal_tags": ["design_criticism", "ai_backlash", "momentum_negative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-08-011",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Bernstein independent critic review nets positive ('more good than bad', 7.6/10) despite some negative notes on shoes/bags.",
+    "signal_tags": ["critic_review", "runway", "trade_press"],
+    "confidence": 0.7
+  }
+]

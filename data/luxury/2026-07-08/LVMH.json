@@ -1,0 +1,152 @@
+{
+  "brand_group": "LVMH",
+  "date": "2026-07-08",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "controversy",
+      "headline": "Louis Vuitton wins $1.5M Chinese court judgment over tea chain's monogram-like logo, sparks nationalist backlash",
+      "summary": "A Suzhou court ordered Chinese tea chain Molly Tea to pay Louis Vuitton 10.3 million yuan ($1.5 million) for trademark infringement over a four-petal flower logo resembling LV's 130-year-old monogram; Chinese state media and commentators have pushed back, questioning whether the LV pattern itself derives from traditional Chinese motifs and accusing the house of cultural appropriation-in-reverse, with Molly Tea vowing to appeal.",
+      "url": "https://www.clickondetroit.com/business/2026/07/07/louis-vuitton-court-victory-against-chinese-tea-chain-stirs-up-a-debate-over-copyrights/",
+      "source": "AP via ClickOnDetroit",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "루이비통의 법적 승리가 중국 내에서 오히려 반프랑스 명품 정서와 문화적 전유 논쟁으로 번지는 것은 중국 시장에서의 IP 방어가 양날의 검이 될 수 있음을 보여주며, 구찌 역시 중국 내 상표 분쟁 시 유사한 여론 리스크를 고려해야 한다.",
+      "why_it_matters_en": "LV's legal win is backfiring into a Chinese nationalist backlash over cultural appropriation, showing IP enforcement in China can be a double-edged sword -- Gucci should weigh similar reputational risk before pursuing aggressive trademark litigation there.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "controversy",
+      "headline": "Louis Vuitton's third cyberattack in three months confirmed as UK data theft, following $25M South Korea fine",
+      "summary": "Louis Vuitton confirmed UK customer data was stolen in a breach dated to a June 7 intrusion discovered July 2, the group's third disclosed cyberattack in three months (after Turkey and South Korea incidents), with the Salesforce-linked breach tied to the ShinyHunters/Scattered LAPSUS$ Hunters group; LV was separately fined roughly $15 million by South Korean regulators earlier this year over a related malware breach affecting 3.6 million people, and now faces fresh US class-action suits alleging it ignored a prior Salesforce breach warning.",
+      "url": "https://therecord.media/louis-vuitton-says-customers-impacted-by-data-breaches",
+      "source": "The Record (Recorded Future News)",
+      "tier": "T1",
+      "published_at": "2026-07-03",
+      "why_it_matters": "루이비통이 3개월간 세 차례 연속 데이터 유출을 당하고 각국 규제 당국의 벌금과 집단소송에 직면한 것은 LVMH의 사이버보안 체계에 구조적 결함이 있음을 시사하며, 구찌를 포함한 케링 전체 브랜드의 고객 데이터 보안 점검이 시급함을 일깨우는 경고 신호다.",
+      "why_it_matters_en": "LV's third data breach in three months, plus mounting regulatory fines and class-action suits across multiple countries, points to a structural cybersecurity failure at LVMH -- a clear warning for Kering and Gucci to urgently audit their own customer-data security posture.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Fendi",
+      "event_type": "show",
+      "headline": "Fendi holds Maria Grazia Chiuri's debut couture show in Rome tomorrow, paired with Lagerfeld-era retrospective",
+      "summary": "Fendi confirmed final staging details for Chiuri's first haute couture collection, set for the evening of July 9 at Rome's Galleria Nazionale d'Arte Moderna e Contemporanea, timed to a preview of the 'After, a Creative Journey. Fendi/Karl Lagerfeld 1985' exhibition opening to the public the next day and running through October 25.",
+      "url": "https://wwd.com/fashion-news/designer-luxury/fendi-maria-grazia-chiuri-first-couture-show-rome-1238929968/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-08",
+      "why_it_matters": "펜디가 크리에이티브 디렉터 교체 후 첫 쿠튀르 쇼를 로마의 역사·예술 자산과 결합해 헤리티지 내러티브를 극대화하는 전략은, 구찌가 이탈리아 정체성과 아카이브를 활용하는 방식에 직접적인 벤치마크가 된다.",
+      "why_it_matters_en": "Fendi pairing its new creative director's couture debut with a Rome museum retrospective on its own archive maximizes heritage storytelling -- a direct benchmark for how Gucci deploys its own Italian identity and archive assets.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "earnings",
+      "headline": "LVMH shares climb toward 2026 highs ahead of July 27 half-year results, up nearly 9% in four weeks",
+      "summary": "LVMH stock traded near 500 EUR in early July, its highest level since May 2026 and up roughly 9% over the prior month, as investors position ahead of the group's July 27 half-year earnings report; the rally follows a Q1 2026 organic growth slowdown to just 1% (below the 1.5% analyst consensus) blamed on Middle East conflict drag and US tariff exposure on its ~EUR 17 billion North American business.",
+      "url": "https://www.investing.com/equities/l.v.m.h.",
+      "source": "Investing.com",
+      "tier": "T2",
+      "published_at": "2026-07-07",
+      "why_it_matters": "LVMH 주가가 실적 둔화에도 불구하고 반등하는 것은 시장이 하반기 회복을 선반영하고 있다는 신호로, 케링·구찌의 밸류에이션 회복 속도를 비교 평가할 업계 벤치마크가 된다.",
+      "why_it_matters_en": "LVMH's stock rally despite a soft Q1 suggests markets are pricing in a H2 luxury recovery -- a benchmark against which Kering and Gucci's own valuation recovery pace should be judged.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Loewe",
+      "event_type": "campaign",
+      "headline": "Loewe pushes summer basket collection under McCollough-Hernandez design duo",
+      "summary": "Loewe's official channels continue promoting its handwoven summer basket bags as a seasonal signature under new creative directors Jack McCollough and Lazaro Hernandez (former Proenza Schouler), who took over the house in March 2026; the baskets build on Loewe's established craft-driven accessory positioning ahead of their first full ready-to-wear collections later in the year.",
+      "url": "https://x.com/LoeweOfficial/status/2073391380022358448",
+      "source": "Loewe (official)",
+      "tier": "T2",
+      "published_at": "2026-07-06",
+      "why_it_matters": "로에베가 신임 디렉터 체제에서도 장인정신 기반의 크래프트 액세서리 정체성을 유지하는 것은 구찌가 자체 아이코닉 소재·공예 스토리텔링을 이어가는 데 참고할 만한 사례다.",
+      "why_it_matters_en": "Loewe maintaining its craft-driven accessory identity even under a brand-new creative team is a useful reference point for how Gucci can sustain its own material-craft storytelling through leadership transitions.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Loro Piana",
+      "event_type": "legal",
+      "headline": "Loro Piana notches fresh IP win against White Sole shoe counterfeiter days after labor-scandal case closure",
+      "summary": "Following the April 2026 early conclusion of Milan's judicial administration over Loro Piana's supply-chain labor-exploitation scandal, the house won a separate Turin court injunction against Paris-based Parijan SAS for counterfeiting its Summer Walk and Open Walk 'White Sole' shoes, with daily and per-item fines for continued infringement.",
+      "url": "https://wwd.com/business-news/legal/loro-piana-legal-victory-ongoing-fight-white-sole-design-1239047789/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-06",
+      "why_it_matters": "로로피아나가 노동력 착취 스캔들 종결 직후 IP 승소 뉴스로 서사를 전환하려는 흐름은 명품 브랜드의 평판 관리 전술로, 구찌도 유사한 부정적 이슈 이후 커뮤니케이션 타이밍을 참고할 만하다.",
+      "why_it_matters_en": "Loro Piana pivoting its news narrative to an IP win right after closing its labor-exploitation case is a reputation-management tactic worth noting -- Gucci can study this messaging sequencing after its own negative-news cycles.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Givenchy",
+      "event_type": "product",
+      "headline": "Givenchy's Voyou Bucket bag extension continues rollout under Sarah Burton amid ongoing CEO transition",
+      "summary": "Givenchy's Voyou Bucket bag, in smooth high-shine calf leather, remains a key accessory push for the house under creative director Sarah Burton, as new CEO Amandine Ohayon (in the role since January 2026, ex-Stella McCartney) continues settling into leadership; the house's Fall-Winter 2026 women's ready-to-wear under Burton has leaned into menswear fabrics, velvet, animal prints and kimono silks.",
+      "url": "https://coveteur.com/met-gala-2026-review-givenchy-voyou",
+      "source": "Coveteur",
+      "tier": "T2",
+      "published_at": "2026-06-01",
+      "why_it_matters": "지반시가 새 백 라인으로 상업적 모멘텀을 만들려는 시도는 지속되지만 크리에이티브·경영 리더십 교체 부담이 겹쳐 있어, 구찌 대비 조직 안정성의 상대적 우위를 보여주는 참고 사례다.",
+      "why_it_matters_en": "Givenchy's push for commercial momentum via a new bag line continues even as it juggles both creative and executive leadership transitions -- a reference point highlighting Gucci's relative organizational stability by comparison.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Berluti",
+      "event_type": "retail",
+      "headline": "Berluti narrows China footprint while opening new Milan flagship inside Four Seasons",
+      "summary": "LVMH menswear house Berluti is renovating nine stores globally in 2026 and closing two second-tier China locations plus its Australia operations to sharpen brand focus, even as it opens a new European flagship on Milan's Via Gesu inside the Four Seasons Hotel, its first in Europe to use a retail concept first piloted in Tokyo five years ago.",
+      "url": "https://wwd.com/menswear-news/mens-designer-luxury/berluti-ceo-talks-new-milan-store-focused-luxury-strategy-1239005979/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-06-25",
+      "why_it_matters": "LVMH 산하 소규모 브랜드가 중국 저효율 매장을 정리하고 유럽 플래그십에 집중하는 '선택과 집중' 리테일 전략은, 구찌의 매장 네트워크 최적화 논의에 직접적인 참고 사례가 된다.",
+      "why_it_matters_en": "A smaller LVMH house pruning underperforming China stores while concentrating on a European flagship is a direct reference case for Gucci's own store-network optimization debates.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Dior",
+      "event_type": "show",
+      "headline": "Jonathan Anderson's Dior Fall 2026 Couture rode the Taylor Swift wedding-dress wave",
+      "summary": "Dior's Fall/Winter 2026-27 haute couture show at Musee Rodin on July 6 landed days after it emerged Anderson designed Taylor Swift's wedding gown for her marriage to Travis Kelce, generating an estimated $15 million in media impact value over the July 4 weekend per Launchmetrics.",
+      "url": "https://wwd.com/fashion-news/shows-reviews/gallery/dior-fall-2026-couture-collection-1239053686/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-06",
+      "why_it_matters": "디올의 셀럽 웨딩 마케팅과 쿠튀르 쇼 타이밍 결합은 브랜드 주도 홍보 성과이지 독립적 여론 지표가 아니지만, 구찌가 검토할 만한 벤치마크로 계속 유효하다.",
+      "why_it_matters_en": "Dior's celebrity-wedding/couture-timing overlap remains a valid benchmark for Gucci to study, though it is brand-orchestrated activation coverage, not independent sentiment.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Loro Piana",
+      "event_type": "controversy",
+      "headline": "Loro Piana supply-chain labor scandal remains a live reputational overhang despite case closure",
+      "summary": "Though Milan's court lifted judicial administration over alleged labor exploitation in Loro Piana's supply chain in April 2026 ahead of schedule, human-rights researchers continue citing the case as a cautionary pattern for luxury supply chains, and it resurfaced again this week alongside the house's new IP litigation news.",
+      "url": "https://bhr.stern.nyu.edu/quick-take/a-troubling-pattern-in-luxury-what-the-loro-piana-case-reveals/",
+      "source": "NYU Stern Center for Business & Human Rights",
+      "tier": "T2",
+      "published_at": "2026-06-01",
+      "why_it_matters": "공급망 노동 착취 스캔들은 명품 업계 전반의 구조적 리스크이며, 케링 산하 구찌도 유사한 하청 감사 취약점에 노출될 수 있어 선제적 점검이 필요하다.",
+      "why_it_matters_en": "The Loro Piana labor scandal is a sector-wide supply-chain risk; Gucci and Kering face similar subcontractor-audit exposure and should treat this as a live warning, not a closed case.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "executive",
+      "headline": "Pietro Beccari heads LVMH's Fashion Group since January 2026 reshuffle",
+      "summary": "LVMH promoted Pietro Beccari from Louis Vuitton CEO to executive president of the LVMH Fashion Group, consolidating cross-brand strategy oversight, while Veronique Courtois was named chair/CEO of the group's Beauty division.",
+      "url": "https://www.modaes.com/global/companies/lvmh-promotes-louis-vuitton-ceo-to-head-fashion-group-to-take-over-from-toledano",
+      "source": "Modaes",
+      "tier": "T2",
+      "published_at": "2026-01-01",
+      "why_it_matters": "LVMH의 패션 그룹 리더십 재편은 산하 브랜드들의 조율된 전략 실행 역량을 강화하며, 케링 조직 구조와의 경쟁력 비교가 필요한 지속적 사안이다.",
+      "why_it_matters_en": "LVMH's reshuffled Fashion Group leadership strengthens coordinated strategy execution across its houses, a structural comparison point for Kering's own organizational setup that remains relevant.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

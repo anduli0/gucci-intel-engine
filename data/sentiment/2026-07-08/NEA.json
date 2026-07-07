@@ -1,0 +1,58 @@
+[
+  {
+    "id": "NEA-20260708-01",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of new leather goods drop with no evaluative verdict",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-20260708-02",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of Japan-exclusive retail marketing hook, no independent judgment expressed",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-20260708-03",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive capsule collection and workshop announcement, no outlet verdict",
+    "signal_tags": ["activation_coverage", "collaboration"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-20260708-04",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Persistent counterfeit-supplier chatter on Weibo signals brand-adjacent negative image risk",
+    "signal_tags": ["counterfeit", "sns_chatter"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-20260708-05",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan-account amplification of ambassador appearances, damped as fandom spike",
+    "signal_tags": ["fandom_spike", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20260708-06",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "K-pop fan compilation of ambassador appearances, damped as fandom spike not brand affinity proof",
+    "signal_tags": ["fandom_spike", "ambassador", "kpop"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20260708-07",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Trade press independent verdict frames Demna's Cruise 2027 show as a positive turning point",
+    "signal_tags": ["trade_press", "runway_review", "creative_direction"],
+    "confidence": 0.75
+  }
+]
