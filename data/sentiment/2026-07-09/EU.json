@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EU-2026-07-09-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual press-release reporting of licensing deal terms, no evaluative verdict",
+    "signal_tags": ["licensing", "business_deal", "press_release"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-09-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering shares fell 4.32% same session, deal seen as already priced in by investors",
+    "signal_tags": ["market_reaction", "investor_sentiment", "stock_decline"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-07-09-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade analysis describing licence transfer mechanics and strategic framing, no independent verdict",
+    "signal_tags": ["licensing", "trade_press", "descriptive"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-07-09-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering among worst CAC 40 performers, investors discounting on Gucci's ongoing sales weakness",
+    "signal_tags": ["market_reaction", "negative_momentum", "sales_weakness"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-07-09-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering group labor protest over McQueen layoffs; Gucci named among affected brands in Tuscan strike",
+    "signal_tags": ["labor_controversy", "strike", "sustainability_labor"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-09-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Region-wide Tuscan industrial strike citing Gucci/Kering leather-goods production among hardest-hit segments",
+    "signal_tags": ["labor_controversy", "strike", "sustainability_labor"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-09-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Barclays flags Gucci 2026 targets as increasingly unreachable, forecasts ~3% organic sales decline",
+    "signal_tags": ["analyst_rating", "negative_earnings", "sales_forecast"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-09-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Detailed recurring quality complaints (stitching, tarnishing, paint-chipping) and repair-fee disputes",
+    "signal_tags": ["quality_complaint", "customer_service", "community"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-07-09-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Mixed reviews with recurring service and quality complaints (chipping within 6 months) outweighing praise",
+    "signal_tags": ["quality_complaint", "customer_service", "mixed_reviews"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-09-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuinely polarized creator discourse on Demna era, praise and criticism roughly balanced, no forced polarity",
+    "signal_tags": ["sns_discourse", "polarized", "creative_direction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-07-09-011",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Bernstein critic score 7.6/10, 'more good than bad', credits more consistent Gucci identity",
+    "signal_tags": ["trade_press", "runway_review", "independent_judgment"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-07-09-012",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale demand data: Padlock resale +530%, Giglio +428%, top resale brand",
+    "signal_tags": ["resale_value", "quantified_demand", "scarcity"],
+    "confidence": 0.85
+  }
+]

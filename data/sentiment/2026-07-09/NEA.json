@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-20260709-01",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Corporate press release reporting deal terms factually, no independent evaluative verdict",
+    "signal_tags": ["licensing_deal", "corporate_pr", "factual_reporting"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20260709-02",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Financial wire coverage restating deal facts and CEO quote, no independent judgment",
+    "signal_tags": ["licensing_deal", "factual_reporting"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20260709-03",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade analysis focuses critical angle on Coty's financial hit, not an evaluative verdict on Gucci itself",
+    "signal_tags": ["licensing_deal", "trade_press", "third_party_impact"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20260709-04",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Negative earnings press: Q1 revenue -8% YoY with Japan/NEA-relevant markets posting steepest declines",
+    "signal_tags": ["earnings", "negative_momentum", "regional_weakness"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-20260709-05",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer/market-watcher criticism that Gucci's monogram identity feels dated and insufficiently refreshed",
+    "signal_tags": ["design_criticism", "sponsorship_skepticism"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-20260709-06",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Persistent counterfeit-grade bag marketing on Weibo, a mild-negative brand-adjacent signal per counterfeit trap rule",
+    "signal_tags": ["counterfeit", "brand_dilution"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20260709-07",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Douyin campaign engagement write-up is activation coverage, not independent public opinion",
+    "signal_tags": ["activation_coverage", "social_engagement", "brand_owned"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-20260709-08",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Price-hike backlash in Korean market plus EU antitrust fine for resale-price-maintenance practices",
+    "signal_tags": ["price_backlash", "antitrust", "controversy"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-20260709-09",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "MZ-generation consumers view Gucci as 'expensive for expensive's sake', value-for-money and appeal headwind",
+    "signal_tags": ["value_for_money", "generational_shift", "structural_headwind"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-20260709-10",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale price tracker shows 6-month decline with sharp -26.5% single-day drop",
+    "signal_tags": ["resale_value", "quantified_data", "secondhand_market"],
+    "confidence": 0.75
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-2026-07-09-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Law firm investigating Kering/Gucci for allegedly keeping unrefunded tariff-driven price hikes is a headline-level price/trust controversy.",
+    "signal_tags": ["price_hike_backlash", "legal_controversy", "trust"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-09-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual corporate licensing/deal reporting (Coty-Kering transaction) with no evaluative brand sentiment toward Gucci.",
+    "signal_tags": ["licensing", "corporate_deal"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-09-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci ambassador tennis marketing push is drawing WTA/Grand Slam regulatory scrutiny over equipment-sponsorship rules.",
+    "signal_tags": ["ambassador_risk", "regulatory_scrutiny", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-07-09-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual match-result reporting; Gucci mentioned incidentally via ambassador's outfit, no evaluative brand verdict.",
+    "signal_tags": ["ambassador_mention", "factual_reporting"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-09-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador's praise is directed at a rival's outfit, not at Gucci; Gucci appears only as incidental context.",
+    "signal_tags": ["ambassador_mention", "incidental"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-07-09-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Persistent TikTok dupe-haul trend frames DHgate/Shein alternatives as substitutes for Gucci originals, undercutting exclusivity; freshness uncertain so demoted from headline-level.",
+    "signal_tags": ["counterfeit", "dupe_culture", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-07-09-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community thread centers on outlet stock-dumping suspicion and thin selection complaints (outlet/discount image damage), despite some mixed positive comments; date unconfirmed.",
+    "signal_tags": ["outlet_channel", "quality_complaint", "community"],
+    "confidence": 0.5
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SEA-2026-07-09-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual wire reporting on Coty-Kering license transition, no evaluative brand judgment.",
+    "signal_tags": ["licensing", "corporate_news"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-09-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Reuters wire confirms deal terms; plain factual reporting, no sentiment toward brand.",
+    "signal_tags": ["licensing", "corporate_news"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-09-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical trade-press analysis citing sales decline, overexposure and lost exclusivity.",
+    "signal_tags": ["design_criticism", "momentum_press", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-09-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit enforcement action involving Gucci-labeled goods; stale background context.",
+    "signal_tags": ["counterfeit"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-09-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring counterfeit enforcement sweep signals persistent fake-market pressure in Vietnam.",
+    "signal_tags": ["counterfeit"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-09-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Manila screening event with local ambassadors, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-09-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of a closed-door styling workshop/activation, no independent critical judgment.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-09-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Gucci is incidental wealth-signaling shorthand in a viral unrelated news story, not brand opinion.",
+    "signal_tags": ["incidental_mention", "viral"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-09-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Gucci sneaker is a minor item in a government asset-auction story, incidental mention not brand opinion.",
+    "signal_tags": ["incidental_mention"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-09-010",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive FW2026 collection write-up with no independent evaluative verdict from the outlet.",
+    "signal_tags": ["activation_coverage", "collection_coverage"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-07-09-011",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical trade-press piece on eleven consecutive quarters of decline and diluted desirability in Asia.",
+    "signal_tags": ["momentum_press", "design_criticism", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-09-012",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Gucci listed as one of several anchor tenants in a mall-ecosystem feature; factual, not brand-specific evaluation.",
+    "signal_tags": ["incidental_mention", "retail"],
+    "confidence": 0.7
+  }
+]
