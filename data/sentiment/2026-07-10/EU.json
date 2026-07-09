@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EU-2026-07-10-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Bernstein cuts Kering estimates, pushes Gucci recovery to late 2026, echoing Barclays warning on unattainable guidance.",
+    "signal_tags": ["earnings_momentum", "analyst_downgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-10-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Academy launch is neutral, but coverage is framed against Bernstein/Barclays skepticism on Gucci's recovery timeline.",
+    "signal_tags": ["earnings_momentum", "analyst_downgrade"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-10-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Region-wide industrial strike driven by leather-goods crisis in Gucci's home production district; labor controversy.",
+    "signal_tags": ["labor", "sustainability", "supply_chain"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-10-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Follow-up ground coverage of same Tuscan strike affecting Gucci's largest leather-goods district; incremental duplicate signal.",
+    "signal_tags": ["labor", "sustainability", "supply_chain"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-07-10-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sell-side strategic analysis ties Gucci turnaround patience to Bernstein/Barclays downgrades, floats Valentino divestment option.",
+    "signal_tags": ["earnings_momentum", "analyst_downgrade", "strategy_risk"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-10-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own Monte Carlo campaign; brand-owned activation, no independent verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-10-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Activation coverage with outlet's own evaluative verdict noting mixed reception and criticism as staged/less opulent; capped magnitude per activation discount.",
+    "signal_tags": ["activation_coverage", "campaign", "creative_direction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-10-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Gucci-owned Instagram post; brand promo copy is not public opinion.",
+    "signal_tags": ["activation_coverage", "owned_media"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-10-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "TikTok discourse aggregate genuinely split between confident-reset praise and disappointment over repetitiveness; no net polarity.",
+    "signal_tags": ["creative_direction", "sns_discourse"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-07-10-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring French customer complaints on durability, tarnishing, fraying, declined repairs, and slow service.",
+    "signal_tags": ["quality_control", "customer_service"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-10-011",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Enthusiast forum thread mixes nostalgia for Flora reissue with skepticism about archive repackaging vs. new design; mixed, no clear polarity.",
+    "signal_tags": ["creative_direction", "fandom", "value_for_money"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-07-10-012",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade follow-through on L'Oreal beauty license; largely factual with unresolved analyst debate on earnings impact.",
+    "signal_tags": ["licensing", "earnings_momentum"],
+    "confidence": 0.55
+  }
+]

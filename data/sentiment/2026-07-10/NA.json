@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-20260710-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting on beauty license transfer to L'Oreal; executive quotes are corporate PR framing, not independent public opinion.",
+    "signal_tags": ["licensing", "business_news"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260710-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting on Coty's early license exit and deal financial terms.",
+    "signal_tags": ["licensing", "business_news"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260710-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analyst commentary is mixed and centers on Coty's financial outlook, not a clear verdict on Gucci brand strength.",
+    "signal_tags": ["licensing", "analyst_commentary"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260710-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Law firm investigation alleges Gucci/Kering kept unlawful tariff-driven price hikes, a consumer-harm pricing controversy.",
+    "signal_tags": ["price_hike_backlash", "controversy", "legal_risk"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260710-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press (BoF) critical framing of Gucci pricing pushing out aspirational shoppers and driving steep brand-value decline.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "brand_value_decline"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260710-06",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Monte Carlo campaign with no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260710-07",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo post; self-praise is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20260710-08",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread shows explicitly mixed reactions to Flora reissue, fresh vs recycled -- no clear polarity.",
+    "signal_tags": ["product_discussion", "mixed_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260710-09",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Reflects organic buzz volume around products but no discernible evaluative sentiment in aggregated discovery data.",
+    "signal_tags": ["organic_buzz", "volume_only"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260710-10",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring documented consumer complaints on stitching, hardware tarnish, chipped paint and long repair delays.",
+    "signal_tags": ["quality_complaint", "service_complaint"],
+    "confidence": 0.8
+  }
+]

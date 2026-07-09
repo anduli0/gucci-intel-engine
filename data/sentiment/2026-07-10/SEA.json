@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SEA-2026-07-10-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual local reporting of the Kering-L'Oreal licensing timeline shift, no evaluative verdict on Gucci",
+    "signal_tags": ["licensing", "business_news", "factual"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-10-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Republished official Kering/L'Oreal press release; brand-owned promo copy is not public opinion",
+    "signal_tags": ["licensing", "press_release", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-07-10-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of a Gucci-staged styling event/made-to-measure launch with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "made_to_measure", "event"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-07-10-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade feature on IconSiam retail growth naming Gucci as anchor tenant; incidental mention, mixed with note on Gucci's home-market contraction",
+    "signal_tags": ["retail_expansion", "incidental_mention", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-10-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SNS activation coverage of regional arrival, explicitly not organic public opinion, tracked for buzz volume only",
+    "signal_tags": ["activation_coverage", "sns", "buzz_volume"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-10-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade analysis frames Gucci turnaround as stabilizing but still fragile within a broader luxury reset; cautious/mixed, not a clear verdict",
+    "signal_tags": ["trade_press", "turnaround_narrative", "mixed"],
+    "confidence": 0.6
+  }
+]

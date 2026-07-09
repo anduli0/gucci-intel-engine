@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-07-10-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting of Coty-Kering licensing/business restructuring, not evaluative of Gucci brand desirability.",
+    "signal_tags": ["licensing", "corporate", "beauty"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-10-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Follow-up factual business reporting on beauty license handover economics; impact framed on Coty's finances, not Gucci brand sentiment.",
+    "signal_tags": ["licensing", "corporate", "beauty"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-10-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned fragrance launch write-up, no third-party evaluative verdict.",
+    "signal_tags": ["activation_coverage", "fragrance", "launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-10-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive localized activation marketing tie-in (lucky-day capsule), no independent evaluative judgment.",
+    "signal_tags": ["activation_coverage", "japan", "capsule"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-10-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador fandom engagement volume (Weibo reposts/comments) reported descriptively; fandom spike, not organic brand sentiment.",
+    "signal_tags": ["fandom_spike", "ambassador", "weibo"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-10-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine product-placement styling editorial with no evaluative verdict on the brand.",
+    "signal_tags": ["activation_coverage", "editorial"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-10-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuine consumer review thread is mixed (praise for longevity vs complaints on scent strength/character); no dominant polarity to force.",
+    "signal_tags": ["ugc_review", "fragrance", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-07-10-008",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent consumer UGC reviews skew positive on scent quality and longevity, unpaid and brand-uncontrolled but incidental product-level chatter.",
+    "signal_tags": ["ugc_review", "fragrance", "independent_judgment"],
+    "confidence": 0.65
+  }
+]
