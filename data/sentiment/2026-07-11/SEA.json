@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-07-11-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting of Coty-Kering license handover terms with no independent evaluative verdict on the brand.",
+    "signal_tags": ["licensing", "earnings_momentum", "factual_reporting"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-11-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci-staged Sydney high-jewellery unveiling with no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage", "high_jewellery", "descriptive_only"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-11-003",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation coverage with outlet's own evaluative framing praising craftsmanship and category diversification strategy; capped per activation discount.",
+    "signal_tags": ["activation_coverage", "high_jewellery", "trade_analysis"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-11-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic community speculation over Gucci KLCC store closure tied to weak mall traffic; stale (19 days), so confidence and magnitude damped.",
+    "signal_tags": ["store_closure", "community_signal", "stale_flagged"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-11-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum discussion on Gucci KLCC permanent closure with skeptical/indifferent tone toward local brand relevance; stale and mild in tone.",
+    "signal_tags": ["store_closure", "community_signal", "stale_flagged"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-11-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Incidental brand mention in a broader style-trend roundup, not a Gucci-specific evaluative story.",
+    "signal_tags": ["incidental_mention", "factual_reporting"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-11-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Long-running forum thread mixes archival-print appreciation with quality comparisons to earlier era; ambiguous net tone and excluded from today's count due to age.",
+    "signal_tags": ["community_signal", "quality_complaint", "excluded_stale", "context_only"],
+    "confidence": 0.4
+  }
+]

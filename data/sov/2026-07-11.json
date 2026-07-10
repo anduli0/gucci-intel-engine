@@ -1,0 +1,271 @@
+{
+  "date": "2026-07-11",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "구찌 및 pool.json competitor_set 전 브랜드(Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry)에 대해 동일한 중립 검색 템플릿을 브랜드별로 1회씩 실행함('<브랜드> 뉴스' / '<브랜드> news' / 지역별 현지어).",
+    "지역별로 동일한 언어 세트를 사용함: NEA는 한국어+일본어 질의, SEA는 영어+Tatler Asia 특화 질의, NA는 영어 질의, EU는 영어+프랑스어+이탈리아어 질의.",
+    "모든 브랜드에 대해 동일한 검색 횟수와 스캔 깊이(검색 결과 상위 목록)를 적용함 — 특정 브랜드를 더 깊이 파고들지 않음.",
+    "최근 7일(2026-07-04~2026-07-11) 이내 발행된 것으로 확인 가능한 패션·비즈니스 편집 기사만 집계하고, 쇼핑몰 상품 리스팅, 태그 페이지, 브랜드 공식 스토어 페이지, 중복 기사는 제외함.",
+    "동일 사안을 다룬 여러 매체의 기사는 매체가 다르면 각각 별도 기사로 집계하되, 동일 매체 내 중복(재게시)은 1건으로 계산함.",
+    "SEA 및 NEA는 T2 지역 매체(Tatler Asia, Vogue Korea/Japan, WWDJapan, FashionSnap 등) 커버리지가 구조적으로 더 적을 수 있으며, 이는 정직하게 그대로 기록함(스무딩하지 않음).",
+    "카운트가 낮게 나온 브랜드/지역이라도 인위적으로 보정하지 않고 실제 검색 결과를 그대로 반영함."
+  ],
+  "criteria_en": [
+    "Ran the identical neutral query template once per brand for Gucci + every brand in pool.json competitor_set (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry) — '<brand> news' / regional-language equivalents.",
+    "Same language set applied per region: NEA = Korean + Japanese queries, SEA = English + Tatler-Asia-focused queries, NA = English queries, EU = English + French + Italian queries.",
+    "Identical search count and scan depth (top result set) applied to every brand — no brand was searched more deeply than another.",
+    "Only editorial fashion/business articles verifiably published within the last 7 days (2026-07-04 to 2026-07-11) were counted; shopping listings, tag pages, official brand store pages, and duplicates were excluded.",
+    "Multiple outlets covering the same event are each counted as distinct articles; re-posts within the same outlet counted once.",
+    "SEA and NEA T2 regional outlet coverage (Tatler Asia, Vogue Korea/Japan, WWDJapan, FashionSnap, etc.) is structurally thinner for some brands and this is recorded honestly, without smoothing.",
+    "Low counts for any brand/region were not artificially adjusted upward; raw symmetric search results are reported as-is."
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 3,
+      "Louis Vuitton": 2,
+      "Dior": 3,
+      "Chanel": 2,
+      "Prada": 1,
+      "Bottega Veneta": 2,
+      "Saint Laurent": 2,
+      "Balenciaga": 2,
+      "Burberry": 1
+    },
+    "SEA": {
+      "Gucci": 1,
+      "Louis Vuitton": 0,
+      "Dior": 1,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 3,
+      "Louis Vuitton": 2,
+      "Dior": 3,
+      "Chanel": 2,
+      "Prada": 2,
+      "Bottega Veneta": 2,
+      "Saint Laurent": 1,
+      "Balenciaga": 3,
+      "Burberry": 1
+    },
+    "EU": {
+      "Gucci": 3,
+      "Louis Vuitton": 2,
+      "Dior": 3,
+      "Chanel": 2,
+      "Prada": 1,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 1,
+      "Balenciaga": 3,
+      "Burberry": 2
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["FashionSnap", "WWD Japan", "autosport web"],
+        "examples": [
+          {"title": "「グッチ ビューティ」から新フレグランス 変容の精神を宿した香り", "url": "https://www.fashionsnap.com/article/2026-05-13/gucci-beauty-new-fragrance/"},
+          {"title": "イタリアの高級ブランド『グッチ』がF1へ。2027年よりアルピーヌのタイトルパートナーに就任", "url": "https://www.as-web.jp/f1/1320213"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["Nikkei", "PR Times"],
+        "examples": [
+          {"title": "「ルイ・ヴィトン ジャパン」のニュース・最新情報", "url": "https://www.nikkei.com/companies/0051511"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["WWD Japan", "FashionSnap"],
+        "examples": [
+          {"title": "【ルック】「ディオール」2026-27年秋冬オートクチュール・コレクション", "url": "https://www.wwdjapan.com/articles/2444739"},
+          {"title": "ディオールから「睡蓮」モチーフの新作 レディ ディオールなど発売", "url": "https://news.yahoo.co.jp/articles/627a341e1788604e5a09619257683dc68f7fa21e"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["Yahoo!ニュース(FASHIONSNAP)", "Nikkei"],
+        "examples": [
+          {"title": "おとぎ話の世界へ「シャネル」オートクチュールは現代女性の冒険とともに", "url": "https://news.yahoo.co.jp/articles/1d30564964a9a7110415edd909534445d10c6e93"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["Vogue Korea"],
+        "examples": [
+          {"title": "프라다 걸, 카리나의 2026 멧 갈라 데뷔!", "url": "https://www.vogue.co.kr/2026/05/05/%ED%94%84%EB%9D%BC%EB%8B%A4-%EA%B1%B8-%EC%B9%B4%EB%A6%AC%EB%82%98%EC%9D%98-2026-%EB%A9%A7-%EA%B0%88%EB%9D%BC-%EB%8D%B0%EB%B7%94/"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["FashionSnap", "SPUR"],
+        "examples": [
+          {"title": "ボッテガ・ヴェネタ、サンゴやヒトデをモチーフにした新作ジュエリー発売", "url": "https://www.fashionsnap.com/article/2026-06-22/bottega-veneta-jewelry-2026/"},
+          {"title": "【ボッテガ・ヴェネタ】の新作バッグ「バーバラ」に、汎用性の高いスモールサイズが登場", "url": "https://spur.hpplus.jp/fashion/news/2026-06-19-OKB0ng/"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": ["WWD Japan", "FashionSnap"],
+        "examples": [
+          {"title": "【ルック】「サンローラン」2026-27年秋冬メンズ・コレクション", "url": "https://www.wwdjapan.com/articles/2310070"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["WWD Japan", "FashionSnap"],
+        "examples": [
+          {"title": "【ルック】「バレンシアガ」2027年プレ・スプリング・コレクション", "url": "https://www.wwdjapan.com/articles/2422163"},
+          {"title": "バレンシアガ、サッカーから着想を得た新作コレクション発売", "url": "https://www.fashionsnap.com/article/2026-06-12/balenciaga-soccer-series-26/"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["Nikkei"],
+        "examples": [
+          {"title": "バーバリー復調の兆し 伝統回帰と合理化、株価は昨年の2倍", "url": "https://www.nikkei.com/article/DGXZQOGR05BWN0V00C25A9000000/"}
+        ]
+      }
+    },
+    "SEA": {
+      "Gucci": {
+        "outlets": ["Tatler Asia"],
+        "examples": [
+          {"title": "Inside Tatler's styling workshop with Gucci at Paragon", "url": "https://www.tatlerasia.com/style/fashion/an-evening-of-sartorial-rarity-with-gucci-at-paragon"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {
+        "outlets": ["L'Officiel Singapore"],
+        "examples": [
+          {"title": "Thai Stars, Lingling Kwong and Orm Kornnaphat are Officially Dior Ambassadors", "url": "https://www.lofficielsingapore.com/fashion/thai-stars-lingling-kwong-orm-kornnaphat-officially-dior-ambassadors-fashion-celebrity-news"}
+        ]
+      },
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["Daily Front Row", "Business of Fashion", "Newsweek"],
+        "examples": [
+          {"title": "Gucci Just Dropped Their New Summer Campaign", "url": "https://fashionweekdaily.com/gucci-summer-2026-campaign/"},
+          {"title": "Gucci enters brand new era—Here's how the luxury brand is changing", "url": "https://www.newsweek.com/gucci-new-look-collection-demna-gvasalia-milan-fashion-week-2133709"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Louis Vuitton Nods to Space in Fall 2026 Menswear Campaign", "url": "https://wwd.com/fashion-news/fashion-scoops/louis-vuitton-fall-2026-campaign-pharrell-williams-space-1239058071/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Dior Couture Fall 2026 Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/fall-couture-2026/paris/christian-dior/review/"},
+          {"title": "Dior Fall 2026 Haute Couture Shoes: Maximalism, Metallics and More on the Paris Runway", "url": "https://wwd.com/footwear-news/shoe-trends/dior-fall-2026-haute-couture-shoes-paris-jonathan-anderson-1239053488/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["WWD", "Tom + Lorenzo"],
+        "examples": [
+          {"title": "Chanel Fall 2026 Haute Couture Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/fall-couture-2026/paris/chanel/review/"},
+          {"title": "Paris Fashion Week: Chanel Fall 2026 Couture Collection", "url": "https://tomandlorenzo.com/2026/07/paris-fashion-week-chanel-fall-2026-couture-collection/"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["US News/AP"],
+        "examples": [
+          {"title": "Prada Serves up Luxury Fashion's Version of Pasta Pomodoro at Milan Fashion Week", "url": "https://www.usnews.com/news/entertainment/articles/2026-06-21/prada-serves-up-luxury-fashions-version-of-pasta-pomodoro-at-milan-fashion-week"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["W Magazine", "Artnet News"],
+        "examples": [
+          {"title": "At Bottega Veneta Fall 2026, Clothes Are a Statement of Womanly Power", "url": "https://www.wmagazine.com/fashion/bottega-veneta-fall-2026-milan-fashion-week-runway-photos"},
+          {"title": "Bottega Veneta and Versace Deliver Art-Infused Debuts at Milan Fashion Week", "url": "https://news.artnet.com/art-world/bottega-veneta-and-versace-deliver-art-infused-debuts-at-milan-fashion-week-2693993"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": ["Hypebeast"],
+        "examples": [
+          {"title": "Anthony Vaccarello Strips Back to Foundational Tailoring for Saint Laurent's Winter 2026 Collection", "url": "https://hypebeast.com/2026/3/anthony-vaccarello-saint-laurent-fall-winter-2026-paris-fashion-week-runway-collection"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Balenciaga Fall 2026 Couture Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/fall-couture-2026/paris/balenciaga/review/"},
+          {"title": "Balenciaga and Manolo Blahnik Launch Three New Shoe Styles as Part of Their First Collaboration", "url": "https://wwd.com/footwear-news/shoe-industry-news/balenciaga-manolo-blahnik-launch-first-collaboration-1238973121/"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["The Street"],
+        "examples": [
+          {"title": "170-year-old luxury fashion retailer quietly closes 21 stores", "url": "https://www.thestreet.com/retail/170-year-old-luxury-fashion-retailer-quietly-closes-21-stores-burberry"}
+        ]
+      }
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": ["FashionUnited France", "FashionNetwork France"],
+        "examples": [
+          {"title": "Gucci topped the inaugural Cultural Currency Index (CCI)", "url": "https://fashionunited.fr/tags/gucci"},
+          {"title": "Gucci : News", "url": "https://fr.fashionnetwork.com/tags/news/gucci.html"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["FashionUnited France"],
+        "examples": [
+          {"title": "En pleine vague de chaleur, Louis Vuitton lance la semaine de la mode masculine à Paris", "url": "https://fashionunited.fr/actualite/mode/en-pleine-vague-de-chaleur-louis-vuitton-lance-la-semaine-de-la-mode-masculine-a-paris/2026062442166"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["Purepeople (Ode)", "FashionUnited France", "France Info Culture"],
+        "examples": [
+          {"title": "Fashion Week Haute Couture 2026-2027: Dior marque les esprits en alliant la mode, l'art et la nature", "url": "https://www.purepeople.com/article/fashion-week-haute-couture-2026-2027-dior-marque-les-esprits-en-alliant-la-mode-lart-et-la-nature_a552024/1"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["France Info Culture", "FashionUnited France"],
+        "examples": [
+          {"title": "Chanel : toute l'actualité en direct", "url": "https://www.franceinfo.fr/culture/mode/chanel/"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["ANSA"],
+        "examples": [
+          {"title": "Prada, abiti per vestire un momento scomodo", "url": "https://www.ansa.it/amp/canale_lifestyle/notizie/moda/2026/01/18/prada-abiti-per-vestire-un-momento-scomodo_c23de768-9dff-4339-a8cd-c10e8236d6b5.html"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["FashionUnited"],
+        "examples": [
+          {"title": "Bottega Veneta's social media silence boosts brand heat", "url": "https://fashionunited.com/news/fashion/bottega-venetas-social-media-silence-boosts-brand-heat/2025042565675"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": ["FashionUnited France"],
+        "examples": [
+          {"title": "Saint Laurent : Toute l'actualité", "url": "https://fashionunited.fr/tags/saint-laurent"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["France Info Culture", "FashionUnited France"],
+        "examples": [
+          {"title": "Balenciaga : toute l'actualité en direct", "url": "https://www.franceinfo.fr/culture/mode/balenciaga/"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["Retail Week", "Business of Fashion"],
+        "examples": [
+          {"title": "Burberry: latest news, analysis and trading updates", "url": "https://www.retail-week.com/companies/burberry"}
+        ]
+      }
+    }
+  }
+}

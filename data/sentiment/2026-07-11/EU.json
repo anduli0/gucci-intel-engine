@@ -1,0 +1,83 @@
+[
+  {
+    "id": "EU-2026-07-11-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Kering official press release on beauty license terms is brand-owned factual disclosure, not public opinion.",
+    "signal_tags": ["earnings_corporate", "licensing", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-11-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering shares fell more than the broader CAC 40 index on the deal news, reflecting a mildly negative market/investor reaction.",
+    "signal_tags": ["market_reaction", "stock_price"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-11-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Hedged financial-press analysis calling the deal already priced in, with mixed upside/caution framing and no clear net verdict.",
+    "signal_tags": ["market_reaction", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-11-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual shareholder-assembly reporting on debt reduction and strategic priorities, no evaluative brand judgment.",
+    "signal_tags": ["earnings_corporate", "strategy"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-11-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Regional strike coverage frames Gucci's Tuscan supply chain in a labor/wage-fairness controversy narrative of rising profits versus flat wages.",
+    "signal_tags": ["labor_controversy", "supply_chain", "sustainability_labor"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-07-11-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Multiple documented quality-control complaints (peeling coating, underfilled product, holed socks, shedding trainers) plus poor customer service on official channel reviews.",
+    "signal_tags": ["quality_complaint", "customer_service", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-07-11-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan forum thread shows evenly split independent opinion, praise versus 'disjointed and lazy' criticism, no clear net polarity.",
+    "signal_tags": ["campaign_reaction", "mixed_opinion"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-07-11-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram activation post; descriptive campaign rollout with mixed comment reaction (admiration and repetitiveness criticism), no net independent verdict.",
+    "signal_tags": ["activation_coverage", "campaign_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-11-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade analysis of financial rationale behind the beauty transition; factual/analytical framing without a brand-sentiment verdict.",
+    "signal_tags": ["earnings_corporate", "trade_press", "strategy"],
+    "confidence": 0.75
+  }
+]

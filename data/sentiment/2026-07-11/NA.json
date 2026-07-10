@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-20260711-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed analyst reactions to beauty license handover; factual/mixed business reporting, not a clear polarity verdict.",
+    "signal_tags": ["business_press", "licensing", "analyst_commentary"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260711-02",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified negative market reaction: Kering shares fell ~3% on investor uncertainty over deal value.",
+    "signal_tags": ["stock_reaction", "investor_sentiment", "licensing"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260711-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Law firm investigation over unrefunded tariff-driven price hikes is a headline-level consumer/legal controversy.",
+    "signal_tags": ["controversy", "price_hike", "legal_risk"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260711-04",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Incidental recirculating true-crime/inheritance story unrelated to brand attitude; plain factual reporting.",
+    "signal_tags": ["incidental_mention", "pop_culture"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260711-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned campaign promo on official Instagram; not public opinion per activation discount.",
+    "signal_tags": ["activation_coverage", "brand_owned", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20260711-06",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambiguous celebrity one-word post sparking speculation, no evaluative content or confirmed brand tie; organic but unclear polarity.",
+    "signal_tags": ["celebrity_buzz", "fandom_spike", "speculation"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-20260711-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Active community thread airing design/value complaints and 'lost coherence' post-Michele narrative.",
+    "signal_tags": ["design_criticism", "community", "brand_direction"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260711-08",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Ongoing price-hike backlash thread with quantified ~75% increase and value-for-money defection concerns.",
+    "signal_tags": ["price_hike", "value_for_money", "community"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260711-09",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consumer reviews flag repair quality and durability complaints (hardware paint chipping, strap tearing).",
+    "signal_tags": ["quality_complaint", "repair_service", "durability"],
+    "confidence": 0.65
+  }
+]

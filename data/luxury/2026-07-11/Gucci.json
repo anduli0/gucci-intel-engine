@@ -1,0 +1,126 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-07-11",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "구찌 뷰티 라이선스, 코티에서 로레알로 1년 조기 이전 확정",
+      "summary": "케링과 로레알이 구찌 뷰티(향수·화장품) 사업에 대한 50년 독점 글로벌 라이선스 계약을 체결했다고 공식 발표했다. 기존 코티와의 라이선스(2028년 6월 만료 예정)를 1년 앞당겨 조기 종료하며, 로레알이 2027년 7월 1일부터 구찌 뷰티의 개발·마케팅·유통을 전담한다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323630/0/en/Kering-announces-that-Gucci-and-L-Or%C3%A9al-have-entered-into-a-50-year-exclusive-beauty-licence-agreement-one-year-ahead-of-schedule.html",
+      "source": "Kering press release (GlobeNewswire)",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "뷰티 라이선스 조기 이전은 케링이 구찌의 핵심 수익원 중 하나를 안정적 파트너로 재편하려는 신호이지만, 코티에 4억 달러의 조기 종료 비용을 지불한 점은 단기적으로 케링/구찌 재무 부담을 늘리는 요인이기도 하다.",
+      "why_it_matters_en": "The early beauty-license transfer signals Kering's effort to lock in a stronger long-term partner for Gucci's fragrance business, but the $400M early-termination payout to Coty is a near-term cash cost, not a pure win.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "financial",
+      "headline": "코티, 구찌 뷰티 라이선스 조기 반납 대가로 4억 달러 확보",
+      "summary": "코티는 구찌 뷰티 라이선스를 케링에 조기 반납하는 대가로 약 4억 달러(조기 종료 수수료 + 재고 매입 대금)를 받으며, 이 중 약 70%는 로레알이 부담한다. 코티는 이 자금을 자사 턴어라운드 계획(Coty:Curated)의 부채 상환과 핵심 향수·뷰티 브랜드 재투자에 활용할 계획이다.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coty-secures-400-million-gucci-161937590.html",
+      "source": "Yahoo Finance / Reuters",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "구찌 뷰티 사업의 소유권 이전 과정에서 케링이 상당한 현금을 지출했다는 점은, 실적 부진 속에서도 브랜드 자산 재편에 비용을 투입하고 있다는 이중적 신호로 읽힌다.",
+      "why_it_matters_en": "The size of the cash outlay involved in reshuffling Gucci Beauty ownership underscores that Kering is still spending heavily on brand-asset restructuring even while Gucci's core sales remain weak.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "financial",
+      "headline": "케링-로레알 구찌 뷰티 딜 발표 후 주가 하락, 애널리스트는 엇갈린 평가",
+      "summary": "발표 직후 파리 증시에서 케링 주가는 장중 약 3% 하락했고, 로레알도 약 1.5% 내렸다. 일부 애널리스트는 구찌 향수를 케링 뷰티 포트폴리오의 '핵심 자산'으로 긍정 평가했으나, 다른 애널리스트들은 케링 목표주가를 하향 조정했다.",
+      "url": "https://simplywall.st/stocks/fr/consumer-durables/epa-ker/kering-shares/news/how-lorals-50year-gucci-beauty-deal-will-impact-kering-enxtp",
+      "source": "Simply Wall St / ad-hoc-news",
+      "tier": "T2",
+      "published_at": "2026-07-08",
+      "why_it_matters": "시장이 이 딜을 순수 호재로 받아들이지 않았다는 사실은, 구찌 브랜드 전반에 대한 투자자 신뢰가 여전히 취약하다는 점을 보여준다.",
+      "why_it_matters_en": "The market's mixed-to-negative share reaction shows investor confidence in the broader Gucci turnaround remains fragile, not restored by this single deal.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "케링 CEO 루카 데 메오, 내부 메모에서 '몸집 축소·구찌 의존도 감소' 전략 재확인",
+      "summary": "케링 CEO 루카 데 메오는 내부 메모를 통해 구조 단순화, 시너지 추구, 구찌에 대한 그룹 매출 의존도를 낮추는 방향의 전략을 재확인했다고 비즈니스오브패션이 보도했다. 생 로랑·보테가 베네타·발렌시아가에 대한 투자 비중을 늘리는 방향도 포함된다.",
+      "url": "https://www.businessoffashion.com/news/luxury/kering-must-downsize-reduce-gucci-exposure-and-chase-synergies-ceo-de-meo-says-in-memo/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-07-08",
+      "why_it_matters": "그룹 최고경영진이 공개적으로 '구찌 의존도 축소'를 전략 목표로 제시한 것은, 구찌가 여전히 그룹의 최대 리스크 요인으로 인식되고 있다는 뜻이며 구찌 내부 조직에는 압박 신호다.",
+      "why_it_matters_en": "Kering's CEO publicly framing 'reducing Gucci exposure' as a strategic goal signals that Gucci is still viewed as the group's biggest risk factor, not its recovery engine, which is pressure on the brand's internal organization.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "케링, 구찌 포함 매장 100개 추가 폐점 계획 진행 중",
+      "summary": "케링은 2026년에 구찌를 포함해 매장 100개를 추가로 폐쇄하고, 향후 4년간 총 250개 매장을 정리하는 계획을 이어가고 있다. 2025년에는 순감 75개 매장(구찌 비중 약 40%)이 문을 닫았으며, 폐점의 상당 부분은 아시아 시장에 집중된다.",
+      "url": "https://whatnow.com/news/trending/multinational-luxury-group-to-close-100-more-stores-amid-sales-slump/",
+      "source": "TheStreet / Yahoo Finance",
+      "tier": "T2",
+      "published_at": "2026-07-09",
+      "why_it_matters": "아시아 매장 폐쇄 비중이 크다는 것은 구찌의 핵심 회복 관건인 중화권 수요 부진이 여전히 해소되지 않았음을 시사한다.",
+      "why_it_matters_en": "The heavy concentration of closures in Asia signals that Gucci's still-unresolved Greater China demand slump remains central to the brand's turnaround problem.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "financial",
+      "headline": "구찌 1분기 매출 14.3% 감소, 케링 전체 매출도 6.2% 하락",
+      "summary": "케링의 2026년 1분기 매출은 전년 대비 6.2% 감소한 35억7000만 유로를 기록했으며, 구찌 매출은 13억5000만 유로로 14.3% 감소했다. 반면 생 로랑·보테가 베네타·발렌시아가는 전분기 대비 개선세를 보였다.",
+      "url": "https://wwd.com/business-news/financial/kering-q1-2026-results-meo-1238911937/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-04-24",
+      "why_it_matters": "타 케링 브랜드들이 반등 조짐을 보이는 가운데 구찌만 두 자릿수 감소를 이어가는 것은, 뎀나 체제 초기 효과가 아직 실적에 반영되지 않았음을 보여준다 (배경 자료, 7일 이내 아님을 명시).",
+      "why_it_matters_en": "While sister Kering brands show signs of stabilizing, Gucci's continued double-digit decline shows Demna's early tenure has not yet translated into financial recovery (background context, flagged as older than 7 days).",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "'구찌 프리마베라' 컬렉션, 화보·소셜 반응 지속 확산",
+      "summary": "뎀나의 첫 밀라노 실물 런웨이 컬렉션 '구찌 프리마베라'(보티첼리 '비너스의 탄생' 모티프)가 케이트 모스의 다이아몬드 지스트링 룩을 마무리 무대로 화제를 모았으며, 관련 화보·리뷰 기사가 계속 재생산되고 있다.",
+      "url": "https://www.mindfood.com/article/guccis-new-era-continues-as-demna-delivers-sexy-and-chic-collection-in-milan/",
+      "source": "Mindfood / WWD",
+      "tier": "T2",
+      "published_at": "2026-02-24",
+      "why_it_matters": "화제성 있는 룩(케이트 모스 룩 등)이 반복 소비되는 것은 브랜드 자체 마케팅 활동의 노출도가 높다는 뜻일 뿐, 이를 곧바로 여론 개선이나 매출 회복의 근거로 해석해서는 안 된다 (활동 커버리지, 배경자료).",
+      "why_it_matters_en": "Continued recirculation of buzzy runway looks (e.g. the Kate Moss look) reflects high exposure of Gucci's own marketing output, not a verified improvement in sentiment or sales — this is activation coverage, flagged as background/older than 7 days.",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "구찌 뷰티 라이선스, 코티에서 로레알로 1년 조기 이전 확정",
+      "summary": "케링과 로레알이 구찌 뷰티에 대한 50년 독점 글로벌 라이선스 계약을 체결했으며, 코티와의 기존 계약을 1년 앞당겨 종료하고 2027년 7월 1일부터 로레알이 사업을 전담한다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323630/0/en/Kering-announces-that-Gucci-and-L-Or%C3%A9al-have-entered-into-a-50-year-exclusive-beauty-licence-agreement-one-year-ahead-of-schedule.html",
+      "source": "Kering press release (GlobeNewswire)",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "구찌 브랜드 라이선싱 구조의 핵심 변화로, 향후 수개월간 전환 진행 상황을 계속 추적해야 할 전략적 사안이다.",
+      "why_it_matters_en": "A structural change to Gucci's licensing model that warrants continued tracking through the transition period over coming months.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "케링 CEO 루카 데 메오, '구찌 의존도 축소' 전략 재확인",
+      "summary": "데 메오 CEO가 내부 메모에서 구조 단순화 및 구찌 매출 의존 완화 전략을 재확인했다.",
+      "url": "https://www.businessoffashion.com/news/luxury/kering-must-downsize-reduce-gucci-exposure-and-chase-synergies-ceo-de-meo-says-in-memo/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-07-08",
+      "why_it_matters": "그룹 전략에서 구찌의 위상 변화를 보여주는 상시 추적 사안이다.",
+      "why_it_matters_en": "An ongoing strategic signal about Gucci's shifting position within the group that should stay on the watch list.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NEA-2026-07-11-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Repeated undisclosed price hikes on Marmont/Ophidia lines spark organic Korean consumer backlash over perceived overcharging.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "korea_specific"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-11-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade analysis finds Demna hype fading fast in days and questions whether Balenciaga-style direction fits heritage-conscious Chinese buyers.",
+    "signal_tags": ["design_direction_risk", "brand_fit_skepticism", "independent_analysis"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-11-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering Japan press release describing a Japan-exclusive capsule; purely descriptive activation copy with no independent verdict.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.95
+  },
+  {
+    "id": "NEA-2026-07-11-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Small-reach consumer post questioning possible Hannam-dong flagship closure; unconfirmed speculation framed as a question.",
+    "signal_tags": ["store_footprint_uncertainty", "unconfirmed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-07-11-005",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "CMO's personal repost of ambassador Xiao Zhan's look drives fan-enthusiasm trend on Weibo; capped as fandom spike, not broad sentiment.",
+    "signal_tags": ["fandom_spike", "ambassador_endorsement", "cpop"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-07-11-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community meme riffs on Kering CEO's 'grandma's house' remark about dated Gucci stores, showing the gaffe has seeped into casual mockery.",
+    "signal_tags": ["dated_image", "executive_gaffe_echo", "community_sentiment"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-11-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "WWD Japan compiles independent analyst scores on Demna's debut, split reception with explicit concern over commercial viability and brand dilution.",
+    "signal_tags": ["design_criticism", "commercial_viability_concern", "trade_press", "independent_analysis"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-11-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Lifestyle media write-up of the same Japan-exclusive capsule with typical brand-adjacent positive framing but no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "lifestyle_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-11-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard descriptive announcement of new Gucci Flora fragrance and makeup capsule ahead of license handover; no independent judgment offered.",
+    "signal_tags": ["activation_coverage", "beauty_launch"],
+    "confidence": 0.85
+  }
+]
