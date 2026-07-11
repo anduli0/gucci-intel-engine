@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-07-12-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting of Coty's early license exit and payout terms, no independent evaluative verdict on Gucci",
+    "signal_tags": ["licensing", "beauty", "business_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-07-12-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Wire confirmation of L'Oreal-Kering beauty license terms, purely factual",
+    "signal_tags": ["licensing", "beauty", "wire_story"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-12-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Duplicate wire pickup of licensing deal with no local market angle or evaluative content",
+    "signal_tags": ["licensing", "beauty", "wire_story"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-12-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of Manila celebrity event, no independent critical verdict, activation-coverage discount applies",
+    "signal_tags": ["activation_coverage", "event", "celebrity", "Pre-Fall_collection"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-12-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Bloomberg reports quantified negative market reaction (Kering shares -3%) and analyst concern deal doesn't resolve EBITDA gap",
+    "signal_tags": ["earnings_press", "stock_reaction", "T1_analyst_view"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-12-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Viral price-shock reel but comments described as amused/affectionate rather than brand-critical, no clear polarity",
+    "signal_tags": ["viral_sns", "price_perception", "tourist_retail"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-12-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing community thread airing quality/QC complaints about Gucci leather goods and hardware",
+    "signal_tags": ["quality_complaint", "community_barometer"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-07-12-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive store-renovation coverage with no independent evaluative verdict, activation-coverage discount applies",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.7
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-2026-07-12-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting of Kering/L'Oreal beauty licensing deal terms with no evaluative verdict on Gucci brand itself",
+    "signal_tags": ["licensing", "beauty", "corporate"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-12-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Business-press deal recap; 'breakup fee' framing and brand-homogenization risk flag are analytical caveats, not a clear negative verdict",
+    "signal_tags": ["licensing", "beauty", "risk-flag"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-12-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador cover sparks genuinely split public reaction (praise vs 'safe styling' criticism); no net polarity toward Gucci",
+    "signal_tags": ["ambassador", "fandom", "mixed-reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-12-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Coverage questions whether ambassador's rapid multi-brand deal pace dilutes exclusivity value for Gucci",
+    "signal_tags": ["ambassador", "exclusivity-risk"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-07-12-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive product-launch write-up via official brand messaging, no independent verdict",
+    "signal_tags": ["activation_coverage", "product-launch", "beauty"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-12-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard activation-style seasonal styling editorial, purely descriptive with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "editorial"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-12-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organized fandom volume around ambassador cover, mixed with fan-club grievance; not organic broad-public brand sentiment",
+    "signal_tags": ["fandom", "sns", "ambassador"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-07-12-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Unconfirmed consumer question about possible flagship store closure; factual uncertainty, no verdict",
+    "signal_tags": ["retail", "unconfirmed", "consumer-question"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-07-12-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Authentication/resale-price inquiry threads are transactional community volume, not brand-sentiment commentary",
+    "signal_tags": ["counterfeit", "resale", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-12-010",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent organic consumer reviews praise Flora fragrance as elegant and long-lasting, but underlying review counts/ratings not verified",
+    "signal_tags": ["fragrance", "organic-review", "consumer-praise"],
+    "confidence": 0.6
+  }
+]

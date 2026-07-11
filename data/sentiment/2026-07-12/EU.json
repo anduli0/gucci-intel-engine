@@ -1,0 +1,92 @@
+[
+  {
+    "id": "EU-2026-07-12-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering corporate announcement of strategic licensing deal; factual business reporting, not public opinion.",
+    "signal_tags": ["corporate_announcement", "licensing_deal", "factual"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-12-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand/partner self-praising press release quotes are corporate promo copy, not independent public opinion.",
+    "signal_tags": ["brand_owned_promo", "corporate_announcement"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-12-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering shares fell ~3% on the deal news, described as cautious rather than euphoric investor reaction.",
+    "signal_tags": ["stock_reaction", "investor_sentiment", "momentum"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-12-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Barclays calls Gucci's full-year targets increasingly unreachable amid steep regional revenue declines; Kering shares dropped 7.5%.",
+    "signal_tags": ["negative_earnings", "analyst_downgrade", "momentum"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-12-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Historic Avenue Montaigne flagship non-renewal amid landlord dispute and wider store-closure wave signals retail retreat.",
+    "signal_tags": ["store_closure", "retail_network", "unconfirmed_report"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-07-12-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press confirms exit from two-decade flagship location, framed explicitly as cost discipline amid margin pressure.",
+    "signal_tags": ["store_closure", "cost_discipline", "margin_pressure"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-07-12-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official brand campaign reel with mixed public comments (admiration vs. repetitiveness criticism); brand-owned activation nets neutral.",
+    "signal_tags": ["activation_coverage", "campaign", "mixed_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-12-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Multi-page fashion-forum thread predominantly slams campaign as lazy and unfavorably compares it to mass brands (Guess, Zalando).",
+    "signal_tags": ["design_criticism", "peer_comparison", "campaign_backlash"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-07-12-009",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Collector community shows warmer, independent reception of Flora-print pieces, though wearability/value debate keeps it conditional.",
+    "signal_tags": ["collector_sentiment", "design_praise", "conditional"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-07-12-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring Trustpilot complaints on peeling hardware, underfilled fragrance, damage after minimal use, and poor customer service.",
+    "signal_tags": ["quality_complaint", "customer_service", "recurring_defect"],
+    "confidence": 0.8
+  }
+]

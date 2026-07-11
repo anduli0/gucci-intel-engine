@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-20260712-01",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press independently reports landmark $150M F1/Alpine title sponsorship, a first for a luxury house",
+    "signal_tags": ["partnership", "business_momentum", "sponsorship"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260712-02",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Shareholder approval of new CEO framed by press as cautiously positive signal for Gucci recovery, but forward-looking/conditional",
+    "signal_tags": ["leadership", "turnaround_narrative", "corporate"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260712-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned promo post about pop-up event; self-praise is not public opinion per rubric",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.95
+  },
+  {
+    "id": "NA-20260712-04",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent Hypebeast editorial verdict praising activation's cultural relevance; capped under activation-coverage discount",
+    "signal_tags": ["activation_coverage", "streetwear_crossover", "ambassador"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260712-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan repost documenting crowd scenes without evaluative content; fandom-spike volume damped to neutral",
+    "signal_tags": ["fandom_spike", "organic_amplification"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260712-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Ongoing forum thread with clear price-vs-quality backlash and stated shift to Bottega/Saint Laurent",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "peer_comparison"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260712-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consumer reviews cite recurring durability defects and paid-repair frustration on manufacturing issues",
+    "signal_tags": ["quality_complaint", "qc_issue", "repair_service"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260712-08",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "BBB complaint log documents item-condition and service disputes at NY stores, a steady but lower-intensity undercurrent",
+    "signal_tags": ["quality_complaint", "retail_service", "consumer_complaint"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260712-09",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "BoF tracker presents balanced mix of stabilization signs and analyst-flagged wholesale softness, no clear verdict",
+    "signal_tags": ["turnaround_narrative", "analyst_commentary", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260712-10",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified resale data shows logoed bags losing over half retail value, undercutting brand value-retention claims",
+    "signal_tags": ["resale_price_drop", "value_retention", "quantified_data"],
+    "confidence": 0.8
+  }
+]
