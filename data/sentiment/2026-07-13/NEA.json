@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-2026-07-13-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Handbag price hikes 5-8% reported factually amid industry-wide pattern; price-hike backlash signal.",
+    "signal_tags": ["price_hike", "value_for_money"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-07-13-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive capsule-collab and workshop write-up with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "collaboration"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-13-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive product-launch write-up (Japan-exclusive wallets) with no independent judgment.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-13-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual licensing/business reporting on Gucci Beauty handover to L'Oreal; no brand sentiment verdict.",
+    "signal_tags": ["business_news", "licensing"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-13-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Store closure tied to Kering's broader store-saturation cost-cutting; negative momentum signal.",
+    "signal_tags": ["store_closure", "negative_momentum"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-07-13-006",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador magazine cover sold out fast (commercial demand), but fandom-driven and piece flags recurring 'safe styling' criticism.",
+    "signal_tags": ["fandom_spike", "ambassador", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-07-13-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom spike with unverifiable aggregator positivity claim and a vocal minority questioning traffic-driven endorsement legitimacy; damped to neutral.",
+    "signal_tags": ["fandom_spike", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-07-13-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community forum skepticism over whether older wallet is worth carrying amid repeated price hikes; value-for-money dispute.",
+    "signal_tags": ["value_for_money", "price_hike", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-13-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Buyback price listing presented as factual market data without clear positive or negative directional signal.",
+    "signal_tags": ["resale_data"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-07-13-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale index shows Gucci secondhand market trending down over 6 months with a sharp single-day drop.",
+    "signal_tags": ["resale_data", "quantified_demand"],
+    "confidence": 0.7
+  }
+]

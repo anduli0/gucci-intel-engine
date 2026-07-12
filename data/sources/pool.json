@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "competitor_set": [
     "Louis Vuitton",
     "Dior",
@@ -86,6 +86,13 @@
         "Vogue France/Italia/UK"
       ]
     },
+    "T2_trade": [
+      "JCK (jckonline.com)",
+      "DiamondWorld",
+      "Personal Care Insights",
+      "Cosmetics Business",
+      "Puck (subscription business media, opinion-inflected — corroborate hard figures)"
+    ],
     "T3": [
       "X",
       "Instagram",
@@ -94,6 +101,10 @@
       "Weibo/RED",
       "Threads",
       "Reddit r/luxury r/fashion"
+    ],
+    "verification_required": [
+      "Bob's Watches (retailer blog — cross-check quantitative claims against primary company disclosures before treating as load-bearing)",
+      "Windsor Jewelers blog (retailer blog — same corroboration requirement)"
     ]
   },
   "search_keywords": {

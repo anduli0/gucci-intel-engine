@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-20260713-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering press release on L'Oreal beauty license is factual corporate/strategic news framed by the company itself, not independent public opinion",
+    "signal_tags": ["business_news", "licensing_deal", "official_release"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260713-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD trade analysis examines impact on Coty and Kering restructuring without a clear evaluative verdict on Gucci itself",
+    "signal_tags": ["trade_press", "business_analysis", "licensing_deal"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260713-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Law firm consumer-protection investigation into alleged tariff price-hike double-dip is reputational/price backlash controversy, though unfiled and early-stage",
+    "signal_tags": ["price_backlash", "legal_investigation", "controversy"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260713-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Syndicated wire duplicate of the same tariff price-hike investigation notice; same negative consumer-backlash signal, capped mild given single underlying story",
+    "signal_tags": ["price_backlash", "legal_investigation", "controversy", "duplicate_story"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260713-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Recirculating true-crime inheritance story about Patrizia Reggiani is incidental use of the Gucci name, not brand business or product sentiment",
+    "signal_tags": ["incidental_mention", "true_crime", "off_topic"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260713-06",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram reel comments split evenly between praise for Demna-era polish and criticism as cheap/dated, netting to no clear directional public sentiment",
+    "signal_tags": ["activation_coverage", "mixed_reaction", "sns", "brand_owned"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NA-20260713-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregated US consumer reviews show recurring hardware/stitching/repair-service complaints and explicit 'overrated' value-for-money criticism, an independent quality/QC signal",
+    "signal_tags": ["quality_complaint", "value_for_money", "repair_service", "consumer_reviews"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260713-08",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Description of ongoing PurseForum thread activity and volume with no extractable evaluative verdict due to blocked page access",
+    "signal_tags": ["community", "channel_mix", "low_detail"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-20260713-09",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent YouTube 'worth it' review summary describes the content's existence without conveying the reviewer's actual verdict",
+    "signal_tags": ["sns", "review_video", "purchase_intent_context"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-20260713-10",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "BoF trade narrative credits group-level stabilization but flags reviving Gucci growth as the unresolved core challenge, a cautious/critical momentum read",
+    "signal_tags": ["trade_press", "turnaround_narrative", "momentum_concern"],
+    "confidence": 0.6
+  }
+]

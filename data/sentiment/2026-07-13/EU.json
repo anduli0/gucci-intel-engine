@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-07-13-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Barclays quantifies Europe sales -10% and APAC -11%, flags FY guidance as increasingly unattainable; independent analyst judgment, share price fell on it.",
+    "signal_tags": ["earnings_momentum", "analyst_note", "europe_sales_decline"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-07-13-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Report of non-renewed lease on historic Avenue Montaigne flagship, framed within broader store-network streamlining; unconfirmed (Gucci declined to comment) so mild/conditional.",
+    "signal_tags": ["store_network", "flagship_closure", "unconfirmed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-13-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Investor commentary reads L'Oreal beauty deal as balance-sheet relief rather than a growth catalyst for Gucci; shares moved only modestly, not a rally.",
+    "signal_tags": ["investor_sentiment", "licensing_deal", "no_growth_catalyst"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-07-13-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Financial desk piece notes continued analyst caution on Gucci stabilizing in Europe/China and calls strategy adjustments still unproven ahead of H1 print.",
+    "signal_tags": ["analyst_note", "strategy_unproven", "earnings_momentum"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-13-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum thread details genuine QC complaints (stitching, hardware tarnish, knock-off comparison) on recent bags, though explicitly a mixed/split discussion with defenders too.",
+    "signal_tags": ["quality_complaint", "community_sentiment", "mixed_thread"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-07-13-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community reaction to Demna-era entry bags is explicitly split -- some call lineup underwhelming, others favor the Jackie mini's accessible price -- genuinely mixed, not forced to a pole.",
+    "signal_tags": ["community_sentiment", "entry_price_point", "split_opinion"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-07-13-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive circulation of Gucci's own Monte Carlo campaign posts (what/who/where) with no independent evaluative verdict; brand-owned promo is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned_promo", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-07-13-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ongoing unboxing/haul TikTok content described as product-focused rather than brand commentary, no fresh viral spike; descriptive UGC without a clear evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ugc", "product_content"],
+    "confidence": 0.6
+  }
+]

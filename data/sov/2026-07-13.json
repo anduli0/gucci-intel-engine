@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-13",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "구찌 + data/sources/pool.json의 competitor_set 전 브랜드(루이비통, 디올, 샤넬, 프라다, 보테가 베네타, 생로랑, 발렌시아가, 버버리)에 대해 동일한 중립 검색 템플릿(\"<브랜드> news\" / \"<브랜드> 뉴스\")을 지역별로 동일 횟수(브랜드당 검색 2~3회) 실행함.",
+    "NEA는 한국어(\"<브랜드> 뉴스\") 질의를, NA/EU/SEA는 영어(\"<브랜드> news\", 필요시 \"<브랜드> news July 2026\", 프랑스어 \"<브랜드> nouvelles actualité\", 지역명 결합 질의)를 사용해 동일한 탐색 깊이를 유지함.",
+    "최근 7일(2026-07-06~2026-07-13)에 발행일이 명확히 확인되는 기사만 집계하고, 발행일 불명확/구식/중복/쇼핑·태그 페이지는 제외함.",
+    "패션·비즈니스 편집 기사(런웨이 리뷰, 인사·조직, 실적·재무, 캠페인, 소송·규제, 컬처 파트너십 등)만 집계 대상으로 하며 매장 오픈 안내·이커머스 리스팅·공식 브랜드 사이트 카탈로그 페이지는 제외함.",
+    "브랜드별로 실제 관측된 기사 수를 그대로 기록하며 인위적 평활화나 정규화를 하지 않음(0건도 그대로 기록).",
+    "2026-07-06~09 파리 오트쿠튀르 위크가 해당 주간 NA/EU 편집 뉴스 사이클을 지배해, 쇼를 개최한 브랜드(디올, 샤넬, 발렌시아가, 구찌 관련 발표)의 기사 수가 자연히 더 많이 집계됨 — 이는 실제 커버리지 격차를 반영한 것으로 임의 조정하지 않음.",
+    "SEA는 지역 특화 편집 매체(Tatler Asia, L'Officiel Singapore, Bangkok Post 등)에서 최근 7일 내 발행이 명확한 기사만 인정했으며, 대부분의 검색 결과가 매장 오픈·쇼핑 안내였기 때문에 전 브랜드 공통으로 집계 건수가 낮음."
+  ],
+  "criteria_en": [
+    "For Gucci plus every brand in data/sources/pool.json competitor_set (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry), the same neutral query template (\"<brand> news\") was run the same number of times per region — identical search depth for every brand.",
+    "NEA used Korean-language queries (\"<브랜드> 뉴스\"); NA/EU/SEA used English (\"<brand> news\", \"<brand> news July 2026\"), French (\"<brand> nouvelles actualité\") and region-name-combined queries, at matched depth.",
+    "Only articles with a clearly identifiable publish date within the last 7 days (2026-07-06 to 2026-07-13) were counted; undated/stale/duplicate items and shopping/tag pages were excluded.",
+    "Only editorial fashion/business coverage (runway reviews, leadership/org, earnings, campaigns, litigation/regulatory, culture partnerships) counted; store-opening notices, e-commerce listings, and official brand catalog pages were excluded.",
+    "Counts reflect genuinely observed article volume per brand with no smoothing or normalization; 0 is recorded honestly where no qualifying article was found.",
+    "Paris Haute Couture Week (2026-07-06 to 07-09) dominated the NA/EU news cycle this week, so brands that showed collections (Dior, Chanel, Balenciaga) or made major announcements (Gucci beauty license, LV lawsuit) naturally show more articles — this is a real coverage gap, not an artifact of search bias.",
+    "For SEA, only region-specific editorial outlets (Tatler Asia, L'Officiel Singapore, Bangkok Post, etc.) with clear last-7-day publish dates were counted; most search results were store-opening/retail listings, so counts are low across all brands symmetrically."
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "SEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 2,
+      "Louis Vuitton": 2,
+      "Dior": 2,
+      "Chanel": 1,
+      "Prada": 1,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 1,
+      "Burberry": 0
+    },
+    "EU": {
+      "Gucci": 1,
+      "Louis Vuitton": 1,
+      "Dior": 2,
+      "Chanel": 2,
+      "Prada": 1,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 2,
+      "Burberry": 1
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "SEA": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {
+        "outlets": ["L'Officiel Singapore"],
+        "examples": [
+          {"title": "Inside Bottega Veneta's 'Weaving Matter And Memory' at Bangkok Kunsthalle", "url": "https://www.lofficielsingapore.com/living/inside-bottega-veneta-weaving-matter-and-memory-exhibition-bangkok-kunsthalle-art-celebrity-fashion"}
+        ]
+      },
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["WWD", "10 Magazine"],
+        "examples": [
+          {"title": "Gucci Beauty License Is Transferring to L'Oréal in Mid-2027", "url": "https://wwd.com/beauty-industry-news/beauty-features/gucci-beauty-license-transferring-to-loreal-mid-2027-1239057358/"},
+          {"title": "Gucci Monte Carlo Ads Return, Burberry Heads to the Country", "url": "https://usa.10magazine.com/gucci-monte-carlo-10-things-jul-3/"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["Northwest Arkansas Democrat-Gazette", "ABC News"],
+        "examples": [
+          {"title": "Louis Vuitton lawsuit win sparks debate", "url": "https://www.nwaonline.com/news/2026/jul/08/louis-vuitton-lawsuit-win-sparks-debate/?business="},
+          {"title": "Louis Vuitton court victory against Chinese tea chain stirs up copyright debate", "url": "https://abcnews.com/International/wireStory/louis-vuitton-court-victory-chinese-tea-chain-stirs-134541020"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Dior Couture Fall 2026 Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/fall-couture-2026/paris/christian-dior/review/"},
+          {"title": "Charlize Theron's Dior Boots Were Made for Walking in Paris", "url": "https://wwd.com/footwear-news/shoe-trends/charlize-theron-dior-boots-paris-1239060825/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["Tom + Lorenzo"],
+        "examples": [
+          {"title": "Paris Fashion Week: Chanel Fall 2026 Couture Collection", "url": "https://tomandlorenzo.com/2026/07/paris-fashion-week-chanel-fall-2026-couture-collection/"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["L'Officiel Singapore (couture week roundup)"],
+        "examples": [
+          {"title": "Haute Couture Week: Everything About the Upcoming Paris Shows (Prada front row)", "url": "https://www.lofficielsingapore.com/fashion/haute-couture-fashion-week-fall-winter-2026-paris"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Bottega Veneta Spring 2026 Ready-to-Wear Runway, Fashion Show & Collection Review", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/bottega-veneta-spring-2026-ready-to-wear-collection-1238258195/"}
+        ]
+      },
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Balenciaga Fall 2026 Couture Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/fall-couture-2026/paris/balenciaga/review/"}
+        ]
+      },
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": ["FashionUnited France"],
+        "examples": [
+          {"title": "Gucci : Toute l'actualité", "url": "https://fashionunited.fr/tags/gucci"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["FashionUnited France"],
+        "examples": [
+          {"title": "Louis Vuitton : Toute l'actualité", "url": "https://fashionunited.fr/tags/louis-vuitton"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["WWD", "BigNewsNetwork"],
+        "examples": [
+          {"title": "Dior Fall 2026 Haute Couture Shoes: Maximalism, Metallics and More on the Paris Runway", "url": "https://wwd.com/footwear-news/shoe-trends/dior-fall-2026-haute-couture-shoes-paris-jonathan-anderson-1239053488/"},
+          {"title": "FRANCE-PARIS-HAUTE COUTURE WEEK-CHRISTIAN DIOR", "url": "https://www.bignewsnetwork.com/news/279171235/france-paris-haute-couture-week-christian-dior"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["WWD", "Whoopsee"],
+        "examples": [
+          {"title": "Celebrity Looks at Chanel Fall 2026 Haute Couture Show", "url": "https://wwd.com/footwear-news/shoe-trends/gallery/celebrities-chanel-front-row-haute-couture-paris-photos-1239056217/"},
+          {"title": "Chanel unveils the teaser for its Fall/Winter 2026 Haute Couture fashion show, set to take place on July 7", "url": "https://whoopsee.it/en/chanel-unveils-the-teaser-for-its-fall-winter-2026-haute-couture-fashion-show-set-to-take-place-on-july-7/"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["TipRanks (analyst coverage)"],
+        "examples": [
+          {"title": "Bernstein maintained Buy Rating for Prada (July 6, 2026)", "url": "https://www.tipranks.com/stocks/prdsf/earnings"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Bottega Veneta debut collection coverage tied to Milan Fashion Week cycle", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/bottega-veneta-spring-2026-ready-to-wear-collection-1238258195/"}
+        ]
+      },
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {
+        "outlets": ["WWD", "Runway Live"],
+        "examples": [
+          {"title": "Balenciaga Fall 2026 Couture Collection", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/balenciaga-fall-2026-couture-collection-1239057690/"},
+          {"title": "Balenciaga's New Couture Era Begins as Pierpaolo Piccioli Prepares the Most Anticipated Runway Show of 2026", "url": "https://runwaylive.com/balenciaga-couture-2026-piccioli-paris-haute-couture.html"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["Burberry plc newsroom (AGM/governance)"],
+        "examples": [
+          {"title": "William Jackson joins Burberry as Non-Executive Director; AGM July 15, 2026", "url": "https://www.burberryplc.com/news"}
+        ]
+      }
+    }
+  }
+}

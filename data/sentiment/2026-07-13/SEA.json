@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SEA-20260713-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci-staged Manila celebrity activation with no independent evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom_trap", "local_market_activation"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-20260713-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing forum thread cataloguing recurring QC complaints (paint chipping, stitching, leather durability); organic negative, not subject to activation cap, but undated/aggregated so capped at mild magnitude.",
+    "signal_tags": ["quality_complaint", "consumer_forum", "critical_angle_inclusion"],
+    "confidence": 0.65
+  }
+]
