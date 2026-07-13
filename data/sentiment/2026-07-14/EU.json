@@ -1,0 +1,74 @@
+[
+  {
+    "id": "eu-2026-07-14-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual T1 report on beauty-license transfer deal terms; no independent evaluative verdict on Gucci brand health.",
+    "signal_tags": ["licensing", "business_news", "factual"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-14-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official joint press release framing deal positively; brand/company-owned communication, not public opinion.",
+    "signal_tags": ["licensing", "press_release", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-14-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Stock slide on analyst warnings of unattainable targets, weak Europe/APAC sales forecasts ahead of H1 earnings.",
+    "signal_tags": ["earnings", "analyst_downgrade", "negative_momentum"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-14-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Morgan Stanley downgrade citing doubts about pace of Gucci turnaround; explicit negative momentum press.",
+    "signal_tags": ["earnings", "analyst_downgrade", "turnaround_doubt"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-14-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Question-soliciting fan video with no stated verdict; ambiguous organic chatter, default neutral.",
+    "signal_tags": ["sns", "fandom", "demna_era"],
+    "confidence": 0.4
+  },
+  {
+    "id": "eu-2026-07-14-06",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive news-outlet coverage of runway show guests, no evaluative verdict on collection or brand.",
+    "signal_tags": ["sns", "activation_coverage", "runway"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-14-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Grassroots collector thread discussing product line-up; descriptive engagement without explicit praise or criticism stated.",
+    "signal_tags": ["community", "product_discussion", "flora"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-07-14-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram campaign announcement; purely descriptive activation content, not public opinion.",
+    "signal_tags": ["sns", "activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NEA-2026-07-14-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned fragrance/makeup launch write-up with continuing ambassador, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-14-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual licensing/business reporting on Gucci Beauty transitioning to L'Oreal; no evaluative stance toward the brand.",
+    "signal_tags": ["business_news", "licensing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-14-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-history feature explicitly noted as promotional in tone with no critical framing; self-praise is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_history", "promo_skew"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-14-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Social commentary voices skepticism toward Demna's restrained direction vs Michele-era nostalgia and calls official content lacking novelty.",
+    "signal_tags": ["design_criticism", "creative_direction", "social_chatter"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-14-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent resale data shows Gucci secondhand value down 10% amid broader Kering resale-trust collapse narrative.",
+    "signal_tags": ["resale_value_drop", "quantified_data", "kering_group"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-14-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum threads mix counterfeit discussion with recurring price-versus-value skepticism toward repeated luxury price hikes.",
+    "signal_tags": ["counterfeit", "price_hike_backlash", "value_for_money"],
+    "confidence": 0.6
+  }
+]

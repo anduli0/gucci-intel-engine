@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-20260714-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Sydney high jewellery unveiling with no independent evaluative verdict, pure activation coverage",
+    "signal_tags": ["activation_coverage", "high_jewellery", "event"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-20260714-02",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent editorial gives clear positive verdict on the collection, but is activation-adjacent coverage so magnitude capped",
+    "signal_tags": ["activation_coverage", "high_jewellery", "editorial_praise"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-20260714-03",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual wire report on Coty-Kering beauty license deal, no brand sentiment expressed",
+    "signal_tags": ["business_deal", "licensing", "factual"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-20260714-04",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade-press analysts frame L'Oreal license takeover as strategically positive for Gucci fragrance growth",
+    "signal_tags": ["trade_press", "analyst_view", "licensing"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-20260714-05",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering Q1 results single out Gucci's continued softness in APAC versus Bottega Veneta's resilience, clear negative momentum press",
+    "signal_tags": ["earnings", "momentum", "apac_softness", "peer_comparison"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-20260714-06",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Local commentator ties Gucci's KLCC exit to mall's declining luxury prestige, mild critical-angle SNS commentary from single source",
+    "signal_tags": ["store_closure", "local_market_perception", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-20260714-07",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing collector forum thread reports recurring hardware and stitching quality complaints despite price increases",
+    "signal_tags": ["quality_complaint", "value_for_money", "community"],
+    "confidence": 0.6
+  }
+]

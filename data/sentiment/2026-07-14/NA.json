@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-20260714-01",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign/product write-up with no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign", "product_drop"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260714-02",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Interpretive analysis of creative direction shift but no clear evaluative praise or criticism.",
+    "signal_tags": ["activation_coverage", "creative_direction", "analysis"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260714-03",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade digest factual roundup of accessories drop, no evaluative content.",
+    "signal_tags": ["activation_coverage", "trade_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20260714-04",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Sports-business feature describing endorsement/marketing impact, factual not evaluative of brand.",
+    "signal_tags": ["ambassador", "sports_marketing"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260714-05",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Forbes editorial includes Sabalenka's Gucci look among Wimbledon best-dressed, a favorable third-party style verdict; incidental mention within roundup caps magnitude.",
+    "signal_tags": ["ambassador", "editorial_praise", "fashion_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260714-06",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Law firm investigating alleged tariff price-hike 'double dip' with unrefunded consumers, a headline-level price-hike backlash controversy.",
+    "signal_tags": ["price_hike_backlash", "controversy", "legal_investigation"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260714-07",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread explicitly mixed between nostalgia and skepticism on material quality, no clear net polarity.",
+    "signal_tags": ["community", "quality_debate", "nostalgia"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260714-08",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Community editorial recommends Gucci entry bags reflecting grassroots enthusiasm, tempered by acknowledged sales softness.",
+    "signal_tags": ["purchase_intent", "community", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260714-09",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD reports quantified independent resale/purchase demand data showing Gucci among top resold luxury brands on eBay.",
+    "signal_tags": ["resale_demand", "quantified_data", "trade_press"],
+    "confidence": 0.85
+  }
+]
