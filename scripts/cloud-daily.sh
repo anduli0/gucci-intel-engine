@@ -15,15 +15,10 @@ run_step "/daily-gucci"
 run_step "/daily-brief"
 run_step "/cd-watch"
 
-# Special/Event desk cadence guard: a fresh deep-dive at least every 3 days
-if ! python - <<'PY'
-import glob, os, time, sys
-fs = glob.glob('data/reports/special/*.md') + glob.glob('data/reports/events/*.md')
-age = (time.time() - max((os.path.getmtime(f) for f in fs), default=0)) / 86400
-print('special desk age(days): %.1f' % age)
-sys.exit(0 if age < 3 else 1)
-PY
-then
+# Special/Event desk cadence guard: a fresh deep-dive at least every 3 days.
+# Content dates (see special_age.py), NOT os.path.getmtime — a fresh checkout
+# resets every mtime, so an mtime-based age would always read ~0 and never fire.
+if ! python scripts/special_age.py; then
   run_step "/gucci-special auto"
 fi
 

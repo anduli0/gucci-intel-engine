@@ -24,6 +24,42 @@ from urllib.parse import parse_qs, urlparse
 
 APP_DIR = Path(__file__).resolve().parent
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+DATE_ANY = re.compile(r"\d{4}-\d{2}-\d{2}")
+
+
+def report_date(p):
+    """Content-derived date (YYYY-MM-DD) for a report file. Filesystem mtime is
+    unreliable: a fresh `git checkout` (e.g. the daily CI run) resets every file's
+    mtime to checkout time, which would falsely badge every report as "updated
+    today". So prefer the filename date prefix, then the meta-line date embedded
+    in the file body, and only fall back to mtime when neither is present."""
+    m = DATE_ANY.match(p.stem)
+    if m:
+        return m.group(0)
+    try:
+        with p.open(encoding="utf-8") as fh:
+            m = DATE_ANY.search(fh.read(600))
+        if m:
+            return m.group(0)
+    except OSError:
+        pass
+    return datetime.fromtimestamp(p.stat().st_mtime).strftime("%Y-%m-%d")
+
+
+def checkpoint_date(p):
+    """Date for an event checkpoint JSON — prefers the embedded generated_at over
+    filesystem mtime (reset by CI checkout), so old checkpoints aren't re-badged
+    as updated today."""
+    try:
+        with p.open(encoding="utf-8") as fh:
+            g = json.load(fh).get("generated_at")
+        if g:
+            return str(g)[:10]
+    except (OSError, ValueError):
+        pass
+    return datetime.fromtimestamp(p.stat().st_mtime).strftime("%Y-%m-%d")
+
+
 ALLOWED_CMDS = {"daily-gucci", "daily-brief", "weekly-luxury", "event-response", "news-scrap", "gucci-special", "gucci-products"}
 REPORT_CATEGORIES = ("special", "cd", "daily", "weekly", "events")
 
@@ -205,11 +241,17 @@ class Handler(BaseHTTPRequestHandler):
                     continue
                 if p.stem.endswith("-en"):  # English editions are variants, not separate reports
                     continue
+                cdate = report_date(p)
+                fs = datetime.fromtimestamp(p.stat().st_mtime)
+                # Keep the wall-clock time only when it agrees with the content
+                # date (i.e. mtime wasn't clobbered by a checkout); otherwise the
+                # content date alone drives the "updated today" badge.
+                mtime = f"{cdate} {fs:%H:%M}" if fs.strftime("%Y-%m-%d") == cdate else cdate
                 out.append({
                     "category": cat,
                     "name": p.stem,
                     "path": f"{cat}/{p.name}",
-                    "mtime": datetime.fromtimestamp(p.stat().st_mtime).strftime("%Y-%m-%d %H:%M"),
+                    "mtime": mtime,
                 })
         out.sort(key=lambda r: r["mtime"], reverse=True)
         return {"reports": out}
@@ -408,7 +450,7 @@ class Handler(BaseHTTPRequestHandler):
                     cps.append({
                         "checkpoint": p.stem,
                         "report": f"events/{rep.name}" if rep.exists() else None,
-                        "mtime": datetime.fromtimestamp(p.stat().st_mtime).strftime("%Y-%m-%d %H:%M"),
+                        "mtime": checkpoint_date(p),
                     })
                 out.append({"event_id": d.name, "checkpoints": cps})
         if repdir.exists():
@@ -419,7 +461,7 @@ class Handler(BaseHTTPRequestHandler):
                 out.append({"event_id": eid, "checkpoints": [{
                     "checkpoint": p.stem[len(eid) + 1:] if p.stem.startswith(eid + "-") else p.stem,
                     "report": f"events/{p.name}",
-                    "mtime": datetime.fromtimestamp(p.stat().st_mtime).strftime("%Y-%m-%d %H:%M"),
+                    "mtime": report_date(p),
                 }]})
         return {"events": out}
 
