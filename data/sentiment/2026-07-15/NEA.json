@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NEA-2026-07-15-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Japan-exclusive capsule write-up tied to lucky-day gifting custom, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "capsule_drop", "japan_exclusive"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-15-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Shopping-guide pickup of same capsule; descriptive framing with only mild implicit commentary on drop-reliance, no clear verdict.",
+    "signal_tags": ["activation_coverage", "capsule_drop", "japan_exclusive"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-15-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified Chinese resale data shows seasonal Gucci styles depreciate over 85%, framed as weaker store-of-value versus LV peer comparison.",
+    "signal_tags": ["resale_value", "peer_comparison", "china_market"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-15-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained, actively-agreed Korean community thread citing counterfeit proliferation, price hikes without design payoff, and image damage.",
+    "signal_tags": ["counterfeit", "price_hike_backlash", "brand_image", "community_sentiment"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-07-15-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Douyin commerce data shows sales skew toward discount-adjacent livestream selling rather than full-price storytelling, mild discount-image concern.",
+    "signal_tags": ["discount_image", "social_commerce", "china_market"],
+    "confidence": 0.6
+  }
+]

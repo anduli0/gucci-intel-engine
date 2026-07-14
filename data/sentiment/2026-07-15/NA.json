@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-20260715-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Monte Carlo campaign chapter, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260715-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD recap of Cruise 2027 staging is largely descriptive/press-derived narrative rather than an independent critical verdict.",
+    "signal_tags": ["activation_coverage", "runway"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260715-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Law firm investigation into unrefunded tariff-driven price hikes is widening, a genuine consumer-facing controversy.",
+    "signal_tags": ["price_hike_backlash", "controversy", "legal"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260715-04",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual business/licensing structural news (Coty to L'Oreal transfer) with no clear brand-sentiment polarity.",
+    "signal_tags": ["business_structure", "licensing"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260715-05",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent review calls show euphoric and more assured, but caveats it still echoes Demna's Balenciaga years, a mixed/conditional verdict.",
+    "signal_tags": ["runway_review", "creative_direction"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260715-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Active collector-forum thread detailing peeling coating, cracked hardware, and stitching failures with dismissive repair response.",
+    "signal_tags": ["quality_complaint", "repair_service"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260715-07",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive note on sustained organic forum engagement volume, not itself an evaluative sentiment statement.",
+    "signal_tags": ["organic_engagement"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260715-08",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent creator reviews of the Vanity bag are generally favorable on versatility, third-party positive but mild/aggregate.",
+    "signal_tags": ["product_review", "sns_buzz"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260715-09",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent reviewer argues collection is derivative of the Tom Ford era rather than forging new codes, one voice within a mixed cluster.",
+    "signal_tags": ["design_criticism", "creative_direction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260715-10",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring aggregated consumer complaints on repair turnaround, quality wear disputes, and a used bag sold at full retail price.",
+    "signal_tags": ["quality_complaint", "value_for_money", "customer_service"],
+    "confidence": 0.8
+  }
+]

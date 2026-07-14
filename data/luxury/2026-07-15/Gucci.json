@@ -1,0 +1,139 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-07-15",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "financial",
+      "headline": "케링 주가, 7월 14일 2.7% 하락 — 7월 28일 실적 발표 앞두고 변동성 확대",
+      "summary": "케링(KER.PA) 주가는 7월 14일 전일 대비 6.75유로(2.70%) 하락한 243.60유로에 거래를 마쳤다. 7월 28일로 예정된 2분기 실적 발표를 앞두고 시장 변동성이 커지는 모습이며, 구찌 매출 회복 여부가 핵심 관전 포인트로 남아 있다.",
+      "url": "https://finance.yahoo.com/quote/KER.PA/",
+      "source": "Yahoo Finance",
+      "tier": "T2",
+      "published_at": "2026-07-14",
+      "why_it_matters": "실적 발표 2주 전 주가가 하락한 것은 시장이 구찌의 2분기 반등에 대해 여전히 회의적임을 시사하며, 1분기 두 자릿수 매출 감소가 이어졌는지가 다음 실적에서 곧바로 드러날 것이다.",
+      "why_it_matters_en": "A share price drop two weeks ahead of earnings suggests the market remains skeptical about a Q2 rebound at Gucci, and whether the double-digit Q1 sales decline persisted will be laid bare in the upcoming report.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "legal",
+      "headline": "구찌 파이썬 가죽 표시광고 집단소송, 정식 재판 절차 진행 중",
+      "summary": "전직 최고 실적 판매직원 트레이시 코헨이 제기한 소비자보호법 위반 집단소송에서 법원이 구찌의 기각 신청을 받아들이지 않아 소송이 증거개시(discovery) 절차로 넘어갔다. 구찌가 파이썬 가죽을 '자연 탈피' 방식으로 얻었다고 고객에게 안내하도록 지시했다는 주장과, PETA Asia가 태국 케링 계열 농장에서 촬영한 학대 정황이 쟁점이다.",
+      "url": "https://www.peta.org/news/gucci-lies-lawsuit-theres-nothing-natural-about-python-skin-products/",
+      "source": "PETA",
+      "tier": "T3",
+      "published_at": "2026-07-13",
+      "why_it_matters": "소송이 기각되지 않고 증거개시 단계로 진행된 것은 구찌의 이국적 가죽 소싱 관행과 고객 안내 문구가 법정에서 실제로 검증받게 됨을 의미하며, 동물복지 이슈에 민감한 소비자층에서 평판 리스크로 이어질 수 있다.",
+      "why_it_matters_en": "The suit surviving dismissal and moving to discovery means Gucci's exotic-skin sourcing practices and customer-facing claims will be tested in court, carrying real reputational risk with welfare-conscious consumers.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "구찌, 파리 아브뉴 몽테뉴 매장 임대 만료 앞두고 생토노레 신규 플래그십 준비",
+      "summary": "구찌의 파리 아브뉴 몽테뉴 매장 임대 계약이 연말 만료를 앞둔 가운데, 케링은 약 3억 유로를 투입해 매입한 생토노레-카스틸리오네 코너 건물(약 2,350㎡, 2개 층)에 신규 대형 플래그십을 준비 중인 것으로 파악된다.",
+      "url": "https://www.nssmag.com/en/fashion/45857/gucci-boutique-closure-avenue-montaigne-paris",
+      "source": "nss magazine",
+      "tier": "T2",
+      "published_at": "2026-07-09",
+      "why_it_matters": "핵심 상권에서의 매장 이전은 아시아 매장 축소와 대비되는 유럽 프리미엄 입지 재배치 전략으로 읽히지만, 기존 몽테뉴 매장 고객 접점의 공백 기간과 개장 지연 리스크는 여전히 남아 있다.",
+      "why_it_matters_en": "The relocation within a top Paris shopping district reads as a premium-footprint repositioning that contrasts with Asia store cuts, but the gap in customer touchpoints during the transition and opening-delay risk both remain unresolved.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "L'Oréal-Coty 구찌 뷰티 조기 이관 합의, 규제 승인 절차 남아",
+      "summary": "L'Oréal이 Coty로부터 구찌 뷰티 라이선스를 예정보다 1년 앞당겨 2027년 7월 1일부로 넘겨받기로 한 합의가 이번 주 업계 매체에서 재조명됐다. Coty는 약 4억 달러를 받고 2027년 6월 30일까지 최소 운영을 이어가며, 거래는 규제 승인을 전제로 한다.",
+      "url": "https://www.businessoffashion.com/news/beauty/gucci-kering-loreal-agreement-license/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-07-13",
+      "why_it_matters": "조기 이관은 케링·L'Oréal 양측에는 호재로 보도되지만, 2027년까지 이어지는 전환기 동안 구찌 뷰티 라인의 마케팅·제품 연속성이 흔들릴 경우 소비자 접점에서 혼선이 발생할 수 있다.",
+      "why_it_matters_en": "The early handover is framed as a win for Kering and L'Oréal, but if marketing and product continuity for Gucci Beauty wavers during the transition through 2027, consumer-facing confusion is a real risk.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "구찌 몬테카를로 캠페인 2장, 플로라 모티프 60주년과 연계 확대 조명",
+      "summary": "구찌의 서머 2026 몬테카를로 캠페인 2장이 이번 주 패션 매체들에서 재조명되며, 플로라 모티프 60주년 기념과 연계된 마케팅 서사로 다뤄지고 있다. 티엔시웨이, 아멜리아 그레이, 아녹 야이 등이 출연했고 재키, 지글리오, 디오니소스백이 중심이다.",
+      "url": "https://fashionweekdaily.com/gucci-summer-2026-campaign/",
+      "source": "Daily Front Row",
+      "tier": "T2",
+      "published_at": "2026-07-13",
+      "why_it_matters": "복수 매체가 같은 캠페인을 반복 보도하는 것은 홍보 노출량 확대를 보여주지만, 이는 브랜드가 기획한 활성화 활동에 대한 미디어 커버리지일 뿐 소비자 여론이나 구매 전환의 증거는 아니다.",
+      "why_it_matters_en": "Repeated coverage of the same campaign across outlets shows expanded media exposure, but this is coverage of a brand-orchestrated activation, not evidence of consumer sentiment or purchase conversion.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "구찌 경영진 재편 후속 — 마르케·페로시노 체제 안착 여부 업계 관심",
+      "summary": "프란체스카 벨레티니 CEO 취임 이후 다리오 마르케(최고 고객·마케팅·커머셜 책임자)와 지오반니 페로시노(마케팅 수석부사장) 등 신규 임원진 체제가 실제 매출 반등으로 이어지고 있는지에 대한 업계 분석이 이번 주 이어졌다.",
+      "url": "https://wwd.com/business-news/human-resources/gucci-new-managerial-organization-help-turnaround-1238432212/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-11",
+      "why_it_matters": "경영진 재편이 완료된 지 반년 이상 지난 시점에서도 매출 반등의 뚜렷한 증거가 없다면, 조직 개편 자체가 목적이 아니라 결과로 평가받아야 한다는 압박이 커진다.",
+      "why_it_matters_en": "More than six months after the management reshuffle, absent clear evidence of a sales rebound, the reorganization itself faces mounting pressure to be judged by results rather than intent.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "trend",
+      "headline": "구찌 하이주얼리 컬렉션, 4개 챕터 약 140점 — 편집 매체서 지속 조명",
+      "summary": "파리 오트쿠튀르 기간 공개된 구찌 하이주얼리 컬렉션(플로라, 노도, 에버라스팅 G, 아이코닉 시그니처스 4개 챕터, 약 140점)이 이번 주에도 다수 라이프스타일·주얼리 매체에서 재조명되며 소셜·에디토리얼 노출이 이어지고 있다.",
+      "url": "https://whitewall.art/lifestyle/guccis-new-high-jewelry-collection/",
+      "source": "Whitewall",
+      "tier": "T3",
+      "published_at": "2026-07-08",
+      "why_it_matters": "하이주얼리 라인의 지속적 에디토리얼 노출은 헤리티지 모티프 재해석에 대한 관심을 보여주지만, 하이주얼리는 볼륨 매출과 무관한 이미지 사업이라 구찌의 핵심 가죽·액세서리 매출 회복과는 직접 연결되지 않는다.",
+      "why_it_matters_en": "Sustained editorial exposure for the high jewelry line signals interest in heritage-motif reinterpretation, but high jewelry is a volume-irrelevant image business and does not directly translate into recovery of Gucci's core leather goods and accessories sales.",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "financial",
+      "headline": "케링 1분기 매출 6.2% 감소, 구찌 매출 14% 급감",
+      "summary": "케링의 2026년 1분기 매출은 전년 대비 6.2% 줄어든 35.7억 유로를 기록했으며, 구찌 매출은 13.47억 유로로 14% 감소해 그룹 내 가장 큰 낙폭을 보였다. 생로랑·보테가베네타·발렌시아가는 성장세를 유지했다.",
+      "url": "https://wwd.com/business-news/financial/kering-q1-2026-results-meo-1238911937/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-04-14",
+      "why_it_matters": "구찌만 그룹 내에서 두 자릿수 매출 감소를 지속하고 있어, 뎀나 체제 전환과 리브랜딩이 아직 매출로 전환되지 않았음을 수치로 확인시켜 준다.",
+      "why_it_matters_en": "Gucci remains the only Kering house posting double-digit revenue declines, hard numerical evidence that the Demna-era repositioning has not yet translated into sales recovery.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "L'Oréal, 구찌 뷰티 50년 독점 라이선스 공식 확정 — 2027년 7월 이관",
+      "summary": "L'Oréal이 케링과 구찌 브랜드에 대한 50년 전 세계 독점 뷰티 라이선스 계약을 공식화했다고 발표했다. 규제 승인을 전제로 2027년 7월 1일부터 발효되며, 케링이 Coty에 약 4억 달러를 지급하고 기존 라이선스를 조기 회수한 결과다.",
+      "url": "https://www.loreal-finance.com/eng/press-release/loreal-enters-50-year-exclusive-worldwide-beauty-licence-kering-gucci-brand",
+      "source": "L'Oréal Finance (press release)",
+      "tier": "T1",
+      "published_at": "2026-07-13",
+      "why_it_matters": "뷰티 사업권이 예정보다 1년 앞당겨 L'Oréal로 넘어가는 것은 구찌의 장기 프리미엄 포지셔닝에는 긍정적 신호이나, 2027년까지 이어지는 전환 기간의 이중 관리 리스크와 매출 공백 가능성은 여전히 남아 있다.",
+      "why_it_matters_en": "The beauty license moving to L'Oréal a year early is a positive long-term signal for premium positioning, but the dual-management transition period through 2027 still carries execution risk and potential revenue gaps.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "케링 매장 축소 계획, 구찌 아시아 매장 비중 최대 — 2026년 진행 중",
+      "summary": "케링이 추진 중인 2026년 매장 100여 곳 폐쇄 계획에서 구찌가 가장 큰 비중을 차지하며, 아시아 지역 매장이 전체 폐쇄분의 상당 부분을 차지하는 것으로 파악된다. 4년간 총 250개 매장 폐쇄가 목표다.",
+      "url": "https://finance.yahoo.com/news/luxury-giant-close-more-200-040700889.html",
+      "source": "Yahoo Finance",
+      "tier": "T2",
+      "published_at": "2026-06-01",
+      "why_it_matters": "매장 효율화라는 명분에도 불구하고 이미 매출이 약한 아시아 시장에서 매장망을 스스로 줄이는 전략은 단기적으로 브랜드 존재감과 매출 회복 속도를 더 늦출 위험이 있다.",
+      "why_it_matters_en": "Despite the efficiency rationale, cutting store footprint in Asia — already Gucci's weakest region — risks further slowing brand visibility and sales recovery in the near term.",
+      "relevance": "unrelated"
+    }
+  ]
+}

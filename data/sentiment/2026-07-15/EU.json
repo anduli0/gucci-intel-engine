@@ -1,0 +1,83 @@
+[
+  {
+    "id": "eu-2026-07-15-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Barclays sees further 5% organic sales decline and Berenberg keeps a 'sell' with a steep price target cut, citing delayed turnaround.",
+    "signal_tags": ["earnings_press", "analyst_downgrade", "momentum_negative"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-15-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Neutral market framing of Gucci as a brand-momentum bet; investors watching, no firm evaluative verdict yet.",
+    "signal_tags": ["earnings_press", "market_watch"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-07-15-03",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent analysts (Jefferies, Barclays) frame the accelerated beauty license shift as a net strategic win for Gucci brand equity.",
+    "signal_tags": ["licensing_deal", "analyst_view", "brand_equity"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-15-04",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual wire report on L'Oreal CEO rationale for the licence transfer timing; no evaluative verdict on Gucci itself.",
+    "signal_tags": ["licensing_deal", "factual_report"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-15-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of the Monte Carlo campaign chapter two and featured products; no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-15-06",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "BoF frames the piece as an open question—whether the drop reverses the demand slide or repeats an underperforming playbook—without a firm verdict.",
+    "signal_tags": ["trade_press", "demand_analysis"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-15-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Reel only opens discussion on Demna's Gucci; no visible content or verdict to establish polarity.",
+    "signal_tags": ["sns_commentary", "low_content"],
+    "confidence": 0.3
+  },
+  {
+    "id": "eu-2026-07-15-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Reshare of an exhibition teaser announcement; purely descriptive activation coverage, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "exhibition_announcement"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-07-15-10",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Dominant community verdict calls the collection derivative of Balenciaga and unfavorably compares it to the Tom Ford era, despite a minority positive view.",
+    "signal_tags": ["design_criticism", "peer_comparison", "community"],
+    "confidence": 0.75
+  }
+]

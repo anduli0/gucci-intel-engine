@@ -1,0 +1,139 @@
+{
+  "brand_group": "Beauty",
+  "date": "2026-07-15",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Estee Lauder",
+      "event_type": "controversy / regulation",
+      "headline": "에스티로더, 버몬트주에 데이터 유출 신고 — 사회보장번호·건강정보 등 노출",
+      "summary": "에스티로더 컴퍼니즈가 7월 10일 버몬트주 법무장관실에 제출한 신고서에 따르면 사회보장번호, 금융계좌 정보, 신용·직불카드 정보, 정부 발급 신분증 번호, 건강 기록 등이 이번 데이터 유출에 포함된 것으로 확인됐다. 소송 가능성이 제기되고 있다.",
+      "url": "https://www.classaction.org/data-breach-lawsuits/the-estee-lauder-companies-july-2026",
+      "source": "ClassAction.org",
+      "tier": "T2_trade",
+      "published_at": "2026-07-10",
+      "why_it_matters": "럭셔리 뷰티 대기업의 개인정보 유출 사고는 소비자 신뢰와 규제 리스크로 직결되며, 구찌 뷰티가 로레알 체제로 전환하는 과정에서도 데이터 보안 거버넌스가 핵심 리스크 항목으로 다뤄져야 함을 시사한다.",
+      "why_it_matters_en": "A major luxury beauty conglomerate's data breach disclosure is a direct consumer-trust and regulatory risk, underscoring that data security governance must be a core risk item as Gucci Beauty transitions into the L'Oreal structure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Estee Lauder (Too Faced / Smashbox / Dr. Jart+)",
+      "event_type": "corporate / restructuring",
+      "headline": "에스티로더, 투페이스·스매쉬박스·닥터자르트 매각설 철회하고 잔류 결정",
+      "summary": "WWD 보도에 따르면 에스티로더는 매각 검토설이 돌던 투페이스, 스매쉬박스, 닥터자르트+ 브랜드를 계속 보유하기로 결정했으며, 이들 브랜드와 오리진스의 기업가치를 끌어올리기 위한 전략을 내부적으로 추진 중이라고 밝혔다. 동시에 구조조정 누적 비용 전망치를 기존 15.5억 달러에서 17.5억 달러로 상향했다.",
+      "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-keep-too-faced-smashbox-dr-jart-1239065048/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "경쟁 뷰티 대기업이 구조조정 비용을 늘리면서도 포트폴리오를 유지하는 방어적 선택을 하고 있어, 럭셔리 뷰티 업계 전반의 수익성 압박이 여전히 해소되지 않았음을 보여주는 배경 지표다.",
+      "why_it_matters_en": "A rival beauty conglomerate is raising restructuring costs while defensively retaining its brand portfolio, signaling that profitability pressure across the luxury beauty industry remains unresolved — useful context, not a Gucci-specific signal.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Maison Francis Kurkdjian / LVMH",
+      "event_type": "executive move",
+      "headline": "LVMH, 프랑시스 커크지앙 메종 새 대표에 베로니크 쿠르투아 크리스챤 디올 퍼퓸 CEO 선임",
+      "summary": "공동창업자 마크 샤야가 17년 만에 대표직에서 물러난 뒤, LVMH 뷰티 부문을 이끄는 베로니크 쿠르투아 크리스챤 디올 퍼퓸 대표가 메종 프랑시스 커크지앙의 신임 대표를 겸직하게 됐다고 업계 매체들이 보도했다. 샤야는 전략 고문으로 남는다.",
+      "url": "https://wwd.com/beauty-industry-news/fragrance/exclusive-marc-chaya-leaving-maison-francis-kurkdjian-1238933615/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07",
+      "why_it_matters": "LVMH가 니치 향수 하우스 경영진을 그룹 핵심 뷰티 리더로 통합·재편하는 흐름은 구찌 뷰티가 로레알 체제 편입 이후 겪을 조직 통합 리스크(창업 브랜드 정체성 희석 가능성)의 참고 사례가 된다.",
+      "why_it_matters_en": "LVMH's move to consolidate a niche fragrance house's leadership under a core group beauty executive is a reference case for the organizational-integration risk (dilution of founder identity) Gucci Beauty may face once folded into the L'Oreal structure.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Prada Beauty",
+      "event_type": "trend",
+      "headline": "프라다 뷰티, 밀라노 역사적 시장을 뷰티 팝업 공간으로 재구성 — 신제품 '더 핸드' 공개",
+      "summary": "프라다 뷰티가 밀라노 브레라 지구의 역사적 시장 '프루테토 가리발디'를 향수·메이크업·설치미술이 결합된 '프라다 스프링 마켓'으로 전환해 프라다 터치 블러셔, 파라독스·파라디그메 향수와 함께 신제품 핸드크림 '더 핸드'를 공개했다. TikTok 등 소셜 채널에서 화제성이 높은 것으로 보도됐다.",
+      "url": "https://layalinaprivee.com/en/100690-prada-beauty-turns-milans-historic-market-into-the-seasons-most-stylish-beauty-destination.html",
+      "source": "Layalina Privee",
+      "tier": "T2_by_region",
+      "published_at": "2026-07",
+      "why_it_matters": "구찌 뷰티가 로레알 전환 준비기에 있는 사이, 경쟁 이탈리아 하우스 프라다는 체험형 팝업과 소셜 화제성을 지속적으로 축적하며 뷰티 언드미디어 점유율을 넓히고 있어 채널 전략 격차가 벌어질 위험이 있다.",
+      "why_it_matters_en": "While Gucci Beauty sits in its L'Oreal-transition preparation window, rival Italian house Prada continues stacking experiential pop-ups and social buzz, widening earned-media share in beauty — a channel-strategy gap risk for Gucci.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Armani Beauty",
+      "event_type": "campaign",
+      "headline": "아르마니 뷰티, '돌치 블러시' 컬렉션 출시 기념 몬탁 팝업 예고",
+      "summary": "아르마니 뷰티가 이탈리아 디저트에서 영감을 받은 5가지 색상의 '돌치 메이크업 블러시' 컬렉션 출시를 기념해 7월 17~18일 뉴욕 몬탁 '더 서프 로지'에서 맞춤 셰이드 매칭과 전문 메이크업 아티스트리를 제공하는 팝업을 연다고 밝혔다.",
+      "url": "https://www.thehamptonseditmagazine.com/post/armani-beauty-brings-italian-indulgence-to-the-surf-lodge-with-the-new-dolci-blush-pop-up",
+      "source": "The Hamptons Edit Magazine",
+      "tier": "T2_by_region",
+      "published_at": "2026-07",
+      "why_it_matters": "이는 아르마니 자체 캠페인 활동 커버리지로 여론 개선의 증거는 아니며, 컬러 메이크업 카테고리에서 체험형 팝업이 프레스티지 하우스 전반의 표준 전술로 확산되고 있음을 보여준다.",
+      "why_it_matters_en": "This is activation coverage of Armani's own campaign output, not sentiment evidence — it shows experiential pop-ups becoming a standard tactic across prestige color-cosmetics houses.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "YSL Beauty",
+      "event_type": "campaign",
+      "headline": "YSL 뷰티, 말레이시아·싱가포르서 가정폭력 인식 제고 팟캐스트 시리즈 공개",
+      "summary": "YSL 뷰티가 '헤드 오버 힐즈' 팟캐스트와 협업해 현대적 관계, 정서적 웰빙, 데이트 폭력을 다루는 3부작 시리즈 첫 회를 7월 9일 공개했다. 학대의 9가지 경고 신호를 알리는 지역 사회공헌 캠페인의 일환이다.",
+      "url": "https://www.buro247.my/beauty/buro-loves/beauty-buzz-july-2026.html",
+      "source": "Buro247 Malaysia",
+      "tier": "T2_by_region",
+      "published_at": "2026-07-09",
+      "why_it_matters": "여성 대상 폭력 예방 콘텐츠를 통한 브랜드 목적성 마케팅은 뷰티 업계에서 확산되는 흐름이며, 구찌 뷰티가 향후 로레알 체제 하에서 브랜드 목적 캠페인을 설계할 때 참고할 수 있는 지역 사례다.",
+      "why_it_matters_en": "Purpose-driven marketing addressing violence against women is a spreading practice in beauty; a useful regional benchmark case for Gucci Beauty's future purpose-campaign design once under L'Oreal.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci Beauty / Kering / L'Oreal / Coty",
+      "event_type": "licensing",
+      "headline": "[배경] 구찌 뷰티 로레알 이관 확정 — L'Oréal 반기 실적 발표(7월 29일) 앞두고 통합 준비 지속",
+      "summary": "지난 7월 7일 확정된 케링-로레알 간 구찌 뷰티 50년 라이선스 계약(코티는 조기 퇴장 대가로 약 4억 달러 수령, 실제 사업 이관은 2027년 7월 1일부터)의 실행 준비가 이어지는 가운데, 로레알은 7월 29일 장 마감 후 2026년 반기 실적을 발표할 예정이다.",
+      "url": "https://www.loreal-finance.com/eng/2026-half-year-results-after-market",
+      "source": "L'Oreal Finance",
+      "tier": "T1",
+      "published_at": "2026-07-15",
+      "why_it_matters": "구찌 자체 브랜드의 향후 뷰티 사업 방향을 결정짓는 핵심 구조적 사건이 여전히 진행 중이며, 7월 29일 로레알 반기 실적에서 럭스 부문 성장세와 구찌 이관 관련 코멘트가 나올 가능성이 높아 지속 모니터링이 필요하다.",
+      "why_it_matters_en": "The defining structural event for Gucci's own beauty business remains in motion, and L'Oreal's July 29 half-year results may include commentary on the Luxe division's growth and the Gucci handover — continued monitoring warranted.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Valentino Beauty",
+      "event_type": "launch",
+      "headline": "[배경] 발렌티노 뷰티, 6년 만의 신규 프레스티지 향수 '벤데타' 다코타 존슨·스카스가드 앰배서더로 확장 전개",
+      "summary": "지난 7월 13일 공개된 발렌티노 뷰티의 신규 향수 듀오 '벤데타 돈나·우오모'(조향: 도미니크 로피옹, 마리 살라마뉴) 캠페인이 다코타 존슨과 알렉산더 스카스가드를 앞세워 이번 주 미디어 노출을 확대하고 있다.",
+      "url": "https://www.morningstar.com/news/pr-newswire/20260713la02256/valentino-beauty-unveils-vendetta-the-scents-of-unstoppable-passion",
+      "source": "PR Newswire via Morningstar",
+      "tier": "T2_trade",
+      "published_at": "2026-07-13",
+      "why_it_matters": "경쟁 하우스의 톱티어 셀럽 앰배서더 대형 향수 캠페인이 구찌 향수 라인의 라이선스 전환 공백기와 겹쳐 매대·미디어 점유율 경쟁에서 상대적 불리함이 지속되고 있다.",
+      "why_it_matters_en": "A rival house's major celebrity-fronted fragrance campaign continues running right as Gucci's own fragrance line sits in a licensing transition gap, a competitive disadvantage in shelf and media share of voice that persists.",
+      "relevance": "competitive threat"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci Beauty / Kering / L'Oreal / Coty",
+      "event_type": "licensing",
+      "headline": "구찌 뷰티 라이선스, 로레알로 1년 앞당겨 이전 확정 — 코티 4억 달러 받고 조기 퇴장",
+      "summary": "케링과 로레알이 구찌 뷰티(향수·메이크업) 사업에 대해 50년 독점 라이선스 계약을 체결했다고 7월 7일 공식 발표했다. 기존 라이선스 보유사인 코티는 계약을 조기 종료하는 대가로 약 4억 달러를 받으며, 로레알의 실제 사업 인수는 2027년 7월 1일부터 시작된다.",
+      "url": "https://www.loreal-finance.com/eng/press-release/loreal-enters-50-year-exclusive-worldwide-beauty-licence-kering-gucci-brand",
+      "source": "L'Oreal Finance / Kering press release",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "구찌 자체 브랜드의 향후 뷰티 사업 방향을 결정짓는 핵심 구조적 사건으로, 로레알의 글로벌 유통력과 혁신 역량이 구찌 뷰티의 매출 궤적을 바꿀 잠재력이 크지만 실질 전환은 1년 뒤이며 그 사이 실행 리스크가 남아있다.",
+      "why_it_matters_en": "This is the defining structural event for Gucci's own beauty business going forward; L'Oreal's global distribution and innovation muscle could reshape Gucci Beauty's trajectory, but the actual handover is a year out and execution risk remains.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Louis Vuitton Beaute",
+      "event_type": "launch",
+      "headline": "루이비통 라 보테, 팻 맥그래스가 개발한 첫 립라이너 LV 크레용 출시",
+      "summary": "루이비통은 메이크업 크리에이티브 디렉터 팻 맥그래스가 개발한 첫 립라이너 제품 'LV 크레용'을 10가지 색상으로 출시하며 펩타이드 성분의 크리미한 포뮬러를 강조했다.",
+      "url": "https://playbookofbeauty.com/july-6th-2026-week-beauty-news/",
+      "source": "Playbook of Beauty",
+      "tier": "T2_trade",
+      "published_at": "2026-07-06",
+      "why_it_matters": "LVMH가 럭셔리 하우스 메이크업 카테고리를 톱 크리에이티브 디렉터 영입으로 정면 공략하고 있어, 구찌 뷰티가 로레알 체제로 넘어가기 전 메이크업 라인 경쟁력 공백이 상대적으로 두드러진다.",
+      "why_it_matters_en": "LVMH is aggressively building out its house makeup category via top creative-director hires, making Gucci Beauty's relative makeup-line competitiveness gap more visible ahead of its L'Oreal transition.",
+      "relevance": "competitive threat"
+    }
+  ]
+}
