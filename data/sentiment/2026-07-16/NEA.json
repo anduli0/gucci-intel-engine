@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NEA-2026-07-16-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive gift-guide activation write-up (product/collab listing) with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "gifting_seasonal", "capsule_collab"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-16-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive wallet roundup placing Gucci in a peer comparison set without any judgment rendered.",
+    "signal_tags": ["activation_coverage", "gifting_seasonal", "peer_comparison"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-16-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Gucci named only as context/comparator in an LV trademark-litigation backlash story; no direct claim against Gucci.",
+    "signal_tags": ["ip_enforcement", "peer_comparison", "incidental_mention"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-07-16-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "State-affiliated legal outlet flags Gucci among brands facing scrutiny for over-claiming trademark rights over traditional Asian motifs.",
+    "signal_tags": ["ip_controversy", "regulatory_scrutiny", "cultural_appropriation"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-07-16-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic, high-engagement Korean forum thread citing price hikes without design differentiation, logo fatigue, and doubt Demna fits Gucci's core customer.",
+    "signal_tags": ["price_hike_backlash", "design_criticism", "creative_direction_doubt", "lost_its_way"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-16-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador endorsement framed as a reliable sales-converting fandom asset, no controversy; fandom spike damped per trap rule.",
+    "signal_tags": ["ambassador", "fandom", "endorsement_value"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-16-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-driven runway/ambassador clip aggregation, purely descriptive with no design or brand-direction commentary.",
+    "signal_tags": ["fandom", "activation_coverage", "ambassador"],
+    "confidence": 0.7
+  }
+]

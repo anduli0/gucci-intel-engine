@@ -1,0 +1,224 @@
+{
+  "date": "2026-07-16",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "구찌 + data/sources/pool.json competitor_set 전 브랜드(루이비통, 디올, 샤넬, 프라다, 보테가베네타, 생로랑, 발렌시아가, 버버리)에 동일한 중립 검색 템플릿 적용",
+    "지역별로 동일 문구('<브랜드> 뉴스' 한국어, '<ブランド> ニュース' 일본어 — NEA / '<brand> news' 영어 — NA / '<brand> actualité' 프랑스어 — EU / '<brand> news Singapore OR Thailand OR Southeast Asia' — SEA) 사용",
+    "브랜드마다 동일 검색 횟수·동일 스캔 깊이 유지 (편향 방지)",
+    "최근 7일(2026-07-09~2026-07-16) 내 발행일이 명확히 확인되는 기사만 집계",
+    "패션/비즈니스 편집 기사만 포함 — 쇼핑몰 상품 리스팅, 태그 페이지, 매장 안내 페이지, 중복 기사 제외",
+    "발행일이 불명확하거나 지난 7일 범위를 벗어난 아카이브/에버그린 콘텐츠는 카운트에서 제외",
+    "브랜드명이 지명·인명과 충돌하는 경우(예: Saint Laurent = 몬트리올 구역명) 소독 검색으로 명확히 브랜드 관련 기사만 산정",
+    "집계는 정직하게 기록 — 커버리지가 실제로 많은 브랜드는 그대로 반영하고 인위적 평활화 없음"
+  ],
+  "criteria_en": [
+    "Same neutral query template applied to Gucci + every brand in data/sources/pool.json competitor_set (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry)",
+    "Identical phrasing per region ('<brand> 뉴스' Korean / '<brand> ニュース' Japanese — NEA; '<brand> news' English — NA; '<brand> actualité' French — EU; '<brand> news Singapore OR Thailand OR Southeast Asia' — SEA)",
+    "Same number of searches and same scan depth per brand — no brand searched more deeply than another",
+    "Only articles with a clearly verifiable publish date within the last 7 days (2026-07-09 to 2026-07-16) were counted",
+    "Only fashion/business editorial coverage counted — shopping listings, tag pages, store-locator pages, duplicates excluded",
+    "Undated or clearly older/evergreen archive content excluded from counts",
+    "Where brand name collided with a place/person name (e.g., Saint Laurent = Montreal borough), a disambiguating search was run to isolate genuine brand coverage",
+    "Counts kept honest — brands with genuinely heavier coverage (e.g., due to Paris Haute Couture Week during this window) recorded as such, no normalization"
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 3,
+      "Louis Vuitton": 1,
+      "Dior": 1,
+      "Chanel": 2,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "SEA": {
+      "Gucci": 1,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 1,
+      "Louis Vuitton": 1,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 0,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 3,
+      "Burberry": 1
+    },
+    "EU": {
+      "Gucci": 1,
+      "Louis Vuitton": 1,
+      "Dior": 2,
+      "Chanel": 2,
+      "Prada": 0,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 3,
+      "Burberry": 1
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["파이낸셜뉴스", "WWD Japan"],
+        "examples": [
+          {"title": "'실적 줄줄줄' 흘러내린 구찌..한국법인 CEO 3명 체제로 [명품價 이야기]", "url": "https://www.fnnews.com/news/202507250849544943"},
+          {"title": "「グッチ」のビューティライセンス喪失でコティに大打撃 ケリングとロレアルの戦略提携により", "url": "https://www.wwdjapan.com/articles/2245390"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["뉴시스"],
+        "examples": [
+          {"title": "\"루이비통? 그게 뭔데요\"…MZ한테는 안 먹힌다는데", "url": "https://www.newsis.com/view/NISX20250729_0003270408"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["madameFIGARO.jp"],
+        "examples": [
+          {"title": "パリで発表、ディオールが示す肌老化の15の指標の背景とは？", "url": "https://madamefigaro.jp/beauty/260715-dior-skin-longevity-compass-tm/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["W Korea", "파이낸셜뉴스"],
+        "examples": [
+          {"title": "움직일수록 아름다운 샤넬의 새로운 컬렉션", "url": "https://www.wkorea.com/2026/07/14/%EC%9B%80%EC%A7%81%EC%9D%BC%EC%88%98%EB%A1%9D-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EC%83%A4%EB%84%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%BB%AC%EB%A0%89%EC%85%98"},
+          {"title": "클래식백 1880만원까지 올랐다…샤넬, 올해만 다섯 번째 가격 인상 [명품價 이야기]", "url": "https://www.fnnews.com/news/202607141028434151"}
+        ]
+      },
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "SEA": {
+      "Gucci": {
+        "outlets": ["THAI.NEWS"],
+        "examples": [
+          {"title": "Gucci Visions Exhibition Lands in Bangkok: A Luxe Journey Through Fashion History", "url": "https://thai.news/news/thailand/gucci-visions-exhibition-lands-in-bangkok-a-luxe-journey-through-fashion-history"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {
+        "outlets": ["L'Officiel Singapore"],
+        "examples": [
+          {"title": "Inside Bottega Veneta's 'Weaving Matter And Memory' at Bangkok Kunsthalle", "url": "https://www.lofficielsingapore.com/living/inside-bottega-veneta-weaving-matter-and-memory-exhibition-bangkok-kunsthalle-art-celebrity-fashion"}
+        ]
+      },
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["GlobeNewswire / Kering"],
+        "examples": [
+          {"title": "Kering announces that Gucci and L'Oréal have entered into a 50-year exclusive beauty licence agreement, one year ahead of schedule", "url": "https://www.globenewswire.com/news-release/2026/07/07/3323630/0/en/kering-announces-that-gucci-and-l-or%C3%A9al-have-entered-into-a-50-year-exclusive-beauty-licence-agreement-one-year-ahead-of-schedule.html"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Louis Vuitton Unveils Bespoke Trophy Trunk for FIFA World Cup 2026", "url": "https://wwd.com/fashion-news/designer-luxury/louis-vuittons-world-cup-trophy-trunk-2026-1239060420/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Dior Fall 2026 Haute Couture Shoes: Maximalism, Metallics and More on the Paris Runway", "url": "https://wwd.com/footwear-news/shoe-trends/dior-fall-2026-haute-couture-shoes-paris-jonathan-anderson-1239053488/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["Tom + Lorenzo"],
+        "examples": [
+          {"title": "Paris Fashion Week: Chanel Fall 2026 Couture Collection", "url": "https://tomandlorenzo.com/2026/07/paris-fashion-week-chanel-fall-2026-couture-collection/"}
+        ]
+      },
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {
+        "outlets": ["GlobeNewswire / Kering"],
+        "examples": [
+          {"title": "Kering: Romain Spitzer appointed Chief Executive Officer of Bottega Veneta", "url": "https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html"}
+        ]
+      },
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {
+        "outlets": ["WWD", "E! Online", "Hypebeast"],
+        "examples": [
+          {"title": "Balenciaga Fall 2026 Couture Collection", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/balenciaga-fall-2026-couture-collection-1239057690/"},
+          {"title": "Gigi Hadid's Feathered Balenciaga Look in First Couture Show in 4 Years", "url": "https://www.eonline.com/news/1433821/gigi-hadids-feathered-balenciaga-look-in-first-couture-show-in-4-years"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["TradingView / Reuters"],
+        "examples": [
+          {"title": "REG - Burberry Group PLC - Result of AGM", "url": "https://www.tradingview.com/news/reuters.com,2026-07-15:newsml_RSO5163Ma:0-reg-burberry-group-plc-result-of-agm/"}
+        ]
+      }
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": ["L'Oréal press / Kering"],
+        "examples": [
+          {"title": "L'Oréal enters a 50-year exclusive worldwide beauty licence with Kering for the Gucci brand", "url": "https://www.loreal.com/en/press-release/group/l-oreal-enters-a-50-year-exclusive-worldwide-beauty-licence-with-kering--for-the-gucci-brand/"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Louis Vuitton Unveils Bespoke Trophy Trunk for FIFA World Cup 2026", "url": "https://wwd.com/fashion-news/designer-luxury/louis-vuittons-world-cup-trophy-trunk-2026-1239060420/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["WWD", "BigNewsNetwork"],
+        "examples": [
+          {"title": "Dior Couture Fall 2026 Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/fall-couture-2026/paris/christian-dior/review/"},
+          {"title": "FRANCE-PARIS-HAUTE COUTURE WEEK-CHRISTIAN DIOR", "url": "https://www.bignewsnetwork.com/news/279171235/france-paris-haute-couture-week-christian-dior"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["Tom + Lorenzo", "Go Fug Yourself"],
+        "examples": [
+          {"title": "Paris Fashion Week: Chanel Fall 2026 Couture Collection", "url": "https://tomandlorenzo.com/2026/07/paris-fashion-week-chanel-fall-2026-couture-collection/"},
+          {"title": "Alexa Demie - Chanel Photocall Paris", "url": "https://www.gofugyourself.com/photos/chanels-f-w-2026-front-row/chanel-photocall-paris-fashion-week-haute-couture-fall-winter-2026-2027-7"}
+        ]
+      },
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {
+        "outlets": ["GlobeNewswire / Kering"],
+        "examples": [
+          {"title": "Kering: Romain Spitzer appointed Chief Executive Officer of Bottega Veneta", "url": "https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html"}
+        ]
+      },
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {
+        "outlets": ["WWD", "Hypebeast", "RunwayLive"],
+        "examples": [
+          {"title": "Balenciaga's New Couture Era Begins as Pierpaolo Piccioli Prepares the Most Anticipated Runway Show of 2026", "url": "https://runwaylive.com/balenciaga-couture-2026-piccioli-paris-haute-couture.html"},
+          {"title": "Balenciaga Shows Piccioli's Couture Debut & Chanel Acquires France's Oldest Shirtmaker in This Week's Top Fashion News", "url": "https://hypebeast.com/2026/7/balenciaga-couture-chanel-schiaparelli-desire-doue-france"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["TradingView / Reuters"],
+        "examples": [
+          {"title": "REG - Burberry Group PLC - Result of AGM", "url": "https://www.tradingview.com/news/reuters.com,2026-07-15:newsml_RSO5163Ma:0-reg-burberry-group-plc-result-of-agm/"}
+        ]
+      }
+    }
+  }
+}

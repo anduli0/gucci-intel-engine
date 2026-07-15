@@ -1,0 +1,152 @@
+{
+  "brand_group": "Beauty",
+  "date": "2026-07-16",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Chanel Beauty",
+      "event_type": "launch",
+      "headline": "샤넬, '코코 마드모아젤 크러쉬 압솔뤼' 신규 향수 공개 — 그레이시 에이브럼스 앰버서더 발탁",
+      "summary": "샤넬이 7월 14일 코코 마드모아젤 프랜차이즈의 신제품 '크러쉬 압솔뤼'를 공개했으며, 8월 19일 정식 출시를 앞두고 가수 그레이시 에이브럼스를 새 얼굴로 발탁했다. 25년 된 오리지널 코코 마드모아젤은 여전히 시장 1위 오드퍼퓸으로 소개됐다.",
+      "url": "https://wwd.com/beauty-industry-news/fragrance/chanel-has-new-perfume-crush-coco-mademoiselle-fragrance-1239062723/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-14",
+      "why_it_matters": "샤넬이 자사 최대 향수 프랜차이즈를 Z세대 인기 아티스트로 재활성화하는 전략은 구찌 뷰티가 로레알 이관 이후 헤리티지 향수 라인을 재점화할 때 참고할 벤치마크이며, 동시에 향수 카테고리에서 셀럽 앰배서더 경쟁이 갈수록 치열해지고 있음을 보여준다.",
+      "why_it_matters_en": "Chanel's use of a Gen-Z music star to reignite its biggest fragrance franchise is a benchmark for how Gucci Beauty could revive heritage fragrance lines post-L'Oreal handover, and signals intensifying celebrity-ambassador competition in the category.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Prada Beauty",
+      "event_type": "trend",
+      "headline": "프라다 뷰티, 로레알 럭스 부문 1분기 성장 견인 — '파라디그메' 향수·메이크업 두 자릿수 성장 지속",
+      "summary": "로레알 2026년 1분기 실적 발표에 따르면 럭스 디비전(성장률 5.6%)의 성장을 이끈 핵심 브랜드로 프라다가 지목됐으며, 프라다 터치 블러셔 등 메이크업이 두 자릿수 성장을, 남성 향수 '파라디그메'가 아이코닉 프랜차이즈 중 특히 두드러진 성장을 기록한 것으로 나타났다.",
+      "url": "https://www.personalcareinsights.com/news/loreal-q1-2026-sales.html",
+      "source": "Personal Care Insights",
+      "tier": "T2_trade",
+      "published_at": "2026-07",
+      "why_it_matters": "프라다 뷰티가 로레알 럭스 포트폴리오 내에서 두 자릿수 성장으로 부상하는 동안 구찌 뷰티는 여전히 코티 체제에서 로레알 이관을 기다리는 처지로, 이관 완료 시점(2027년 7월)까지 동일 그룹 내 경쟁 하우스와의 모멘텀 격차가 벌어질 위험이 있다.",
+      "why_it_matters_en": "As Prada Beauty rises to double-digit growth within L'Oreal's own Luxe portfolio, Gucci Beauty remains under Coty awaiting its L'Oreal handover (July 2027) — a momentum gap risk versus a rival house set to sit in the same group's stable.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Dior Beauty",
+      "event_type": "campaign",
+      "headline": "디올 뷰티, '디올 어딕트' 2026 캠페인 확대 — 애나 테일러조이·지수·윌로우 스미스 공동 출연",
+      "summary": "디올이 애나 테일러조이, 지수(블랙핑크), 윌로우 스미스를 한 캠페인에 처음으로 함께 세운 '디올 어딕트' 2026 캠페인을 전개 중이며, 립 글로우 오일 신규 컬러(스파클리·글레이즈)도 함께 출시했다.",
+      "url": "https://hypebeast.com/2025/12/dior-addict-beauty-perfumes-2026-2025-collection-campaign-jisoo-anyataylorjoy-willow-smith-perfumes-lip-glow-oil",
+      "source": "Hypebeast",
+      "tier": "T2_by_region",
+      "published_at": "2026-07",
+      "why_it_matters": "이는 디올 자체 캠페인 활동 커버리지로 여론 개선의 증거는 아니지만, 복수의 톱티어 셀럽을 한 번에 묶는 캠페인 구조가 럭셔리 뷰티 업계 표준으로 자리잡고 있어 구찌 뷰티의 향후 캠페인 설계에 참고가 된다.",
+      "why_it_matters_en": "This is activation coverage of Dior's own campaign output, not sentiment evidence, but the multi-A-lister single-campaign format is becoming an industry standard worth noting for Gucci Beauty's future campaign design.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "YSL Beauty",
+      "event_type": "launch",
+      "headline": "YSL 뷰티, '리브레 베리 크러쉬' 향수 출시 — 두아 리파 앰버서더로 '리브레' 라인 첫 프루티 플로럴 확장",
+      "summary": "YSL 뷰티가 두아 리파를 앞세워 '리브레' 컬렉션의 첫 프루티 플로럴 향수 '리브레 베리 크러쉬 오드퍼퓸'을 출시했다고 밝혔다.",
+      "url": "https://hypebae.com/2026/1/dua-lipa-ysl-beauty-libre-berry-crush-eau-de-parfum-campaign",
+      "source": "Hypebae",
+      "tier": "T2_by_region",
+      "published_at": "2026-07",
+      "why_it_matters": "케링 산하 생로랑 뷰티(로레알 라이선스)가 톱 셀럽과 함께 핵심 프랜차이즈를 확장하는 동안, 같은 케링 소속인 구찌 뷰티는 라이선스 전환 공백기에 있어 그룹 내 뷰티 사업 성숙도 격차가 대비된다.",
+      "why_it_matters_en": "As fellow Kering house Saint Laurent Beauty (also L'Oreal-licensed) expands its core franchise with a top celebrity, Gucci Beauty's licensing-transition gap stands out in contrast within the same parent group.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Armani Beauty",
+      "event_type": "campaign",
+      "headline": "아르마니 뷰티, '돌치 블러시' 출시 기념 몬탁 팝업 7월 17~18일 개최 예정",
+      "summary": "아르마니 뷰티가 이탈리아 디저트에서 영감을 받은 5가지 색상의 '돌치 메이크업 블러시' 출시를 기념해 뉴욕 몬탁 '더 서프 로지'에서 맞춤 셰이드 매칭 팝업을 이번 주말 연다.",
+      "url": "https://www.thehamptonseditmagazine.com/post/armani-beauty-brings-italian-indulgence-to-the-surf-lodge-with-the-new-dolci-blush-pop-up",
+      "source": "The Hamptons Edit Magazine",
+      "tier": "T2_by_region",
+      "published_at": "2026-07",
+      "why_it_matters": "이는 아르마니 자체 캠페인 활동 커버리지로 여론 개선의 증거는 아니며, 컬러 메이크업 카테고리에서 체험형 팝업이 프레스티지 하우스 전반의 표준 전술로 지속 확산되고 있음을 보여준다.",
+      "why_it_matters_en": "This is activation coverage of Armani's own campaign output, not sentiment evidence — it confirms experiential pop-ups remain a standard, ongoing tactic across prestige color-cosmetics houses.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Guerlain (LVMH)",
+      "event_type": "campaign",
+      "headline": "게랑, 이탈리아 포르테 데이 마르미 '보첼리 비치클럽'서 2년 연속 여름 팝업 전개",
+      "summary": "게랑이 보첼리 가문이 운영하는 비치클럽 '알페마레'에서 2년 연속 향수·스킨케어 팝업을 진행하며, 리필 가능한 얇은 패키지로 재단장한 '키스키스' 립스틱 신제품을 선보였다.",
+      "url": "https://www.trbusiness.com/regional-news/international/guerlain-unveils-wide-ranging-beauty-and-fragrance-launches-for-2026/274318",
+      "source": "TRBusiness",
+      "tier": "T2_trade",
+      "published_at": "2026-07",
+      "why_it_matters": "LVMH 산하 게랑이 지속가능성(리필형 패키지)과 지역 파트너십형 체험 마케팅을 동시에 강화하고 있어, 구찌 뷰티가 로레알 이관 후 지속가능성 메시지를 강화할 필요성을 시사한다.",
+      "why_it_matters_en": "LVMH's Guerlain is combining refillable-packaging sustainability messaging with regional experiential partnerships, suggesting Gucci Beauty will need a stronger sustainability narrative once it moves under L'Oreal.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Estee Lauder",
+      "event_type": "earnings",
+      "headline": "에스티로더, 8월 19일 2026회계연도 4분기·연간 실적 발표 예정",
+      "summary": "에스티로더 컴퍼니즈는 2026회계연도 4분기 및 연간 실적을 8월 19일 장 개장 전 발표할 예정이라고 밝혔다. 직전 3분기에는 중국 본토에서 4분기 연속 프레스티지 뷰티 시장 성장률을 상회했다고 보고한 바 있다.",
+      "url": "https://www.elcompanies.com/en/investors",
+      "source": "Estee Lauder Companies (IR)",
+      "tier": "T1",
+      "published_at": "2026-07-16",
+      "why_it_matters": "럭셔리 뷰티 최대 상장기업 중 하나의 연간 실적 발표가 임박함에 따라, 프레스티지 뷰티 전반의 중국·미국 수요 회복 여부를 가늠할 주요 지표로 향후 2주 내 지속 모니터링이 필요하다.",
+      "why_it_matters_en": "With one of the largest listed luxury beauty companies' full-year results imminent, this is a key upcoming signal for prestige beauty demand recovery in China and the US that warrants continued monitoring over the next two weeks.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Coty (Megan Thee Stallion / Ulta)",
+      "event_type": "launch",
+      "headline": "코티, 메간 디 스탤리언과 협업한 데뷔 향수 '핫 걸 서머' 얼타 단독 출시",
+      "summary": "코티가 래퍼 메간 디 스탤리언과 협업해 코코넛 밀크·오키드·베티버 노트의 한정판 향수 '핫 걸 서머 오드퍼퓸'을 얼타 뷰티 단독으로 출시했다고 밝혔다.",
+      "url": "https://playbookofbeauty.com/july-6th-2026-week-beauty-news/",
+      "source": "Playbook of Beauty",
+      "tier": "T2_trade",
+      "published_at": "2026-07-06",
+      "why_it_matters": "구찌 뷰티 라이선스를 보유한 코티가 셀럽 향수 신사업으로 매출원 다각화를 꾀하고 있어, 구찌 브랜드 자체에는 직접 영향이 없지만 코티의 재무 체력이 구찌 뷰티 이관 준비 과정의 안정성과 맞닿아 있다.",
+      "why_it_matters_en": "Coty, current holder of the Gucci Beauty license, is diversifying revenue via celebrity fragrance launches; not a direct Gucci signal, but Coty's financial health is tied to the stability of the Gucci Beauty transition process.",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci Beauty / Kering / L'Oreal / Coty",
+      "event_type": "licensing",
+      "headline": "구찌 뷰티 라이선스, 로레알로 1년 앞당겨 이전 확정 — 코티 4억 달러 받고 조기 퇴장",
+      "summary": "케링과 로레알이 구찌 뷰티(향수·메이크업) 사업에 대해 50년 독점 라이선스 계약을 체결했다고 7월 7일 공식 발표했다. 기존 라이선스 보유사인 코티는 계약을 조기 종료하는 대가로 약 4억 달러를 받으며, 로레알의 실제 사업 인수는 2027년 7월 1일부터 시작된다.",
+      "url": "https://www.loreal-finance.com/eng/press-release/loreal-enters-50-year-exclusive-worldwide-beauty-licence-kering-gucci-brand",
+      "source": "L'Oreal Finance / Kering press release",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "구찌 자체 브랜드의 향후 뷰티 사업 방향을 결정짓는 핵심 구조적 사건으로, 로레알의 글로벌 유통력과 혁신 역량이 구찌 뷰티의 매출 궤적을 바꿀 잠재력이 크지만 실질 전환은 1년 뒤이며 그 사이 실행 리스크가 남아있다.",
+      "why_it_matters_en": "This is the defining structural event for Gucci's own beauty business going forward; L'Oreal's global distribution and innovation muscle could reshape Gucci Beauty's trajectory, but the actual handover is a year out and execution risk remains.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Louis Vuitton Beaute",
+      "event_type": "launch",
+      "headline": "루이비통 라 보테, 팻 맥그래스가 개발한 첫 립라이너 LV 크레용 출시",
+      "summary": "루이비통은 메이크업 크리에이티브 디렉터 팻 맥그래스가 개발한 첫 립라이너 제품 'LV 크레용'을 10가지 색상으로 출시하며 펩타이드 성분의 크리미한 포뮬러를 강조했다.",
+      "url": "https://playbookofbeauty.com/july-6th-2026-week-beauty-news/",
+      "source": "Playbook of Beauty",
+      "tier": "T2_trade",
+      "published_at": "2026-07-06",
+      "why_it_matters": "LVMH가 럭셔리 하우스 메이크업 카테고리를 톱 크리에이티브 디렉터 영입으로 정면 공략하고 있어, 구찌 뷰티가 로레알 체제로 넘어가기 전 메이크업 라인 경쟁력 공백이 상대적으로 두드러진다.",
+      "why_it_matters_en": "LVMH is aggressively building out its house makeup category via top creative-director hires, making Gucci Beauty's relative makeup-line competitiveness gap more visible ahead of its L'Oreal transition.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Estee Lauder (Too Faced / Smashbox / Dr. Jart+)",
+      "event_type": "corporate / restructuring",
+      "headline": "에스티로더, 투페이스·스매쉬박스·닥터자르트 매각설 철회하고 잔류 결정",
+      "summary": "WWD 보도에 따르면 에스티로더는 매각 검토설이 돌던 투페이스, 스매쉬박스, 닥터자르트+ 브랜드를 계속 보유하기로 결정했으며, 구조조정 누적 비용 전망치를 기존 15.5억 달러에서 17.5억 달러로 상향했다.",
+      "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-keep-too-faced-smashbox-dr-jart-1239065048/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "경쟁 뷰티 대기업이 구조조정 비용을 늘리면서도 포트폴리오를 유지하는 방어적 선택을 하고 있어, 럭셔리 뷰티 업계 전반의 수익성 압박이 여전히 해소되지 않았음을 보여주는 배경 지표다.",
+      "why_it_matters_en": "A rival beauty conglomerate is raising restructuring costs while defensively retaining its brand portfolio, signaling that profitability pressure across the luxury beauty industry remains unresolved — useful context, not a Gucci-specific signal.",
+      "relevance": "category trend"
+    }
+  ]
+}

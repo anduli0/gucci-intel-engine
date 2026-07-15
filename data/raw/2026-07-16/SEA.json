@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "id": "SEA-20260716-01",
+      "region": "SEA",
+      "source": "Campaign Asia / Campaign US",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.campaignlive.com/article/publicis-groupe-wins-gucci-balenciaga-global-media-account/1964690",
+      "published_at": "2026-07-15",
+      "title": "Publicis Groupe wins Gucci and Balenciaga global media account from Dentsu",
+      "summary": "Trade press reports Kering awarded its global media-buying account for Gucci and Balenciaga to Publicis Groupe, taking the business from incumbent Dentsu iProspect after a review led by ID Comms. Coverage frames the move as part of Kering's push for sharper marketing ROI amid continued Gucci softness, with Asia-Pacific demand weakness repeatedly cited by trade press as a driver of the broader cost/efficiency push. Factual corporate-media trade story, neutral tone, not consumer sentiment.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 1,
+    "Louis Vuitton": 0,
+    "Dior": 0,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 1,
+    "Burberry": 0
+  }
+}

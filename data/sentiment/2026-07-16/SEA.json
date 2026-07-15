@@ -1,0 +1,11 @@
+[
+  {
+    "id": "SEA-20260716-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade-press report on media-account reassignment (Publicis from Dentsu), not public opinion about the brand.",
+    "signal_tags": ["trade_press", "corporate_business", "media_account"],
+    "confidence": 0.9
+  }
+]

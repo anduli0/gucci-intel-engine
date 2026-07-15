@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NA-2026-07-16-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering shares fell ~3% on license-shift news; analysts split, Barclays flags unresolved EBITDA gap",
+    "signal_tags": ["earnings_momentum", "analyst_reaction", "licensing"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-07-16-002",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent analysts (TD Cowen, Barclays) turn constructive with raised growth forecasts ahead of Demna debut",
+    "signal_tags": ["analyst_upgrade", "independent_judgment", "fragrance"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-16-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party foot-traffic data (Placer.ai) shows strong US store visit gains post-Demna debut",
+    "signal_tags": ["quantified_demand_data", "store_traffic", "independent_judgment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-16-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci's own Monte Carlo campaign with no outlet evaluative verdict; activation discount applies",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-07-16-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Investors reacted with skepticism to turnaround plan, shares fell up to 5%, analysts want proof before buying the story",
+    "signal_tags": ["investor_skepticism", "earnings_momentum", "turnaround_plan"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-16-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Comparable sales fell 8%, 11th consecutive quarterly decline, dragging division down while peers grew in NA",
+    "signal_tags": ["negative_earnings", "peer_comparison", "momentum_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-16-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "200+ planned store closures and corporate headcount cuts following sales decline, largest share expected at Gucci",
+    "signal_tags": ["store_closures", "cost_cutting", "negative_momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-16-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Creator commentary frames Fall 2026 collection as having \"flopped\", single T3 clip with unconvinced sentiment",
+    "signal_tags": ["design_criticism", "creator_commentary", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-07-16-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual community discussion of resale value percentages and price comparisons, no clear polarity",
+    "signal_tags": ["resale_value", "price_discussion", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-07-16-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "TikTok chatter cluster around reported layoffs/store closures reflects negative consumer/employee-adjacent sentiment",
+    "signal_tags": ["layoffs", "store_closures", "sns_chatter"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-07-16-011",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer comparison framing: rival houses post double-digit US growth versus Gucci's declines",
+    "signal_tags": ["peer_comparison", "negative_momentum"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-07-16-012",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Reuters independent analysis corroborates early success and quantified US traffic gains from see-now-buy-now strategy",
+    "signal_tags": ["independent_judgment", "strategy_validation", "store_traffic"],
+    "confidence": 0.8
+  }
+]

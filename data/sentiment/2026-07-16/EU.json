@@ -1,0 +1,98 @@
+[
+  {
+    "id": "eu-2026-07-16-01",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual Kering group-level CEO appointment for Bottega Veneta, not Gucci-specific evaluative content.",
+    "signal_tags": ["corporate", "group-news", "not-gucci-specific"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-16-02",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade press factual coverage of sister-brand CEO appointment framed within Kering reshuffle, no direct Gucci verdict.",
+    "signal_tags": ["corporate", "group-news", "not-gucci-specific"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-16-03",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Price-hike explicitly framed as crisis measure amid demand softness and rising price-sensitivity among shoppers.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "demand_softness"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-16-04",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Roughly 25% brand-value decline in Brand Finance Italy ranking explicitly framed as sign of deeper brand-capital risk.",
+    "signal_tags": ["brand_value_decline", "momentum_press", "creative_risk"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-16-05",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Leads resale volume but trails Chanel/Hermes/LV in prestige and value-retention ranking, framed against weak first-hand sales.",
+    "signal_tags": ["resale_ranking", "peer_comparison", "value_retention"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-16-06",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent critic review of Demna's debut collection is deliberately ambivalent, mixing near-irresistible praise with unsettling ambiguity.",
+    "signal_tags": ["critic_review", "creative_direction", "mixed_verdict"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-16-07",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consumer review aggregate (1.9/5) with recurring, verified quality-defect and service complaints against high price point.",
+    "signal_tags": ["quality_complaint", "value_for_money", "customer_service"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-16-08",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive report on an active, divisive forum thread without a clear net verdict either way.",
+    "signal_tags": ["community_discussion", "divisive_opinion"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-07-16-09",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned campaign reel; commenters and critics converge on a 'holding pattern, not cohesive vision' verdict, so activation discount caps magnitude.",
+    "signal_tags": ["activation_coverage", "campaign", "mixed_reception"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-16-10",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Official campaign amplification draws aesthetic praise but recurring skepticism on sales conversion given demand softness; activation discount applies.",
+    "signal_tags": ["activation_coverage", "campaign", "demand_skepticism"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-07-16-11",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Creator content described as a 'mixed bag' with explicit value-for-money questioning versus Tom Ford/Michele-era pieces.",
+    "signal_tags": ["ugc", "value_for_money", "mixed_reception"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-16-12",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive listing of magazine issue coverage with no accessible evaluative content.",
+    "signal_tags": ["media_presence", "factual"],
+    "confidence": 0.8
+  }
+]
