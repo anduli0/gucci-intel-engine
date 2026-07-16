@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-2026-07-17-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive WWD write-up of Gucci's own Monte Carlo campaign with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-17-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst trims Kering price target citing continued Gucci sales headwinds and negative forecast",
+    "signal_tags": ["analyst_rating", "negative_earnings", "price_target_cut"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-17-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting of L'Oreal beauty licensing deal terms; no evaluative brand sentiment expressed",
+    "signal_tags": ["licensing_deal", "factual"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-07-17-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum reactions to campaign are genuinely split between praise and 'cheap/dated' criticism, no clear net polarity",
+    "signal_tags": ["community_buzz", "campaign_reaction", "mixed"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-07-17-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Wire confirmation of TD Cowen price-target cut flagging Gucci sales softness, duplicative low-magnitude negative",
+    "signal_tags": ["analyst_rating", "negative_earnings", "price_target_cut"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-07-17-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "CEO shareholder-meeting statement is forward-looking corporate messaging, not independent public opinion",
+    "signal_tags": ["corporate_statement", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-17-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community buyers raise quality/durability questions and want more creative effort before purchasing at current prices",
+    "signal_tags": ["value_for_money", "quality_complaint", "community_buzz"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-07-17-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Eleventh consecutive quarterly sales decline reported while peer Kering houses grew, clear negative momentum press",
+    "signal_tags": ["negative_earnings", "peer_comparison", "momentum_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-17-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive aggregation of organic TikTok styling content with no accessible engagement metrics or clear verdict",
+    "signal_tags": ["sns_organic", "activation_coverage"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-07-17-010",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent analysts turn incrementally constructive with quantified growth forecasts and fragrance franchise upside",
+    "signal_tags": ["analyst_rating", "favorable_trade_press", "growth_forecast"],
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-2026-07-17-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering press release on Gucci-L'Oreal beauty licence; factual corporate deal announcement, not public opinion.",
+    "signal_tags": ["beauty_licence", "corporate_deal", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-17-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Japan trade press frames the accelerated beauty handover as evidence of Kering's urgency to fix Gucci's underperforming beauty segment.",
+    "signal_tags": ["beauty_licence", "underperformance", "trade_press"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-07-17-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Korean financial outlet relays deal terms factually for investor audience; slump referenced only as background context.",
+    "signal_tags": ["beauty_licence", "financial_press", "factual"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-17-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Quantified third-party commercial demand (140k-copy sellout in 3 hours, 5.72M yuan presale) for ambassador cover, but ambassador/fandom coverage caps magnitude at 0.5.",
+    "signal_tags": ["ambassador", "fandom", "quantified_demand", "cpop"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-17-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Weibo fan reaction is explicitly mixed with pushback on overblown hype and fandom comparison friction; contested sentiment defaults neutral.",
+    "signal_tags": ["fandom", "mixed_reaction", "cpop"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-17-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral Xiaohongshu consumer sentiment cites store closures, 'design increasingly boring' complaints, and a sharp quantified resale price crash.",
+    "signal_tags": ["store_closures", "design_criticism", "resale_price_drop", "china"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-17-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Chinese marketing-industry community outlet critically questions whether Gucci's 12-hour livestream was substantive or empty spectacle.",
+    "signal_tags": ["activation_coverage", "trade_press_criticism", "content_strategy"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-07-17-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reports Gucci's withdrawal from Seoul duty-free locations as part of a broader global store-closure plan, signaling retrenchment momentum.",
+    "signal_tags": ["store_closures", "duty_free", "retrenchment", "korea"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-17-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-appointment write-up with no evaluative verdict; dated background context.",
+    "signal_tags": ["ambassador", "activation_coverage", "kpop"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-17-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual financial-press coverage of Kering's turnaround plan and store-network reset; strategic reporting, not consumer sentiment.",
+    "signal_tags": ["corporate_strategy", "store_closures", "financial_press"],
+    "confidence": 0.7
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-07-17-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive Manila celebrity activation write-up, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "regional_event"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-17-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Editorial cover tie-in describing product placement, no independent critical judgment.",
+    "signal_tags": ["activation_coverage", "editorial", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-17-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press reports APAC store cuts and double-digit comp sales decline with APAC among weakest regions.",
+    "signal_tags": ["earnings_momentum", "store_footprint", "apac_weakness", "critical_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-07-17-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "BoF reports CEO memo calling to reduce Kering's Gucci exposure amid Gucci remaining the primary drag on group revenue.",
+    "signal_tags": ["earnings_momentum", "corporate_strategy", "critical_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-07-17-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SNS reel referencing regional presence/ambassador content with no extractable engagement or evaluative content.",
+    "signal_tags": ["activation_coverage", "sns", "ambassador", "no_engagement_data"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-17-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread discusses Flora re-release design/pricing/craftsmanship without a clear net verdict stated.",
+    "signal_tags": ["community", "product_discussion", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-07-17-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic community thread airing critical takes on quality perception, design fatigue, and pricing versus competitors.",
+    "signal_tags": ["community", "quality_complaint", "design_criticism", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-17-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed, unextractable TikTok commentary on price-to-quality; insufficient confidence to force polarity.",
+    "signal_tags": ["sns", "ugc", "mixed_sentiment", "no_engagement_data"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-07-17-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade analysis attributes sustained sales collapse to overexposure and brand dilution, citing weakened desirability among Asian consumers.",
+    "signal_tags": ["earnings_momentum", "brand_dilution", "critical_press", "apac_weakness"],
+    "confidence": 0.85
+  }
+]

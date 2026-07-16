@@ -1,0 +1,101 @@
+[
+  {
+    "id": "eu-2026-07-17-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand/Kering-owned press release on beauty licence terms; factual corporate disclosure, not public opinion.",
+    "signal_tags": ["corporate_announcement", "beauty_licence", "brand_owned"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-17-02",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade-press analysis frames the accelerated L'Oreal deal as a structural long-term positive catalyst, though core fashion turnaround still pending.",
+    "signal_tags": ["trade_press", "analyst_valuation", "beauty_licence"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-17-03",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Management's own self-congratulatory framing at shareholder assembly ('renaissance') plus factual strategic disclosures (debt, store closures); not independent public opinion.",
+    "signal_tags": ["corporate_announcement", "management_commentary", "brand_owned"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-07-17-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sell-side analysts push back Gucci's operating inflection with ~4% Q2 retail contraction consensus; negative momentum press.",
+    "signal_tags": ["analyst_note", "earnings_momentum", "retail_contraction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-17-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Bernstein and other critics give mixed-to-critical verdict on Demna's runway debut (7.6/10, 'not a home run', shoes/bags 'uninteresting', parts called 'vulgar and not sexy'); criticism is explicit despite some hedged praise.",
+    "signal_tags": ["critic_review", "runway_reaction", "mixed_verdict"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-17-06",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent magazine review of Cruise 2026 Florence show is favorably framed as heritage-forward, though largely descriptive rather than strongly evaluative.",
+    "signal_tags": ["critic_review", "runway_reaction", "heritage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-17-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified consumer-review data (1.9/5) with recurring QC complaints (hardware, stitching) and poor customer service versus premium pricing.",
+    "signal_tags": ["quality_complaint", "consumer_reviews", "value_for_money"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-17-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector forum explicitly split between nostalgia for reissued Flora motif and skepticism on execution/pricing; no clear net direction.",
+    "signal_tags": ["community_forum", "mixed_sentiment", "product_reissue"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-17-09",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram activation with explicitly polarized cross-post reactions ('finally looking like luxury' vs 'disjointed and lazy'); no net verdict, activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "sns", "mixed_sentiment"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-07-17-10",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum commentary expresses skepticism that campaign glamour will convert to sales, referencing reported European demand softness.",
+    "signal_tags": ["community_forum", "demand_softness", "skepticism"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-17-11",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Social commentary mixes aesthetic appreciation for the archive show staging with skepticism on whether it reverses European sales softness; balanced, no clear net polarity.",
+    "signal_tags": ["sns", "mixed_sentiment", "runway_reaction"],
+    "confidence": 0.5
+  }
+]
