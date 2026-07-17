@@ -1,0 +1,65 @@
+[
+  {
+    "id": "eu-2026-07-18-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering press release announcing licensing deal terms; factual corporate/strategic disclosure, not public opinion.",
+    "signal_tags": ["brand_owned", "licensing_deal", "financial"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-18-02",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade press (WWD) cites analysts calling the beauty licence a 'structural bright spot', but explicitly flags core leather goods/RTW as still unresolved, capping the positive read.",
+    "signal_tags": ["trade_press", "analyst_estimate", "licensing_deal"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-18-03",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Monte Carlo campaign chapter two with no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-18-04",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector forum debating durability of coated canvas vs classic canvas with no resolved consensus verdict; descriptive community discussion.",
+    "signal_tags": ["community", "quality_debate", "fandom_adjacent"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-18-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explicitly split fan reception ('finally looking like luxury' vs 'feels very cheap and dated') with no dominant side; forced neutral per contested-opinion rule, also stale beyond freshness window.",
+    "signal_tags": ["community", "mixed_reception", "stale"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-07-18-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sell-side analyst recap frames Gucci as continuing 'drag' on Kering revenue, offset only by jewelry; negative momentum press, mild magnitude as routine quarterly checkpoint commentary.",
+    "signal_tags": ["analyst_estimate", "negative_momentum", "financial"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-07-18-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo content; self-praise is not public opinion, and engagement metrics were unreliable so left null.",
+    "signal_tags": ["brand_owned", "sns", "activation_coverage"],
+    "confidence": 0.9
+  }
+]

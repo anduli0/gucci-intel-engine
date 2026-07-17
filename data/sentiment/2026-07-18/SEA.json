@@ -1,0 +1,82 @@
+[
+  {
+    "id": "SEA-2026-07-18-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual wire report on Coty-Kering license exit with no evaluative verdict on Gucci.",
+    "signal_tags": ["corporate_restructuring", "licensing"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-18-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive T1 reporting of license handover terms and rationale, no independent verdict on Gucci brand health.",
+    "signal_tags": ["corporate_restructuring", "licensing"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-07-18-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign write-up (what/who/where) with no outlet evaluative verdict; activation coverage discount applies.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-07-18-004",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical-angle T1 coverage of CEO memo citing Gucci as revenue drag and driving APAC store closures, quantified negative momentum.",
+    "signal_tags": ["negative_earnings", "store_closures", "apac_exposure"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-07-18-005",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Attendee social coverage of brand-staged launch event; fandom/activation trap caps magnitude, engagement is genuine but not independent critical judgment.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-18-006",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation recap with outlet's own positive verdict on turnout/collection; capped at 0.5 per activation-coverage rule.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-18-007",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic community thread citing stitching/hardware/material QC complaints, mixed with some defenders; mild given verification gaps.",
+    "signal_tags": ["quality_complaint"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-18-008",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic TikTok discourse cluster calling Gucci tacky/overrated vs quieter-luxury peers, construction complaints post-price-hikes.",
+    "signal_tags": ["design_criticism", "value_for_money", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-18-009",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press analysis with data-backed critical judgment on sustained sales collapse and brand dilution affecting APAC demand.",
+    "signal_tags": ["negative_earnings", "brand_dilution", "apac_exposure"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-18-010",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Grassroots resale marketplace guide stating conservative retention range factually, no strong positive or negative verdict.",
+    "signal_tags": ["resale_value"],
+    "confidence": 0.6
+  }
+]

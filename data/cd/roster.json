@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "note": "주요 럭셔리 하우스 현직 크리에이티브/아티스틱 디렉터 전수 조사. 2025년 '크리에이티브 리셋'을 반영한 2026년 7월 기준 최신 좌석. status: active=재임 중, incoming=발표됐으나 미데뷔/데뷔 직후, departing=퇴임 예정. dossier=data/reports/cd 내 파일명(없으면 null).",
   "directors": [
     {
@@ -120,7 +120,7 @@
       "predecessor": "Pierpaolo Piccioli",
       "status": "active",
       "title": "Creative Director",
-      "dossier": null
+      "dossier": "valentino-alessandro-michele.md"
     },
     {
       "brand": "Givenchy",

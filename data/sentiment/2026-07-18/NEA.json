@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-2026-07-18-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of 2026 high jewelry collection launch, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch", "high_jewelry"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-18-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive promo copy for Japan-exclusive capsule tied to a lucky-day retail hook, press-kit derived.",
+    "signal_tags": ["activation_coverage", "capsule_drop"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-18-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador/fandom offline event coverage, descriptive with PR-style quote, not organic consumer sentiment.",
+    "signal_tags": ["fandom_spike", "ambassador", "activation_coverage"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-07-18-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Major store-closure plan, 8% sales decline, and CEO admission of branding failure constitute clear negative momentum press.",
+    "signal_tags": ["store_closures", "earnings_decline", "brand_criticism"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-18-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Community narrative citing ~25% YoY sales drop, design/quality complaints, and counterfeit erosion of brand image.",
+    "signal_tags": ["decline_narrative", "quality_complaint", "counterfeit"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-18-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer comparison praising Uniqlo value-for-money implicitly critiques Gucci pricing power per peer-comparison trap.",
+    "signal_tags": ["peer_comparison", "value_for_money"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-07-18-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador appointment announcement, descriptive activation coverage damped under fandom trap.",
+    "signal_tags": ["fandom_spike", "ambassador", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-18-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale background reference (2023) on price hikes retained only as context, not a fresh evaluative signal.",
+    "signal_tags": ["price_hike", "background_context"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-18-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Coverage of spreading consumer backlash against repeated Korea price hikes ('gouging Korea only').",
+    "signal_tags": ["price_hike_backlash", "value_for_money"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-18-010",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic third-party positive UGC review of a wallet, but unconfirmed date and single-creator UGC limits magnitude.",
+    "signal_tags": ["organic_ugc", "product_love"],
+    "confidence": 0.6
+  }
+]

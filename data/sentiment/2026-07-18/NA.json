@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-2026-07-18-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity red-carpet styling report with no evaluative verdict beyond noting repeat-wear status.",
+    "signal_tags": ["celebrity_styling", "red_carpet"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-07-18-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analyst commentary split between favorable cash resolution and long-term EBITDA concern; factual financial reporting on licensing deal, not brand sentiment.",
+    "signal_tags": ["licensing", "analyst_commentary", "financial"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-18-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual stock-move reporting on Coty following Gucci Beauty license exit; about Coty's shares, not Gucci brand perception.",
+    "signal_tags": ["licensing", "stock_move", "financial"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-18-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual confirmation of license-end terms with analyst Hold rating and 'uncertain' outlook language; neutral financial reporting.",
+    "signal_tags": ["licensing", "analyst_commentary", "financial"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-18-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Store closures tied explicitly to a sales drop and strategic retrenchment signal negative business momentum.",
+    "signal_tags": ["store_closures", "sales_decline", "strategy_shift"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-07-18-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Direct price-hike backlash with consumers describing reconsidering Gucci purchases for vintage/resale alternatives.",
+    "signal_tags": ["price_hike_backlash", "value_for_money"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-18-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Multiple documented quality-control complaints (glue discoloration, stitching failure, hardware tarnishing, prolonged repair delay).",
+    "signal_tags": ["quality_complaint", "after_sales_service"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-07-18-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer complaints about warranty/repair practices and recurring durability issues even on replacement items.",
+    "signal_tags": ["quality_complaint", "warranty_complaint"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-07-18-009",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent organic unboxing/review wave largely positive and aspirational, tempered by price-value debate and unverifiable engagement scale.",
+    "signal_tags": ["organic_ugc", "purchase_intent", "product_buzz"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-07-18-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual stock-performance follow-up framing Gucci exit as strategic pivot for Coty; not a judgment on Gucci brand.",
+    "signal_tags": ["licensing", "stock_move", "financial"],
+    "confidence": 0.7
+  }
+]
