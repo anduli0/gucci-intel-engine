@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NEA-2026-07-19-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of a Japan-exclusive product drop timed to a lucky calendar day, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-19-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-originated fragrance/makeup launch announcement with ambassador face; press-kit derived, not public opinion.",
+    "signal_tags": ["activation_coverage", "product_launch", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-19-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci's prior exit from Seoul duty-free cited as part of a structural luxury-distribution retreat in Korea.",
+    "signal_tags": ["distribution_retreat", "market_conditions"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-07-19-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified Q1 2026 revenue decline (-8% YoY, Japan -14%) despite leadership overhaul; negative earnings/momentum press.",
+    "signal_tags": ["earnings", "negative_momentum", "quantified_data"],
+    "confidence": 0.95
+  },
+  {
+    "id": "NEA-2026-07-19-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Retrospective detailing severe 2025 revenue/profit/brand-value collapse and loss of creative identity, still recirculating.",
+    "signal_tags": ["earnings", "brand_value_decline", "design_criticism", "negative_momentum"],
+    "confidence": 0.95
+  },
+  {
+    "id": "NEA-2026-07-19-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Price hikes on handbags alongside a shift to lower-friction gifting/commerce channels read as chasing volume amid soft demand.",
+    "signal_tags": ["price_hike_backlash", "distribution_shift"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-19-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador magazine-cover styling coverage, brand-adjacent activation buzz rather than independent sentiment.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-19-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Recirculated fan repost volume around ambassador show appearance; fandom spike explicitly flagged, damped per rubric.",
+    "signal_tags": ["fandom", "activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-19-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Analysis frames Japan's relative strength as fragile and currency-dependent rather than genuine brand health.",
+    "signal_tags": ["market_conditions", "pricing_strategy", "critical_analysis"],
+    "confidence": 0.65
+  }
+]

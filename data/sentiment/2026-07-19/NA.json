@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-2026-07-19-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity red-carpet placement coverage with quote but no independent critical verdict on the brand or garment quality",
+    "signal_tags": ["celebrity_placement", "red_carpet", "fandom_adjacent"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-07-19-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explicitly flagged activation coverage of Gucci campaign, purely descriptive with no evaluative verdict",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-19-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press analysis arguing Gucci's decline is self-inflicted and unresolved by creative resets",
+    "signal_tags": ["design_criticism", "lost_its_way", "trade_press_critical"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-19-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer/commentator backlash calling AI campaign imagery cheap and lazy, undermining craftsmanship image",
+    "signal_tags": ["controversy", "ai_backlash", "campaign_criticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-19-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread discussing and comparing new Flora bags without clear strong positive or negative consensus",
+    "signal_tags": ["community_discussion", "product_launch"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-07-19-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring aggregated consumer complaints about craftsmanship defects and slow repair service",
+    "signal_tags": ["quality_complaint", "after_sales", "qc"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-19-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "TikTok dupe trend framing Gucci pricing as unaffordable, value-for-money skepticism, metrics unverified",
+    "signal_tags": ["value_for_money", "dupe_culture", "counterfeit_adjacent"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-07-19-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent creator critique arguing Demna-era direction, pricing and merchandising are misfiring",
+    "signal_tags": ["design_criticism", "creator_critique", "pricing"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-19-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade coverage of steep Kering/Gucci revenue decline and store-closure program signaling turnaround not reaching top line",
+    "signal_tags": ["negative_earnings", "momentum_press", "store_closures"],
+    "confidence": 0.9
+  }
+]

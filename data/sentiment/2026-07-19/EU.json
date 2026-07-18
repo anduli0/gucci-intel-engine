@@ -1,0 +1,98 @@
+[
+  {
+    "id": "eu-2026-07-19-01",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Sell-side analysts (Jefferies, Barclays) independently frame the beauty-licence shift as a structural positive for Gucci/Kering.",
+    "signal_tags": ["licensing", "analyst_commentary", "beauty"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-07-19-02",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press flags brand-identity risk, questioning whether L'Oreal can preserve Gucci's positioning under Demna.",
+    "signal_tags": ["licensing", "brand_identity_risk", "trade_press"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-07-19-03",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual wire report on deal timing/CEO quote with no evaluative verdict on Gucci itself.",
+    "signal_tags": ["licensing", "factual_reporting"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-07-19-04",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Labour-exploitation supply-chain investigation names Gucci among probed brands; critical-angle, headline-level controversy.",
+    "signal_tags": ["controversy", "labor", "supply_chain", "critical_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-19-05",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reported loss of historic Paris flagship amid rent dispute and prior global store closures; unconfirmed by Gucci/Kering so capped mild.",
+    "signal_tags": ["store_closure", "retail_footprint", "unconfirmed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-19-06",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering shares down ~5.4% on the week with split analyst ratings reflecting turnaround uncertainty.",
+    "signal_tags": ["stock_price", "investor_sentiment", "momentum"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-07-19-07",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram activation post; purely descriptive campaign content, not public opinion.",
+    "signal_tags": ["activation_coverage", "owned_channel", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-19-08",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent forum thread shows genuinely split praise/criticism of the Monte Carlo campaign with no net verdict; no forced polarity.",
+    "signal_tags": ["community", "mixed_reaction", "campaign"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-19-09",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector community recurrently compares Demna-era construction/leather quality unfavorably against Michele/Tom Ford eras.",
+    "signal_tags": ["quality_complaint", "community", "era_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-19-10",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recirculated investigative piece on thin subcontractor margins for Gucci-style bags, corroborating this week's labor-probe coverage; discounted for age.",
+    "signal_tags": ["labor", "supply_chain", "stale_source"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-07-19-11",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press catalogue of Monte Carlo campaign accessory lineup; descriptive activation write-up, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-19-12",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "WWD reiterates Gucci's 14.3% revenue decline with Western Europe among the weakest geographies; clear negative earnings/momentum press.",
+    "signal_tags": ["earnings", "revenue_decline", "financial_press"],
+    "confidence": 0.85
+  }
+]

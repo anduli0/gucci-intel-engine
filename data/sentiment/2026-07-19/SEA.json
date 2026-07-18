@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-07-19-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Gucci is a minor supporting reference in a trend piece about oud challenger brands gaining share; factual, no evaluative verdict on Gucci itself.",
+    "signal_tags": ["competitive_pressure", "fragrance", "trend_piece"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-19-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive high-jewelry launch coverage with no critical framing; brand-adjacent promo copy per activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "product_launch", "high_jewelry"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-19-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard trade-press product-launch write-up (Flora Gorgeous Orchid) with no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch", "fragrance", "travel_retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-19-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic T3 community thread skewing mixed-to-critical on Demna-era direction and value-for-money versus LV/Chanel peers.",
+    "signal_tags": ["organic_sentiment", "value_for_money", "design_criticism", "peer_comparison"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-19-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-authentication thread reflecting grassroots consumer trust/authentication concern; counterfeit trap = neutral-to-mild-negative.",
+    "signal_tags": ["counterfeit", "consumer_trust", "organic_sentiment"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-19-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade reporting of Gucci Beauty license transfer from Coty to L'Oreal; structural corporate news with no evaluative polarity.",
+    "signal_tags": ["corporate_structure", "licensing", "beauty"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-19-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive SNS activation amplification with no retrievable engagement metrics or evaluative verdict.",
+    "signal_tags": ["activation_coverage", "sns", "no_metrics"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-07-19-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent consumer value-for-money assessment concluding significant brand-premium markup beyond material/construction cost.",
+    "signal_tags": ["value_for_money", "price_skepticism", "independent_review"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-07-19-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Branded partnership/activation content explicitly commissioned with Gucci; not independent editorial judgment per activation discount.",
+    "signal_tags": ["activation_coverage", "brand_partnership", "styling_event"],
+    "confidence": 0.85
+  }
+]
