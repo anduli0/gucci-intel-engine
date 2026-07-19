@@ -1,0 +1,110 @@
+[
+  {
+    "id": "eu-2026-07-20-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Labour-exploitation probe continues to name Gucci in prior round even though not newly implicated this wave; ongoing reputational overhang, not headline-fresh.",
+    "signal_tags": ["controversy", "labor_sustainability", "legal_regulatory"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-07-20-02",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reported exit from historic Avenue Montaigne flagship amid rent dispute signals footprint rationalisation, a mildly negative retail-network story.",
+    "signal_tags": ["retail_footprint", "market_negative"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-20-03",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent sell-side analysts frame the L'Oreal beauty licence shift as a structural bright spot for Gucci/Kering, but conditional/analytical rather than viral praise.",
+    "signal_tags": ["analyst_view", "beauty_license", "favorable_trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-20-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Continuing labour-exploitation investigation coverage naming Gucci among 13 groups with a subcontractor exploitation finding; reputational negative though not newly escalated.",
+    "signal_tags": ["controversy", "labor_sustainability", "legal_regulatory"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-20-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Brand Finance ranking drop (3rd to 5th) with double-digit brand-value decline signals weakened pricing power/exclusivity perception; outside 72h window so capped at moderate magnitude.",
+    "signal_tags": ["brand_ranking", "market_negative"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-20-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical op-ed arguing Gucci's growth model has hit structural limits and faces a design/positioning identity crisis, not just financial headwinds.",
+    "signal_tags": ["design_criticism", "lost_its_way", "independent_commentary"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-07-20-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock drop ~5.4% tied explicitly to Gucci's eleventh consecutive quarterly revenue decline plus analyst target cuts; clear, quantified negative momentum press.",
+    "signal_tags": ["earnings_negative", "market_reaction", "analyst_view"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-20-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer-comparison forum thread with posters describing Gucci quality as having slipped since Tom Ford era; per rubric peer-comparison/quality-complaint trap applies negative to Gucci, damped for community-tier mixed thread.",
+    "signal_tags": ["quality_complaint", "peer_comparison", "community_sentiment"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-20-09",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Polarized independent forum reaction to Demna's runway debut, split between praise for consistency and criticism of 'uninteresting'/'vulgar' pieces; genuinely mixed nets to neutral.",
+    "signal_tags": ["runway_review", "mixed_reaction", "creative_direction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-20-10",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Split social reaction to ambassador campaign (bold statement vs. cheap-provocation criticism), plus stale (outside 14-day window); mixed/old nets to neutral with damped weight.",
+    "signal_tags": ["activation_coverage", "ambassador_campaign", "mixed_reaction", "stale"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-07-20-11",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram post continuing a campaign; purely descriptive activation content with no independent evaluative verdict, so neutral per activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-20-12",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "WWD financial-desk coverage reiterating a 14.3% Q1 revenue decline with Western Europe/China as weakest geographies; clear quantified negative earnings press from a T1 outlet.",
+    "signal_tags": ["earnings_negative", "financial_press"],
+    "confidence": 0.85
+  }
+]

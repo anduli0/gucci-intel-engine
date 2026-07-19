@@ -1,0 +1,20 @@
+[
+  {
+    "id": "NEA-2026-07-20-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador magazine-cover activation drew mixed fan reaction (praise plus skepticism/peer comparisons), not a clear organic polarity signal.",
+    "signal_tags": ["ambassador", "fandom_spike", "activation_coverage", "peer_comparison"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-07-20-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci x Ando Shippoten capsule collection and workshop with no independent evaluative verdict from the outlet.",
+    "signal_tags": ["activation_coverage", "capsule_collection", "brand_promo"],
+    "confidence": 0.8
+  }
+]

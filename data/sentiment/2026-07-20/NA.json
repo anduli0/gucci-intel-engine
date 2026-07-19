@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NA-2026-07-20-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual licensing/handover deal reporting between Kering, L'Oreal and Coty, no evaluative brand sentiment.",
+    "signal_tags": ["business_news", "licensing"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-20-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Law firm investigation notice into unrefunded tariff price hikes signals price-hike backlash controversy, though no wrongdoing established yet.",
+    "signal_tags": ["controversy", "price_hike_backlash", "legal_risk"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-07-20-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity-dressing placement coverage with no outlet evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "celebrity_dressing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-20-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Financial-desk piece presents Gucci recovery as an open question amid still-depressed margins; factual/mixed framing, not a clear verdict.",
+    "signal_tags": ["earnings_momentum", "investor_sentiment"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-20-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community forum activity is transactional/collector-focused (deals, authenticity, styles) rather than strongly positive or negative.",
+    "signal_tags": ["community", "collector_chatter"],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-07-20-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Monte Carlo campaign write-up with no outlet evaluative verdict, pure activation coverage.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-20-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci named as one of several luxury brands seized in a major fraud investigation, an unflattering reputational association rather than a targeted attack.",
+    "signal_tags": ["controversy", "reputational_risk", "crime_association"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-20-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Third-party SNS repost of campaign film with low organic engagement and no evaluative commentary, descriptive activation amplification only.",
+    "signal_tags": ["activation_coverage", "sns_volume", "low_engagement"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-20-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity event attendance post with no evaluative content or visible engagement metrics, ambassador/fandom activation coverage.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-20-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic collector-forum threads mix enthusiasm with recurring skepticism about pricing and design direction under Demna, net skeptical undertone.",
+    "signal_tags": ["design_criticism", "price_perception", "community_organic"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-20-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Grassroots Thai consumer forum thread disputes Gucci's value proposition, noting smaller duty-free discount versus other brands.",
+    "signal_tags": ["value_for_money", "price_perception", "community_organic"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-07-20-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press reports Gucci store closures disproportionately concentrated in Asia amid group-wide cost cuts, a structurally negative independent assessment for regional retail intensity.",
+    "signal_tags": ["store_closures", "retail_contraction", "trade_press", "negative_momentum"],
+    "confidence": 0.8
+  }
+]
