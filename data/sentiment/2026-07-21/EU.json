@@ -1,0 +1,92 @@
+[
+  {
+    "id": "eu-2026-07-21-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual executive-appointment reporting for Gucci Racing with no evaluative verdict.",
+    "signal_tags": ["appointment", "activation_coverage", "sponsorship"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-21-02",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade press frames accelerated L'Oreal beauty-license shift as a structural bright spot, though hedged by execution risk.",
+    "signal_tags": ["licensing", "analyst_view", "beauty"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-21-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci named in ongoing labor-exploitation supply-chain investigation; not yet charged, so tempered magnitude.",
+    "signal_tags": ["labor_controversy", "supply_chain", "investigation"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-07-21-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical opinion piece frames Gucci as a desirability and design crisis, not just cost issue.",
+    "signal_tags": ["lost_its_way", "critical_press", "design_criticism"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-21-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent fashion criticism calls Demna appointment controversial and questions Gucci's remaining brand foundation.",
+    "signal_tags": ["creative_director", "critical_press", "brand_identity"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-07-21-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector forum thread leans toward quality having slipped since Tom Ford era, despite some defenders.",
+    "signal_tags": ["quality_complaint", "peer_comparison", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-21-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum reactions to Demna's debut are genuinely polarized between praise and criticism, no clear net direction.",
+    "signal_tags": ["runway_reaction", "polarized", "community"],
+    "confidence": 0.45
+  },
+  {
+    "id": "eu-2026-07-21-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "AI-imagery backlash over craftsmanship claims, retained as stale background reference outside freshness window.",
+    "signal_tags": ["ai_backlash", "craftsmanship", "stale_reference"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-21-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reiterated 14.3 percent Q1 revenue decline with Western Europe among weakest geographies is clear negative momentum press.",
+    "signal_tags": ["earnings", "revenue_decline", "financial_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-21-10",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo continuation with no extractable engagement or third-party verdict; self-praise is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned", "campaign"],
+    "confidence": 0.7
+  }
+]

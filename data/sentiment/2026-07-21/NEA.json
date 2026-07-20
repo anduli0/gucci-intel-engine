@@ -1,0 +1,38 @@
+[
+  {
+    "id": "NEA-2026-07-21-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-staged product-drop/workshop write-up with no evaluative verdict, per activation-coverage discount",
+    "signal_tags": ["activation_coverage", "product_launch", "brand_pr"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-21-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic online commenters express puzzlement/mild disapproval at ambassador's Gucci styling, not admiration",
+    "signal_tags": ["ambassador", "styling_criticism", "mixed_public_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-21-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard descriptive fragrance-launch PR announcement with no independent critical judgment",
+    "signal_tags": ["activation_coverage", "product_launch", "brand_pr"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-21-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Substantive organic community critique citing sales decline, image fatigue, counterfeit proliferation, and loss of exclusivity",
+    "signal_tags": ["design_criticism", "negative_earnings", "counterfeits", "brand_momentum", "stale_source"],
+    "confidence": 0.75
+  }
+]

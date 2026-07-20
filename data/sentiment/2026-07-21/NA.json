@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-2026-07-21-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting on Coty-Kering license settlement and litigation resolution, not public opinion.",
+    "signal_tags": ["licensing", "beauty", "corporate_deal"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-21-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stock-market/investor reaction to licensing deal, explicitly financial not consumer sentiment.",
+    "signal_tags": ["stock_reaction", "licensing", "financial_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-21-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent WWD critic review praises Demna's runway debut as a wearable, sexier reset.",
+    "signal_tags": ["runway_review", "creative_direction", "trade_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-21-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity-dressing placement coverage with human-interest framing, no evaluative verdict; activation discount applies.",
+    "signal_tags": ["celebrity_dressing", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-21-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Transactional forum chatter (deals, authenticity, sizing) with no notable sentiment swing.",
+    "signal_tags": ["community", "resale", "flora"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-21-006",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Consumer haul/unboxing excitement suggests purchase-intent positivity, but engagement metrics unverifiable, capping confidence.",
+    "signal_tags": ["ugc", "purchase_intent", "handbags"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-07-21-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Persistent US consumer complaints on hardware quality and repair-service failures beyond quoted timelines.",
+    "signal_tags": ["quality_complaint", "after_sales", "critical_angle"],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SEA-2026-07-21-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting of Coty's early license exit and deal terms, no evaluative verdict on brand.",
+    "signal_tags": ["licensing", "beauty", "business_structure"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-21-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual coverage of the L'Oreal licensing accord and its scale, no independent judgment expressed.",
+    "signal_tags": ["licensing", "beauty", "business_structure"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-21-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SEA-focused factual framing of the beauty licence transfer as something to watch, no clear evaluative stance.",
+    "signal_tags": ["licensing", "beauty", "regional_outlook"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-21-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci named repeatedly in Vietnamese counterfeit crime coverage, reputational drag though not brand-specific fault.",
+    "signal_tags": ["counterfeit", "reputation", "crime_coverage"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-07-21-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Background counterfeit prosecution case reinforcing persistent fake-goods association with Gucci in Vietnam.",
+    "signal_tags": ["counterfeit", "reputation", "background_context"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-21-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic community cynicism about counterfeit enforcement, reinforcing Gucci's gray-market association among ordinary consumers.",
+    "signal_tags": ["counterfeit", "community_sentiment", "gray_market"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-21-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive grassroots SNS promo of Gucci Visions exhibit with no evaluative verdict; activation coverage.",
+    "signal_tags": ["activation_coverage", "exhibit", "sns"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-21-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Genuine unfiltered community complaints about stitching, hardware tarnish and declining perceived quality.",
+    "signal_tags": ["quality_complaint", "community_sentiment", "craftsmanship"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-07-21-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press on Kering's Asia-concentrated store closures signals retrenchment pressure on regional investment outlook.",
+    "signal_tags": ["store_closures", "retrenchment", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-21-010",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade press cites SEA as a growth bright spot for Gucci with quantified APAC revenue share, but framing is region-wide not Gucci-specific.",
+    "signal_tags": ["regional_growth", "trade_press", "quantified_data"],
+    "confidence": 0.55
+  }
+]
