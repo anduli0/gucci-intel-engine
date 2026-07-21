@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-07-22-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Manila celebrity activation write-up with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "event"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-07-22-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press reports Kering revenue down 6.2% and Gucci down 14.3% in Q1, clear negative momentum press.",
+    "signal_tags": ["earnings", "negative_momentum", "financial_press"],
+    "confidence": 0.95
+  },
+  {
+    "id": "SEA-2026-07-22-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Corrected coverage of Q1 2026 actuals: group revenue stabilizing but only via jewelry offsetting continued Gucci drag, with APAC down ~4% comparable; no Barclays Q2 forecast supports the item.",
+    "signal_tags": ["earnings", "negative_momentum", "apac_softness"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-22-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Corrected T1 report of actual Shanghai outlet closures plus analyst commentary on Asian consumer pullback; narrower and less dramatic than the original unsupported claim.",
+    "signal_tags": ["store_closures", "demand_softness", "asia_saturation"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-07-22-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SNS post simply marks a regional activation with no independent evaluative content.",
+    "signal_tags": ["activation_coverage", "sns", "low_reach"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-22-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-driven TikTok discover-tag content around staged Singapore activations, celebratory rather than critical, per activation/fandom discount.",
+    "signal_tags": ["activation_coverage", "fandom", "ugc"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-22-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer reviews describe stitching failures, tarnishing hardware and unhelpful repair policy; genuine QC complaint but not SEA-specific, capping magnitude.",
+    "signal_tags": ["quality_complaint", "customer_service", "not_region_specific"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-22-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive profile of Thai ambassador's brand portfolio including Gucci, no independent evaluative verdict on the brand itself.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.75
+  }
+]

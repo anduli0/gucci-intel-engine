@@ -1,0 +1,92 @@
+[
+  {
+    "id": "eu-2026-07-22-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade-press report on leadership reshuffle across Kering houses, no evaluative verdict on Gucci itself.",
+    "signal_tags": ["leadership", "factual_reporting"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-07-22-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering press release confirming a BV appointment; purely factual corporate announcement, not opinion about Gucci.",
+    "signal_tags": ["leadership", "official_release", "factual_reporting"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-22-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Financial-wire piece links Kering stock decline to Gucci's slow creative reset and margin pressure vs. stronger sister brands.",
+    "signal_tags": ["earnings_momentum", "stock_reaction", "peer_comparison"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-07-22-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing labour-exploitation supply-chain probe keeps Gucci in critical Italian coverage, though no charges/wrongdoing found yet.",
+    "signal_tags": ["controversy", "labor_sustainability", "critical_angle"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-22-05",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Official release on 50-year L'Oreal beauty licence, framed by analysts as a rare structural positive in Gucci's turnaround; magnitude capped as corporate-release origin.",
+    "signal_tags": ["licensing_deal", "structural_positive", "official_release"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-07-22-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector forum thread flags perceived quality slip since Tom Ford era, though some pushback exists, keeping it mild.",
+    "signal_tags": ["quality_complaint", "community", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-22-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum reactions to Monte Carlo campaign genuinely split between praise and 'cheap and dated' criticism; no clear net polarity.",
+    "signal_tags": ["campaign_reaction", "community", "mixed_sentiment"],
+    "confidence": 0.4
+  },
+  {
+    "id": "eu-2026-07-22-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram campaign post is descriptive activation coverage, not independent public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-22-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified 14.3% Q1 revenue decline reported by WWD, weakest in key markets; clear negative earnings/momentum press.",
+    "signal_tags": ["earnings_momentum", "quantified_data"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-22-10",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical opinion piece frames Gucci's troubles as a design/positioning crisis, not just financial, echoing 'lost its way' narrative.",
+    "signal_tags": ["design_criticism", "critical_angle", "lost_its_way"],
+    "confidence": 0.75
+  }
+]

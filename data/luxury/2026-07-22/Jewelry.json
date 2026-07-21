@@ -1,0 +1,112 @@
+{
+  "brand_group": "Jewelry",
+  "date": "2026-07-22",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Richemont (Swiss watch industry)",
+      "event_type": "trend",
+      "headline": "스위스 시계 수출, 6월 반등에도 상반기 전체는 소폭 역성장",
+      "summary": "스위스시계산업연맹(FH) 통계에 따르면 6월 스위스 시계 수출이 전년 대비 약 11.2% 증가(약 24억 스위스프랑)했으나, 2026년 상반기 누적으로는 전년 동기 대비 0.7% 감소한 128억 스위스프랑을 기록했다. 3000프랑 초과 고가 세그먼트는 14.2% 증가한 반면 500~3000프랑 구간은 4.7% 감소해, 고가 브랜드(Cartier, Patek 등)와 중가 브랜드 간 양극화가 뚜렷했다.",
+      "url": "https://www.swissinfo.ch/eng/global-trade/swiss-watches-exports-up-sharply-in-june/91776991",
+      "source": "SWI swissinfo.ch",
+      "tier": "T1",
+      "published_at": "2026-07-21",
+      "why_it_matters": "카르티에 등 리치몬트 시계 브랜드가 속한 고가(3000프랑 초과) 세그먼트만 견조하게 성장하는 양극화 구도는, 주얼리·워치 럭셔리 소비가 매스티지가 아닌 최상위 프라이싱 파워에 의존함을 시사하며 구찌 주얼리·워치 확장 시 참고할 벤치마크.",
+      "why_it_matters_en": "The polarization where only the over-CHF3,000 segment (Cartier's tier) grows while mid-price watches decline signals that jewelry/watch luxury demand increasingly depends on top-end pricing power — a benchmark for Gucci's own jewelry/watch ambitions.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Bulgari",
+      "event_type": "executive move",
+      "headline": "LVMH, 로라 부르데제를 불가리 신임 CEO로 선임",
+      "summary": "LVMH가 로라 부르데제를 불가리 CEO로 임명했으며 7월 1일부로 효력이 발생했다. 부르데제는 아쿠아 디 파르마 CEO를 거쳐 2022년 불가리 마케팅·커뮤니케이션 부사장, 2024년 7월 부CEO로 승진한 인물로, LVMH 워치&주얼리 총괄 스테판 비앙키에게 직접 보고한다. 전임 장 크리스토프 바뱅은 불가리 이사회 의장 및 호텔 사업·재단 대표직을 유지한다.",
+      "url": "https://www.businessoffashion.com/news/luxury/lvmh-names-laura-burdese-ceo-of-bulgari/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-07-01",
+      "why_it_matters": "LVMH 산하 주얼리 하우스의 세대교체 리더십 재편은 경쟁사 워치&주얼리 부문 조직 전략의 참고 사례이며, 케링/구찌의 주얼리 카테고리 강화 시 인재·거버넌스 모델로 비교 대상이 된다.",
+      "why_it_matters_en": "A generational leadership handover at an LVMH jewelry Maison offers a comparison point for organizational strategy in watches & jewelry — relevant as Kering/Gucci considers strengthening its own jewelry category leadership.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bulgari",
+      "event_type": "controversy",
+      "headline": "이탈리아 경찰, 불가리·샤넬 등 명품 브랜드 사무실 노동 착취 의혹 압수수색",
+      "summary": "밀라노 검찰 수사에 따라 이탈리아 경찰이 불가리, 샤넬, 프라다, 지방시, 돌체앤가바나, 브루넬로 쿠치넬리, 몽클레르 등 최소 11개 명품 브랜드 사무실을 압수수색했다. 하청업체를 통해 중국인 노동자를 착취적 조건으로 고용한 정황을 조사 중이며, 9개 기업 모두 아직 공식 수사 대상은 아니고 법원 관리 명령도 청구되지 않은 상태다.",
+      "url": "https://www.euronews.com/my-europe/2026/07/16/italian-police-conduct-raids-on-several-luxury-brands-in-labour-abuse-probe",
+      "source": "Euronews",
+      "tier": "T1",
+      "published_at": "2026-07-16",
+      "why_it_matters": "이탈리아 명품 공급망 노동 착취 스캔들이 불가리를 포함해 확산 중이며, 구찌 역시 과거 유사 이슈로 사법관리를 받은 전례가 있어 공급망 감독 리스크가 업계 전반의 상시 위험임을 재확인시킨다.",
+      "why_it_matters_en": "The widening Italian supply-chain labor exploitation probe now touching Bulgari is a reminder that supply-chain oversight risk is an industry-wide, recurring exposure — Gucci itself has faced comparable judicial administration in the past.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Tiffany & Co.",
+      "event_type": "campaign",
+      "headline": "티파니, 미키 매디슨과 '러브 앤 셀러브레이션' 캠페인 공개, 신제품 식스틴 스톤 링 선봬",
+      "summary": "티파니가 아카데미상 수상 배우 미키 매디슨을 기용한 '러브 앤 셀러브레이션' 캠페인과 함께 진 슐룸베르제의 1959년 웨딩밴드 디자인을 솔리테어로 재해석한 '식스틴 스톤 바이 티파니' 링을 공개했다. 캠페인은 낭만적 사랑을 넘어 자기 자신·가족·커뮤니티와의 관계로 '사랑'의 정의를 확장하는 메시지를 담았다.",
+      "url": "https://hauteliving.com/2026/07/tiffany-and-co-mikey-madison-campaign/791920/",
+      "source": "Haute Living",
+      "tier": "T2",
+      "published_at": "2026-07-06",
+      "why_it_matters": "이는 티파니 자체 마케팅 활동 보도이며 여론 개선의 근거로 해석해서는 안 되나, 헤리티지 디자인(1959년 슐룸베르제)을 현대적으로 재출시하는 전략은 구찌의 아카이브 리바이벌 방식과 직접 비교 가능한 벤치마크.",
+      "why_it_matters_en": "This is activation coverage of Tiffany's own campaign, not evidence of public sentiment shift; still, reviving a 1959 Schlumberger heritage design as a modern solitaire is a directly comparable benchmark to Gucci's own archive-revival playbook.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Van Cleef & Arpels",
+      "event_type": "launch",
+      "headline": "반클리프 아펠, 파리에서 '매혹적인 이집트' 하이주얼리 컬렉션 공개",
+      "summary": "반클리프 아펠이 파리 오트쿠튀르 위크 기간 4년에 걸쳐 개발한 180점 규모의 '패시네이팅 이집트' 하이주얼리 컬렉션을 공개했다. 고대 이집트 신화와 하우스의 아르데코 시대 이집트 리바이벌 유산을 다이아몬드·에메랄드·루비·사파이어로 재해석했으며, 팔레 드 샤이오에서 갈라 디너로 마무리했다.",
+      "url": "https://www.scmp.com/magazines/style/luxury/jewellery/article/3356570/van-cleef-arpels-fascinating-egypt-collection-inspired-pharaohs-and-pyramids",
+      "source": "South China Morning Post",
+      "tier": "T1",
+      "published_at": "2026-07-08",
+      "why_it_matters": "180점 규모, 4년 개발 기간의 하이주얼리 컬렉션은 리치몬트 산하 최상위 마종의 자본·아틀리에 투자 규모를 보여주며, 구찌가 주얼리 라인을 확장할 때 요구되는 장기 투자 기준선을 제시한다.",
+      "why_it_matters_en": "A 180-piece, four-year-development high jewelry collection illustrates the scale of atelier and capital investment top-tier Richemont Maisons commit to jewelry — a benchmark for the level of long-term investment Gucci's own jewelry ambitions would need to match.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Boucheron",
+      "event_type": "launch",
+      "headline": "부쉐론, '휴먼 비잉' 하이주얼리 컬렉션으로 창의성 중심 가치 제안",
+      "summary": "부쉐론이 파리 오트쿠튀르 위크에서 크리에이티브 디렉터 클레르 슈아뉴 주도의 '카르트 블랑슈 2026: 휴먼 비잉' 컬렉션을 발표했다. 하나의 클러스터 목걸이 실루엣을 소재·보석·기법만 달리해 5가지로 재해석, 보석 희소성이 아닌 인간의 창의성과 장인정신이 가치를 정의한다는 메시지를 던졌다.",
+      "url": "https://www.jckonline.com/editorial-article/boucheron-high-jewelry-human/",
+      "source": "JCK",
+      "tier": "T2",
+      "published_at": "2026-07-07",
+      "why_it_matters": "케링 산하 부쉐론이 보석 희소성이 아닌 디자인·기법 서사로 가치를 정의하려는 시도는, 그룹 내 다른 마종(구찌 포함)의 주얼리 스토리텔링 전략과 직접 연결되는 케링 그룹 차원의 신호.",
+      "why_it_matters_en": "Kering-owned Boucheron reframing value around design and craft narrative rather than gemstone rarity is a group-level signal directly relevant to how other Kering Maisons, including Gucci, could position jewelry storytelling.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Cartier",
+      "event_type": "trend",
+      "headline": "카르티에 팬더 컬렉션, 미니워치 트렌드 속 가격·리세일 강세 지속",
+      "summary": "업계 분석에 따르면 카르티에 2026년 1분기 판매가 전 컬렉션에서 상승한 가운데 팬더(Panthère) 라인이 +4.1%로 가장 높은 성장률을 기록했다. 미니워치 트렌드에 힘입어 미니 팬더 모델의 리세일 가격이 정가의 약 75%까지 근접했으며, 팬더 라인은 탱크(-28.1%)·산토스(-26.6%) 대비 가치 하락폭(-12.4%)도 가장 적었다.",
+      "url": "https://theluxuryplaybook.com/are-cartier-watches-a-good-investment/",
+      "source": "The Luxury Playbook",
+      "tier": "T2",
+      "published_at": "2026-07-15",
+      "why_it_matters": "미니워치·과거 아이코닉 라인 리바이벌이 리세일 가치까지 방어하는 현상은, 구찌의 아카이브 기반 액세서리·워치 라인 확장 시 참고할 상업적 근거가 된다.",
+      "why_it_matters_en": "Mini-watch and archival-icon revival driving strong resale value retention gives Gucci a commercial data point to weigh when considering archive-based accessory or watch line expansion.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Fastest-growing jewelry brands (multi-brand)",
+      "event_type": "trend",
+      "headline": "구글 검색 트렌드 기준 부쉬러·타코리·그라프·피아제 등 헤리티지 주얼리 브랜드 성장 두각",
+      "summary": "구글 키워드 플래너 기반 분석(2026년 2~4월 vs 전년 동기)에서 부쉬러(+31%), 클린 오리진(+25%), 타코리(+22%), 그라프(+22%), 피아제(+20%)가 검색 수요 성장을 주도한 반면, 메쥬리(-13%)·브릴리언트 어스(-7%) 등 D2C 브랜드는 하락했다. 티파니·카르티에·데이비드 유먼은 각 48만~59만 월간 검색량에서 전년 대비 성장이 정체됐다.",
+      "url": "https://www.itshco.com/blog/fastest-growing-jewelry-brands",
+      "source": "ITS/HCO (industry analytics)",
+      "tier": "T2",
+      "published_at": "2026-04-04",
+      "why_it_matters": "리치몬트 산하 피아제의 검색 성장과 대형 브랜드(티파니·카르티에) 검색 정체가 대비되는 구도는, 헤리티지 강한 중소형 마종이 소매 파트너십을 통해 모멘텀을 얻고 있음을 보여주며 구찌 주얼리 카테고리의 차별화 포지셔닝에 시사점을 준다.",
+      "why_it_matters_en": "Richemont's Piaget gaining search momentum while giants like Tiffany and Cartier plateau suggests heritage-driven mid-size Maisons with strong retail partnerships are picking up momentum — a positioning cue for Gucci's own jewelry category differentiation. Note: this data point is dated April 2026, included as background trend context since no comparable fresher ranking was found.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": []
+}

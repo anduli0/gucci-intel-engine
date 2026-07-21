@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-07-22-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci PIN popup at 더현대 서울 with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "popup", "retail"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-22-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive announcement of new high jewelry collection, no independent critical judgment offered.",
+    "signal_tags": ["activation_coverage", "product_launch", "high_jewelry"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-22-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of Japan-exclusive small leather goods tied to a promotional calendar date, no evaluative stance.",
+    "signal_tags": ["activation_coverage", "product_launch", "japan_exclusive"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-22-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive store-opening/popup write-up (Shinsegae Gangnam) with no critical verdict.",
+    "signal_tags": ["activation_coverage", "popup", "retail"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-22-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press restating same popup opening details with strategic framing but no evaluative judgment on the brand.",
+    "signal_tags": ["activation_coverage", "popup", "retail", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-22-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Community-documented resale price collapse (1955 bag ~13,000→6,500 CNY) signals eroding value-retention perception.",
+    "signal_tags": ["resale_value", "secondhand_market", "value_erosion", "critical_angle"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-22-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine counterfeit-authentication inquiry thread; low-intensity consumer anxiety, not clear brand-directed criticism.",
+    "signal_tags": ["counterfeit_inquiry", "community"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-07-22-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Industry-wide EU inventory-destruction regulation story; Gucci not directly named, factual background reporting.",
+    "signal_tags": ["regulation", "industry_wide", "sustainability"],
+    "confidence": 0.6
+  }
+]

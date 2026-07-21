@@ -1,0 +1,126 @@
+{
+  "brand_group": "Kering",
+  "date": "2026-07-22",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Kering",
+      "event_type": "financial",
+      "headline": "케링 주가, 253유로대에서 횡보 — 7월 27~29일 상반기 실적 발표 앞두고 관망세",
+      "summary": "케링 주가는 7월 20~21일 253유로 안팎에서 등락을 거듭했으며, 52주 변동폭은 196.66~354.20유로다. 24개 증권사 평균 투자의견은 '보유'(목표주가 282.46유로)로, 매수 4건·매도 3건이 혼재해 컨센서스가 여전히 엇갈린다.",
+      "url": "https://www.investing.com/equities/kering",
+      "source": "Investing.com / stockanalysis.com",
+      "tier": "T2",
+      "published_at": "2026-07-21",
+      "why_it_matters": "실적 발표(7월 27~29일)를 코앞에 두고 주가가 방향성 없이 정체된 것은 시장이 구찌 턴어라운드 증거를 아직 확신하지 못하고 있다는 뜻 — 낙관은 시기상조.",
+      "why_it_matters_en": "Shares stalling just before the H1 earnings print (July 27-29) signals the market still lacks conviction on Gucci's turnaround evidence — optimism remains premature.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Alexander McQueen",
+      "event_type": "controversy",
+      "headline": "알렉산더 맥퀸, 이탈리아 노조와 정리해고 합의 — 일방적 해고는 배제",
+      "summary": "케링과 이탈리아 노동조합이 노동부 중재로 스칸디치·노바라·파라비아고 생산기지 인력 54명(전체 181명 중) 정리해고 관련 협상을 마무리했으며, 일방적 해고는 배제하기로 합의했다. 런던 본사에서도 약 55명(전체 관리직의 20%) 규모의 별도 감원이 진행 중이다.",
+      "url": "https://uk.fashionnetwork.com/news/Kering-averts-compulsory-redundancies-at-alexander-mcqueen,1837639.html",
+      "source": "FashionNetwork",
+      "tier": "T2",
+      "published_at": "2026-07-18",
+      "why_it_matters": "맥퀸의 매출이 2022년 대비 약 60% 급감한 상태에서 나온 구조조정으로, 구찌보다 훨씬 가파른 붕괴 사례 — 드 메오 체제가 성과 부진 브랜드에 실제로 인력 감축까지 밀어붙인다는 선례가 구찌에도 압박 신호로 읽힌다.",
+      "why_it_matters_en": "This restructuring follows a roughly 60% revenue collapse at McQueen since 2022 — a steeper decline than Gucci's — and shows de Meo's regime will follow through with actual headcount cuts at underperforming houses, a precedent that reads as pressure on Gucci too.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "executive_move",
+      "headline": "케링, 구찌 의존도 축소 전략 지속 — 생로랑·보테가·발렌시아가에 무게중심 이동",
+      "summary": "뤼카 드 메오 체제 하 케링은 구찌에 대한 '과도한 의존'을 줄이고 생로랑, 보테가 베네타, 발렌시아가에 더 힘을 싣는 전략을 공개적으로 표명했다. 부채 감축을 위해 뉴욕·밀라노 부동산 매각(약 15억 유로)과 로레알에 뷰티 사업 매각(40억 유로) 등을 단행했으며, 순부채는 6월 기준 95억 유로(리스 부채 포함 시 약 155억 유로) 수준이다.",
+      "url": "https://www.modaes.com/global/companies/luca-de-meos-kering-downsizing-and-dependence-on-gucci-to-return-to-growth",
+      "source": "Modaes Global",
+      "tier": "T2",
+      "published_at": "2026-07-14",
+      "why_it_matters": "그룹 CEO가 '구찌 의존도 축소'를 공개적으로 그룹 성장 전략의 축으로 삼았다는 것은, 구찌가 더 이상 그룹의 유일한 성장 엔진으로 여겨지지 않는다는 명시적 신호다.",
+      "why_it_matters_en": "The group CEO has publicly made 'reducing dependence on Gucci' a pillar of the growth strategy — an explicit signal that Gucci is no longer treated as the group's sole growth engine.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "retail",
+      "headline": "케링, 2026년 매장 100개 추가 폐점 예정 — 구찌가 최대 비중 차지 전망",
+      "summary": "케링은 2025년 한 해 133개 매장을 폐점(순감소 75개, 총 1,719개 매장)한 데 이어, 2026년에도 100개 이상의 추가 폐점을 예고했다. 이 중 구찌가 가장 큰 비중을 차지할 것으로 보이며, 폐점의 약 40%는 아시아 시장에 집중된다.",
+      "url": "https://finance.yahoo.com/news/luxury-giant-close-more-200-040700889.html",
+      "source": "TheStreet / Yahoo Finance",
+      "tier": "T2",
+      "published_at": "2026-07-17",
+      "why_it_matters": "구찌가 그룹 매장 구조조정에서 최대 폐점 비중을 차지한다는 보도는 부인할 수 없는 사실 — 리테일 축소가 브랜드 고급화 전략으로 포장되더라도 실질적으로는 구찌 실적 부진이 반영된 결과다.",
+      "why_it_matters_en": "Reports naming Gucci as the largest contributor to group store closures are a plain fact, not spin — however the closures are framed as brand elevation, they substantively reflect Gucci's own underperformance.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "controversy",
+      "headline": "케링 대규모 데이터 유출, 7.4백만 고객 정보 노출 — 소송 가능성 조사 진행 중",
+      "summary": "2025년 4월 발생한 것으로 알려진 케링 계열(구찌·발렌시아가·맥퀸) 데이터 유출 사고가 최근까지도 여진을 남기고 있다. Shiny Hunters가 7.4백만 명의 이름·이메일·전화번호·구매 총액 등을 탈취했으며, 아직 공식 집단소송은 제기되지 않았으나 로펌들이 피해 사례 조사를 진행 중이다.",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/gucci-balenciaga-and-mcqueen-hit-by-massive-kering-data-breach/",
+      "source": "Top Class Actions",
+      "tier": "T2",
+      "published_at": "2026-07-15",
+      "why_it_matters": "구찌 고객 데이터도 이 유출에 포함돼 있어 향후 소송이 현실화되면 구찌 브랜드 신뢰도와 법적 비용에 직접 영향을 줄 수 있는 미해결 리스크다.",
+      "why_it_matters_en": "Gucci customer data is part of this breach — if litigation materializes, it is an unresolved risk with direct exposure to Gucci's brand trust and legal costs.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Saint Laurent",
+      "event_type": "trend",
+      "headline": "생로랑, 라이스트 인덱스 여름 상승세 지속 — 바카렐로 취임 10주년과 맞물려",
+      "summary": "생로랑은 최신 라이스트 인덱스에서 미우미우, COS와 함께 여름 시즌 검색·구매 관심도 상승 브랜드로 재차 거론됐다. 앤서니 바카렐로의 크리에이티브 디렉터 취임 10주년 및 브랜드 60주년 시점과 겹친다.",
+      "url": "https://ww.fashionnetwork.com/news/Saint-laurent-miu-miu-and-cos-were-riding-high-this-summer-says-latest-lyst-index,1780032.html",
+      "source": "FashionNetwork",
+      "tier": "T2",
+      "published_at": "2026-07-14",
+      "why_it_matters": "생로랑이 케링 포트폴리오 내에서 랭킹 지표상 안정적 강세를 유지하는 것은 구찌의 회복 속도를 가늠하는 내부 기준점이 된다 — 같은 그룹 내에서 구찌만 뒤처지고 있다는 대비가 뚜렷해진다.",
+      "why_it_matters_en": "Saint Laurent's sustained ranking strength within the Kering portfolio is an internal benchmark against which Gucci's slower recovery stands out more starkly.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "executive_move",
+      "headline": "보테가 베네타 신임 CEO 로맹 스피처, 9월 1일 취임 앞두고 리테일·고객경험 우선 과제로 제시",
+      "summary": "LVMH 뷰티 프래그런스 그룹 전 CEO 로맹 스피처가 9월 1일 보테가 베네타 CEO로 공식 취임하며, 리테일 경험 개선과 고객 관계 구축을 핵심 과제로 제시했다. 밀라노 근무, 뤼카 드 메오에게 직접 보고한다.",
+      "url": "https://wwd.com/sourcing-journal/industry-news/shuffle-board-bluesign-bottega-veneta-puma-la-perla-o9-1239076690/",
+      "source": "WWD (Sourcing Journal)",
+      "tier": "T1",
+      "published_at": "2026-07-16",
+      "why_it_matters": "뷰티·향수 출신 임원을 패션 하우스 최고경영자로 앉히는 케링의 반복적 인선 패턴은 구찌 자체의 경영진 구성과 비교되는 참고 사례다.",
+      "why_it_matters_en": "Kering's repeated pattern of installing beauty/fragrance-industry executives atop fashion houses is a comparison point worth tracking against Gucci's own leadership bench.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Kering",
+      "event_type": "earnings",
+      "headline": "케링, 1분기 매출 6.2% 감소 — 구찌 14.3% 하락이 여전한 발목",
+      "summary": "케링의 2026년 1분기 매출이 전년 대비 6.2% 감소한 35.7억 유로를 기록했으며, 구찌 매출은 14.3% 하락해 그룹 전체 실적의 최대 부담 요인으로 지목됐다. 주얼리(부쉐론·포멜라토) 부문이 일부 상쇄했다.",
+      "url": "https://uk.investing.com/news/company-news/kering-q1-2026-slides-revenue-stabilizes-as-jewelry-offsets-gucci-drag-93CH-4607797",
+      "source": "Investing.com",
+      "tier": "T2",
+      "published_at": "2026-04-24",
+      "why_it_matters": "그룹 실적 부진의 최대 원인으로 구찌가 명시적으로 지목되고 있다는 점은 부인할 수 없는 사실 — 7월 27~29일 2분기 실적에서 개선 신호가 나오지 않으면 그룹 내 구찌 입지에 대한 압박이 커질 것.",
+      "why_it_matters_en": "Kering's own reporting explicitly names Gucci as the group's biggest drag — without a visible improvement in the upcoming H1 print (July 27-29), internal and investor pressure on Gucci's turnaround timeline will intensify.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Balenciaga",
+      "event_type": "fashion_show",
+      "headline": "피에르파올로 피촐리, 발렌시아가 오트쿠튀르 데뷔 — 2026년 최대 기대작으로 평가",
+      "summary": "피촐리가 7월 8일 파리 오트쿠튀르 위크에서 발렌시아가 쿠튀르 데뷔 무대를 선보였다. 가죽·캐시미어 핸드몰딩 기법과 지지 하디드의 깃털 후드 룩이 클라이맥스를 장식하며 올해 가장 주목받은 쇼로 평가됐다.",
+      "url": "https://runwaylive.com/balenciaga-couture-2026-piccioli-paris-haute-couture.html",
+      "source": "WWD / RunwayLive",
+      "tier": "T1",
+      "published_at": "2026-07-08",
+      "why_it_matters": "케링 산하 자매 브랜드가 크리에이티브 디렉터 교체 직후 강한 평단 반응을 얻은 사례로, 구찌의 크리에이티브 전환 서사와 비교되는 벤치마크.",
+      "why_it_matters_en": "A sister Kering house scoring a strong critical reception right after a creative-director change is a direct benchmark for how Gucci's own transition is being judged.",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

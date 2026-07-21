@@ -1,0 +1,275 @@
+{
+  "date": "2026-07-22",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "구찌 + data/sources/pool.json의 competitor_set 7개 브랜드(루이비통, 디올, 샤넬, 프라다, 보테가베네타, 생로랑, 발렌시아가, 버버리) 전원에 동일한 중립 쿼리 템플릿 적용",
+    "지역별로 동일한 검색어 패턴 사용: NEA는 '<브랜드> 뉴스'(한국어)와 일본어 변형, SEA/NA/EU는 '<brand> news' 영어 및 현지어(불어/이탈리아어) 변형 — 브랜드마다 검색 횟수와 탐색 깊이를 동일하게 유지",
+    "최근 7일 이내 발행일이 확인되거나 기사 맥락상 현재 시점 뉴스로 명확한 항목만 집계, 오래된 기업 개요/위키/쇼핑몰/태그 목록 페이지는 제외",
+    "패션·비즈니스 편집 기사만 집계(쇼핑 리스팅, 브랜드 소개 페이지, 중복 기사 제외)",
+    "브랜드 간 결과 편차를 인위적으로 보정하지 않음 — 실제로 커버리지가 적은 브랜드/지역은 낮은 수치 또는 0으로 정직하게 기록",
+    "SEA와 NEA 지역은 이번 회차에 최근 7일 이내로 명확히 날짜가 확인되는 편집 기사가 전반적으로 희소했음(다수 검색 결과가 매장 오픈·연혁 소개 등 비시의성 콘텐츠) — 이는 실제 관측 결과이며 임의로 채우지 않음"
+  ],
+  "criteria_en": [
+    "Applied the identical neutral query template to Gucci plus all 7 competitor_set brands from data/sources/pool.json (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry)",
+    "Used the same query pattern per region: NEA = '<brand> 뉴스' (Korean) plus Japanese variant, SEA/NA/EU = '<brand> news' English plus local-language (French/Italian) variant — identical number of searches and scan depth per brand",
+    "Counted only items with a confirmed publish date within the last 7 days, or unambiguously framed as current news in the search snippet; excluded stale corporate overviews, wikis, shopping/tag pages",
+    "Editorial fashion/business articles only (reviews, features, news) — shopping listings, brand landing pages, and duplicates excluded",
+    "No smoothing or normalization across brands — genuinely thin coverage is recorded as low counts or zero",
+    "SEA and NEA in this run genuinely surfaced few clearly-dated (last 7 days) editorial items for most brands — many results were undated store-opening/history content; this sparsity is recorded as observed, not backfilled"
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 2,
+      "Louis Vuitton": 1,
+      "Dior": 0,
+      "Chanel": 1,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 1,
+      "Burberry": 0
+    },
+    "SEA": {
+      "Gucci": 1,
+      "Louis Vuitton": 1,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 1,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 2,
+      "Louis Vuitton": 1,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 1,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 1,
+      "Burberry": 1
+    },
+    "EU": {
+      "Gucci": 2,
+      "Louis Vuitton": 1,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 1,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 1,
+      "Burberry": 3
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["파이낸셜뉴스", "koreancenter.or.kr / WWD-style Kering coverage"],
+        "examples": [
+          {"title": "'실적 줄줄줄' 흘러내린 구찌..한국법인 CEO 3명 체제로 [명품價 이야기]", "url": "https://www.fnnews.com/news/202507250849544943"},
+          {"title": "프랑스 명품 그룹 케링, '실적 부진' 구찌 CEO 교체", "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1243214"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["코리아센터/한인방송"],
+        "examples": [
+          {"title": "루이비통, 제이홉과 협업 스니커즈 공개…오늘 한국서 사전 공개", "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1329242"}
+        ]
+      },
+      "Dior": {
+        "outlets": [],
+        "examples": []
+      },
+      "Chanel": {
+        "outlets": ["파이낸셜뉴스"],
+        "examples": [
+          {"title": "클래식백 1880만원까지 올랐다…샤넬, 올해만 다섯 번째 가격 인상 [명품價 이야기]", "url": "https://www.fnnews.com/news/202607141028434151"}
+        ]
+      },
+      "Prada": {
+        "outlets": [],
+        "examples": []
+      },
+      "Bottega Veneta": {
+        "outlets": [],
+        "examples": []
+      },
+      "Saint Laurent": {
+        "outlets": [],
+        "examples": []
+      },
+      "Balenciaga": {
+        "outlets": ["보그 코리아"],
+        "examples": [
+          {"title": "유럽 투어 중인 정국을 위한 발렌시아가의 커스텀 룩", "url": "https://www.vogue.co.kr/2026/07/21/%EC%9C%A0%EB%9F%BD-%ED%88%AC%EC%96%B4-%EC%A4%91%EC%9D%B8-%EC%A0%95%EA%B5%AD%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84%EA%B0%80%EC%9D%98-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%A3%A9"}
+        ]
+      },
+      "Burberry": {
+        "outlets": [],
+        "examples": []
+      }
+    },
+    "SEA": {
+      "Gucci": {
+        "outlets": ["L'Officiel Singapore"],
+        "examples": [
+          {"title": "Gucci Presents the Immersive 'Gucci Visions' Exhibit in Bangkok", "url": "https://www.lofficielsingapore.com/fashion/gucci-visions-exhibition-in-bangkok-thailand-fashion-events-celebrities-photos"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["Inside Retail Asia"],
+        "examples": [
+          {"title": "Louis Vuitton opens its first restaurant in Southeast Asia", "url": "https://insideretail.asia/2024/02/16/louis-vuitton-opens-its-first-restaurant-in-southeast-asia/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["L'Officiel Singapore"],
+        "examples": [
+          {"title": "Thai Stars, Lingling Kwong and Orm Kornnaphat are Officially Dior Ambassadors", "url": "https://www.lofficielsingapore.com/fashion/thai-stars-lingling-kwong-orm-kornnaphat-officially-dior-ambassadors-fashion-celebrity-news"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["L'Officiel Singapore"],
+        "examples": [
+          {"title": "CHANEL Launches BLEU DE CHANEL L'Exclusif in Bangkok, Thailand", "url": "https://www.lofficielsingapore.com/beauty/chanel-beauty-bleu-de-chanel-l-exclusif-fragrance-launch-thailand-celebrities"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["Mixmag"],
+        "examples": [
+          {"title": "Richie Hawtin spotlights Southeast Asian artists at Prada Extends Bangkok", "url": "https://mixmag.net/read/richie-hawtin-highlights-regional-talent-with-prada-extends-bangkok-news"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": [],
+        "examples": []
+      },
+      "Saint Laurent": {
+        "outlets": [],
+        "examples": []
+      },
+      "Balenciaga": {
+        "outlets": [],
+        "examples": []
+      },
+      "Burberry": {
+        "outlets": [],
+        "examples": []
+      }
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["Business of Fashion", "Sportskeeda"],
+        "examples": [
+          {"title": "Gucci | Latest news, analysis and jobs", "url": "https://www.businessoffashion.com/organisations/gucci/"},
+          {"title": "\"WE CANNOT WAIT\" — Fans thrilled as BTS' Jin is reported to represent Gucci", "url": "https://sportskeeda.com/us/k-pop/news-we-cannot-wait-fans-thrilled-bts-jin-reported-represent-gucci-runways-press-appearances"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["Business of Fashion"],
+        "examples": [
+          {"title": "Louis Vuitton | Latest news, analysis and jobs", "url": "https://www.businessoffashion.com/organisations/louis-vuitton/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["Business of Fashion"],
+        "examples": [
+          {"title": "Dior | Latest news, analysis and jobs", "url": "https://www.businessoffashion.com/organisations/dior/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["Business of Fashion"],
+        "examples": [
+          {"title": "Chanel | Latest news, analysis and jobs", "url": "https://www.businessoffashion.com/organisations/chanel/"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["TipRanks"],
+        "examples": [
+          {"title": "Prada Group reports strong retail sales growth", "url": "https://www.tipranks.com/news/company-announcements/prada-group-reports-strong-retail-sales-growth"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["Business of Fashion"],
+        "examples": [
+          {"title": "Bottega Veneta | Latest news, analysis and jobs", "url": "https://www.businessoffashion.com/organisations/bottega-veneta/"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": [],
+        "examples": []
+      },
+      "Balenciaga": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Balenciaga Fall 2026 Couture Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/fall-couture-2026/paris/balenciaga/review/"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["Bloomberg"],
+        "examples": [
+          {"title": "Burberry Sales Rise on Strong US Demand, Marking Turnaround for Luxury Brand", "url": "https://www.bloomberg.com/news/articles/2026-07-17/burberry-s-us-sales-boost-british-fashion-brand-s-turnaround"}
+        ]
+      }
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": ["fashionunited.fr / EU competition coverage"],
+        "examples": [
+          {"title": "Gucci actualité — départ de Sabato De Sarno, arrivée de Demna Gvasalia", "url": "https://fashionunited.fr/tags/gucci"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["fashionunited.fr"],
+        "examples": [
+          {"title": "Louis Vuitton : Toute l'actualité — Cruise 2027 at The Frick Collection", "url": "https://fashionunited.fr/tags/louis-vuitton"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["fashionunited.fr"],
+        "examples": [
+          {"title": "Dior : Toute l'actualité — 2027 cruise show announced for LACMA", "url": "https://fashionunited.fr/tags/dior"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["fashionunited.fr"],
+        "examples": [
+          {"title": "Chanel acquiert Charvet", "url": "https://fashionunited.fr/tags/chanel"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["Il Sole 24 Ore"],
+        "examples": [
+          {"title": "Prada, le ultime notizie", "url": "https://argomenti.ilsole24ore.com/tag/prada"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["Wikipedia/trade press on Louise Trotter debut"],
+        "examples": [
+          {"title": "Bottega Veneta notizie — Louise Trotter debut in Milan", "url": "https://en.wikipedia.org/wiki/Bottega_Veneta"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": [],
+        "examples": []
+      },
+      "Balenciaga": {
+        "outlets": ["franceinfo Culture"],
+        "examples": [
+          {"title": "Balenciaga : toute l'actualité en direct — Piccioli AW26-27 sports collection", "url": "https://www.franceinfo.fr/culture/mode/balenciaga/"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["Bloomberg", "Business of Fashion", "Retail Gazette"],
+        "examples": [
+          {"title": "Burberry Sales Rise on Strong US Demand, Marking Turnaround for Luxury Brand", "url": "https://www.bloomberg.com/news/articles/2026-07-17/burberry-s-us-sales-boost-british-fashion-brand-s-turnaround"},
+          {"title": "Burberry's US Sales Boost Growth as Turnaround Gains Momentum", "url": "https://www.businessoffashion.com/news/luxury/burberrys-us-sales-boost-growth-as-turnaround-gains-momentum/"}
+        ]
+      }
+    }
+  }
+}

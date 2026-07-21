@@ -1,0 +1,38 @@
+[
+  {
+    "id": "NA-2026-07-22-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Investor-wire coverage of Kering stock falling on Gucci revenue decline and weak guidance is negative earnings/momentum press.",
+    "signal_tags": ["earnings", "stock_reaction", "turnaround_risk"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-22-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity red-carpet placement write-up with no evaluative verdict from the outlet.",
+    "signal_tags": ["celebrity_placement", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-07-22-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual legal-trade recap of a licensing lawsuit settlement between Coty and Kering; no clear brand-opinion polarity, dispute resolved.",
+    "signal_tags": ["licensing", "legal", "beauty_transition"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-07-22-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum thread content is inaccessible behind access restrictions; recorded only as engagement-volume signal, not a sentiment read.",
+    "signal_tags": ["community_engagement", "unverified"],
+    "confidence": 0.3
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "brand_group": "Beauty",
+  "date": "2026-07-22",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Bluemercury / Macy's / Kering Beaute",
+      "event_type": "executive_move",
+      "headline": "메이시스, 블루머큐리 신임 CEO로 케링 뷰테 아메리카 대표 알렉산드르 슈에이리 영입",
+      "summary": "메이시스가 케링 뷰테에서 아메리카 CEO 겸 사장을 지낸 알렉산드르 슈에이리를 블루머큐리 신임 CEO로 임명했다고 7월 14일 발표했다. 슈에이리는 8월 3일 합류하며, 케링 뷰테 재직 중 크리드 확장 및 보테가 베네타·발렌시아가 향수 신규 라인 론칭을 이끈 인물로, 그 이전에는 로레알에서 20년 넘게 랄프로렌 프래그런스 글로벌 사장 등을 역임했다.",
+      "url": "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Inc--Appoints-Alexandre-Choueiri-as-CEO-of-Bluemercury/default.aspx",
+      "source": "Macy's Inc. / WWD",
+      "tier": "T1",
+      "published_at": "2026-07-14",
+      "why_it_matters": "케링 뷰테에서 보테가 베네타·발렌시아가 향수 론칭을 주도한 핵심 임원이 경쟁 유통 채널(블루머큐리)로 이동한 것은 케링 뷰티 조직의 인력 유출이며, 향후 구찌 뷰티가 로레알 이관 이후 조직을 재구성할 때 인재 확보 경쟁이 치열해질 수 있음을 시사한다.",
+      "why_it_matters_en": "A key Kering Beaute executive who led the Bottega Veneta and Balenciaga fragrance launches has departed for a rival retail channel (Bluemercury) — a talent-drain signal for Kering Beaute, and a reminder that Gucci Beauty will face stiff competition for talent as it rebuilds under L'Oreal.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Chanel Beauty",
+      "event_type": "campaign",
+      "headline": "샤넬 뷰티, 여름 컬렉션 '서머스 콜링'과 '루쥬 코코 하이드라 글로스' 리뉴얼 동시 전개",
+      "summary": "샤넬 뷰티가 파스텔 톤의 여름 한정판 컬렉션 '서머스 콜링'(블러셔-하이라이터 스틱, 아이섀도 스틱, 틴티드 립밤 등)을 전개하는 한편, '루쥬 코코 하이드라 글로스' 라인을 대대적으로 리뉴얼해 별도 스포트라이트로 노출하고 있다.",
+      "url": "https://maisondechanel.ca/the-beauty-edit/summers-calling-chanels-2026-summer-beauty-drop/",
+      "source": "Maison de Chanel / PureWow",
+      "tier": "T2",
+      "published_at": "2026-07-18",
+      "why_it_matters": "경쟁 하우스가 시즌 한정판과 헤로 라인 리뉴얼을 동시에 밀어붙이며 색조 매대 존재감을 이어가는 것은, 구찌 뷰티가 라이선스 전환기 신제품 공백을 겪는 시점과 대비되는 경쟁 압박 요인이다 — 이는 캠페인 활성화 보도이며 여론 개선의 근거는 아니다.",
+      "why_it_matters_en": "A rival house running a seasonal limited edition and a hero-line relaunch in parallel sustains cosmetics shelf presence, contrasting with Gucci Beauty's product lull during its license transition — noted as activation coverage, not a public-opinion signal.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Boss / Coty",
+      "event_type": "campaign",
+      "headline": "코티, '보스 보틀드' 프랜차이즈 여성용 확장판 '비욘드 포 허' 캠페인 전개 — 제시카 차스테인 등 3인 앰버서더",
+      "summary": "코티가 남성 향수로 각인된 '보스 보틀드' 프랜차이즈를 여성용으로 확장한 '비욘드 포 허'를 제시카 차스테인, 베키 지, 타라 데이비스-우드홀 3인의 앰버서더 캠페인으로 전개하고 있다. TV·OOH·소셜 전방위 매체 집행이 이어지고 있다.",
+      "url": "https://www.glossy.co/beauty/coty-is-betting-its-biggest-boss-fragrance-franchise-can-win-over-women/",
+      "source": "Glossy / Cosmetics Business",
+      "tier": "T2",
+      "published_at": "2026-07-16",
+      "why_it_matters": "매스티지 향수 대기업이 기존 남성 프랜차이즈를 여성용으로 확장해 신규 매출원을 만드는 전략은, 구찌 뷰티가 코티에서 로레알로 이관되는 시점에 참고할 만한 프랜차이즈 확장 사례다.",
+      "why_it_matters_en": "A mass-prestige fragrance giant extending an established men's franchise into women's is a franchise-extension playbook worth noting as Gucci Beauty transitions from Coty to L'Oreal.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "EU Cosmetics Regulation",
+      "event_type": "regulation",
+      "headline": "EU 향수 알레르겐 라벨링 신규 규정, 7월 31일 시행 앞두고 업계 마감 초읽기",
+      "summary": "EU 화장품 규정 2023/1545에 따라 7월 31일부터 신규 출시 화장품에 56종의 추가 알레르겐(기존 26종에서 총 82종으로 확대)을 라벨에 표기해야 하며, 이를 어기면 통관 보류·시장 진입 거부 위험이 있다. 기존 재고는 2028년 7월까지 유예된다.",
+      "url": "https://mdsscosmetics.com/fragrance-allergens-2026/",
+      "source": "MDSS Cosmetics / Obelis",
+      "tier": "T2_trade",
+      "published_at": "2026-07-20",
+      "why_it_matters": "구찌 뷰티를 포함한 모든 향수 브랜드가 7월 31일 이후 신규 EU 출시 제품에 대해 즉시 규정 준수를 해야 하므로, 로레알 이관 전까지 코티 체제 하에서의 컴플라이언스 공백이 없는지 점검이 필요하다.",
+      "why_it_matters_en": "Every fragrance brand, including Gucci Beauty, must comply immediately for any new EU launches after July 31 — a compliance-gap check is warranted under the current Coty regime ahead of the L'Oreal handover.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "US beauty market / NielsenIQ",
+      "event_type": "trend",
+      "headline": "미국 뷰티 시장, 2026년 상반기 매출 10.1% 성장 — 전체 소매 성장률의 두 배",
+      "summary": "닐슨IQ 집계에 따르면 미국 뷰티 매출이 2026년 상반기 10.1% 성장해 전체 소매 성장률(5.5%)의 거의 두 배를 기록했다. 향수 카테고리 확장, 색조 다기능화, 스킨케어 내 K-뷰티 영향력 확대가 성장 견인 요인으로 거론된다.",
+      "url": "https://wwd.com/beauty-industry-news/beauty-features/cosmoprof-north-america-2026-beauty-trends-1239068730/",
+      "source": "WWD / Cosmoprof North America",
+      "tier": "T1",
+      "published_at": "2026-07-21",
+      "why_it_matters": "뷰티 카테고리 전체가 소매 평균 대비 2배 성장하고 있다는 것은 럭셔리 하우스 입장에서 뷰티 사업 확장의 거시적 정당성을 뒷받침하며, 구찌가 로레알과 손잡고 뷰티 재건에 나서는 타이밍이 시장 성장기와 맞물린다는 근거가 된다.",
+      "why_it_matters_en": "The beauty category growing at roughly twice the overall retail rate provides macro justification for luxury houses' beauty expansion — Gucci's L'Oreal-backed beauty rebuild is timed against a genuinely growing category, not a shrinking one.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Prada Beauty",
+      "event_type": "trend",
+      "headline": "프라다 뷰티, 파라독스 향수·터치 블러셔 세포라 베스트셀러 지위로 로레알 뤽스 아웃퍼폼 견인 지속",
+      "summary": "프라다 뷰티의 향수 '파라독스'와 벨라 하디드가 앰버서더인 첫 블러셔 '프라다 터치'가 세포라·노드스트롬 등에서 베스트셀러 지위를 유지하고 있으며, 로레알은 앞선 실적 발표에서 프라다 향수 프랜차이즈가 뤽스 부문 성장을 견인했다고 밝힌 바 있다. 이 모멘텀이 여름 내내 이어지고 있다.",
+      "url": "https://www.retail-insight-network.com/news/prada-group-reports-13-8-revenue-growth-q1-2026/",
+      "source": "WWD / Retail Insight Network",
+      "tier": "T2",
+      "published_at": "2026-07-19",
+      "why_it_matters": "프라다는 구찌와 동일한 이탈리아 럭셔리 하우스 출신 뷰티 사업이면서 향수·색조 양쪽에서 편집 모멘텀을 만들어내고 있어, 라이선스 전환기의 구찌 뷰티에 가장 직접적인 카테고리 내 경쟁 벤치마크이자 압박 요인이다.",
+      "why_it_matters_en": "Prada — a structurally comparable Italian luxury-house beauty arm — continues sustaining editorial and sell-through momentum across both fragrance and cosmetics, remaining the most direct in-category benchmark and competitive pressure point for Gucci Beauty during its transition.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kiko Milano / ex-Gucci",
+      "event_type": "executive_move",
+      "headline": "이탈리아 코스메틱 브랜드 키코 밀라노, 구찌 출신 마르첼로 마스트로자코모를 글로벌 브랜드 총괄로 영입",
+      "summary": "키코 밀라노가 구찌에서 글로벌 마케팅·디지털·미디어 부문 부사장을 지낸 마르첼로 마스트로자코모를 신설된 '글로벌 이그제큐티브 VP 오브 브랜드' 직에 임명했다고 밝혔다. 그는 아르마니 뷰티, 크리스찬 디올 퍼퓸에서도 마케팅 요직을 거쳤다.",
+      "url": "https://www.globalcosmeticsnews.com/kiko-milano-appoints-marcello-mastrogiacomo-to-lead-global-brand-strategy/",
+      "source": "Global Cosmetics News / BoF",
+      "tier": "T2",
+      "published_at": "2026-07-07",
+      "why_it_matters": "구찌 마케팅 핵심 인력이 매스티지 이탈리아 코스메틱 브랜드로 이동한 것은 구찌 내부 인재 유출 사례이며, 로레알 이관을 앞둔 구찌 뷰티 조직이 마케팅 리더십 공백을 겪지 않도록 점검할 필요가 있다 — 2주 이상 지난 배경 정보로 최신 상황은 아니다.",
+      "why_it_matters_en": "A former Gucci global marketing/digital/media VP departing to a mass-prestige Italian cosmetics brand signals internal talent attrition; Gucci should verify no marketing-leadership gap emerges before the L'Oreal handover — noted as background context, over two weeks old, not a fresh same-day signal.",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci Beauty / Coty / L'Oreal",
+      "event_type": "licensing",
+      "headline": "구찌 뷰티 라이선스, 코티에서 로레알로 1년 앞당겨 이전 확정 — 코티 4억 달러 수령",
+      "summary": "케링과 로레알이 7월 7일 구찌 뷰티(향수·메이크업·스킨케어) 사업에 대한 50년 독점 라이선스 계약을 체결했다고 발표했다. 코티와의 기존 계약(2028년 6월 만료)을 1년 앞당겨 조기 상환하며, 코티는 선불 2.5억 달러에 최대 1.5억 달러를 더한 약 4억 달러를 받는다. 신규 라이선스는 2027년 7월 1일부터 발효되며 로레알이 재고 인수 및 전환 비용의 약 70%를 부담한다.",
+      "url": "https://www.personalcareinsights.com/news/loreal-secures-gucci-beauty-license.html",
+      "source": "Personal Care Insights / Bloomberg / Reuters",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "구찌 뷰티 사업권이 코티에서 로레알로 넘어가는 것은 구찌 브랜드 자체의 뷰티 카테고리 운영 방식과 글로벌 유통력을 근본적으로 바꾸는 결정으로, 향후 브랜드 이미지·가격 전략·매장 경험에 직접 영향을 미친다.",
+      "why_it_matters_en": "The transfer of Gucci Beauty's operating license from Coty to L'Oreal is a structural change to how the Gucci brand's beauty category will be run and distributed globally, directly affecting brand image, pricing strategy and in-store experience going forward.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "LVMH Beauty / Fenty Beauty",
+      "event_type": "M&A",
+      "headline": "LVMH, 펜티 뷰티 지분 50% 매각 검토 지속 — 아르마니 인수 자금 마련 관측",
+      "summary": "LVMH가 리한나와 공동 소유한 펜티 뷰티 지분 50%(15~25억 유로 가치 추정) 매각을 에버코어와 계속 검토 중이며, 이는 최대 100억 유로 규모로 거론되는 아르마니 그룹 인수 입찰을 위한 자금 마련 목적일 수 있다는 관측이 나온다.",
+      "url": "https://www.gcimagazine.com/brands-products/news/news/22953176/lvmh-explores-sale-of-50-stake-in-rihannas-fenty-beauty-valued-between-12-billion",
+      "source": "Global Cosmetic Industry / BoF",
+      "tier": "T1",
+      "published_at": "2026-07-16",
+      "why_it_matters": "LVMH가 뷰티 포트폴리오를 축소하는 동안 케링은 로레알과 손잡고 구찌 뷰티를 강화하는 상반된 전략을 취하고 있어, 두 그룹의 럭셔리 뷰티 접근법 차이가 계속 뚜렷해지고 있다 — 다만 축소가 반드시 실패를 의미하지는 않으며 선택과 집중 전략일 수 있다.",
+      "why_it_matters_en": "LVMH continuing to shrink its beauty portfolio while Kering doubles down on Gucci Beauty via the L'Oreal tie-up keeps sharpening a visible strategic divergence — though a smaller portfolio is not necessarily a failure signal, it may reflect deliberate focus.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Giorgio Armani Group / Armani Beauty",
+      "event_type": "M&A",
+      "headline": "아르마니 그룹, 뷰티 사업 지분 매각 프로세스 준비 — 로레알·LVMH·에실로룩소티카 우선 협상 후보",
+      "summary": "조르지오 아르마니 창업자 유언에 따라 후계 경영진이 12~18개월 내 전략적 파트너를 찾아야 하는 가운데, 유언장에는 로레알·LVMH·에실로룩소티카가 초기 15% 지분 인수 우선 후보로 명시돼 있다. 아르마니 뷰티는 로레알 뤽스 부문 매출의 약 10%를 차지하는 것으로 추정된다.",
+      "url": "https://www.businessoffashion.com/news/luxury/armani-taps-bcg-as-fashion-group-adapts-to-post-founder-era/",
+      "source": "Business of Fashion / Cosmetics Business",
+      "tier": "T1",
+      "published_at": "2026-07-01",
+      "why_it_matters": "로레알이 아르마니 그룹 지분까지 확보할 경우 구찌·프라다·아르마니·발렌티노 등 여러 럭셔리 하우스의 뷰티 사업을 동시에 운영하며 협상력이 커지므로, 구찌 뷰티가 로레알 포트폴리오 내에서 받을 자원 배분 우선순위에 영향을 줄 수 있다.",
+      "why_it_matters_en": "If L'Oreal secures an Armani Group stake, it would be simultaneously running beauty for Gucci, Prada, Armani and Valentino, increasing its negotiating leverage in ways that could affect how resources are prioritized for Gucci Beauty within L'Oreal's portfolio.",
+      "relevance": "competitive threat"
+    }
+  ]
+}
