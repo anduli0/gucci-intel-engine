@@ -83,6 +83,12 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git clone --depth 1 "https://x-access-token:${GH_PAT}@github.com/anduli0/gucci-intel-site.git" site_repo
+          # Safety: a broken/empty export must never reach --delete. A missing
+          # index.html would wipe the live site's root and serve a 404.
+          if [ ! -s site_out/index.html ]; then
+            echo "ERROR: site_out/index.html missing or empty — aborting publish to protect the live site." >&2
+            exit 1
+          fi
           # --exclude .github/automation: site repo keeps its own deploy workflow
           # and docs; a bare --delete once wiped pages.yml and killed deploys.
           rsync -a --delete --exclude .git --exclude .github --exclude automation site_out/ site_repo/
