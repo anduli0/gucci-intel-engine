@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-2026-07-23-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive popup-store write-up with no evaluative verdict",
+    "signal_tags": ["activation_coverage", "retail_expansion", "popup"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-23-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive strategic framing of popup rationale, no independent evaluative judgment",
+    "signal_tags": ["activation_coverage", "retail_expansion", "popup"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-23-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual reporting of popup schedule and items",
+    "signal_tags": ["activation_coverage", "retail_expansion", "popup"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-23-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Store closure and quantified Asia network contraction (1/3 of Kering's Asia closures are Gucci) is independent critical analysis of momentum",
+    "signal_tags": ["store_closure", "asia_retreat", "network_contraction"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-23-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press comparison shows Gucci lagging peers with continued earnings weakness amid soft China demand",
+    "signal_tags": ["earnings", "china_demand", "peer_comparison"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-23-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Industry-wide EU regulation background; Gucci not directly named, informational only",
+    "signal_tags": ["regulation", "sustainability", "industry_wide"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-23-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified resale price drop (1955 bag from 13,000 to 6,500 yuan) and recurring community narrative of weakened value retention",
+    "signal_tags": ["resale_value_drop", "secondhand_market", "value_retention"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-23-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine counterfeit-verification inquiry, no confirmed counterfeit issue, ordinary community thread",
+    "signal_tags": ["counterfeit_inquiry", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-23-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-staged ambassador campaign is press-kit derived promo, not independent public opinion; no verified engagement metrics",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-07-23-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Resale buy-price data point without explicit retail comparison figure; implied value-retention concern too low-confidence to assert polarity",
+    "signal_tags": ["resale_value", "secondhand_market"],
+    "confidence": 0.4
+  }
+]

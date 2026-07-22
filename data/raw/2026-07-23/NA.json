@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "NA-2026-07-23-001",
+      "region": "NA",
+      "source": "ad-hoc-news.de (Kering stock desk, EU/US investor wire)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/kering-stock-trades-lower-as-gucci-recovery-plan-meets-soft-luxury-demand/69816041",
+      "published_at": "2026-07-20",
+      "title": "Kering Stock Trades Lower as Gucci Recovery Plan Meets Soft Luxury Demand",
+      "summary": "Investor-wire coverage reports Kering shares fell as the fashion and leather goods segment posted a double-digit revenue drop, with Gucci flagged as posting a substantial year-on-year revenue decrease amid soft China demand and a slow US recovery. Operating margins contracted on revenue pressure plus repositioning spend, while eyewear was the lone bright spot; frames Gucci's premiumization pivot as carrying real execution risk into H2.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-2026-07-23-002",
+      "region": "NA",
+      "source": "WWD (Pop Culture)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://wwd.com/pop-culture/celebrity-news/lindsey-vonn-gucci-one-sleeve-dress-2026-espy-awards-1239067875/",
+      "published_at": "2026-07-16",
+      "title": "Lindsey Vonn Wears Sequined Gucci Gown at 2026 ESPY Awards",
+      "summary": "Alpine skier Lindsey Vonn wore a plum sequined one-sleeve gown from Demna's Pre-Fall 2026 Generation Gucci collection to the July 15 ESPY Awards at Lincoln Center in New York. Coverage notes the same design previously appeared on Aryna Sabalenka and Paris Hilton at other 2026 galas, illustrating Gucci's current reliance on repeat red-carpet seeding of one design for visibility rather than fresh product news.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-2026-07-23-003",
+      "region": "NA",
+      "source": "Yahoo Shopping / Style",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://shopping.yahoo.com/style/accessories/articles/celebrities-still-obsessed-specific-gucci-203200348.html",
+      "published_at": "2026-07-19",
+      "title": "Celebrities Keep Reaching for the Same Gucci Bag",
+      "summary": "Lifestyle-desk roundup notes Brooke Shields, Sienna Miller and Suki Waterhouse were recently photographed carrying Gucci's GG-monogrammed tote (the Giglio), framing it as the brand's current go-to celebrity accessory. Standard soft product-placement coverage with no sales or reach figures given, underscoring how much of this week's NA Gucci coverage is passive style-press amplification rather than original reporting.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-2026-07-23-004",
+      "region": "NA",
+      "source": "PurseForum (PurseBlog) - Gucci Clubhouse",
+      "source_type": "community",
+      "tier": "T3",
+      "url": "https://forum.purseblog.com/forums/gucci-clubhouse.291/",
+      "published_at": "2026-07-21",
+      "title": "PurseForum Gucci Clubhouse: Ongoing Threads on Recent Buys and Bag Resale Value",
+      "summary": "Active US-based collector forum continues threads comparing Gucci resale/retail value against Chanel and Louis Vuitton, with recurring member complaints that mid-tier Gucci leather bags depreciate faster on the secondary market than comparable Chanel or LV pieces. Post-level detail (exact comment counts, sentiment ratio) is not accessible without forum login, so this is recorded as directional community-volume signal, not a quantified metric.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-2026-07-23-005",
+      "region": "NA",
+      "source": "TikTok (@sofialemaaa and related dupe-haul creators)",
+      "source_type": "sns",
+      "tier": "T3",
+      "url": "https://www.tiktok.com/@sofialemaaa/video/7386748775215254827",
+      "published_at": "2026-07-15",
+      "title": "TikTok Dupe-Haul Creators Compare Gucci Bag Prices to DHgate Alternatives",
+      "summary": "Recurring TikTok content genre where US creators film 'Gucci bag dupe' haul-and-review videos, holding DHgate or other alternative-market bags next to Gucci originals and discussing price gaps. Framed by creators as value/price-consciousness commentary rather than counterfeit endorsement; view/like counts not disclosed on the page as fetched, so engagement fields are left null rather than estimated.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 13,
+    "Louis Vuitton": 1,
+    "Dior": 0,
+    "Chanel": 2,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0
+  }
+}

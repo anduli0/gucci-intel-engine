@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SEA-2026-07-23-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting on Coty-Kering beauty license transition, no evaluative brand judgment.",
+    "signal_tags": ["licensing", "beauty", "structural"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-07-23-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering store closure plan concentrated in Asia signals retail-footprint contraction and network saturation, a clear negative momentum story.",
+    "signal_tags": ["store_closures", "retail_footprint", "negative_momentum"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-23-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-roster write-up with no outlet evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["ambassador", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-07-23-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive repost of ambassador styling feature, no engagement metrics or independent judgment; fandom/activation discount applies.",
+    "signal_tags": ["ambassador", "fandom", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-07-23-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community price discussion mixes practical buying advice with general commentary, no clear praise or complaint per source summary.",
+    "signal_tags": ["price_discussion", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-07-23-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum discussion of counterfeit Gucci crackdown reflects mild negative association with counterfeit prevalence in tourist retail districts.",
+    "signal_tags": ["counterfeit", "brand_protection"],
+    "confidence": 0.55
+  }
+]

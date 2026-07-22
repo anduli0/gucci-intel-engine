@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NA-2026-07-23-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Investor-wire reports Gucci revenue decline, soft US/China demand, margin contraction and repositioning execution risk.",
+    "signal_tags": ["earnings", "momentum_negative", "financial_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-23-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity red-carpet seeding write-up with no independent evaluative verdict, just factual product placement noting design reuse.",
+    "signal_tags": ["activation_coverage", "celebrity_seeding", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-07-23-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain descriptive celebrity-carrying-bag roundup, explicitly passive style-press amplification with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "celebrity_seeding", "product_placement"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-07-23-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector forum members complain Gucci bags depreciate faster on resale than Chanel/LV, a peer-comparison and resale-value negative.",
+    "signal_tags": ["resale_value", "peer_comparison", "community_signal"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-07-23-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Dupe-haul content framed as price-consciousness commentary rather than counterfeit endorsement or brand criticism; unquantified engagement.",
+    "signal_tags": ["counterfeit_adjacent", "price_conscious", "sns_trend"],
+    "confidence": 0.45
+  }
+]

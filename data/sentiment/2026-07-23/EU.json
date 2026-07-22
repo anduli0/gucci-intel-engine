@@ -1,0 +1,83 @@
+[
+  {
+    "id": "eu-2026-07-23-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Barclays flags Kering/Gucci full-year guidance at risk, forecasting continued double-digit Europe/APAC revenue decline; negative earnings/momentum press.",
+    "signal_tags": ["earnings", "analyst_note", "share_price", "turnaround_fragile"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-07-23-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity red-carpet product placement with no evaluative verdict; activation-adjacent, not public opinion.",
+    "signal_tags": ["celebrity_placement", "activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-23-03",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press descriptive coverage of a fragrance launch under the outgoing Coty licence; factual, no evaluative judgment.",
+    "signal_tags": ["fragrance_launch", "activation_coverage", "licence_transition"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-23-04",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity it-bag roundup naming Gucci styles alongside peers; no independent evaluative verdict beyond listing, so activation discount applies.",
+    "signal_tags": ["celebrity_placement", "handbag", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-23-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector-forum thread mixed-to-positive: praise for Flora revival offset by recurring complaint about over-reliance on Tom Ford-era referencing; nets to neutral.",
+    "signal_tags": ["forum", "design_criticism", "flora", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-23-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Culture-desk essay frames Demna's FW26 debut as polarizing and 'vulgar', tied explicitly to Gucci's commercial crisis backdrop; independent critical judgment.",
+    "signal_tags": ["design_criticism", "runway_review", "controversy"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-23-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Union-side reporting of Italian retail/logistics staff industrial action over withheld welfare payments; labor controversy alongside turnaround narrative.",
+    "signal_tags": ["labor_dispute", "controversy", "italy"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-23-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Resale-market data places Gucci mid-tier in value retention, well behind Hermes and Chanel, with steep post-purchase depreciation; quantified third-party demand/value signal.",
+    "signal_tags": ["resale_value", "peer_comparison", "quantified_data"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-07-23-09",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent UK critical review reads Demna's FW26 body-first aesthetic as a coherent, favorable design statement, contrasting with harsher reader takes on the same show.",
+    "signal_tags": ["runway_review", "design_praise", "favorable_trade_press"],
+    "confidence": 0.75
+  }
+]
