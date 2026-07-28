@@ -1,0 +1,68 @@
+[
+  {
+    "id": "NA-2026-07-29-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Paywalled trade-press index entry with no accessible evaluative content, purely factual existence marker.",
+    "signal_tags": [
+      "trade_press",
+      "paywalled",
+      "factual"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-29-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive retail-page promotion of the Monte Carlo campaign with no independent evaluative verdict; brand-owned promo copy per activation-discount rule.",
+    "signal_tags": [
+      "activation_coverage",
+      "brand_owned_promo",
+      "retail_placement"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-29-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Genuine, non-brand-seeded SNS post explicitly names Gucci top 'most overrated', citing screaming logos, poor leather quality, and mass-market hype.",
+    "signal_tags": [
+      "design_criticism",
+      "quality_complaint",
+      "organic_sns",
+      "viral"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-07-29-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector-community debate is explicitly split between defenders of the logo-forward direction and critics calling it a cliche, so net polarity is genuinely mixed rather than one-sided.",
+    "signal_tags": [
+      "community_sentiment",
+      "split_opinion",
+      "design_debate"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-07-29-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Review text was blocked from fetch; only a channel-activity marker (review count) is confirmed, with no retrievable valence to judge.",
+    "signal_tags": [
+      "community_sentiment",
+      "unconfirmed_content",
+      "retail_flagship"
+    ],
+    "confidence": 0.4
+  }
+]

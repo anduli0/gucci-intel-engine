@@ -1,0 +1,183 @@
+# 하이더 아커만 — 톰 포드
+
+2026-07-29 / CD DOSSIER / GUCCI INTELLIGENCE
+
+## 목차
+
+1. 프로필 개요
+2. 경력과 전임 하우스 성과
+3. 스타일과 미학
+4. 지향점과 철학
+5. 현 하우스에서의 행보
+6. 구찌 관점
+7. 전망
+
+## 핵심 요약
+
+하이더 아커만은 콜롬비아 태생의 프랑스 디자이너로, 관능적 드레이핑과 절제된 색채 시학으로 컬트 명성을 쌓은 뒤 2024년 9월 톰 포드의 크리에이티브 디렉터로 취임했다. 자기 이름을 건 레이블(2001–2020)과 베르루티(2016–2018)를 거치며 "상업적 규모는 작지만 비평적 존경은 큰" 디자이너의 전형이었던 그가, 처음으로 톰 포드라는 대형 관능·이브닝웨어 유산 하우스를 맡았다는 점이 이 부임의 핵심 서사다. 데뷔 폴 2025와 사포모어 SS26이 모두 비평적 호평을 받았고, 톰 포드 패션을 운영하는 제냐 그룹의 실적에서도 초기 상업 반응이 긍정적으로 확인된다[1][7][10]. 톰 포드 시대의 미학이 뎀나의 구찌를 둘러싼 비평 논쟁의 핵심 준거점으로 소환되는 지금, 아커만이 그 '원본 코드'를 어떻게 재해석하는지는 구찌 인텔리전스 관점에서 직접적 벤치마크 대상이다.
+
+## 1. 프로필 개요
+
+하이더 아커만은 1971년 3월 29일 콜롬비아 보고타에서 태어났다. 지도 제작자였던 아버지를 따라 아프리카와 유럽 등지를 옮겨 다니며 자란 다문화적 성장 배경은 이후 그의 작업 전반을 관통하는 '문화적 대비(cultural difference)' 감각의 뿌리가 된다[6][8]. 1994년 벨기에로 건너가 앤트워프 왕립예술학교 패션과에 입학했으나 1997년 과제 미완으로 제적당했는데, 이는 그의 완벽주의 기질을 보여주는 일화로 흔히 인용된다[6]. 현재 그는 톰 포드의 크리에이티브 디렉터로서 남성복·여성복·액세서리·아이웨어를 아우르는 전 패션 카테고리의 창작을 총괄한다[7].
+
+그의 위치를 한눈에 정리하면, 아커만은 오랫동안 '디자이너들의 디자이너'로 불려온 비평적 자산을 처음으로 대형 유산 하우스의 상업 엔진에 접속시킨 인물이다. 톰 포드는 에스티 로더가 브랜드 IP를 소유하고, 패션 부문은 제냐 그룹이, 아이웨어는 마르콜린이 라이선스로 운영하는 구조이며, 아커만은 이 패션 부문의 크리에이티브 총괄이다[7][11]. 즉 그의 성패는 아커만 개인의 미학뿐 아니라 제냐의 실적 라인과 직결된다는 점에서, 종전의 독립 레이블 시절과는 판이한 책임 구조 위에 서 있다.
+
+## 2. 경력과 전임 하우스 성과
+
+아커만은 존 갈리아노, 베른하르트 빌헬름 등에서 인턴 경험을 쌓은 뒤 2001년 파리 패션위크에서 자신의 이름을 건 여성복 레이블을 론칭했다[6]. 데뷔 컬렉션부터 정교한 테일러링과 드레이핑 실루엣으로 주목받았고, 2005년 벨기에 그룹 BVBA 32와 계약해 재정적 후원을 확보했다[6]. 2004년 스위스 텍스타일 어워드, 2012년 패션 그룹 인터내셔널 어워드(카를 라거펠트가 시상)를 수상하며 비평적 명성을 축적했다[8]. 다만 이 레이블은 상업적 규모를 크게 키우지 못한 채 팬데믹 국면에서 사실상 문을 닫았다[6].
+
+그의 명성은 상업 실적보다 동료들의 헌사에서 두드러진다. 라거펠트는 2010년 그를 두고 샤넬에서 자신의 "이상적 후계자"라 공언했고[8], 아커만은 2009년 마르탱 마르지엘라 후임 자리와 이후 디올 접촉 제안을 고사한 것으로 알려져 있다[8]. 즉 그는 여러 차례 대형 하우스의 유력 후보로 거론되면서도 오랫동안 독립 노선을 지킨, 이례적인 '거절의 이력'을 지닌 디자이너다.
+
+전임 대형 하우스 경험은 베르루티가 유일하다. 2016년 9월 케링 산하 남성 럭셔리 하우스 베르루티의 크리에이티브 디렉터로 합류해 2017년 1월 첫 컬렉션을 선보였고, 세 시즌 만인 2018년 3월 결별했다[2][3]. 짧은 재임이었지만 전임 알레산드로 사르토리 대비 더 나른하고 여성적인 엣지를 남성복에 도입했다는 평가가 지배적이며, 2018년 오스카 시상식에서 티모테 샬라메가 착용한 화이트 베르루티 턱시도는 이 새 무드를 대중적으로 각인시킨 순간으로 남았다[2][3]. 긍정적 반응 속에서 이뤄진 돌연한 결별이었다는 점에서, 당시 그의 퇴장은 업계에 다소 의외로 받아들여졌다[3]. 이 밖에 그는 2024년 톰 포드와 동시에 캐나다구스의 크리에이티브 디렉터로도 선임되어 아우터 카테고리 작업을 병행하고 있다[8].
+
+## 3. 스타일과 미학
+
+아커만의 시그니처는 대비의 미학이다. 실크와 레더를 병치해 부드러움과 뻣뻣함의 긴장을 만들고, 그 접점에서 관능을 끌어낸다. 비대칭 재단, 다층적 드레이핑, 바이어스 커팅으로 몸을 감싸되 노출보다 흐름을 강조하는 실루엣이 그의 핵심 문법이다[6]. 색채 운용도 특징적이어서, 절제된 블랙·화이트를 기반으로 보석 톤의 강렬한 색을 예기치 못한 위치에 배치하는 방식을 즐긴다. "그림자 밖으로 나와 색으로 자신을 표현하는 여성"이라는 그의 표현은 이 색채관을 압축한다[8].
+
+톰 포드에서 이 코드는 하우스 유산과 정면으로 만난다. 데뷔 폴 2025는 1970년대와 1990년대를 참조해 로우슬렁 레더 팬츠, 비대칭 레더 재킷, 랩어라운드 선글라스, 초하이컷 가운을 통해 '궁극의 톰 포드 여성'이 지닌 고옥탄 글래머를 재해석했다[1]. 이어진 SS26은 딥 네이비를 무대 전면에 깔고, 바이어스 새틴과 실크, 레이저 슬릿을 낸 페이턴트 레더, 와이어로 구조를 잡은 이브닝웨어를 통해 "물처럼 움직이는 관능"을 구축했으며, 애시드 그린·클라인 블루·핑크로 하우스 팔레트에 활력을 주입했다[5]. 요컨대 아커만은 톰 포드의 노골적 섹슈얼리티를 자신의 절제·레이어링 문법으로 번역해, 노출이 아니라 '감춤'을 통해 욕망을 구성하는 방향으로 이동시켰다.
+
+## 4. 지향점과 철학
+
+아커만의 디자인 철학은 옷과 감정의 관계에 대한 태도로 요약된다. 그는 착용자가 옷과 편안해질 때 비로소 더 관능적이고 매혹적이 된다는 관점을 반복해 밝혀왔다[8]. 이 태도를 읽어내며 평론가 페드로 바스콘셀로스는 도큐먼트 저널에서 그의 톰 포드를 '지적 탄트라(intellectual tantrism)'라는 언어로 규정했는데, 옷이 몸에만 머무는 감각이 아니라 마음에 오래 남는 유혹을 지향한다는 것이 이 비평의 핵심 독법이다[9].
+
+특히 그의 톰 포드는 유혹의 문법 자체를 재설계한다. 바스콘셀로스는 도큐먼트 저널에서 그의 데뷔를 "다른 종류의 퀴어니스를 좇는다"고 규정하며, 남성적 시선(male gaze)에 여전히 규정된 산업 안에서 아커만이 여성적 시선을 끌어들여 상투적 여성성을 거부한다고 분석했다[9]. 이 비평이 읽어낸 명제는 분명하다. 관능은 크게 소리칠 필요가 없고, 표면 아래에서 끓을 때 오히려 더 강력하다는 것이다[9]. 톰 포드가 노출과 과잉으로 욕망을 구성했다면, 아커만은 전략적 절제와 레이어링으로 욕망을 '더하기'로 만든다는 것이 이 관점의 요지다[9]. 브랜드 정체성에 대한 그의 접근은 따라서 모방이 아니라 재해석이다. 전임 피터 호킹스가 포드 원본의 준-복제에 머물렀다는 비판을 받은 것과 대조적으로, 아커만은 하우스 코드를 자기 언어로 다시 쓰는 데 방점을 둔다[1].
+
+## 5. 현 하우스에서의 행보
+
+톰 포드는 2022년 에스티 로더가 IP를 인수하고 제냐가 패션 부문을 운영하는 새 체제로 재편됐다[11]. 창업자 톰 포드와 도메니코 데 솔레는 2023년 말까지 브랜드 자문으로 활동했고, 그 전환기 이후인 2024년 9월 아커만이 크리에이티브 디렉터로 발표됐다[7]. 전임 피터 호킹스는 2023년 4월 톰 포드 패션 크리에이티브 디렉터로 선임됐다가[11] 2024년 9월 아커만의 선임과 함께 물러났으며, 제냐 스스로 2025년을 크리에이티브 교체로 인한 "복잡한" 해로 규정했을 만큼 하우스는 방향 재정립이 필요한 국면이었다[10].
+
+데뷔 반응은 이 불확실성을 상당 부분 잠재웠다. 2025년 3월 5일 파리에서 열린 폴 2025 데뷔쇼에는 톰 포드 본인이 기립 박수로 화답했고, 비평은 이 컬렉션이 톰 포드를 이브닝웨어와 취향의 심판자로 재확립했다고 평가했다[1]. 같은 해 10월 SS26 사포모어 컬렉션은 데뷔의 탐색적 성격을 넘어 확신과 통제를 보여줬다는 평을 받으며 비평적 모멘텀을 이어갔다[5].
+
+상업 지표에서도 초기 전환은 확인된다. 톰 포드 패션은 2025년 상반기 매출이 1억5,270만 유로로 2.8% 성장했고[10], 제냐 실적상 2026년 1분기 유기적 성장 5.4%, 2분기 매출 8,910만 유로(유기적 기준 7.1% 증가)를 기록하며 아커만 컬렉션의 인기가 성장을 뒷받침한 것으로 보고됐다[10]. 조직 측면에서는 아커만이 남성복·여성복·액세서리·아이웨어 전 카테고리와 캠페인·이미지의 크리에이티브를 총괄하되, 제냐가 컬렉션 개발부터 생산·유통까지 엔드투엔드 비즈니스를 운영하는 분업 구조가 자리 잡았다[7][11].
+
+## 6. 구찌 관점
+
+톰 포드는 구찌에게 남의 하우스이면서 동시에 자기 역사다. 톰 포드는 1990년대 구찌의 크리에이티브 디렉터로서 하우스를 관능·글래머의 정점으로 끌어올린 장본인이며, 그 '톰 포드 시대의 구찌'는 지금 뎀나 체제 구찌를 둘러싼 비평 논쟁의 핵심 준거로 소환되고 있다. 뎀나는 구찌 프리폴의 'Generation Gucci' 라인을 톰 포드 시대를 자기 렌즈로 필터링한 작업으로 설명했고, 크루즈 2027 타임스스퀘어 쇼는 이 '구찌다움' 탐구의 정점으로 제시됐다[12]. 그러나 일부 비평은 이를 "톰 포드 구찌의 짜깁기(mash-up)"로 규정하며, 참조가 파티 트릭에 그친다는 회의를 표했다[12].
+
+여기서 아커만의 존재는 이중의 벤치마크가 된다. 첫째, 그는 뎀나가 '재조립'하는 원본 코드(톰 포드 관능 유산)를 정통 계보 위에서 직접 다루는 현직 CD다. 즉 구찌가 아카이브로 소비하는 미학을, 아커만은 살아 있는 하우스의 현재형으로 운용한다. 비평이 뎀나의 톰 포드 참조를 '짜깁기'라 부를 때, 그 비교 잣대의 실물이 바로 아커만의 톰 포드라는 점에서 그는 구찌의 서사적 리스크를 증폭시키는 외부 변수다. 둘째, 아커만은 절제·지성·여성적 시선이라는 언어로 관능을 재정의하는 반면 뎀나는 스펙터클·아이러니·셀럽 동원으로 접근한다. 두 하우스가 사실상 같은 유산(포드적 관능)을 두고 상반된 방법론으로 경쟁하는 구도가 형성된 셈이다.
+
+전략적 함의는 명확하다(가설). 구찌가 톰 포드 시대를 계속 참조축으로 삼는 한, 비평은 필연적으로 아커만의 톰 포드를 '진품 대조군'으로 소환할 것이다. 구찌 인텔리전스 관점에서 아커만의 컬렉션은 이브닝웨어·관능 카테고리에서 구찌가 얼마나 원본에 근접했는지를 측정하는 사실상의 외부 기준선으로 기능하며, 특히 레드카펫·이브닝웨어 점유(SOV) 경쟁에서 직접적 위협 요인으로 모니터링할 가치가 있다.
+
+## 7. 전망
+
+향후 12개월 관전 포인트는 세 축이다(가설 라벨).
+
+첫째, 상업 전환의 지속성(가설). 데뷔·사포모어가 비평과 초기 매출을 동시에 끌어올렸으나, 톰 포드 패션의 절대 규모는 여전히 반기 1억5천만 유로대로 크지 않다[10]. 아커만의 관능 재해석이 이브닝웨어를 넘어 데일리·액세서리·아이웨어로 상업 확장되는지가 제냐 실적 라인에서 분기마다 검증될 것이다.
+
+둘째, 정체성 고착 대 확장의 균형(가설). 데뷔가 '탐색', SS26이 '확신'으로 읽힌 만큼, 세 번째·네 번째 시즌에서 아커만이 자기 절제 미학과 톰 포드의 노골적 글래머 유산 사이에서 어느 지점을 하우스의 항구적 코드로 굳히는지가 관건이다. 지나친 아커만화는 톰 포드 팬층 이탈을, 과도한 원본 회귀는 호킹스식 복제 비판의 재현을 부를 수 있다.
+
+셋째, 구찌와의 서사 교차(가설). 뎀나의 구찌가 톰 포드 참조를 이어갈수록 두 하우스는 언론과 비평의 비교 프레임에 반복적으로 함께 호명될 것이다. 아커만의 다음 이브닝웨어 쇼가 크게 호평받는 시점과 구찌의 톰 포드-인접 컬렉션이 겹칠 경우, 비교 서사가 구찌에 불리하게 작동할 수 있는 구간을 캘린더 차원에서 사전 식별해둘 필요가 있다.
+
+## 주석
+
+- 유기적 성장(organic growth): 환율·인수합병 효과를 제거하고 사업 자체의 실질 성장만 계산한 매출 증가율. 하우스의 순수 수요 흐름을 읽는 지표.
+- SOV(Share of Voice): 특정 카테고리·이벤트에서 한 브랜드가 차지하는 언론·소셜 노출 점유율. 레드카펫·이브닝웨어 경쟁 강도를 가늠하는 데 쓰인다.
+- 가설 라벨: 본 섹션의 전망은 공개 실적·비평 반응에 근거한 분석적 추정으로, 확정된 사실이 아니라 관전 시나리오다.
+
+## 출처
+
+[1] WWD — 톰 포드 폴 2025 아커만 데뷔쇼 리뷰(관능·1970·90년대 참조) — https://wwd.com/runway/fall-2025/paris/tom-ford/review/
+[2] Hypebeast — 아커만 베르루티 퇴임 보도 — https://hypebeast.com/2018/3/haider-ackermann-leaves-berluti
+[3] Business of Fashion — 아커만 베르루티 세 시즌 만의 결별 분석 — https://www.businessoffashion.com/articles/news-analysis/haider-ackermann-exits-berluti/
+[4] W Magazine — 아커만 톰 포드 폴 2025 데뷔 컬렉션 화보·설명 — https://www.wmagazine.com/fashion/tom-ford-haider-ackermann-fall-2025-collection-photos
+[5] Hypebeast — 톰 포드 SS26 파리 컬렉션(딥 네이비·바이어스·색채) — https://hypebeast.com/2025/10/haider-ackermann-tom-ford-ss26-paris-fashion-week-collection
+[6] Grokipedia — 아커만 약력(출생·앤트워프·자기 레이블·수상) — https://grokipedia.com/page/Haider_Ackermann
+[7] The Estée Lauder Companies — 아커만 톰 포드 CD 선임 공식 발표(카테고리 총괄) — https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2024/09-05-24
+[8] Wikipedia — 아커만 경력 연표(라거펠트 후계 언급·수상·캐나다구스) — https://en.wikipedia.org/wiki/Haider_Ackermann
+[9] Document Journal — 아커만 톰 포드의 '다른 퀴어니스'·지적 탄트라 분석(페드로 바스콘셀로스) — https://www.documentjournal.com/2025/03/haider-ackermanns-tom-ford-is-after-a-different-kind-of-queerness/
+[10] WWD — 제냐 그룹 실적 보도(톰 포드 패션 매출·유기적 성장) — https://wwd.com/business-news/financial/ermenegildo-zegna-group-q2-double-digit-revenue-growth-1239079943/
+[11] The Estée Lauder Companies — 톰 포드 브랜드 리더십·제냐·마르콜린 라이선스 구조(호킹스 2023년 4월 선임) — https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2023/04-28-2023-173011791
+[12] WWD — 구찌 크루즈 2027(뎀나의 톰 포드 시대 참조·비평 반응) — https://wwd.com/fashion-news/fashion-features/gucci-demna-new-york-cruise-interview-1238957468/
+
+<!-- ===== ENGLISH EDITION ===== -->
+
+# Haider Ackermann — Tom Ford
+
+2026-07-29 / CD DOSSIER / GUCCI INTELLIGENCE
+
+## Table of Contents
+
+1. Profile Overview
+2. Career and Track Record at Prior Houses
+3. Style and Aesthetic
+4. Vision and Philosophy
+5. Tenure at the Current House
+6. Gucci Perspective
+7. Outlook
+
+## Executive Summary
+
+Haider Ackermann is a Colombian-born French designer who built a cult critical reputation on sensual draping and restrained color poetics before being named Creative Director of Tom Ford in September 2024. Across his eponymous label (2001-2020) and a brief stint at Berluti (2016-2018), he was long the archetype of a designer with "small commercial scale but large critical respect" — which makes his appointment to Tom Ford, a large-scale sensual eveningwear heritage house, a genuinely new chapter. Both his debut Fall 2025 collection and sophomore SS26 collection were critically well received, and early commercial reaction has been confirmed as positive in the results of Zegna Group, which operates Tom Ford Fashion[1][7][10]. With the Tom Ford era's aesthetic now serving as the central reference point in critical debates surrounding Demna's Gucci, how Ackermann reinterprets that "original code" is a direct benchmark from a Gucci intelligence standpoint.
+
+## 1. Profile Overview
+
+Haider Ackermann was born on March 29, 1971, in Bogotá, Colombia. Raised across Africa and Europe while following his cartographer father, this multicultural upbringing became the root of the sense of "cultural difference" that runs through his entire body of work[6][8]. In 1994 he moved to Belgium to study fashion at the Royal Academy of Fine Arts in Antwerp, but was expelled in 1997 for failing to complete an assignment — an episode often cited as evidence of his perfectionist temperament[6]. He now serves as Creative Director of Tom Ford, overseeing creative direction across the full fashion category spanning menswear, womenswear, accessories, and eyewear[7].
+
+Taken together, Ackermann is the first figure to connect the critical capital he built over decades as a "designer's designer" to the commercial engine of a major heritage house. Tom Ford's brand IP is owned by Estée Lauder, while the fashion division is operated under license by Zegna Group and eyewear by Marcolin; Ackermann serves as creative head of the fashion division[7][11]. This means his success or failure is tied directly to Zegna's earnings line, not just his personal aesthetic — placing him on a fundamentally different accountability structure than during his years running an independent label.
+
+## 2. Career and Track Record at Prior Houses
+
+After gaining internship experience under John Galliano and Bernhard Willhelm, among others, Ackermann launched his own eponymous womenswear label at Paris Fashion Week in 2001[6]. From his debut collection he drew attention for intricate tailoring and draped silhouettes, and in 2005 he signed with the Belgian group BVBA 32 to secure financial backing[6]. He accumulated critical prestige with the Swiss Textile Award in 2004 and the Fashion Group International Award (presented by Karl Lagerfeld) in 2012[8]. However, the label never scaled significantly in commercial terms and effectively closed during the pandemic period[6].
+
+His reputation has always stood out more in peer tributes than in commercial results. Lagerfeld declared him his "ideal successor" at Chanel in 2010[8], and Ackermann is known to have turned down the role of successor to Martin Margiela in 2009 as well as a later approach from Dior[8]. In other words, he was repeatedly floated as a leading candidate for major houses while maintaining an unusually long independent streak — an atypical "history of declining offers."
+
+His only prior experience at a major heritage house was Berluti. He joined the Kering-owned menswear luxury house as Creative Director in September 2016, presented his first collection in January 2017, and departed after just three seasons in March 2018[2][3]. Though brief, his tenure is widely credited with introducing a more languid, feminine edge to menswear compared to predecessor Alessandro Sartori, and the white Berluti tuxedo worn by Timothée Chalamet at the 2018 Oscars remains the moment that publicly cemented this new mood[2][3]. Because the split came amid generally positive reception, his exit was seen at the time as somewhat unexpected within the industry[3]. Separately, he was named Creative Director of Canada Goose simultaneously with his Tom Ford appointment in 2024, and continues to work in parallel across both outerwear and Tom Ford categories[8].
+
+## 3. Style and Aesthetic
+
+Ackermann's signature is an aesthetics of contrast. He juxtaposes silk and leather to create tension between softness and stiffness, drawing sensuality out of that friction point. Asymmetric cutting, layered draping, and bias cuts that wrap the body while emphasizing flow over exposure form the core grammar of his work[6]. His use of color is equally distinctive: against a restrained base of black and white, he favors placing jewel-toned, intense color in unexpected places. His own description — "a woman who steps out of the shadows and expresses herself through color" — condenses this color philosophy[8].
+
+At Tom Ford, this vocabulary meets the house's heritage head-on. His debut Fall 2025 collection referenced the 1970s and 1990s, reinterpreting the high-octane glamour of the "ultimate Tom Ford woman" through low-slung leather pants, asymmetric leather jackets, wraparound sunglasses, and extremely high-cut gowns[1]. The following SS26 collection laid deep navy across the runway and built "sensuality that moves like water" through bias-cut satin and silk, laser-slit patent leather, and wire-structured eveningwear, while injecting the house palette with acid green, Klein blue, and pink[5]. In short, Ackermann has translated Tom Ford's overt sexuality into his own grammar of restraint and layering, shifting the construction of desire from exposure toward "concealment."
+
+## 4. Vision and Philosophy
+
+Ackermann's design philosophy can be summarized as an attitude toward the relationship between clothing and emotion. He has repeatedly stated his view that a wearer becomes more sensual and captivating only once they feel at ease with the clothing they wear[8]. Reading this attitude, critic Pedro Vasconcelos characterized his Tom Ford in Document Journal using the term "intellectual tantrism" — the core reading being that the clothing aims not merely for a sensation that stays on the body, but for a seduction that lingers in the mind[9].
+
+In particular, his Tom Ford redesigns the very grammar of seduction. Vasconcelos, writing in Document Journal, characterized his debut as pursuing "a different kind of queerness," analyzing that within an industry still defined by the male gaze, Ackermann draws in a feminine gaze that rejects conventional femininity[9]. The thesis this criticism draws out is clear: sensuality need not shout, and is in fact more powerful when it simmers beneath the surface[9]. Where Tom Ford constructed desire through exposure and excess, Ackermann turns desire into an act of "addition" through strategic restraint and layering[9]. His approach to brand identity is therefore one of reinterpretation rather than imitation. In contrast to predecessor Peter Hawkings, who was criticized for staying at the level of a quasi-replica of the Ford original, Ackermann places his emphasis on rewriting the house's codes in his own language[1].
+
+## 5. Tenure at the Current House
+
+Tom Ford was reorganized in 2022 into a new structure in which Estée Lauder acquired the brand IP while Zegna operates the fashion division[11]. Founder Tom Ford and Domenico De Sole served as brand advisors through the end of 2023, and following that transition period Ackermann was announced as Creative Director in September 2024[7]. Predecessor Peter Hawkings had been named Creative Director of Tom Ford Fashion in April 2023[11] and stepped down when Ackermann's appointment was announced in September 2024; Zegna itself characterized 2025 as a "complex" year owing to the creative transition, underscoring that the house was at a point requiring a reset of direction[10].
+
+The debut reception largely dispelled this uncertainty. At the Fall 2025 debut show held in Paris on March 5, 2025, Tom Ford himself responded with a standing ovation, and critics assessed that the collection re-established Tom Ford as an arbiter of eveningwear and taste[1]. The SS26 sophomore collection that October moved beyond the exploratory character of the debut, earning praise for demonstrating confidence and control, and sustained the critical momentum[5].
+
+Early signs of a commercial turn are also confirmed. Tom Ford Fashion posted first-half 2025 revenue of 152.7 million euros, up 2.8%[10], and Zegna's results reported organic growth of 5.4% in Q1 2026 and Q2 revenue of 89.1 million euros (up 7.1% organically), with the popularity of Ackermann's collections cited as underpinning the growth[10]. Organizationally, a division of labor has taken hold in which Ackermann oversees creative direction across all categories — menswear, womenswear, accessories, eyewear — as well as campaigns and imagery, while Zegna runs the end-to-end business from collection development through production and distribution[7][11].
+
+## 6. Gucci Perspective
+
+Tom Ford is simultaneously someone else's house and Gucci's own history. Tom Ford was Gucci's Creative Director in the 1990s, the figure who elevated the house to the pinnacle of sensuality and glamour, and that "Tom Ford-era Gucci" is now being summoned as the central reference point in critical debates surrounding the current Demna-led Gucci. Demna has described Gucci's pre-fall "Generation Gucci" line as work that filters the Tom Ford era through his own lens, and the Cruise 2027 Times Square show was presented as the culmination of this exploration of "Gucci-ness"[12]. Some criticism, however, has characterized this as a "mash-up of Tom Ford-era Gucci," expressing skepticism that the referencing amounts to little more than a party trick[12].
+
+Here, Ackermann's presence functions as a dual benchmark. First, he is the sitting Creative Director who handles, on a legitimate lineage, the very original code — Tom Ford's sensual heritage — that Demna is "reassembling." In other words, what Gucci consumes as archive, Ackermann operates as the living present tense of an active house. When critics call Demna's Tom Ford references a "mash-up," the tangible yardstick behind that comparison is Ackermann's own Tom Ford — making him an external variable that amplifies Gucci's narrative risk. Second, Ackermann redefines sensuality through a vocabulary of restraint, intellect, and the feminine gaze, whereas Demna approaches it through spectacle, irony, and celebrity mobilization. The result is effectively a competitive structure in which two houses draw on the same heritage — Ford-era sensuality — through opposing methodologies.
+
+The strategic implication is clear (hypothesis). As long as Gucci continues to use the Tom Ford era as a reference axis, critics will inevitably summon Ackermann's Tom Ford as the "authentic control group." From a Gucci intelligence standpoint, Ackermann's collections function as a de facto external baseline for measuring how close Gucci comes to the original in the eveningwear and sensuality category, and are worth monitoring as a direct threat factor especially in red-carpet and eveningwear share-of-voice (SOV) competition.
+
+## 7. Outlook
+
+There are three axes worth watching over the next 12 months (hypothesis label).
+
+First, the durability of the commercial turnaround (hypothesis). While the debut and sophomore collections lifted both critical reception and early sales simultaneously, Tom Ford Fashion's absolute scale remains modest at roughly 150 million euros per half-year[10]. Whether Ackermann's reinterpretation of sensuality expands commercially beyond eveningwear into daily wear, accessories, and eyewear will be tested quarter by quarter in Zegna's earnings line.
+
+Second, the balance between identity consolidation and expansion (hypothesis). Given that the debut read as "exploration" and SS26 read as "conviction," the key question is where Ackermann settles as the house's permanent code in his third and fourth seasons — between his own aesthetic of restraint and Tom Ford's overt glamour heritage. Excessive "Ackermannization" risks alienating the existing Tom Ford fan base, while excessive reversion to the original risks reviving the Hawkings-era criticism of mere replication.
+
+Third, narrative intersection with Gucci (hypothesis). The more Demna's Gucci continues to reference the Tom Ford era, the more repeatedly the two houses will be summoned together within press and critical comparison frameworks. Should a highly acclaimed Ackermann eveningwear show coincide on the calendar with a Tom Ford-adjacent Gucci collection, the resulting comparative narrative could work against Gucci — a window worth identifying in advance at the calendar-planning level.
+
+## Notes
+
+- Organic growth: A revenue growth rate calculated after stripping out currency and M&A effects, isolating the real underlying growth of the business itself. A gauge of a house's genuine demand trajectory.
+- SOV (Share of Voice): The share of press and social media exposure a brand captures within a given category or event. Used here to gauge the intensity of competition in red-carpet and eveningwear coverage.
+- Hypothesis label: The outlook in this section is an analytical projection grounded in public results and critical reception, not a confirmed fact — it should be read as a scenario to watch.
+
+## Sources
+
+[1] WWD — Review of Ackermann's Tom Ford Fall 2025 debut show (sensuality, 1970s/90s references) — https://wwd.com/runway/fall-2025/paris/tom-ford/review/
+[2] Hypebeast — Report on Ackermann's departure from Berluti — https://hypebeast.com/2018/3/haider-ackermann-leaves-berluti
+[3] Business of Fashion — Analysis of Ackermann's three-season exit from Berluti — https://www.businessoffashion.com/articles/news-analysis/haider-ackermann-exits-berluti/
+[4] W Magazine — Photos and description of Ackermann's Tom Ford Fall 2025 debut collection — https://www.wmagazine.com/fashion/tom-ford-haider-ackermann-fall-2025-collection-photos
+[5] Hypebeast — Tom Ford SS26 Paris collection (deep navy, bias cuts, color) — https://hypebeast.com/2025/10/haider-ackermann-tom-ford-ss26-paris-fashion-week-collection
+[6] Grokipedia — Ackermann biography (birth, Antwerp, eponymous label, awards) — https://grokipedia.com/page/Haider_Ackermann
+[7] The Estée Lauder Companies — Official announcement of Ackermann's appointment as Tom Ford CD (category oversight) — https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2024/09-05-24
+[8] Wikipedia — Timeline of Ackermann's career (Lagerfeld succession mention, awards, Canada Goose) — https://en.wikipedia.org/wiki/Haider_Ackermann
+[9] Document Journal — Analysis of Ackermann's Tom Ford as pursuing "a different kind of queerness" / intellectual tantrism (Pedro Vasconcelos) — https://www.documentjournal.com/2025/03/haider-ackermanns-tom-ford-is-after-a-different-kind-of-queerness/
+[10] WWD — Report on Zegna Group earnings (Tom Ford Fashion revenue, organic growth) — https://wwd.com/business-news/financial/ermenegildo-zegna-group-q2-double-digit-revenue-growth-1239079943/
+[11] The Estée Lauder Companies — Tom Ford brand leadership, Zegna/Marcolin licensing structure (Hawkings' April 2023 appointment) — https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2023/04-28-2023-173011791
+[12] WWD — Gucci Cruise 2027 (Demna's Tom Ford-era references, critical reaction) — https://wwd.com/fashion-news/fashion-features/gucci-demna-new-york-cruise-interview-1238957468/
