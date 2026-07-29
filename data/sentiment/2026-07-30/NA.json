@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NA-2026-07-30-001",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Bloomberg reports Q2 decline narrowing beyond consensus and a record single-day 15% stock jump, independent quantified market reaction.",
+    "signal_tags": ["earnings", "market_reaction", "quantified_data", "T1"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-07-30-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Confirmatory factual earnings recap balancing a sales beat against a 12th straight quarterly decline, store closures, and analyst caution on H2.",
+    "signal_tags": ["earnings", "factual_recap", "turnaround_plan"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-07-30-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified data showing NA sales +9%, region outperforming globally, plus favorable analyst (JPMorgan) reception.",
+    "signal_tags": ["earnings", "regional_outperformance", "analyst_commentary", "quantified_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-07-30-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Favorable trade-press (WWD) factual recap of revenue and margin improvement and leather goods return to growth, largely statistical rather than deeply evaluative.",
+    "signal_tags": ["earnings", "trade_press", "product_launch"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-07-30-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure wire syndication of the same earnings story with no independent evaluation, notable only for reach into mainstream local US news.",
+    "signal_tags": ["syndication", "reach_indicator", "factual"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-07-30-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Underlying forum thread content was inaccessible (403); only a meta-description of mixed pricing complaints and craftsmanship comparisons is available, insufficient to support forced polarity.",
+    "signal_tags": ["community", "inaccessible_content", "low_confidence"],
+    "confidence": 0.3
+  }
+]
