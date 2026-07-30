@@ -1,0 +1,152 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-07-31",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "케링 실적 발표 후속 분석 확산 — '깨지기 쉬운 회복'이라는 평가 다수",
+      "summary": "케링의 2분기 실적 발표 이후 RetailDetail 등 매체들이 구찌의 회복을 '깨지기 쉬운(fragile) 회복'으로 규정하는 후속 분석을 냈다. 구찌는 12분기 연속 매출 감소를 기록 중이며, 개선은 감소폭 축소일 뿐 플러스 성장 전환은 아니라는 점이 반복 강조됐다.",
+      "url": "https://www.retaildetail.eu/news/fashion/kering-breathes-a-sigh-of-relief-gucci-on-track-for-a-fragile-recovery/",
+      "source": "RetailDetail EU",
+      "tier": "T2",
+      "published_at": "2026-07-30",
+      "why_it_matters": "언론의 톤이 '서프라이즈 랠리'에서 '조심스러운 안도'로 옮겨가고 있다는 점은, 12분기 연속 역성장이라는 근본 사실이 아직 해소되지 않았음을 상기시킨다.",
+      "why_it_matters_en": "Coverage tone is shifting from surprise-rally to cautious relief, a reminder that the underlying fact of twelve straight quarters of sales decline has not actually reversed.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "구찌 매출, 12분기 연속 감소에도 컨센서스 상회 — 미국 신규 핸드백 수요가 견인",
+      "summary": "구찌 2분기 매출은 14억 유로(비교 기준 -2%)로 컨센서스(-3.3%~-4% 예상)를 상회했다. 미국 시장의 신규 핸드백 라인 수요가 부분적으로 다른 지역의 부진을 상쇄했다고 보도됐다.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/kering-sees-signs-of-progress-in-curbing-sales-declines-at-gucci",
+      "source": "Bloomberg",
+      "tier": "T1",
+      "published_at": "2026-07-28",
+      "why_it_matters": "신규 백 라인이 성과를 내고 있다는 것은 뎀나 체제 제품 전략이 작동한다는 첫 증거이나, 여전히 매출 자체는 마이너스라는 사실이 가려져서는 안 된다.",
+      "why_it_matters_en": "New bag-line demand is the first evidence Demna's product strategy is working, but this should not obscure that overall sales remain negative.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "애널리스트, '데 메오의 부채 정리 다음은 구찌 자체 턴어라운드'라고 진단",
+      "summary": "로이터 분석은 데 메오가 케링의 부채 문제(순부채 약 105억 유로에서 약 80억 유로로 축소)를 상당 부분 해결했으나, 이제 진짜 과제인 구찌 자체 브랜드 턴어라운드가 남아있다고 짚었다. 뷰티 사업 매각(로레알, 40억 유로)과 뉴욕·밀라노 부동산 매각(약 15억 유로)이 부채 축소의 핵심이었다.",
+      "url": "https://www.investing.com/news/stock-market-news/analysisafter-tackling-kerings-debt-problems-de-meo-faces-the-gucci-challenge-4611656",
+      "source": "Reuters (via Investing.com)",
+      "tier": "T1",
+      "published_at": "2026-07-30",
+      "why_it_matters": "구찌의 최근 실적 개선은 브랜드 자체의 상품력 회복보다 그룹 차원의 재무 구조조정(자산 매각)이 만든 여유 공간에 더 크게 기대고 있다는 점을 재확인한다.",
+      "why_it_matters_en": "Gucci's recent improvement is confirmed to lean more on group-level financial restructuring (asset sales) than on the brand's own product recovery.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "financial_analysis",
+      "headline": "케링, 상반기 매장 순폐점 84개로 연간 목표(100개) 초과 달성 궤도",
+      "summary": "케링은 2026년 상반기 동안 84개의 매장을 순폐점해 연간 목표치 100개 폐점을 앞당겨 달성할 것으로 보인다고 보도됐다. 구찌를 포함한 매장망 최적화가 계획보다 빠르게 진행 중이다.",
+      "url": "https://us.fashionnetwork.com/news/Cruise-2026-marks-new-era-for-gucci-as-demna-gvasalia-prepares-to-take-lead,1731038.html",
+      "source": "FashionNetwork USA",
+      "tier": "T2",
+      "published_at": "2026-07-30",
+      "why_it_matters": "공격적인 매장 축소는 수익성 개선에는 도움이 되지만, 물리적 매장망이 줄어드는 동안 브랜드 노출과 신규 고객 접점도 함께 줄어드는 트레이드오프가 있다.",
+      "why_it_matters_en": "Aggressive store closures help margins but trade off physical brand presence and new-customer touchpoints while the network shrinks.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "뎀나의 첫 '완전한' 컬렉션 '프리마베라', 평단 반응 극과 극",
+      "summary": "뎀나가 연출한 구찌 2026 F/W '프리마베라' 컬렉션에 대한 비평이 계속 갈리고 있다. 일부는 톰 포드 시대를 연상시키는 선명하고 상업적인 아이덴티티라 평가하는 반면, 다른 평론가들은 '진짜 창의적 도약이라기보다 세련된 오마주'라 지적하며 번스타인은 10점 만점에 7.6점을 매겼다.",
+      "url": "https://wwd.com/fashion-news/fashion-features/demna-gucci-industry-experts-react-first-collection-1238213131/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-29",
+      "why_it_matters": "판매 지표는 개선됐지만 크리에이티브 평단의 반응은 여전히 엇갈린다는 사실은, 매출 반등이 뎀나의 비전에 대한 확신보다 가격·유통 조정에 더 기인했을 가능성을 시사한다.",
+      "why_it_matters_en": "Sales metrics improved while critical reception stays split, suggesting the sales bounce may owe more to pricing/distribution fixes than to conviction in Demna's creative vision.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "legal",
+      "headline": "구찌, 코티와의 뷰티 라이선스 소송 조기 종결 — 로레알 이전 마무리 국면",
+      "summary": "코티가 구찌 뷰티 라이선스를 계약 종료 1년 앞당겨(2027년 중반) 약 4억 달러를 받고 케링에 반환하는 합의가 7월 초 성사됐으며, 이와 관련된 모든 소송이 상호 종결됐다는 내용의 업계 분석이 이번 주까지 이어졌다.",
+      "url": "https://www.thefashionlaw.com/future-of-luxury-licensing-gucci-beauty-deal/",
+      "source": "The Fashion Law",
+      "tier": "T2",
+      "published_at": "2026-07-29",
+      "why_it_matters": "뷰티 라이선스 분쟁 종결로 구찌는 브랜드 전체 프리미엄 재포지셔닝 전략에서 뷰티까지 더 강하게 통제할 수 있게 됐으나, 로레알 체제 전환에는 여전히 실행 리스크가 남아있다.",
+      "why_it_matters_en": "Resolving the beauty licensing dispute gives Gucci tighter control over beauty within its premium repositioning, but execution risk remains in the handover to L'Oréal.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "trend",
+      "headline": "구찌 신규 핸드백 라인, 북미서 견인차 역할 — 편집숍·리세일 언급 증가",
+      "summary": "업계 리포트에 따르면 구찌의 신규 백 라인(보르세토 등)이 2026년 편집숍과 온라인 판매 언급에서 존재감을 넓히고 있으며, GG 마르몽·디오니소스 등 클래식 라인은 여전히 최다 판매·최다 검색 품목 자리를 지키고 있다.",
+      "url": "https://mygemma.com/blogs/news/best-gucci-bags",
+      "source": "myGemma (업계 리테일 분석)",
+      "tier": "T2",
+      "published_at": "2026-07-25",
+      "why_it_matters": "신제품이 화제성을 얻고 있지만 실제 매출을 이끄는 것은 여전히 오래된 클래식 라인이라는 점은, 뎀나표 신제품이 상업적 검증을 완전히 마치지 못했음을 뜻한다.",
+      "why_it_matters_en": "New products are gaining buzz, but classic lines still drive actual volume, indicating Demna-era new products have not yet fully proven themselves commercially.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "프란체스카 벨레티니, 구찌 신임 회장 겸 CEO로 확정",
+      "summary": "케링은 벨레티니를 구찌의 새 회장 겸 CEO로 확정했다. 이는 2년 내 네 번째 구찌 CEO 교체로, 전임 스테파노 칸티노 체제를 대체한다.",
+      "url": "https://wwd.com/business-news/human-resources/gucci-ceo-francesca-bellettini-confirmed-1238159856/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2025-06-01",
+      "why_it_matters": "리더십 불안정성(2년 내 CEO 4명 교체)은 구찌의 근본적 조직 리스크로 남아있으며, 벨레티니의 생 로랑 시절 트랙레코드가 구찌에서도 통할지가 관건이다.",
+      "why_it_matters_en": "Leadership instability (four CEOs in two years) remains a structural risk for Gucci; whether Bellettini's Saint Laurent track record translates is the open question.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "creative_director",
+      "headline": "뎀나 그바살리아, 구찌 아티스틱 디렉터로 공식 취임",
+      "summary": "발렌시아가에서 케링 자매 브랜드인 구찌로 이동한 뎀나가 아티스틱 디렉터로 공식 임명됐다. 첫 컬렉션은 2025년 9월 밀라노에서 발표됐다.",
+      "url": "https://www.globenewswire.com/fr/news-release/2025/03/13/3042482/0/en/Kering-Demna-appointed-Artistic-Director-of-Gucci.html",
+      "source": "GlobeNewswire (Kering official)",
+      "tier": "T1",
+      "published_at": "2025-03-13",
+      "why_it_matters": "구찌 턴어라운드 전체가 뎀나의 크리에이티브 방향에 걸려 있으며, 이번 분기 실적 개선이 그 베팅이 옳았음을 보여주는 첫 증거로 읽히고 있다.",
+      "why_it_matters_en": "Gucci's entire turnaround is staked on Demna's creative direction, and this quarter's improvement is being read as the first evidence the bet is paying off.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "pricing",
+      "headline": "구찌, '그리드플레이션' 시정 나서 — 신제품 실질 가격 인하",
+      "summary": "구찌 CEO 프란체스카 벨레티니는 신제품이 '경쟁력 있는 가격'으로 책정됐으며 일부 품목은 '리포지셔닝'됐다고 밝혔다. 파리 매장에서는 클래식 재키백보다 축소되고 저렴한 버전(2000유로 미만, 기존 3200유로 대비)이 계산대 근처에 진열됐다.",
+      "url": "https://www.businessoffashion.com/articles/luxury/gucci-demna-pricing-strategy/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-07-29",
+      "why_it_matters": "그동안 시장에서 비판받아온 '그리드플레이션(과도한 가격 인상)' 전략을 공식적으로 되돌리는 신호로, 브랜드가 접근성과 프리미엄 포지셔닝 사이 균형을 재조정하고 있음을 보여준다.",
+      "why_it_matters_en": "This is an official signal that Gucci is walking back the market-criticized 'greedflation' pricing strategy, rebalancing between accessibility and premium positioning.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "구찌, 캘리포니아서 중재 수수료 미납 관련 소송 리스크 노출",
+      "summary": "한 소비자가 구찌를 상대로 중재를 신청했으나 회사가 중재 수수료를 제때 납부하지 않아 캘리포니아 샌프란시스코 고등법원으로 사건이 이관, 제재 및 집단소송 가능성이 제기됐다는 보도가 있다. 쿠키 오용을 통한 개인정보 침해 주장도 포함됐다.",
+      "url": "https://dailyjournal.com/article/384881-gucci-s-alleged-arbitration-misstep-opens-door-to-court-battle",
+      "source": "Daily Journal",
+      "tier": "T2",
+      "published_at": null,
+      "why_it_matters": "절차적 실수로 보이는 사안이지만 개인정보 관련 집단소송으로 확대될 경우 매출 회복 국면에서 불필요한 법적/평판 리스크가 될 수 있다.",
+      "why_it_matters_en": "A seemingly procedural misstep could escalate into a privacy-related class action, an unwanted legal and reputational risk during a fragile sales recovery.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

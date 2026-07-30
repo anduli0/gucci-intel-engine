@@ -1,0 +1,152 @@
+{
+  "brand_group": "LVMH",
+  "date": "2026-07-31",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "LVMH",
+      "event_type": "earnings",
+      "headline": "LVMH 상반기 매출 386억 유로, 패션·가죽 부문 회복은 제한적",
+      "summary": "LVMH의 2026년 상반기 매출은 386억 유로로 유기적 성장률 3%(중동 분쟁 영향 제외 시 4%)를 기록했다. 핵심 수익원인 패션·가죽제품 부문(루이비통·디올 포함)은 유기적 성장 1%에 그쳐 시장 예상치(1.52%)를 밑돌았고, 영업이익률은 22.5%로 여전히 높은 수준을 유지했다.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/lvmh-fashion-unit-s-return-to-growth-held-back-by-iran-war",
+      "source": "Bloomberg",
+      "tier": "T1",
+      "published_at": "2026-07-27",
+      "why_it_matters": "루이비통·디올의 저성장은 구찌가 속한 케어링 그룹의 회복 경쟁에서 상대적 압박이 줄어드는 신호이나, 시계·주얼리 부문의 강세는 구찌가 아직 진출하지 않은 카테고리 다각화의 이점을 보여준다",
+      "why_it_matters_en": "Soft fashion/leather growth at LV and Dior slightly eases relative competitive pressure on Gucci, but LVMH's watch and jewelry strength shows the payoff of category diversification Gucci still lacks",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "earnings",
+      "headline": "아르노 회장 '2026년은 회복 아니면 파국' 발언, 중동 리스크 지목",
+      "summary": "베르나르 아르노 LVMH 회장은 주주들에게 2026년이 '회복 아니면 파국'으로 끝날 것이라며, 모델링이 불가능한 핵심 변수로 중동 분쟁을 지목했다. 워치&주얼리 부문은 유기적 매출 11% 성장으로 그룹 내 최고 성장 사업부가 됐다.",
+      "url": "https://btb.sg/lvmhs-arnault-lays-out-two-futures-for-luxury-in-2026-neither-is-certain/",
+      "source": "Beyond The Boardroom",
+      "tier": "T2",
+      "published_at": "2026-07-27",
+      "why_it_matters": "업계 최대 그룹 수장의 불확실성 인정 발언은 럭셔리 전반의 수요 회복이 아직 확정적이지 않음을 시사하며, 구찌의 턴어라운드 전략도 거시 리스크에 계속 노출돼 있음을 보여준다",
+      "why_it_matters_en": "The industry's largest group chairman admitting deep uncertainty signals luxury-wide demand recovery is not yet secured, meaning Gucci's own turnaround remains exposed to the same macro risk",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Dior",
+      "event_type": "earnings",
+      "headline": "크리스챤 디올 반기보고서 공시, 영업이익률 22.5% 유지",
+      "summary": "크리스챤 디올(Christian Dior SE)은 2026년 6월 30일 기준 반기 재무보고서를 7월 30일 공시했다. 상반기 영업이익은 87억 유로, 영업이익률 22.5%를 기록했으며, 도쿄 뱀부 파빌리온과 오사카 신규 매장 오픈이 반기 하이라이트로 꼽혔다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/30/3335813/0/en/Christian-Dior-notice-of-availability-of-the-half-yearly-financial-report-as-of-June-30-2026.html",
+      "source": "GlobeNewswire",
+      "tier": "T1",
+      "published_at": "2026-07-30",
+      "why_it_matters": "디올의 견조한 이익률과 아시아 매장 확장은 구찌의 마진 회복 목표에 대한 직접적 벤치마크가 되며, 특히 일본 시장에서의 공격적 출점은 구찌의 지역 전략 재검토 필요성을 시사한다",
+      "why_it_matters_en": "Dior's resilient margin and Asia store expansion are a direct benchmark for Gucci's own margin-recovery goals, and its aggressive Japan footprint growth signals Gucci may need to revisit its regional retail strategy",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Dior",
+      "event_type": "controversy",
+      "headline": "테일러 스위프트 웨딩드레스 논란 속 디올 쿠튀르, 화제성으로 미디어 가치 1500만달러 창출",
+      "summary": "조나단 앤더슨이 이끄는 디올은 7월 6일 파리 로댕미술관에서 2026 가을 오트쿠튀르 컬렉션을 발표했다. 테일러 스위프트와 트래비스 켈시의 결혼식에서 커스텀 디올 쿠튀르 착용 사실이 공개되며 7월 4일 연휴 기간 화제성이 폭발, 1500만달러 상당의 미디어 임팩트 가치를 만들어냈다.",
+      "url": "https://wwd.com/runway/fall-couture-2026/paris/christian-dior/review/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-06",
+      "why_it_matters": "이는 디올의 자체 캠페인이 아닌 유명인 착용을 통한 유기적 노출이라는 점에서 구찌가 벤치마크할 만한 '통제 불가능한 화제성' 사례이나, 이런 우연적 버즈는 반복 가능한 전략이 아니라는 한계도 있다",
+      "why_it_matters_en": "This is organic celebrity exposure rather than a paid Dior campaign, making it a benchmark case of unscripted buzz Gucci could envy, but such serendipitous virality is not a repeatable strategy",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Loewe",
+      "event_type": "campaign",
+      "headline": "로에베, 데이빗 존슨을 신규 앰버서더로 발탁하며 블랙팬서 공개 앞두고 협업",
+      "summary": "로에베는 7월 27일 배우 데이빗 존슨을 새로운 브랜드 앰버서더로 발표했다. 잭 맥컬로우와 라자로 에르난데스가 이끄는 크리에이티브 체제 하에서 셀럽 앰버서더 라인업을 확장하는 행보다.",
+      "url": "https://www.redcarpet-fashionawards.com/2026/07/27/david-jonsson-named-loewe-ambassador-ahead-of-black-panther-reveal/",
+      "source": "Red Carpet Fashion Awards",
+      "tier": "T2",
+      "published_at": "2026-07-27",
+      "why_it_matters": "로에베의 새 크리에이티브 듀오 체제가 앰버서더 마케팅으로 빠르게 모멘텀을 구축 중이며, 구찌의 셀럽 앰버서더 전략 갱신 속도와 비교할 필요가 있다",
+      "why_it_matters_en": "Loewe's new creative duo is quickly building momentum via ambassador marketing, a pace worth comparing against how fast Gucci refreshes its own celebrity ambassador roster",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Fendi",
+      "event_type": "shows",
+      "headline": "마리아 그라치아 키우리, 펜디 첫 쿠튀르 컬렉션을 로마에서 발표",
+      "summary": "펜디는 7월 21일 로마에서 마리아 그라치아 키우리의 첫 2026 가을 오트쿠튀르 컬렉션을 선보였다. 로마의 상징적 인테리어와 유적을 배경으로 한 캠페인 이미지도 함께 공개되며 브랜드의 새로운 챕터를 알렸다.",
+      "url": "https://wwd.com/fashion-news/designer-luxury/fendi-maria-grazia-chiuri-new-chapter-fendi-1238617354/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-21",
+      "why_it_matters": "키우리의 펜디 데뷔는 디올 이후 그녀의 두 번째 하우스 안착을 알리는 신호로, 크리에이티브 디렉터의 브랜드 간 이동이 LVMH 포트폴리오 전반에 계속되고 있어 구찌의 드멘나 체제 안정성과 비교되는 참고점이다",
+      "why_it_matters_en": "Chiuri's Fendi debut marks her second major house landing after Dior, and continued creative-director shuffling across LVMH's portfolio is a useful reference point against the stability of Gucci's own Demna era",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Givenchy",
+      "event_type": "launch",
+      "headline": "지방시, 랑땅디 엘릭시르 신규 향수 출시",
+      "summary": "지방시는 2018년 랑땅디의 플랭커로 '랑땅디 엘릭시르'를 출시했다. 블랙체리와 화이트 플라워 부케를 조합한 플로럴 우디 구르망 향으로, 기존 대비 더 강렬하고 관능적인 버전으로 소개됐다.",
+      "url": "https://nstperfume.com/2026/07/22/givenchy-linterdit-elixir-new-fragrance/",
+      "source": "Now Smell This",
+      "tier": "T2",
+      "published_at": "2026-07-22",
+      "why_it_matters": "플랭커 향수 전략은 뷰티 라인 안정적 매출 확대의 전형적 방식으로, 구찌 뷰티의 향수 포트폴리오 확장 속도를 점검하는 참고 사례가 된다",
+      "why_it_matters_en": "The flanker-fragrance strategy is a textbook way to grow steady beauty-line revenue, offering a reference point for how fast Gucci Beauty is expanding its own fragrance portfolio",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "legal",
+      "headline": "루이비통, 중국 몰리티 로고 표절 소송에서 승소해 150만달러 배상 판결",
+      "summary": "중국 음료 체인 몰리티(Molly Tea)가 루이비통의 상징적인 4잎 모노그램을 표절했다는 판결에 따라 루이비통에 150만달러를 배상하라는 결정이 내려졌다.",
+      "url": "https://www.creativebloq.com/design/logos-icons/louis-vuitton-wins-logo-battle-despite-fiery-backlash",
+      "source": "Creative Bloq",
+      "tier": "T2",
+      "published_at": "2026-07-24",
+      "why_it_matters": "중국 내 IP 보호 판결이 강화되는 추세는 구찌를 포함한 모든 럭셔리 브랜드의 상표 집행 전략에 참고가 되며, 동시에 현지 소비자 반발(피어리 백래시) 리스크도 동반된다는 점에 유의해야 한다",
+      "why_it_matters_en": "Strengthening IP enforcement in China is a useful reference for Gucci's own trademark strategy, but the accompanying local consumer backlash shows such wins carry reputational risk too",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Tiffany",
+      "event_type": "earnings",
+      "headline": "티파니, LVMH 워치&주얼리 성장 견인 — 하드웨어·노트 라인 급성장",
+      "summary": "LVMH의 워치&주얼리 부문이 상반기 9~11% 유기적 성장을 기록한 가운데, 티파니의 하드웨어(HardWear) 컬렉션이 약 75%, 노트(Knot) 컬렉션이 약 50% 성장한 것으로 나타났다. 매장의 약 40%가 리뉴얼을 완료했으며 은세공에서 골드·하이주얼리로 전략 전환이 주효했다는 평가다.",
+      "url": "https://dnyuz.com/2026/07/28/tiffany-co-is-proving-to-be-lvmhs-crown-jewel/",
+      "source": "DNYUZ (citing Bloomberg)",
+      "tier": "T2",
+      "published_at": "2026-07-28",
+      "why_it_matters": "주얼리 카테고리가 소프트 럭셔리보다 두드러진 성장을 보이는 흐름은 액세서리·가죽제품 중심인 구찌에게 카테고리 믹스 다변화의 시급성을 시사한다",
+      "why_it_matters_en": "Jewelry outpacing soft-luxury growth industry-wide is a signal that leather-goods-heavy Gucci should treat category-mix diversification as increasingly urgent",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Loro Piana",
+      "event_type": "executive",
+      "headline": "LVMH, 로로피아나 지분 94%로 확대하며 프레데릭 아르노를 CEO로 선임",
+      "summary": "LVMH는 콜옵션 행사를 통해 10억 유로를 투자, 로로피아나 지분을 85%에서 94%로 늘렸다. 워치&주얼리 부문을 이끌던 프레데릭 아르노가 로로피아나 CEO로 임명됐고, 기존 데미앙 베르트랑은 루이비통 공동 CEO로 이동했다.",
+      "url": "https://www.modaes.com/global/companies/lvmh-increases-its-control-of-loro-piana-to-94-after-investing-1-billion-euros-in-the-company",
+      "source": "Modaes Global",
+      "tier": "T2",
+      "published_at": "2026-07-29",
+      "why_it_matters": "아르노 가문 3세대의 브랜드 순환 배치는 LVMH의 후계 구도와 조직 재편이 계속 진행 중임을 보여주며, 케어링의 경영 안정성과 대비되는 지점이다",
+      "why_it_matters_en": "The continued rotation of Arnault family members across LVMH houses shows succession planning and reorganization remain very much in motion, a contrast point against Kering's own management stability question",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Celine",
+      "event_type": "executive",
+      "headline": "마이클 라이더 체제 셀린느, 슬리만 미학 탈피 시도 지속",
+      "summary": "에디 슬리만 퇴임 후 마이클 라이더가 이끄는 셀린느는 컬러 사진과 액세서리 중심 캠페인으로 전임자와의 차별화를 이어가고 있으며, 슬리만 본인도 자신의 시각적 유산을 차용하지 말라고 공개 경고한 바 있다.",
+      "url": "https://us.fashionnetwork.com/news/Celine-michael-rider-s-debut-campaign-causes-stir-under-hedi-slimane-s-watchful-eye,1764412.html",
+      "source": "FashionNetwork",
+      "tier": "T2",
+      "published_at": "2025-03-01",
+      "why_it_matters": "전임 디렉터의 공개적 견제 속에서도 정체성 재구축에 나선 셀린느의 사례는 구찌의 드멘나 체제가 톰 포드·알레산드로 미켈레 시대 유산과 거리를 두는 전략에 참고할 만한 선례다",
+      "why_it_matters_en": "Celine rebuilding its identity despite a former director's public pushback offers a precedent for how Gucci's Demna era navigates distancing itself from the Tom Ford and Alessandro Michele legacies",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

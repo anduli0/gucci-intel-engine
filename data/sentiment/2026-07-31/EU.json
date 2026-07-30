@@ -1,0 +1,83 @@
+[
+  {
+    "id": "eu-2026-07-31-02",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent financial-press analysis frames share surge as re-rating of turnaround credibility, but hedges with tougher Q3/Q4 comp caveats.",
+    "signal_tags": ["earnings", "market_reaction", "third_party_analysis"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-07-31-03",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade-press write-up of Gucci's own Monte Carlo campaign chapter with no outlet evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "campaign", "brand_owned"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-31-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press on ~1,000 workers under state-backed redundancy pay across Tuscan Gucci-linked plants, showing production recovery lagging the sales narrative.",
+    "signal_tags": ["labor", "supply_chain", "manufacturing", "controversy"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-07-31-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Regional Italian press corroborates renewed redundancy-fund requests among Scandicci subcontractors despite improved quarterly results; smaller-reach outlet.",
+    "signal_tags": ["labor", "supply_chain", "manufacturing", "regional_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-07-31-06",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Recirculated runway recap mixing a favorable Donatella Versace quote with an explicit acknowledgment that wider critical reception was mixed; net polarity unclear.",
+    "signal_tags": ["runway_recap", "mixed_reception", "celebrity"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-07-31-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector-forum thread on Flora relaunch explicitly split between welcoming fresher florals and recurring 'safe/derivative' Tom Ford-archive criticism; no clear net lean.",
+    "signal_tags": ["community", "design_criticism", "mixed_reception", "derivative_trap"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-07-31-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Anonymous, undated internal-workload chatter on Blind; low confidence in polarity and dating demotes forced negative read to neutral.",
+    "signal_tags": ["community", "internal_chatter", "undated", "low_confidence"],
+    "confidence": 0.3
+  },
+  {
+    "id": "eu-2026-07-31-09",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering channel plus market-commentary amplification of H1 results; brand/market-owned amplification counted for buzz, not organic public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned", "sns_amplification"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-07-31-10",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Undated Instagram commentary split between praise for craftsmanship and 'derivative of Balenciaga-era Demna' criticism; no reliable date and no net lean.",
+    "signal_tags": ["sns", "mixed_reception", "derivative_trap", "undated"],
+    "confidence": 0.35
+  }
+]

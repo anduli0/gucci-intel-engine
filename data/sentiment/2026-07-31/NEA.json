@@ -1,0 +1,128 @@
+[
+  {
+    "id": "NEA-2026-07-31-001",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press: Kering Q2 sales beat consensus, Gucci comp decline narrowed sharply, strong US demand",
+    "signal_tags": ["earnings", "independent_analysis", "quantified_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-31-002",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "WWD Japan echoes earnings beat with recovery framing but notes cautious Asia sentiment",
+    "signal_tags": ["earnings", "recovery_narrative"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-31-003",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fashionsnap recap of H1 results reading narrowed decline as recovery signal, mild tone",
+    "signal_tags": ["earnings", "recovery_narrative"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-07-31-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Qixi short-drama ad mocked online as cheap and dated, viral ridicule of campaign execution",
+    "signal_tags": ["campaign_backlash", "design_criticism", "activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-31-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Ad-industry community harshly critiques Qixi poster as tacky/fake-looking, meme-ified viral backlash",
+    "signal_tags": ["campaign_backlash", "design_criticism", "meme_virality"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-07-31-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Douban users split between calling typography tacky and defending it as trendy, genuinely mixed",
+    "signal_tags": ["campaign_debate", "mixed_opinion"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-07-31-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fan cynicism over local vs global ambassador casting strategy for China market, mild grievance",
+    "signal_tags": ["fandom_spike", "casting_criticism"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-07-31-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive marketing-trade write-up of Qixi campaign concept and cast, no evaluative verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-31-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting of F1 Alpine title partnership announcement, no independent evaluative judgment",
+    "signal_tags": ["activation_coverage", "partnership_announcement"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-31-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Wuhan store closure as part of Kering's 100-store cut plan, Asia-concentrated saturation signal",
+    "signal_tags": ["store_closure", "downsizing"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-07-31-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering CEO's viral 'grandma's house' quote admitting branding failure, 125 closures, sales -8%",
+    "signal_tags": ["design_criticism", "earnings_decline", "executive_admission"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-07-31-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci among luxury brands exiting Seoul duty-free channel amid structural retail decline",
+    "signal_tags": ["distribution_pullback", "channel_decline"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-07-31-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive Japan limited-edition wallet launch write-up, explicitly promotional, no verdict",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-07-31-014",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing counterfeit authentication queries plus scattered resale price drop complaints on community forum",
+    "signal_tags": ["counterfeit", "resale_value"],
+    "confidence": 0.55
+  }
+]
