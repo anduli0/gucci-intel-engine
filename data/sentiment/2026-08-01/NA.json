@@ -1,0 +1,121 @@
+[
+  {
+    "id": "NA-2026-08-01-001",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent equity analyst note cites quantified comp-sales narrowing and NA-specific demand as credible turnaround proof point.",
+    "signal_tags": [
+      "earnings",
+      "analyst_note",
+      "momentum",
+      "quantified_data"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-01-002",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Trade-press recap of Q2 beat with management describing NA brand perception as 'very elevated'; independent framing of results.",
+    "signal_tags": [
+      "earnings",
+      "momentum",
+      "trade_press"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-01-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent analyst upgrade plus quantified record single-day stock rally driven by Gucci-led beat.",
+    "signal_tags": [
+      "earnings",
+      "analyst_upgrade",
+      "stock_rally",
+      "quantified_data"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-01-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade critique using Gucci as case study for price-hike/value-confusion backlash eroding younger-shopper trust.",
+    "signal_tags": [
+      "price_backlash",
+      "value_for_money",
+      "design_critique"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-01-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring US customer complaints of stitching failure, hardware tarnishing and poor repair service signal sustained QC erosion.",
+    "signal_tags": [
+      "quality_complaint",
+      "customer_service",
+      "community"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-08-01-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector forum thread genuinely split between praising the runway debut and pastiche criticism; no dominant polarity.",
+    "signal_tags": [
+      "community",
+      "runway_reaction",
+      "mixed_sentiment"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-08-01-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Short-form creator commentary explicitly frames Fall 2026 collection as a 'flop'; no engagement metrics to confirm reach/virality.",
+    "signal_tags": [
+      "creator_commentary",
+      "design_critique",
+      "runway_reaction"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-01-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Kardashian post read by commentators as loyalty to designer Demna rather than confirmed Gucci brand affinity; ambiguous attribution, no official campaign.",
+    "signal_tags": [
+      "fandom_trap",
+      "celebrity_amplification",
+      "unconfirmed_partnership"
+    ],
+    "confidence": 0.45
+  },
+  {
+    "id": "NA-2026-08-01-010",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent industry data shows Gucci NA sales up mid-to-high single digits YoY, cited as lead example of US luxury rebound.",
+    "signal_tags": [
+      "quantified_data",
+      "sales_growth",
+      "industry_data"
+    ],
+    "confidence": 0.75
+  }
+]

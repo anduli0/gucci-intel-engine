@@ -1,0 +1,79 @@
+[
+  {
+    "id": "SEA-2026-08-01-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual regional pickup of Kering Q2 earnings figures with no independent evaluative verdict beyond mixed factual detail",
+    "signal_tags": [
+      "earnings",
+      "factual_reporting"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-01-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread genuinely split between praise for new silhouettes and criticism as underwhelming/phoned in",
+    "signal_tags": [
+      "product_reaction",
+      "community_sentiment",
+      "mixed"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-01-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Ambassador controversy: fan backlash, unfollows, tone-deaf/materialistic criticism and boycott angle in key SEA market",
+    "signal_tags": [
+      "ambassador_risk",
+      "controversy",
+      "fandom_backlash"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-08-01-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press frames Gucci's earnings beat as tentative amid shopper caution rather than genuine turnaround",
+    "signal_tags": [
+      "earnings",
+      "momentum_press",
+      "moderating_take"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-01-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram campaign post is press-kit derived promo copy, not public opinion",
+    "signal_tags": [
+      "activation_coverage",
+      "brand_owned",
+      "campaign"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-01-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual wire report on L'Oreal beauty license timeline with no evaluative sentiment toward brand",
+    "signal_tags": [
+      "licensing",
+      "factual_reporting",
+      "beauty"
+    ],
+    "confidence": 0.8
+  }
+]

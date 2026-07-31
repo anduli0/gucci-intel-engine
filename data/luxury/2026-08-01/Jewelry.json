@@ -1,0 +1,152 @@
+{
+  "brand_group": "Jewelry",
+  "date": "2026-08-01",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Swiss watch industry (Rolex/Cartier/Bulgari/Patek Philippe umbrella data)",
+      "event_type": "earnings",
+      "headline": "Swiss watch exports rose 11.2% in June but stayed down 0.7% for H1 2026, with high-end (CHF 3,000+) segment up 14.2%",
+      "summary": "The Federation of the Swiss Watch Industry (FH) reported June 2026 exports up 11.2% year-on-year to CHF 2.391 billion, while cumulative H1 2026 exports were still down 0.7% to CHF 12.8 billion; the over-CHF-3,000 price segment (where Cartier, Bulgari and Patek Philippe compete) grew 14.2%, outperforming the CHF 500-3,000 band which fell 4.7%.",
+      "url": "https://www.fhs.swiss/eng/2026_07_21_statistics.html",
+      "source": "Federation of the Swiss Watch Industry (FH)",
+      "tier": "T1",
+      "published_at": "2026-07-21",
+      "why_it_matters": "고가(3000프랑 이상) 워치 세그먼트만 두 자릿수 성장하는 양극화는 럭셔리 하드굿 시장에서 진짜 최상위 헤리티지 하우스만 가격결정력을 유지한다는 신호로, 구찌의 주얼리·워치 확장이 '준럭셔리' 포지셔닝으로는 성공하기 어려움을 시사한다.",
+      "why_it_matters_en": "The bifurcation where only the CHF 3,000+ tier grows double digits signals that pricing power is concentrating in true heritage top-tier houses, implying Gucci's own jewelry/watch ambitions would struggle at a mid-luxury price point.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Tudor (Swatch Group) / Rolex",
+      "event_type": "earnings",
+      "headline": "Tudor sales reported down roughly 23% even as Rolex turnover ticks up about 5% to near CHF 10.6 billion",
+      "summary": "Trade reporting on Swatch Group-linked estimates indicates Tudor's sales have slumped sharply this year even as sibling brand Rolex (privately held, estimated via trade data) saw turnover edge up to roughly CHF 10.6 billion, underscoring a widening gap between Rolex's brand resilience and its lower-priced stablemate.",
+      "url": "https://usa.watchpro.com/tudor-sales-slump-by-23-but-rolex-turnover-ticks-up-5-to-chf-10-6-billion/",
+      "source": "WatchPro",
+      "tier": "T2_trade",
+      "published_at": "2026-07",
+      "why_it_matters": "동일 그룹 내에서도 최상위 아이콘 브랜드(롤렉스)와 세컨드 라인(튜더)의 실적 격차가 커지는 현상은, 브랜드 헤리티지 강도가 하드럭셔리 회복력을 좌우함을 보여주며 구찌의 세컨드 라인/디퓨전 전략에 경고 신호가 된다.",
+      "why_it_matters_en": "A widening performance gap between a top icon brand (Rolex) and its lower-tier sibling (Tudor) within the same group shows heritage strength determines hard-luxury resilience, a caution signal for any Gucci diffusion-line thinking.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Cartier",
+      "event_type": "campaign",
+      "headline": "Cartier leans further into celebrity-ambassador strategy across multiple markets, including a new Panthère campaign tied to a Las Vegas Sphere activation",
+      "summary": "Cartier has been rapidly expanding its global ambassador roster in 2026 -- including BTS's V fronting a Panthère de Cartier campaign with a Las Vegas Sphere tie-in, Thai actor PP Krit, and Shu Qi -- reflecting an aggressive, multi-region celebrity-marketing push to keep the Panthère and Love franchises culturally dominant.",
+      "url": "https://wwd.com/accessories-news/jewelry/cartier-new-campaign-panther-las-vegas-sphere-1238087925/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07",
+      "why_it_matters": "카르티에가 K-팝·아시아 셀럽 앰버서더를 대거 기용해 지역별 문화적 관련성을 확보하는 전략은, 구찌가 앰버서더 포트폴리오를 지역 맞춤형으로 재편할 때 참고할 벤치마크다. 다만 이는 브랜드 자체 마케팅 활동이며 소비자 여론 개선을 뜻하지는 않는다.",
+      "why_it_matters_en": "Cartier's heavy use of K-pop and pan-Asian celebrity ambassadors for regional cultural relevance is a benchmark for Gucci's own ambassador portfolio strategy -- though this is brand-generated marketing activity, not evidence of improved consumer sentiment.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Multiple (India-linked diamond/gem supply chain -- Cartier, Tiffany, Bulgari, Van Cleef as buyers)",
+      "event_type": "regulation",
+      "headline": "US-India interim trade framework cuts tariffs on loose diamonds/gems to zero, sets finished jewelry duty at 18%",
+      "summary": "Following a February 2026 US-India interim trade agreement, tariffs on loose natural diamonds and colored gemstones imported from India to the US were reduced to 0%, while finished diamond and gemstone jewelry (plus lab-grown diamonds) face an 18% duty, reversing punitive 50% rates that had cut Indian cut-and-polished diamond exports to the US by more than 60%.",
+      "url": "https://rapaport.com/news/us-to-nix-tariff-on-indian-gems-and-natural-diamonds/",
+      "source": "Rapaport",
+      "tier": "T2_trade",
+      "published_at": "2026-02",
+      "why_it_matters": "인도산 다이아몬드·보석 관세 완화는 카르티에·티파니·불가리 등 주요 하우스의 원자재 조달 비용을 낮추지만, 완제품 주얼리에는 여전히 18% 관세가 남아 있어 미국 내 가격 정책에 영향을 줄 수 있다. 구찌가 파인 주얼리 조달망을 구축할 경우 참고할 규제 리스크다.",
+      "why_it_matters_en": "Lower tariffs on Indian loose diamonds/gems ease raw-material costs for Cartier, Tiffany, Bulgari and others, but the persistent 18% duty on finished jewelry still pressures US retail pricing -- a regulatory/supply-chain risk Gucci would need to navigate in any fine-jewelry buildout.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering Jewelry (Boucheron/Pomellato/DoDo/Qeelin)",
+      "event_type": "earnings",
+      "headline": "Kering's jewelry houses continue outperforming Gucci's fashion segment within the same group (carried context, still material)",
+      "summary": "Kering's standalone Jewelry division (Boucheron, Pomellato, DoDo, Qeelin) posted H1 2026 sales of EUR 521 million, up 20% comparable, with Boucheron hitting record levels on its Quatre XS launch, while Gucci's own Fashion & Leather Goods segment fell over the same period -- a gap that remains the single most direct intra-group benchmark for Gucci.",
+      "url": "https://www.jckonline.com/editorial-article/kerings-jewelry-houses-grow-14/",
+      "source": "JCK",
+      "tier": "T2_trade",
+      "published_at": "2026-07-28",
+      "why_it_matters": "동일 모회사 케링 내에서 주얼리 부문이 20% 성장하는 반면 구찌가 속한 패션·가죽 부문은 역성장하는 구도가 지속되면서, 그룹 내 자본 배분과 경영진의 관심이 구찌에서 멀어질 위험이 이어지고 있다.",
+      "why_it_matters_en": "The persistent gap -- Kering's Jewelry division up 20% while Gucci's own Fashion & Leather Goods segment declines -- remains the most direct intra-group signal that capital and leadership attention could keep drifting away from Gucci's turnaround.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Pandora",
+      "event_type": "earnings",
+      "headline": "Pandora beats Q1 2026 estimates despite North America softness, but keeps full-year guidance at a 1-2% organic revenue decline",
+      "summary": "Pandora reported Q1 2026 revenue of DKK 7.11 billion (about $1.12 billion), ahead of analyst estimates, with 0% like-for-like and 2% organic growth even as North America comparable sales fell 2%; the company held its full-year guidance to a 1-2% organic revenue decline despite tariff and commodity cost pressure, and its stock jumped 11% on the print.",
+      "url": "https://wwd.com/business-news/financial/pandora-q1-2026-revenues-financial-results-1238944098/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-05",
+      "why_it_matters": "매스 럭셔리 주얼리 대표주자 판도라가 여전히 매출 역성장 가이던스를 유지하는 것은, 하드 럭셔리 회복이 티파니·불가리 등 최상위 브랜드에 집중되고 있으며 중저가 세그먼트는 여전히 어려움을 시사한다.",
+      "why_it_matters_en": "Mass-market jewelry leader Pandora still guiding to a full-year revenue decline suggests the hard-luxury recovery is concentrated at the top (Tiffany, Bulgari) while the mid/mass tier remains under pressure -- relevant context for where Gucci's accessible-jewelry ambitions would actually sit.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Bulgari",
+      "event_type": "trend",
+      "headline": "Bulgari's Serpenti franchise keeps expanding across watches and jewelry with a new yellow-gold Aeterna and Tubogas capsule",
+      "summary": "Bulgari has continued to broaden its Serpenti line through 2026, including the Serpenti Aeterna's first-ever plain yellow-gold execution and a diamond-set Tubogas studs capsule referencing 1970s gold-and-steel design, alongside a blockchain-based digital passport feature -- part of a steady drumbeat of Serpenti product news that keeps the icon at the center of Bulgari's growth story under new CEO Laura Burdese.",
+      "url": "https://www.hautetime.com/bulgaris-new-octo-finissimo-and-serpenti-timepieces-shine-at-watches-and-wonders-2026/",
+      "source": "Haute Time",
+      "tier": "T2",
+      "published_at": "2026-05",
+      "why_it_matters": "불가리가 세르펜티라는 단일 아이콘을 워치·주얼리·소재 전반에 걸쳐 지속적으로 확장하는 전략은, 구찌의 호스빗·GG 모티프를 주얼리 카테고리로 확장할 때 참고할 수 있는 아이콘 관리 벤치마크다.",
+      "why_it_matters_en": "Bulgari's disciplined, continuous expansion of a single icon (Serpenti) across watches, jewelry and materials is a useful icon-management benchmark should Gucci extend Horsebit/GG motifs further into jewelry.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Cartier",
+      "event_type": "trend",
+      "headline": "Cartier Love bracelet sustains near-95% resale value retention amid renewed TikTok/celebrity visibility",
+      "summary": "The Cartier Love bracelet remains at elevated cultural visibility across social and celebrity circles, with secondary-market data (Rebag's Clair Report) showing roughly 95% retail value retention and the thinner Petit Modele emerging as the fastest-growing stacking variant -- a carried trend from prior weeks still active.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/cartier-love-bracelet-2026-iconic-flex-or-overpriced-hype/68608154",
+      "source": "ad-hoc-news (trade/market commentary)",
+      "tier": "verification_required",
+      "published_at": "2026-07",
+      "why_it_matters": "카르티에 러브 팔찌가 화제성과 90%대 리세일 가치를 동시에 유지하는 사례는, 구찌 호스빗 라인의 리세일/희소성 전략 설계에 실질적 참고가 된다.",
+      "why_it_matters_en": "The Love bracelet sustaining both cultural buzz and ~95% resale retention offers a concrete reference for designing resale/scarcity mechanics around Gucci's own Horsebit line.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Tiffany & Co.",
+      "event_type": "earnings",
+      "headline": "Tiffany named LVMH's standout Watches & Jewelry performer as HardWear and Knot lines drive growth",
+      "summary": "LVMH's Watches & Jewelry division grew 9% in H1 2026 (Q2 organic growth accelerated to 11%, ~EUR 5.23bn), with Bernard Arnault crediting Tiffany's HardWear (+~75%) and Knot (+~50%) collections; roughly 40% of Tiffany stores have now been renovated.",
+      "url": "https://dnyuz.com/2026/07/28/tiffany-co-is-proving-to-be-lvmhs-crown-jewel/",
+      "source": "dnyuz (via NYT/Reuters wire)",
+      "tier": "T2",
+      "published_at": "2026-07-28",
+      "why_it_matters": "티파니가 LVMH 최고 성장 사업부로 부상하며 하이엔드 주얼리가 가죽·패션보다 방어적 성장 카테고리임을 재확인, 구찌의 주얼리 확장 전략에 참고 벤치마크가 된다.",
+      "why_it_matters_en": "Tiffany emerging as LVMH's growth star reinforces jewelry as a more resilient growth category than leather/ready-to-wear right now, a direct benchmark as Gucci weighs its own high-jewelry push.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bulgari",
+      "event_type": "executive move",
+      "headline": "Laura Burdese takes over as Bulgari CEO effective July 1, 2026, succeeding Jean-Christophe Babin",
+      "summary": "Laura Burdese, previously Bulgari's deputy CEO and CMO (and formerly CEO of Acqua di Parma), officially became Bulgari's new CEO on July 1, 2026, reporting to LVMH group managing director Stephane Bianchi; Babin remains chairman of the Bulgari board, hotel-unit CEO and foundation president.",
+      "url": "https://rapaport.com/news/lvmh-promotes-laura-burdese-to-ceo-of-bulgari/",
+      "source": "Rapaport",
+      "tier": "T2_trade",
+      "published_at": "2026-07-01",
+      "why_it_matters": "LVMH가 마케팅 출신 여성 임원을 불가리 CEO로 승진시킨 것은 그룹 내 리더십 파이프라인 운영 방식을 보여주며, 케링의 구찌 경영진 인선 논의와 대조된다.",
+      "why_it_matters_en": "LVMH promoting a marketing-background female executive to lead Bulgari illustrates how it runs internal leadership pipelines, a useful contrast point for Kering's own Gucci leadership deliberations.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Richemont (Cartier/Van Cleef & Arpels parent)",
+      "event_type": "earnings",
+      "headline": "Richemont posts 20% constant-currency sales growth for Q1 FY2027, jewelry maisons up 24%",
+      "summary": "Richemont's first quarter (ended June 30, 2026) group sales rose 20% at constant rates to EUR 6.3bn, with Jewellery Maisons (Cartier, Van Cleef & Arpels) up 24% and Specialist Watchmakers up 8%; growth was broad-based across the Americas, Asia Pacific, Japan and Europe.",
+      "url": "https://www.businessoffashion.com/news/luxury/richemont-quarterly-sales-jump-20-surging-past-forecasts/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-07-15",
+      "why_it_matters": "리치몬트의 주얼리 부문(카르티에, 반클리프아펠) 24% 성장은 하드 럭셔리 주얼리가 가방·의류보다 견조하다는 업계 전반의 흐름을 재확인하며, 구찌의 카테고리 다각화 논의에 참고자료가 된다.",
+      "why_it_matters_en": "Richemont's Jewellery Maisons growing 24% (vs. 8% for watches) underscores hard-jewelry's outperformance versus leather goods and RTW industry-wide, relevant context for Gucci's own category-mix debate.",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

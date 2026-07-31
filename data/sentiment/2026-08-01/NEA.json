@@ -1,0 +1,142 @@
+[
+  {
+    "id": "NEA-2026-08-01-001",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press reports Gucci sales decline moderating beyond market expectations, US +9%, strongest sequential rebound in quarters",
+    "signal_tags": [
+      "earnings",
+      "momentum",
+      "independent_analysis"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-01-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering H1 results are factual figures balancing APAC recovery signs against explicit mainland China ongoing weakness",
+    "signal_tags": [
+      "earnings",
+      "china_risk",
+      "factual_reporting"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-01-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Management acknowledges China remains one of the toughest markets while cleaning up practices; balanced factual/analytical framing, no clear polarity",
+    "signal_tags": [
+      "china_risk",
+      "management_commentary"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-01-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Cautious investor optimism weighed against structural risks of brand image damage and rebranding delay in China; balanced trade analysis",
+    "signal_tags": [
+      "china_risk",
+      "brand_image",
+      "independent_analysis"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-01-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up on ambassador world tour launch, press-kit derived, no independent evaluative verdict",
+    "signal_tags": [
+      "ambassador",
+      "activation_coverage",
+      "fandom"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-01-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan forum reaction to ambassador store visit is a fandom spike, not independent brand sentiment",
+    "signal_tags": [
+      "fandom",
+      "ambassador",
+      "community"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-01-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Practical resale pricing tips post, incidental brand mention with no sentiment polarity toward Gucci",
+    "signal_tags": [
+      "resale",
+      "consumer_content"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-01-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual analysis of Korea/Japan resale market structure and supply flows, no evaluative stance on Gucci itself",
+    "signal_tags": [
+      "resale",
+      "market_structure"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-08-01-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community-edited wiki entry explicitly presents both top-10 brand status and identity-crisis criticism, net balanced/ambivalent",
+    "signal_tags": [
+      "brand_identity",
+      "community",
+      "mixed_sentiment"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-01-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic backlash over repeated undisclosed price hikes in Korea, 'gouging' accusations spreading, plus EU RPM fine reference",
+    "signal_tags": [
+      "price_hike_backlash",
+      "value_for_money",
+      "regulatory"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-01-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community analysis attributes brand wobble to leadership instability and lost design direction post-Michele, mild organic criticism",
+    "signal_tags": [
+      "brand_identity",
+      "design_criticism",
+      "community"
+    ],
+    "confidence": 0.6
+  }
+]

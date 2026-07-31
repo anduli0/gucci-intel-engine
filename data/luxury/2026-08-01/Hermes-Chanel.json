@@ -1,0 +1,152 @@
+{
+  "brand_group": "Hermes-Chanel",
+  "date": "2026-08-01",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Hermès",
+      "event_type": "earnings",
+      "headline": "에르메스 주가 급락 후속, 애널리스트 목표주가와 실제 주가 간 43% 괴리 부각",
+      "summary": "7월 29일 상반기 실적 발표 후 주가가 최대 12% 급락한 가운데, 83개 증권사 컨센서스 평균 목표주가(약 2,356유로)가 현재 주가(약 1,645유로)보다 43% 높아 시장이 여전히 장기 펀더멘털에는 신뢰를 유지하되 2027년 가격인상 폭 둔화 가이던스에는 민감하게 반응했음을 보여주는 분석이 8월 1일까지 이어지고 있다.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/following-half-earnings-herm-international-211100542.html",
+      "source": "Yahoo Finance / Berenberg, JPMorgan notes",
+      "tier": "T1",
+      "published_at": "2026-07-31",
+      "why_it_matters": "실적은 견조했음에도 2027년 가격인상 둔화 가이던스만으로 주가가 급락한 것은, 럭셔리 업계 전체가 '가격 결정력 서사'에 극도로 민감해졌다는 신호로 구찌의 향후 가격 전략 커뮤니케이션에도 참고가 된다.",
+      "why_it_matters_en": "Solid results were overshadowed by cautious 2027 pricing guidance alone, showing how sensitive the luxury sector has become to the pricing-power narrative — a cautionary signal for how Gucci frames its own future price messaging.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "legal",
+      "headline": "케링도 관세 환불 미이행 집단소송 조사 대상에 포함, 에르메스와 동일 로펌 표적",
+      "summary": "미국 로펌 Edelson Lechtzin이 7월 초 에르메스에 이어 7월 7일 구찌·생로랑·발렌시아가 모기업 케링에 대해서도 동일한 관세 가격인상 환불 미이행 의혹 조사를 발표했으며, 8월 1일 기준 두 조사 모두 소송 제기 전 단계로 계속 진행 중이다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322828/0/en/Edelson-Lechtzin-LLP-Is-Investigating-Kering-S-A-Owner-of-Gucci-Saint-Laurent-and-Balenciaga-Over-Tariff-Price-Increases-That-Were-Never-Refunded-to-Consumers.html",
+      "source": "GlobeNewswire (Edelson Lechtzin LLP)",
+      "tier": "T2",
+      "published_at": "2026-07-07",
+      "why_it_matters": "이 조사는 에르메스만의 문제가 아니라 구찌의 모회사 케링을 직접 겨냥하고 있어, 벤치마크 사안이 아닌 구찌 자신의 잠재적 법적 리스크로 취급해야 한다.",
+      "why_it_matters_en": "This is not a benchmark case about a rival — the same investigation directly targets Kering, Gucci's own parent, meaning it is a live legal exposure for Gucci itself, not just an industry-watch item.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Chanel",
+      "event_type": "shows",
+      "headline": "샤넬 2026 가을 오트쿠튀르 \"Gaby and the Beanstalk\", 블라지 2번째 쿠튀르 컬렉션 평단 호평",
+      "summary": "마티유 블라지가 그랑팔레를 동화 속 정원으로 연출한 2026 가을 쿠튀르 쇼가 페로의 동화 '레 페'에서 영감을 받아 진행됐으며, 블라지 데뷔 컬렉션 대비 하우스 코드를 더 느슨하고 자유롭게 재해석했다는 평가가 나왔다.",
+      "url": "https://wwd.com/runway/fall-couture-2026/paris/chanel/review/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-08",
+      "why_it_matters": "블라지의 쿠튀르 재해석이 계속 호평받는 것은 신임 크리에이티브 디렉터 체제 초반 안착 사례로, 잦은 CD 교체를 겪어온 구찌의 크리에이티브 전환 전략에 참고 사례가 된다.",
+      "why_it_matters_en": "Continued critical praise for Blazy's couture reinterpretation is an early-tenure creative-director settling-in case, offering a reference point for how Gucci manages its own creative transitions.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "trend",
+      "headline": "에르메스, 2분기 매출 성장률 둔화에도 미주·일본·유럽 지역 견조",
+      "summary": "상반기 매출 82억 유로(환율 고정 기준 +6%)를 기록했으나 2분기 매출(40.9억~40.5억 유로, 자료마다 소폭 차이)이 시장 예상치를 소폭 하회했고, 중동을 제외한 전 지역이 성장했으나 중국 회복 속도는 여전히 업계 평균보다 느리다는 평가가 나왔다.",
+      "url": "https://cpp-luxury.com/hermes-first-half-2026-revenue-up-6-percent-to-e8-2-billion/",
+      "source": "CPP-Luxury",
+      "tier": "T2",
+      "published_at": "2026-07-29",
+      "why_it_matters": "업계 최강 방어력을 보유한 에르메스조차 중국 회복이 더디다는 점은 구찌의 중국 시장 회복 계획 수립 시 눈높이를 낮춰야 할 근거가 된다.",
+      "why_it_matters_en": "Even Hermès, the industry's most defensive brand, shows a slower China recovery pace than peers — grounds for Gucci to calibrate realistic expectations for its own China rebound timeline.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "retail",
+      "headline": "상반기 신규 매장 4곳 오픈, 인력 600명 이상 순증",
+      "summary": "상반기 중 하노이, 베이징 산리툰, 나고야에 신규 매장을, 런던 뉴본드스트리트 166번지에 신규 메종을 열었으며, 프랑스 300명을 포함해 전체 인력이 600명 이상 늘어 총 27,107명에 달했다고 밝혔다.",
+      "url": "https://www.retail-insight-network.com/news/hermes-h1-2026-revenue-rises-8-16/",
+      "source": "Retail Insight Network",
+      "tier": "T2",
+      "published_at": "2026-07-29",
+      "why_it_matters": "매출 성장 둔화 국면에서도 매장망과 인력을 계속 확장하는 것은 장기 수요에 대한 자신감을 보여주며, 구찌의 리테일 네트워크 재편 속도와 대조되는 지점이다.",
+      "why_it_matters_en": "Continuing to expand its store network and headcount even amid a growth slowdown signals long-term demand confidence — a contrast point against the pace of Gucci's own retail network overhaul.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Chanel",
+      "event_type": "retail",
+      "headline": "샤넬 팔로알토 신규 부티크, 블라지 첫 메티에다르 컬렉션과 함께 오픈",
+      "summary": "피터 마리노가 디자인한 5,100제곱피트 규모의 스탠퍼드 쇼핑센터 팔로알토 부티크가 6월 26일 문을 열었으며, 블라지의 데뷔 메티에다르 컬렉션 공개와 시점을 맞췄다.",
+      "url": "https://wwd.com/fashion-news/designer-luxury/chanel-new-boutique-palo-alto-calif-1239011377/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-06-26",
+      "why_it_matters": "신규 매장 오픈을 크리에이티브 마일스톤과 동기화하는 전략은 매장 경험과 컬렉션 서사를 결합하는 방식으로, 구찌의 리테일-크리에이티브 연계 전략에 벤치마크가 된다.",
+      "why_it_matters_en": "Synchronizing new-store launches with creative milestones ties retail experience to collection storytelling — a benchmark for how Gucci could align its own retail and creative calendars.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "controversy",
+      "headline": "악어가죽 생산 관행 동물학대 의혹, PETA 등 압박 지속",
+      "summary": "PETA아시아와 호주 Farm Transparency Project가 에르메스 소유 악어농장의 사육·도축 방식을 촬영한 영상을 근거로 학대 의혹을 제기했으며, 2025년 주주총회에서 CEO가 생태계 보전 효과를 주장했으나 보전 전문가는 이를 반박한 바 있어 8월 초까지 관련 논쟁이 이어지고 있다.",
+      "url": "https://plantbasednews.org/culture/ethics/hermes-crocodile-skin-animal-cruelty/",
+      "source": "Plant Based News / PETA",
+      "tier": "T2",
+      "published_at": "2026-07-25",
+      "why_it_matters": "이국적 가죽 소싱에 대한 동물복지 감시 강화는 유사한 익조틱 레더 제품군을 다루는 케링 산하 하우스들에도 공급망 투명성 압박으로 확산될 수 있다.",
+      "why_it_matters_en": "Intensifying animal-welfare scrutiny of exotic-leather sourcing is a supply-chain transparency pressure that could spread to any Kering house, including Gucci, using similar exotic-skin product lines.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Chanel",
+      "event_type": "financial",
+      "headline": "샤넬 2025 연간 매출 193억 달러, 영업이익 5% 증가",
+      "summary": "샤넬리미티드의 2025 회계연도 실적 발표에 따르면 매출은 전년 대비 2% 증가한 193억 달러, 영업이익은 5% 늘어난 47억1200만 달러를 기록했으며, 미국 시장이 7.2% 성장으로 가장 빠르게 성장한 반면 아시아(중국 포함)는 0.8% 역성장했다.",
+      "url": "https://www.thefashionlaw.com/chanel-revenue-rebounds-to-19-3b-as-matthieu-blazy-fuels-demand/",
+      "source": "The Fashion Law",
+      "tier": "T1",
+      "published_at": "2026-05-20",
+      "why_it_matters": "샤넬조차 중국 매출이 역성장한 가운데 미국에서 성장을 견인했다는 점은, 구찌의 지역 포트폴리오 재조정 논의에서 미국 시장 비중 확대의 근거 자료가 된다.",
+      "why_it_matters_en": "Chanel's China sales declined even as the US carried growth — reference data for Gucci's own regional-portfolio rebalancing debate around increasing US market weight.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Hermès",
+      "event_type": "regulation",
+      "headline": "버킨백 끼워팔기 반독점 소송, 제9순회 항소법원 심리 계류",
+      "summary": "소비자들이 제기한 버킨백 구매 시 부대상품 강매 의혹 반독점 소송에서 에르메스는 원심(기각) 유지를 요청했으며, 항소법원의 최종 판결이 아직 나오지 않았다.",
+      "url": "https://www.thefashionlaw.com/hermes-urges-ninth-circuit-to-reject-appeal-over-birkin-antitrust-lawsuit/",
+      "source": "The Fashion Law",
+      "tier": "T2",
+      "published_at": "2026-07-15",
+      "why_it_matters": "럭셔리 브랜드의 희소성 기반 배분 전략에 대한 법적 시험대로, 구찌를 포함한 유사 관행에 선례가 될 잠재력이 있어 판결 시점까지 추적이 필요하다.",
+      "why_it_matters_en": "A pending legal test of scarcity-based allocation strategy with precedent-setting potential for the whole industry, including Gucci — worth tracking until a ruling lands.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "executive",
+      "headline": "Grace Wales Bonner, 2027년 1월 에르메스 남성복 데뷔 예정",
+      "summary": "37년 재임한 Véronique Nichanian의 후임으로 Grace Wales Bonner가 에르메스 남성복 크리에이티브 디렉터로 임명됐으며, 데뷔 쇼는 2027년 1월이다.",
+      "url": "https://wwd.com/fashion-news/designer-luxury/hermes-appoints-grace-wales-bonner-new-menswear-creative-director-1238318233/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2025-10-20",
+      "why_it_matters": "장기 재임 디자이너 이후 이행기 관리 방식은 구찌의 크리에이티브 디렉터 교체 리스크 관리에 지속적인 참고 사례가 된다.",
+      "why_it_matters_en": "The transition-management approach following a decades-long tenure remains a standing reference case for Gucci's own creative-director succession risk.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "trend",
+      "headline": "에르메스, 신규 AI 검색 가시성 지수에서 럭셔리 브랜드 1위",
+      "summary": "2026년 7월 발표된 AI 검색 가시성 조사에서 에르메스가 아카이브 깊이, 인용 밀도, 브랜드 일관성 등 5개 지표를 기준으로 럭셔리 브랜드 중 1위를 차지했으며, 보고서는 잦은 크리에이티브 디렉터 교체나 복잡한 서브브랜드 구조가 없는 점을 핵심 요인으로 꼽았다.",
+      "url": "https://theimpression.com/hermes-leads-new-ai-search-index-as-brand-coherence-becomes-a-measurable-asset/",
+      "source": "The Impression / WWD Sourcing Journal",
+      "tier": "T2",
+      "published_at": "2026-07-31",
+      "why_it_matters": "AI 검색 시대에는 브랜드 서사의 일관성이 새로운 경쟁 자산으로 부상하고 있으며, 잦은 크리에이티브 디렉터 교체 이력을 가진 구찌에는 직접적인 경고 신호로 해석될 수 있다.",
+      "why_it_matters_en": "Brand narrative consistency is emerging as a measurable competitive asset in the AI-search era, and this finding is a direct cautionary flag for Gucci given its history of frequent creative-director turnover.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

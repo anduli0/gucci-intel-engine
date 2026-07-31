@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-01",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "구찌 + pool.json competitor_set 8개 브랜드(루이비통, 디올, 샤넬, 프라다, 보테가 베네타, 생로랑, 발렌시아가, 버버리) 전원에 동일한 중립 검색 템플릿을 적용했다 — '<브랜드> 뉴스/news' 형태, 지역별 현지어(NEA: 한국어/일본어, SEA: 영어+Tatler Asia/Prestige, NA: 영어, EU: 프랑스어/이탈리아어).",
+    "브랜드별로 동일한 검색 횟수(지역당 1~2회)와 동일한 스캔 깊이(검색 결과 상위 항목)를 적용했다 — 구찌라고 더 깊이 파거나 더 많이 검색하지 않았다.",
+    "집계 대상은 2026-07-25~2026-08-01(최근 7일) 사이에 발행일이 확인되는 편집 기사만이며, 쇼핑몰/태그 페이지/위키/중복 기사/발행일 불명확한 아카이브성 기사는 제외했다.",
+    "SEA는 Tatler Asia/Prestige 등 지역 매체를 브랜드별로 동일하게 검색했으나 9개 브랜드 전원에서 최근 7일 이내 발행일이 확인되는 기사를 찾지 못했다 — 이는 검색 누락이 아니라 해당 기간 SEA 전용 편집 커버리지가 구조적으로 희박했음을 그대로 반영한 결과이며, 0으로 정직하게 기록한다.",
+    "카운트는 매체(outlet) 단위가 아니라 개별 기사(article) 단위이며, 같은 매체가 같은 브랜드를 다룬 서로 다른 기사는 각각 카운트했다.",
+    "수치를 임의로 보정하거나 평활화하지 않았다 — 특정 브랜드의 커버리지가 실제로 많으면 많은 그대로, 없으면 없는 그대로 기록했다."
+  ],
+  "criteria_en": [
+    "Ran the identical neutral query template for Gucci plus all 8 pool.json competitor_set brands (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry) — '<brand> news' pattern, using region-appropriate language (NEA: Korean/Japanese, SEA: English + Tatler Asia/Prestige, NA: English, EU: French/Italian).",
+    "Applied identical search count (1-2 searches per brand per region) and identical scan depth (top search results) per brand — Gucci was never searched more deeply than any competitor.",
+    "Counted only editorial articles with a confirmed publish date within the last 7 days (2026-07-25 to 2026-08-01); excluded shopping/tag pages, wikis, duplicates, and undated archival pieces.",
+    "For SEA, searched Tatler Asia/Prestige and regional outlets identically for all 9 brands but found no article with a confirmed publish date inside the 7-day window for any brand — this reflects genuinely thin SEA-dedicated editorial output in this window, not a search gap, and is recorded honestly as 0 across brands.",
+    "Counts are per distinct article, not per outlet — multiple articles from the same outlet on the same brand are each counted separately.",
+    "No smoothing or normalization was applied — genuine differences in coverage volume between brands are preserved as observed."
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 1,
+      "Louis Vuitton": 0,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 1,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "SEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 3,
+      "Louis Vuitton": 3,
+      "Dior": 3,
+      "Chanel": 1,
+      "Prada": 2,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 1
+    },
+    "EU": {
+      "Gucci": 1,
+      "Louis Vuitton": 0,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 1,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["파이낸셜뉴스(fnnews)"],
+        "examples": [
+          {"title": "'실적 줄줄줄' 흘러내린 구찌..한국법인 CEO 3명 체제로 [명품價 이야기]", "url": "https://www.fnnews.com/news/202507250849544943"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {
+        "outlets": ["스타뉴스"],
+        "examples": [
+          {"title": "디올이 완성한 '프린스 지민'", "url": "https://www.starnewskorea.com/star/2026/07/24/2026072407233526736"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["더블유 코리아(W Korea)"],
+        "examples": [
+          {"title": "푸르게 물든 샤넬의 시간", "url": "https://www.wkorea.com/2026/07/30/%ED%91%B8%EB%A5%B4%EA%B2%8C-%EB%AC%BC%EB%93%A0-%EC%83%A4%EB%84%AC%EC%9D%98-%EC%8B%9C%EA%B0%84"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["FASHIONSNAP(JP)"],
+        "examples": [
+          {"title": "プラダが増収転換、ヴェルサーチェは「期待通り」 プラダグループ26年上期", "url": "https://www.fashionsnap.com/article/2026-07-31/prada-2026-1h/"}
+        ]
+      },
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "SEA": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["Bloomberg", "WWD"],
+        "examples": [
+          {"title": "Gucci's Better-Than-Expected Sales Send Kering Shares Higher", "url": "https://www.bloomberg.com/news/articles/2026-07-28/kering-sees-signs-of-progress-in-curbing-sales-declines-at-gucci"},
+          {"title": "From Gucci to P&G, Consumer Earnings Echo the Uncertainty Shoppers Feel", "url": "https://www.bloomberg.com/news/newsletters/2026-07-31/from-gucci-to-p-g-consumer-earnings-echo-the-uncertainty-shoppers-feel"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["Bloomberg", "WWD"],
+        "examples": [
+          {"title": "LVMH Fashion Sales Miss Estimates as Middle East Conflict Weighs on Demand", "url": "https://www.bloomberg.com/news/articles/2026-07-27/lvmh-fashion-unit-s-return-to-growth-held-back-by-iran-war"},
+          {"title": "Louis Vuitton Nods to Space in Fall 2026 Menswear Campaign", "url": "https://wwd.com/fashion-news/fashion-scoops/louis-vuitton-fall-2026-campaign-pharrell-williams-space-1239058071/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["GlobeNewswire", "WWD"],
+        "examples": [
+          {"title": "Christian Dior: Accelerating growth in the second quarter, Solid first-half results", "url": "https://www.globenewswire.com/news-release/2026/07/27/3333803/0/en/Christian-Dior-Accelerating-growth-in-the-second-quarter-Solid-first-half-results.html"},
+          {"title": "Christian Dior: notice of availability of the half-yearly financial report as of June 30, 2026", "url": "https://www.globenewswire.com/news-release/2026/07/30/3335813/0/en/Christian-Dior-notice-of-availability-of-the-half-yearly-financial-report-as-of-June-30-2026.html"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Chanel Fall 2026 Haute Couture Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/fall-couture-2026/paris/chanel/review/"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["WWD", "Manila Times (GlobeNewswire syndication)"],
+        "examples": [
+          {"title": "Prada Group Reports H1 2026 Growth, Strong Americas, Asia-Pacific", "url": "https://wwd.com/business-news/financial/prada-group-2026-h1-growth-strong-americas-asia-pacific-1239087716/"},
+          {"title": "Prada profits pinched as growth hard to chase", "url": "https://www.manilatimes.net/2026/07/31/world/prada-profits-pinched-as-growth-hard-to-chase/2395366"}
+        ]
+      },
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {
+        "outlets": ["Investing.com/TradingView-syndicated market news"],
+        "examples": [
+          {"title": "Why is Burberry stock rallying today?", "url": "https://m.investing.com/news/stock-market-news/why-is-burberry-stock-rallying-today-93CH-4819908?ampMode=1"}
+        ]
+      }
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": ["FashionUnited France"],
+        "examples": [
+          {"title": "Gucci : Toute l'actualité (Kering Jewellery / Cultural Currency Index 관련 보도)", "url": "https://fashionunited.fr/tags/gucci"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {
+        "outlets": ["GlobeNewswire (FR)"],
+        "examples": [
+          {"title": "Christian Dior: rapport financier semestriel au 30 juin 2026", "url": "https://www.globenewswire.com/news-release/2026/07/30/3335808/0/fr/Christian-Dior-rapport-financier-semestriel-au-30-juin-2026.html"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["franceinfo Culture"],
+        "examples": [
+          {"title": "Chanel : toute l'actualité en direct (Fall 2026 Haute Couture, Grand Palais 7/28)", "url": "https://www.franceinfo.fr/culture/mode/chanel/"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["Pambianconews"],
+        "examples": [
+          {"title": "Gruppo Prada - Pambianconews notizie e aggiornamenti moda, lusso e made in Italy", "url": "https://www.pambianconews.com/tag/gruppo-prada/"}
+        ]
+      },
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    }
+  }
+}
