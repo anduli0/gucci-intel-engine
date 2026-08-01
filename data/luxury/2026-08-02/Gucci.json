@@ -1,0 +1,112 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-08-02",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "Kering H1 2026 실적: 구찌 리테일 2분기에 7%p 개선, 그룹 매출은 소폭 증가",
+      "summary": "Kering이 7월 28일 발표한 2026년 상반기 실적에서 그룹 매출은 72.2억 유로(비교 기준 +1%)를 기록했고, 구찌 리테일 매출은 2분기에 전분기 대비 7%포인트 개선됐다. 레더굿즈 부문은 Borsetto·Paparazzo 백 출시에 힘입어 시장 예상(-4.7%)보다 완만한 감소를 보였다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334524/0/en/Kering-2026-First-half-results-back-to-growth-performance-improvement-strategy-execution-on-track.html",
+      "source": "Kering (GlobeNewswire)",
+      "tier": "T1",
+      "published_at": "2026-07-28",
+      "why_it_matters": "구찌 실적 개선세가 확인됐지만 여전히 역성장 국면이며, 쥬얼리·아이웨어 등 타 사업부가 그룹 성장을 견인하고 있어 구찌의 그룹 내 상대적 비중과 압박이 계속 부각된다.",
+      "why_it_matters_en": "Gucci's retail trend improved but the brand is still in decline; jewelry and eyewear are increasingly carrying group growth, keeping pressure on Gucci's turnaround timeline.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "Kering, 2026년 매장 100곳 순폐점 목표 근접 — 구찌·맥퀸 포함, 아시아 비중 40%",
+      "summary": "Kering은 2025년 순 75개 매장을 폐점한 데 이어 2026년 상반기에만 84개를 추가로 폐점해 연간 100개 순폐점 목표에 근접했다. 구찌와 알렉산더 맥퀸이 대상에 포함되며, 폐점의 약 40%가 아시아 시장에 집중된다.",
+      "url": "https://finance.yahoo.com/news/luxury-giant-close-more-200-040700889.html",
+      "source": "Yahoo Finance / TheStreet",
+      "tier": "T2",
+      "published_at": "2026-07-29",
+      "why_it_matters": "매장망 축소는 수익성 회복을 위한 의도된 전략이지만, 아시아 집중 폐점은 구찌의 핵심 성장 시장에서의 입지 축소 신호로도 읽힐 수 있어 양면적이다.",
+      "why_it_matters_en": "Store network pruning is a deliberate margin-recovery move, but the Asia-heavy closure mix could also read as a retreat in a core growth market for Gucci — a genuinely two-sided signal.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "코티, 구찌 뷰티 라이선스 조기 반납 완료 — 로레알 전환 1년 앞당겨져",
+      "summary": "코티는 7월 7일, 약 4억 달러(2026년 약 2.5억 달러, 2027년 최대 1.5억 달러)를 받는 조건으로 구찌 뷰티 라이선스를 케링에 조기 반납하는 합의를 발표했다. 이로써 로레알로의 전환 시점이 원래 계약 종료(2028년)보다 약 1년 앞당겨졌고, 양측은 관련 소송을 모두 종결했다.",
+      "url": "https://www.coty.com/news/coty-announces-agreement-with-kering-for-early-transition-of-gucci-beauty-license",
+      "source": "Coty (official release)",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "구찌 뷰티가 로레알 럭스 산하로 조기 편입되며 향후 뷰티 라인 재출시·유통 전략의 변곡점이 될 전망이나, 소송이 있었다는 사실 자체가 라이선스 전환 과정의 마찰을 보여준다.",
+      "why_it_matters_en": "Gucci Beauty's early move into L'Oréal Luxe sets up a relaunch inflection point, though the underlying lawsuit is a reminder the transition was contentious, not smooth.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "구찌, 몬테카를로 캠페인 2막 공개 — 플로라 모티프 60주년 기념",
+      "summary": "구찌는 Tian Xi Wei, Amelia Gray, Anok Yai 등이 출연한 몬테카를로 캠페인의 두 번째 챕터를 공개했다. 지글리오, 재키, 디오니소스 백의 신규 버전을 앞세워 플로라 모티프 도입 60주년을 기념하는 내용이다.",
+      "url": "https://usa.10magazine.com/gucci-monte-carlo-10-things-jul-3/",
+      "source": "10 Magazine",
+      "tier": "T2",
+      "published_at": "2026-07-03",
+      "why_it_matters": "헤리티지 모티프를 반복 소환하는 캠페인 활동으로, 브랜드 인지도 재확인 활동일 뿐 소비자 여론 개선의 증거로 해석해서는 안 된다.",
+      "why_it_matters_en": "This is brand activation leaning on heritage codes — treat it as marketing output, not evidence of a sentiment shift among consumers.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "partnership",
+      "headline": "구찌, 구글과 손잡고 2027년 스마트글라스 출시 예정",
+      "summary": "Kering CEO 루카 데 메오는 구찌가 구글과 협업해 2027년 AI 기반 스마트글라스를 출시할 계획이라고 밝혔다. 실현될 경우 메이저 럭셔리 브랜드로는 최초의 AI 아이웨어 진출 사례가 된다.",
+      "url": "https://whbl.com/2026/04/16/gucci-owner-kering-aims-to-launch-luxury-google-glasses-next-year-ceo-says/",
+      "source": "WHBL (Reuters wire)",
+      "tier": "T2",
+      "published_at": "2026-04-16",
+      "why_it_matters": "케링 아이웨어 부문이 그룹 성장의 핵심 축으로 부상하는 가운데, 구찌를 테크 협업의 선봉으로 내세운 전략적 베팅이다. 다만 출시가 1년 이상 남아 있어 실행 리스크가 크다.",
+      "why_it_matters_en": "With Kering Eyewear now a key growth pillar, putting Gucci at the front of a tech collaboration is a deliberate strategic bet — but execution risk is real given the launch is still over a year out.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "구찌, 쿠키·프라이버시 관련 중재 절차 미이행으로 집단소송 가능성 노출",
+      "summary": "구찌가 웹사이트 쿠키 사용과 관련해 옵트아웃 설정에도 불구하고 이용자 프라이버시를 침해했다는 주장과 관련, 중재 수수료 납부 기한을 지키지 못했다는 의혹이 제기되며 법원 소송으로 번질 가능성이 커졌다.",
+      "url": "https://dailyjournal.com/article/384881-gucci-s-alleged-arbitration-misstep-opens-door-to-court-battle",
+      "source": "Daily Journal",
+      "tier": "T2",
+      "published_at": "2026-07",
+      "why_it_matters": "디지털 프라이버시 컴플라이언스 리스크로, 온라인 유통 확대 전략을 추진 중인 구찌에 절차적 리스크를 노출시킨다.",
+      "why_it_matters_en": "A digital-privacy compliance stumble exposes procedural risk just as Gucci leans further into e-commerce and direct digital channels.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "trend",
+      "headline": "구찌, 신제품 판매 둔화에도 리세일(중고) 시장에서는 강세 지속",
+      "summary": "구찌는 여전히 Vestiaire Collective 등 리세일 플랫폼에서 가장 많이 거래되는 럭셔리 브랜드 중 하나이며, eBay에서는 패드락 백(+530%), 지글리오 백(+428%) 등 특정 모델의 평균가가 급등했다. 신제품 매출은 부진한 반면 톰 포드 시대 등 헤리지티 아이템의 중고 수요는 견고하다.",
+      "url": "https://cpp-luxury.com/gucci-second-hand-sales-increase-while-sales-of-new-products-decline/",
+      "source": "CPP-Luxury",
+      "tier": "T2",
+      "published_at": "2026-06",
+      "why_it_matters": "신제품과 중고 시장의 온도차는 구찌의 브랜드 자산(헤리티지 디자인) 자체는 견고하나 현재 컬렉션의 신규 수요 창출력이 약하다는 신호로 해석할 수 있다.",
+      "why_it_matters_en": "The gap between weak new-product sales and strong resale demand suggests Gucci's brand equity in legacy design remains intact even as its current collections struggle to generate fresh primary demand.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "데 메오, 케링 연례 주총서 구찌·쥬얼리 중심 성장 전략 재확인",
+      "summary": "루카 데 메오 케링 CEO는 연례 주주총회에서 구찌의 SKU 20% 축소, 2,000~3,000유로대 미드프라이스 전략 강화, 2030년까지 레더굿즈 부문 10억 유로 이상 추가 매출 목표 등을 재확인하며 구찌 회생 계획에 대한 기대를 표명했다.",
+      "url": "https://wwd.com/business-news/financial/kering-shareholders-meeting-de-meo-strategy-1238984960/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07",
+      "why_it_matters": "SKU 축소와 미드프라이스 재정렬은 구찌 브랜드 명확성 회복을 위한 근본 전략이지만, 목표 대비 현재 매출은 여전히 역성장 구간에 있어 실행과 성과 간 간극이 크다.",
+      "why_it_matters_en": "SKU rationalization and mid-price repositioning are the structural fix for brand clarity, but current sales remain in decline, so there is a wide gap between the stated ambition and delivered results.",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": []
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "NA-2026-08-02-001",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified demand data (US handbag demand, 16.9% share rally) framing NA as strongest proof point of turnaround.",
+    "signal_tags": ["earnings", "demand_data", "share_price"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-02-002",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Earnings beat reported but tempered by CEO's own caution that recovery 'will not be linear' and Q3 seen flattish.",
+    "signal_tags": ["earnings", "guidance_caution"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-08-02-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent analyst upgrade (HSBC) plus quantified US handbag demand attribution, a clear third-party judgment.",
+    "signal_tags": ["earnings", "analyst_upgrade", "demand_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-02-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Skeptical trade-press counterweight: 12th consecutive quarterly decline, turnaround 'far from complete'.",
+    "signal_tags": ["earnings", "skeptical_press", "momentum_negative"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-08-02-005",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party demand data: NA sales +7% YoY cited as a bellwether for affluent-consumer spending recovery.",
+    "signal_tags": ["demand_data", "consumer_spend"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-02-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Sell-side digest frames Gucci as still mid-transition; focus on debt reduction, not a brand-fixed verdict — mixed/factual.",
+    "signal_tags": ["earnings", "analyst_note", "debt"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-08-02-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic price-hike backlash: buyers describe trading down to secondhand or competitor bags rather than paying current prices.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "community"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-08-02-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum reaction to campaign imagery split, but criticism that 'trash aesthetic' undercuts luxury positioning vs price is the net evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign_criticism", "design_criticism"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-02-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Price-hike coverage (10%+ on popular bags) tied to sector-wide pattern, referencing active complaint threads.",
+    "signal_tags": ["price_hike_backlash", "tariff"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-08-02-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "QC complaints (stitching, tarnishing, repair mismatch) reported, though explicitly mixed with defenders of quality.",
+    "signal_tags": ["quality_complaint", "repair_service"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-02-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Activation-adjacent Cruise 2027 reaction video described as a mixed take with no extractable clear verdict; engagement data unavailable.",
+    "signal_tags": ["activation_coverage", "sns", "collection_reaction"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-08-02-012",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sharp critical trade-press verdict: sales roughly halved over three years after price hikes alienated customers, brand still 'not fixed yet'.",
+    "signal_tags": ["skeptical_press", "price_hike_backlash", "momentum_negative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-02-013",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Wire-syndicated factual recap of Q2 results propagating the cautious-optimism narrative; no independent evaluative stance.",
+    "signal_tags": ["earnings", "wire_syndication"],
+    "confidence": 0.65
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SEA-2026-08-02-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "12th straight quarterly Gucci sales decline reported, despite sequential improvement and consensus beat — net negative momentum press",
+    "signal_tags": ["earnings", "momentum_press", "store_closures"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-02-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering press release restating H1 figures and self-reported 'early signs of recovery' — brand-owned filing, not independent public opinion",
+    "signal_tags": ["earnings", "official_release", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-02-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press background on luxury sector's SEA expansion; incidental Gucci mention among peers, no brand-specific evaluative judgment",
+    "signal_tags": ["trade_press", "sea_expansion", "background"],
+    "confidence": 0.7
+  }
+]

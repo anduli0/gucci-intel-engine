@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "SEA-2026-08-02-001",
+      "region": "SEA",
+      "source": "The Manila Times",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.manilatimes.net/2026/07/30/business/foreign-business/kering-turnaround-slows-gucci-sales-decline/2394290",
+      "published_at": "2026-07-30",
+      "title": "Kering turnaround slows Gucci sales decline",
+      "summary": "Philippine business-press writeup of Kering's H1 2026 results: Gucci Q2 sales fell 4% to about $1.6 billion, beating consensus and easing from the prior quarter's 8% drop, marking a 12th straight quarterly decline. Notes 84 net store closures in H1 (100 targeted for the year), net debt cut to 3.3 billion euros, and US handbag demand as the improvement driver; CEO Luca de Meo said the group is still 'at the beginning of the journey.'",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-02-002",
+      "region": "SEA",
+      "source": "Kering (official press release)",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334524/0/en/Kering-2026-First-half-results-back-to-growth-performance-improvement-strategy-execution-on-track.html",
+      "published_at": "2026-07-28",
+      "title": "Kering 2026 First-half results: back to growth, performance improvement and strategy execution on track",
+      "summary": "Official H1 2026 results filing: Gucci revenue down 9% reported to 2,757 million euros for H1 (Q2 down 3% reported, -2% comparable), recurring operating margin 17.0% (+1pt YoY). Asia-Pacific showed 'early signs of recovery' in Q2 though mainland China stayed challenging; jewelry (Boucheron, Pomellato) posted strong APAC-driven growth. New Borsetto and Paparazzo bag lines and the Gucci Core New York show cited as momentum drivers.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-02-003",
+      "region": "SEA",
+      "source": "Retail Brew",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.retailbrew.com/stories/why-luxury-brands-are-increasingly-turning-to-southeast-asia-for-growth",
+      "published_at": "2026-05-13",
+      "title": "Why luxury brands are increasingly turning to Southeast Asia for growth",
+      "summary": "Trade coverage of Gucci, Louis Vuitton, Dior and Hermes expanding across Bangkok (Siam Paragon, Central Embassy), Singapore (Marina Bay Sands' $8B repositioning) and Vietnam (Ho Chi Minh City, Hanoi) to capture younger consumers and tourism-driven spend as brands diversify away from China dependence. Kept as structural background on the SEA growth thesis even though it exceeds the 7-day freshness target (still inside the 14-day hard cap); no fresher equivalent trade piece was found this cycle.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 9,
+    "Louis Vuitton": 1,
+    "Dior": 1,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0
+  }
+}
