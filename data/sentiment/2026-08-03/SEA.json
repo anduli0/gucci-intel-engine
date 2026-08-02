@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SEA-2026-08-03-001",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Wire report of easing Gucci sales decline reads as cautious positive momentum, but SEA/APAC explicitly flagged as still lagging.",
+    "signal_tags": ["earnings", "momentum_press", "apac_lag"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-08-03-002",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Kering shares jumped and analyst upgraded to buy on smaller-than-forecast decline, tempered by 12th straight quarterly drop and weak China.",
+    "signal_tags": ["earnings", "analyst_upgrade", "momentum_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-03-003",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Financial analysis credits margin rebuild for investor confidence, but flags SEA tourism-driven spend as the slower-recovering leg.",
+    "signal_tags": ["earnings", "margin_rebuild", "apac_lag"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-03-004",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press (WWD) independent analysis of 15% share surge and turnaround momentum, quantified market reaction qualifies for full magnitude.",
+    "signal_tags": ["earnings", "trade_press", "momentum_press", "apac_lag"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-08-03-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread mixes enthusiasm for Flora print return with skepticism about recycling archival motifs; mixed sentiment nets neutral, low-confidence polarity demoted.",
+    "signal_tags": ["community", "design_debate", "archival_reissue"],
+    "confidence": 0.4
+  }
+]
