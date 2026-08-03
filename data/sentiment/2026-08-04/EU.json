@@ -1,0 +1,74 @@
+[
+  {
+    "id": "eu-2026-08-04-01",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Analyst framing of margin rebuild and confidence is cautiously positive though explicitly not a clean recovery, capping conviction.",
+    "signal_tags": ["earnings", "analyst_commentary", "margin"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-08-04-02",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent market reaction (shares jump) plus quantified sequential improvement in comparable sales is third-party evidence, not brand promo.",
+    "signal_tags": ["earnings", "stock_reaction", "momentum"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-08-04-03",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive executive-appointment write-up tied to brand-extension deal; activation-coverage discount applies with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "brand_extension", "appointment"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-08-04-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community discussion is split but the vocal subset raises a value-for-money dispute: price increases outpacing perceived quality.",
+    "signal_tags": ["value_for_money", "community", "price_backlash"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-08-04-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic creator commentary reviving AI-imagery backlash frames the brand as cutting corners on creative craft; engagement unverifiable, volume-damped.",
+    "signal_tags": ["ai_backlash", "quality_criticism", "sns_community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-08-04-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring customer complaints about hardware tarnishing, cracked leather, and slow repair turnaround are direct QC/service quality criticism.",
+    "signal_tags": ["quality_complaint", "customer_service", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-08-04-09",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned corporate account recirculating its own earnings turnaround messaging is self-promo, not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned", "official_channel"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-08-04-10",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Opinion column argues Gucci has lost its identity and leadership vision across creative-director eras, an emotionally charged independent critical narrative.",
+    "signal_tags": ["design_criticism", "lost_its_way", "opinion"],
+    "confidence": 0.6
+  }
+]

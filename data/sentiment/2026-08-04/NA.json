@@ -1,0 +1,58 @@
+[
+  {
+    "id": "NA-2026-08-04-001",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares surge 15% on independently-verified Q2 sales beat driven by strong US handbag demand.",
+    "signal_tags": ["earnings", "quantified_demand", "turnaround"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-08-04-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analytical trade piece on Gucci's F1 sponsorship strategy; descriptive framing of a brand-marketing move, no clear evaluative verdict.",
+    "signal_tags": ["activation_coverage", "sponsorship", "strategy_analysis"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-04-003",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Core US collector community questions value-for-money on repeated Gucci price hikes vs. LV/Chanel.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "community"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-08-04-004",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press argues aggressive pricing created a structural value-perception problem, citing $1,000 T-shirt backlash and squeezed aspirational shoppers.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "trade_press_critical"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-04-005",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified resale price drops (recent styles down from ~$2,000 to $600-900) alongside collapsing new sales signal eroding trust in current output.",
+    "signal_tags": ["resale_price_drop", "quantified_demand", "trade_press_critical"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-04-006",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent community judgment praising the new Borsetto bag as one of the few genuinely desirable releases, linked to the actual Q2 sales beat.",
+    "signal_tags": ["design_praise", "purchase_intent", "quantified_demand"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-08-04-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Small thread with mixed DTC experience reports; no dominant polarity, incidental discussion.",
+    "signal_tags": ["ecommerce_experience", "mixed_feedback"],
+    "confidence": 0.5
+  }
+]

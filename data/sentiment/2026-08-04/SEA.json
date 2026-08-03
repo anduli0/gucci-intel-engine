@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SEA-2026-08-04-01",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Official Kering H1 results confirm Gucci APAC comparable sales still negative for the half and Mainland China still 'challenging' despite sequential Q2 improvement.",
+    "signal_tags": ["earnings", "negative_momentum", "apac_recovery_mixed"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-04-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Twelfth consecutive quarterly sales decline plus confirmed 100-store closure plan and inventory cuts outweigh the share-price rally framing.",
+    "signal_tags": ["earnings", "negative_momentum", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-04-03",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic Malaysian social post expressing surprise/concern over Gucci KLCC flagship closure signals negative retail-footprint sentiment.",
+    "signal_tags": ["store_closure", "retail_footprint", "community_concern"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-04-04",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Commentary frames Gucci's KLCC exit as part of a declining-prestige narrative for Gucci's Malaysia retail presence; low engagement caps magnitude.",
+    "signal_tags": ["retail_footprint", "store_closure", "market_narrative"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-08-04-05",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum thread alleges Gucci's KLCC closure reflects rental cost misalignment amid wider luxury exodus, but page fetch failed (HTTP 403) so content is unverified; demoted to neutral per low-confidence rule.",
+    "signal_tags": ["store_closure", "unverified_content", "low_confidence"],
+    "confidence": 0.4
+  }
+]
