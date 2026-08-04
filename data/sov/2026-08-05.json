@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-05",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "브랜드: Gucci + data/sources/pool.json의 competitor_set 전체 8개 브랜드(Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry) — 총 9개 브랜드",
+    "각 브랜드에 동일한 중립 검색 템플릿을 지역별로 동일 횟수 실행: NEA는 '<브랜드> 뉴스'(한국어) + '<브랜드> ニュース'(일본어) 2회, SEA/NA는 '<브랜드> news' 계열 검색, EU는 '<브랜드> actualité/notizie' 계열 검색 — 브랜드마다 동일한 검색 수, 동일한 스캔 깊이 적용",
+    "집계 기간은 2026-07-29~2026-08-05(최근 7일)로 제한하고, 기사 발행일이 명확히 확인되지 않으면 집계에서 제외",
+    "쇼핑몰 상품 리스팅, 브랜드 태그/아카이브 페이지, 나무위키/위키백과 등 백과사전류, 중복 보도는 집계 제외 — 편집 기사(뉴스·리뷰·피처)만 인정",
+    "각 지역·브랜드마다 검색으로 발견된 서로 다른 매체의 관련 기사 수를 있는 그대로 기록 — 특정 브랜드가 실제로 보도량이 많으면(예: 케링 2분기 실적 발표 관련 구찌 보도 집중) 그대로 반영하고 인위적으로 평탄화하지 않음",
+    "SEA 지역은 이번 주기 검색에서 9개 브랜드 모두 최근 7일 이내로 명확히 날짜가 확인되는 편집 기사를 충분히 확보하지 못해 대부분 0 또는 매우 낮은 카운트로 기록됨 — 이는 편향이 아니라 해당 주간 SEA 특화 보도가 희박했음을 반영"
+  ],
+  "criteria_en": [
+    "Brands: Gucci + all 8 brands in data/sources/pool.json competitor_set (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry) — 9 brands total",
+    "Same neutral query template run per brand per region with identical count/depth: NEA used '<brand> 뉴스' (Korean) + '<brand> ニュース' (Japanese), 2 searches each; SEA/NA used '<brand> news' family queries; EU used '<brand> actualité/notizie' family queries",
+    "Counting window restricted to 2026-07-29 through 2026-08-05 (last 7 days); items without a clearly verifiable publish date within window were excluded",
+    "Excluded: shopping/product listing pages, brand tag/archive pages, encyclopedia entries (Namuwiki/Wikipedia), and duplicate coverage of the same story — only editorial articles (news/review/feature) counted",
+    "Counts recorded honestly as found per region/brand — genuine coverage spikes (e.g., Gucci's heavy coverage tied to Kering's Q2 2026 earnings release on July 28, 2026) are kept as-is, not smoothed or normalized down",
+    "SEA region: this cycle's searches did not surface enough clearly-dated (within 7 days) editorial articles across all 9 brands specifically covering the SEA market — most brands recorded 0 or very low counts, reflecting genuinely thin SEA-specific coverage that week rather than a collection bias"
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 3,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 1,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "SEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 4,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "EU": {
+      "Gucci": 3,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["뉴스웨이", "WWDJAPAN", "Yahoo!ファイナンス(ロイター)"],
+        "examples": [
+          {"title": "구찌 품은 로레알, 럭셔리로 날개···K뷰티는 고부가가치 숙제", "url": "https://newsway.co.kr/news/view?ud=2026080315131719640"},
+          {"title": "「グッチ」のビューティライセンス喪失でコティに大打撃 ケリングとロレアルの戦略提携により", "url": "https://www.wwdjapan.com/articles/2245390"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {
+        "outlets": ["W Korea"],
+        "examples": [
+          {"title": "푸르게 물든 샤넬의 시간", "url": "https://www.wkorea.com/2026/07/30/%ED%91%B8%EB%A5%B4%EA%B2%8C-%EB%AC%BC%EB%93%A0-%EC%83%A4%EB%84%AC%EC%9D%98-%EC%8B%9C%EA%B0%84"}
+        ]
+      },
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "SEA": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["WWD", "Investing.com (Reuters)", "Yahoo Finance", "MarketScreener"],
+        "examples": [
+          {"title": "Kering Shares Surge 15% on Gucci's Promising Turnaround Momentum", "url": "https://wwd.com/business-news/financial/kering-share-reaction-second-quarter-results-1239086670/"},
+          {"title": "Gucci sales decline slows in boost for Kering's turnaround efforts", "url": "https://www.investing.com/news/stock-market-news/gucci-sales-decline-slows-in-boost-for-kerings-turnaround-efforts-4817612"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": ["GlobeNewswire (Kering officiel)", "Zonebourse", "TradingSat/BFM Bourse"],
+        "examples": [
+          {"title": "Kering - Résultats semestriels 2026 : retour à la croissance, amélioration de la performance & exécution de la stratégie en ligne avec le plan", "url": "https://www.globenewswire.com/news-release/2026/07/28/3334524/0/fr/Kering-R%C3%A9sultats-semestriels-2026-retour-%C3%A0-la-croissance-am%C3%A9lioration-de-la-performance-ex%C3%A9cution-de-la-strat%C3%A9gie-en-ligne-avec-le-plan.html"},
+          {"title": "Kering : Gucci se redresse, les marges restaurent la confiance", "url": "https://www.zonebourse.com/actualite-bourse/kering-gucci-se-redresse-les-marges-restaurent-la-confiance-ce7f51d3d980f323"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "brand_group": "LVMH",
+  "date": "2026-08-05",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "LVMH",
+      "event_type": "corporate",
+      "headline": "LVMH discloses share buyback transactions for July 24-31, 2026 to AMF",
+      "summary": "LVMH는 2026년 7월 24일부터 31일까지 실시한 자사주 매입 거래 내역을 프랑스 금융시장청(AMF)에 공시했다. 8월 4일 발표된 이번 공시는 정기적인 자사주 매입 프로그램의 일환이다.",
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338610/0/en/LVMH-Share-transactions-disclosure.html",
+      "source": "GlobeNewswire",
+      "tier": "T2",
+      "published_at": "2026-08-04",
+      "why_it_matters": "LVMH의 지속적인 자사주 매입은 주가 방어 의지를 보여주지만 동시에 유기적 성장만으로는 주주 신뢰를 유지하기 어렵다는 방증이기도 하며, 케링과의 자본배분 경쟁 구도를 가늠하는 참고 지표다",
+      "why_it_matters_en": "LVMH's ongoing buyback program signals share-price defense intent, a routine but relevant capital-allocation data point for benchmarking against Kering's own balance-sheet moves.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Dior",
+      "event_type": "earnings",
+      "headline": "Dior sales turnaround credited to Anderson's Cigale bag as HSBC forecasts V-shaped 2026 recovery",
+      "summary": "디올은 미국·일본 고객 대상 두 자릿수 매출 성장을 기록했고, 조나단 앤더슨의 첫 컬렉션에서 나온 시가르(Cigale) 백이 특히 좋은 반응을 얻었다. HSBC는 앤더슨의 '전면적 리부트'가 2026년 불변환율 기준 10% 매출 성장의 V자형 회복으로 이어질 것으로 전망했다.",
+      "url": "https://wwd.com/business-news/financial/dior-revival-losing-streak-lvmh-fashion-division-1239084268/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-31",
+      "why_it_matters": "디올의 신제품 백 하나가 크리에이티브 디렉터 교체 후 회복의 상징으로 자리잡은 사례는 구찌가 뎀나 체제에서 상업적 견인차가 될 아이코닉 신제품을 얼마나 빨리 만들어내야 하는지를 보여주는 압박 지표다",
+      "why_it_matters_en": "A single new bag becoming the symbol of Dior's post-creative-director-change recovery underscores the pressure on Gucci to produce its own commercially anchoring hero product under Demna, and HSBC's bullish 10% call is an analyst forecast, not a confirmed result.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Christian Dior Couture",
+      "event_type": "executive",
+      "headline": "LVMH confirms leadership reshuffle at Givenchy and Christian Dior Couture",
+      "summary": "LVMH는 지방시와 크리스챤 디올 쿠튀르에서 전략적 리더십 개편을 발표했다. 아망딘 오아용이 지방시 CEO로, 피에르-에마뉘엘 앙젤로글루가 크리스챤 디올 쿠튀르 부CEO로 델핀 아르노에게 보고하는 체제로 확정됐다.",
+      "url": "https://luxus-plus.com/en/lvmh-announces-two-major-appointments-at-givenchy-and-christian-dior-couture",
+      "source": "Luxus Plus",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "패션 부문 실적 회복 국면에서 LVMH가 임원진을 동시다발적으로 재편하는 것은 크리에이티브 성과를 상업 조직에 신속히 접목시키려는 의도로, 구찌의 경영진 안정성과 비교할 지표가 된다",
+      "why_it_matters_en": "LVMH reshuffling executive leadership across two houses simultaneously, timed to the fashion division's earnings recovery, signals a push to lock in commercial execution behind creative momentum, a useful contrast point for Gucci's own management stability.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "launch",
+      "headline": "Louis Vuitton's fall 2026 collection second drop arrives August 6, led by LV Drop 300 sneaker",
+      "summary": "루이 비통 폴 2026 컬렉션의 두 번째이자 마지막 드롭이 8월 6일 공개된다. 신소재 LV 실크 테크(실크 51%, 재활용 나일론 49%)를 적용한 초경량 스니커즈 'LV 드롭 300'이 핵심 제품으로 내세워졌다.",
+      "url": "https://us.louisvuitton.com/eng-us/men/spring-summer-2026-pre-collection/_/N-t37z7cx",
+      "source": "Louis Vuitton (official)",
+      "tier": "T1",
+      "published_at": "2026-08-04",
+      "why_it_matters": "루이 비통이 신소재 기술을 스니커즈에 적용해 헤리티지 브랜드에 기능성 서사를 더하는 전략은 구찌가 신발·액세서리 카테고리에서 소재 혁신 스토리를 얼마나 활용하고 있는지 되짚게 한다",
+      "why_it_matters_en": "Louis Vuitton attaching a technical-material narrative to a heritage house's footwear is a positioning move worth benchmarking against how much material-innovation storytelling Gucci currently applies to its own footwear and accessories lines.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Moet Hennessy",
+      "event_type": "campaign",
+      "headline": "Moet Hennessy launches Glenmorangie x Harrison Ford limited-edition whisky in travel retail",
+      "summary": "모엣 헤네시 트래블 리테일은 배우 해리슨 포드 및 위스키 크리에이션 디렉터 빌 럼스덴 박사와 협업한 글렌모렌지 해리슨 포드 한정판을 출시하고 주요 국제공항에서 전용 활성화 프로그램을 진행한다.",
+      "url": "https://www.dfnionline.com/brand-news/liquor-wines/moet-hennessy-travel-retail-unveils-harrison-ford-limited-edition-04-08-2026/",
+      "source": "DFNI (Duty Free News International)",
+      "tier": "T2",
+      "published_at": "2026-08-04",
+      "why_it_matters": "LVMH가 와인·주류 부문에서도 셀러브리티 협업과 트래블 리테일 활성화를 병행하는 것은 구찌 뷰티·액세서리의 공항 면세 채널 활용 전략과 비교할 만한 참고 사례다",
+      "why_it_matters_en": "LVMH pairing celebrity collaborations with travel-retail activation in Wines & Spirits, its best-performing division in H1 2026, is a cross-category playbook worth comparing against Gucci's own airport duty-free presence for beauty and accessories.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "earnings",
+      "headline": "LVMH H1 2026 net profit flat at 5.70bn euros, beating consensus, as Fashion & Leather Goods still down 9% year-on-year",
+      "summary": "LVMH의 2026년 상반기 순이익은 57억 유로로 전년과 비슷한 수준을 유지하며 컨센서스 전망치 52.2억 유로를 상회했다. 다만 반복영업이익은 4% 감소한 86.9억 유로(영업이익률 22.5%)에 그쳤고, 패션·가죽제품 부문은 전년 동기 대비 9% 감소했다. 시계·주얼리 부문은 11% 성장하며 그룹 내 최고 성과를 냈다.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lvmh-fashion-leather-goods-q2-2026-increase-1239083331/",
+      "source": "WWD / Yahoo Finance",
+      "tier": "T1",
+      "published_at": "2026-07-29",
+      "why_it_matters": "패션·가죽제품 부문이 여전히 전년 대비 두 자릿수 근접한 하락세를 보이는 반면 시계·주얼리가 그룹을 견인하는 구조는, 구찌가 속한 카테고리(패션·가죽)의 업계 전반적 압박이 아직 해소되지 않았음을 보여준다",
+      "why_it_matters_en": "Fashion & Leather Goods remains down nearly double digits year-on-year even as the division posted a small quarterly gain, and Watches & Jewelry is what's actually carrying the group, a reminder that category-wide pressure on the segment Gucci competes in has not genuinely lifted despite the positive earnings headline.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "LVMH",
+      "event_type": "controversy",
+      "headline": "Forbes: LVMH's real problem is governance, not succession",
+      "summary": "Forbes 오피니언은 아르노 회장이 5명의 자녀를 모두 요직에 앉혔음에도 가족주주협의회, 가족헌장, 독립적 감독 구조 등 공식 거버넌스 장치가 없다는 점을 핵심 리스크로 지적했다. 펀드스미스는 2026년 상반기 LVMH 지분을 전량 매도했다.",
+      "url": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/08/03/lvmh-has-a-governance-problem-not-a-succession-one/",
+      "source": "Forbes",
+      "tier": "T1",
+      "published_at": "2026-08-03",
+      "why_it_matters": "구찌를 소유한 케링과 경쟁하는 LVMH의 지배구조 불확실성은 투자자 신뢰와 브랜드 전략의 연속성에 영향을 줄 수 있어 업계 전체의 지배구조 리스크 벤치마크가 된다",
+      "why_it_matters_en": "LVMH's governance uncertainty at the top is a structural risk investors are actively pricing in, offering a cautionary benchmark for family-controlled luxury conglomerates including Kering.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "trend",
+      "headline": "Monogram 130th-anniversary push revives Speedy and Alma lines, drives viral color variants on TikTok",
+      "summary": "루이 비통은 시그니처 모노그램 탄생 130주년을 기념해 스피디·알마 라인을 성장세로 되돌렸고, 자카드 소재의 모노그램 앙블렘 컬렉션을 새로 출시했다. 퓨셔·핑크·오렌지 등 색상 변주의 나노 스피디가 TikTok에서 언박싱·스타일링 콘텐츠로 확산되고 있다.",
+      "url": "https://wwd.com/business-news/financial/dior-revival-losing-streak-lvmh-fashion-division-1239084268/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-29",
+      "why_it_matters": "헤리티지 아이코닉 라인의 리컬러·리에디션을 통한 재성장 전략은 구찌가 자체 아카이브(호스빗, GG 모노그램 등)를 활용할 때 참고할 수 있는 실질적 벤치마크다",
+      "why_it_matters_en": "Reviving heritage icon bags through anniversary storytelling and color variants is a proven growth lever Gucci could apply to its own archive (Horsebit, GG monogram) rather than relying solely on new design language.",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

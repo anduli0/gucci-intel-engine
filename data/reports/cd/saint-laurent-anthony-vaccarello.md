@@ -1,6 +1,6 @@
 # 안토니 바카렐로 — 생로랑 (Saint Laurent)
 
-2026-07-11 (dossier update) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-05 (dossier update — 취임 10주년·라이스트 1위·H1 2026 성장 전환 반영) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## 목차
 
@@ -12,12 +12,11 @@
 6. 구찌 관점
 7. 전망
 8. 주석
-9. Executive Summary (English)
-10. 출처
+9. 출처
 
 ## 핵심 요약
 
-안토니 바카렐로는 2016년 4월 에디 슬리먼(Hedi Slimane)의 후임으로 생로랑 크리에이티브 디렉터에 올라 2026년으로 재임 10년을 채운, 케링(Kering) 포트폴리오 안에서 가장 안정적인 창작자다. 그는 날카로운 테일러링, 과장된 어깨, 검정 중심의 팜파탈적 미니멀리즘이라는 좁고 일관된 코드를 10년간 반복하며 "혁신보다 일관성이 강하다"는 명제를 상업적으로 증명했다[1][5][9]. 2025년 생로랑 매출은 26억 유로로 전년 대비 보고 기준 8퍼센트 감소했으나 20.0퍼센트라는 케링 최고 수준의 영업이익률을 지켜냈고, 구찌가 뎀나(Demna) 체제로 리셋에 들어간 지금 케링 내부의 실질적 벤치마크로 기능한다[2][6]. 본 도시에는 그의 궤적과 미학, 그리고 자매 브랜드이자 경쟁 좌표로서 구찌에 주는 함의를 정리한다.
+안토니 바카렐로는 2016년 4월 에디 슬리먼(Hedi Slimane)의 후임으로 생로랑 크리에이티브 디렉터에 올라 2026년으로 재임 10년을 채운, 케링(Kering) 포트폴리오 안에서 가장 안정적인 창작자다. 그는 날카로운 테일러링, 과장된 어깨, 검정 중심의 팜파탈적 미니멀리즘이라는 좁고 일관된 코드를 10년간 반복하며 "혁신보다 일관성이 강하다"는 명제를 상업적으로 증명했다[1][5][9]. 그리고 이 궤적은 최근 두 가지 지표로 재확인됐다. 생로랑은 2025년 3분기 리스트 인덱스(Lyst Index)에서 미우미우(Miu Miu)를 제치고 1위에 올랐고[2][11][12], 케링 2026년 상반기 실적에서 보테가 베네타와 함께 그룹의 성장 전환을 이끈 브랜드 중 하나로 지목됐다[13][14][15]. 구찌가 뎀나(Demna) 체제로 리셋에 들어간 지금, 10년의 창작 일관성과 상업 실행을 결합해 회복을 선도하는 생로랑은 케링 내부의 실질적 벤치마크로 기능한다. 본 도시에는 그의 궤적과 미학, 그리고 자매 브랜드이자 경쟁 좌표로서 구찌에 주는 함의를 정리한다.
 
 ## 1. 프로필 개요
 
@@ -53,7 +52,9 @@
 
 바카렐로의 데뷔는 만장일치의 환대가 아니었다. 2016년 9월 선보인 2017 봄여름 데뷔 컬렉션(49룩)의 반응은 엇갈렸다. 일부 비평가는 그의 데뷔를 전임자 스타일의 "나쁜 복제"에 그친다고 혹평했다[10]. 비평적 평가와 상업적 성과가 초기부터 갈리는 혼재된 출발이었다. 슬리먼의 생로랑이 록앤롤이었다면 바카렐로의 생로랑은 과거를 기리는 개념적 작업으로 갈라섰다.
 
-상업 전환은 빨랐다. 초기 히트작이 베스트셀러가 되고 캠페인이 강렬해지면서 생로랑은 럭셔리의 강자로 자리 잡았다[9]. 2025년 3분기에는 리스트 인덱스(Lyst Index) 1위에 오르며 문화적 화제성과 상업성을 동시에 입증했다[2]. 다만 최근 실적은 다운턴을 반영한다. 2025년 생로랑 매출은 26억 유로로 보고 기준 8퍼센트, 컴패러블 기준 6퍼센트 감소했다[2][6]. 직영 리테일은 6퍼센트, 도매는 컴패러블 기준 14퍼센트 하락했으나, 4분기에는 직영이 안정세로 돌아섰고 북미 성장과 서유럽의 플러스 전환이 동력이 됐다[2]. 무엇보다 생로랑은 2025년 5억 2,900만 유로의 리커링 영업이익과 20.0퍼센트의 영업이익률을 지켜내, 케링 포트폴리오 안에서 가장 방어적인 마진 구조를 유지했다[2][6]. 케링 전체가 2025년 매출 약 146.75억 유로로 보고 기준 13퍼센트 감소한 것과 대비하면 생로랑의 상대적 견실함이 두드러진다[6].
+상업 전환은 빨랐다. 초기 히트작이 베스트셀러가 되고 캠페인이 강렬해지면서 생로랑은 럭셔리의 강자로 자리 잡았다[9]. 이 화제성은 리스트 인덱스에서 정점을 찍었다. 생로랑은 2025년 3분기 리스트 인덱스에서 미우미우를 제치고 1위에 올라 해당 분기 가장 뜨거운 브랜드로 지목됐다[2][11][12]. 이 성취는 취임 10주년 국면의 문화적 화제성과 상업성을 동시에 입증했다[5].
+
+실적 측면에서도 국면이 바뀌었다. 2025년 생로랑 매출은 26억 유로로 보고 기준 8퍼센트, 컴패러블 기준 6퍼센트 감소했으나 5억 2,900만 유로의 리커링 영업이익과 20.0퍼센트의 영업이익률을 지켜내 케링 포트폴리오에서 가장 방어적인 마진 구조를 유지했다[2][6]. 그리고 2026년 상반기 실적(2026년 7월 28일 발표)에서 생로랑은 보테가 베네타와 함께 케링의 다운턴 이후 성장 전환을 이끈 브랜드 중 하나로 지목됐다[13][14][15]. 아시아·태평양을 제외한 전 지역에서 순차적 가속이 나타났고, 북미와 서유럽이 강한 회복 동력이 됐다[13]. 케링은 이를 창작 일관성과 상업 실행의 결합이 안정적 결과로 이어진 사례로 프레이밍했으며, 크리에이티브 디렉터 교체로 "더 힘든 분기"를 보낸 발렌시아가·알렉산더 맥퀸과 대비시켰다[13][14]. 이 대비는 케링 CEO 루카 데 메오(Luca de Meo)가 공언한 "구찌 과의존 완화" 전략—생로랑·보테가 베네타·발렌시아가로 성장을 재분산—과도 궤를 같이한다[16].
 
 조직 측면에서 가장 큰 확장은 2023년 출범한 생로랑 프로덕션스다. 이는 패션 하우스가 세운 최초의 영화 제작사로, 2023년 페드로 알모도바르(Pedro Almodóvar)의 단편으로 데뷔한 뒤 2024년 칸 경쟁 부문에 세 편을 올렸다[7]. 바카렐로가 프로듀서로 크레딧된 자크 오디아르(Jacques Audiard)의 「에밀리아 페레스(Emilia Pérez)」는 2024년 칸에서 심사위원상과 여우주연상을 수상하며 하우스의 문화 자본을 스크린으로 확장했다[7]. 재임 지속 측면에서 그는 2018년경 3년 재계약이 보도된 바 있으나, 2025~2026년 시점의 신규 계약 조건은 공개적으로 확인되지 않았다(미확인)[5].
 
@@ -63,26 +64,24 @@
 
 둘째, 포지셔닝의 대척점이라는 점에서 읽기 좋은 대비다. 생로랑은 좁고 규율 잡힌 글래머—검정, 날카로운 어깨, 팜파탈—를 10년간 반복하며 "일관성이 곧 자산"임을 증명했다[5][9]. 반면 뎀나 체제 구찌는 맥시멀리즘적 리셋과 코드 재해석으로 방향을 다시 세우는 국면이다. 구찌 입장에서 생로랑은 "브랜드 코드를 좁게 고정하고 반복할 때의 상업적 복리 효과"를 보여주는 살아있는 사례다.
 
-셋째, 문화 자본 전략의 벤치마크다. 생로랑 프로덕션스처럼 하우스가 직접 영화 제작에 자본을 대고 칸 수상작 크레딧을 확보하는 방식은, 단순 앰배서더 계약을 넘어선 문화 소유(cultural ownership) 모델이다[7]. 구찌가 활성화(activation)와 진정한 문화 자본을 구분해 자체 지식재산을 축적하려 한다면 참조할 지점이다.
+셋째, 뎀나 초기 재임의 긍정형 벤치마크다. 본 도시에가 발렌시아가·피촐리 궤적을 대조 사례로 쓰듯, 생로랑은 반대 방향의 참조점—지속된 창작 방향이 완주된 10년의 상업적 보상으로 귀결된 사례—을 제공한다. 케링 2026년 상반기 실적에서 생로랑이 CD 교체로 "더 힘든 분기"를 보낸 발렌시아가·맥퀸과 갈린 채 보테가 베네타와 함께 그룹의 성장 전환을 이끌었다는 점은[13][14], 뎀나가 구찌에서 노려야 할 회복 곡선의 형태를 시사한다. 즉 초기 화제성보다 "한 방향을 10년 밀어붙였을 때의 복리"가 회복 국면의 진짜 자산이며, 잦은 방향 전환은 오히려 회복을 지연시킨다는 것이 생로랑이 주는 교훈이다.
 
-넷째(가설), 케링이 그룹 차원에서 생로랑을 "안정적 캐시·마진 축"으로, 구찌를 "성장 회복 베팅"으로 역할 분담시키고 있을 개연성이 높다. 이 경우 구찌의 마케팅·투자 재원 배분은 생로랑의 방어적 실적이 그룹을 떠받치는 동안 리셋에 집중될 수 있다(미확인 가설).
+넷째, 문화 자본 전략의 벤치마크다. 생로랑 프로덕션스처럼 하우스가 직접 영화 제작에 자본을 대고 칸 수상작 크레딧을 확보하는 방식은, 단순 앰배서더 계약을 넘어선 문화 소유(cultural ownership) 모델이다[7]. 구찌가 활성화(activation)와 진정한 문화 자본을 구분해 자체 지식재산을 축적하려 한다면 참조할 지점이다.
+
+다섯째(가설), 케링이 그룹 차원에서 생로랑을 "안정적 캐시·마진 축"으로, 구찌를 "성장 회복 베팅"으로 역할 분담시키고 있을 개연성이 높다. 데 메오의 "구찌 과의존 완화" 발언은 이 역할 분담을 공개적으로 뒷받침한다[16]. 이 경우 구찌의 마케팅·투자 재원 배분은 생로랑의 선(先)회복이 그룹을 떠받치는 동안 리셋에 집중될 수 있다(미확인 가설).
 
 ## 7. 전망
 
-향후 12개월 관전 포인트는 세 가지다. 첫째, 재계약·거취다. 2016년 이후 최장기 재임 국면에서 2025~2026년 신규 계약 조건이 미확인 상태이므로, 재계약 공식화 여부가 케링 창작 리더십 안정성의 신호가 된다(가설: 유임 지속)[5]. 둘째, 실적 반등의 지속성이다. 2025년 4분기 직영 안정화와 도매 5퍼센트 반등이 2026년 상반기에 컴패러블 플러스로 굳어지는지가 마진 방어의 관건이다[2]. 셋째, 창작 방향의 미세 조정이다. 2026 겨울의 "장식을 걷어낸 기초 테일러링" 회귀가 일시적 순화인지, 다운턴 대응형 상업 최적화의 구조적 전환인지가 2026~2027 시즌에서 판가름 난다[9]. 넷째(가설), 생로랑 프로덕션스의 스크린 확장이 계속되며 하우스가 앰배서더 의존형에서 문화 소유형으로 브랜드 자본 전략을 굳혀갈 것으로 본다[7].
+향후 12개월 관전 포인트는 네 가지다. 첫째, 재계약·거취다. 2016년 이후 최장기 재임 국면에서 2025~2026년 신규 계약 조건이 미확인 상태이므로, 재계약 공식화 여부가 케링 창작 리더십 안정성의 신호가 된다(가설: 유임 지속)[5]. 둘째, 회복의 지속성이다. 2026년 상반기 성장 전환이 하반기에 전 지역—특히 아직 약한 아시아·태평양—으로 확산되는지가 케링의 "구찌 과의존 완화" 시나리오의 실현 여부를 가른다[13][16]. 셋째, 화제성의 상품 전환이다. 2025년 3분기 리스트 1위를 뒷받침한 핸드백·부츠 등 시그니처 상품의 수요가 일회성 스파이크인지 구조적 스테디셀러로 굳는지가 다음 실적의 관건이다[2][9]. 넷째, 창작 방향의 미세 조정이다. 2026 겨울의 "장식을 걷어낸 기초 테일러링" 회귀가 일시적 순화인지 다운턴 대응형 상업 최적화의 구조적 전환인지가 2026~2027 시즌에서 판가름 난다[9]. 다섯째(가설), 생로랑 프로덕션스의 스크린 확장이 계속되며 하우스가 앰배서더 의존형에서 문화 소유형으로 브랜드 자본 전략을 굳혀갈 것으로 본다[7].
 
 ## 8. 주석
 
 - 리커링 영업이익률(recurring operating margin): 일회성 항목을 제외한 영업이익을 매출로 나눈 값. 20.0퍼센트는 100원 팔아 20원이 영업단계에서 남는다는 뜻으로, 럭셔리에서 상위권 수익성.
 - 컴패러블(comparable) 기준: 환율·인수·매각 효과를 제거한 동일 조건 비교 성장률. "보고 기준"보다 사업 실체에 가깝다.
-- 리스트 인덱스(Lyst Index): 검색·판매·소셜 데이터를 종합해 분기별 브랜드 화제성을 매기는 지표. 1위는 해당 분기 가장 뜨거운 브랜드라는 의미.
+- 리스트 인덱스(Lyst Index): 검색·판매·소셜 데이터를 종합해 분기별 브랜드 화제성을 매기는 지표. 1위는 해당 분기 가장 뜨거운 브랜드라는 의미. 생로랑은 2025년 3분기에 미우미우를 제치고 1위에 올랐다.
 - 미확인: 공개 소스로 검증되지 않은 항목. 가설: 분석가의 추론으로, 사실이 아님.
 
-## 9. Executive Summary (English)
-
-Anthony Vaccarello (b. 1982, Brussels) has led Saint Laurent since April 2016, succeeding Hedi Slimane, and in 2026 marks a decade in the role — among the longest-tenured seats in luxury today. Trained in sculpture then fashion at La Cambre, he passed through Fendi under Lagerfeld, ran his own eponymous label (ANDAM winner, 2011), and served as Versus/Versace creative director before Saint Laurent. His signature is narrow and consistent: black-centric, sharp architectural shoulders, plunging "V" necklines, 1980s power dressing reworked as radical anatomical tailoring rather than pastiche. His stated method is intuitive rather than philosophical, and he frames his mission as translating the founder's codes for a younger audience, calling Saint Laurent "the Eiffel Tower" of French cultural heritage. Commercially, revenue rose 25.3% in his first full year; in 2025, amid the downturn, sales fell to €2.6 billion (down 8% reported) yet Saint Laurent held a 20.0% recurring operating margin — the most defensive profitability in Kering's portfolio, versus group revenue down 13%. For Gucci, Vaccarello is not a rival CD but the internal Kering benchmark: disciplined, repeatable glamour and sustained margin stand in contrast to Gucci's Demna-era maximalist reset, while Saint Laurent Productions models a cultural-ownership strategy worth studying. Key watch items over the next 12 months: contract status (unverified), durability of the Q4 2025 recovery, and whether the pared-back tailoring of Winter 2026 signals a structural commercial optimization.
-
-## 10. 출처
+## 9. 출처
 
 [1] Business of Fashion — BoF 500 프로필, 바카렐로 경력·베르사체 이력 — https://www.businessoffashion.com/people/anthony-vaccarello-1/
 [2] nss magazine — 생로랑 2025 3분기 리스트 인덱스 1위 및 실적 맥락 — https://www.nssmag.com/en/fashion/43237/saint-laurent-marque-la-plus-en-vogue-indice-lyst-3e-semestre-2025-strategie-de-marque
@@ -94,12 +93,18 @@ Anthony Vaccarello (b. 1982, Brussels) has led Saint Laurent since April 2016, s
 [8] W Magazine — 바카렐로 인터뷰, 직관·뮤즈·상품 배치 구분·에펠탑·미래 발언 — https://www.wmagazine.com/fashion/saint-laurent-anthony-vaccarello-interview-2025
 [9] nss magazine — 재임 10년 스타일 정리, 어깨·V·80년대·초기 반응 맥락 — https://www.nssmag.com/en/fashion/44864/anthony-vaccarello-ten-years-redefining-saint-laurent
 [10] nss magazine — 2016 데뷔 컬렉션 리뷰, 전임자 "나쁜 복제" 혹평 — https://www.nssmag.com/en/fashion/9109/anthony-vaccarello
+[11] FashionNetwork — 생로랑·미우미우·코스의 여름 강세, 2025 3분기 리스트 인덱스 맥락 — https://ww.fashionnetwork.com/news/Saint-laurent-miu-miu-and-cos-were-riding-high-this-summer-says-latest-lyst-index,1780032.html
+[12] Luxury Daily — 미우미우 제치고 생로랑 2025 3분기 리스트 인덱스 1위 — https://www.luxurydaily.com/overtaking-miu-miu-saint-laurent-tops-lyst-index-in-q3/
+[13] Kering (GlobeNewswire) — 2026 상반기 실적, 성장 복귀·전 지역(아·태 제외) 가속·발렌시아가/맥퀸 대비 — https://www.globenewswire.com/news-release/2026/07/28/3334524/0/en/kering-2026-first-half-results-back-to-growth-performance-improvement-strategy-execution-on-track.html
+[14] Investing.com — 케링 H1 2026, 12분기 감소 후 성장 복귀 — https://www.investing.com/news/company-news/kering-h1-2026-slides-return-to-growth-after-12quarter-decline-93CH-4817858
+[15] Fibre2Fashion — 케링 H1 성장, 구찌 리테일 모멘텀 — https://www.fibre2fashion.com/news/fashion-news/france-s-kering-posts-h1-growth-gucci-shows-retail-momentum-312171-newsdetails.htm
+[16] Modaes Global — 루카 데 메오의 케링, 구찌 과의존 완화·성장 재분산 전략 — https://www.modaes.com/global/companies/luca-de-meos-kering-downsizing-and-dependence-on-gucci-to-return-to-growth
 
 <!-- ===== ENGLISH EDITION ===== -->
 
 # Anthony Vaccarello — Saint Laurent
 
-2026-07-11 (dossier update) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-05 (dossier update — 10th anniversary, Lyst No. 1, H1 2026 return to growth) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## Table of Contents
 
@@ -116,7 +121,7 @@ Anthony Vaccarello (b. 1982, Brussels) has led Saint Laurent since April 2016, s
 
 ## Executive Summary
 
-Anthony Vaccarello has led Saint Laurent as creative director since April 2016, succeeding Hedi Slimane, and in 2026 marks a full decade in the role — making him among the most stable creative leaders in Kering's portfolio. Over ten years he has repeated a narrow, consistent code of sharp tailoring, exaggerated shoulders, and black-centric femme-fatale minimalism, commercially proving that "consistency beats reinvention"[1][5][9]. Saint Laurent's 2025 revenue was €2.6 billion, down 8% year-on-year on a reported basis, yet the house held a 20.0% operating margin — the best in Kering — and now functions as the group's internal benchmark as Gucci enters a reset under Demna[2][6]. This dossier lays out his trajectory and aesthetic, and the implications for Gucci as both sister brand and competitive reference point.
+Anthony Vaccarello has led Saint Laurent as creative director since April 2016, succeeding Hedi Slimane, and in 2026 marks a full decade in the role — making him among the most stable creative leaders in Kering's portfolio. Over ten years he has repeated a narrow, consistent code of sharp tailoring, exaggerated shoulders, and black-centric femme-fatale minimalism, commercially proving that "consistency beats reinvention"[1][5][9]. Two recent metrics reconfirm the trajectory: Saint Laurent topped the Q3 2025 Lyst Index, overtaking Miu Miu as the quarter's hottest brand[2][11][12]; and Kering's H1 2026 results (July 28, 2026) named it one of the brands leading the group's return to growth after the downturn, alongside Bottega Veneta[13][14][15]. As Gucci enters a reset under Demna, Saint Laurent — a decade of creative consistency now helping lead the group's recovery — functions as Kering's internal benchmark. This dossier lays out his trajectory and aesthetic, and the implications for Gucci as both sister brand and competitive reference point.
 
 ## 1. Profile Overview
 
@@ -152,7 +157,9 @@ On muses, he insists on authenticity as a principle. He says he dislikes "throwi
 
 Vaccarello's debut was not met with unanimous acclaim. His September 2016 Spring/Summer 2017 debut collection (49 looks) drew a mixed response; some critics dismissed it as a "bad copy" of his predecessor's style[10]. Critical reception and commercial performance diverged from the outset — a mixed start. Where Slimane's Saint Laurent was rock-and-roll, Vaccarello's split off into a more conceptual homage to the past.
 
-The commercial turnaround came quickly. As early hits became bestsellers and campaigns grew more striking, Saint Laurent established itself as a luxury powerhouse[9]. In Q3 2025 the house topped the Lyst Index, proving cultural buzz and commercial strength simultaneously[2]. Recent results, however, reflect the downturn. Saint Laurent's 2025 revenue was €2.6 billion, down 8% on a reported basis and 6% on a comparable basis[2][6]. Directly operated retail fell 6%, and wholesale fell 14% on a comparable basis, though direct retail stabilized in Q4 and growth in North America and a return to positive territory in Western Europe provided momentum[2]. Crucially, Saint Laurent held €529 million in recurring operating income and a 20.0% operating margin in 2025 — the most defensive margin structure in Kering's portfolio[2][6]. That resilience stands out against Kering's group-wide 2025 revenue of roughly €14.675 billion, down 13% on a reported basis[6].
+The commercial turnaround came quickly. As early hits became bestsellers and campaigns grew more striking, Saint Laurent established itself as a luxury powerhouse[9]. That buzz peaked on the Lyst Index: Saint Laurent topped the Q3 2025 Lyst Index, overtaking Miu Miu to be named the quarter's hottest brand[2][11][12]. The achievement proved cultural buzz and commercial strength simultaneously during his tenth-anniversary window[5].
+
+The earnings picture has also turned. Saint Laurent's 2025 revenue was €2.6 billion, down 8% reported and 6% comparable, yet the house held €529 million in recurring operating income and a 20.0% operating margin — the most defensive margin structure in Kering's portfolio[2][6]. Then, in Kering's H1 2026 results (reported July 28, 2026), Saint Laurent was named one of the brands leading the group's return to growth after the downturn, alongside Bottega Veneta[13][14][15]. It showed sequential acceleration across all regions except Asia-Pacific, with North America and Western Europe providing strong momentum[13]. Kering framed this as validation that creative consistency combined with commercial execution delivers stable results, contrasting it with Balenciaga and Alexander McQueen, which had "tougher quarters" amid creative-director transitions[13][14]. That contrast aligns with CEO Luca de Meo's stated strategy to reduce "excessive dependence" on Gucci by rebalancing growth toward Saint Laurent, Bottega Veneta and Balenciaga[16].
 
 Organizationally, the largest expansion has been Saint Laurent Productions, launched in 2023. It is the first film production company founded by a fashion house, debuting with a Pedro Almodóvar short in 2023 before placing three films in Cannes competition in 2024[7]. Jacques Audiard's "Emilia Pérez," on which Vaccarello is credited as producer, won the Jury Prize and Best Actress at Cannes 2024, extending the house's cultural capital onto the screen[7]. On tenure, a three-year contract renewal was reported around 2018, but the terms of any new contract as of 2025-2026 have not been publicly confirmed (unverified)[5].
 
@@ -162,19 +169,21 @@ First, Vaccarello is not a rival creative director but an internal Kering benchm
 
 Second, the two houses offer an instructive positioning contrast. Saint Laurent has repeated a narrow, disciplined glamour code — black, sharp shoulders, femme fatale — for a decade, proving that "consistency itself is an asset"[5][9]. Demna-era Gucci, by contrast, is in a phase of maximalist reset and code reinterpretation. For Gucci, Saint Laurent is a living case study in the commercial compounding effect of narrowly fixing and repeating brand codes.
 
-Third, Saint Laurent Productions offers a benchmark for cultural-capital strategy. A house directly financing film production and securing Cannes-winning credits — rather than relying solely on ambassador deals — represents a cultural-ownership model[7]. It is a reference point if Gucci wants to distinguish between activation and genuine cultural capital while building its own intellectual property.
+Third, Saint Laurent is a positive benchmark for Demna's early tenure. Just as this dossier uses the Balenciaga/Piccioli trajectory as a contrast case, Saint Laurent supplies the opposite reference point — a full decade of sustained creative direction resolving into commercial payoff. That Saint Laurent helped lead the group's return to growth in Kering's H1 2026 results alongside Bottega Veneta, while Balenciaga and Alexander McQueen had "tougher quarters" amid CD transitions[13][14], suggests the shape of recovery curve Demna should aim for at Gucci. The lesson: the compounding of pushing one direction for a decade — not early buzz — is the real asset in a recovery phase, and frequent pivots tend to delay recovery rather than accelerate it.
 
-Fourth (hypothesis), it is plausible that Kering is deliberately dividing roles at the group level, positioning Saint Laurent as a "stable cash and margin pillar" and Gucci as a "growth recovery bet." Under this scenario, Gucci's marketing and investment resources could concentrate on the reset while Saint Laurent's defensive performance props up the group (unverified hypothesis).
+Fourth, Saint Laurent Productions offers a benchmark for cultural-capital strategy. A house directly financing film production and securing Cannes-winning credits — rather than relying solely on ambassador deals — represents a cultural-ownership model[7]. It is a reference point if Gucci wants to distinguish between activation and genuine cultural capital while building its own intellectual property.
+
+Fifth (hypothesis), it is plausible that Kering is deliberately dividing roles at the group level, positioning Saint Laurent as a "stable cash and margin pillar" and Gucci as a "growth recovery bet." De Meo's stated intent to reduce dependence on Gucci publicly supports this division of roles[16]. Under this scenario, Gucci's marketing and investment resources could concentrate on the reset while Saint Laurent's earlier recovery props up the group (unverified hypothesis).
 
 ## 7. Outlook
 
-Three watch points stand out over the next 12 months. First, contract status and tenure: with 2025-2026 contract terms unconfirmed during his longest-ever tenure since 2016, formalization of a renewal would signal stability in Kering's creative leadership (hypothesis: continuity likely)[5]. Second, the durability of the earnings recovery: whether Q4 2025's stabilization in direct retail and a 5% rebound in wholesale solidify into comparable-basis growth in the first half of 2026 will be the key test of margin defense[2]. Third, fine-tuning of creative direction: whether Winter 2026's return to "stripped-down foundational tailoring" is a temporary softening or a structural shift toward downturn-responsive commercial optimization should become clear across the 2026-2027 seasons[9]. Fourth (hypothesis), Saint Laurent Productions' expansion into film is expected to continue, further cementing the house's shift from an ambassador-dependent brand capital strategy to a cultural-ownership model[7].
+Four watch points stand out over the next 12 months. First, contract status and tenure: with 2025-2026 contract terms unconfirmed during his longest-ever tenure since 2016, formalization of a renewal would signal stability in Kering's creative leadership (hypothesis: continuity likely)[5]. Second, the durability of the recovery: whether H1 2026's return to growth spreads in the second half to all regions — especially the still-weak Asia-Pacific — will determine whether Kering's "reduce dependence on Gucci" scenario materializes[13][16]. Third, the product conversion of buzz: whether demand for the signature handbags, boots and other products behind the Q3 2025 Lyst No. 1 is a one-off spike or hardens into structural steady-sellers is the key to the next set of results[2][9]. Fourth, fine-tuning of creative direction: whether Winter 2026's return to "stripped-down foundational tailoring" is a temporary softening or a structural shift toward downturn-responsive commercial optimization should become clear across the 2026-2027 seasons[9]. Fifth (hypothesis), Saint Laurent Productions' expansion into film is expected to continue, further cementing the house's shift from an ambassador-dependent brand capital strategy to a cultural-ownership model[7].
 
 ## 8. Notes
 
 - Recurring operating margin: recurring operating income divided by revenue, excluding one-off items. A margin of 20.0% means €20 of every €100 in sales flows through as operating profit — a top-tier profitability level in luxury.
 - Comparable basis: growth calculated after stripping out currency, acquisition, and divestment effects. It reflects underlying business performance more closely than "reported" growth.
-- Lyst Index: a quarterly ranking of brand buzz derived from aggregated search, sales, and social data. Ranking first means the brand generated the most demand and conversation that quarter.
+- Lyst Index: a quarterly ranking of brand buzz derived from aggregated search, sales, and social data. Ranking first means the brand generated the most demand and conversation that quarter. Saint Laurent ranked No. 1 in Q3 2025, overtaking Miu Miu.
 - Unverified: a claim not confirmed by public sources. Hypothesis: an analyst inference, not an established fact.
 
 ## 9. Executive Summary
@@ -193,3 +202,9 @@ See Executive Summary above; it also appears as the opening section of this Engl
 [8] W Magazine — Vaccarello interview: intuition, muses vs. product placement, "Eiffel Tower," future plans — https://www.wmagazine.com/fashion/saint-laurent-anthony-vaccarello-interview-2025
 [9] nss magazine — Ten-year style retrospective, shoulders, "V," 1980s, early reception context — https://www.nssmag.com/en/fashion/44864/anthony-vaccarello-ten-years-redefining-saint-laurent
 [10] nss magazine — 2016 debut collection review, "bad copy" criticism of predecessor's style — https://www.nssmag.com/en/fashion/9109/anthony-vaccarello
+[11] FashionNetwork — Saint Laurent, Miu Miu and Cos riding high this summer, Q3 2025 Lyst Index context — https://ww.fashionnetwork.com/news/Saint-laurent-miu-miu-and-cos-were-riding-high-this-summer-says-latest-lyst-index,1780032.html
+[12] Luxury Daily — Overtaking Miu Miu, Saint Laurent tops the Q3 2025 Lyst Index — https://www.luxurydaily.com/overtaking-miu-miu-saint-laurent-tops-lyst-index-in-q3/
+[13] Kering (GlobeNewswire) — H1 2026 results, return to growth, acceleration across all regions except APAC, contrast with Balenciaga/McQueen — https://www.globenewswire.com/news-release/2026/07/28/3334524/0/en/kering-2026-first-half-results-back-to-growth-performance-improvement-strategy-execution-on-track.html
+[14] Investing.com — Kering H1 2026, return to growth after a 12-quarter decline — https://www.investing.com/news/company-news/kering-h1-2026-slides-return-to-growth-after-12quarter-decline-93CH-4817858
+[15] Fibre2Fashion — Kering H1 growth, Gucci retail momentum — https://www.fibre2fashion.com/news/fashion-news/france-s-kering-posts-h1-growth-gucci-shows-retail-momentum-312171-newsdetails.htm
+[16] Modaes Global — Luca de Meo's Kering, reducing dependence on Gucci, rebalancing growth strategy — https://www.modaes.com/global/companies/luca-de-meos-kering-downsizing-and-dependence-on-gucci-to-return-to-growth

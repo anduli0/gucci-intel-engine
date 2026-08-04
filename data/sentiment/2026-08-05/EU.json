@@ -1,0 +1,92 @@
+[
+  {
+    "id": "eu-2026-08-05-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Wire coverage hedges rally as investor relief while noting a 12th straight quarterly decline; factual/analytical, not a clear verdict.",
+    "signal_tags": ["earnings", "market_reaction", "peer_comparison"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-08-05-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Gucci beat framed as relative bright spot vs unconvincing rivals; cautious market analysis, not independent praise of Gucci itself.",
+    "signal_tags": ["earnings", "peer_comparison", "sector_context"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-08-05-03",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press reports 15% share surge with analysts crediting Demna's bag launches/US demand and an HSBC buy upgrade -- independent quantified market judgment.",
+    "signal_tags": ["earnings", "analyst_upgrade", "product_launch", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-08-05-04",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual wire reporting of H1 results and CEO's cautious framing; explicitly notes reported revenue still fell 9%.",
+    "signal_tags": ["earnings", "factual_report"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-08-05-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community thread raises value-for-money dispute (price increases outpacing perceived quality) despite some noting bags are selling well.",
+    "signal_tags": ["value_for_money", "quality_complaint", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-08-05-06",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explicitly polarized forum sentiment on Demna's fourth collection cycle (some praise, some 'phoned it in' criticism) -- genuinely mixed, not forcing polarity.",
+    "signal_tags": ["creative_direction", "community", "polarized"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-08-05-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring, documented customer complaints about repair delays, hardware tarnishing, and leather cracking shortly after warranty -- clear QC/quality complaint pattern.",
+    "signal_tags": ["quality_complaint", "customer_service", "community"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-08-05-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram product/campaign push is descriptive activation coverage, not public opinion; scored neutral per activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "brand_owned", "sns"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-08-05-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "UK trade press verdict that turnaround 'still seems a tough proposition' despite improved optics, citing reported revenue down 9%; hedged but negatively concluded.",
+    "signal_tags": ["earnings", "trade_press", "turnaround_skepticism"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-08-05-10",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent equity-research note calls Q2 performance an 'encouraging' early-stage signal, though caveated pending further-quarter confirmation.",
+    "signal_tags": ["analyst_note", "earnings", "product_launch"],
+    "confidence": 0.65
+  }
+]
