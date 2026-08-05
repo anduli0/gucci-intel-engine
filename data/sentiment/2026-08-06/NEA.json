@@ -1,0 +1,38 @@
+[
+  {
+    "id": "NEA-2026-08-06-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Group-level Kering AI/China strategy piece; Gucci Q2 revenue decline narrowing (-8% to -2%) is a factual figure embedded in a grouper-strategy story, not independent evaluative opinion on the brand.",
+    "signal_tags": ["financial_press", "group_strategy", "factual_reporting"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-06-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical consumer-press analysis of 5th consecutive 2026 price hike (30%+ cumulative) and widening China-EU price gap (10-30%), framed as a value-for-money dispute.",
+    "signal_tags": ["price_hike_backlash", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-06-003",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press report with quantified third-party demand data: Korean department store luxury sales +35%, jewelry +60-69%, Gucci cited as a driver, plus Kering CFO confirming strong non-China Asia performance.",
+    "signal_tags": ["quantified_demand_data", "jewelry_growth", "regional_outperformance", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-06-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Consumer forum thread on Demna-era Flora print relaunch shows split reaction: some welcome archive revival, others call it a repetitive rehash; no dominant polarity emerges.",
+    "signal_tags": ["community_discussion", "archive_revival", "mixed_reaction", "fandom_trap"],
+    "confidence": 0.45
+  }
+]
