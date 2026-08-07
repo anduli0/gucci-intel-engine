@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-2026-08-07-001",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press analysis of Q2 beat with NA leading 8-9% LFL growth and quantified analyst target raises, despite cautionary framing.",
+    "signal_tags": ["earnings", "analyst_upgrade", "quantified_demand"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-07-002",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Analyst praise for US uptake and leather-goods storytelling, tempered by CEO admission of prior greedflation pricing damage.",
+    "signal_tags": ["analyst_commentary", "price_hike_admission", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-08-07-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified trade coverage of strong NA like-for-like growth, e-commerce gains, and wholesale rebound.",
+    "signal_tags": ["quantified_demand", "regional_growth", "ecommerce"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-07-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of brand-staged Nettspend pop-up activation, no independent evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "youth_marketing"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-07-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Same-day organic social announcement of pop-up event, purely descriptive with no evaluative content.",
+    "signal_tags": ["activation_coverage", "sns_buzz"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-08-07-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-shared documentation of pop-up crowd/merch; grassroots amplification but no clear sentiment verdict, damped per fandom-spike trap.",
+    "signal_tags": ["fandom_spike", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-08-07-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread comparing Flora print quality/styling across eras with no single clear net verdict reported.",
+    "signal_tags": ["community_discussion", "product_comparison"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-08-07-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale value quantified at 55-65% but explicitly framed as lagging Hermes/Chanel benchmarks -- peer comparison trap.",
+    "signal_tags": ["resale_value", "peer_comparison", "quantified"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-08-07-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregate ~2/5 star customer reviews with recurring complaints on repairs and unhelpful service -- clear QC/service negative.",
+    "signal_tags": ["quality_complaint", "customer_service", "quantified"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-07-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Structural store-closure news amid sales slump, tied to outlet/discount footprint reduction -- real headwind but not viral/emotional.",
+    "signal_tags": ["store_closures", "structural_headwind"],
+    "confidence": 0.7
+  }
+]

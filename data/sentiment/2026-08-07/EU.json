@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-20260807-01",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Gucci comparable sales beat consensus with leather goods returning to growth; independent trade-press analysis of improving momentum.",
+    "signal_tags": ["earnings", "trade_press", "momentum"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20260807-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Bernstein critic scored the runway debut mixed-to-positive overall but singled out shoes/bags as uninteresting, much of the collection as vulgar, and the venue as costly/unnecessary extravagance.",
+    "signal_tags": ["runway_review", "trade_press", "design_criticism"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20260807-04",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Balanced trade analysis: revenue still down double-digit/mid-single-digit but sequentially improving, with turnaround explicitly called a tough proposition.",
+    "signal_tags": ["earnings", "trade_press", "turnaround"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20260807-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum community explicitly split, with some praising heritage/newness blend and others calling output phoned-in and faded; no net direction.",
+    "signal_tags": ["community", "handbags", "mixed_reaction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-20260807-06",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan recirculation of a runway highlight with strong engagement and playful nostalgic framing; fandom-trap damped magnitude.",
+    "signal_tags": ["runway", "sns", "fandom", "viral"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20260807-07",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan-made edit clip celebrating the runway moment continues gathering engagement; organic but repetitive fan-event volume, magnitude damped.",
+    "signal_tags": ["runway", "sns", "fandom", "viral"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20260807-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned campaign account content, purely descriptive per source itself; activation coverage is not public opinion.",
+    "signal_tags": ["activation_coverage", "campaign", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20260807-09",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "French trade piece balances a potential inflection-point framing against reminders of EUR4.5bn revenue loss and antitrust scrutiny; net neutral.",
+    "signal_tags": ["earnings", "trade_press", "antitrust"],
+    "confidence": 0.55
+  }
+]

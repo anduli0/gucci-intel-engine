@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "sea-2026-08-07-001",
+      "region": "SEA",
+      "source": "The Manila Times (Reuters syndication)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.manilatimes.net/2026/07/30/business/foreign-business/kering-turnaround-slows-gucci-sales-decline/2394290",
+      "published_at": "2026-07-30",
+      "title": "Kering turnaround slows Gucci sales decline",
+      "summary": "SEA regional daily runs Reuters wire on Kering's Q2 2026 results: Gucci sales were EUR 1.4bn, a 4% organic decline versus 8% in Q1, beating analyst consensus of EUR 1.37bn, driven by US demand for new Borsetto/Paparazzo bags. CEO Luca De Meo told analysts the group is still \"at the beginning of the journey\" and remains realistic about challenges ahead; it was Gucci's 12th consecutive quarterly decline. Illustrates how SEA press consumes the earnings story via wire syndication rather than local reporting.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "sea-2026-08-07-003",
+      "region": "SEA",
+      "source": "Bazaar Vietnam (Harper's Bazaar VN)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://bazaarvietnam.vn/tap-doan-kering-quy-2-2026/",
+      "published_at": "2026-07-30",
+      "title": "Kering Quy 2/2026: Gucci co dau hieu khoi sac nho cac mau tui xach moi",
+      "summary": "Vietnamese-language fashion press localizes the Kering Q2 2026 earnings story for a Vietnamese audience: Gucci revenue fell 2% to EUR 1.41bn versus an 8% Q1 decline, with new handbags (Borsetto, Paparazzo) singled out as \"received positively by customers.\" Piece also notes Kering's jewelry division jumped 18% and CEO De Meo's stated push to reduce Gucci over-dependency; no Vietnam-specific sales figures were disclosed.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "sea-2026-08-07-004",
+      "region": "SEA",
+      "source": "Yahoo Entertainment (via Billboard/Soompi wire)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/ningning-announced-gucci-global-ambassador-082751771.html",
+      "published_at": "2026-04-30",
+      "title": "Ningning Announced as Gucci's Global Ambassador Ahead of aespa's 'Lemonade' Release",
+      "summary": "Background context item on aespa's Ningning becoming Gucci global ambassador; included because SEA fan/community chatter about the tie-up (Thai, Filipino, Vietnamese aespa fanbases are among the region's largest) continues to recirculate months later around new campaign drops. Item is outside the ideal freshness window and is retained only as context, not counted as a fresh signal -- flagged here rather than padded as new.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "sea-2026-08-07-005",
+      "region": "SEA",
+      "source": "Manila Times (Reuters wire, DSI Bangkok raid)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.dsi.go.th/en/Detail/0daaf95e40f0a4b1df668ad02451f96f",
+      "published_at": "2026-03-12",
+      "title": "DSI Leads Joint Raid on Counterfeit Storage at Major Bangkok Department Store",
+      "summary": "Thai Department of Special Investigation official release on a raid seizing an estimated 20 million baht of counterfeit goods bearing Dior, Nike, Adidas, Gucci and Chanel trademarks at a prominent Bangkok department store storage facility. Included as the clearest available critical/enforcement-angle SEA item found this cycle, though dated outside the 14-day window -- flagged as stale context on the persistent counterfeit-Gucci problem in the region rather than a fresh signal.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "sea-2026-08-07-006",
+      "region": "SEA",
+      "source": "Threads (@sakurajji)",
+      "source_type": "sns",
+      "tier": "T3",
+      "url": "https://www.threads.com/@sakurajji/video/DbXHAi3Caz2/",
+      "published_at": "2026-07-29",
+      "title": "Weibo - GUCCI: new Flora Gorgeous Gardenia Vanilla EDP campaign repost",
+      "summary": "Korean-language SNS repost of a Gucci Weibo post promoting the new Gucci Flora Gorgeous Gardenia Vanilla EDP fragrance fronted by a Chinese brand ambassador; captured because it is representative of the volume of fragrance-campaign reposts circulating across Korean/SEA-adjacent fan accounts on Threads. Pure activation amplification, not independent commentary -- no visible engagement counts on the fetched view.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 13,
+    "Louis Vuitton": 1,
+    "Dior": 1,
+    "Chanel": 2,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0,
+    "Hermes": 0
+  }
+}
