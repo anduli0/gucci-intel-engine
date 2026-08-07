@@ -1,0 +1,99 @@
+{
+  "brand_group": "Kering",
+  "date": "2026-08-08",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Balenciaga",
+      "event_type": "show",
+      "headline": "피에르파올로 피치올리, 발렌시아가 오트쿠튀르 두 번째 컬렉션 공개",
+      "summary": "피치올리가 파리 오트쿠튀르 위크에서 발렌시아가 취임 후 두 번째 쿠튀르 컬렉션을 선보였다. 손으로 몰딩한 가죽·캐시미어 코트와 깃털로 만든 조각적 볼륨의 가운이 하이라이트였으며, 새 백 라인(HG Avenue, George, Midnight City)도 함께 공개됐다.",
+      "url": "https://wwd.com/runway/fall-couture-2026/paris/balenciaga/review/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-05",
+      "why_it_matters": "피치올리의 발렌시아가가 쿠튀르 감성으로 호평을 받으며 케링 내 구찌의 '탈구찌 의존' 전략에서 경쟁 하우스로 부상 중임을 보여준다.",
+      "why_it_matters_en": "Piccioli's well-received Balenciaga couture reinforces its rise as a sister-house rival within Kering's push to reduce reliance on Gucci for growth.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "earnings",
+      "headline": "케링, 12분기 만에 매출 성장 전환 — 주얼리·이지웨어가 구찌 부진 상쇄",
+      "summary": "케링은 2026년 상반기 매출 72억 유로(비교 기준 +1%)로 12분기 만에 플러스 성장을 기록했다고 7월 28일 발표했다. 주얼리 사업부(부슈론·포멜라토·돌아·퀼린)가 상반기 매출 5억2100만 유로(비교 기준 +20%)로 두 자릿수 성장하며 구찌 매출 하락을 상쇄했다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334524/0/en/kering-2026-first-half-results-back-to-growth-performance-improvement-strategy-execution-on-track.html",
+      "source": "GlobeNewswire",
+      "tier": "T1",
+      "published_at": "2026-07-28",
+      "why_it_matters": "그룹 성장이 주얼리·이지웨어에서 나오고 있다는 것은 구찌가 그룹 실적의 발목을 잡는 브랜드로 남아있다는 뜻이며, 드 메오의 '탈구찌 의존' 전략에 힘을 싣는다.",
+      "why_it_matters_en": "Group growth is now coming from jewelry and eyewear, not fashion — a signal Gucci remains a drag on group results and validates de Meo's push to reduce Gucci dependence.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "trend",
+      "headline": "케링 주얼리 사업부, 상반기 두 자릿수 성장 — 부슈론·포멜라토 주도",
+      "summary": "케링 주얼리 하우스(부슈론, 포멜라토, 퀼린)가 상반기 비교 매출 +20% 성장하며 그룹 내 최고 실적 사업부가 됐다. 부슈론은 일본·아시아태평양 수요와 Quatre XS 컬렉션 출시에 힘입어 사상 최대 분기 매출을 기록했다.",
+      "url": "https://gjepc.org/solitaire/boucheron-delivers-record-quarter-for-kering-jewellery/",
+      "source": "Solitaire (GJEPC)",
+      "tier": "T2",
+      "published_at": "2026-07-29",
+      "why_it_matters": "주얼리가 케링의 성장 엔진으로 부상하면서 그룹의 자본·마케팅 우선순위가 패션(구찌 포함)에서 주얼리로 이동할 가능성이 있다.",
+      "why_it_matters_en": "Jewelry emerging as Kering's growth engine signals capital and marketing priority may increasingly shift away from fashion houses, Gucci included, toward jewelry.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "campaign",
+      "headline": "보테가 베네타, 위르겐 텔러 촬영 여름 캠페인 공개",
+      "summary": "케링이 보테가 베네타의 2026 서머 캠페인을 발표했다. 베니스에서 위르겐 텔러가 촬영했으며 루이즈 트로터 체제 아래 브랜드의 시각적 정체성을 이어간다.",
+      "url": "https://www.facebook.com/keringgroup/posts/kering-unveils-bottega-venetas-summer-2026-campaign-shot-in-venice-by-juergen-te/1310546731108070/",
+      "source": "Kering (official)",
+      "tier": "T2",
+      "published_at": "2026-08-05",
+      "why_it_matters": "트로터 체제 보테가의 캠페인 활동은 활성화 보도이며 여론 개선으로 해석해서는 안 되지만, 자매 하우스의 지속적 마케팅 투자 강도를 보여준다.",
+      "why_it_matters_en": "This is activation coverage of Bottega's own marketing, not a sentiment signal — but shows the sustained marketing investment intensity at a sister house.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Alexander McQueen",
+      "event_type": "executive_move",
+      "headline": "맥퀸, 조직 재편 지속 — 런던 본사 55명 정리해고 검토",
+      "summary": "지안프랑코 다티스가 신임 CEO로 6월 취임한 가운데, 알렉산더 맥퀸은 이탈리아에서 54명 정리해고를 진행했으며 런던 본사에서도 55명 규모의 추가 감원을 검토 중인 것으로 전해졌다.",
+      "url": "https://fashionunited.uk/tags/alexander-mcqueen",
+      "source": "FashionUnited",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "케링 산하 브랜드 전반의 비용 절감·인력 축소 기조가 맥퀸까지 확산되고 있어, 구찌의 매장 폐점·비용 절감 전략이 그룹 전체의 표준임을 보여준다.",
+      "why_it_matters_en": "Cost-cutting and headcount reduction is spreading across Kering brands beyond Gucci, confirming store/cost cuts are now a group-wide standard, not Gucci-specific.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Saint Laurent",
+      "event_type": "show",
+      "headline": "생로랑, 뱅카렐로 10주년·르 스모킹 60주년 기념 컬렉션에 엇갈린 평가",
+      "summary": "안토니 뱅카렐로의 생로랑 취임 10주년이자 '르 스모킹' 재킷 60주년을 기념한 가을 컬렉션이 트로카데로에서 공개됐으나, 일부 평론가들은 '반복적'이라며 엇갈린 평가를 내놨다.",
+      "url": "https://www.aol.com/articles/forum-members-review-repetitive-fall-185518397.html",
+      "source": "WWD (syndicated via AOL)",
+      "tier": "T2",
+      "published_at": "2026-08-04",
+      "why_it_matters": "장기 재임 크리에이티브 디렉터도 매너리즘 비판에서 자유롭지 않다는 점은 구찌의 뎀나 체제 초기 평가와 대조해볼 만한 참고점이다.",
+      "why_it_matters_en": "Even a decade-long tenure like Vaccarello's draws 'repetitive' criticism — a useful contrast point as Gucci's own Demna era is still being evaluated.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "corporate",
+      "headline": "케링, 매장 네트워크 추가 축소 지속 — 연간 100개 목표 중 84개 순감",
+      "summary": "케링은 2026년 상반기에만 매장 84개를 순감했으며, 연간 목표인 100개 폐점 중 대부분을 이미 달성했다. 부동산 매각과 구찌 뷰티 라이선스 대가로 확보한 현금 등으로 순금융부채를 전년 대비 47억 유로 줄였다.",
+      "url": "https://www.investing.com/news/company-news/kering-h1-2026-slides-return-to-growth-after-12quarter-decline-93CH-4817858",
+      "source": "Investing.com",
+      "tier": "T2",
+      "published_at": "2026-07-28",
+      "why_it_matters": "그룹 차원의 공격적 매장 축소와 부채 감축은 구찌를 포함한 전 브랜드에 매장망 재조정 압력으로 이어질 가능성이 크다.",
+      "why_it_matters_en": "Aggressive group-wide store network reduction and deleveraging signals continued pressure on all brands, Gucci included, to rationalize retail footprints.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": []
+}

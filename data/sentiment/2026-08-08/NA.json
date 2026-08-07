@@ -1,0 +1,82 @@
+[
+  {
+    "id": "NA-2026-08-08-001",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press analysis citing quantified NA DTC growth (27% share, 9% LFL) as turnaround evidence",
+    "signal_tags": ["earnings", "regional_growth", "trade_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-08-08-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of Nettspend pop-up framed as case study, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "youth_marketing"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-08-003",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Wire coverage with quantified US sales growth (+9%) and analyst (HSBC) independent positive verdict on brand equity",
+    "signal_tags": ["earnings", "analyst_commentary", "regional_growth"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-08-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregator hub describing dominant turnaround narrative in trade coverage, meta-descriptive rather than independent verdict",
+    "signal_tags": ["trade_press", "aggregator"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-08-005",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Critical-angle coverage of store closures and downsizing under sales-slump framing, though tempered by Q2 beat noted in piece",
+    "signal_tags": ["store_closures", "retail_footprint", "negative_momentum"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-08-08-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale data shows Demna-era pieces underperforming legacy items significantly on secondhand value",
+    "signal_tags": ["resale_value", "quantified_data", "quality_perception"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-08-007",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregate customer complaints on quality control and value-for-money vs price point, clear organic negative sentiment",
+    "signal_tags": ["quality_complaints", "value_for_money", "consumer_reviews"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-08-008",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ongoing community discussion comparing Flora print eras, descriptive/comparative without net evaluative verdict",
+    "signal_tags": ["community_discussion", "product_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-08-009",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic social amplification of brand-staged pop-up, activation coverage without independent evaluative content",
+    "signal_tags": ["activation_coverage", "sns_amplification", "youth_marketing"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-08-08-010",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive account of mixed TikTok product content and runway recaps, no accessible metrics or clear net verdict",
+    "signal_tags": ["sns_activity", "product_content", "no_metrics"],
+    "confidence": 0.4
+  }
+]

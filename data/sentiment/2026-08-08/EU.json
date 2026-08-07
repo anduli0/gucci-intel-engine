@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-20260808-01",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent T1 trade press reports quantified Kering share surge and narrowing sales decline tied to Gucci turnaround.",
+    "signal_tags": ["earnings", "independent_analysis", "momentum"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20260808-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Revenue beat offset by flagged Western Europe softness and guidance for a flat Q3, net mixed factual reporting.",
+    "signal_tags": ["earnings", "mixed_signal"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20260808-03",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent sell-side upgrade with quantified price target raise credits Gucci's better-than-feared sales.",
+    "signal_tags": ["analyst_rating", "independent_analysis"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20260808-04",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci Racing VP appointment ahead of F1 launch, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "appointment"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20260808-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Same appointment covered by a second outlet, purely descriptive of the appointment and Kering's motorsport ambitions, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "appointment"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20260808-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom-driven TikTok volume mixes fan enthusiasm with skepticism calling the aesthetic derivative; damped fan spike, no clear net polarity.",
+    "signal_tags": ["fandom_spike", "sns", "mixed_signal"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-20260808-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade analysis frames Q2 improvement as sequential only, citing 9% reported revenue decline and multi-year revenue losses as recovery not yet proven.",
+    "signal_tags": ["earnings", "momentum_press", "hedged"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20260808-10",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Italian trade press warns Gucci's price/positioning strategy risks a tragic mismatch between price hikes and delivered product value.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "trade_criticism"],
+    "confidence": 0.75
+  }
+]

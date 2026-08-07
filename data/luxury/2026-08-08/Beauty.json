@@ -1,0 +1,100 @@
+{
+  "brand_group": "Beauty",
+  "date": "2026-08-08",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Chanel Beauty",
+      "event_type": "earnings",
+      "headline": "Chanel 상반기 매출 16% 급증, 뷰티 부문도 8% 성장",
+      "summary": "블룸버그 보도에 따르면 샤넬의 2026년 상반기 매출이 전년 대비 약 16% 증가했으며, 향수·뷰티 부문(전체 매출의 약 25% 차지)은 약 8% 성장했다. 미국 지역 매출은 25% 이상 급증했고 워치&파인주얼리 부문은 코코 크러쉬 라인에 힘입어 35% 성장했다. 수치는 샤넬이 공식 발표한 것이 아니라 소식통을 인용한 블룸버그 보도이며 회사 측은 확인을 거부했다.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/chanel-sales-jump-16-as-new-collections-boost-label-s-appeal",
+      "source": "Bloomberg",
+      "tier": "T1",
+      "published_at": "2026-08-04",
+      "why_it_matters": "샤넬 뷰티가 8% 성장에 그친 반면 워치&주얼리는 35% 급성장해, 하드럭셔리가 뷰티보다 빠르게 크리에이티브 모멘텀을 수익화하고 있음을 시사 — 구찌 뷰티(코티→로레알 이관 과도기) 포트폴리오 배분 참고 지표.",
+      "why_it_matters_en": "Chanel beauty's 8% growth trailed watches & jewelry's 35% surge, showing hard luxury monetizing creative momentum faster than beauty right now — a benchmark data point as Gucci Beauty sits mid-transition from Coty to L'Oreal.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Estee Lauder (Le Labo, Kilian, Tom Ford)",
+      "event_type": "earnings",
+      "headline": "에스티로더 3분기 실적 서프라이즈, 럭셔리 향수 라인이 성장 견인",
+      "summary": "에스티로더 컴퍼니즈는 2026 회계연도 3분기 EPS 0.91달러(예상 0.65달러 상회), 매출 37.1억달러를 기록했다. 향수 부문이 유기적 매출 10% 성장으로 최대 성장 카테고리였으며 르 라보, 킬리안 파리, 톰 포드 등 럭셔리 브랜드가 견인했다. 중국 본토는 3분기 연속 프레스티지 뷰티 시장 평균을 상회하는 중간 한 자릿수 성장을 기록했다. 회사는 구조조정 프로그램을 최대 1만 개 직무 감축으로 확대한다고 밝혔다.",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/05-01-2026-110042145",
+      "source": "The Estee Lauder Companies / Yahoo Finance",
+      "tier": "T1",
+      "published_at": "2026-05-01",
+      "why_it_matters": "니치 향수(르 라보, 킬리안)가 대형 하우스 대비 두 자릿수에 가까운 성장을 내며 향수가 뷰티 회복의 핵심 카테고리임을 재확인 — 구찌 뷰티도 향수 라인 강화가 로레알 이관 전 실적 방어의 핵심 변수.",
+      "why_it_matters_en": "Niche fragrance houses (Le Labo, Kilian) outgrew the broader portfolio, reconfirming fragrance as prestige beauty's recovery engine — a signal for how Gucci Beauty should weight fragrance ahead of its 2027 L'Oreal handover.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Prada Beauty",
+      "event_type": "trend",
+      "headline": "프라다 뷰티, 세포라·에디토리얼서 존재감 확대 지속",
+      "summary": "프라다 뷰티가 2026년 내내 에디토리얼 커버리지와 세포라 입점 존재감을 꾸준히 확대하고 있다. 프라다스코프 마스카라와 파라독스 인텐스가 편집숍 필수템으로 반복 거론되며, 5월 일본 출시된 크림-파우더 멀티유즈 블러셔 '프라다 터치'도 신제품 화제로 부상했다. 다만 정량적 판매 순위나 매출 수치는 세포라·프라다 양측에서 공개되지 않았다.",
+      "url": "https://www.whowhatwear.com/beauty/best-prada-beauty-products",
+      "source": "Who What Wear",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "프라다 뷰티가 정식 매출 공시 없이도 반복적 에디토리얼 추천으로 세포라 내 입지를 넓히는 패턴은, 구찌 뷰티가 로레알 체제 전환기에도 동일한 편집숍 모멘텀 관리가 필요함을 보여주는 벤치마크.",
+      "why_it_matters_en": "Prada Beauty is building Sephora mindshare through repeated editorial endorsement even without disclosed sales figures — a benchmark for how Gucci Beauty should sustain retail momentum through its own licensing transition.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bulgari",
+      "event_type": "executive",
+      "headline": "로라 부르데세, LVMH 산하 불가리 CEO로 공식 취임",
+      "summary": "LVMH는 로라 부르데세를 불가리 최고경영자로 임명했으며 2026년 7월 1일부로 발효됐다. 이와 별개로 불가리는 '오 파퓸메 테 베르/블랑' 등 시그니처 향수를 재출시하며 프래그런스 카테고리 전략을 재정비하고 있다.",
+      "url": "https://uk.marketscreener.com/news/lvmh-laura-burdese-appointed-ceo-of-bvlgari-ce7d50dcdf8af12d",
+      "source": "MarketScreener",
+      "tier": "T2",
+      "published_at": "2026-07-01",
+      "why_it_matters": "LVMH가 불가리 수장 교체와 동시에 향수 리론칭을 병행한 것은 하드럭셔리 하우스가 뷰티/프래그런스를 브랜드 재활성화 도구로 적극 활용함을 보여줌 — 구찌 경영진 교체 시기 뷰티 전략 조율의 참고 사례.",
+      "why_it_matters_en": "LVMH paired a Bulgari CEO change with a fragrance relaunch, showing hard-luxury houses treat beauty/fragrance as an active brand-refresh lever — relevant precedent for how Gucci should sequence beauty strategy around leadership transitions.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Hermes Beauty",
+      "event_type": "campaign",
+      "headline": "에르메스 뷰티, 여름 시즌 '레 부아야죄르' 트래블 메이크업 브러시 세트 공개",
+      "summary": "에르메스 뷰티가 한낮 터치업과 휴대성을 강조한 한정판 트래블 메이크업 브러시 세트를 여름 라인업으로 선보였다. 불가리, 시세이도 등과 함께 여름 뷰티 신제품 특집에서 조명됐다.",
+      "url": "https://www.scmp.com/magazines/style/beauty/beauty-news/article/3361941/summer-beauty-highlights-new-launches-hermes-bulgari-shiseido-and-more",
+      "source": "South China Morning Post",
+      "tier": "T2",
+      "published_at": "2026-08-05",
+      "why_it_matters": "에르메스가 가죽공예 헤리티지를 뷰티 액세서리(브러시 케이스)로 연결한 것은 패션 하우스 고유 크래프트십을 뷰티 카테고리로 확장하는 전형적 전략 — 구찌 뷰티도 레더굿즈 헤리티지를 활용한 유사 확장 여지 존재.",
+      "why_it_matters_en": "Hermes extended its leather-craft heritage into a beauty accessory (a travel brush case), a template for translating house craftsmanship into beauty categories — a white space Gucci Beauty could similarly mine using its own leather-goods DNA.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci Beauty / Coty / L'Oreal",
+      "event_type": "licensing",
+      "headline": "코티→로레알 구찌 뷰티 라이선스 이관, 애널리스트들 코티 실적 타격 우려 지속",
+      "summary": "지난달(7월 7-8일) 발표된 코티-케링-로레알 간 구찌 뷰티 라이선스 조기 이관 합의(코티 약 4억달러 수령, 2027년 중반 로레알로 전환)에 대해 바클레이스 등 애널리스트들이 코티의 2028 회계연도 조정 EBITDA가 최대 32% 감소할 수 있다고 경고하는 후속 분석이 이어지고 있다. 로레알은 구찌 뷰티 제품의 2028년 초 정식 출시를 목표로 하고 있다.",
+      "url": "https://wwd.com/beauty-industry-news/beauty-features/gucci-license-shift-loreal-analysts-weigh-impact-coty-1239059681/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-15",
+      "why_it_matters": "구찌 뷰티의 로레알 이관은 결정됐지만 실제 신제품 출시는 2028년 초까지 공백기가 있어, 코티 운영 중인 2026-2027년 사이 구찌 뷰티 매출·마케팅 모멘텀 유지가 케링에 중요한 리스크 관리 과제로 남아있음.",
+      "why_it_matters_en": "The Gucci Beauty handover to L'Oreal is locked in but new product launches won't arrive until early 2028, leaving a gap year where Kering must manage Gucci Beauty's sales and marketing momentum under outgoing operator Coty — a live risk, not a settled win.",
+      "relevance": "competitive threat"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci Beauty / Coty / L'Oreal",
+      "event_type": "licensing",
+      "headline": "케링, 코티와 구찌 뷰티 라이선스 조기 종료 합의 — 로레알에 50년 라이선스",
+      "summary": "코티가 구찌 뷰티 라이선스를 원 계약 만료보다 약 1년 앞당겨 케링에 반환하기로 합의하고 총 4억달러(계약 시 2.5억달러, 2027년 9월까지 최대 1.5억달러 추가)를 수령한다. 코티는 2027년 6월 30일까지 구찌 뷰티 운영을 지속하며, 로레알은 2027년 중반부터 50년간 구찌 뷰티 글로벌 라이선스를 갖는다. 로레알은 전환 비용의 약 70%(약 2.94억달러)를 부담한다.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/coty-to-get-400-million-for-early-exit-from-gucci-beauty-deal",
+      "source": "Bloomberg",
+      "tier": "T1",
+      "published_at": "2026-07-08",
+      "why_it_matters": "구찌 뷰티의 미래 파트너가 로레알로 확정되면서 향후 구찌 뷰티 신제품·마케팅 전략의 주도권이 2027년 중반부터 로레알로 완전히 이동 — 케링/구찌 내부적으로 코티와의 남은 기간 중 브랜드 자산 관리가 핵심 과제.",
+      "why_it_matters_en": "With L'Oreal now confirmed as Gucci Beauty's next 50-year licensing partner, control over future product and marketing strategy fully shifts to L'Oreal from mid-2027 — leaving Kering/Gucci with the task of protecting brand equity during the remaining Coty-operated interim period.",
+      "relevance": "competitive threat"
+    }
+  ]
+}
