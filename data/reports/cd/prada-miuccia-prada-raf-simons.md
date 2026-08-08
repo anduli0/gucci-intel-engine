@@ -1,6 +1,6 @@
 # 미우치아 프라다 & 라프 시몬스 — 프라다(Prada)
 
-2026-07-13 갱신 / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-09 갱신 (dossier update — Prada Group H1 2026 실적 반영) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## 목차
 
@@ -16,7 +16,7 @@
 
 ## 핵심 요약
 
-미우치아 프라다와 라프 시몬스는 2020년 4월 이래 프라다 브랜드의 공동 크리에이티브 디렉터로, 2026년 7월 13일 현재도 두 사람 모두 재임 중임이 최신 시즌 발표로 확인된다[1][8]. 두 사람은 각자 하우스 하나를 완성한 거장이 대등한 권한으로 결합한 전례 없는 구조를 6년째 유지하며, 2026년 봄·가을 시즌까지 남녀 컬렉션을 함께 발표하고 있다[1][2]. 상업적으로는 프라다 브랜드 자체가 2025년 소폭(-1%) 역성장한 반면, 미우치아가 단독으로 이끄는 자매 브랜드 미우미우가 그룹 성장을 견인하며 프라다 그룹은 2025년 매출 57억 유로대에 도달했다[3][13]. 이 이중 구조는 구찌 입장에서 방향성 럭셔리 티어의 가장 직접적인 벤치마크이자, "메인 브랜드가 정체돼도 자매 브랜드가 그룹을 끌어올린다"는 포트폴리오 모델의 실증 사례로 읽힌다.
+미우치아 프라다와 라프 시몬스는 2020년 4월 이래 프라다 브랜드의 공동 크리에이티브 디렉터로, 2026년 8월 현재도 두 사람 모두 재임 중임이 최신 시즌 발표로 확인된다[1][8]. 두 사람은 각자 하우스 하나를 완성한 거장이 대등한 권한으로 결합한 전례 없는 구조를 6년째 유지하며, 2026년 봄·가을 시즌까지 남녀 컬렉션을 함께 발표하고 있다[1][2]. 2026년 8월 3일 공개된 상반기 실적은 그동안의 이중 구조 서사를 뒤집었다. 시몬스와 공동으로 이끄는 프라다 브랜드가 상반기 리테일 +3.3%(2분기 +6.3%로 가속)로 반등한 반면, 미우치아 단독의 미우미우는 상반기 성장률이 약 2.5%로 급감하며 초고성장 국면을 끝냈다[16][17][18]. 구찌 입장에서 이 반전은 "메인 브랜드가 개념적 강점을 매출로 전환할 수 있는가"라는 질문에 프라다가 처음으로 긍정적 답을 내놓기 시작했다는 신호이자, 방향성 럭셔리 티어의 가장 직접적인 벤치마크가 국면을 바꿨다는 경보다.
 
 ## 1. 프로필 개요
 
@@ -36,6 +36,8 @@
 
 솔로 미우치아 시절과 비교하면, 공동 체제는 미우치아 특유의 지적 아이러니와 "못생김의 미학"에 시몬스의 절제된 실루엣·유스컬처 감수성·개념적 명료함이 겹쳐지며 층위가 두꺼워졌다. 최근 시즌이 이를 압축적으로 보여준다. 2026 가을·겨울 남성복 "Before and Next"는 1790년대·1910년대 세기말·1930년대 긴축기의 좁고 긴 실루엣을 발굴해 정치적 격변기의 미감을 오늘에 겹쳐 놓았고, 폰다치오네 프라다 데포지토를 사적 내면과 공적 광장이 교차하는 공간으로 연출했다[1][2]. 2026 가을·겨울 여성복 "Inside Prada"는 15명의 여성이 15개 룩을 60가지 방식으로 겹쳐 입는 레이어링을 통해 귀한 것과 실용적인 것, 고급과 저급의 위계를 해체했다[6]. 소재·연출의 핵심 코드는 아카이브의 고고학적 발굴, 콜라주 프린트, 낡음과 정결함의 병치, 그리고 개념을 실물로 명료하게 번역하는 절제다.
 
+미우미우 쪽에서는 아카이브 실물화가 하나의 상업 문법으로 굳어졌다. 미우치아 단독의 미우미우는 2026년 8월 3일 "버블(Bubble)" 슈즈를 재출시하며, 1999년 아카이브의 둥글고 패딩된 실루엣을 오늘의 리테일 상품으로 되살렸다[20]. 뉴발란스 협업, 크로셰 백, 선글라스로 이어지는 2000년대 초 노스탤지어의 상품화는 미우미우가 런웨이 개념을 즉시 판매 가능한 물건으로 번역하는 방식의 전형을 보여준다[19][20].
+
 ## 4. 지향점과 철학
 
 두 디렉터의 발언은 창작 방법론이 대화에 기반함을 반복해 드러낸다. 시몬스는 협업 과정을 두고 무엇을 남길지, 배운 것으로 무엇을 지을지 자문한다고 표현했으며, 불확실한 순간일수록 아이디어를 정밀하고 명료하게 다듬는 태도에서 안도감을 느낀다고 밝혀 명료성을 협업의 지향점으로 제시했다[1]. 미우치아는 같은 시즌, 지금 이 순간의 심리를 압축하는 단어로 "불편함"을 지목하며 컬렉션을 아름다움과 우아함과 의미를 향한 탐색으로 규정했고, 그 작업에는 주의와 노동, 진지함과 문화, 그리고 돌봄이 필요하다고 덧붙였다[1].
@@ -44,27 +46,37 @@
 
 ## 5. 현 하우스에서의 행보
 
-데뷔 이후 6년간 공동 체제는 비평적으로 대체로 안착했고, 2026 가을·겨울 여성복 "Inside Prada" 역시 주요 매체에서 호평을 받았다. 어나더 매거진은 모순의 탐구이자 의미의 레이어링이라며 긍정했고, WWD는 레이어링과 정체성에 대한 도발적 탐구로 평했으며, 디 임프레션은 시의성을 갖춘 모순의 명상이라 상찬하며 대부분 항목에서 높은 점수를 부여했다[4][5][6]. 다만 디 임프레션이 실용성·리테일 준비도 항목을 상대적으로 낮게 매긴 데서 보이듯, 개념적 밀도가 즉각적 상업성으로 곧장 이어지느냐는 물음은 여전히 남는다[5].
+데뷔 이후 6년간 공동 체제는 비평적으로 대체로 안착했고, 2026 가을·겨울 여성복 "Inside Prada" 역시 주요 매체에서 호평을 받았다. 어나더 매거진은 모순의 탐구이자 의미의 레이어링이라며 긍정했고, WWD는 레이어링과 정체성에 대한 도발적 탐구로 평했으며, 디 임프레션은 시의성을 갖춘 모순의 명상이라 상찬하며 대부분 항목에서 높은 점수를 부여했다[4][5][6]. 다만 디 임프레션이 실용성·리테일 준비도 항목을 상대적으로 낮게 매긴 데서 보이듯, 개념적 밀도가 즉각적 상업성으로 곧장 이어지느냐는 물음은 여전히 남았다[5].
 
-상업 전환의 지표는 그룹 실적에서 이중적으로 나타난다. 프라다 그룹은 2025년 순매출 약 57.2억 유로로 전년 대비 9%(오가닉 8%) 성장했으나, 성장의 견인차는 미우치아가 단독으로 이끄는 미우미우였다. 미우미우는 2025년 연간 약 35% 성장하며 그룹 내 비중을 확대한 반면, 시몬스와 공동으로 이끄는 프라다 브랜드는 연간 -1%로 소폭 역성장하고 하반기 들어 4분기에 플러스로 복귀하는 흐름을 보였다[3][13]. 조직 차원에서 프라다 그룹은 2025년 12월 2일 베르사체 인수를 완료해 포트폴리오를 확장했으며, 이는 공동 디렉터 체제 외부의 그룹 전략 변화로 향후 자원 배분에 영향을 줄 변수다[3][13].
+그 물음에 2026년 상반기 실적이 부분적 답을 냈다. 프라다 그룹은 2026년 8월 3일 상반기 실적을 발표하며 그룹 순매출이 고정환율 기준 16% 증가한 30억 4,800만 유로에 이르렀고, 22분기 연속 플러스 성장을 기록했다고 밝혔다[16][17]. 주목할 점은 브랜드별 흐름의 반전이다. 시몬스와 공동으로 이끄는 프라다 브랜드는 상반기 리테일 매출이 3.3% 늘며 2분기에는 6.3%로 가속했는데, 이는 정가 동일점포 판매가 견인한 결과로 2025년 연간 -1% 역성장을 되돌린 반등이다[17]. 반대로 미우치아 단독의 미우미우는 상반기 리테일 성장률이 약 2.5% 수준(1분기 2.6%·2분기 2.5%)으로 급감하며, 2025년의 40%대 초고성장 국면을 사실상 종료했다[17][18]. 다만 이 감속은 극도로 높아진 비교 기준선(미우미우는 5년 만에 매출을 4억 5,000만 유로대에서 약 20억 유로로 키웠다)에 대한 것이어서, 비즈니스 오브 패션은 이를 "연착륙(soft landing)"으로 규정했다[18].
+
+수익성과 그룹 차원의 부담은 별도로 짚어야 한다. 조정 영업이익은 14% 감소한 5억 3,000만 유로로 마진이 22.6%에서 17.4%로 압축됐고, 그룹 순이익도 15% 줄어든 3억 2,700만 유로에 그쳤는데, 이는 2025년 12월 편입된 베르사체 통합 비용이 주된 원인이다[17]. 베르사체는 상반기 3억 500만 유로 매출을 보탰으나 두 자릿수 영업손실을 이어갔고, 그룹은 하반기에도 손실 지속을 예상하고 있다[17]. 안드레아 궤라 CEO는 럭셔리 업황을 두고 "우리가 아직 변곡점에 있다고 보지 않는다"고 밝혔고, 베르사체에 대해서는 "쇼 없이 또 힘든 6개월"이라며 재건이 장기전임을 시사했다[17]. 이 실적 구조는 프라다·미우미우 두 브랜드의 창작 성과와 베르사체발 비용 부담이 손익계산서상에서 분리해 읽혀야 함을 뜻한다.
+
+문화 지표에서도 미우미우의 모멘텀은 여전히 강하다. 2026년 2분기 리스트 지수(Lyst Index)에서 미우미우는 검색 수요가 전분기 대비 30% 급증하며 두 계단 올라 2위에 진입했고, 1위는 샤넬이 유지했다[19]. 코코 고프가 윔블던에서 착용한 뉴발란스 협업, 크로셰 백, 선글라스가 수요를 견인한 것으로 분석된다[19]. 즉 미우미우는 매출 성장률은 감속했으나 문화적 발견 신호에서는 정상권을 지키고 있다.
 
 ## 6. 구찌 관점
 
-프라다는 방향성·개념 중심 메인라인 럭셔리에서 구찌의 가장 직접적인 경쟁자다. 위협·벤치마크 포인트는 세 가지다. 첫째, 지적 콘셉트를 상업으로 번역하는 능력이다. 40룩 압축 편집과 개념적 쇼 노트로 매 시즌 담론을 선점하는 방식은, 뎀나 체제 구찌가 재정의하려는 "문화적 주도권" 경쟁에서 직접 부딪히는 지점이다. 둘째, 포트폴리오 헤징 모델이다. 프라다 그룹은 메인 브랜드(프라다)가 -1% 정체해도 자매 브랜드(미우미우 +35%)가 그룹을 끌어올리는 구조를 실증했다[3][13]. 케링·구찌에는 단일 대형 브랜드 의존 리스크를 상기시키는 대조 사례다. 셋째, 미우미우의 문화적 모멘텀이다. 미우치아가 단독으로 이끄는 미우미우가 젊은 층·문화 담론에서 급성장 중인 점은, 구찌가 젊은 세대 재장악을 노릴 때 넘어야 할 실체적 경쟁 축이다.
+프라다는 방향성·개념 중심 메인라인 럭셔리에서 구찌의 가장 직접적인 경쟁자다. 위협·벤치마크 포인트는 세 가지이며, 2026년 상반기 실적으로 그 무게가 재조정됐다. 첫째, 지적 콘셉트를 상업으로 번역하는 능력이다. 프라다 브랜드가 상반기 +3.3%·2분기 +6.3%로 반등한 것은, 40룩 압축 편집과 개념적 쇼 노트로 담론을 선점하는 방식이 이제 정가 동일점포 매출로 환원되기 시작했음을 시사한다[17]. 뎀나 체제 구찌가 "문화적 주도권"을 매출로 전환해야 하는 과제를 안고 있는 만큼, 프라다의 개념-매출 전환 성공은 직접적 벤치마크로 격상됐다.
 
-내부 전략 함의로 읽을 지점은 공동 디렉터 구조 그 자체다. 프라다의 실험은 "대등한 두 거장의 공동 체제"가 6년간 지속 가능하며 비평적 담론을 선점할 수 있음을 보였으나, 프라다 브랜드의 연간 정체는 개념적 강점이 곧바로 메인라인 매출로 환원되지 않는다는 관리 과제도 함께 드러낸다[3][13]. 구찌가 단일 강력 디렉터(뎀나) 체제를 택한 만큼, 프라다는 반대 실험의 성과·한계를 동시에 관찰할 수 있는 자연 대조군이다.
+둘째, 포트폴리오 헤징 모델의 국면 전환이다. 2025년에는 프라다(-1%)를 미우미우(+35%)가 떠받치는 구조였으나, 2026년 상반기에는 프라다가 반등하고 미우미우가 감속하며 견인축이 뒤바뀌었다[13][17]. 이는 케링·구찌에 "포트폴리오 내 성장 견인축은 순환할 수 있으며, 메인 브랜드의 반등이 궁극적 목표"라는 교훈을 준다. 셋째, 미우미우의 문화적 모멘텀이다. 매출 성장은 감속했으나 리스트 지수 2위 유지와 뉴발란스 협업·아카이브 재출시(버블 슈즈)로 이어지는 문화적 발견 신호는 건재하다[19][20]. 구찌가 젊은 세대 재장악을 노릴 때, 미우미우식 "런웨이 개념의 즉시 상품화" 문법은 여전히 넘어야 할 실체적 경쟁 축이다.
+
+내부 전략 함의로 읽을 지점은 두 가지다. 하나는 공동 디렉터 구조의 상업 정당성이 상반기 실적으로 처음 강화됐다는 점이다. 프라다 브랜드의 반등은 "개념적 강점이 메인라인 매출로 환원되지 않는다"던 종전 우려를 완화하며, 대등 공동 체제가 담론뿐 아니라 매출에서도 성과를 낼 수 있음을 시사한다[17]. 다른 하나는 그룹 손익의 이중 구조다. 베르사체 통합 비용이 조정 영업이익을 14% 끌어내린 사례는[17], 구찌·케링에 대형 인수의 창작 성과와 손익 부담이 분리 관리돼야 함을 보여주는 대조 자료다. 구찌가 단일 강력 디렉터(뎀나) 체제를 택한 만큼, 프라다는 반대 실험의 성과·한계를 동시에 관찰할 수 있는 자연 대조군으로 남는다.
 
 ## 7. 전망
 
-가설 라벨을 붙여 다음 12개월 관전 포인트를 제시한다. 첫째(가설), 프라다 브랜드 반등 여부다. 2025년 4분기 플러스 복귀 흐름이 2026년 연간 성장으로 이어지는지가 공동 체제의 상업 정당성을 가르는 핵심 지표다[3]. 둘째(가설), 베르사체 통합의 자원 흡인 효과다. 인수 완료 후 그룹 역량이 베르사체 재건에 배분되면서 프라다·미우미우 디렉션에 대한 투자·주목이 상대적으로 희석될 가능성을 점검해야 한다[13]. 셋째(미확인), 공동 체제의 지속성이다. 두 디렉터 모두 현재 재임이 확인되나, 시몬스가 자기 레이블을 접고 프라다에 집중하는 구도인 만큼 개인 커리어 변수는 상시 모니터링 대상이다[14]. 넷째(가설), 미우미우와의 내부 격차 확대다. 미우미우 고성장이 지속되면 그룹 내 서사·자원의 무게중심이 미우치아 단독 프로젝트로 기울며 공동 프라다 라인의 상대적 위상에 영향을 줄 수 있다[3].
+가설 라벨을 붙여 다음 12개월 관전 포인트를 제시한다. 첫째(가설), 프라다 브랜드 반등의 지속성이다. 상반기 +3.3%·2분기 +6.3%의 가속이 하반기까지 이어져 연간 플러스 성장으로 확정되는지가 공동 체제 상업 정당성의 최종 시험대다[17]. 둘째(가설), 미우미우 감속의 성격이다. 상반기 약 2.5% 성장이 높은 기준선에 따른 "연착륙"인지, 아니면 초고성장 사이클의 구조적 종료인지가 그룹 성장 서사의 방향을 가른다[18]. 리스트 지수 2위 유지 등 문화 지표는 여전히 강해 연착륙 가설에 무게가 실린다[19]. 셋째(가설), 베르사체 통합의 자원·손익 흡인 효과다. 하반기에도 두 자릿수 영업손실이 예상되는 만큼, 그룹 역량이 베르사체 재건에 배분되며 프라다·미우미우 디렉션에 대한 투자·주목이 상대적으로 희석될 가능성을 점검해야 한다[17]. 넷째(미확인), 공동 체제의 지속성이다. 두 디렉터 모두 현재 재임이 확인되나, 시몬스가 자기 레이블을 접고 프라다에 집중하는 구도인 만큼 개인 커리어 변수는 상시 모니터링 대상이다[14]. 다섯째(미확인), 프라다 특정 제품의 대중문화 견인 효과다. 캐럴린 베셋-케네디 전기영화 등 팝컬처 계기가 프라다 스파졸라토 백 검색 급증으로 이어졌다는 저강도 소스 관측이 있으나, 강한 1차 자료로 교차 확인되기 전까지 미확인 상태로 둔다[21].
 
 ## 주석
 
 - 오가닉(organic) 성장: 환율·인수합병 효과를 제외한 실질 매출 성장률. 브랜드의 순수 영업 체력을 본다.
+- 고정환율(constant currency) 기준: 환율 변동 효과를 제거하고 본 성장률. 실질 수요 흐름을 판단한다.
 - 동일점포(like-for-like) 매출: 기존 매장 기준 매출 증감으로, 신규 출점 효과를 걷어낸 수요 지표.
+- 조정 영업이익(adjusted operating profit): 일회성·비경상 항목을 조정한 영업이익. 마진과 함께 본업 수익성을 본다.
 - EBIT 마진: 이자·세전 영업이익을 매출로 나눈 수익성 지표. 높을수록 본업 수익성이 좋다.
+- 리스트 지수(Lyst Index): 쇼핑 플랫폼 리스트가 검색·조회·판매 데이터로 매분기 산출하는 브랜드 수요 순위. 문화적 화제성을 근사한다.
 - 방향성 럭셔리(directional luxury): 트렌드를 선도하며 개념·담론으로 주목을 만드는 패션 중심 럭셔리 세그먼트.
 - 공동 크리에이티브 디렉터: 두 사람이 대등한 권한으로 창작·의사결정을 공유하는 체제. 프라다 브랜드에만 적용되며 미우미우는 미우치아 단독.
+- 연착륙(soft landing): 초고성장 뒤 매출 증가율이 급감하되 마이너스로 꺾이지 않고 완만히 안정되는 국면.
 
 ## 출처
 
@@ -83,12 +95,18 @@
 [13] WWD — Prada Group 2025 매출·미우미우·베르사체 인수 보도 — https://wwd.com/business-news/financial/prada-group-2025-revenue-growth-miu-miu-outperform-1238649057/
 [14] CNN Style — Raf Simons 자기 이름 레이블 종료(2022.11) 보도 — https://www.cnn.com/style/article/raf-simons-closes-label/
 [15] Highsnobiety — Raf Simons 프라다 데뷔 컬렉션(2021 봄·여름) 리뷰 — https://www.highsnobiety.com/p/prada-raf-simons-ss21/
+[16] CPP-Luxury — 프라다 그룹 2026 상반기 매출 16% 증가 30.5억 유로 보도 — https://cpp-luxury.com/prada-group-first-half-2026-revenue-increases-16-percent-to-e3-05-billion/
+[17] InsideRetail Asia — 프라다 그룹 2026 상반기 실적 분석(브랜드별 성장·조정 영업이익·베르사체·궤라 발언) — https://insideretail.asia/2026/08/03/growth-on-one-line-dilution-on-the-next-inside-prada-groups-versace-era/
+[18] Business of Fashion — 프라다 그룹 실적, 미우미우 "연착륙" 분석 — https://www.businessoffashion.com/news/luxury/prada-groups-sales-growth-suggests-soft-landing-for-miu-miu/
+[19] Lyst / WWD — 2026 2분기 리스트 지수(미우미우 2위 상승·수요 30% 급증) — https://wwd.com/fashion-news/fashion-features/chanel-q2-2026-lyst-ranking-massimo-dutti-phoebe-philo-1239091157/
+[20] WWD — 미우미우 "버블" 슈즈 재출시(1999 아카이브 부활) 보도 — https://wwd.com/footwear-news/shoe-trends/miu-miu-bubble-shoe-sneaker-fall-2026-1239091856/
+[21] Collectors Cage — 프라다 스파졸라토 백 검색 급증 관측(저강도 소스, 미확인) — https://collectorscage.com/
 
 <!-- ===== ENGLISH EDITION ===== -->
 
 # Miuccia Prada & Raf Simons — Prada
 
-Updated 2026-07-13 / CD DOSSIER / GUCCI INTELLIGENCE
+Updated 2026-08-09 (dossier update — reflecting Prada Group H1 2026 results) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## Table of Contents
 
@@ -104,7 +122,7 @@ Updated 2026-07-13 / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## Core Summary
 
-Miuccia Prada and Raf Simons have served as co-creative directors of the Prada brand since April 2020, and as of 13 July 2026 both remain confirmed in office, verified by their most recent seasonal collections[1][8]. The two have sustained an unprecedented structure — two designers who each fully built a house joining as equals — for six years, jointly presenting both men's and women's collections through Spring and Fall 2026[1][2]. Commercially, the Prada brand itself contracted slightly (-1%) in 2025, while sister label Miu Miu, led solely by Miuccia, drove group growth, pushing Prada Group's net revenue to roughly €5.7 billion[3][13]. For Gucci, this dual structure is the most direct benchmark in directional luxury and a live proof point for a portfolio model in which a stalling flagship is offset by a surging sister brand.
+Miuccia Prada and Raf Simons have served as co-creative directors of the Prada brand since April 2020, and as of August 2026 both remain confirmed in office, verified by their most recent seasonal collections[1][8]. The two have sustained an unprecedented structure — two designers who each fully built a house joining as equals — for six years, jointly presenting both men's and women's collections through Spring and Fall 2026[1][2]. The H1 2026 results released on 3 August 2026 inverted the dual-structure narrative: the Prada brand, co-directed with Simons, rebounded to +3.3% retail for the half (accelerating to +6.3% in Q2), while Miu Miu, led solely by Miuccia, decelerated sharply to roughly 2.5% growth, ending its hyper-growth phase[16][17][18]. For Gucci, this reversal signals that Prada is beginning to answer affirmatively the question of "can a main brand convert conceptual strength into revenue," and is an alert that the most direct benchmark in directional luxury has shifted phase.
 
 ## 1. Profile Overview
 
@@ -124,6 +142,8 @@ The aesthetic of the co-director era stands on a shared platform of "reinvention
 
 Compared with Miuccia's solo period, the joint era layers her signature intellectual irony and "ugly chic" with Simons's restrained silhouettes, youth-culture sensibility, and conceptual clarity. Recent seasons distill this. The Fall/Winter 2026 menswear show "Before and Next" excavated the narrow, elongated silhouettes of the 1790s, the fin-de-siècle 1910s, and the austerity-era 1930s, layering the aesthetics of politically turbulent eras onto the present, staged at the Fondazione Prada Deposito as a space where private interiority and public square intersect[1][2]. The Fall/Winter 2026 womenswear show "Inside Prada" had 15 women layer 15 looks in 60 different ways, dismantling the hierarchy between the precious and the practical, the elevated and the low[6]. The core codes across material and staging are archaeological excavation of the archive, collage prints, the juxtaposition of wear and pristineness, and a discipline that translates concept into physical clarity.
 
+On the Miu Miu side, making archive physical again has hardened into a commercial grammar. On 3 August 2026, Miuccia's solely directed Miu Miu re-released the "Bubble" shoe, reviving the rounded, padded silhouette of a 1999 archive style as a retail product for today[20]. The commercialization of early-2000s nostalgia — through the New Balance collaboration, crochet bags, and sunglasses — exemplifies how Miu Miu translates runway concepts into immediately purchasable objects[19][20].
+
 ## 4. Vision and Philosophy
 
 Statements from both directors repeatedly reveal a creative method grounded in dialogue. Simons has described the collaborative process as asking what to leave behind and what to build from what is learned, and said he finds reassurance in refining ideas to precision and clarity amid uncertainty — presenting clarity as the aim of the collaboration[1]. In the same season, Miuccia named "discomfort" as the word that compresses the present moment's psychology, defining the collection as a search toward beauty, elegance, and meaning that requires attention and labor, seriousness and culture, and care[1].
@@ -132,27 +152,37 @@ Their view of brand identity resolves into a tension between reinvention and con
 
 ## 5. Trajectory at the Current House
 
-Over six years since the debut, the co-director era has been largely well received critically, and the Fall/Winter 2026 womenswear show "Inside Prada" drew positive reviews from major outlets. AnOther Magazine praised it as an exploration of contradiction and layered meaning, WWD called it a provocative exploration of layering and identity, and The Impression lauded it as a timely meditation on contradiction, awarding high marks across most categories[4][5][6]. Still, as seen in The Impression's relatively lower marks for practicality and retail-readiness, the question of whether conceptual density converts directly into immediate commerce remains open[5].
+Over six years since the debut, the co-director era has been largely well received critically, and the Fall/Winter 2026 womenswear show "Inside Prada" drew positive reviews from major outlets. AnOther Magazine praised it as an exploration of contradiction and layered meaning, WWD called it a provocative exploration of layering and identity, and The Impression lauded it as a timely meditation on contradiction, awarding high marks across most categories[4][5][6]. Still, as seen in The Impression's relatively lower marks for practicality and retail-readiness, the question of whether conceptual density converts directly into immediate commerce remained open[5].
 
-The commercial-conversion picture is dual-edged at the group level. Prada Group posted 2025 net revenue of approximately €5.72 billion, up 9% year-on-year (8% organic), but the growth engine was Miu Miu, led solely by Miuccia. Miu Miu grew roughly 35% for the year, expanding its share within the group, while the Prada brand — co-directed with Simons — contracted slightly by -1% for the year, returning to positive territory in the fourth quarter[3][13]. Organizationally, Prada Group completed its acquisition of Versace on 2 December 2025, expanding its portfolio — a group-strategy shift external to the co-director structure that will affect future resource allocation[3][13].
+The H1 2026 results gave that question a partial answer. On 3 August 2026, Prada Group reported first-half net revenue up 16% at constant currency to €3,048 million, marking a 22nd consecutive positive quarter[16][17]. What stands out is the reversal in brand-by-brand momentum. The Prada brand, co-directed with Simons, posted retail sales up 3.3% for the half, accelerating to 6.3% in Q2 — a rebound driven by full-price like-for-like sales that reverses the -1% annual contraction of 2025[17]. Conversely, Miuccia's solely directed Miu Miu decelerated sharply to roughly 2.5% retail growth for the half (2.6% in Q1, 2.5% in Q2), effectively ending the 40%+ hyper-growth phase of 2025[17][18]. This deceleration, however, is against an extraordinarily elevated comparison base — Miu Miu grew from roughly €450 million to nearly €2 billion in revenue over five years — which led Business of Fashion to characterize it as a "soft landing"[18].
+
+Profitability and group-level burdens must be read separately. Adjusted operating profit fell 14% to €530 million, with margins compressing from 22.6% to 17.4%, and group net income fell 15% to €327 million — chiefly weighed down by integration costs from Versace, folded into the group in December 2025[17]. Versace added €305 million in revenue for the half but continued at a double-digit operating loss, and the group expects losses to persist through year-end[17]. CEO Andrea Guerra said of the luxury environment that he does not think the sector is at an inflection point, and of Versace that it faces "another tough six months with no show," signaling that the rebuild is a long game[17]. This earnings structure means the creative performance of Prada and Miu Miu must be read separately from the Versace-driven cost burden on the P&L.
+
+Cultural indicators show Miu Miu's momentum remains strong. In the Q2 2026 Lyst Index, Miu Miu climbed two places to No. 2 as search demand surged 30% quarter-over-quarter, with Chanel holding No. 1[19]. The New Balance collaboration worn by Coco Gauff at Wimbledon, crochet bags, and sunglasses drove the demand[19]. In short, Miu Miu's revenue growth has decelerated, but it holds a top position in cultural discovery signals.
 
 ## 6. The Gucci View
 
-Prada is Gucci's most direct rival in directional, concept-centered main-line luxury. Three benchmark and threat points stand out. First is the ability to translate intellectual concept into commerce. The 40-look compressed edit and conceptual show notes that seize seasonal discourse sit directly at the intersection of the "cultural leadership" contest that the Demna-era Gucci is trying to redefine. Second is the portfolio-hedging model. Prada Group has empirically demonstrated a structure in which a stalling flagship (Prada, -1%) is offset by a surging sister brand (Miu Miu, +35%)[3][13] — a contrasting case that should remind Kering/Gucci of the risk of single-large-brand dependence. Third is Miu Miu's cultural momentum. Miu Miu's rapid growth among younger consumers and cultural discourse, driven solely by Miuccia, is a substantive competitive axis Gucci must overcome if it aims to recapture younger generations.
+Prada is Gucci's most direct rival in directional, concept-centered main-line luxury. Three benchmark and threat points stand out, and the H1 2026 results recalibrated their weight. First is the ability to translate intellectual concept into commerce. The Prada brand's rebound to +3.3% for the half and +6.3% in Q2 suggests that the method of seizing discourse through the 40-look compressed edit and conceptual show notes is now beginning to convert into full-price like-for-like revenue[17]. Because the Demna-era Gucci faces the very task of converting "cultural leadership" into revenue, Prada's concept-to-commerce success is elevated to a direct benchmark.
 
-The internal strategic implication worth noting is the co-director structure itself. Prada's experiment shows that an "equal partnership of two masters" can be sustained for six years and can command critical discourse, but the Prada brand's annual stagnation also reveals the management challenge that conceptual strength does not automatically convert into main-line revenue[3][13]. Because Gucci opted for a single strong director (Demna), Prada serves as a natural control group for observing both the payoffs and limits of the opposite experiment.
+Second is the phase shift in the portfolio-hedging model. In 2025 the structure had Miu Miu (+35%) propping up Prada (-1%), but in H1 2026 Prada rebounded while Miu Miu decelerated, flipping the growth engine[13][17]. This teaches Kering/Gucci that the growth engine within a portfolio can rotate, and that the ultimate goal is the main brand's rebound. Third is Miu Miu's cultural momentum. Revenue growth has slowed, but the cultural discovery signals — holding No. 2 on the Lyst Index, the New Balance collaboration, and archive reissues like the Bubble shoe — remain intact[19][20]. As Gucci aims to recapture younger generations, Miu Miu's grammar of "immediate commercialization of runway concepts" remains a substantive competitive axis to overcome.
+
+Two internal strategic implications stand out. One is that the commercial legitimacy of the co-director structure was strengthened for the first time by the H1 results. The Prada brand's rebound eases the prior concern that conceptual strength does not convert into main-line revenue, suggesting that an equal co-director structure can deliver in revenue as well as discourse[17]. The other is the dual structure of group earnings. The case of Versace integration costs pulling adjusted operating profit down 14%[17] is a contrasting reference for Gucci/Kering, showing that a large acquisition's creative performance and P&L burden must be managed separately. Because Gucci opted for a single strong director (Demna), Prada remains a natural control group for observing both the payoffs and limits of the opposite experiment.
 
 ## 7. Outlook
 
-The following twelve-month watch points carry hypothesis labels. First (hypothesis), whether the Prada brand rebounds: whether the return to positive growth in Q4 2025 carries through into full-year 2026 growth is the key indicator distinguishing whether the co-director structure has commercial legitimacy[3]. Second (hypothesis), the resource-absorption effect of Versace integration: after the acquisition's completion, watch whether group capacity shifts toward rebuilding Versace, potentially diluting relative investment and attention to Prada/Miu Miu direction[13]. Third (unverified), the durability of the co-director structure: both directors are currently confirmed in office, but because Simons has folded his own label to concentrate on Prada, individual career variables remain a constant monitoring item[14]. Fourth (hypothesis), a widening internal gap with Miu Miu: if Miu Miu's high growth continues, the group's narrative and resource center of gravity may tilt further toward Miuccia's solo project, affecting the relative standing of the joint Prada line[3].
+The following twelve-month watch points carry hypothesis labels. First (hypothesis), the durability of the Prada brand rebound: whether the +3.3% half / +6.3% Q2 acceleration carries through the second half into confirmed full-year growth is the final test of the co-director structure's commercial legitimacy[17]. Second (hypothesis), the nature of Miu Miu's deceleration: whether the roughly 2.5% half growth is a "soft landing" against a high base or the structural end of the hyper-growth cycle will determine the direction of the group's growth narrative[18]; cultural indicators such as holding No. 2 on the Lyst Index still lend weight to the soft-landing hypothesis[19]. Third (hypothesis), the resource and P&L absorption effect of Versace integration: with double-digit operating losses expected in the second half too, watch whether group capacity shifts toward rebuilding Versace, potentially diluting relative investment and attention to Prada/Miu Miu direction[17]. Fourth (unverified), the durability of the co-director structure: both directors are currently confirmed in office, but because Simons has folded his own label to concentrate on Prada, individual career variables remain a constant monitoring item[14]. Fifth (unverified), the pop-culture pull of specific Prada products: low-tier sourcing observes a surge in searches for the Prada Spazzolato bag tied to pop-culture triggers such as the Carolyn Bessette-Kennedy biopic, but this is left unverified until cross-checked against stronger primary sources[21].
 
 ## Notes
 
 - Organic growth: real revenue growth excluding currency and M&A effects, showing a brand's pure operating strength.
+- Constant currency basis: growth measured with currency-fluctuation effects removed, to judge underlying real demand.
 - Like-for-like sales: revenue change measured at existing stores, stripping out the effect of new store openings — a demand indicator.
+- Adjusted operating profit: operating profit adjusted for one-off and non-recurring items; read with margin to gauge core profitability.
 - EBIT margin: operating profit before interest and tax, divided by revenue — a profitability measure; higher indicates stronger core profitability.
+- Lyst Index: a quarterly brand-demand ranking produced by the shopping platform Lyst from search, view, and sales data — a proxy for cultural buzz.
 - Directional luxury: a fashion-forward luxury segment that leads trends and generates attention through concept and discourse.
 - Co-creative director: a structure in which two people share creative authority and decision-making equally. This applies only to the Prada brand; Miu Miu remains under Miuccia's sole direction.
+- Soft landing: a phase in which, after hyper-growth, the growth rate falls sharply but stabilizes gently without turning negative.
 - [Hypothesis] / [Unverified]: analytical inference or information not confirmed by public evidence, labeled to distinguish it from established fact.
 
 ## Sources
@@ -172,3 +202,9 @@ The following twelve-month watch points carry hypothesis labels. First (hypothes
 [13] WWD — Prada Group 2025 revenue, Miu Miu, and Versace acquisition coverage — https://wwd.com/business-news/financial/prada-group-2025-revenue-growth-miu-miu-outperform-1238649057/
 [14] CNN Style — report on the closure of Raf Simons's eponymous label (November 2022) — https://www.cnn.com/style/article/raf-simons-closes-label/
 [15] Highsnobiety — review of Raf Simons's Prada debut collection (Spring/Summer 2021) — https://www.highsnobiety.com/p/prada-raf-simons-ss21/
+[16] CPP-Luxury — Prada Group H1 2026 revenue up 16% to €3.05 billion — https://cpp-luxury.com/prada-group-first-half-2026-revenue-increases-16-percent-to-e3-05-billion/
+[17] InsideRetail Asia — Prada Group H1 2026 results analysis (brand-level growth, adjusted operating profit, Versace, Guerra quotes) — https://insideretail.asia/2026/08/03/growth-on-one-line-dilution-on-the-next-inside-prada-groups-versace-era/
+[18] Business of Fashion — Prada Group results, Miu Miu "soft landing" analysis — https://www.businessoffashion.com/news/luxury/prada-groups-sales-growth-suggests-soft-landing-for-miu-miu/
+[19] Lyst / WWD — Q2 2026 Lyst Index (Miu Miu rises to No. 2, demand up 30%) — https://wwd.com/fashion-news/fashion-features/chanel-q2-2026-lyst-ranking-massimo-dutti-phoebe-philo-1239091157/
+[20] WWD — Miu Miu "Bubble" shoe re-release (1999 archive revival) — https://wwd.com/footwear-news/shoe-trends/miu-miu-bubble-shoe-sneaker-fall-2026-1239091856/
+[21] Collectors Cage — observation of surge in Prada Spazzolato bag searches (low-tier source, unverified) — https://collectorscage.com/

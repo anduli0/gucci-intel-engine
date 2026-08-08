@@ -1,0 +1,112 @@
+{
+  "brand_group": "Kering",
+  "date": "2026-08-09",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Kering",
+      "event_type": "earnings",
+      "headline": "Kering H1 2026 실적 발표 후 주가 17% 급등, 3분기 연속 순환 성장 전환",
+      "summary": "Kering이 7월 28일 발표한 상반기 실적에서 그룹 매출 72.2억 유로(비교 기준 +1%), 2분기 매출 36.5억 유로(비교 기준 +2%)로 12분기 만에 성장 전환에 성공했다. 발표 직후 주가는 종가 기준 292.85유로로 약 16.9% 급등했다.",
+      "url": "https://wwd.com/business-news/financial/kering-share-reaction-second-quarter-results-1239086670/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-28",
+      "why_it_matters": "그룹 차원의 실적 반등은 구찌의 회복 서사에 신뢰를 더하지만, 성장의 상당 부분이 보석·아이웨어와 비용 절감·자산 매각에서 나왔다는 점은 패션·레더굿즈 본업의 취약성을 가린다.",
+      "why_it_matters_en": "Group-level recovery lends credibility to Gucci's turnaround narrative, but much of the growth came from jewelry/eyewear and cost cuts/divestitures rather than the core fashion & leather goods business, which remains fragile.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "구찌 2분기 매출 감소폭 2%로 축소, 시장 예상치(-5%) 상회",
+      "summary": "Kering 2분기 실적에서 구찌의 매출 감소폭이 2%로 나타나 시장 전망(-5% 감소)보다 양호했으며, 이는 구찌 턴어라운드에 대한 투자자 신뢰 회복의 핵심 근거로 인용되고 있다.",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kerings-q2-2026-turnaround-lifts-shares-159-93CH-4817848",
+      "source": "Investing.com",
+      "tier": "T2",
+      "published_at": "2026-07-28",
+      "why_it_matters": "감소폭 축소는 긍정적 신호이나 여전히 마이너스 성장이며, 완전한 회복이 아닌 '덜 나쁜' 수준의 개선임을 냉정히 봐야 한다.",
+      "why_it_matters_en": "A narrower decline is a positive signal but still negative growth — this is 'less bad,' not a full recovery, and should be read with that caveat.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Balenciaga",
+      "event_type": "show",
+      "headline": "피에르파올로 피촐리, 발렌시아가 첫 오트 쿠튀르 컬렉션에서 지지 하디드의 깃털 룩으로 화제",
+      "summary": "8월 5일 파리 오트 쿠튀르 위크에서 공개된 발렌시아가 2026 가을 쿠튀르 컬렉션은 필립 트리시와 협업한 조각적 깃털 장식이 특징이었으며, 4년 만에 쿠튀르 런웨이에 복귀한 지지 하디드의 마무리 룩이 온라인에서 큰 화제를 모았다.",
+      "url": "https://theimpression.com/balenciaga-fall-2026-couture-fashion-show-review/",
+      "source": "The Impression",
+      "tier": "T2",
+      "published_at": "2026-08-05",
+      "why_it_matters": "케링 산하 브랜드가 셀러브리티발 바이럴 모먼트로 쿠튀르 노출을 극대화한 사례로, 구찌의 쇼 및 캐스팅 전략에 참고할 벤치마크다.",
+      "why_it_matters_en": "A Kering-house example of maximizing couture exposure via a celebrity-driven viral moment — a useful casting/show-strategy benchmark for Gucci.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Alexander McQueen",
+      "event_type": "executive",
+      "headline": "알렉산더 맥퀸, 신임 CEO 잔프랑코 다티스 체제에서 매장 절반 폐쇄 등 구조조정 지속",
+      "summary": "6월 3일 부임한 잔프랑코 다티스 CEO 하에서 알렉산더 맥퀸은 전 세계 매장의 약 50%를 폐쇄하는 계획을 추진 중이며, 런던 올드 본드 스트리트 플래그십은 더 작은 매장으로 이전하고 기존 공간은 반클리프 아펠(리치몬트)이 인수한다. 이탈리아에서는 181명 중 54명 규모의 정리해고 절차도 진행됐다.",
+      "url": "https://theimpression.com/alexander-mcqueen-to-relocate-old-bond-street-store-amid-restructuring/",
+      "source": "The Impression",
+      "tier": "T2",
+      "published_at": "2026-07-30",
+      "why_it_matters": "케링 내 다른 브랜드의 대규모 구조조정과 매장 축소는 그룹 전체가 여전히 비용 규율에 초점을 맞추고 있음을 보여주며, 구찌 역시 유사한 압박에서 자유롭지 않다는 신호다.",
+      "why_it_matters_en": "Sweeping restructuring and store cuts at a sister Kering house show the group remains squarely focused on cost discipline — a signal Gucci is not immune to similar pressure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "M&A",
+      "headline": "케링, 뷰티 사업 로레알 매각 완료 후 순부채 4.7억 유로 감축 확인",
+      "summary": "3월 31일 완료된 케링 뷰티(크리드 포함)의 로레알 매각(약 40억 유로 현금 유입)과 밀라노 몬테나폴레오네 부동산 부분 매각(7.29억 유로)을 통해 케링의 재무 부채는 80억 유로에서 33억 유로로 축소됐다고 확인됐다.",
+      "url": "https://fashionunited.uk/news/business/kering-how-luca-de-meos-financial-overhaul-is-giving-the-luxury-group-breathing-room-and-time/2026072989480",
+      "source": "FashionUnited",
+      "tier": "T2",
+      "published_at": "2026-07-29",
+      "why_it_matters": "구찌 향수·뷰티의 코티 라이선스 만료 후 50년 로레알 라이선스 전환이 예정돼 있어, 구찌 뷰티 사업의 미래 파트너 구조가 이미 결정된 상태임을 재확인시킨다.",
+      "why_it_matters_en": "With Gucci's beauty licensing set to transition to a 50-year L'Oréal deal once the Coty license expires, this confirms the future partner structure for Gucci Beauty is already locked in.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering Jewelry (Boucheron/Pomellato/Qeelin)",
+      "event_type": "earnings",
+      "headline": "케링 주얼리 부문, 2분기 매출 15% 증가하며 그룹 내 최고 성장 사업부로 부상",
+      "summary": "부셰론·포멜라토·킬린을 포함한 케링 주얼리 부문은 2분기 매출 2.52억 유로(신고 기준 +15%, 비교 기준 +18%)를 기록했고, 직영 소매 매출은 28% 급증했다. 부셰론은 일본·아태 수요와 카트르 XS 컬렉션 힘입어 사상 최대 분기 실적을 냈다.",
+      "url": "https://gjepc.org/news_detail.php?news=boucheron-delivers-record-quarter-for-kering-jewellery",
+      "source": "GJEPC/Solitaire",
+      "tier": "T2",
+      "published_at": "2026-07-28",
+      "why_it_matters": "패션·레더굿즈가 부진한 가운데 주얼리가 케링의 성장 엔진으로 부상하고 있어, 구찌의 주얼리·하이엔드 액세서리 확장 전략에 시사하는 바가 크다.",
+      "why_it_matters_en": "With fashion & leather goods soft, jewelry is emerging as Kering's growth engine — a strong signal for Gucci's own jewelry/high-accessory expansion strategy.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "trend",
+      "headline": "보테가 베네타 파우치·카세트 백, 리세일 시장에서 60~150% 수익률 기록",
+      "summary": "보테가 베네타의 파우치, 카세트, BV 아르코 백이 리세일 시장에서 강세를 보이고 있으며, 파우치는 소매가 2,500~3,500달러 대비 리세일가 1,200~2,000달러, 카세트는 최대 2,200달러에 거래되는 등 이베이·베스티에르 콜렉티브 등에서 높은 수요를 유지하고 있다.",
+      "url": "https://www.underpriced.app/blog/is-bottega-veneta-worth-reselling",
+      "source": "Underpriced (industry resale analysis)",
+      "tier": "T2",
+      "published_at": "2026-08-04",
+      "why_it_matters": "루이즈 트로터 체제 전환기에도 보테가의 헤리티지 백들이 리세일 시장에서 견고한 수요를 유지하는 것은 구찌의 아이코닉 백 자산가치 관리 전략과 비교할 벤치마크가 된다.",
+      "why_it_matters_en": "Bottega's heritage bags maintaining strong resale demand even amid the Trotter creative transition is a useful benchmark for how Gucci manages the asset value of its own iconic bags.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Saint Laurent",
+      "event_type": "creative",
+      "headline": "생 로랑, 앤서니 바카렐로 취임 10주년 겸 '르 스모킹' 60주년 맞아 헤리티지 재조명",
+      "summary": "2026년은 앤서니 바카렐로의 생 로랑 크리에이티브 디렉터 취임 10주년이자 이브 생 로랑의 상징적 '르 스모킹' 재킷 출시 60주년으로, 최근 쇼들이 이 헤리티지를 재조명하고 있으나 일부 평단은 최근 컬렉션이 예측 가능하고 반복적이라는 비판도 제기했다.",
+      "url": "https://www.marieclaire.co.uk/fashion/anthony-vaccarello-saint-laurent-10-year-anniversary",
+      "source": "Marie Claire UK",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "장기 재임 크리에이티브 디렉터도 '반복적'이라는 비판에 직면할 수 있다는 점은, 구찌의 뎀나 체제가 참신함을 지속적으로 입증해야 하는 압박과 대비되는 사례다.",
+      "why_it_matters_en": "That even a long-tenured creative director faces 'repetitive' criticism is a cautionary contrast for Gucci, whose Demna era must continually prove freshness.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": []
+}

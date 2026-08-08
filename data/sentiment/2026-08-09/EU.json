@@ -1,0 +1,56 @@
+[
+  {
+    "id": "EU-2026-08-09-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit seizure story associates Gucci with fake-goods trade, mild reputational damage.",
+    "signal_tags": ["counterfeit", "reputational_risk"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-09-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Large-scale counterfeit network faking Gucci with deceptively high-quality fakes noted; reputational/counterfeit trap negative.",
+    "signal_tags": ["counterfeit", "reputational_risk"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-09-003",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent analyst reaction (JPMorgan) and market surge on Gucci's smaller-than-expected sales decline is quantified favorable trade-press judgment.",
+    "signal_tags": ["earnings", "analyst_commentary", "market_reaction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-09-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analysts genuinely split (Oddo neutral/cautious vs HSBC upgrade); no single clear verdict on durability of rebound.",
+    "signal_tags": ["earnings", "analyst_commentary", "mixed_signal"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-09-005",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent market reaction (17% stock rally) plus strong US bag demand data despite valuation caution; clear favorable momentum read.",
+    "signal_tags": ["earnings", "market_reaction", "demand_data"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-09-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread genuinely split between quality praise and complaints about cheap materials; no forced polarity, plus freshness caveat lowers confidence.",
+    "signal_tags": ["quality_perception", "community", "mixed_signal"],
+    "confidence": 0.45
+  }
+]
