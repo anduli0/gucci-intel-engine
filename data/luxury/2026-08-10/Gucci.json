@@ -1,0 +1,99 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-08-10",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "Kering Q2 실적, 구찌 매출 감소폭 -2%로 축소 (7월 28일 발표, 8월 초 후속 보도 지속)",
+      "summary": "Kering의 2분기 매출이 전년 대비 1~2% 증가하며 3년 만에 플러스 전환했고, 구찌의 비교가능 매출 감소폭도 1분기 -8%에서 2분기 -2%로 크게 줄어 시장 예상(-3.3%)을 상회했다. Borsetto, Paparazzo 백 출시 효과로 가죽제품이 플러스로 돌아섰다.",
+      "url": "https://wwd.com/business-news/financial/kering-group-q2-2025-revenue-ceo-luca-de-meo-gucci-improves-1239085301/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-03",
+      "why_it_matters": "구찌 회복이 숫자로 확인되는 첫 분기 — 뎀나 체제와 벨레티니 CEO 조직개편의 초기 성과 신호이나, 여전히 마이너스 성장이라는 점은 변하지 않았다.",
+      "why_it_matters_en": "First quarter where Gucci's recovery shows up in hard numbers under Demna and CEO Bellettini — but the brand is still shrinking, not growing.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "구찌, AI 활용 마케팅에 대한 비판 지속",
+      "summary": "구찌가 뎀나의 밀라노 패션위크 데뷔를 앞두고 공개한 AI 생성 무드보드 이미지가 완성도 저하 논란을 낳았으며, 매출 부진과 겹쳐 브랜드에 대한 부정적 여론이 2026년 내내 이어지고 있다.",
+      "url": "https://www.fashiontimes.co.uk/gucci-2026-challenges-sales-ai-criticism-1760323",
+      "source": "Fashion Times",
+      "tier": "T2",
+      "published_at": "2026-08-05",
+      "why_it_matters": "매출 회복 신호와 별개로 브랜드 이미지 리스크는 해소되지 않았다는 점을 보여주는 반대 신호 — 실적 개선을 곧바로 여론 개선으로 해석해서는 안 된다.",
+      "why_it_matters_en": "A counter-signal to the sales-recovery narrative: brand-image risk (AI backlash) persists independent of the numbers, so improving earnings should not be read as improving sentiment.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "구찌·로레알 뷰티 라이선스 50년 계약, 코티와 조기 합의로 확정",
+      "summary": "구찌가 로레알과 50년 독점 뷰티 라이선스 계약을 체결했으며, 기존 라이선스 보유사인 코티와 소송을 조기 합의(코티에 약 4억 달러 지급)해 계약 개시 시점을 2028년 6월에서 2027년 중반으로 앞당겼다. 로레알의 첫 신제품 출시는 2028년으로 예상된다.",
+      "url": "https://www.globalcosmeticsnews.com/gucci-and-loreal-sign-50-year-exclusive-beauty-licensing-agreement/",
+      "source": "Global Cosmetics News",
+      "tier": "T2",
+      "published_at": "2026-08-03",
+      "why_it_matters": "뷰티 카테고리를 로레알에 장기 위탁함으로써 구찌는 핵심 패션·레더굿즈 회생에 집중할 수 있게 됐지만, 향후 2년은 뷰티 라인 공백기가 불가피하다.",
+      "why_it_matters_en": "Outsourcing beauty long-term to L'Oreal lets Gucci focus resources on core fashion/leather-goods recovery, but locks in roughly two more years without a refreshed beauty line.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "전 구찌 임원 알레시오 반네티, 라 페를라 신임 CEO로 영입",
+      "summary": "구찌와 발렌티노에서 임원을 지낸 알레시오 반네티가 9월 1일부로 란제리 브랜드 라 페를라의 CEO로 합류한다. 라 페를라는 새 소유주인 켄 부부 체제 하에 재출범을 준비 중이다.",
+      "url": "https://wwd.com/business-news/human-resources/la-perla-appoints-alessio-vannetti-ceo-1239065534/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-16",
+      "why_it_matters": "구찌 출신 인재의 외부 유출은 업계에서 구찌 경력이 여전히 시장 가치가 있음을 보여주지만, 동시에 조직 재편기 인재 이탈 리스크도 함께 드러낸다.",
+      "why_it_matters_en": "A former Gucci executive landing a CEO role elsewhere confirms Gucci pedigree still carries market value, but also flags talent outflow risk during the brand's reorganization period.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "trend",
+      "headline": "뎀나 데뷔 이후 구찌 매장 방문객 수 반등 (미국 로스앤젤레스·뉴욕 매장 기준)",
+      "summary": "BoF 분석에 따르면 뎀나의 밀라노 쇼 직후 로스앤젤레스 로데오 드라이브 매장 주간 방문객 수가 전주 대비 53% 증가했고, 뉴욕 우스터 스트리트 매장도 19% 증가해 미국 전역 매장 방문객 수가 3주 만에 최고치를 기록했다.",
+      "url": "https://www.businessoffashion.com/articles/luxury/guccis-demna-debut-boosting-store-traffic/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2025-09-29",
+      "why_it_matters": "쇼가 실제 매장 방문으로 전환된 사례로, 씨나우바이나우 전략의 초기 효과를 뒷받침한다 — 다만 방문 증가가 곧 구매 전환·재구매로 이어졌는지는 이후 실적에서 확인이 필요하다.",
+      "why_it_matters_en": "Concrete evidence the see-now-buy-now strategy converts show buzz into foot traffic, though whether that traffic translated into sustained purchases still needs confirmation from subsequent sales data.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "구찌, 시즌 캠페인 캐스팅에 케이팝·할리우드 스타 지속 활용",
+      "summary": "구찌는 최근 몇 시즌간 aespa 닝닝, Stray Kids 리노 등 케이팝 스타를 글로벌 앰배서더로 기용해 Z세대 공략을 지속하고 있으며, 이는 브랜드 자체 마케팅 활동으로 여론 개선과는 별개로 평가해야 한다.",
+      "url": "https://www.billboard.com/music/music-news/aespa-ningning-gucci-brand-ambassador-1236234342/",
+      "source": "Billboard",
+      "tier": "T2",
+      "published_at": "2026-04-01",
+      "why_it_matters": "케이팝 앰배서더 전략은 구찌의 활성화(activation) 활동일 뿐 소비자 여론 개선의 증거는 아니다 — 캠페인 화제성과 실제 구매 전환은 별개로 봐야 한다.",
+      "why_it_matters_en": "K-pop ambassador casting is Gucci's own activation output, not evidence of improved consumer sentiment — campaign buzz and actual purchase conversion must be tracked separately.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "legal",
+      "headline": "구찌, 위조품 유통 업체 대상 상표권 소송 지속",
+      "summary": "구찌는 뉴욕 남부지방법원 등에서 위조 구찌 제품 판매 혐의로 다수 업체를 상대로 상표권 침해 소송을 제기하는 등 지식재산권 보호 활동을 연중 지속하고 있다.",
+      "url": "https://www.thefashionlaw.com/gucci-takes-aim-at-counterfeits-in-trio-of-trademark-suits/",
+      "source": "The Fashion Law",
+      "tier": "T2",
+      "published_at": "2026-05-01",
+      "why_it_matters": "매출 부진에도 불구하고 브랜드 자산 보호를 위한 법적 대응은 예산과 무관하게 유지되고 있다는 점에서 브랜드 가치 방어 의지를 보여준다.",
+      "why_it_matters_en": "Continued aggressive IP enforcement despite the sales downturn signals the brand is still defending long-term brand equity regardless of near-term budget pressure.",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": []
+}

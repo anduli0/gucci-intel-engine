@@ -1,6 +1,6 @@
 # 루이즈 트로터 — Bottega Veneta
 
-2026-07-12 (업데이트 2026-07-12) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-10 (dossier update — 신임 CEO 로맹 슈피처 선임 반영, 6월 인트레치아토 50주년 캠페인 맥락 포함) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## 목차
 
@@ -14,7 +14,7 @@
 
 ## 핵심 요약
 
-루이즈 트로터는 2024년 12월 보테가 베네타의 크리에이티브 디렉터로 임명돼 2025년 1월 합류했고, 샤넬로 떠난 마티유 블라지의 뒤를 이었다. 위슬스·캘빈클라인·조셉·라코스테·카르뱅을 거친 30년 경력의 영국 출신 디자이너로, 조용하고 절제된 '입을 수 있는 럭셔리'와 장인 공예 중심 어휘가 시그니처다. 2025년 9월 데뷔한 SS26 컬렉션과 2026년 2월 AW26 컬렉션은 비평적으로 강한 호평을 받으며 그의 방향성을 조기에 안착시켰고, 보테가 베네타는 케링 포트폴리오에서 사실상 유일하게 성장한 하우스로 2025년 매출 17억 유로(비교 기준 3% 증가)를 기록했다.[1][7] 트로터는 구찌의 뎀나가 추구하는 서브컬처·볼륨 중심 노선과 대척점에 서는 '기술이 곧 로고'라는 공예주의로, 케링 내부에서 뎀나 구찌와 상보적 포지셔닝을 형성한다.
+루이즈 트로터는 2024년 12월 보테가 베네타의 크리에이티브 디렉터로 임명돼 2025년 1월 합류했고, 샤넬로 떠난 마티유 블라지의 뒤를 이었다. 위슬스·캘빈클라인·조셉·라코스테·카르뱅을 거친 30년 경력의 영국 출신 디자이너로, 조용하고 절제된 '입을 수 있는 럭셔리'와 장인 공예 중심 어휘가 시그니처다. 2025년 9월 데뷔한 SS26 컬렉션과 2026년 2월 AW26 컬렉션은 비평적으로 강한 호평을 받으며 그의 방향성을 조기에 안착시켰고, 보테가 베네타는 케링 포트폴리오에서 사실상 유일하게 성장한 하우스로 2025년 매출 17억 유로(비교 기준 3% 증가)를 기록했다.[1][7] 2026년 6월에는 시그니처 인트레치아토 기법의 50주년을 타일러, 더 크리에이터와 줄리언 무어를 앞세운 헤리티지 캠페인으로 기념하며 공예 서사를 상업·유산 내러티브로 전면화했다(하우스 자체 마케팅 활동).[14] 같은 해 7월에는 케링이 LVMH 향수 사업부 CEO 출신 로맹 슈피처를 신임 CEO로 선임했고(2026년 9월 1일부), 이로써 하우스의 상업 축에 전문 경영진이 배치됐다.[13] 직전 CEO 바르톨로메오(레오) 롱고네는 2026년 4월부로 몽클레르 그룹 CEO로 자리를 옮겼다.[15] 트로터는 구찌의 뎀나가 추구하는 서브컬처·볼륨 중심 노선과 대척점에 서는 '기술이 곧 로고'라는 공예주의로, 케링 내부에서 뎀나 구찌와 상보적 포지셔닝을 형성한다.
 
 ## 1. 프로필 개요
 
@@ -36,6 +36,8 @@
 
 2026년 2월 AW26에서는 어법이 한층 또렷해졌다. 밀라노를 영감의 축으로 삼아 도시 특유의 브루탈리즘과 관능·유혹이 대화하는 무드를 표방했고,[8] 목까지 높이 여민 곡선형 여성 테일러링과 허리를 잘록하게 잡은 실루엣, 드레이핑 드레스, 스위핑한 남성 코트를 거쳐 아드리아 블루·티에폴로 핑크의 퍼프리(모피 대체) 프린지 드레스로 마무리했다.[5] 매트한 크로커다일 레더 피코트, 네이비 레더 케이프 코트, 버터 옐로·코발트·코럴의 오버사이즈 시어링 코트, 그리고 스테이트먼트 코트에 방점을 찍는 실루엣이 특징이었다.[5] 소재는 레더·모헤어·시어링·니트를 오가며, 보테가의 핵심 코드인 인트레치아토는 요란한 로고 대신 은근한 디테일로 편입된다.
 
+2026년 6월에는 이 인트레치아토 기법 자체를 헤리티지 자산으로 전면에 내세웠다. 트로터 체제의 보테가 베네타는 인트레치아토 탄생 50주년을 맞아 타일러, 더 크리에이터와 줄리언 무어를 기용한 기념 캠페인을 공개하며, 이 시그니처 위빙 기법을 캠페인과 현행 컬렉션 전반의 상업·유산 내러티브로 부각했다.[14] 다만 이는 하우스가 직접 기획·연출한 브랜드 마케팅 활동으로(출처는 출연진·기념 대상 등 순수 설명에 그치며 독립적 비평 판단은 없음), 활동 커버리지 할인 원칙에 따라 독립적으로 검증된 대중 반응이 아니라는 점을 전제로 읽어야 한다. 그럼에도 이는 로고가 아니라 기법을 하우스 정체성의 축으로 삼는 트로터 어법이 마케팅 층위에서 구체화된 사례로, 데뷔 케이프의 '장인 50명·4,000시간' 서사와 같은 결의 공예 화폐화 전략에 해당한다.
+
 ## 4. 지향점과 철학
 
 트로터의 철학은 몇 개의 짧은 문장으로 선명하게 드러난다. 공예에 대한 신념은 "공예가 곧 우리의 테크놀로지이며, 기술이 곧 로고"라는 문장으로 압축된다.[8] 즉각적 인지도를 좇는 로고 럭셔리와 거리를 두고, 럭셔리는 기법에 깃든다는 보테가의 원류를 재확인하는 태도다. 그는 디자인의 목적 또한 옷이 입는 사람에게 기쁨과 자신감을 주어야 한다는 단순한 명제로 정리한다.[8]
@@ -48,19 +50,17 @@
 
 상업 신호도 우호적이다. 보테가 베네타는 2025년 매출 17억 유로로 명목상 보합, 비교 기준 3% 성장하며 케링 포트폴리오에서 사실상 유일하게 플러스 성장을 낸 하우스가 됐다.[7] 경상영업이익은 2억 6,700만 유로, 마진 15.6%로 전년 대비 0.7%p 개선됐고, 캄파나·베네타 등 신규 핸드백 라인과 두 자릿수로 성장한 기성복·슈즈가 견인했다.[7] 다만 2025년 매출의 상당 부분은 블라지가 설계한 제품 파이프라인에 힘입은 것으로, 트로터의 상업 전환 성과를 온전히 판별하려면 SS26·AW26 상품이 매장에 본격 유입되는 시점 이후의 실적이 필요하다(가설).
 
+운영 환경도 변화한다. 케링은 2026년 7월 15일 로맹 슈피처를 보테가 베네타 신임 CEO로 선임했다고 공식 발표했으며, 취임은 2026년 9월 1일부다.[13] 슈피처는 LVMH 향수 사업부 CEO를 지낸 인물로, 밀라노에 상주하며 케링 CEO 루카 데 메오에게 직접 보고하고 그룹 집행위원회에 합류한다.[13] 그는 무형의 럭셔리·프래그런스 사업을 이끈 상업·경영 전문가로, 크리에이티브 축의 트로터와 상업 축의 슈피처가 짝을 이루는 리더십 구도가 형성된다. 직전 CEO 바르톨로메오(레오) 롱고네는 케링의 보테가 베네타에서 몽클레르 그룹으로 옮겨 2026년 4월 1일부로 CEO를 맡았고, 2026년 상반기 실적 발표(매출 5% 증가한 12억 9,000만 유로)에서 애널리스트를 상대로 처음 나섰다.[15] 이는 크리에이티브 디렉터 교체가 아니라 상업·경영 층위의 인사로, 트로터에게는 하우스의 성장 모멘텀을 이어받아 상업 전환을 함께 설계할 새로운 경영 파트너가 배치된 것으로 읽힌다.
+
 ## 6. 구찌 관점
 
 케링 관점에서 트로터의 보테가와 뎀나의 구찌는 상보적 양날개다. 뎀나는 볼륨·서브컬처·아이러니와 대중 화제성을 통해 침체된 구찌를 재점화하는 노선을, 트로터는 로고를 최소화한 공예주의와 조용한 럭셔리로 고마진·고충성 고객을 겨냥하는 노선을 대표한다. 두 하우스가 같은 언어로 경쟁하지 않도록 케링이 스펙트럼을 넓게 배분한 구도로 읽을 수 있다(가설). 실제 2025년 케링 전체 매출이 13% 감소한 가운데 보테가만 플러스를 기록한 사실은,[7] 그룹 내에서 "조용한 럭셔리 = 방어적 현금흐름, 구찌 = 반등 베팅"이라는 역할 분담을 시사한다.
 
-구찌에 주는 벤치마크 포인트는 세 가지다. 첫째, 크래프트 서사의 화폐화 — 케이프 한 점에 장인 50명·4,000시간이라는 스토리텔링은[1] 로고 없이도 가격 정당성을 만든다. 뎀나 구찌가 '핸드백 아이코닉스'를 재건할 때 대응 축으로 삼을 만하다. 둘째, 여성 디자이너·여성 관점이라는 브랜드 서사가 문화적 정당성을 확보하는 방식. 셋째, 절제된 방식으로도 셀러브리티 화력을 확보한 데뷔 좌석 설계로,[1] 화제성은 뎀나만의 전유물이 아님을 보여준다. 위협 요인으로는, 만약 구찌의 뎀나 노선이 화제성에 비해 상업 전환이 더디게 나올 경우 케링 내부 자원·투자 우선순위가 성장을 증명한 보테가로 기울 수 있다는 점이다(가설·미확인).
+구찌에 주는 벤치마크 포인트는 세 가지다. 첫째, 크래프트 서사의 화폐화 — 케이프 한 점에 장인 50명·4,000시간이라는 스토리텔링은[1] 로고 없이도 가격 정당성을 만든다. 여기에 2026년 6월 인트레치아토 50주년 캠페인은 시그니처 기법 자체를 셀러브리티 화력(타일러, 더 크리에이터·줄리언 무어)과 결합해 헤리티지를 상품 서사로 전환한 사례로,[14] '공예=화폐'라는 축을 제품 단위를 넘어 브랜드 유산 캠페인 층위로 확장한다. 다만 이 캠페인은 하우스가 직접 기획한 브랜드 마케팅 활동이므로 그 문화적·상업적 성공은 활동 커버리지 할인 원칙상 독립적으로 검증된 대중 반응과 구분해 벤치마크해야 한다(미확인). 뎀나 구찌가 '핸드백 아이코닉스'를 재건할 때 대응 축으로 삼을 만하다. 둘째, 여성 디자이너·여성 관점이라는 브랜드 서사가 문화적 정당성을 확보하는 방식이다. 셋째, 절제된 방식으로도 셀러브리티 화력을 확보한 데뷔 좌석 설계로,[1] 화제성이 뎀나만의 전유물이 아님을 보여준다. 위협 요인으로는, 만약 구찌의 뎀나 노선이 화제성에 비해 상업 전환이 더디게 나올 경우 케링 내부 자원·투자 우선순위가 성장을 증명한 보테가로 기울 수 있다는 점이다(가설·미확인).
 
 ## 7. 전망
 
-향후 12개월 관전 포인트는 다음과 같다. 첫째(가설), 상업 전환 검증 — 트로터가 설계한 SS26·AW26 상품이 실적에 반영되는 2026년 하반기~2027년 초 케링 공시에서 보테가의 성장이 유지·가속되는지가 그의 상업력 판별선이다. 둘째(가설), 핸드백 아이코닉스 — 캄파나·베네타에 이어 트로터 고유의 '잇백'을 창출하는지가 크리에이티브 성과의 상업적 증거가 된다. 셋째, 세 번째·네 번째 컬렉션에서 데뷔의 '해방' 서사가 반복 가능한 하우스 코드로 정착하는지 여부. 넷째(가설), 케링의 자원 배분 — 뎀나 구찌의 초기 반응과 대비해 그룹이 보테가에 부여하는 투자·매장 확장 시그널이 내부 우선순위를 드러낼 것이다.
-
-## Executive Summary (English)
-
-Louise Trotter was named creative director of Bottega Veneta in December 2024 and took up the role in January 2025, succeeding Matthieu Blazy, who departed for Chanel. A British designer with three decades of experience across Whistles, Calvin Klein, Joseph, Lacoste, and Carven, she is known for quiet, wearable luxury and a craft-first vocabulary. Her debut SS26 collection, shown in September 2025, and her AW26 collection, shown in February 2026, both drew strong critical acclaim and quickly established her direction, while Bottega Veneta emerged as effectively the only growing house in the Kering portfolio, posting 2025 revenue of 1.7 billion euros, up 3% on a comparable basis.[1][7] Trotter's philosophy of "craft as technology, technique as logo" sits in deliberate contrast to Demna's subculture- and volume-driven approach at Gucci, positioning the two houses as complementary poles within Kering. For Gucci, Bottega's early commercial resilience under a quiet-luxury, craft-led strategy offers both a benchmark and a potential signal of where group resources could shift if Demna's buzz-first approach at Gucci does not convert into growth as quickly.
+향후 12개월 관전 포인트는 다음과 같다. 첫째(가설), 상업 전환 검증 — 트로터가 설계한 SS26·AW26 상품이 실적에 반영되는 2026년 하반기~2027년 초 케링 공시에서 보테가의 성장이 유지·가속되는지가 그의 상업력 판별선이다. 둘째(가설), 핸드백 아이코닉스 — 캄파나·베네타에 이어 트로터 고유의 '잇백'을 창출하는지가 크리에이티브 성과의 상업적 증거가 된다. 셋째, 세 번째·네 번째 컬렉션에서 데뷔의 '해방' 서사가 반복 가능한 하우스 코드로 정착하는지가 관건이다. 넷째(가설), 신임 CEO 슈피처와의 협업 — 2026년 9월 취임하는 상업 전문 경영진과 트로터의 크리에이티브 라인이 어떤 상업 전환 모델을 만들어내는지가 하우스 성장 지속성의 변수다. 다섯째(가설), 케링의 자원 배분 — 뎀나 구찌의 초기 반응과 대비해 그룹이 보테가에 부여하는 투자·매장 확장 시그널이 내부 우선순위를 드러낼 것이다.
 
 ## 주석
 
@@ -69,6 +69,7 @@ Louise Trotter was named creative director of Bottega Veneta in December 2024 an
 - 비교 기준(comparable basis): 환율·연결범위 변동을 제거한 실질 성장률. 명목 보합이라도 비교 기준 +3%면 실질 성장이 있었다는 의미.
 - 인트레치아토(intrecciato): 가죽 끈을 격자로 짜 넣는 보테가 베네타 고유의 위빙 기법이자 하우스 코드.
 - 퍼프리(fur-free-fur): 동물 모피를 대체하는 인조 소재 기법.
+- 활동 커버리지 할인: 브랜드가 직접 기획·연출한 캠페인·이벤트 노출은 자연 발생한 대중 여론이 아니므로 반응 신호로 취급할 때 가중치를 낮춘다는 소스풀 원칙.
 
 ## 출처
 
@@ -84,12 +85,15 @@ Louise Trotter was named creative director of Bottega Veneta in December 2024 an
 [10] Wallpaper* — 트로터 데뷔 서사: '해방'·로라 브라조니 오마주·아틀리에 소감 — https://www.wallpaper.com/fashion-beauty/louise-trotter-debut-bottega-veneta-milan-ss-2026
 [11] Kering(GlobeNewswire) — 케링 공식 발표: 트로터 보테가 베네타 CD 임명(2024-12-12), 2025년 1월 말 합류 — https://www.globenewswire.com/news-release/2024/12/12/2996396/0/en/Kering-Louise-Trotter-appointed-Creative-Director-of-Bottega-Veneta.html
 [12] TheIndustry.fashion — 트로터 라코스테 이임(2023.01 발표)·티에리 기베르 사장 코멘트·"consistency" 평 — https://www.theindustry.fashion/louise-trotter-steps-down-as-lacoste-creative-director/
+[13] Kering(GlobeNewswire) — 케링 공식 발표: 로맹 슈피처 보테가 베네타 CEO 선임(2026-07-15), 2026-09-01부, LVMH 향수 사업부 출신, 밀라노 상주, 루카 데 메오 직보·집행위 합류 — https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html
+[14] Culted — 트로터 체제 인트레치아토 50주년 헤리티지 캠페인(2026년 6월 첫 공개), 타일러 더 크리에이터·줄리언 무어 기용 — https://culted.com/bottega-veneta-ss26-louise-trotter/
+[15] WWD — 레오 롱고네, 케링 보테가 베네타에서 몽클레르 그룹 CEO로(2026-04-01부); 2026 상반기 매출 5% 증가한 12억 9,000만 유로 — https://wwd.com/business-news/financial/moncler-group-revenue-profitability-growth-leo-rongone-speaks-1239079356/
 
 <!-- ===== ENGLISH EDITION ===== -->
 
 # Louise Trotter — Bottega Veneta
 
-2026-07-12 (updated 2026-07-12) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-10 (dossier update — reflecting new CEO Romain Spitzer appointment, incorporating June intrecciato 50th-anniversary campaign context) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## Table of Contents
 
@@ -103,7 +107,7 @@ Louise Trotter was named creative director of Bottega Veneta in December 2024 an
 
 ## Executive Summary
 
-Louise Trotter was appointed creative director of Bottega Veneta in December 2024 and joined the house in January 2025, succeeding Matthieu Blazy, who moved to Chanel. A British designer with a 30-year career spanning Whistles, Calvin Klein, Joseph, Lacoste, and Carven, her signature is a quiet, restrained "wearable luxury" built on a craft-centered vocabulary. Her SS26 collection, which debuted in September 2025, and her AW26 collection, shown in February 2026, both earned strong critical acclaim and quickly cemented her direction, and Bottega Veneta became effectively the only growing house in the Kering portfolio, posting 2025 revenue of 1.7 billion euros (up 3% on a comparable basis).[1][7] Trotter's craftsmanship-driven philosophy of "technique as logo" stands in direct contrast to the subculture- and volume-driven direction pursued by Demna at Gucci, forming a complementary positioning with Demna's Gucci within Kering.
+Louise Trotter was appointed creative director of Bottega Veneta in December 2024 and joined the house in January 2025, succeeding Matthieu Blazy, who moved to Chanel. A British designer with a 30-year career spanning Whistles, Calvin Klein, Joseph, Lacoste, and Carven, her signature is a quiet, restrained "wearable luxury" built on a craft-centered vocabulary. Her SS26 collection, which debuted in September 2025, and her AW26 collection, shown in February 2026, both earned strong critical acclaim and quickly cemented her direction, and Bottega Veneta became effectively the only growing house in the Kering portfolio, posting 2025 revenue of 1.7 billion euros (up 3% on a comparable basis).[1][7] In June 2026 the house marked the 50th anniversary of its signature intrecciato weaving technique with a heritage campaign fronted by Tyler, the Creator and Julianne Moore, foregrounding the craft technique as a commercial and heritage narrative (a house-run marketing activation),[14] and in July 2026 Kering appointed Romain Spitzer — former CEO of LVMH's fragrance division — as its new CEO effective September 1, 2026, placing specialist commercial leadership alongside Trotter's creative axis.[13] The outgoing CEO, Bartolomeo (Leo) Rongone, moved on to become CEO of Moncler Group effective April 2026.[15] Trotter's craftsmanship-driven philosophy of "technique as logo" stands in direct contrast to the subculture- and volume-driven direction pursued by Demna at Gucci, forming a complementary positioning with Demna's Gucci within Kering.
 
 ## 1. Profile Overview
 
@@ -125,6 +129,8 @@ Trotter's signature can be summed up as restrained silhouettes, precision tailor
 
 By AW26 in February 2026, her vocabulary sharpened further. Drawing inspiration from Milan, the collection expressed a mood in which the city's characteristic brutalism conversed with sensuality and seduction,[8] moving through high-necked curved womenswear tailoring, cinched-waist silhouettes, draped dresses, and sweeping menswear-inspired coats, before closing with fur-free-fur fringe dresses in Adriatic blue and Tiepolo pink.[5] Standout pieces included a matte crocodile leather pea coat, a navy leather cape coat, oversized shearling coats in butter yellow, cobalt, and coral, and silhouettes built to spotlight statement coats.[5] Materials ranged across leather, mohair, shearling, and knitwear, while intrecciato — Bottega's core code — was incorporated as a subtle detail rather than a loud logo.
 
+In June 2026, the house pushed the intrecciato technique itself to the front as a heritage asset. Under Trotter, Bottega Veneta marked the 50th anniversary of intrecciato with a commemorative campaign featuring Tyler, the Creator and Julianne Moore, foregrounding the signature weaving technique as a commercial and heritage narrative across the campaign and the current collection.[14] This is, however, a brand marketing activation conceived and staged by the house itself (the source is purely descriptive — who stars in it, what it celebrates — with no independent critical verdict), and per the source-pool activation-coverage discount it should be read as such rather than as independently verified public reception. Even so, it is a marketing-layer materialization of Trotter's grammar of making technique — rather than logo — the axis of house identity, of a piece with the "50 artisans, 4,000 hours" narrative of her debut cape as a craft-monetization strategy.
+
 ## 4. Vision and Philosophy
 
 Trotter's philosophy is captured clearly in a few short statements. Her belief in craftsmanship is distilled into the line: "Craft is our technology, and technique is the logo."[8] It is a stance that distances itself from logo-driven luxury chasing instant recognition, reaffirming Bottega's founding principle that luxury resides in technique. She also frames the purpose of design in a simple proposition: that clothing should give the wearer joy and confidence.[8]
@@ -137,15 +143,17 @@ Trotter's debut show was unveiled as SS26 at Milan Fashion Week on September 27,
 
 Commercial signals have also been favorable. Bottega Veneta posted 2025 revenue of 1.7 billion euros — flat in nominal terms but up 3% on a comparable basis — making it effectively the only house in the Kering portfolio to post positive growth.[7] Recurring operating income reached 267 million euros, with a margin of 15.6%, up 0.7 points year-on-year, driven by new handbag lines such as Campana and Veneta along with double-digit growth in ready-to-wear and footwear.[7] However, a substantial share of 2025 revenue reflects the product pipeline designed under Blazy, so a full read on Trotter's commercial transition will require results from the period after SS26 and AW26 merchandise fully reaches stores (hypothesis).
 
+The operating environment is also shifting. On July 15, 2026, Kering officially announced the appointment of Romain Spitzer as Bottega Veneta's new CEO, effective September 1, 2026.[13] Spitzer, formerly CEO of LVMH's fragrance division, will be based in Milan, report directly to Kering CEO Luca de Meo, and join the group's executive committee.[13] A commercial and management specialist who led intangible luxury and fragrance businesses, he forms a leadership pairing in which Trotter anchors the creative axis and Spitzer the commercial axis. The outgoing CEO, Bartolomeo (Leo) Rongone, left Kering's Bottega Veneta to become CEO of Moncler Group effective April 1, 2026, and addressed analysts for the first time on Moncler's H1 2026 earnings call (revenue up 5% to 1.29 billion euros).[15] This is a commercial-management appointment rather than a creative-director change, and for Trotter it means a new management partner is in place to carry the house's growth momentum and co-design its commercial transition.
+
 ## 6. Gucci Perspective
 
 From Kering's vantage point, Trotter's Bottega and Demna's Gucci function as complementary wings of the same portfolio. Demna represents a path of reigniting a struggling Gucci through volume, subculture references, irony, and mass cultural buzz, while Trotter represents a path of targeting high-margin, high-loyalty customers through minimal-logo craftsmanship and quiet luxury. It can be read as Kering deliberately spreading its houses across a wide spectrum so the two do not compete in the same register (hypothesis). The fact that Bottega alone posted positive growth while Kering's overall 2025 revenue fell 13%[7] suggests an internal division of roles in which "quiet luxury equals defensive cash flow, and Gucci equals a turnaround bet."
 
-There are three benchmark points for Gucci to draw from. First, the monetization of craft narrative: storytelling built around a single cape requiring 50 artisans and 4,000 hours[1] creates price justification without relying on logos — a counterpoint axis Demna's Gucci could draw on as it rebuilds its handbag iconics. Second, the way a brand narrative centered on a woman designer and a woman's perspective can secure cultural legitimacy. Third, the debut's seating design, which generated real celebrity firepower through a restrained approach,[1] demonstrating that buzz is not Demna's exclusive domain. As a risk factor, if Gucci's Demna-led direction converts its buzz into commercial results more slowly than expected, Kering's internal resource and investment priorities could tilt toward Bottega, which has already proven growth (hypothesis, unverified).
+There are three benchmark points for Gucci to draw from. First, the monetization of craft narrative: storytelling built around a single cape requiring 50 artisans and 4,000 hours[1] creates price justification without relying on logos. The June 2026 intrecciato 50th-anniversary campaign extends this further — pairing the signature technique itself with celebrity firepower (Tyler, the Creator and Julianne Moore) to convert heritage into a product narrative,[14] scaling the "craft equals currency" axis beyond the individual product to the level of a brand-heritage campaign. That said, this campaign is a house-conceived brand marketing activation, so its cultural and commercial "success" must be benchmarked as distinct from independently verified public reception, per the activation-coverage discount (unverified). It is a counterpoint axis Demna's Gucci could draw on as it rebuilds its handbag iconics. Second, the way a brand narrative centered on a woman designer and a woman's perspective can secure cultural legitimacy. Third, the debut's seating design, which generated real celebrity firepower through a restrained approach,[1] demonstrating that buzz is not Demna's exclusive domain. As a risk factor, if Gucci's Demna-led direction converts its buzz into commercial results more slowly than expected, Kering's internal resource and investment priorities could tilt toward Bottega, which has already proven growth (hypothesis, unverified).
 
 ## 7. Outlook
 
-Key points to watch over the next 12 months are as follows. First (hypothesis), commercial conversion verification: whether Bottega's growth is sustained or accelerates in Kering's disclosures from late 2026 through early 2027 — once SS26 and AW26 merchandise designed by Trotter is reflected in results — will be the litmus test of her commercial power. Second (hypothesis), handbag iconics: whether Trotter creates her own "it bag" beyond Campana and Veneta will serve as commercial evidence of her creative success. Third, whether the "liberation" narrative of her debut settles into a repeatable house code across her third and fourth collections. Fourth (hypothesis), Kering's resource allocation: signals on investment and store-expansion the group extends to Bottega, relative to early reception of Demna's Gucci, will reveal internal priorities.
+Key points to watch over the next 12 months are as follows. First (hypothesis), commercial conversion verification: whether Bottega's growth is sustained or accelerates in Kering's disclosures from late 2026 through early 2027 — once SS26 and AW26 merchandise designed by Trotter is reflected in results — will be the litmus test of her commercial power. Second (hypothesis), handbag iconics: whether Trotter creates her own "it bag" beyond Campana and Veneta will serve as commercial evidence of her creative success. Third, whether the "liberation" narrative of her debut settles into a repeatable house code across her third and fourth collections. Fourth (hypothesis), collaboration with new CEO Spitzer: the commercial-transition model that emerges from the specialist commercial executive taking office in September 2026 working alongside Trotter's creative line will be a variable in the durability of the house's growth. Fifth (hypothesis), Kering's resource allocation: signals on investment and store-expansion the group extends to Bottega, relative to early reception of Demna's Gucci, will reveal internal priorities.
 
 ## Glossary
 
@@ -154,6 +162,7 @@ Key points to watch over the next 12 months are as follows. First (hypothesis), 
 - Comparable basis: A growth rate that strips out currency and scope-of-consolidation effects. Even with flat nominal revenue, +3% on a comparable basis indicates real underlying growth.
 - Intrecciato: Bottega Veneta's signature weaving technique of interlacing leather strips into a lattice pattern, and a core house code.
 - Fur-free-fur: A synthetic-material technique used as a substitute for animal fur.
+- Activation-coverage discount: A source-pool principle that down-weights exposure from brand-conceived and staged campaigns/events when treated as a reception signal, since it is not organically arising public opinion.
 
 ## Sources
 
@@ -169,3 +178,6 @@ Key points to watch over the next 12 months are as follows. First (hypothesis), 
 [10] Wallpaper* — Trotter's debut narrative: "liberation," homage to Laura Braggion, atelier impressions — https://www.wallpaper.com/fashion-beauty/louise-trotter-debut-bottega-veneta-milan-ss-2026
 [11] Kering (GlobeNewswire) — Official Kering announcement: Trotter appointed creative director of Bottega Veneta (2024-12-12), joined late January 2025 — https://www.globenewswire.com/news-release/2024/12/12/2996396/0/en/Kering-Louise-Trotter-appointed-Creative-Director-of-Bottega-Veneta.html
 [12] TheIndustry.fashion — Trotter's departure from Lacoste (announced 2023.01), comments from president Thierry Guibert, note on "consistency" — https://www.theindustry.fashion/louise-trotter-steps-down-as-lacoste-creative-director/
+[13] Kering (GlobeNewswire) — Official Kering announcement: Romain Spitzer appointed CEO of Bottega Veneta (2026-07-15), effective 2026-09-01, from LVMH fragrance division, Milan-based, reporting to Luca de Meo and joining the executive committee — https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html
+[14] Culted — Intrecciato 50th-anniversary heritage campaign under Trotter (first teased June 2026) featuring Tyler, the Creator and Julianne Moore — https://culted.com/bottega-veneta-ss26-louise-trotter/
+[15] WWD — Leo Rongone, from Kering's Bottega Veneta to CEO of Moncler Group (effective 2026-04-01); H1 2026 revenue up 5% to 1.29 billion euros — https://wwd.com/business-news/financial/moncler-group-revenue-profitability-growth-leo-rongone-speaks-1239079356/

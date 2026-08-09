@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-2026-08-10-001",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade press reports Gucci revenue declined but beat market expectations, CEO cites improvement signs across regions",
+    "signal_tags": ["earnings", "trade_press", "recovery_narrative"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-10-002",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade press frames narrowing revenue decline (-5% vs -25% prior year) as recovery momentum, favorable independent tone",
+    "signal_tags": ["earnings", "trade_press", "recovery_narrative"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-10-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Undisclosed price hike on Marmont bag cited amid consumer backlash calling Korea a luxury 'price experiment ground'",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "korea_market"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-08-10-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive popup store write-up with no evaluative verdict, brand-owned activation coverage",
+    "signal_tags": ["activation_coverage", "popup_store"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-10-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive popup store opening coverage, promotional in nature, no independent judgment offered",
+    "signal_tags": ["activation_coverage", "popup_store"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-10-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Chinese business press reports Kering profit nearly halved, pessimistic outlook attributed to continued Gucci weakness",
+    "signal_tags": ["negative_earnings", "china_market", "brand_fatigue"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-10-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Idol fandom post mentions Gucci incidentally; ambassador/fan-driven relevance to brand affinity too weak to confirm polarity, demoted per low-confidence rule",
+    "signal_tags": ["fandom_spike", "ambassador", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-08-10-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community user expresses discomfort with recent Gucci runway direction and aesthetic under current creative regime",
+    "signal_tags": ["design_criticism", "community_sentiment", "creative_direction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-10-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Weibo content evaluates resale value depreciation of top Gucci bags versus retail price, reflecting resale-value concern",
+    "signal_tags": ["resale_value", "china_market", "consumer_review"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-10-010",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Japanese fashion outlet gives evaluative verdict praising new Papparazzo bag as next icon candidate; activation coverage cap applies",
+    "signal_tags": ["activation_coverage", "product_launch", "editorial_praise"],
+    "confidence": 0.6
+  }
+]
