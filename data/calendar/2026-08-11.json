@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-11",
+  "horizon_days": 60,
+  "items": [
+    {
+      "date": "2026-09-10~2026-09-15",
+      "event": "New York Fashion Week (SS27 Womenswear)",
+      "brand": "Industry (NYFW/CFDA)",
+      "type": "show",
+      "why_ko": "미국 럭셔리 소비 트렌드와 셀럽 캐스팅 경쟁이 시즌 초반 여론을 형성하며, 구찌 북미 마케팅 캘린더의 기준점이 됨.",
+      "why_en": "Sets the early-season tone for US luxury sentiment and celebrity casting benchmarks relevant to Gucci North America.",
+      "action_ko": "NYFW 기간 중 북미 인플루언서·프레스 시딩 사전 배치, 경쟁 브랜드 캐스팅 모니터링",
+      "source": "CFDA",
+      "tier": 2,
+      "url": "https://cfda.com/news/view-the-preliminary-september-2026-official-nyfw-schedule/"
+    },
+    {
+      "date": "2026-09-20",
+      "event": "Alexander McQueen SS27 Show (London Fashion Week)",
+      "brand": "Alexander McQueen (Kering)",
+      "type": "show",
+      "why_ko": "동일 케링 그룹 브랜드 쇼로, 그룹 내 크리에이티브 톤 비교 및 언론 자원 배분에 영향을 줌.",
+      "why_en": "A fellow Kering-house show; affects cross-brand creative comparisons and group PR resource allocation.",
+      "action_ko": "그룹 내 미디어 커버리지 분산 점검, 구찌 9/25 쇼 프레스 캘린더와 간섭 여부 확인",
+      "source": "British Fashion Council",
+      "tier": 2,
+      "url": "https://fashionista.com/2026/01/fashion-week-schedules-dates-2026"
+    },
+    {
+      "date": "2026-09-22~2026-09-28",
+      "event": "Milan Fashion Week (SS27 Womenswear)",
+      "brand": "Industry (Camera Moda)",
+      "type": "show",
+      "why_ko": "구찌 SS27 쇼가 포함된 핵심 주간으로, 프라다·펜디·보테가 베네타 등 경쟁 하우스와 언론·바이어 자원을 동시에 경쟁함.",
+      "why_en": "The core week containing Gucci's own SS27 show, competing directly for press/buyer attention with Prada, Fendi, Bottega Veneta.",
+      "action_ko": "쇼 주간 전체 프레스데이 스케줄 확정, VIP·셀럽 초청 좌석 배치 최종 점검(T-14일)",
+      "source": "Camera Nazionale della Moda Italiana / WWD",
+      "tier": 1,
+      "url": "https://wwd.com/fashion-news/fashion-features/prada-moschino-debut-milan-fashion-week-september-2026-calendar-1239080481/"
+    },
+    {
+      "date": "2026-09-25",
+      "event": "Gucci Spring/Summer 2027 Runway Show (Demna 2nd collection)",
+      "brand": "Gucci",
+      "type": "show",
+      "why_ko": "뎀나의 두 번째 구찌 컬렉션으로, 2월 데뷔쇼 이후 방향성 지속 여부에 대한 시장·평단의 검증이 집중되는 최우선 이벤트.",
+      "why_en": "Demna's second Gucci collection; critical market/critic validation of creative direction continuity after the Feb 2026 debut.",
+      "action_ko": "쇼 종료 후 T+24h 소셜·프레스 반응 리포트, T+72h 판매 전환 캠페인 실행",
+      "source": "LOfficiel Singapore / WWD",
+      "tier": 1,
+      "url": "https://www.lofficielsingapore.com/fashion/milan-fashion-week-calendar-september-2026-shows-calendar-schedule-designers"
+    },
+    {
+      "date": "2026-09-25",
+      "event": "Bottega Veneta SS27 Show",
+      "brand": "Bottega Veneta (Kering)",
+      "type": "show",
+      "why_ko": "구찌 쇼와 같은 날 저녁 개최되는 동일 그룹 하우스 쇼로, 케링 내부 미디어·인플루언서 자원 배분이 직접 충돌함.",
+      "why_en": "Same-day evening show from a sister Kering house; directly competes for group media/influencer allocation with Gucci's show.",
+      "action_ko": "케링 그룹 PR팀과 당일 자원 배분 사전 조율(구찌 우선순위 확보)",
+      "source": "LOfficiel Singapore",
+      "tier": 2,
+      "url": "https://www.lofficielsingapore.com/fashion/milan-fashion-week-calendar-september-2026-shows-calendar-schedule-designers"
+    },
+    {
+      "date": "2026-09-28~2026-10-06",
+      "event": "Paris Fashion Week (SS27 Womenswear)",
+      "brand": "Industry (FHCM)",
+      "type": "show",
+      "why_ko": "디올·샤넬·루이비통·생로랑·로에베 등 최상위 경쟁 하우스가 밀집한 시즌 최종전으로, 구찌 쇼 직후 여론의 상대적 위치를 결정함.",
+      "why_en": "Season finale concentrating Dior, Chanel, Louis Vuitton, Saint Laurent, Loewe; determines Gucci's relative post-show narrative position.",
+      "action_ko": "경쟁 하우스 쇼 리뷰 실시간 모니터링, 구찌 SOV(share of voice) 방어 콘텐츠 배포",
+      "source": "FHCM / Complex",
+      "tier": 1,
+      "url": "https://www.complex.com/style/a/will-lavin/paris-fashion-week-ss27-women-schedule-2026"
+    },
+    {
+      "date": "2026-09-29",
+      "event": "Christian Dior SS27 Show",
+      "brand": "Dior (LVMH)",
+      "type": "show",
+      "why_ko": "LVMH 최대 경쟁 하우스의 쇼로, 구찌 쇼 직후 언론 헤드라인 경쟁 상대.",
+      "why_en": "LVMH's flagship rival house show; direct headline competition in the days following Gucci's own show.",
+      "action_ko": "디올 쇼 당일 구찌 SOV 및 미디어 톤 비교 분석 실행",
+      "source": "Complex",
+      "tier": 2,
+      "url": "https://www.complex.com/style/a/will-lavin/paris-fashion-week-ss27-women-schedule-2026"
+    },
+    {
+      "date": "2026-10-06",
+      "event": "Louis Vuitton SS27 Show (Paris Fashion Week closing)",
+      "brand": "Louis Vuitton (LVMH)",
+      "type": "show",
+      "why_ko": "파리 패션위크 폐막을 장식하는 LVMH 최대 브랜드 쇼로, 시즌 전체 화제성의 최종 기준점이 됨.",
+      "why_en": "Closes Paris Fashion Week as LVMH's largest brand; sets the final benchmark for season-wide buzz comparison.",
+      "action_ko": "시즌 종합 SOV 리포트 작성, 구찌 다음 액티베이션 기획에 반영",
+      "source": "Complex",
+      "tier": 2,
+      "url": "https://www.complex.com/style/a/will-lavin/paris-fashion-week-ss27-women-schedule-2026"
+    },
+    {
+      "date": "2026-10-15",
+      "event": "LVMH Nine-Month 2026 Revenue Release (Q3, 미확정 — 통상 10월 중순 발표 패턴 기준 추정)",
+      "brand": "LVMH",
+      "type": "earnings",
+      "why_ko": "미확정: LVMH 정확한 발표일이 아직 공식 공개되지 않아 전년 패턴(10/15) 기준 추정일이며, 럭셔리 가죽제품 부문 실적이 구찌 대비 경쟁 포지셔닝의 핵심 벤치마크.",
+      "why_en": "Unconfirmed: exact date not yet published; estimated from prior-year pattern (Oct 15). LVMH's Fashion & Leather Goods division is the key competitive benchmark vs. Gucci.",
+      "action_ko": "발표 직후 경쟁사 실적 비교 브리핑 준비, 케링 IR팀과 메시지 정합성 점검",
+      "source": "LVMH Financial Calendar (pattern basis: CNBC Oct 2025 report)",
+      "tier": 2,
+      "url": "https://www.cnbc.com/2025/10/15/lvmh-3q-results.html"
+    },
+    {
+      "date": "2026-10-29",
+      "event": "Kering Third-Quarter 2026 Revenue Release",
+      "brand": "Kering (Gucci parent)",
+      "type": "earnings",
+      "why_ko": "구찌 실적이 직접 공개되는 가장 중요한 재무 이벤트로, 뎀나 체제 2개 쇼 이후 시장 반응이 매출로 전환됐는지 검증하는 분수령.",
+      "why_en": "The single most important financial event directly disclosing Gucci results; the litmus test for whether post-Demna show momentum converted to revenue.",
+      "action_ko": "실적 발표 T-7일 내부 메시지 정렬, 발표 당일 IR-마케팅 합동 대응 태세 구축",
+      "source": "Investing.com / MarketScreener",
+      "tier": 1,
+      "url": "https://www.investing.com/equities/kering-earnings"
+    },
+    {
+      "date": "2026-11-13",
+      "event": "Richemont Half-Year Results (FY2027 H1, six months to 30 Sep 2026)",
+      "brand": "Richemont",
+      "type": "earnings",
+      "why_ko": "구찌의 시계·주얼리 카테고리 확장 전략과 비교되는 하드럭셔리 최대 경쟁사 실적으로, 카테고리별 소비 심리 변화를 조기 포착 가능.",
+      "why_en": "Richemont's hard-luxury results offer an early read on category-level consumer sentiment relevant to Gucci's watch/jewelry expansion strategy.",
+      "action_ko": "카테고리별 성장률 비교 분석, 구찌 주얼리 라인 포지셔닝 리뷰",
+      "source": "Richemont Media",
+      "tier": 2,
+      "url": "https://www.richemont.com/news-media/press-releases-news/richemont-delivers-strong-sales-growth-and-solid-results-for-the-year-ended-31-march-2026/"
+    }
+  ]
+}

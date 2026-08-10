@@ -1,6 +1,6 @@
 # 마리아 그라치아 치우리 — Fendi
 
-2026-07-14 (dossier update) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-11 (dossier update) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## 목차
 
@@ -16,7 +16,7 @@
 
 ## 핵심 요약
 
-마리아 그라치아 치우리는 발렌티노 공동 크리에이티브 디렉터를 거쳐 2016년 디올 최초의 여성 크리에이티브 디렉터가 됐고, 9년간 페미니즘 서사와 상업 성과를 동시에 끌어올린 뒤 2025년 5월 디올을 떠났다.[6][7] 2025년 10월 그는 자신이 1989년 커리어를 시작한 펜디에 치프 크리에이티브 오피서로 복귀했으며, 킴 존스(여성복)와 실비아 벤투리니 펜디(공백기 대행)를 승계해 여성복·남성복·오트 쿠튀르·액세서리 전 부문을 통합 지휘한다.[3][5] 2026년 2월 밀라노 여성복 데뷔는 "덜 나(I), 더 우리(Us)"라는 절제된 명제로 호평을 받았고,[8] 2026년 7월 10일 로마 국립현대미술관에서 열린 첫 오트 쿠튀르는 화려함 대신 착용성과 장인 기술을 앞세운 조용한 리셋으로 평가됐다.[1] 강한 서사 저자가 조용한 LVMH 하우스로 이동해 절제를 택한 이 궤적은, 뎀나 체제로 시끄럽게 리셋한 구찌에게 대조적 벤치마크다.
+마리아 그라치아 치우리는 발렌티노 공동 크리에이티브 디렉터를 거쳐 2016년 디올 최초의 여성 크리에이티브 디렉터가 됐고, 9년간 페미니즘 서사와 상업 성과를 동시에 끌어올린 뒤 2025년 5월 디올을 떠났다.[6][7] 2025년 10월 그는 자신이 1989년 커리어를 시작한 펜디에 치프 크리에이티브 오피서로 복귀했으며, 킴 존스(여성복)와 실비아 벤투리니 펜디(공백기 대행)를 승계해 여성복·남성복·오트 쿠튀르·액세서리 전 부문을 통합 지휘한다.[3][5] 2026년 2월 밀라노 여성복 데뷔는 "덜 나(I), 더 우리(Us)"라는 절제된 명제로 호평을 받았고,[8] 2026년 7월 10일 로마 국립현대미술관에서 열린 첫 오트 쿠튀르는 화려함 대신 착용성과 장인 기술을 앞세운 조용한 리셋으로 평가됐다.[1] 데뷔 이후 그는 8월 1일 공개한 첫 정규 캠페인과 8월 8일 공개한 바나나 섬유 데님 캡슐로 장인정신·지속가능 소재 서사를 상품 계층으로 확장하기 시작했으며,[10][11] 강한 서사 저자가 조용한 LVMH 하우스로 이동해 절제를 택한 이 궤적은 뎀나 체제로 시끄럽게 리셋한 구찌에게 대조적 벤치마크다.
 
 ## 1. 프로필 개요
 
@@ -46,7 +46,9 @@
 
 타임라인은 명확하다. 그는 2025년 5월 27일 로마 빌라 알바니에서 디올 크루즈 2026 컬렉션을 마지막으로 선보인 뒤 5월 29일 디올을 떠났고,[6][7] 2025년 10월 펜디 치프 크리에이티브 오피서로 복귀가 발표됐다.[3][5] 킴 존스가 여성복·오트 쿠튀르에서 물러난 뒤 실비아 벤투리니 펜디가 단독 대행을 맡았던 공백기를 그가 승계하는 구조다.[3][4][5]
 
-데뷔 반응은 강했다. 2026년 2월 밀라노 여성복 데뷔는 "크라우드 플리저"로 불리며, 파괴적 리셋 대신 하우스 계보를 존중하는 접근으로 밀라노 시즌의 하이라이트 중 하나라는 평가를 받았고, 바이어들이 에디토리얼용이 아닌 실제 워드로브를 위한 옷이라는 점을 인정하는 강한 상업적 반응이 뒤따랐다.[8] 이어 6월 남성복, 7월 오트 쿠튀르로 전 부문 데뷔가 이어졌다.[5] 7월 10일 로마 국립현대미술관에서 열린 첫 오트 쿠튀르는 라거펠트 회고전과 함께 열렸고, 그가 1985년 이 전시를 본 뒤 펜디에 합류했다는 개인사와 겹치며 귀향 서사를 완성했다.[1] 조직 측면에서 전 부문 통합 지휘는 실비아 벤투리니 펜디의 대행 체제 이후 창의 의사결정을 단일 비전으로 수렴시키는 구조 변화이며, 상업 전환의 실제 지표(신규 액세서리 판매 성과 등)는 아직 미확인이다.
+데뷔 반응은 강했다. 2026년 2월 밀라노 여성복 데뷔는 "크라우드 플리저"로 불리며, 파괴적 리셋 대신 하우스 계보를 존중하는 접근으로 밀라노 시즌의 하이라이트 중 하나라는 평가를 받았고, 바이어들이 에디토리얼용이 아닌 실제 워드로브를 위한 옷이라는 점을 인정하는 강한 상업적 반응이 뒤따랐다.[8] 이어 6월 남성복, 7월 오트 쿠튀르로 전 부문 데뷔가 이어졌다.[5] 7월 10일 로마 국립현대미술관에서 열린 첫 오트 쿠튀르는 라거펠트 회고전과 함께 열렸고, 그가 1985년 이 전시를 본 뒤 펜디에 합류했다는 개인사와 겹치며 귀향 서사를 완성했다.[1]
+
+데뷔 시즌 이후 치우리 체제는 쇼에서 상품·캠페인 계층으로 무게를 옮기기 시작했다. 8월 1일 펜디는 치우리 체제의 첫 2026 가을·겨울 정규 캠페인을 공개했는데, 로마 쿠튀르 데뷔에 이어 브랜드의 장인정신을 앞세운 이미지들로 구성돼 데뷔 무대의 조용한 절제 톤을 상업 커뮤니케이션으로 연장했다.[10] 이어 8월 8일에는 치우리 취임 후 첫 데님 캡슐을 선보였다. 유기농 면 55%와 바나나(아바카) 섬유 45%를 혼방한 '바나나텍스' 원단을 사용해 남녀공용 청바지·웨스턴 셔츠·셔츠 드레스 3종으로 구성했으며, 이탈리아 데님 제조사 베르토와 협업했다.[11] 이는 그의 "완벽한 해법은 없지만 조금 더 나은 방식으로 일할 수 있다"는 지속가능성 태도(위 4절)를 실제 소재·카테고리로 구현한 첫 사례이자, 펜디를 모피·가죽 헤리티지 밖의 데님이라는 대중 접근성 높은 카테고리로 확장하는 신호다. 조직 측면에서 전 부문 통합 지휘는 실비아 벤투리니 펜디의 대행 체제 이후 창의 의사결정을 단일 비전으로 수렴시키는 구조 변화이며, 캠페인·데님 캡슐로 상품 계층 확장이 시작됐으나 상업 전환의 실제 지표(신규 액세서리·데님 판매 성과 등)는 아직 미확인이다.
 
 ## 6. 구찌 관점
 
@@ -56,9 +58,11 @@
 
 둘째는 쿠튀르 격차다. 오늘 확인된 것처럼 펜디는 치우리 지휘 아래 오트 쿠튀르 라인을 운영하며, LVMH 계열에서 디올에 이어 또 하나의 쿠튀르 화력을 확보한다.[1] 반면 구찌에는 오트 쿠튀르 라인이 없고, 케링 내 쿠튀르는 사실상 발렌시아가 단독에 의존한다.[뉴스 맥락] 펜디가 로마 국립미술관·라거펠트 회고전급 문화 무대에서 쿠튀르로 브랜드 상승 서사를 만드는 상황은, 디올·펜디 두 축으로 쿠튀르 화력을 겹겹이 쌓는 LVMH와, 발렌시아가에만 의존하는 케링 사이의 문화 자본 격차를 드러낸다. [가설] 경쟁 그룹이 쿠튀르 채널을 다변화할수록, 쿠튀르 없는 구찌는 하이 크래프트·한정 컬렉션·F1 같은 대체 화력으로 앰비언스 갭을 메워야 하는 압력이 커진다.
 
+셋째, 이번 갱신에서 새로 부각된 축은 지속가능 소재를 지렛대로 한 카테고리 확장이다. 치우리는 바나나텍스 데님 캡슐로 펜디를 모피·가죽 헤리티지 밖의 데님이라는 대중 접근성 높은 카테고리로 넓히면서, 동시에 그 확장의 명분을 "혼방 바이오 소재"라는 지속가능성 서사로 감쌌다.[11] 이는 상품 카테고리 확장과 ESG 서사를 하나의 드롭으로 묶어내는 전략으로, 데뷔 캠페인이 강조한 장인정신 서사[10]와 결이 같다. [가설] 케링·구찌 관점에서 이는 "리셋 이후 무엇을 팔 것인가"라는 상업 전환 국면에서 참고할 벤치마크다. 뎀나 체제 구찌가 화제성 중심 리셋 이후 상품 계층에서 어떤 카테고리 확장과 소재 서사를 얹을지 아직 뚜렷하지 않은 상황에서, 펜디가 지속가능 소재를 카테고리 진입 명분으로 삼는 방식은 구찌의 소재 혁신·카테고리 다변화 로드맵에 직접적 비교점이 된다.
+
 ## 7. 전망
 
-향후 12개월 관전 포인트는 세 가지다. 첫째, 상업 전환의 증거다. [가설] 밀라노 데뷔의 "실제 워드로브" 호평이 실제 매출과 액세서리 성과로 이어지는지가 치우리 펜디의 진짜 시험대이며, 바게트백 재활성화가 잇아이템 재점화로 연결되는지 지켜봐야 한다. 둘째, 절제 전략의 지속성이다. "덜 나, 더 우리"라는 조용한 톤이 시즌을 넘어 하우스 정체성으로 굳는지, 아니면 디올식 강한 서사로 회귀하는지가 관건이다. 셋째, 쿠튀르 서사의 확장이다. 로마 기반 쿠튀르가 LVMH의 브랜드 상승 엔진으로 정례화되는지가 관전 포인트다.
+향후 12개월 관전 포인트는 세 가지다. 첫째, 상업 전환의 증거다. [가설] 밀라노 데뷔의 "실제 워드로브" 호평이 실제 매출과 액세서리 성과로 이어지는지가 치우리 펜디의 진짜 시험대이며, 바게트백 재활성화가 잇아이템 재점화로 연결되는지, 바나나텍스 데님 캡슐이 신규 카테고리에서 실판매로 이어지는지 지켜봐야 한다. 둘째, 절제 전략의 지속성이다. "덜 나, 더 우리"라는 조용한 톤이 시즌을 넘어 하우스 정체성으로 굳는지, 아니면 디올식 강한 서사로 회귀하는지가 관건이다. 셋째, 쿠튀르 서사의 확장이다. 로마 기반 쿠튀르가 LVMH의 브랜드 상승 엔진으로 정례화되는지가 관전 포인트다.
 
 구찌 관점의 최우선 관전 포인트는 "조용한 리셋의 상업 전환" 대조다. 치우리가 절제된 데뷔를 곧바로 판매로 전환하는 데 성공할수록, 뎀나의 시끄러운 리셋에 의존하는 구찌는 화제성 이후 상업 증거를 언제 어떻게 제시할지에 대한 압력을 더 크게 받는다.
 
@@ -67,6 +71,7 @@
 - 오트 쿠튀르: 파리 의상조합이 규정하는 최고급 맞춤 라인. 매출보다 브랜드 상승 서사와 언론 화력을 만드는 마케팅 엔진 성격이 강하다. 펜디·디올은 운영하지만 구찌는 현재 없다.
 - 치프 크리에이티브 오피서(CCO): 하우스 전 부문 크리에이션을 총괄하는 최고 직책. 치우리는 펜디에서 여성복·남성복·쿠튀르·액세서리를 통합 지휘한다.
 - 잇백/잇아이템: 특정 시즌 시장을 견인하는 상징 상품. 발렌티노 록스터드, 펜디 바게트백이 대표 사례다.
+- 바나나텍스(Bananatex): 바나나(아바카) 섬유를 기반으로 한 바이오 소재 원단. 펜디 데님 캡슐은 유기농 면 55%·바나나 섬유 45% 혼방을 사용했다.
 - ReconKering: 케링이 2026년 4월 공개한 회생 전략. 이익률 2배·매장 250개 폐쇄·구찌 판매면적 20% 축소가 핵심.
 - [가설]: 공개 근거로 확정되지 않은 분석적 추론. 확정 사실과 구분하기 위한 라벨.
 - 출처 접근 한계: [6][8][9](WWD)와 [7](Business of Fashion)는 팩트체크 시점 재접속 시 페이월(402/403)로 재검증이 불가했다. 이것이 해당 보도가 틀렸다는 뜻은 아니며, 통상적인 "페이월 매체 인용" 관행에 해당하나, 투명성을 위해 명시한다. 영향을 받는 구체적 claim은 디올 퇴임일(2025년 5월 29일), 크루즈 2026 빌라 알바니 쇼 세부, 디올 매출 수치(2017~2023년 성장 구간 및 2024~2025년 둔화 서술 포함), 발렌티노 "매출 두 배" 주장, 록스터드 매출 관련 서술, "여성이 여성 옷을 만들 때…" 인터뷰 인용이다. 이 항목들은 재검증 완료가 아닌, 원 매체 보도에 의존한 상태로 표기한다.
@@ -82,12 +87,14 @@
 [7] Business of Fashion — 치우리의 디올 상업 성과·발렌티노 매출·록스터드·퇴임 성명 — https://www.businessoffashion.com/articles/luxury/diors-maria-grazia-chiuri-a-fashion-hitmakers-method/
 [8] WWD — 펜디 폴 2026 기성복 리뷰("덜 나 더 우리"·바게트백·상업 반응) — https://wwd.com/runway/fall-2026/milan/fendi/review/
 [9] The Gloss / WWD — 치우리 인터뷰("여성이 여성 옷 만들 때…"·여성성·페미니즘 발언) — https://wwd.com/fashion-news/designer-luxury/dior-maria-grazia-chiuri-interview-feminism-1235906436/
+[10] Models.com — 펜디, 치우리 체제 2026 가을·겨울 캠페인 공개(로마 쿠튀르 데뷔 후속·장인정신 강조) — https://models.com/work/fendi-fendi-fw-2026-campaign
+[11] WWD (Sourcing Journal) — 펜디 첫 데님 캡슐, 바나나 섬유 '바나나텍스'(유기농 면 55%·바나나 섬유 45%·베르토 협업·3종 구성) — https://wwd.com/sourcing-journal/sj-denim/fendi-debuts-denim-banana-fiber-bananatex-berto-1239088767/
 
 <!-- ===== ENGLISH EDITION ===== -->
 
 # Maria Grazia Chiuri — Fendi
 
-2026-07-14 (dossier update) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-11 (dossier update) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## Table of Contents
 
@@ -103,7 +110,7 @@
 
 ## Core Summary
 
-Maria Grazia Chiuri, after years as Valentino co-creative director, became Dior's first woman creative director in 2016, spent nine years elevating both feminist narrative and commercial performance, and left Dior in May 2025.[6][7] In October 2025 she returned to Fendi—where she began her career in 1989—as chief creative officer, succeeding Kim Jones (women) and interim lead Silvia Venturini Fendi, with unified command over womenswear, menswear, haute couture and accessories.[3][5] Her February 2026 Milan womenswear debut, built on the restrained proposition "Less I, More Us," was praised,[8] and her first haute couture, shown July 10, 2026 at Rome's Galleria Nazionale d'Arte Moderna, read as a quiet reset favoring wearability and craft over grandeur.[1] A strong-narrative auteur moving into a quiet LVMH house and choosing restraint is a contrasting benchmark for a Gucci that reset loudly under Demna.
+Maria Grazia Chiuri, after years as Valentino co-creative director, became Dior's first woman creative director in 2016, spent nine years elevating both feminist narrative and commercial performance, and left Dior in May 2025.[6][7] In October 2025 she returned to Fendi—where she began her career in 1989—as chief creative officer, succeeding Kim Jones (women) and interim lead Silvia Venturini Fendi, with unified command over womenswear, menswear, haute couture and accessories.[3][5] Her February 2026 Milan womenswear debut, built on the restrained proposition "Less I, More Us," was praised,[8] and her first haute couture, shown July 10, 2026 at Rome's Galleria Nazionale d'Arte Moderna, read as a quiet reset favoring wearability and craft over grandeur.[1] Since the debut she has begun extending the craft/sustainable-material narrative into the product tier, via a first regular campaign released August 1 and a banana-fiber denim capsule released August 8.[10][11] A strong-narrative auteur moving into a quiet LVMH house and choosing restraint is a contrasting benchmark for a Gucci that reset loudly under Demna.
 
 ## 1. Profile Overview
 
@@ -133,7 +140,9 @@ This philosophy maps precisely onto her method of building narrative assets beyo
 
 The timeline is clear. She showed her final Dior collection, Cruise 2026, at Rome's Villa Albani on May 27, 2025 and left Dior on May 29,[6][7] with her return to Fendi as chief creative officer announced in October 2025.[3][5] She succeeds the interim period during which Silvia Venturini Fendi led alone after Kim Jones stepped down from women's ready-to-wear and haute couture.[3][4][5]
 
-Reception was strong. The February 2026 Milan womenswear debut was called a "crowd-pleaser," praised for respecting house lineage rather than a disruptive reset—one of the Milan season's highlights—followed by a strong commercial response as buyers recognized real-wardrobe rather than editorial pieces.[8] Menswear followed in June and haute couture in July, completing an all-division debut.[5] The July 10 couture show at Rome's Galleria Nazionale d'Arte Moderna coincided with a Lagerfeld retrospective and overlapped with her own history—she had visited a Lagerfeld exhibition before joining Fendi—completing the homecoming narrative.[1] Organizationally, unified all-division command converges creative decisions into a single vision after Silvia Venturini Fendi's interim; concrete commercial-conversion metrics (e.g., new accessory sell-through) remain unverified.
+Reception was strong. The February 2026 Milan womenswear debut was called a "crowd-pleaser," praised for respecting house lineage rather than a disruptive reset—one of the Milan season's highlights—followed by a strong commercial response as buyers recognized real-wardrobe rather than editorial pieces.[8] Menswear followed in June and haute couture in July, completing an all-division debut.[5] The July 10 couture show at Rome's Galleria Nazionale d'Arte Moderna coincided with a Lagerfeld retrospective and overlapped with her own history—she had visited a Lagerfeld exhibition before joining Fendi—completing the homecoming narrative.[1]
+
+After the debut season, the Chiuri regime began shifting weight from the runway to the product and campaign tiers. On August 1 Fendi released its first Fall/Winter 2026 regular campaign under Chiuri, composed—following the Rome couture debut—of images foregrounding the brand's craftsmanship, extending the debut's quiet-restraint tone into commercial communication.[10] Then on August 8 she unveiled her first denim capsule since taking over. It uses "Bananatex" fabric—a blend of 55% organic cotton and 45% banana (abacá) fiber—across three pieces: unisex jeans, a western shirt, and a shirt dress, produced with Italian denim maker Berto.[11] This is the first concrete instance of her sustainability stance—"no perfect solution, but one can work a little bit better" (Section 4)—rendered in actual material and category, and a signal of extending Fendi beyond its fur/leather heritage into denim, a far more accessible category. Organizationally, unified all-division command converges creative decisions into a single vision after Silvia Venturini Fendi's interim; product-tier expansion has begun via the campaign and denim capsule, but concrete commercial-conversion metrics (e.g., new accessory and denim sell-through) remain unverified.
 
 ## 6. The Gucci View
 
@@ -143,9 +152,11 @@ That said, there is no basis for treating Chiuri's restraint as a one-directiona
 
 Second, the couture gap. As confirmed today, Fendi runs a haute couture line under Chiuri, giving LVMH another couture firepower alongside Dior.[1] Gucci, by contrast, has no couture line, and Kering couture effectively depends on Balenciaga alone.[news context] Fendi generating brand-elevation narrative from couture on a Rome-national-gallery, Lagerfeld-retrospective-grade cultural stage exposes the cultural-capital gap between an LVMH stacking couture firepower across Dior and Fendi, and a Kering relying on Balenciaga alone. [Hypothesis] The more rivals diversify their couture channels, the greater the pressure on couture-less Gucci to fill the ambience gap with alternative firepower like high craft, limited collections, or the F1 platform.
 
+Third, a newly salient axis in this update: category expansion leveraged on sustainable material. With the Bananatex denim capsule, Chiuri widens Fendi into denim—a far more accessible category beyond its fur/leather heritage—while wrapping the rationale for that expansion in a sustainability narrative of "blended bio-material."[11] This bundles product-category expansion and ESG storytelling into a single drop, in the same register as the craftsmanship narrative stressed by the debut campaign.[10] [Hypothesis] From a Kering/Gucci view this is a benchmark for the "what do we sell after the reset" commercial-conversion phase. With Demna-era Gucci not yet showing a clear category-expansion or material narrative in the product tier following its buzz-led reset, Fendi's use of sustainable material as a category-entry rationale is a direct comparison point for Gucci's own material-innovation and category-diversification roadmap.
+
 ## 7. Outlook
 
-Three watch points over the next twelve months. First, evidence of commercial conversion: [Hypothesis] whether the Milan debut's "real wardrobe" praise translates into actual sales and accessory performance is Chiuri's true test at Fendi, and watch whether the Baguette revival reignites an it-item. Second, durability of restraint: whether the quiet "Less I, More Us" tone hardens into house identity beyond one season, or reverts to Dior-style strong narrative. Third, couture-narrative expansion: whether Rome-based couture becomes a regularized brand-elevation engine for LVMH.
+Three watch points over the next twelve months. First, evidence of commercial conversion: [Hypothesis] whether the Milan debut's "real wardrobe" praise translates into actual sales and accessory performance is Chiuri's true test at Fendi; watch whether the Baguette revival reignites an it-item, and whether the Bananatex denim capsule converts into real sell-through in a new category. Second, durability of restraint: whether the quiet "Less I, More Us" tone hardens into house identity beyond one season, or reverts to Dior-style strong narrative. Third, couture-narrative expansion: whether Rome-based couture becomes a regularized brand-elevation engine for LVMH.
 
 From the Gucci view, the top watch point is the contrast in "commercial conversion of a quiet reset." The more Chiuri succeeds in converting a restrained debut straight into sales, the greater the pressure on a Gucci reliant on Demna's loud reset to show, when and how, post-buzz commercial evidence.
 
@@ -154,6 +165,7 @@ From the Gucci view, the top watch point is the contrast in "commercial conversi
 - Haute couture: the top made-to-measure tier regulated by the Paris couture federation. More a marketing engine of brand-elevation narrative and press firepower than a revenue line. Fendi and Dior operate one; Gucci currently has none.
 - Chief Creative Officer (CCO): the top post overseeing all house creation. Chiuri directs womenswear, menswear, couture, and accessories at Fendi.
 - It-bag / it-item: a symbolic product that drives a given season's market; the Valentino Rockstud and Fendi Baguette are reference cases.
+- Bananatex: a bio-material fabric based on banana (abacá) fiber. Fendi's denim capsule uses a 55% organic cotton / 45% banana fiber blend.
 - ReconKering: Kering's turnaround strategy unveiled April 2026—doubled margins, 250 store closures, 20% Gucci selling-space reduction.
 - [Hypothesis]: analytical inference not confirmed by public evidence, labeled to distinguish it from established fact.
 - Source access limitation: [6][8][9] (WWD) and [7] (Business of Fashion) could not be re-verified on re-fetch at fact-check time due to paywall responses (402/403). This does not mean the reporting is inaccurate—it is standard paywalled-but-cited practice—but is disclosed here for transparency. Affected specific claims: the Dior exit date (May 29, 2025), Cruise 2026 Villa Albani show details, Dior revenue figures (including both the 2017–2023 growth range and the 2024–2025 slowdown noted above), the Valentino "revenue doubled" claim, the Rockstud revenue commentary, and the "when a woman makes clothes for women…" interview quote. These items are marked as reliant on the original outlets' reporting rather than independently re-verified.
@@ -169,3 +181,5 @@ From the Gucci view, the top watch point is the contrast in "commercial conversi
 [7] Business of Fashion — Chiuri's Dior commercial results, Valentino revenue, Rockstud, exit statement — https://www.businessoffashion.com/articles/luxury/diors-maria-grazia-chiuri-a-fashion-hitmakers-method/
 [8] WWD — Fendi Fall 2026 RTW review ("Less I, More Us," Baguette, commercial response) — https://wwd.com/runway/fall-2026/milan/fendi/review/
 [9] The Gloss / WWD — Chiuri interview ("when a woman makes clothes for women…", femininity, feminism quotes) — https://wwd.com/fashion-news/designer-luxury/dior-maria-grazia-chiuri-interview-feminism-1235906436/
+[10] Models.com — Fendi unveils Chiuri-era Fall/Winter 2026 campaign (follows Rome couture debut, foregrounds craftsmanship) — https://models.com/work/fendi-fendi-fw-2026-campaign
+[11] WWD (Sourcing Journal) — Fendi's first denim capsule using banana-fiber "Bananatex" (55% organic cotton / 45% banana fiber, Berto collaboration, three pieces) — https://wwd.com/sourcing-journal/sj-denim/fendi-debuts-denim-banana-fiber-bananatex-berto-1239088767/

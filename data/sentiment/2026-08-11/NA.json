@@ -1,0 +1,119 @@
+[
+  {
+    "id": "NA-2026-08-11-001",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Reuters-sourced wire reports quantified Q2 sales beat, slowed decline, and strong US handbag demand driving a 17% share jump.",
+    "signal_tags": ["earnings", "independent_data", "financial_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-08-11-002",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD trade analysis independently credits North America as strongest region for Gucci's quantified retail recovery.",
+    "signal_tags": ["earnings", "trade_press", "independent_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-11-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic celebrity-wear coverage of a Kim Kardashian look is descriptive with no evaluative brand verdict.",
+    "signal_tags": ["celebrity_wear", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-08-11-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Syndicated entertainment-site repost of the same descriptive celebrity dress story, no added evaluative judgment.",
+    "signal_tags": ["celebrity_wear", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-08-11-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "BoF briefing is explicitly split: regained conversation share but unresolved on whether it converts to durable desirability.",
+    "signal_tags": ["trade_press", "creative_direction", "mixed_verdict"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-11-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual tariff-rate explainer noting cost pressure and likely further price increases; not consumer backlash itself.",
+    "signal_tags": ["tariff", "pricing", "macro"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-08-11-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "PurseForum members express value-scrutiny and mild frustration over fresh handbag price increases.",
+    "signal_tags": ["price_hike", "community", "value_scrutiny"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-08-11-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Flora print thread is split between nostalgia-driven interest and skepticism about value, no net polarity.",
+    "signal_tags": ["community", "product_launch", "mixed_verdict"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-08-11-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community-level chatter flags Gucci's resale-to-retail gap widening amid repricing versus LV/Chanel peers.",
+    "signal_tags": ["resale_value", "price_hike", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-11-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "TikTok discovery cluster questions Gucci's current design direction and taste positioning under Demna.",
+    "signal_tags": ["design_criticism", "sns", "creative_direction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-11-011",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "User videos describe unresolved repair/warranty experiences, a recurring quality/service complaint cluster.",
+    "signal_tags": ["quality_complaint", "service", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-08-11-012",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Employee review aggregate mixes management concerns with benefits praise; internal workforce signal, not net polarity.",
+    "signal_tags": ["employee_sentiment", "community"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-08-11-013",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Earnings call transcript pairs management's NA strength narrative with mixed investor skepticism on durability.",
+    "signal_tags": ["earnings", "investor_sentiment", "mixed_verdict"],
+    "confidence": 0.5
+  }
+]
