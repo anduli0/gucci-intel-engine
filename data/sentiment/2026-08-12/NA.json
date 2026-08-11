@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-2026-08-12-001",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press coverage of Kering share surge and Gucci comp-sales improvement beating forecasts",
+    "signal_tags": ["earnings", "analyst_commentary", "momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-12-002",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party demand data: US comp sales +9%, framed as brightest region in recovery story",
+    "signal_tags": ["earnings", "regional_demand", "quantified_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-12-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Financial press: revenue beat consensus, sales decline slowed sharply, guidance reiterated",
+    "signal_tags": ["earnings", "revenue_beat", "guidance"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-12-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analysts maintain neutral rating despite beat, explicitly a counterweight to celebratory coverage",
+    "signal_tags": ["analyst_commentary", "caution"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-12-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive community write-up on Borsetto bag update with no independent evaluative verdict beyond mild framing",
+    "signal_tags": ["product_coverage", "community", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-08-12-006",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic celebrity-spotting roundup documenting real US adoption of Borsetto bag, corroborating demand narrative",
+    "signal_tags": ["celebrity_spotting", "organic_demand", "leather_goods"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-08-12-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive TikTok creator activity note, no retrievable engagement metrics or clear polarity",
+    "signal_tags": ["sns_volume", "creator_content"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-08-12-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual channel-health metric: Instagram engagement rate 3.45% rated average",
+    "signal_tags": ["channel_health", "engagement_metric"],
+    "confidence": 0.7
+  }
+]

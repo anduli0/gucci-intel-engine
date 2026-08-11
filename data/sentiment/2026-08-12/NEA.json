@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-08-12-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned popup write-up with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "popup", "promo"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-12-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador photo-call coverage of popup event; descriptive fan-event reporting, not independent brand judgment.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom_spike", "kpop"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-12-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Accelerated beauty license transfer to L'Oreal raises analyst concern over near-term profitability/stakeholder uncertainty.",
+    "signal_tags": ["earnings_press", "licensing", "analyst_concern"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-12-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Store closures in China framed as emblematic of broader luxury demand weakness; Kering CEO confirms Asia-concentrated global store cuts.",
+    "signal_tags": ["store_closure", "negative_momentum", "china", "kering_commentary"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-12-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Gucci store closures in Shanghai cited amid two-year contraction of mainland luxury market and eroding consumer confidence.",
+    "signal_tags": ["store_closure", "negative_momentum", "china", "market_contraction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-12-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "General resale-margin discussion doesn't name Gucci directly; weak/indirect brand signal, low confidence polarity demoted to neutral.",
+    "signal_tags": ["resale", "low_confidence"],
+    "confidence": 0.3
+  },
+  {
+    "id": "NEA-2026-08-12-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale data shows top items trading well below retail, indicating discount/resale price erosion.",
+    "signal_tags": ["resale_data", "price_erosion", "quantified_demand"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-08-12-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity/ambassador event attendance coverage with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom_spike", "restaurant"],
+    "confidence": 0.85
+  }
+]

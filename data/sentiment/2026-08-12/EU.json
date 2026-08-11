@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-08-12-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reports continued Gucci-led store network contraction (217 closures/18mo) as negative momentum despite 'deliberate rationalization' framing.",
+    "signal_tags": ["earnings_momentum", "store_network", "trade_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-12-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual trade reporting on future L'Oreal beauty license timeline, no evaluative judgment of the brand.",
+    "signal_tags": ["licensing", "beauty", "factual_reporting"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-12-004",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent Bernstein analyst scores Demna debut 7.6/10, net 'more good than bad' and improved vs predecessor, though qualified by specific criticisms.",
+    "signal_tags": ["analyst_review", "runway_debut", "mixed_but_net_positive"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-12-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic public backlash against AI-generated campaign imagery, called cheap/tacky with boycott threats; backlash against activation is not discount-capped.",
+    "signal_tags": ["ai_backlash", "campaign_controversy", "organic_criticism"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-12-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregated Trustpilot reviews show chronic low rating driven by service and QC complaints; unverified-purchase community signal.",
+    "signal_tags": ["qc_complaint", "customer_service", "review_aggregator"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-12-007",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Handbag-collector community praises Paparazzo bag craftsmanship and versatility, tempered by some price-to-craftsmanship skepticism.",
+    "signal_tags": ["product_review", "leather_goods", "community_praise"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-12-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned X promo for Summer campaign/Lady Lunetta/Flora anniversary is descriptive activation copy, not public opinion.",
+    "signal_tags": ["activation_coverage", "owned_channel", "campaign_promo"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-12-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Op-ed surveys genuinely polarized fan/critic reaction to Demna appointment, balancing derivative-design criticism against a smaller praise camp.",
+    "signal_tags": ["polarization", "fandom_trap", "meta_commentary"],
+    "confidence": 0.55
+  }
+]
