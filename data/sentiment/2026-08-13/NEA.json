@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-2026-08-13-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Balanced analyst-split industry report on beauty license transfer, not a verdict on Gucci brand itself",
+    "signal_tags": ["corporate_finance", "analyst_commentary", "licensing"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-13-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Ranked among lowest resale-value luxury brands with concrete steep depreciation figures",
+    "signal_tags": ["resale_value", "quantified_data", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-13-003",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified earnings beat, sharply narrowing sales decline, stock surge and analyst target upgrade",
+    "signal_tags": ["earnings", "momentum", "analyst_upgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-13-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Store closures and China market contraction reported with specific Gucci closure figures",
+    "signal_tags": ["store_closures", "china_market", "negative_momentum"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-13-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer comparison places Gucci below Hermes/Chanel with lower resale retention, 'fashion consumable' framing",
+    "signal_tags": ["peer_comparison", "resale_value", "brand_positioning"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-08-13-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Depreciation data for entry bags shows significant value loss over time, mild negative consumer info",
+    "signal_tags": ["resale_value", "quantified_data"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-08-13-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity pop-up appearance write-up, no independent evaluative verdict; fandom activation damped",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom", "kpop"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-13-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned product/campaign launch write-up, no third-party verdict",
+    "signal_tags": ["activation_coverage", "product_launch", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-13-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador campaign content spreading on SNS, fandom-driven buzz without independent judgment",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-13-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual community ranking data source, no clear directional verdict on Gucci standing",
+    "signal_tags": ["community", "ranking", "incidental"],
+    "confidence": 0.5
+  }
+]

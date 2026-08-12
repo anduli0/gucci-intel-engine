@@ -1,6 +1,6 @@
 # 니콜라 제스키에르 — 루이 비통 (여성 컬렉션 아티스틱 디렉터)
 
-2026-08-08 (업데이트: 2026-08-08 모노그램 논란 반영 및 재검증) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-13 (업데이트: 2026-08-13 팻 맥그래스 협업 뷰티 컬렉션 반영 / 2026-08-08 모노그램 논란) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## 목차
 
@@ -14,7 +14,7 @@
 
 ## 핵심 요약
 
-니콜라 제스키에르는 2013년 마크 제이콥스의 뒤를 이어 루이 비통 여성 컬렉션을 맡은 이래 12년 넘게 자리를 지킨, 메가 하우스 크리에이티브 좌석 중 가장 안정적인 재임 사례다. 발렌시아가에서 15년(1997–2012)을 이끌며 쇠락하던 하우스를 되살린 이력이 그를 이 자리로 데려왔고, 루이 비통에서는 프티 말·GO-14 같은 히트 가죽제품과 미래주의·아카이브 혼합 미학으로 하우스의 성장 궤도에 기여했다.[1][5][10] 루이 비통은 2022년 럭셔리 브랜드 최초로 연 200억 유로 매출을 기록했다.[9] 제스키에르는 2023년 11월 5년 재계약으로 신임을 재확인받았고 2026년 8월 현재 재임 지위에 변동은 없으나, 2026년 7월 중국에서 불거진 모노그램 '변기 백' 밈 논란은 그의 창작 관할 핵심 자산인 모노그램/콰트르푸아유 코드의 문화적 정당성을 처음으로 정면에서 위협했다.[12][13][14] 2025년 럭셔리 침체와 LVMH 패션·가죽 부문 두 자릿수 역성장 국면에서도 그의 장수는 뎀나 체제로 막 전환한 구찌의 리셋 리스크와 극명하게 대비되는 벤치마크다.[4][7]
+니콜라 제스키에르는 2013년 마크 제이콥스의 뒤를 이어 루이 비통 여성 컬렉션을 맡은 이래 12년 넘게 자리를 지킨, 메가 하우스 크리에이티브 좌석 중 가장 안정적인 재임 사례다. 발렌시아가에서 15년(1997–2012)을 이끌며 쇠락하던 하우스를 되살린 이력이 그를 이 자리로 데려왔고, 루이 비통에서는 프티 말·GO-14 같은 히트 가죽제품과 미래주의·아카이브 혼합 미학으로 하우스의 성장 궤도에 기여했다.[1][5][10] 루이 비통은 2022년 럭셔리 브랜드 최초로 연 200억 유로 매출을 기록했다.[9] 제스키에르는 2023년 11월 5년 재계약으로 신임을 재확인받았고 2026년 8월 현재 재임 지위에 변동은 없으나, 2026년 7월 중국에서 불거진 모노그램 '변기 백' 밈 논란은 그의 창작 관할 핵심 자산인 모노그램/콰트르푸아유 코드의 문화적 정당성을 처음으로 정면에서 위협했다.[12][13][14] 그런 국면에서 2026년 8월 그는 팻 맥그래스와 손잡고 루이 비통 최초의 뷰티 협업 컬렉션을 내놓아, 모노그램 130주년을 기념하며 그 코드를 아이섀도·립스틱으로 확장했다.[16][17] 2025년 럭셔리 침체와 LVMH 패션·가죽 부문 두 자릿수 역성장 국면에서도 그의 장수는 뎀나 체제로 막 전환한 구찌의 리셋 리스크와 극명하게 대비되는 벤치마크다.[4][7]
 
 ## 1. 프로필 개요
 
@@ -32,11 +32,13 @@
 
 연출 문법에서 그는 장소를 제안의 일부로 삼는 시네마틱한 쇼로 유명하다. 크루즈 2026은 유네스코 세계유산인 아비뇽 팔레 데 파프의 고딕 웅장함을 배경으로 안무처럼 펼쳐졌고, 크루즈 2027은 뉴욕 프릭 컬렉션 내부에서 업타운의 세련됨과 다운타운의 기이함 사이 긴장으로 도시를 읽어냈다.[6] 시즌 컬렉션 역시 서사가 강하다. 폴/윈터 2026 '슈퍼 네이처(Super Nature)'는 인간과 자연의 관계에 대한 인류학적 연구를 토대로, 퍼지 케이프·카우벨·시어링 캡·펠트를 동원한 유목적 패션 우화였고, 루브르 안뜰에 잔디로 덮인 기하학적 지형을 폭발시킨 무대를 3월 10일 공개했다. 스프링/서머 2026은 2025년 9월 30일 루브르에서 발표됐으며, 1940년대 할리우드의 우아함을 실내 워드로브 코드에 접목해 옅은 블루·파우더 핑크·크림·토프의 부드러운 팔레트와 유동적 드레이핑을 제안했다. 이는 그의 SF적 미래주의 코드에서 벗어나 부드러움과 친밀함으로 방향을 튼 '새로운 페이지'로 평가됐다.[15]
 
+그의 미학 문법이 의류·가죽제품을 넘어 코스메틱으로 확장된 것이 2026년 8월의 팻 맥그래스 협업이다. 루이 비통 라 보테(La Beauté) 뷰티 라인은 2025년 8월 맥그래스를 코스메틱 크리에이티브 디렉터로 앞세워 출범했는데, 이번 협업에서 처음으로 모노그램 캔버스가 뷰티 제품 위에 직접 얹혔다.[16][17] 컬렉션은 모노그램을 두 갈래로 재해석한다. '모노그램 듄(Monogram Dune)'은 사막의 풍경과 그 위로 색이 변하는 햇빛에서 착안해 베이지·누드·중성 톤으로 구성한 정적인 절반이고, '모노그램 인프라루주(Monogram Infrarouge)'는 맥그래스의 표현으로 "타협 없고, 하이 콘트라스트"[16]인 블랙과 레드의 대비다. 각 갈래는 4색 아이섀도 팔레트('LV 옹브르')와 새틴 립스틱('LV 루주'), 립밤 토퍼('LV 봄')로 구성된다.[17] 제스키에르의 미학이 실루엣과 연출을 넘어 코드 자체를 이식 가능한 그래픽 자산으로 다루는 방식이, 이번에는 얼굴 위의 색으로 번역된 셈이다(분석자 관점).
+
 ## 4. 지향점과 철학
 
 제스키에르는 처음부터 매우 알아볼 수 있는 워드로브와 '비통 여성'의 비전을 만드는 것을 자신의 미션으로 규정해 왔다.[8] 그는 하우스의 여행 역사에서 영감을 받아 컬렉션에 움직임을 부여하고, 기능적이면서 날카로운, 시대의 충돌 같은 아나크로니즘 요소를 심는다고 설명한다.[8]
 
-미래성에 대한 그의 자기 규정은 명료하다. 그는 "미래는 지금"이라며 자신을 미래주의 디자이너로만 규정해 온 통념을 현재형으로 다시 세운다.[3] 모노그램과 헤리티지에 대한 그의 관점 역시 방어가 아니라 개방으로, 전 세계가 아는 코드를 개인적 해석으로 다시 읽어내는 태도로 이어진다. 정체성 구축의 방식에 관해 그는 컬렉션에 "움직임을 부여했다"고 말하며, 그 움직임이 하우스의 여행 역사에 뿌리를 두고 기능적이면서 날카로운, "시대의 충돌" 같은 아나크로니즘으로 표현된다고 설명한다.[8] 그는 비통의 여성을 빈티지도 미래주의도 아닌, 시대를 뒤섞는 데 두려움이 없는 어반 우먼으로 규정한다.[8][해설] 이 태도는 그의 12년 장수를 관통하는 방향 — 단절적 리셋이 아니라 누적적 정체성 구축 — 을 요약한다. 다만 2026년 7월 중국 모노그램 논란은, '전 세계가 아는 코드를 개방적으로 재해석한다'는 그의 철학과, 그 코드를 법적으로 배타적으로 방어하는 하우스의 IP 전략 사이의 긴장을 노출시켰다(분석자 관점).
+미래성에 대한 그의 자기 규정은 명료하다. 그는 "미래는 지금"이라며 자신을 미래주의 디자이너로만 규정해 온 통념을 현재형으로 다시 세운다.[3] 모노그램과 헤리티지에 대한 그의 관점 역시 방어가 아니라 개방으로, 전 세계가 아는 코드를 개인적 해석으로 다시 읽어내는 태도로 이어진다. 정체성 구축의 방식에 관해 그는 컬렉션에 "움직임을 부여했다"고 말하며, 그 움직임이 하우스의 여행 역사에 뿌리를 두고 기능적이면서 날카로운, "시대의 충돌" 같은 아나크로니즘으로 표현된다고 설명한다.[8] 그는 비통의 여성을 빈티지도 미래주의도 아닌, 시대를 뒤섞는 데 두려움이 없는 어반 우먼으로 규정한다.[8][해설] 이 태도는 그의 12년 장수를 관통하는 방향 — 단절적 리셋이 아니라 누적적 정체성 구축 — 을 요약한다. 뷰티 협업을 두고 그가 "매우 자연스러운 진전"[16]이라고 표현한 것도 같은 맥락으로, 코드를 새 카테고리로 확장하는 일을 단절이 아니라 연속으로 보는 그의 사고를 압축한다. 다만 2026년 7월 중국 모노그램 논란은, '전 세계가 아는 코드를 개방적으로 재해석한다'는 그의 철학과, 그 코드를 법적으로 배타적으로 방어하는 하우스의 IP 전략 사이의 긴장을 노출시켰다(분석자 관점).
 
 ## 5. 현 하우스에서의 행보
 
@@ -48,6 +50,8 @@
 
 이 논란이 상하이 등 플래그십 매장 방문객 감소나 리세일 가격 하락으로 이어졌다는 보도가 있으나(Baiguan), 구체 수치가 유료 구간에 있어 독립 검증이 어려워 미확인으로 둔다.[12] 다만 '2026년 2분기 중국 럭셔리 수요가 이미 약세였다'는 맥락은 복수 매체가 공유하며, 이 논란은 하우스가 시장 둔화 국면에서 감당해야 할 평판 부담을 키운 사건으로 평가된다.[7][12][13] 이 이슈 자체는 IP·법무 영역에서 촉발됐지만, 문제의 대상이 제스키에르가 매 시즌 재해석해 온 모노그램 코드라는 점에서 그의 창작 관할과 무관하지 않다(분석자 관점).
 
+바로 이 국면에서 루이 비통은 2026년 8월 제스키에르와 팻 맥그래스가 공동 서명한 하우스 최초의 뷰티 협업 컬렉션을 공개했다.[16][17] 이는 모노그램 130주년 기념 프로젝트의 일부이며, 아이·립을 위한 한정판으로 모노그램 캔버스가 뷰티 제품에 처음 적용된 사례다.[16][17] 출시 일정은 중국이 8월 20일로 가장 앞섰고, 온라인 8월 20일, 매장 8월 27일, 전 세계 8월 29일로 순차 전개된다.[16] 조직적으로 이는 라 보테(2025년 8월 출범)라는 신설 뷰티 부문과 제스키에르의 여성 컬렉션 관할이 처음으로 공식 협업 형태로 만나는 지점이며, 중국을 첫 출시 시장으로 삼았다는 점은 모노그램 논란으로 압박받는 핵심 시장에 코드를 새 카테고리로 다시 제안하는 타이밍이라는 점에서 주목된다(분석자 관점).
+
 ## 6. 구찌 관점
 
 제스키에르 체제의 루이 비통은 구찌에게 네 가지 벤치마크·경계 신호를 던진다.
@@ -58,7 +62,7 @@
 
 셋째는 대비되는 취약성이다. 2025년 LVMH 패션·가죽 부문의 두 자릿수 하락[7]은 제스키에르의 안정성조차 시장 둔화를 상쇄하지 못함을 보여준다. 이는 구찌 입장에서 위협인 동시에 기회다 — 열망 소비자가 중고·웰니스·접근 가능 브랜드로 이동하는 국면에서, 뎀나의 문화적 화제성이 오히려 '리셋 프리미엄'으로 작동할 여지가 있기 때문이다.[7]
 
-넷째는 IP 방어와 지역 문화 정서 사이의 균형이라는 새로운 경계 신호다. 루이 비통의 모노그램 '변기 백' 논란은, 법적 IP 승리가 곧바로 평판 위기로 뒤집힐 수 있음을 보여준 사례다.[12][13][14] 구찌 역시 GG 모노그램·플로라·홀스빗 등 강한 시그니처 코드를 보유하고 중국을 핵심 시장으로 두는 만큼, 상표권을 공격적으로 방어할 때 현지 소비자가 이를 '문화 전유' 또는 '오만'으로 읽을 리스크를 함께 관리해야 한다는 교훈을 준다(분석자 관점). 요컨대 루이 비통은 안정성의 상한선을, 구찌는 전환의 변동성을 각각 대표하며, 두 전략이 같은 둔화장에서 어떤 상대 성과를 내는지, 그리고 강한 헤리티지 코드를 지역 정서와 어떻게 조율하는지가 관전 포인트다.
+넷째는 IP 방어와 지역 문화 정서 사이의 균형이라는 새로운 경계 신호이자, 코드의 카테고리 확장이라는 전략 카드다. 루이 비통의 모노그램 '변기 백' 논란은, 법적 IP 승리가 곧바로 평판 위기로 뒤집힐 수 있음을 보여준 사례다.[12][13][14] 동시에 제스키에르×맥그래스 뷰티 협업은, 압박받는 시그니처 코드를 립스틱·아이섀도라는 진입 가격대·고빈도 카테고리로 재제안하며 논란 서사를 상쇄하려는 움직임으로 읽힌다(분석자 관점).[16][17] 구찌 역시 GG 모노그램·플로라·홀스빗 등 강한 시그니처 코드를 보유하고, 뷰티(코티 라이선스 기반)를 별도로 운영하며, 중국을 핵심 시장으로 두는 만큼, 상표권을 공격적으로 방어할 때의 문화 정서 리스크와 코드를 뷰티·라이프스타일로 확장하는 기회를 함께 저울질해야 한다는 이중의 교훈을 준다(분석자 관점). 요컨대 루이 비통은 안정성의 상한선을, 구찌는 전환의 변동성을 각각 대표하며, 두 전략이 같은 둔화장에서 어떤 상대 성과를 내는지, 그리고 강한 헤리티지 코드를 지역 정서와 어떻게 조율하고 새 카테고리로 확장하는지가 관전 포인트다.
 
 ## 7. 전망
 
@@ -66,17 +70,14 @@
 
 **가설 B(미확인, 서사 피로 리스크).** '홈'·'슈퍼 네이처'처럼 시즌마다 강한 컨셉 서사를 쌓는 방식이 침체장에서 상업적 명료성과 충돌할 여지가 있다. 향후 컬렉션이 개념적 깊이와 착장 가능성·상품 전환 사이에서 어떻게 균형을 잡는지가 다음 12개월의 핵심 관찰 지표다.
 
-**가설 C(미확인, 모노그램 코드 정당성 리스크).** 중국 '변기 백' 밈이 일회성 화제로 소멸할지, 아니면 모노그램 코드에 대한 지속적 냉소로 굳어져 핵심 시장 수요에 영향을 줄지가 관건이다. 제스키에르가 시그니처 코드를 어떻게 다시 매력적으로 재해석하며 이 서사를 상쇄하는지가, 다음 시즌 컬렉션과 중국 마케팅의 관찰 지표다.[12][13][14]
-
-## Executive Summary (English)
-
-Nicolas Ghesquiere has led Louis Vuitton's womenswear as Artistic Director since November 2013, making him one of the longest-serving creative directors among mega-houses, following a 15-year run (1997-2012) at Balenciaga where he revived a declining house through 1980s-inspired design and the iconic Lariat bag. At Louis Vuitton his tenure has coincided with the brand becoming the first luxury house to cross 20 billion euros in annual revenue in 2022, aided by repeatable leather-goods hits such as the Petite Malle and GO-14, alongside a futurist-meets-archive aesthetic built on cinematic, site-specific runway shows. His creative philosophy centers on a dualism between heritage and hyper-modernity, a mission to build an instantly recognizable "Vuitton woman," and a self-description as a designer for whom "the future is now" rather than a purely futurist label. His position was reaffirmed in November 2023 with a five-year contract renewal and remains unchanged as of August 2026, but in July 2026 a "toilet bag" meme controversy erupted in China after a Suzhou court ruled in LV's favor in a trademark case, with netizens accusing the brand of appropriating traditional Chinese motifs while enforcing exclusive rights over the quatrefoil Monogram code that sits at the center of Ghesquiere's creative remit.[12][13][14] For Gucci, Ghesquiere's case offers four benchmarks: the compounding value of creative continuity versus Gucci's recent reset under Demna; the leather-goods hit-making engine Gucci must rebuild; the reminder that even Louis Vuitton's stability has not been immune to the sector-wide slowdown; and, newly, the cautionary lesson that a legal IP win can flip into a reputational crisis, a risk Gucci must weigh in defending its own signature codes in a key China market. The forward-looking hypotheses are that Ghesquiere's contract security through roughly 2028 makes near-term seat change unlikely, while the open risks are whether his increasingly conceptual collections can maintain commercial clarity, and whether the Monogram-code backlash hardens into durable cynicism in China.
+**가설 C(미확인, 모노그램 코드 정당성 리스크와 카테고리 확장).** 중국 '변기 백' 밈이 일회성 화제로 소멸할지, 아니면 모노그램 코드에 대한 지속적 냉소로 굳어져 핵심 시장 수요에 영향을 줄지가 관건이다. 2026년 8월 팻 맥그래스 협업 뷰티 컬렉션이 중국을 첫 출시 시장으로 삼아 모노그램 130주년을 코드의 재매력화 기회로 삼은 만큼, 이 뷰티 확장이 논란 서사를 상쇄하고 진입 가격대에서 신규 고객을 흡수하는지가 다음 12개월의 새 관찰 지표로 추가된다.[12][13][14][16][17]
 
 ## 주석
 
 - 이원성(dualism) — 제스키에르 미학을 설명하는 평론 용어로, 과거(아카이브)와 미래(미래주의)를 한 실루엣 안에 병치하는 접근을 뜻한다.
 - 콰트르푸아유(quatrefoil) — 모노그램 캔버스를 구성하는 네잎 꽃 모티프. 2026년 중국 논란의 대상이 된 상표 요소다.
 - 문화 전유(cultural appropriation) — 특정 문화의 요소를 원 맥락·권리 주체의 동의 없이 차용·전용한다는 비판 프레임. 중국 논란에서 핵심 쟁점이었다.
+- 라 보테(La Beauté) — 루이 비통이 2025년 8월 팻 맥그래스를 코스메틱 크리에이티브 디렉터로 앞세워 출범한 뷰티 라인. 2026년 8월 협업 컬렉션에서 모노그램 캔버스가 처음 뷰티 제품에 적용됐다.
 - 인용 처리 — 본문 발언은 모두 15단어 미만 단편으로 매체 보도에서 인용했으며, 원문 맥락은 각주 출처의 인터뷰·리뷰에 근거한다.
 - 크루즈(Cruise) — 프리폴/리조트에 해당하는 중간 시즌 컬렉션으로, 루이 비통은 이를 장소 특화 시네마틱 쇼로 연출한다.
 - LVMH 패션·가죽제품 부문 — 루이 비통·디올 등을 포함하는 LVMH 최대 사업부. 개별 브랜드 수치는 비공개이므로 부문 전체 증감률로 간접 해석한다.
@@ -98,12 +99,14 @@ Nicolas Ghesquiere has led Louis Vuitton's womenswear as Artistic Director since
 [13] Caixin Global — 루이 비통 상표 승소 후 중국 내 반발·151건 이의신청 83% 성공률 보도 — https://www.caixinglobal.com/2026-07-21/in-depth-louis-vuittons-trademark-win-sparks-backlash-in-china-102466676.html
 [14] Newsweek — 쑤저우 판결·'변기 백' 밈·문화 전유 프레임·웨이보 조회수 보도 — https://www.newsweek.com/louis-vuitton-court-win-china-backlash-12165937
 [15] Louis Vuitton — 스프링/서머 2026 쇼(2025년 9월 30일 루브르·1940년대 할리우드·제니퍼 코널리 캠페인) — https://us.louisvuitton.com/eng-us/magazine/articles/women-spring-summer-2026-show
+[16] WWD — 제스키에르×팻 맥그래스 루이 비통 최초 뷰티 협업 독점 보도·모노그램 130주년·듄/인프라루주·"자연스러운 진전"·"타협 없는 하이 콘트라스트"·출시 일정 — https://wwd.com/beauty-industry-news/color-cosmetics/pat-mcgrath-nicolas-ghesquiere-louis-vuitton-beauty-collab-1239098351/
+[17] Buro 24/7 — 협업 제품 구성(모노그램 듄/인프라루주 아이섀도·립스틱·립밤)·모노그램 캔버스 첫 뷰티 적용·130주년 맥락 — https://buro247.me/beauty/news-beauty/louis-vuitton-taps-pat-mcgrath-for-its-first-beauty-collaboration/
 
 <!-- ===== ENGLISH EDITION ===== -->
 
 # Nicolas Ghesquiere — Louis Vuitton (Artistic Director, Womenswear)
 
-2026-08-08 (updated: 2026-08-08, China Monogram controversy folded in and facts re-verified) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-13 (updated: 2026-08-13, Pat McGrath beauty collaboration folded in / 2026-08-08 China Monogram controversy) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## Table of Contents
 
@@ -117,7 +120,7 @@ Nicolas Ghesquiere has led Louis Vuitton's womenswear as Artistic Director since
 
 ## Executive Summary
 
-Nicolas Ghesquiere has led Louis Vuitton's womenswear as Artistic Director since succeeding Marc Jacobs in 2013, making his over-12-year tenure the most stable among mega-house creative seats in recent memory. His 15 years at Balenciaga (1997-2012), where he is credited with reviving a declining house, brought him to this role, and at Louis Vuitton he has contributed to the house's growth trajectory through leather-goods hits such as the Petite Malle and GO-14 and a futurist-meets-archive aesthetic.[1][5][10] Louis Vuitton became the first luxury brand to surpass 20 billion euros in annual revenue in 2022.[9] Ghesquiere had his standing reaffirmed with a five-year contract renewal in November 2023 and his seat remains unchanged as of August 2026, but a July 2026 "toilet bag" meme controversy in China newly threatened the cultural legitimacy of the Monogram/quatrefoil code that sits at the core of his creative remit.[12][13][14] Even amid the 2025 luxury downturn and double-digit decline at LVMH's fashion and leather goods division, his longevity stands as a benchmark that contrasts sharply with the reset risk facing Gucci under its newly installed Demna era.[4][7]
+Nicolas Ghesquiere has led Louis Vuitton's womenswear as Artistic Director since succeeding Marc Jacobs in 2013, making his over-12-year tenure the most stable among mega-house creative seats in recent memory. His 15 years at Balenciaga (1997-2012), where he is credited with reviving a declining house, brought him to this role, and at Louis Vuitton he has contributed to the house's growth trajectory through leather-goods hits such as the Petite Malle and GO-14 and a futurist-meets-archive aesthetic.[1][5][10] Louis Vuitton became the first luxury brand to surpass 20 billion euros in annual revenue in 2022.[9] Ghesquiere had his standing reaffirmed with a five-year contract renewal in November 2023 and his seat remains unchanged as of August 2026, but a July 2026 "toilet bag" meme controversy in China newly threatened the cultural legitimacy of the Monogram/quatrefoil code that sits at the core of his creative remit.[12][13][14] Against that backdrop, in August 2026 he teamed with Pat McGrath on the house's first-ever beauty collaboration, marking the Monogram's 130th anniversary by extending that code into eyeshadow and lipstick.[16][17] Even amid the 2025 luxury downturn and double-digit decline at LVMH's fashion and leather goods division, his longevity stands as a benchmark that contrasts sharply with the reset risk facing Gucci under its newly installed Demna era.[4][7]
 
 ## 1. Profile Overview
 
@@ -135,11 +138,13 @@ The core grammar of Ghesquiere's aesthetic is a juxtaposition of past and future
 
 In terms of staging, he is known for cinematic shows that treat location as part of the proposition. Cruise 2026 unfolded like choreography against the Gothic grandeur of the UNESCO World Heritage Palais des Papes in Avignon, while Cruise 2027 read the city from inside New York's Frick Collection, playing on the tension between uptown polish and downtown eccentricity.[6] Seasonal collections carry equally strong narratives. Fall/Winter 2026, titled "Super Nature," was built on an anthropological study of the relationship between humans and nature — a nomadic fashion fable featuring fuzzy capes, cowbells, shearling caps, and felt — unveiled March 10 on a set that erupted with a grass-covered geometric landscape in the Louvre's courtyard. Spring/Summer 2026 was shown September 30, 2025 at the Louvre, grafting 1940s Hollywood glamour onto indoor-wardrobe codes with a soft palette of pale blue, powder pink, cream, and taupe and fluid draping — read as a "new page" that broke from his sci-fi futurist codes toward softness and intimacy.[15]
 
+His aesthetic grammar extended beyond apparel and leather goods into cosmetics with the August 2026 Pat McGrath collaboration. The La Beauté Louis Vuitton line launched in August 2025 with McGrath as Creative Director of Cosmetics; this collaboration marks the first time the Monogram canvas is placed directly onto the beauty products.[16][17] The collection reinterprets the Monogram in two directions. "Monogram Dune" takes cues from a desert landscape and shifting sunlight, built on beige, nude and neutral tones as the quieter half, while "Monogram Infrarouge" is, in McGrath's words, "unapologetic, high-contrast"[16] play with blacks and reds. Each strand comprises a four-shade eyeshadow palette ("LV Ombres"), a satin lipstick ("LV Rouge"), and a topper lip balm ("LV Baume").[17] The way Ghesquiere's aesthetic treats the code itself as a transplantable graphic asset — beyond silhouette and staging — is here translated into color on the face (analyst's view).
+
 ## 4. Direction and Philosophy
 
 From the outset, Ghesquiere has defined his mission as creating a highly recognizable wardrobe and a vision of the "Vuitton woman."[8] He explains that he draws inspiration from the house's history of travel to give collections movement, embedding anachronistic elements that are functional yet sharp, like a collision of eras.[8]
 
-His self-definition regarding futurism is clear. He has said "the future is now," reframing in the present tense the conventional label of him as purely a futurist designer.[3] His view of the monogram and heritage is likewise one of openness rather than defensiveness — an attitude of reinterpreting codes known the world over through personal expression. On how he builds identity, he says he has given collections "movement," rooted in the house's travel history and expressed through anachronism that is functional yet sharp, a "collision of eras."[8] He defines the Vuitton woman as neither vintage nor futurist, but an urban woman unafraid to mix eras.[8][note] This attitude summarizes the throughline of his 12-year tenure — cumulative identity-building rather than disruptive resets. Yet the July 2026 China Monogram controversy exposed a tension between his philosophy of openly reinterpreting globally known codes and the house's strategy of legally defending those codes as exclusive property (analyst's view).
+His self-definition regarding futurism is clear. He has said "the future is now," reframing in the present tense the conventional label of him as purely a futurist designer.[3] His view of the monogram and heritage is likewise one of openness rather than defensiveness — an attitude of reinterpreting codes known the world over through personal expression. On how he builds identity, he says he has given collections "movement," rooted in the house's travel history and expressed through anachronism that is functional yet sharp, a "collision of eras."[8] He defines the Vuitton woman as neither vintage nor futurist, but an urban woman unafraid to mix eras.[8][note] This attitude summarizes the throughline of his 12-year tenure — cumulative identity-building rather than disruptive resets. His description of the beauty collaboration as "a very natural progression"[16] fits the same logic, compressing his view that extending a code into a new category is continuity, not rupture. Yet the July 2026 China Monogram controversy exposed a tension between his philosophy of openly reinterpreting globally known codes and the house's strategy of legally defending those codes as exclusive property (analyst's view).
 
 ## 5. Tenure at the Current House
 
@@ -151,6 +156,8 @@ In July 2026, a brand- and design-reputation issue erupted in China around the M
 
 Reporting (Baiguan) links the controversy to reduced foot traffic at flagship stores such as Shanghai and falling resale prices, but the specific figures sit behind a paywall and are hard to verify independently, so they are treated as unconfirmed.[12] The broader context that Chinese luxury demand was already soft in Q2 2026 is shared by multiple outlets, and the episode is read as adding to the reputational burden the house must manage amid the market slowdown.[7][12][13] While the issue originated in the IP/legal domain, its target is the Monogram code that Ghesquiere reinterprets each season, so it is not unrelated to his creative remit (analyst's view).
 
+It was against precisely this backdrop that Louis Vuitton unveiled, in August 2026, the house's first beauty collaboration co-signed by Ghesquiere and Pat McGrath.[16][17] Part of the Monogram's 130th-anniversary program, it is a limited edition for eyes and lips and the first application of the Monogram canvas to beauty products.[16][17] The rollout led with China on August 20, followed by online on August 20, stores on August 27, and worldwide on August 29.[16] Organizationally this is the first formal collaboration between the newly established La Beauté division (launched August 2025) and Ghesquiere's womenswear remit, and making China the first launch market is notable as a timing choice to re-propose the code in a new category in a key market under pressure from the Monogram controversy (analyst's view).
+
 ## 6. The Gucci Lens
 
 Louis Vuitton under Ghesquiere offers Gucci four benchmarks and warning signals.
@@ -161,7 +168,7 @@ The second is the leather-goods engine. Ghesquiere's ability to translate runway
 
 The third is contrasting vulnerability. The double-digit decline at LVMH's fashion and leather goods division in 2025[7] shows that even Ghesquiere's stability has not been enough to offset the market slowdown. For Gucci, this is simultaneously a threat and an opportunity — as aspirational consumers shift toward secondhand, wellness, and accessible brands, there is room for Demna's cultural buzz to function instead as a "reset premium."[7]
 
-The fourth is a new warning signal about balancing IP enforcement against local cultural sentiment. The "toilet bag" Monogram controversy shows how a legal IP win can flip into a reputational crisis.[12][13][14] Because Gucci likewise owns strong signature codes (the GG monogram, Flora, the Horsebit) and treats China as a core market, it must manage the risk that aggressive trademark defense could be read locally as cultural appropriation or arrogance (analyst's view). In short, Louis Vuitton represents the ceiling of stability while Gucci represents the volatility of transition, and what to watch is which strategy delivers better relative performance in the same downturn — and how strong heritage codes are reconciled with local sentiment.
+The fourth is a new warning signal about balancing IP enforcement against local cultural sentiment, and a strategic card in extending a code into new categories. The "toilet bag" Monogram controversy shows how a legal IP win can flip into a reputational crisis.[12][13][14] At the same time, the Ghesquiere x McGrath beauty collaboration reads as a move to re-propose a pressured signature code in an entry-price, high-frequency category — lipstick and eyeshadow — to offset the controversy narrative (analyst's view).[16][17] Because Gucci likewise owns strong signature codes (the GG monogram, Flora, the Horsebit), runs a separate beauty business (under a Coty license), and treats China as a core market, it must weigh both the cultural-sentiment risk of aggressive trademark defense and the opportunity of extending codes into beauty and lifestyle (analyst's view). In short, Louis Vuitton represents the ceiling of stability while Gucci represents the volatility of transition, and what to watch is which strategy delivers better relative performance in the same downturn — and how strong heritage codes are reconciled with local sentiment and extended into new categories.
 
 ## 7. Outlook
 
@@ -169,13 +176,14 @@ The fourth is a new warning signal about balancing IP enforcement against local 
 
 **Hypothesis B (unverified, narrative-fatigue risk).** The approach of building a strong conceptual narrative each season, as with "home" and "Super Nature," may collide with commercial clarity in a downturn. How future collections balance conceptual depth against wearability and product conversion is the key indicator to watch over the next 12 months.
 
-**Hypothesis C (unverified, Monogram-code legitimacy risk).** The open question is whether the China "toilet bag" meme fades as a one-off or hardens into durable cynicism toward the Monogram code that could weigh on demand in a key market. How Ghesquiere reinterprets the signature code to make it desirable again and offset this narrative is an indicator to watch in coming collections and China marketing.[12][13][14]
+**Hypothesis C (unverified, Monogram-code legitimacy risk and category extension).** The open question is whether the China "toilet bag" meme fades as a one-off or hardens into durable cynicism toward the Monogram code that could weigh on demand in a key market. With the August 2026 Pat McGrath beauty collaboration making China its first launch market and treating the Monogram's 130th anniversary as an opportunity to re-charm the code, whether this beauty extension offsets the controversy narrative and pulls in new customers at an entry price point is added as a new indicator to watch over the next 12 months.[12][13][14][16][17]
 
 ## Source Notes
 
 - Dualism — a critical term describing Ghesquiere's aesthetic, referring to his approach of juxtaposing the past (archive) and the future (futurism) within a single silhouette.
 - Quatrefoil — the four-petal flower motif that composes the Monogram canvas; the trademark element at the center of the 2026 China controversy.
 - Cultural appropriation — a critique frame alleging that elements of a culture are borrowed without the consent of the original context or rights-holders; the central issue in the China controversy.
+- La Beauté — Louis Vuitton's beauty line, launched in August 2025 with Pat McGrath as Creative Director of Cosmetics; the August 2026 collaboration marks the first application of the Monogram canvas to beauty products.
 - Quotation handling — all quoted remarks in the body are fragments under 15 words drawn from media reporting; original context is based on the interviews and reviews cited in the sourced footnotes.
 - Cruise — a mid-season collection equivalent to pre-fall/resort; Louis Vuitton stages these as location-specific cinematic shows.
 - LVMH Fashion & Leather Goods division — LVMH's largest business division, including Louis Vuitton and Dior among others. Individual brand figures are not disclosed, so division-wide growth/decline rates are used as an indirect proxy.
@@ -197,3 +205,5 @@ The fourth is a new warning signal about balancing IP enforcement against local 
 [13] Caixin Global — Backlash in China after LV trademark win, 151 oppositions with 83% success rate — https://www.caixinglobal.com/2026-07-21/in-depth-louis-vuittons-trademark-win-sparks-backlash-in-china-102466676.html
 [14] Newsweek — Suzhou ruling, "toilet bag" meme, cultural-appropriation frame, Weibo view counts — https://www.newsweek.com/louis-vuitton-court-win-china-backlash-12165937
 [15] Louis Vuitton — Spring/Summer 2026 show (September 30, 2025, Louvre, 1940s Hollywood, Jennifer Connelly campaign) — https://us.louisvuitton.com/eng-us/magazine/articles/women-spring-summer-2026-show
+[16] WWD — Exclusive on the Ghesquiere x Pat McGrath first LV beauty collaboration: Monogram 130th anniversary, Dune/Infrarouge, "a very natural progression," "unapologetic, high-contrast," rollout schedule — https://wwd.com/beauty-industry-news/color-cosmetics/pat-mcgrath-nicolas-ghesquiere-louis-vuitton-beauty-collab-1239098351/
+[17] Buro 24/7 — Collaboration product breakdown (Monogram Dune/Infrarouge eyeshadow, lipstick, lip balm), first Monogram-canvas beauty application, 130th-anniversary context — https://buro247.me/beauty/news-beauty/louis-vuitton-taps-pat-mcgrath-for-its-first-beauty-collaboration/

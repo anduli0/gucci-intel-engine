@@ -1,0 +1,56 @@
+[
+  {
+    "id": "EU-2026-08-13-001",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent T1 financial press: Q2 decline slowed to 2% vs ~3-4% consensus and analysts raised price targets, but still a 12th straight quarterly decline with recovery unconfirmed.",
+    "signal_tags": ["earnings", "analyst_commentary", "momentum"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-13-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade write-up of Demna collection stock rollout; no independent evaluative verdict, purely what/where activation coverage.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-13-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned press-feed promo copy for Flora 60th/Lady Lunetta campaign; self-praise is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-13-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "French Trustpilot stream dominated by delivery failures, unresponsive customer service, and manufacturing defect complaints, with some positive counter-examples; T3 unverified-purchaser opinion thermometer.",
+    "signal_tags": ["quality_complaint", "customer_service", "delivery"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-13-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector forum genuinely split: praise for archival print/craftsmanship offset by price-vs-quality complaints and unfavorable Loewe/Bottega Veneta comparisons; net polarity not forced given true balance.",
+    "signal_tags": ["value_for_money", "peer_comparison", "community_debate"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-08-13-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Gucci-owned X channel sustaining campaign cadence; brand-controlled marketing discounted per activation-coverage rule.",
+    "signal_tags": ["activation_coverage", "brand_owned", "sns"],
+    "confidence": 0.9
+  }
+]
