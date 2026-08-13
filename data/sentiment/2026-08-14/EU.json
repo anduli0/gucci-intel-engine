@@ -1,0 +1,92 @@
+[
+  {
+    "id": "EU-2026-08-14-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "CEO admission Gucci 'went too far' on pricing validates backlash, despite narrower Q2 decline still marking 12th straight quarterly drop.",
+    "signal_tags": ["price_backlash", "negative_earnings_momentum", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-14-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual investor-release figures on H1 results and Western Europe -7%; no evaluative framing.",
+    "signal_tags": ["earnings_data", "factual_reporting"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-14-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Store rationalisation and shrinking European retail footprint framed as structurally critical despite headline sales stabilising.",
+    "signal_tags": ["store_closures", "outlet_rationalisation", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-14-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Supply-chain/labor controversy: order cuts to Italian footwear supplier tied to layoffs, a critical local-economy angle.",
+    "signal_tags": ["labor_controversy", "supply_chain", "sustainability"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-14-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Cross-brand trade digest situating Gucci beat within tourism-driven sector context; analysts caution against reading turnaround yet.",
+    "signal_tags": ["peer_comparison", "sector_context", "cautious_analyst"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-14-006",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent market/analyst judgment: Kering shares surge 15-17% and HSBC upgrade cite Gucci's narrowing decline as real turnaround traction.",
+    "signal_tags": ["investor_reaction", "analyst_upgrade", "quantified_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-14-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Persistent Trustpilot complaints about delivery delays, denied returns and refused repairs; community T3 opinion thermometer.",
+    "signal_tags": ["quality_complaint", "after_sales", "community_review"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-14-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector forum unfavorably compares Gucci craftsmanship/pricing to Bottega Veneta and Loewe; peer-comparison trap applies, damped as fandom/collector volume.",
+    "signal_tags": ["peer_comparison", "value_for_money", "fandom_damped"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-14-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "X posts genuinely split between bullish investor takes and skeptical fashion commentary; directional volume only, not independently verifiable.",
+    "signal_tags": ["sns_volume", "mixed_sentiment", "unverified_reach"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-08-14-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Balanced trade-press analysis neither fully credits nor dismisses the turnaround narrative, cautioning results not yet fully recovered.",
+    "signal_tags": ["balanced_analysis", "trade_press"],
+    "confidence": 0.7
+  }
+]

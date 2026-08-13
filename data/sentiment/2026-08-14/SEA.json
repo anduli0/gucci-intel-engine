@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SEA-2026-08-14-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci-staged Manila FW26 preview with celebrity attendees, no independent evaluative verdict from outlet.",
+    "signal_tags": ["activation_coverage", "runway_show", "celebrity_attendance"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-14-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual business/licensing reporting on L'Oreal-Gucci beauty license within earnings coverage, no brand sentiment expressed.",
+    "signal_tags": ["licensing", "earnings", "factual_reporting"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-14-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit Gucci goods seized in Hanoi warehouse raid; mild negative brand-protection/IP issue per counterfeit trap guidance.",
+    "signal_tags": ["counterfeit", "brand_protection", "enforcement"],
+    "confidence": 0.6
+  }
+]
