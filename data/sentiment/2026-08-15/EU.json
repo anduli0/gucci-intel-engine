@@ -1,0 +1,83 @@
+[
+  {
+    "id": "EU-2026-08-15-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual financial-wire report: Gucci revenue decline narrowed and margin improved, but stock dipped on unconvinced investor sentiment -- mixed factual reporting, no clear polarity.",
+    "signal_tags": ["earnings", "investor_sentiment", "financial_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-15-002",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent Bernstein quantified score (7.6/10) frames Demna debut as 'more good than bad' and improving vs predecessor, but trailing Dior/Chanel/Loewe peer debuts tempers the positive.",
+    "signal_tags": ["analyst_verdict", "runway_review", "peer_comparison", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-15-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade critique: sales slump, AI-design backlash, and consumers trading down amid cost-of-living pressure -- clear negative framing of brand positioning.",
+    "signal_tags": ["design_criticism", "ai_backlash", "sales_pressure", "value_for_money"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-15-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-campaign write-up (Sinner partnership) with no outlet evaluative verdict -- activation coverage discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-15-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Rolling unverified-purchaser review stream skewing negative on delivery delays, denied returns, and refused repairs; treated as opinion thermometer, not scientific sample.",
+    "signal_tags": ["customer_service", "quality_complaint", "community_reviews"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-15-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector fandom debate split between excitement for Flora revival and questioning value-for-money of canvas/nylon pricing -- no clear net polarity, fandom volume damped.",
+    "signal_tags": ["fandom", "collector_community", "value_for_money"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-08-15-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Social commentary split between citing improving Bernstein score and reviving 'AI slop' criticism -- mixed directional volume, no independently verifiable net polarity.",
+    "signal_tags": ["sns_volume", "ai_backlash", "analyst_verdict"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-08-15-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent commentary videos split between calling debut bags a credible refresh and dismissing them as derivative -- mixed verdict, qualitative volume only.",
+    "signal_tags": ["design_criticism", "sns_volume", "creative_direction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-08-15-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive VP-hire/sponsorship infrastructure announcement for Gucci Racing, no evaluative verdict from outlet -- activation coverage discount applies.",
+    "signal_tags": ["activation_coverage", "sponsorship", "sports_marketing"],
+    "confidence": 0.8
+  }
+]

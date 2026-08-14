@@ -1,6 +1,6 @@
 # 나데주 바니-시부 — Hermès
 
-2026-07-15 / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-15 / CD DOSSIER / GUCCI INTELLIGENCE (dossier update — FW26 "트와일라잇" 파리 쇼·LA 벨에어 프레젠테이션 및 뉴욕→상하이→LA 순회 쇼 포맷 반영)
 
 ## 목차
 
@@ -42,6 +42,10 @@
 
 바니-시부의 12년 재임은 단계적이고 저소음의 축적으로 요약된다. 2015년 3월 승마 테마 데뷔 이래 그는 시즌마다 하우스 DNA의 "역동적 해석"을 갱신하며, 취임 당시 부속 카테고리였던 여성 기성복을 독립적 욕망의 대상으로 재구축했다[3][7]. 2024~2025년 시즌 리뷰들은 이 궤적의 성숙을 보여준다—2024년 가을은 "또 하나의 승리 랩", 2025년 봄은 "관능적", 2025년 가을은 초부유층 아이콘의 탐구로 평가됐고, 재임 10년차를 지나며 그의 테뉴어는 비평계에서 "만장일치로 상찬받은" 것으로 정리된다[5][7]. 상업적으로도 기성복·액세서리 부문의 2025년 6% 성장은 이 크리에이티브 축적이 매출 축으로 안착했음을 방증한다[6].
 
+가장 최근 시즌인 2026 가을·겨울 여성 컬렉션은 이 저소음 미학이 서사 층위에서 정교해졌음을 보여준다. 그는 파리 쇼의 영감으로 "개와 늑대 사이(entre chien et loup)"—낯익은 것이 낯설어지는 신비로운 황혼의 시간(트와일라잇)—을 끌어와, 보호·신뢰·강인함을 암시하는 워드로브를 구축했다[13]. 사이클 쇼츠를 카프스킨 카라를 덧댄 절개형 저지 재킷·바이커 드레스와 짝지어 재단 전통과 기술적 운동성을 대비시켰고[13], 가장 회자된 오브제는 "En Tenue de Paddock"("파독 복장으로")이라는 별명이 붙은, 방수 처리된 캔버스 소재의 자체 착탈식 트렌치형 커버를 씌운 켈리 백이었다[15]. 이는 "관능을 모더니즘에 들이고 싶었다"는 본인의 문장처럼 기능성과 관능을 동시에 밀어붙인 시즌이었다[13].
+
+주목할 조직·연출 변화는 그가 이 가을·겨울 컬렉션을 파리 캘린더에만 묶지 않고 도시를 옮겨 확장하는 "순회형 프레젠테이션" 포맷을 이어간 점이다. 그는 여성 기성복 컬렉션의 순회를 2024년 뉴욕에서 시작해 2025년 상하이로 이었고, 2026년 6월 4일 로스앤젤레스 벨에어에서 그 세 번째 챕터를 열었다[12]. 이 LA "챕터 투"에서 그는 파리에서 선보인 라인업을 발레·무용의 자유로움과 캘리포니아적 여유를 입혀 재해석하며, 새로운 드레스와 발레에서 착안한 실루엣을 더했다[12]. 특히 그는 이번 국면에서 "드레스"를 컬렉션의 중심 카테고리로 재구축하는 쪽으로 속도를 옮겼는데, 본인의 표현대로 "그 드레스들은 새롭다. 반드시 에르메스와 연결되는 것은 아니다"라며 하우스의 새 영역임을 인정했다[12].
+
 가장 결정적인 행보는 2026년 7월 확인된 오트 쿠튀르 진입이다. 에르메스는 2027년 봄·여름 파리 오트 쿠튀르 위크(1월 25~28일) 공식 일정에 편입되며, 발렌시아가가 그랬듯 정식 명칭을 신청하기 전 "초청 게스트"로 데뷔한다[1][2]. 이 결정의 논리는 악셀 뒤마 회장의 발언에 압축돼 있다—"우리가 오트 쿠튀르에서 관심 있는 것은 장인정신"이며, 이미 "매우 높은 수준과 놀라운 가죽 품질"을 갖췄기에 "왜 안 되겠는가"라는 것이다[2]. 프랑스·중동 언론은 이를 기회주의적 확장이 아니라 자연스러운 진화로 규정하며, 창작이 생산량에 우선하는 무대에서 하우스 장인정신을 최고 실행 수준으로 밀어붙이는 시도로 해석한다[2]. 조직적으로 이 국면은 남성 좌석 갱신과 맞물린다—37년 재임한 베로니크 니샤니앙이 2026년 1월 마지막 남성 컬렉션을 끝으로 물러나고, 2025년 발표된 그레이스 웨일스 보너가 2027년 1월 파리 남성복 위크에서 데뷔한다[11]. 즉 에르메스는 2027년 1월에 사상 첫 쿠튀르와 새 남성 CD 데뷔를 동시에 무대에 올리며, 두 개의 크리에이티브 좌석을 한 계절에 갱신하는 상징적 전환기에 진입한다.
 
 ## 6. 구찌 관점
@@ -49,6 +53,8 @@
 바니-시부는 케링·구찌와 직접 경쟁하지 않는 LVMH 밖 독립 하우스의 CD이지만, 그의 행보는 구찌에 세 가지 벤치마크·위협 포인트를 제기한다. 첫째, "완전한 메종" 경쟁의 재점화다. 에르메스의 쿠튀르 진입은 럭셔리 최상위 하우스가 가죽제품·기성복·주얼리·향수·쿠튀르를 모두 갖춘 "완전한 메종"으로 격을 증명하려는 포지셔닝 레이스를 자극한다[1][2]. 이는 뎀나가 구찌를 "쿠튀르 뿌리가 없는 슈퍼브랜드"로 규정하며 쿠튀르 없이 문화적 소유권으로 격을 방어하겠다는 전략과 정면으로 대비된다. 에르메스는 정확히 반대 논리—장인정신 증거를 쿠튀르라는 최고 무대에서 물성으로 입증하는—를 선택했고, 구찌 관점에서 이는 "쿠튀르 없는 격 방어"라는 자사 전략의 지속 가능성을 재점검하게 만드는 외부 압력이다(가설).
 
 둘째, "조용한 축적" 모델의 실증이다. 바니-시부의 12년 재임은 스타 CD의 화제성 없이도 하우스 기성복을 매출 축으로 키우고 비평적 신뢰를 복리로 쌓을 수 있음을 보여준다[5][7]. 구찌가 뎀나 체제에서 시나우바이나우·타임스스퀘어 쇼·셀럽 프론트로로 버즈를 극대화하는 스펙터클 전략을 택한 것과 정반대의 성공 경로가 바로 옆 하우스에서 작동 중이라는 사실은, 구찌 내부에 "화제와 신뢰 중 무엇이 회복을 견인하는가"라는 전략 논쟁의 살아 있는 대조군을 제공한다. 셋째, 디자이너 리스크의 구조적 분리다. 에르메스는 크리에이티브를 개인이 아니라 시스템·장인 공동체에 내장해, CD 교체가 브랜드 위기로 전이되지 않는다—2022 발렌시아가 사태와 2026 AI 캠페인 반발처럼 실행 층위의 리스크가 곧 브랜드 리스크가 되는 구찌 구조와 대비되는 조직 설계다. 구찌 관점에서 에르메스의 저소음·시스템 모델은 벤치마크할 만한 리스크 완충 구조다(가설).
+
+넷째, 지리적 쇼 확장이라는 활성화 벤치마크다. 에르메스가 여성 기성복 컬렉션을 파리 발표에 그치지 않고 뉴욕(2024)→상하이(2025)→로스앤젤레스(2026)로 옮겨 재해석하는 다도시 순회 쇼 포맷은, 최상위 헤리티지 하우스가 지리적 쇼 확장을 통해 지역 고객 관계와 언론 도달을 심화하는 방식을 보여주는 경쟁 벤치마크다[12]. 이는 구찌·케링이 파리 단일 캘린더에 의존할지, 아니면 한국 팝업이나 밀라노 디자인위크 전시 같은 자체 지역 활성화의 빈도와 격을 어떻게 설계할지를 재고하게 만드는 대조점으로, 순회 챕터가 각 도시에 로컬 색채(캘리포니아적 여유, 발레·무용 영감)를 입혀 컬렉션을 새 카테고리로 확장한 방식은 활성화 리듬을 화제성이 아니라 지역 밀착으로 전환하는 모델을 제시한다(가설).
 
 ## 7. 전망
 
@@ -61,6 +67,8 @@
 - 초청 게스트(invited/guest member): 오트 쿠튀르 위크 공식 프로그램에 정식 명칭 승인 전 초청 형태로 참여하는 지위. 발렌시아가가 동일 경로를 밟았다.
 - 완전한 메종(complete maison): 가죽제품·기성복·주얼리·향수·쿠튀르 등 럭셔리 전 카테고리를 갖춰 최상위 하우스의 격을 증명하려는 포지셔닝 개념.
 - 기성복·액세서리 부문(Ready-to-wear and Accessories): 에르메스가 남녀 기성복·벨트·코스튬 주얼리·장갑·모자·신발을 묶어 공개하는 사업 부문. 바니-시부의 여성 기성복이 여기에 속한다.
+- 순회형 프레젠테이션(traveling presentation): 파리 본 쇼 이후 같은 시즌 컬렉션을 다른 도시에서 로컬 색채를 입혀 재해석·확장하는 포맷. 바니-시부는 2024 뉴욕·2025 상하이·2026 LA로 이어갔다.
+- 개와 늑대 사이(entre chien et loup): 개와 늑대를 분간하기 어려운 황혼 무렵을 뜻하는 프랑스어 관용구. FW26 컬렉션의 "트와일라잇" 테마 원어다.
 
 ## 출처
 
@@ -75,12 +83,16 @@
 [9] Wallpaper* — 바니-시부 인터뷰, 에르메스 여성복 10년("조용한 반란"·경계 밀기) — https://www.wallpaper.com/fashion-beauty/nadege-vanhee-interview-hermes
 [10] Tatler Asia — 바니-시부 인터뷰("트렌드가 아니라 유동적·시간 초월"·"시간 자체가 결정"·품질=타임리스) — https://www.tatlerasia.com/style/fashion/sg-10-questions-with-the-queen-of-hermes
 [11] WWD — 에르메스, 그레이스 웨일스 보너 남성 크리에이티브 디렉터 임명(니샤니앙 37년 후임·2027년 1월 데뷔) — https://wwd.com/fashion-news/designer-luxury/hermes-appoints-grace-wales-bonner-new-menswear-creative-director-1238318233/
+[12] WWD — 에르메스, LA에서 드레스를 재해석하다(2026 가을 "챕터 투"·6월 4일 벨에어·뉴욕 2024→상하이 2025→LA 2026 순회·발레 영감·"드레스들은 새롭다") — https://wwd.com/fashion-news/shows-reviews/hermes-nadege-vanhee-cybulski-fall-2026-los-angeles-show-1238995948/
+[13] AnOther Magazine — 에르메스 2026 가을·겨울 리뷰(2026년 3월·"개와 늑대 사이" 트와일라잇·이끼 런웨이·바이커 드레스·"관능을 모더니즘에") — https://www.anothermag.com/fashion-beauty/17043/hermes-autumn-winter-2026-show-review-nadege-vanhee
+[14] Culted — 에르메스, 2026 가을 컬렉션을 벨에어로(품질 대 바이럴 스펙터클·가죽 소재 중심·댄스웨어·운동복 실루엣) — https://culted.com/fashion/hermes-just-took-its-fall-2026-colleciton-to-bel-air/
+[15] PurseBop — 에르메스, 켈리를 올웨더 머스트해브로 업그레이드(2026 가을·겨울 런웨이 공개·켈리 패독·캔버스+가죽 소재·착탈식 방수 커버·25~32 사이즈 색상 매치) — https://www.pursebop.com/meet-the-hermes-kelly-paddock-the-functional-new-twist-on-the-iconic-kelly-bag/
 
 <!-- ===== ENGLISH EDITION ===== -->
 
 # Nadège Vanhee-Cybulski — Hermès
 
-2026-07-15 / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-15 / CD DOSSIER / GUCCI INTELLIGENCE (dossier update — FW26 "twilight" Paris show and LA Bel Air presentation / New York→Shanghai→LA traveling-show format)
 
 ## Table of Contents
 
@@ -122,6 +134,10 @@ This language carries three strategic implications. First, the narrative of reje
 
 Vanhee-Cybulski's twelve-year tenure can be summarized as gradual, low-noise accumulation. Since her equestrian-themed debut in March 2015, she has renewed a "dynamic interpretation" of house DNA each season, rebuilding what was once an accessory category at her appointment — women's ready-to-wear — into an object of independent desire [3][7]. Seasonal reviews from 2024–2025 show the maturation of this trajectory: Fall 2024 was assessed as "another victory lap," Spring 2025 as "sensual," and Fall 2025 as an exploration of ultra-wealthy icons; passing her tenth year in the role, her tenure is summarized by critics as "universally acclaimed" [5][7]. Commercially too, the Ready-to-wear and Accessories division's 6% growth in 2025 evidences that this creative accumulation has settled into a revenue pillar [6].
 
+Her most recent season, the Fall/Winter 2026 women's collection, shows this low-noise aesthetic refined at the narrative level. She drew on "entre chien et loup" — the mysterious twilight hour when the familiar turns strange — as the inspiration for the Paris show, building a wardrobe that suggests protection, reliability, and strength [13]. She paired cycling shorts with a sliced-out elastic jersey jacket with a calfskin collar and biker dresses, contrasting sartorial tradition with technical athleticism [13], and the most talked-about object was a Kelly bag fitted with its own removable, water-repellent canvas trench-style cover nicknamed "En Tenue de Paddock" ("in paddock dress") [15]. As she put it, she "wanted to bring a sensuality to modernism," and the season pushed function and sensuality at once [13].
+
+A notable organizational and staging shift is that she did not confine this Fall/Winter collection to the Paris calendar but continued a "traveling presentation" format that moves the same-season collection to another city and reinterprets it there. She launched the traveling format for her women's ready-to-wear in New York in 2024, continued it in Shanghai in 2025, and opened its third installment in Bel Air, Los Angeles, on June 4, 2026 [12]. In this LA "Chapter Two," she reinterpreted the lineup first shown in Paris through the freedom of ballet and dance and the ease of California, adding new dresses and ballet-inspired silhouettes [12]. Notably, she shifted pace in this phase toward rebuilding "the dress" as a central category of the collection, acknowledging it as new terrain for the house: "The dresses are new. I think it's not necessarily something associated with Hermès" [12].
+
 The most decisive move is the entry into haute couture confirmed in July 2026. Hermès will join the official Paris Haute Couture Week Spring/Summer 2027 calendar (January 25–28), debuting as an "invited guest" before applying for formal designation, as Balenciaga once did [1][2]. The logic behind this decision is compressed in the words of Chairman Axel Dumas — "what interests us in haute couture is craftsmanship," and given Hermès already possesses "a very high level and exceptional leather quality," his stance is "why not" [2]. French and Middle Eastern press frame this not as opportunistic expansion but as a natural evolution — an attempt to push house craftsmanship to its highest level of execution on a stage where creation takes precedence over volume [2]. Organizationally, this phase coincides with a renewal of the menswear seat: Véronique Nichanian, after 37 years in the role, stepped down following her final menswear collection in January 2026, and Grace Wales Bonner, announced in 2025, will debut at Paris Menswear Week in January 2027 [11]. In other words, Hermès will stage its first-ever couture collection and a new menswear CD's debut on the same calendar in January 2027 — a symbolic transition in which two creative seats are renewed in a single season.
 
 ## 6. Gucci Perspective
@@ -129,6 +145,8 @@ The most decisive move is the entry into haute couture confirmed in July 2026. H
 Vanhee-Cybulski is the CD of an independent house outside LVMH that does not compete directly with Kering or Gucci, but her trajectory raises three benchmark-and-threat points for Gucci. First is the reignition of "complete maison" competition. Hermès' entry into couture stimulates a positioning race in which top-tier luxury houses seek to prove their standing by possessing the full range — leather goods, ready-to-wear, jewelry, fragrance, and couture — all at once [1][2]. This stands in direct contrast to Demna's framing of Gucci as a "superbrand with no couture roots," a strategy of defending standing through cultural ownership rather than couture. Hermès has chosen exactly the opposite logic — proving craftsmanship materially on the highest stage of couture — and from Gucci's perspective this is external pressure to re-examine the sustainability of its own strategy of "defending standing without couture" (hypothesis).
 
 Second is empirical proof of the "quiet accumulation" model. Vanhee-Cybulski's twelve-year tenure demonstrates that a house's ready-to-wear can be grown into a revenue pillar and critical trust can be compounded without the buzz of a star CD [5][7]. The fact that a success path directly opposite to Gucci's spectacle strategy under Demna — maximizing buzz through See Now Buy Now, the Times Square show, and celebrity front rows — is working right next door provides Gucci with a live control group for the internal strategic debate over "whether buzz or trust drives recovery." Third is the structural separation of designer risk. Hermès embeds creativity in a system and an artisan community rather than an individual, so that a change of CD does not transfer into brand crisis — an organizational design that contrasts with Gucci's structure, where execution-layer risks, as with the 2022 Balenciaga incident and the 2026 AI-campaign backlash, become brand risk. From Gucci's perspective, Hermès' low-noise, systemic model is a risk-buffering structure worth benchmarking (hypothesis).
+
+Fourth is an activation benchmark in the form of geographic show expansion. Hermès' multi-city traveling-show format — not stopping at a Paris presentation but moving and reinterpreting the women's ready-to-wear collection across New York (2024), Shanghai (2025), and Los Angeles (2026) — is a competitive benchmark for how a top-tier heritage house uses geographic show expansion to deepen regional client relationships and press reach [12]. This offers a counterpoint that should make Gucci and Kering reconsider whether to lean on a single Paris calendar or how to design the frequency and stature of their own regional activations, such as a Korea pop-up or a Milan Design Week exhibition; the way each traveling chapter overlays local color (California ease, ballet and dance inspiration) to extend the collection into a new category presents a model that shifts activation rhythm from buzz toward regional intimacy (hypothesis).
 
 ## 7. Outlook
 
@@ -141,6 +159,8 @@ The top watch points over the next twelve months are three. First, the execution
 - Invited/guest member: a status allowing participation in the official Haute Couture Week program before formal designation is approved. Balenciaga followed the same path.
 - Complete maison: a positioning concept in which a house covers the full range of luxury categories — leather goods, ready-to-wear, jewelry, fragrance, couture — to prove top-tier standing.
 - Ready-to-wear and Accessories division: the Hermès business segment that bundles men's and women's ready-to-wear, belts, costume jewelry, gloves, hats, and shoes. Vanhee-Cybulski's women's ready-to-wear sits within this division.
+- Traveling presentation: a format that, after the main Paris show, reinterprets and extends the same-season collection in another city with local color. Vanhee-Cybulski carried it from New York (2024) to Shanghai (2025) to Los Angeles (2026).
+- Entre chien et loup: a French idiom for the twilight hour when one cannot tell a dog from a wolf. It is the original phrasing of the FW26 collection's "twilight" theme.
 
 ## Sources
 
@@ -155,3 +175,7 @@ The top watch points over the next twelve months are three. First, the execution
 [9] Wallpaper* — Vanhee-Cybulski interview, a decade of Hermès womenswear ("quiet rebellion," pushing boundaries) — https://www.wallpaper.com/fashion-beauty/nadege-vanhee-interview-hermes
 [10] Tatler Asia — Vanhee-Cybulski interview ("not trends but fluid, timeless," "let time itself decide," quality equals timelessness) — https://www.tatlerasia.com/style/fashion/sg-10-questions-with-the-queen-of-hermes
 [11] WWD — Hermès appoints Grace Wales Bonner menswear creative director (succeeding Nichanian's 37-year tenure, January 2027 debut) — https://wwd.com/fashion-news/designer-luxury/hermes-appoints-grace-wales-bonner-new-menswear-creative-director-1238318233/
+[12] WWD — At Hermès, Nadège Vanhée reimagines the dress in Los Angeles (Fall 2026 "Chapter Two," June 4 Bel Air, New York 2024→Shanghai 2025→LA 2026 traveling format, ballet inspiration, "The dresses are new") — https://wwd.com/fashion-news/shows-reviews/hermes-nadege-vanhee-cybulski-fall-2026-los-angeles-show-1238995948/
+[13] AnOther Magazine — Hermès Autumn/Winter 2026 review (March 2026, "entre chien et loup" twilight, moss runway, biker dresses, "sensuality to modernism") — https://www.anothermag.com/fashion-beauty/17043/hermes-autumn-winter-2026-show-review-nadege-vanhee
+[14] Culted — Hermès takes its Fall 2026 collection to Bel Air (quality over viral spectacle, leather-centric, dancewear and athletic silhouettes) — https://culted.com/fashion/hermes-just-took-its-fall-2026-colleciton-to-bel-air/
+[15] PurseBop — Hermès upgrades the Kelly into an all-weather must-have (unveiled at the Fall/Winter 2026 runway, Kelly Paddock, canvas with leather accents, removable water-repellent cover, color-matched across sizes 25–32) — https://www.pursebop.com/meet-the-hermes-kelly-paddock-the-functional-new-twist-on-the-iconic-kelly-bag/
