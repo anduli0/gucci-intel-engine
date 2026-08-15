@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-08-16-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-Gucci seizure/prosecution is brand-dilution controversy, not evaluative of authentic product but harms brand image.",
+    "signal_tags": ["counterfeit", "legal_enforcement", "brand_dilution"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-16-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Second counterfeit-Gucci prosecution story this week; mild negative via association with fake-goods ecosystem, not core brand attack.",
+    "signal_tags": ["counterfeit", "legal_enforcement", "brand_dilution"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-16-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci-staged Manila celebrity preview event with no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage", "celebrity_event", "fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-16-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Investor commentary balances improving Kering group trend against explicitly unconfirmed Gucci recovery and weak traffic/China sales; hedged, neither clearly positive nor negative.",
+    "signal_tags": ["earnings", "analyst_commentary", "china_weakness"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-08-16-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official T1 factual results reporting: Gucci Q2 sales still down 2% though beating expectations; balanced factual disclosure, not independent evaluative judgment.",
+    "signal_tags": ["earnings", "official_release", "regional_performance"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-16-006",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent third-party TikTok creator praises Paparazzo bag as underrated and better in person; genuine organic product praise, single post with no visible engagement scale.",
+    "signal_tags": ["product_praise", "sns", "purchase_intent", "leather_goods"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-16-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Reader-opinion piece criticizes the counterfeit-Gucci purchasing ecosystem/ethics, explicitly distinguished from judgment of the authentic brand itself.",
+    "signal_tags": ["counterfeit", "public_opinion", "community"],
+    "confidence": 0.55
+  }
+]

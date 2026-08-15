@@ -1,0 +1,65 @@
+[
+  {
+    "id": "EU-2026-08-16-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual earnings-wire reporting framing Kering stability as dependent on jewelry/eyewear rather than Gucci itself; no clear brand verdict.",
+    "signal_tags": ["earnings", "financial_press", "momentum"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-16-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Companion wire piece restating narrowed decline but noting market patience is 'borrowed' from other divisions; cautious factual framing, not a clear polarity.",
+    "signal_tags": ["earnings", "financial_press", "momentum"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-16-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Stock dipped despite improved margins; explicitly frames investors as 'still cautious' and 'not yet fully convinced' turnaround is durable.",
+    "signal_tags": ["earnings", "investor_skepticism", "momentum"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-16-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analysis frames price cuts as reputationally risky 'supermarket-style' competition atypical for an exclusivity-built house -- value/brand-dilution backlash narrative.",
+    "signal_tags": ["price_strategy", "brand_dilution", "value_for_money"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-16-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Background item on ReconKering plan; stock fell on announcement reflecting investor skepticism that 'buzz precedes concrete sales figures'; outside freshness window, muted magnitude.",
+    "signal_tags": ["restructuring", "investor_skepticism", "background"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-08-16-007",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Quantified analyst upgrade (HSBC Buy, +14% rally) reflecting independent positive judgment on turnaround signals, though Bernstein stays cautious and item is outside freshness window (background continuity).",
+    "signal_tags": ["earnings", "analyst_upgrade", "momentum", "background"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-16-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Corroborating coverage of same rally but highlights Equita's skeptical Hold rating alongside the jump -- mixed analyst views, no net clear verdict.",
+    "signal_tags": ["earnings", "analyst_view", "background"],
+    "confidence": 0.55
+  }
+]

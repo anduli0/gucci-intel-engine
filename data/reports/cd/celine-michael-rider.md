@@ -1,6 +1,6 @@
 # 마이클 라이더 — Celine
 
-2026-07-16 (업데이트 2026-07-16) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-16 (업데이트 2026-08-16 — 슬리만 유산 마찰·H1 상업 신호·트리옹프 재해석 반영) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## 목차
 
@@ -14,7 +14,7 @@
 
 ## 핵심 요약
 
-마이클 라이더는 2024년 10월 2일 셀린의 아티스틱 디렉터로 임명돼 2025년 초 합류했고, 7년간 하우스를 이끈 에디 슬리만의 뒤를 이었다.[1][2] 브라운대에서 교육학을 전공하고 교사로 출발한 이례적 이력의 미국 디자이너로, 발렌시아가에서 니콜라 제스키에르 밑에서 실무를 익힌 뒤 2008~2017년 셀린에서 피비 파일로의 디자인 디렉터로 하우스의 '올드 셀린' 미니멀리즘 전성기를 함께 만들었고, 이후 폴로 랄프 로렌 여성복 크리에이티브 디렉터를 거쳐 셀린으로 돌아왔다.[3][4] 2025년 7월 6일 파리 리부티엔가 16번지에서 남녀 72룩으로 공개한 데뷔 컬렉션은 슬리만의 록·모노크롬 코드를 걷어내고 파일로기 절제와 프레피·프렌치 시크를 재해석하며 압도적 호평을 받았고,[6][7] 라이더는 아이러니 없는 자신감과 직관 중심의 태도를 표방하며 조용한 럭셔리 계열로 셀린을 재정렬하고 있다.[8] 이는 뎀나의 구찌가 추구하는 볼륨·서브컬처 노선과 대척점에 서는 LVMH발 헤리티지 미니멀리즘의 재부상으로, 구찌의 상류·성숙 고객층과 정면으로 겹친다.
+마이클 라이더는 2024년 10월 2일 셀린의 아티스틱 디렉터로 임명돼 2025년 초 합류했고, 7년간 하우스를 이끈 에디 슬리만의 뒤를 이었다.[1][2] 브라운대에서 교육학을 전공하고 교사로 출발한 이례적 이력의 미국 디자이너로, 발렌시아가에서 니콜라 제스키에르 밑에서 실무를 익힌 뒤 2008~2017년 셀린에서 피비 파일로의 디자인 디렉터로 하우스의 '올드 셀린' 미니멀리즘 전성기를 함께 만들었고, 이후 폴로 랄프 로렌 여성복 크리에이티브 디렉터를 거쳐 셀린으로 돌아왔다.[3][4] 2025년 7월 6일 파리 리부티엔가 16번지에서 남녀 72룩으로 공개한 데뷔 컬렉션은 슬리만의 록·모노크롬 코드를 걷어내고 파일로기 절제와 프레피·프렌치 시크를 재해석하며 압도적 호평을 받았고,[6][7] 라이더는 아이러니 없는 자신감과 직관 중심의 태도를 표방하며 조용한 럭셔리 계열로 셀린을 재정렬하고 있다.[8] 이는 뎀나의 구찌가 추구하는 볼륨·서브컬처 노선과 대척점에 서는 LVMH발 헤리티지 미니멀리즘의 재부상으로, 구찌의 상류·성숙 고객층과 정면으로 겹친다. 2026년 상반기 실적 코멘트에서 LVMH 경영진은 셀린이 소프트 트리옹프 등 신제품과 라이더 컬렉션에 힘입어 순차적으로 개선되고 있다며 펜디와 함께 진전을 자신했으나, LVMH는 셀린 매출을 별도 공시하지 않아 상업 회복의 절대 규모는 여전히 외부에서 확정할 수 없다.[11] 여기에 전임 슬리만이 자신의 시각 유산을 답습하지 말라며 공개적으로 경계를 표한 승계 마찰까지 겹치며 라이더 초기 국면의 변수가 드러나기 시작했다.[10]
 
 ## 1. 프로필 개요
 
@@ -34,6 +34,8 @@
 
 액세서리에서는 스마일 형태로 곡선 처리된 지퍼의 러기지 토트 재해석과 절충적·아나키한 주얼리가 데뷔의 시각적 훅이 됐다.[6] 두 번째 시즌(2026년 초 겨울 컬렉션)에서는 어법이 더 또렷해졌다. 하이칼라, 긴 플라운스 소매의 트럼펫 미니드레스, 허리에서 높게 플레어되는 블레이저와 크롭트 킥플레어 팬츠, 와이드림 볼러 햇, 미스매치 스테이트먼트 이어링, 조각적 레더 스카프가 그의 코드로 자리 잡기 시작했다.[8] 레오파드·페더·자수 플로럴과 크로커다일 엘보 패치 카디건, 시클라멘 핑크·립스틱 레드의 컬러 블로킹처럼 미니멀 정련과 맥시멀 장식을 오가며 단일 실루엣을 거부하는 방향을 보였다.[9] 각 룩이 개별 피스로 쉽게 분해돼 믹스매치되도록 머천다이징된 점 — 즉 규칙이 아닌 제안으로서의 스타일링 — 도 그의 상업 감각을 드러낸다.[8]
 
+라이더의 헤리티지 백 재해석 전략은 스마일 지퍼 러기지 하나에 그치지 않고 하나의 패턴으로 확장되고 있다. 2026년 봄·여름을 지나 여름까지 셀린은 파일로기 아이콘인 트리옹프 백을 라이더식으로 다시 손봤다. 부드러운 램스킨의 소프트 트리옹프 베사스, 슬라우치한 소재에 프레임을 결합한 스몰 트리옹프 프레임, 축소된 엠블럼과 에나멜 하드웨어 변주가 대표적으로, 로고를 속삭이듯 눌러 표현하는 어법을 통해 트리옹프를 러기지에 이은 두 번째 파일로기 아이콘으로 재정비했다.[12] 즉 라이더는 단일 재해석 사례가 아니라 복수의 헤리티지 아이콘을 순차적으로 자신의 문법으로 갈아끼우는 방식으로 셀린의 백 프랜차이즈를 재구성하고 있다.
+
 ## 4. 지향점과 철학
 
 라이더의 철학은 몇 개의 짧은 문장으로 선명하다. 그는 헤리티지를 짐이 아니라 비옥한 토양으로 본다 — "그것을 짐으로 보지 않는다"고 그는 말한다.[7] 아카이브와 유산의 무게를 부담으로 여기는 다수 디자이너와 달리, 그는 연속성이라는 발상 자체를 좋아한다고 밝힌다.[7] 디자인의 목적에 대해서는 오래 살아남는 옷이라는 발상을 늘 사랑해왔다고 말하며, 과거·현재·미래를 담아내면서 실용성과 판타지를 결합하는 옷을 지향한다고 설명한다.[6][7] 데뷔 서사는 기억·유용함·판타지라는 삼각 구도로 요약된다.[6]
@@ -46,7 +48,9 @@
 
 두 번째 런웨이는 2026년 초(3월 초) 파리 좌안 앵스티튀 드 프랑스에서 겨울 2026 컬렉션으로 열렸고, 트레이시 엘리스 로스·세라 폴슨·나타샤 리온 등이 참석했다.[8][9] 비평가 알렉산더 퓨리는 라이더가 열망을 자아내는 이미지와 입을 수 있는 디테일로 강렬한 갈망을 불러일으켰다고 평했다.[9] 두 시즌 만에 하이칼라·트럼펫 실루엣·조각적 액세서리 등 '라이더 셀린'의 고유 코드가 반복 가능한 하우스 문법으로 자리 잡기 시작했다는 점이 소포모어 무대의 성과로 읽힌다(가설).
 
-상업 측면에서 라이더의 성과를 판별하기에는 아직 이르다. LVMH는 셀린의 개별 매출을 별도 공시하지 않으며(패션·가죽 부문에 합산), 그가 물려받은 브랜드 규모는 슬리만기 말 연 25억 유로 안팎으로 보도됐다.[5] 셀린이 슬리만 이탈과 라이더 데뷔를 거치며 이 규모를 방어·회복하는지는 향후 LVMH 부문 실적 코멘트에서 간접적으로 확인될 것이다(가설·미확인).
+전임자와의 유산 마찰도 라이더 초기 국면의 변수로 부상했다. 라이더의 첫 캠페인(조에 거트너 촬영, 뉴 러기지 라인 중심)이 공개되자, 슬리만은 2025년 9월 6일 인스타그램 스토리에 긴 글을 올려 셀린이 자신의 사진 스타일·광고 캠페인·필름을 답습·차용·인용하지 말고 독자적이고 자율적인 시각 문법으로 새 장을 열어야 한다는 취지의 경계를 공개적으로 표했다.[10] 슬리만의 시각 문법이 셀린을 오래 각인해온 반면 라이더는 근래의 브랜드 어휘를 어느 정도 이어받아야 하는 현실에 놓여 있다. 그가 '전임 유산의 잔영'과 '독자 언어' 사이에서 아슬아슬하게 줄타기하고 있음을 보여주는 승계 마찰 신호다(가설).
+
+상업 측면에서는 처음으로 간접 신호가 잡혔다. LVMH는 여전히 셀린의 개별 매출을 별도 공시하지 않지만(패션·가죽 부문에 합산), 2026년 상반기 실적 콜에서 경영진은 셀린이 2025년 하반기·2026년 1분기 대비 순차적으로 개선됐다고 밝혔다.[11] 재무 책임자는 소프트 트리옹프 등 소프트 백 혁신과 슈즈·레디투웨어가 잘 팔리고 있다고 언급했고, 셀린과 펜디 두 브랜드가 계속 진전할 것으로 자신한다고 밝혀 방향성 자체를 우호적으로 평가했다.[11] 다만 경영진은 부문 평균 대비 셀린의 상대 위치를 별도로 명시하지 않았고 개별 매출도 비공개인 만큼, 비평 호평이 실제 매출 규모의 회복으로 얼마나 전환됐는지는 외부에서 확정할 수 없다(미확인). 이 상업 전환의 검증 여부가 라이더 재정렬의 첫 시험대가 되고 있다(가설). 그가 물려받은 브랜드 규모는 슬리만기 말 연 25억 유로 안팎으로 보도됐다.[5]
 
 ## 6. 구찌 관점
 
@@ -56,11 +60,11 @@
 
 둘째, 서사 전략의 대조. 라이더는 직관 중심·콘셉트 거부·아이러니 없는 자신감이라는 반(反)개념적 언어로 데뷔부터 강한 비평 호평을 확보했다.[8][6] 이는 뎀나가 개념·아이러니·문화적 도발로 화제를 만드는 방식과 정반대로, 럭셔리 담론에서 '조용함'도 강력한 화제 화력이 될 수 있음을 재확인시킨다. 구찌 마케팅 팀에는, 뎀나 노선의 화제성이 성숙 고객에게 피로를 유발할 경우 셀린식 '진정성·연속성' 서사가 대안적 준거점으로 부상할 수 있다는 경계 신호다(가설).
 
-셋째, LVMH의 포트폴리오 함의. 셀린은 슬리만기에 이미 LVMH 3위 패션 하우스로 성장한 검증된 캐시카우이며,[5] 라이더가 이를 조용한 럭셔리로 재정렬해 안정적 고마진 성장을 재현한다면, 구찌 반등 베팅과 대비되는 'LVMH의 방어적 성장 자산'이 된다. 구찌가 뎀나 데뷔의 상업 전환을 증명해야 하는 시점에, 셀린의 순조로운 크리에이티브 전환은 케링 대 LVMH의 상대적 서사 경쟁에서 구찌에 압박을 더한다(가설). 벤치마크 포인트로는, 라이더가 라이브 런웨이 복원·72룩 대규모 데뷔·전 시대 코드 통합으로 '단절 없는 전환'을 연출한 방식이 — 전임자를 부정하지 않고 흡수하는 화법이 — 하우스 전환기의 리스크 관리 모델로 참고할 만하다.
+셋째, LVMH의 포트폴리오 함의와 유산 관리의 교훈. 셀린은 슬리만기에 이미 LVMH 3위 패션 하우스로 성장한 검증된 캐시카우이며,[5] 라이더가 이를 조용한 럭셔리로 재정렬해 안정적 고마진 성장을 재현한다면, 구찌 반등 베팅과 대비되는 'LVMH의 방어적 성장 자산'이 된다. 다만 LVMH가 셀린의 순차 개선을 '진행형 회복'으로 규정하면서도 매출 규모나 부문 대비 상대 순위를 공개하지 않은 점은,[11] 크리에이티브 전환의 순조로움이 곧바로 확정적 상업 회복으로 이어졌다고 단언할 수 없음을 보여주는 대목으로, 뎀나 구찌의 상업 전환을 압박하는 동시에 '전환에는 시차가 따른다'는 위안도 제공한다. 벤치마크 포인트로는, 라이더가 라이브 런웨이 복원·72룩 대규모 데뷔·전 시대 코드 통합으로 '단절 없는 전환'을 연출한 방식이 — 전임자를 부정하지 않고 흡수하는 화법이 — 하우스 전환기의 리스크 관리 모델로 참고할 만하다. 특히 슬리만이 자신의 시각 유산을 답습하지 말라고 공개 경계한 승계 마찰은,[10] 구찌가 톰 포드·알레산드로 미켈레의 강한 아카이브를 어떻게 계승·차별화할지에 대해 직접적 시사점을 준다. 전임자의 코드를 흡수할수록 정체성 마찰과 '표절 논란' 리스크가 커지므로, 유산 활용과 독자 언어 확립 사이의 균형은 구찌 내부 전략에서도 선제적으로 설계돼야 할 과제다(가설).
 
 ## 7. 전망
 
-향후 12개월 관전 포인트는 다음과 같다. 첫째(가설), 상업 전환 검증 — LVMH가 셀린 매출을 별도 공시하지 않으므로, 부문 실적 코멘트·경영진 발언에서 셀린이 슬리만기 규모(연 25억 유로 안팎)를 방어·회복하는지가 라이더 상업력의 간접 판별선이다.[5] 둘째, 잇백 창출 — 스마일 지퍼 러기지 재해석이 실제 상업 아이코닉으로 안착하는지, 그리고 라이더 고유의 새 핸드백 프랜차이즈가 등장하는지가 크리에이티브의 상업적 증거가 된다(가설). 셋째, 코드 정착 — 세 번째·네 번째 컬렉션에서 하이칼라·트럼펫 실루엣·프레피 어법이 반복 가능한 하우스 코드로 굳는지 여부. 넷째(가설), 조용한 럭셔리 세그먼트의 밀도 — 셀린·보테가·에르메스가 헤리티지 미니멀리즘 축을 강화할수록, 뎀나 구찌의 맥시멀·서브컬처 포지셔닝이 '차별화'로 작동하는지 아니면 '고립'으로 작동하는지가 이 세그먼트 경쟁 강도에 따라 갈린다.
+향후 12개월 관전 포인트는 다음과 같다. 첫째(가설), 상업 전환 검증 — LVMH가 셀린 매출을 별도 공시하지 않으므로, 부문 실적 코멘트·경영진 발언이 라이더 상업력의 간접 판별선이다. 2026년 상반기 콜에서 순차 개선·경영진 자신감이라는 우호적 신호가 나온 만큼,[11] 하반기·연간 코멘트에서 이 개선세가 이어져 소프트 백·슈즈·레디투웨어의 판매 호조가 매출 반등으로 굳는지, 그리고 슬리만기 규모(연 25억 유로 안팎) 방어·회복 여부가 최종 준거다.[5] 둘째, 잇백 창출과 헤리티지 아이콘 재해석 — 스마일 지퍼 러기지에 이어 소프트·프레임·에나멜 트리옹프까지 복수의 파일로기 아이콘을 라이더식으로 갈아끼우는 전략이[12] 실제 상업 아이코닉으로 안착하는지, 그리고 라이더 고유의 완전한 신규 핸드백 프랜차이즈가 등장하는지가 크리에이티브의 상업적 증거가 된다(가설). 셋째, 코드 정착과 유산 마찰 관리 — 세 번째·네 번째 컬렉션에서 하이칼라·트럼펫 실루엣·프레피 어법이 반복 가능한 하우스 코드로 굳는지, 그리고 슬리만의 공개 경계[10] 이후 라이더가 '전임 잔영'에서 벗어나 독자 시각 언어를 확립하는지가 관전 포인트다. 넷째(가설), 조용한 럭셔리 세그먼트의 밀도 — 셀린·보테가·에르메스가 헤리티지 미니멀리즘 축을 강화할수록, 뎀나 구찌의 맥시멀·서브컬처 포지셔닝이 '차별화'로 작동하는지 아니면 '고립'으로 작동하는지가 이 세그먼트 경쟁 강도에 따라 갈린다.
 
 ## 주석
 
@@ -68,6 +72,8 @@
 - 아티스틱 디렉터(artistic director): 셀린에서 여성복·남성복·가죽·액세서리·쿠튀르 전 컬렉션을 총괄하는 최고 크리에이티브 직책. 하우스별로 '크리에이티브 디렉터'와 동급으로 쓰인다.
 - 파일로기 '올드 셀린'(Old Celine): 2008~2018년 피비 파일로가 이끈 셀린의 미니멀리즘 전성기를 가리키는 통칭. 로고 없는 절제와 지성적 여성성으로 2010년대 조용한 럭셔리 담론의 원형이 됐다.
 - 조용한 럭셔리(quiet luxury): 로고·과시를 배제하고 소재·재단·헤리티지로 가치를 전달하는 럭셔리 노선. 셀린·보테가 베네타·에르메스가 대표 사례로 거론된다.
+- 트리옹프(Triomphe): 셀린의 시그니처 로고이자 그 로고를 하드웨어로 쓴 백 라인. 파일로기부터 이어진 헤리티지 모티프다.
+- 순차 개선(sequential improvement, H1 2026): LVMH 경영진이 셀린이 직전 반기·분기 대비 나아졌다고 밝힌 상대적·방향적 코멘트. 개별 매출 수치나 부문 대비 상대 순위는 비공개다.
 - 귀속 불가: 브랜드 전체·모기업 단위 수치가 개인 디자이너 성과로 분리·귀속될 수 없음을 뜻함.
 
 ## 출처
@@ -81,12 +87,15 @@
 [7] The Impression — 라이더 인터뷰: 짐으로 보지 않는다는 발언·연속성·진짜 옷·헤리티지 관점 — https://theimpression.com/michael-rider-finds-the-future-in-the-courtyard-at-celine/
 [8] W Magazine — 셀린 겨울 2026 리뷰: 앵스티튀 드 프랑스·전략보다 직관·콘셉트 거부·실루엣/액세서리·머천다이징·참석자 — https://www.wmagazine.com/fashion/celine-fall-winter-2026-michael-rider-runway-photos
 [9] AnOther — 셀린 AW26 리뷰(2026년 3월 초): 콘셉트 거부·소재/컬러·알렉산더 퓨리의 강렬한 갈망 평 — https://www.anothermag.com/fashion-beauty/17045/celine-autumn-winter-2026-review-michael-rider
+[10] FashionUnited — 슬리만의 2025-09-06 인스타그램 스토리: 셀린이 자신의 사진 스타일·광고 캠페인·필름을 답습·차용·인용하지 말고 독자적 시각 문법으로 새 장을 열라는 공개 경계 — https://fashionunited.com/news/people/hedi-slimane-invites-celine-to-turn-the-page-in-an-instagram-story/2025090868117
+[11] Investing.com (LVMH H1 2026 실적 콜 트랜스크립트) — 셀린이 2025년 하반기·2026년 1분기 대비 순차 개선, 소프트 트리옹프 등 소프트 백/슈즈/RTW 호조, 셀린·펜디 진전 자신; 개별 매출·부문 대비 상대 순위는 비공개 — https://www.investing.com/news/transcripts/earnings-call-transcript-lvmh-posts-solid-h1-2026-growth-as-margins-hold-firm-93CH-4814843
+[12] PurseBlog — 라이더의 트리옹프 백 재해석: 소프트 트리옹프 베사스·스몰 트리옹프 프레임·에나멜 하드웨어·축소 엠블럼, 러기지에 이은 두 번째 파일로기 아이콘화(2026-08-01) — https://www.purseblog.com/celine/michael-rider-just-put-a-bold-spin-on-celines-classic-triomphe-bag/
 
 <!-- ===== ENGLISH EDITION ===== -->
 
 # Michael Rider — Celine
 
-2026-07-16 (updated 2026-07-16) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-16 (updated 2026-08-16 — adds Slimane legacy friction, H1 commercial signal, Triomphe rework) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## Table of Contents
 
@@ -100,7 +109,7 @@
 
 ## Executive Summary
 
-Michael Rider was appointed artistic director of LVMH-owned Celine on October 2, 2024, taking up the role in early 2025 and succeeding Hedi Slimane, who led the house for seven years.[1][2] An American designer with an unusual path — he studied education at Brown and began his career as a teacher — Rider trained under Nicolas Ghesquière at Balenciaga, then spent roughly 2008–2017 as design director at Celine under Phoebe Philo, helping build the minimalist "Old Celine" golden era, before six years leading womenswear at Polo Ralph Lauren and his return to Celine.[3][4] His debut collection, shown July 6, 2025, at 16 rue Vivienne in Paris across 72 men's and women's looks, stripped away Slimane's rock/monochrome codes and reinterpreted Philo-era restraint with a preppy French-chic sensibility, drawing overwhelmingly positive reviews.[6][7] Rider frames Celine around confidence without irony and an intuition-led approach, repositioning the house within the quiet-luxury, heritage-minimalist register.[8] This marks an LVMH-side resurgence of heritage minimalism that stands opposite Demna's volume- and subculture-driven Gucci and directly overlaps with Gucci's mature, high-loyalty customer base. Because Slimane had already grown Celine to roughly 2.5 billion euros as LVMH's third-largest fashion house,[5] a smooth creative transition under Rider adds competitive pressure on Gucci as it must still prove Demna's commercial conversion (hypothesis).
+Michael Rider was appointed artistic director of LVMH-owned Celine on October 2, 2024, taking up the role in early 2025 and succeeding Hedi Slimane, who led the house for seven years.[1][2] An American designer with an unusual path — he studied education at Brown and began his career as a teacher — Rider trained under Nicolas Ghesquière at Balenciaga, then spent roughly 2008–2017 as design director at Celine under Phoebe Philo, helping build the minimalist "Old Celine" golden era, before six years leading womenswear at Polo Ralph Lauren and his return to Celine.[3][4] His debut collection, shown July 6, 2025, at 16 rue Vivienne in Paris across 72 men's and women's looks, stripped away Slimane's rock/monochrome codes and reinterpreted Philo-era restraint with a preppy French-chic sensibility, drawing overwhelmingly positive reviews.[6][7] Rider frames Celine around confidence without irony and an intuition-led approach, repositioning the house within the quiet-luxury, heritage-minimalist register.[8] This marks an LVMH-side resurgence of heritage minimalism that stands opposite Demna's volume- and subculture-driven Gucci and directly overlaps with Gucci's mature, high-loyalty customer base. On the H1 2026 earnings call, LVMH management said Celine was improving sequentially, helped by new products such as the Soft Triomphe and by Rider's collection, and expressed confidence in progress at Celine and Fendi — but because LVMH does not disclose Celine's revenue separately, the absolute scale of any commercial recovery cannot be verified externally.[11] Adding to this, predecessor Slimane publicly warned the house not to echo his visual legacy, a succession-friction signal that begins to expose the variables of Rider's early phase.[10]
 
 ## 1. Profile Overview
 
@@ -120,6 +129,8 @@ Rider's signature distills into a single proposition: making strong fashion out 
 
 In accessories, a Luggage tote reworked with a smile-shaped curved zip and eclectic, anarchic jewelry became the debut's visual hooks.[6] By his second season (Winter 2026), the vocabulary sharpened: high collars, trumpet minidresses with long flounce sleeves, blazers flaring high at the waist over cropped kick-flare trousers, wide-rim bowler hats, mismatched statement earrings, and sculptural leather scarves began to read as his codes.[8] Leopard, feathers, and embroidered florals, crocodile elbow-patch cardigans, and cyclamen-pink/lipstick-red color blocking showed him oscillating between minimal refinement and maximalist embellishment, refusing a single silhouette.[9] The way each look is merchandised to break down easily into mix-and-match pieces — styling as suggestions rather than mandates — signals his commercial sense.[8]
 
+Rider's heritage-bag reinterpretation is no longer a single instance but a widening pattern. Through spring and summer 2026, Celine reworked the Philo-era Triomphe bag in the Rider idiom — a supple lambskin Soft Triomphe Besace, a Small Triomphe Frame pairing slouchy material with a framed finish, plus downsized-emblem and enamel-hardware variants — pressing the logo into a whisper rather than a shout and elevating the Triomphe into a second Philo-era icon after the Luggage.[12] In other words, Rider is rebuilding Celine's bag franchise by sequentially swapping multiple heritage icons into his own grammar, not through a one-off rework.
+
 ## 4. Vision and Philosophy
 
 Rider's philosophy is captured in a few short lines. He sees heritage not as a burden but as fertile ground, saying he does not regard it as a weight to carry.[7] Unlike many designers who treat archives as weight, he embraces the very idea of continuity.[7] On the purpose of design, he says he has always loved the idea of clothing that lives on, aiming for clothes that hold past, present, and future while blending practicality and fantasy.[6][7] His debut narrative reduces to a triad of memories, usefulness, and fantasy.[6]
@@ -132,7 +143,9 @@ Rider's debut was shown July 6, 2025, at 16 rue Vivienne in Paris — the house 
 
 His second runway, a Winter 2026 collection, was held in early March 2026 at the Institut de France on Paris's Left Bank, with Tracee Ellis Ross, Sarah Paulson, and Natasha Lyonne in attendance.[8][9] Critic Alexander Fury praised Rider for evoking a powerful longing through aspirational imagery and wearable detail.[9] Within two seasons, the emergence of a distinct "Rider Celine" grammar — high collars, trumpet silhouettes, sculptural accessories — beginning to settle into repeatable house codes stands as the sophomore outing's achievement (hypothesis).
 
-Commercially, it is too early to judge. LVMH does not disclose Celine's revenue separately (it is folded into the Fashion & Leather Goods segment), and the brand Rider inherited was reported at roughly 2.5 billion euros in annual sales at the end of the Slimane era.[5] Whether Celine defends or recovers that scale through the Slimane exit and Rider debut will be seen only indirectly, via LVMH segment commentary (hypothesis, unverified).
+Legacy friction with the predecessor has also surfaced as a variable in Rider's early phase. When Rider's first campaign (shot by Zoë Ghertner, centered on the New Luggage line) appeared, Slimane posted a lengthy Instagram story on September 6, 2025, publicly urging Celine to open its new chapter with a distinctive, autonomous visual grammar — free of any survival, borrowing, or insistent reference to his photographic style, advertising campaigns, and films.[10] Slimane's imagery had long defined the house, yet Rider still has to carry forward some of the brand's recent vocabulary. It is a succession-friction signal showing him walking a tightrope between the residue of a predecessor's visual grammar and the independent language he must establish (hypothesis).
+
+Commercially, a first indirect signal has now appeared. LVMH still does not disclose Celine's revenue separately (it is folded into the Fashion & Leather Goods segment), but on the H1 2026 earnings call management said Celine had improved sequentially versus the second half of 2025 and Q1 2026.[11] The CFO noted that soft-bag innovation such as the Soft Triomphe, along with shoes and ready-to-wear, was selling well, and expressed confidence that both Celine and Fendi would keep progressing — framing the direction favorably.[11] Management did not, however, state Celine's position relative to the segment average, and with individual revenue undisclosed, how far the critical acclaim has converted into an actual recovery in sales scale cannot be verified externally (unconfirmed). Whether that commercial conversion is validated is now the first test of Rider's realignment (hypothesis). The brand he inherited was reported at roughly 2.5 billion euros in annual sales at the end of the Slimane era.[5]
 
 ## 6. Gucci Perspective
 
@@ -142,11 +155,11 @@ First, customer overlap. If Demna's Gucci reignites buzz through volume, subcult
 
 Second, a contrast in narrative strategy. Rider secured strong critical acclaim from the debut using an anti-conceptual language — an intuition-led stance, a rejection of concept, and confidence without irony.[8][6] The opposite of Demna's concept/irony/provocation playbook, it reaffirms that "quiet" can itself be potent buzz. For Gucci's marketing team, it is a warning that if the Demna direction's buzz fatigues mature customers, a Celine-style "authenticity and continuity" narrative could rise as an alternative reference point (hypothesis).
 
-Third, LVMH portfolio implications. Celine is already a proven cash cow, grown to LVMH's third-largest fashion house under Slimane;[5] if Rider realigns it toward quiet luxury and reproduces stable, high-margin growth, it becomes "LVMH's defensive growth asset" against Gucci's turnaround bet. At the very moment Gucci must prove Demna's commercial conversion, a smooth creative transition at Celine adds pressure in the relative Kering-versus-LVMH narrative (hypothesis). As a benchmark, Rider's "transition without rupture" — restoring a live runway, a large 72-look debut, and integrating codes across every prior era rather than negating a predecessor — is a useful model for managing risk during a house transition.
+Third, LVMH portfolio implications and a lesson in legacy management. Celine is already a proven cash cow, grown to LVMH's third-largest fashion house under Slimane;[5] if Rider realigns it toward quiet luxury and reproduces stable, high-margin growth, it becomes "LVMH's defensive growth asset" against Gucci's turnaround bet. That said, the fact that LVMH characterized Celine as a work-in-progress recovery — improving sequentially yet without disclosing revenue scale or its standing relative to the segment[11] — shows that a smooth creative transition cannot be declared an immediate, confirmed commercial recovery, pressuring Demna's Gucci to prove its own commercial conversion while also offering the reassurance that "transitions carry a lag." As a benchmark, Rider's "transition without rupture" — restoring a live runway, a large 72-look debut, and integrating codes across every prior era rather than negating a predecessor — is a useful model for managing risk during a house transition. In particular, Slimane's public warning not to echo his visual legacy[10] speaks directly to how Gucci should inherit and differentiate from the strong archives of Tom Ford and Alessandro Michele: the more a successor absorbs a predecessor's codes, the greater the risk of identity friction and "plagiarism" controversy, making the balance between leveraging heritage and establishing an independent language a task Gucci must design proactively in its own internal strategy (hypothesis).
 
 ## 7. Outlook
 
-Key points to watch over the next 12 months. First (hypothesis), commercial verification: since LVMH does not disclose Celine separately, segment commentary and management remarks on whether Celine defends or recovers its Slimane-era scale (around 2.5 billion euros) will be the indirect litmus of Rider's commercial power.[5] Second, it-bag creation: whether the smile-zip Luggage rework lands as a genuine commercial iconic, and whether a new Rider handbag franchise emerges, will be commercial evidence of his creative success (hypothesis). Third, code consolidation: whether high collars, trumpet silhouettes, and the preppy vocabulary harden into repeatable house codes across his third and fourth collections. Fourth (hypothesis), density of the quiet-luxury segment: as Celine, Bottega, and Hermès reinforce the heritage-minimalist axis, whether Demna's maximalist, subculture Gucci reads as "differentiation" or as "isolation" will hinge on the competitive intensity of this segment.
+Key points to watch over the next 12 months. First (hypothesis), commercial verification: since LVMH does not disclose Celine separately, segment commentary and management remarks are the indirect litmus of Rider's commercial power. With a favorable signal now on record — sequential improvement and management confidence on the H1 2026 call[11] — the crux is whether that improvement carries into second-half and full-year commentary, whether the strong sales of soft bags, shoes, and ready-to-wear harden into a revenue rebound, and whether the Slimane-era scale (around 2.5 billion euros) is defended or recovered as the final benchmark.[5] Second, it-bag creation and heritage-icon rework: whether the strategy of swapping multiple Philo-era icons into the Rider idiom — from the smile-zip Luggage to the soft, frame, and enamel Triomphe[12] — lands as genuine commercial iconics, and whether a fully new Rider handbag franchise emerges, will be the commercial evidence of his creative success (hypothesis). Third, code consolidation and legacy-friction management: whether high collars, trumpet silhouettes, and the preppy vocabulary harden into repeatable house codes across his third and fourth collections, and whether, after Slimane's public warning,[10] Rider breaks free of the "predecessor's residue" to establish his own visual language. Fourth (hypothesis), density of the quiet-luxury segment: as Celine, Bottega, and Hermès reinforce the heritage-minimalist axis, whether Demna's maximalist, subculture Gucci reads as "differentiation" or as "isolation" will hinge on the competitive intensity of this segment.
 
 ## Glossary
 
@@ -154,6 +167,8 @@ Key points to watch over the next 12 months. First (hypothesis), commercial veri
 - Artistic director: The top creative post at Celine, overseeing womenswear, menswear, leather goods, accessories, and couture. Used at parity with "creative director" across houses.
 - Philo-era "Old Celine": Shorthand for Celine's minimalist golden era under Phoebe Philo (2008–2018), whose logo-free restraint and intellectual femininity became the template for the 2010s quiet-luxury discourse.
 - Quiet luxury: A luxury register that conveys value through material, cut, and heritage rather than logos or display; Celine, Bottega Veneta, and Hermès are cited exemplars.
+- Triomphe: Celine's signature logo and the bag line that uses it as hardware; a heritage motif carried from the Philo era.
+- Sequential improvement (H1 2026): LVMH management's relative, directional comment that Celine improved versus the preceding half and quarter. Individual revenue figures and standing relative to the segment are undisclosed.
 - Not attributable: A figure at the brand or parent-company level that cannot be separated out and credited to an individual designer.
 
 ## Sources
@@ -167,3 +182,6 @@ Key points to watch over the next 12 months. First (hypothesis), commercial veri
 [7] The Impression — Rider interview: the not-a-burden remark, continuity, real clothes, heritage view — https://theimpression.com/michael-rider-finds-the-future-in-the-courtyard-at-celine/
 [8] W Magazine — Celine Winter 2026 review: Institut de France, intuition over strategy, rejecting concept, silhouettes/accessories, merchandising, attendees — https://www.wmagazine.com/fashion/celine-fall-winter-2026-michael-rider-runway-photos
 [9] AnOther — Celine AW26 review (early March 2026): rejecting concept, materials/color, Alexander Fury's powerful-longing verdict — https://www.anothermag.com/fashion-beauty/17045/celine-autumn-winter-2026-review-michael-rider
+[10] FashionUnited — Slimane's Instagram story (2025-09-06) urging Celine to open a new chapter with a distinctive, autonomous visual grammar, free of survival/borrowing/insistent reference to his photographic style, campaigns, and films — https://fashionunited.com/news/people/hedi-slimane-invites-celine-to-turn-the-page-in-an-instagram-story/2025090868117
+[11] Investing.com (LVMH H1 2026 earnings-call transcript) — Celine improved sequentially vs H2 2025 and Q1 2026; soft-bag innovation (Soft Triomphe), shoes, and RTW selling well; confidence in Celine and Fendi progress; individual revenue and standing relative to the segment undisclosed — https://www.investing.com/news/transcripts/earnings-call-transcript-lvmh-posts-solid-h1-2026-growth-as-margins-hold-firm-93CH-4814843
+[12] PurseBlog — Rider's Triomphe bag rework: Soft Triomphe Besace, Small Triomphe Frame, enamel hardware, downsized emblem, elevating Triomphe into a second Philo-era icon after the Luggage (2026-08-01) — https://www.purseblog.com/celine/michael-rider-just-put-a-bold-spin-on-celines-classic-triomphe-bag/
