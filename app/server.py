@@ -523,8 +523,20 @@ class Handler(BaseHTTPRequestHandler):
         files = sorted(p for p in base.glob("*.json") if DATE_RE.match(p.stem)) if base.exists() else []
         if not files:
             return {"has_data": False}
-        with open(files[-1], "r", encoding="utf-8") as f:
-            data = json.load(f)
+        # Load the newest file that is valid JSON. A single malformed news file
+        # (e.g. an unescaped quote from the generator) must not 500 this endpoint
+        # and freeze the whole static export/publish — fall back to the last good
+        # day instead so the site keeps updating.
+        data = None
+        for p in reversed(files):
+            try:
+                with open(p, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                break
+            except (ValueError, OSError):
+                continue
+        if data is None:
+            return {"has_data": False}
         data["has_data"] = True
         data["available_dates"] = [p.stem for p in files][-14:]
         return data
