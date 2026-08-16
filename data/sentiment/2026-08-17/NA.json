@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-2026-08-17-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fashion segment decline narrowed but stock resilience framed as cash-generation reliance, not real demand recovery.",
+    "signal_tags": ["earnings", "momentum_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-08-17-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical independent analysis ties F1 deal to 20%+ sales decline and quotes a commentator who 'dreads' the aesthetic outcome.",
+    "signal_tags": ["design_criticism", "momentum_press", "brand_repositioning"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-08-17-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade outlet documents organic real-world sightings evidencing Borsetto's crossover into genuine commercial hit.",
+    "signal_tags": ["resale_value", "third_party_demand", "product_momentum"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-08-17-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Persistent Trustpilot pattern of hardware/durability defects and denied warranty claims classified as normal wear.",
+    "signal_tags": ["quality_complaint", "customer_service"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-08-17-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Price-hike guide steers price-sensitive US shoppers to resale market, an implicit affordability pushback signal.",
+    "signal_tags": ["price_hike", "value_for_money"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-08-17-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive account of sustained TikTok discovery-page activity with no per-video metrics or evaluative verdict.",
+    "signal_tags": ["sns_activity", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-08-17-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum shows genuinely split sentiment, new-colorway excitement alongside persistent QC gripes, no dominant lean.",
+    "signal_tags": ["quality_complaint", "community_sentiment", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-08-17-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade coverage of F1 sponsorship is largely descriptive of commercial rationale rather than critical or evaluative.",
+    "signal_tags": ["activation_coverage", "sponsorship"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-08-17-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Margin improvement explicitly attributed to store/headcount cuts and cost discipline rather than a genuine demand rebound.",
+    "signal_tags": ["earnings", "momentum_press", "restructuring"],
+    "confidence": 0.7
+  }
+]

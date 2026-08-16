@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-08-17-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Criminal prosecutions expose organized counterfeit supply chain trading on the Gucci name across Vietnam.",
+    "signal_tags": ["counterfeit", "controversy", "legal"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-17-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Large-scale police seizure of counterfeit Gucci goods in Danang, billions of dong in value, organized foreign-linked operation.",
+    "signal_tags": ["counterfeit", "controversy", "legal"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-17-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive Vogue profile of Demna's campaign with no independent evaluative verdict; activation coverage discount applies.",
+    "signal_tags": ["activation_coverage", "creative_direction", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-17-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive WWD exclusive announcing Billkin ambassador appointment; no evaluative verdict, activation discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-17-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Investor outlet notes narrowing Gucci decline but flags weak traffic and China softness, rates shares Neutral pending confirmation.",
+    "signal_tags": ["earnings", "momentum", "investor_sentiment"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-17-006",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan-community celebration of Billkin's Gucci showcase appearance; fandom spike trap damps magnitude despite enthusiasm.",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-17-007",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent bagtok creator praises Paparazzo bag as underrated and better in person, genuine third-party product endorsement.",
+    "signal_tags": ["product_praise", "purchase_intent", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-17-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Expat forum thread flags rampant Gucci counterfeits on Lazada/Shopee, consumer-level frustration and brand-image erosion.",
+    "signal_tags": ["counterfeit", "consumer_frustration", "ecommerce"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-17-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive Tatler profile of Billkin's brand portfolio including Gucci ambassadorship, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.7
+  }
+]

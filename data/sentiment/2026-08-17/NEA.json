@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-08-17-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering earnings report flags continued APAC ex-Japan decline and Middle East drag despite Q2 group turnaround; negative momentum press.",
+    "signal_tags": ["earnings", "regional_momentum", "T1"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-17-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Qixi campaign coverage explicitly split between praise (~45%) and criticism, no net clear public verdict; activation coverage with genuinely mixed reception.",
+    "signal_tags": ["campaign", "activation_coverage", "mixed_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-17-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Ad campaign poster widely mocked as \"tacky/fake-looking\" with viral meme spread and logo mix-up criticism among industry community.",
+    "signal_tags": ["campaign_backlash", "meme", "design_criticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-17-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer resale data shows only classic leather lines hold value while trend/canvas items depreciate sharply, fueling cautious-purchase sentiment overall.",
+    "signal_tags": ["resale_value", "consumer_caution"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-17-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "KOL hope for Demna-era revival coexists with skepticism since sales recovery not yet visible; dated (May) low-weight reference with mixed sentiment.",
+    "signal_tags": ["creative_direction", "kol_sentiment", "dated_reference"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-17-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive fan-cam footage of ambassador at popup photo wall; no evaluative content, fandom spike damped per trap guidance.",
+    "signal_tags": ["ambassador", "fandom", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-17-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive popup store write-up (what/where/who) with no outlet evaluative verdict; activation coverage discount applies.",
+    "signal_tags": ["store_opening", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-17-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical financial press reports Kering H1 net profit nearly halved with no clear recovery expected for Gucci amid persistent APAC weakness.",
+    "signal_tags": ["earnings", "regional_momentum", "analyst_outlook"],
+    "confidence": 0.85
+  }
+]

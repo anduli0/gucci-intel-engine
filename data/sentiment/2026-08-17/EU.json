@@ -1,0 +1,65 @@
+[
+  {
+    "id": "EU-2026-08-17-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press reports Western Europe DTC sales fell 5% H1 / 8% Q2, framed as lagging North America's recovery — negative momentum press.",
+    "signal_tags": ["earnings", "retail_performance", "regional_lag"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-17-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering shares slipped despite narrowing Gucci decline; coverage stresses investors, especially US ADR holders, remain skeptical of the turnaround story.",
+    "signal_tags": ["stock_reaction", "investor_sentiment", "earnings"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-17-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official F1 announcement is a descriptive activation write-up (who/what/where) with no independent evaluative verdict.",
+    "signal_tags": ["sponsorship", "activation_coverage", "motorsport"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-17-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent motorsport-press analysis explicitly frames the Alpine deal as a 'struggling brand' gamble, citing skeptical fan reaction to the livery.",
+    "signal_tags": ["sponsorship", "brand_health_critique", "fan_reaction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-17-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Threads promo post for handbag lines — self-praise counted for buzz, not public opinion.",
+    "signal_tags": ["activation_coverage", "owned_channel", "handbags"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-17-006",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent handbag-community coverage reports organic collector/stylist traction for the Borsetto bag, treated as genuine product-desirability signal rather than brand marketing; no quantified demand data so capped at 0.5.",
+    "signal_tags": ["product_desirability", "community_opinion", "handbags", "celebrity_sighting"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-17-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "French trade analysis frames Kering's Q2 growth as broader than Gucci, positioning Gucci as no longer the group's sole growth engine amid store closures — critical but nuanced given the narrowing decline.",
+    "signal_tags": ["earnings", "group_performance", "competitive_comparison"],
+    "confidence": 0.6
+  }
+]
