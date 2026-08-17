@@ -1,0 +1,66 @@
+[
+  {
+    "id": "NEA-2026-08-18-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive pop-up activation write-up with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "pop_up", "china"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-18-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive brand-staged pop-up store announcement, press-kit derived",
+    "signal_tags": ["activation_coverage", "pop_up", "korea"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-18-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador photowall appearance coverage, no evaluative brand verdict",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom", "kpop"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-18-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan enthusiasm centers on ambassador's individual appeal overshadowing the brand, not genuine organic brand affinity",
+    "signal_tags": ["fandom", "kpop", "ambassador", "sns"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-08-18-005",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan community photo-sharing with brand mentioned only incidentally via ambassador context",
+    "signal_tags": ["fandom", "community", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-18-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Documented store closures across multiple Chinese cities tied to quantified restructuring plan, independent critical analysis",
+    "signal_tags": ["store_closures", "china", "restructuring", "momentum_negative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-18-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mostly descriptive pop-up write-up with only a thin, low-confidence editorial gloss; demoted per confidence<0.5 rule",
+    "signal_tags": ["activation_coverage", "pop_up", "korea"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-08-18-008",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent analysis of China price premium and weak resale recovery rates, value-for-money and price-hike criticism",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "resale", "china", "quantified_data"],
+    "confidence": 0.85
+  }
+]

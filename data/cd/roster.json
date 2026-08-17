@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "note": "주요 럭셔리 하우스 현직 크리에이티브/아티스틱 디렉터 전수 조사. 2025년 '크리에이티브 리셋'을 반영한 2026년 8월 기준 최신 좌석. status: active=재임 중, incoming=발표됐으나 미데뷔/데뷔 직후, departing=퇴임 예정. dossier=data/reports/cd 내 파일명(없으면 null).",
   "directors": [
     {
@@ -179,7 +179,7 @@
       "since": "2014",
       "predecessor": "Christophe Lemaire",
       "status": "active",
-      "title": "Artistic Director, Womenswear",
+      "title": "Artistic Director, Womenswear (first haute couture Jan 2027)",
       "dossier": "hermes-nadege-vanhee-cybulski.md"
     },
     {
@@ -189,7 +189,7 @@
       "since": "2026",
       "predecessor": "Véronique Nichanian",
       "status": "incoming",
-      "title": "Men's Creative Director (debut Jan 2027)",
+      "title": "Men's Creative Director (debut Jan 2027; studio build-out under way — J-G Harrison hired)",
       "dossier": "hermes-grace-wales-bonner.md"
     },
     {

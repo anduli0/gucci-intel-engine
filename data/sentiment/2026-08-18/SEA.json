@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SEA-2026-08-18-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-staged collection preview with celebrity attendance, purely descriptive write-up with no independent critical verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "celebrity_attendance", "product_preview"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-08-18-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit seizure naming Gucci among affected marks; mild negative per counterfeit trap, brand not centrally implicated beyond being counterfeited.",
+    "signal_tags": ["counterfeit", "brand_protection"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-18-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "T1 outlet reports large counterfeit seizure amid US trade pressure with Gucci named among affected luxury houses; mild negative brand-association risk.",
+    "signal_tags": ["counterfeit", "trade_policy", "brand_protection"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-18-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Investor-platform earnings coverage frames Gucci as 'still needing recovery' with weak China traffic despite narrowing declines; cautionary momentum press.",
+    "signal_tags": ["earnings", "momentum_press", "china_demand"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-08-18-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Vague SNS haul mention of a Gucci piece with no extractable engagement or evaluative content; insufficient signal for polarity.",
+    "signal_tags": ["sns_mention", "low_signal"],
+    "confidence": 0.3
+  }
+]

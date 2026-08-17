@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "id": "EU-2026-08-18-001",
+      "region": "EU",
+      "source": "ad-hoc-news.de (market commentary)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-steadies-as-gucci-reset-lifts-earnings/69949359",
+      "published_at": "2026-08-14",
+      "title": "Kering stock steadies as Gucci reset lifts earnings",
+      "summary": "Paris-exchange market commentary on Kering (KER-FR) describes Gucci's turnaround as an emerging earnings recovery: Q2 revenue of EUR1.41B was down only 2% YoY (vs -5% in H1), operating margin in fashion/leather goods expanded 0.4pp, and H1 underlying free cash flow reached EUR1.8B. Jewelry (+18%) and eyewear (+8%) continue to cushion the group while Gucci's rebound is still framed by analysts as fragile and largely priced in already.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "EU-2026-08-18-002",
+      "region": "EU",
+      "source": "ad-hoc-news.de (market commentary)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-trades-lower-as-gucci-s-turnaround-lifts-h1-jewelry-growth/69946592",
+      "published_at": "2026-08-13",
+      "title": "Kering stock trades lower as Gucci's turnaround lifts H1 jewelry growth",
+      "summary": "Paris-listed Kering shares slipped 0.28% to EUR57.06 on Aug 13 despite improving Gucci fundamentals, as investors weighed mixed H1 2026 results. Gucci's Q2 revenue decline narrowed to 2% (from -8% in Q1); jewelry sales rose 14% for H1. Piece frames the modest stock dip as caution about how durable Gucci's stabilization is, even as pricing discipline and cost efficiency show up in margins.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 14,
+    "Louis Vuitton": 0,
+    "Dior": 0,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0
+  }
+}

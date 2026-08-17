@@ -1,0 +1,112 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-08-18",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "L'Oréal의 구찌 뷰티 50년 라이선스, 2027년 7월 발효 예정으로 확정 절차 진행 중",
+      "summary": "케링과 L'Oréal은 2026년 7월 7일 구찌 뷰티에 대한 50년 독점 글로벌 라이선스 계약을 발표했으며, 기존 Coty 라이선스(2028년 6월 만료 예정)를 1년 앞당겨 종료하는 조건으로 Coty에 약 4억 달러를 지급한다. 신규 라이선스는 규제 승인을 전제로 2027년 7월 1일부터 발효되며 L'Oréal의 첫 구찌 뷰티 제품 출시는 2028년으로 예상된다.",
+      "url": "https://www.loreal.com/en/press-release/group/l-oreal-enters-a-50-year-exclusive-worldwide-beauty-licence-with-kering--for-the-gucci-brand/",
+      "source": "L'Oréal Finance / Kering press release",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "뷰티 라이선스를 Coty에서 L'Oréal로 전환하는 것은 케링이 구찌의 장기 브랜드 자산 관리 방식을 재편하고 있다는 신호이나, 실제 제품 전환은 2027-2028년으로 당장의 매출 임팩트는 없다.",
+      "why_it_matters_en": "The beauty license shift from Coty to L'Oréal signals a long-term brand-asset overhaul at Gucci, though actual product transition lands in 2027-2028 with no near-term revenue impact.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "구찌 2분기 매출 -2%로 감소폭 둔화, 레더굿즈는 플러스 전환",
+      "summary": "케링 2분기 실적에서 구찌 오가닉 매출은 전년 대비 2% 감소해 1분기 -8%보다 낙폭이 크게 줄었으며, 신제품 Borsetto·Paparazzo 백 출시에 힘입어 레더굿즈 부문은 플러스 성장으로 돌아섰다. 케링 전체 상반기 영업이익은 9억 2,100만 유로로 컨센서스를 상회했다.",
+      "url": "https://wwd.com/business-news/financial/kering-group-q2-2025-revenue-ceo-luca-de-meo-gucci-improves-1239085301/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-24",
+      "why_it_matters": "낙폭 둔화는 긍정적 신호이지만 여전히 매출 역성장 상태이며, 완전한 턴어라운드로 단정하기엔 이르다 — 회복은 진행 중이지 완료된 것이 아니다.",
+      "why_it_matters_en": "The narrower decline is encouraging but Gucci is still in negative organic growth; this is a recovery in progress, not a completed turnaround.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "corporate strategy",
+      "headline": "케링 CEO 루카 데 메오, '리콘케링' 계획으로 구찌 매장 3분의 2 리노베이션·의존도 축소 추진",
+      "summary": "2026년 4월 플로렌스 캐피탈마켓데이에서 데 메오는 2030년까지 구찌 매장의 3분의 2를 리노베이션·이전하고 판매면적을 20% 줄이며 매장 밀도를 두 배로 높이는 '리콘케링' 전략을 발표했다. 동시에 그는 케링의 구찌에 대한 '과도한 의존'을 줄이고 생로랑·보테가베네타·발렌시아가에 힘을 싣겠다고 밝혔다.",
+      "url": "https://www.cnbc.com/2026/04/16/kering-stock-ker-gucci-cmd-turnaround-profit-strategy.html",
+      "source": "CNBC",
+      "tier": "T1",
+      "published_at": "2026-04-16",
+      "why_it_matters": "케링 최고경영진이 공개적으로 '구찌 의존도 축소'를 그룹 전략 목표로 못박았다는 점은 구찌의 그룹 내 상대적 위상이 예전만 못하다는 신호이며, 다른 브랜드들이 자원 배분에서 우선순위를 차지할 수 있음을 시사한다.",
+      "why_it_matters_en": "Kering leadership explicitly naming 'reduced Gucci dependence' as a group strategic goal signals Gucci's relative standing within the group has slipped, and other brands may take priority in resource allocation.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "product trend",
+      "headline": "구찌 보르세토 백, 2026년 셀러브리티·인플루언서 사이 '올해의 잇백'으로 부상",
+      "summary": "뎀나의 서프라이즈 2026 스프링 컬렉션에서 출시된 보르세토 백은 두아 리파, 데미 무어, 케이트 모스 등이 착용하며 빠르게 확산됐고, 가을 2026 시즌에는 톤온톤 디테일을 더한 새 버전으로 재해석됐다. eBay 리세일 데이터에서도 구찌 패드락·보르세토·B백 등이 검색·거래량 급증을 보였다.",
+      "url": "https://www.whowhatwear.com/fashion/celebrity-style/gucci-borsetto-bag",
+      "source": "Who What Wear",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "보르세토의 셀러브리티 견인 인기는 뎀나 체제 신제품이 실제 시장 반응을 얻고 있다는 실질적 증거이나, 이는 브랜드 자체 캠페인 노출과 겹치는 부분이 있어 순수 소비자 반응과 마케팅 활성화 효과를 분리해서 봐야 한다.",
+      "why_it_matters_en": "The Borsetto's celebrity traction is tangible evidence new Demna-era product is landing with the market, though this overlaps with the brand's own campaign push, so organic consumer response should be distinguished from marketing activation.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "뎀나의 '뷰티 앤 더 백' 캠페인, 케이트 모스·에밀리 라타이코프스키 기용해 백 중심 서사 강화",
+      "summary": "뎀나가 연출하고 Mert Alas·Marcus Piggott가 촬영한 '뷰티 앤 더 백' 캠페인은 구찌 보르세토(케이트 모스)와 질리오(에밀리 라타이코프스키)를 중심으로 GG 모노그램을 반복 노출하는 타이트한 포트레이트로 구성됐으며, Bardia Zeinali 연출 필름으로 확장됐다.",
+      "url": "https://theimpression.com/gucci-beauty-and-the-bag-2026-ad-campaign-review/",
+      "source": "The Impression",
+      "tier": "T2",
+      "published_at": "2026-06-15",
+      "why_it_matters": "이는 구찌 자체 마케팅 활동에 대한 보도이며 소비자 여론 개선의 증거로 해석해서는 안 된다 — 캠페인 노출과 실제 판매·감성 반응은 별개 지표다.",
+      "why_it_matters_en": "This is activation coverage of Gucci's own marketing output and should not be read as evidence of improved consumer sentiment — campaign exposure and actual sales/sentiment response are separate metrics.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "legal/regulatory",
+      "headline": "구찌 뷰티 라이선스 조기 종료 관련 Coty와의 계약, 규제 승인 대기 상태",
+      "summary": "Coty가 케링과 체결한 구찌 뷰티 라이선스 조기 종료 계약은 2026년 내 2억 5천만 달러, 2027년 최대 1억 5천만 달러 지급을 포함하며, L'Oréal로의 라이선스 이전은 규제 승인을 전제로 한다. 별도로 구찌 아버지 계승 관련 상속 소송, 위조품 관련 상표권 소송 등 통상적 법률 리스크도 진행 중이다.",
+      "url": "https://www.coty.com/news/coty-announces-agreement-with-kering-for-early-transition-of-gucci-beauty-license",
+      "source": "Coty Inc. press release",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "라이선스 전환이 규제 승인 지연 시 일정이 밀릴 수 있어 완전히 확정된 사안은 아니다.",
+      "why_it_matters_en": "The license transition remains subject to regulatory approval and could slip if delayed, so it is not yet fully locked in.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "resale/secondary market",
+      "headline": "구찌, 신제품 매출 둔화에도 리세일 시장에서는 견조한 수요 유지",
+      "summary": "베스티에르 콜렉티브 등 리세일 플랫폼에서 구찌는 여전히 최다 판매 럭셔리 브랜드 중 하나이며, The RealReal 통계상 구찌 의류의 리세일 가치는 평균 대비 2.3배 높은 것으로 나타났다. 신제품 판매 부진과 대조적으로 중고 수요는 견조해, 브랜드 헤리티지 자산가치는 유지되고 있음을 시사한다.",
+      "url": "https://cpp-luxury.com/gucci-second-hand-sales-increase-while-sales-of-new-products-decline/",
+      "source": "CPP-Luxury",
+      "tier": "T2",
+      "published_at": "2026-05-20",
+      "why_it_matters": "리세일 강세는 브랜드 자산가치가 살아있다는 긍정 신호이지만, 동시에 신제품 판매 부진이라는 핵심 문제를 가리지 못한다 — 오히려 소비자가 신품 대신 중고를 택하고 있다는 우려스러운 해석도 가능하다.",
+      "why_it_matters_en": "Resale strength is a positive brand-equity signal but does not mask the core problem of weak new-product sales — it can also be read as a concerning sign that consumers are choosing secondhand over new purchases.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive move",
+      "headline": "프란체스카 벨레티니 구찌 CEO 체제 하 뎀나와의 협업 구도 지속 확인",
+      "summary": "구찌 CEO 프란체스카 벨레티니는 2분기 실적 콜에서 뎀나의 컬렉션 외에도 팀 전체의 작업(예: 이미 준비된 크리스마스 캡슐)을 강조하며 크리에이티브와 경영의 분업 구도를 재확인했다.",
+      "url": "https://finance.yahoo.com/news/kering-confirms-francesca-bellettini-gucci-154629838.html",
+      "source": "Yahoo Finance / Vogue Business",
+      "tier": "T1",
+      "published_at": "2026-07-24",
+      "why_it_matters": "벨레티니-뎀나 투톱 체제가 안정적으로 가동되고 있다는 신호이나, 실적 회복이 지속되지 않을 경우 경영진 교체 압박이 재점화될 수 있다.",
+      "why_it_matters_en": "The Bellettini-Demna dual leadership appears to be operating stably, though continued underperformance could reignite pressure for executive change.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": []
+}

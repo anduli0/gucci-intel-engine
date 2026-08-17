@@ -1,0 +1,20 @@
+[
+  {
+    "id": "EU-2026-08-18-001",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent market commentary notes narrowing revenue decline and margin expansion, though analysts call the rebound fragile and largely priced in.",
+    "signal_tags": ["earnings", "independent_analysis", "margin_improvement"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-18-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Improving Gucci fundamentals offset by stock trading lower and explicit investor caution about durability of the turnaround; mixed, not a clear directional call.",
+    "signal_tags": ["earnings", "stock_move", "investor_caution"],
+    "confidence": 0.55
+  }
+]
