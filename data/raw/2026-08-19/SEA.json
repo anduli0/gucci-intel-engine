@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "SEA-2026-08-19-001",
+      "region": "SEA",
+      "source": "VietNamNet",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://vietnamnet.vn/en/fake-gucci-hermes-goods-expose-counterfeit-fashion-network-in-vietnam-2545641.html",
+      "published_at": "2026-08-15",
+      "title": "Fake Gucci, Hermes goods expose counterfeit fashion network across Vietnam",
+      "summary": "VietNamNet's English edition reports Vietnamese police dismantled a multi-province counterfeit network spanning retail shops in Phu Tho and Can Tho and manufacturing workshops in Hanoi and Ho Chi Minh City, moving fake Louis Vuitton, Dior, Gucci, Hermes, Nike, Adidas, Burberry and Crocs goods through Zalo, TikTok, Facebook and Shopee. One workshop with 14 workers alone produced over 23,000 pairs of counterfeit sandals; authorities estimate tens of billions of dong in illicit profit across the network.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-19-002",
+      "region": "SEA",
+      "source": "South China Morning Post",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3312436/vietnam-seizes-fake-rolex-watches-prada-bags-mall-amid-us-pressure",
+      "published_at": "2026-08-14",
+      "title": "Vietnam seizes fake Rolex, Prada, Gucci goods from Saigon Square mall amid US counterfeiting pressure",
+      "summary": "SCMP reports Vietnamese authorities raided Saigon Square Shopping Mall in Ho Chi Minh City, seizing thousands of counterfeit items including watches and handbags across multiple designer brands, with Gucci named among the affected houses alongside Longines, Louis Vuitton, Dior and Hermes. The enforcement action follows Washington identifying Vietnam as a major counterfeiting hub and threatening tariffs; the mall was previously flagged by the US Trade Representative as a 'notorious market.'",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-19-003",
+      "region": "SEA",
+      "source": "Vogue Thailand",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://vogue.co.th/article/kering-q2-2026-gucci-sales-reconkering",
+      "published_at": "2026-08-13",
+      "title": "Vogue Thailand: Gucci sales beat expectations, drive Kering Q2 2026 growth under ReconKering plan",
+      "summary": "Vogue Thailand's Thai-language coverage frames Kering's Q2 2026 results as a positive surprise, with Gucci's comparable sales decline narrowing well beyond analyst forecasts and helping Kering post its first quarterly growth in twelve quarters. The piece credits the 'ReconKering' turnaround strategy and notes Asia-Pacific showing early recovery signs even as mainland China stays soft, framing this as validation for CEO Luca de Meo's reset.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-19-004",
+      "region": "SEA",
+      "source": "Tribune (Philippines)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://tribune.net.ph/2026/08/08/new-style-vocabulary",
+      "published_at": "2026-08-09",
+      "title": "Gucci previews Fall/Winter 2026 Primavera collection at Greenbelt 4 Manila",
+      "summary": "Manila's Tribune covers Gucci's Fall/Winter 2026 Primavera collection preview held July 31 at Greenbelt 4, describing fluid tailoring, body-aware silhouettes, shearling layers and an updated Bamboo 1947 bag. Seven Filipino celebrities including Marian Rivera, Kylie Verzosa and Michelle Dee attended in curated Gucci looks; the piece frames the brand as a cultural touchstone for contemporary Filipino style. Promotional/activation coverage, carried at the edge of the freshness window given thin same-week Manila news.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 4,
+    "Louis Vuitton": 3,
+    "Dior": 3,
+    "Chanel": 0,
+    "Prada": 1,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 2
+  },
+  "collection_notes": "SNS/community channel yielded zero admissible items today: dedicated searches across X, Instagram, TikTok, Threads, PurseForum and Reddit surfaced only stale content (Jan-June 2026, e.g. Central Embassy re-opening reels, Gucci-Alpine F1 fan posts, PurseForum authentication threads) outside the 14-day freshness cap, or pages inaccessible for verification (PurseForum 403, CNBC Indonesia 403). Per policy these were excluded rather than padded in. Critical-angle searches (price hikes, resale, boycott, overrated, store closures, quality complaints) ran mostly dry for SEA-specific fresh material except the counterfeit-crackdown wave in Vietnam, which is the dominant critical signal this cycle; a Malaysia KLCC store-closure Threads post and Kering's 2026 store-closure program were found but the community post itself dated to June 21, 2026 (stale) so was excluded, though the closure trend is corroborated by multiple T1 sources for context in the interpreter's use if needed separately."
+}

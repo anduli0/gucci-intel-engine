@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SEA-2026-08-19-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci goods named among fakes seized in large Vietnam counterfeit network bust; counterfeit trap = mild negative, no direct product/brand criticism.",
+    "signal_tags": ["counterfeit", "enforcement", "brand_risk"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-19-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci named among brands hit by counterfeit seizure at notorious Saigon Square mall amid US trade pressure; counterfeit trap = mild negative.",
+    "signal_tags": ["counterfeit", "enforcement", "trade_pressure"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-19-003",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Trade-press coverage of quantified earnings beat and Kering's first quarterly growth in 12 quarters, framed as validation of turnaround — independent judgment, not activation coverage.",
+    "signal_tags": ["earnings", "turnaround", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-19-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci's own Manila collection preview event with celebrity attendees; brand-staged activation coverage without independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "celebrity_attendance", "promo"],
+    "confidence": 0.7
+  }
+]

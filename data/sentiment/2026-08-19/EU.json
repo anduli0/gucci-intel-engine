@@ -1,0 +1,101 @@
+[
+  {
+    "id": "EU-2026-08-19-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering group returns to growth but piece explicitly frames Gucci as the laggard with fragile, unconfirmed recovery and unresolved creative direction",
+    "signal_tags": ["earnings", "trade_press", "china_weakness", "creative_direction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-19-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Operating margin improvement is offset by continued store network contraction; euphemistic framing ('fleet optimization') does not erase net negative signal of ongoing closures",
+    "signal_tags": ["earnings", "store_footprint", "trade_press"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-08-19-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sales decline slowed but this is still the 12th consecutive quarterly sales drop; independent WWD earnings coverage, momentum remains negative despite improvement framing",
+    "signal_tags": ["earnings", "trade_press", "turnaround"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-19-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community purchase thread shows split sentiment (nostalgia for Michele-era vs curiosity about Demna) without clear net polarity",
+    "signal_tags": ["community", "purchase_intent", "creative_direction_debate"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-08-19-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed reaction: Flora revival compared favorably to archive but pricing/quality debated, plus discontinuation of Soho Disco called a misstep; nets to neutral rather than forced polarity",
+    "signal_tags": ["community", "product_design", "pricing_debate", "discontinuation"],
+    "confidence": 0.45
+  },
+  {
+    "id": "EU-2026-08-19-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party brand valuation data: Gucci brand value fell 25.3% and dropped from 3rd to 5th among Italian brands, independent ranking data qualifies for full magnitude",
+    "signal_tags": ["brand_value", "ranking", "independent_data"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-19-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "EU antitrust fine (largest share ~120M euros) for anticompetitive pricing restriction is a documented regulatory controversy, headline-level reputational damage",
+    "signal_tags": ["regulatory", "controversy", "pricing_practices"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-19-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official press release announcing a structural licensing deal; purely descriptive corporate/brand-architecture news, no independent evaluative verdict, brand-owned announcement scored neutral",
+    "signal_tags": ["licensing_deal", "corporate", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-19-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive sponsorship announcement (F1 title partnership) covered factually without independent evaluative judgment; brand-visibility marketing activation, capped neutral per activation-coverage rule",
+    "signal_tags": ["sponsorship", "activation_coverage", "brand_visibility"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-19-010",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Culture press gives positive evaluative framing ('museum of museums') to Gucci's heritage exhibition; activation coverage with outlet's own favorable verdict, capped at 0.5 per rubric",
+    "signal_tags": ["heritage", "exhibition", "activation_coverage", "cultural_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-19-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring consumer complaints about product durability (chipping) and poor customer service/repair experience on aggregated review platform, persistent organic critical-angle signal",
+    "signal_tags": ["quality_complaint", "customer_service", "consumer_reviews"],
+    "confidence": 0.55
+  }
+]
