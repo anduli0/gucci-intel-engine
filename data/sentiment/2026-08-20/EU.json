@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-08-20-001",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent financial press frames narrowing Gucci decline (Q2 -2% vs -5% H1) as evidence turnaround is stabilizing, though still a decline.",
+    "signal_tags": ["earnings", "turnaround", "trade_press"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-20-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Companion earnings piece stresses Gucci's core still declined 2% in Q2 while group growth comes from jewelry, not Gucci.",
+    "signal_tags": ["earnings", "momentum_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-20-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity-wedding activation write-up (custom Gucci outfits, Demna quote); no independent evaluative verdict, activation-coverage discount applies.",
+    "signal_tags": ["ambassador", "activation_coverage", "celebrity"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-20-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Follow-up descriptive coverage of Gucci's own Instagram post extending the wedding activation cycle; purely descriptive, brand-owned imagery.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-20-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical-angle piece: social media/Reddit redirected wedding coverage to Ronaldo's assault allegations, calling curated Gucci styling tone-deaf given the controversy.",
+    "signal_tags": ["ambassador_risk", "controversy", "backlash"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-20-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community (Reddit) discussion, sourced secondhand via FashionTimes, framing Gucci wedding styling as tone-deaf next to ambassador's unresolved controversy.",
+    "signal_tags": ["ambassador_risk", "controversy", "community"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-08-20-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed forum reactions to Demna's runway debut (some praise, some criticism), stale/background item with no clear dominant polarity.",
+    "signal_tags": ["creative_direction", "community", "stale"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-08-20-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Background labor-controversy item: Italian Gucci employee protest movement over restructuring/job security, stale and not a new signal but documented controversy.",
+    "signal_tags": ["labor", "controversy", "stale"],
+    "confidence": 0.55
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "NA-20260820-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock slide (~9.3% in a week) with Gucci cited as flagship gauge of weakening underlying business amid discretionary-spending concern.",
+    "signal_tags": [
+      "negative_earnings_press",
+      "stock_momentum",
+      "investor_sentiment"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260820-03",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD trade-press favorable independent coverage: Kering shares surged 15% on Gucci's better-than-expected turnaround momentum and new bag launches.",
+    "signal_tags": [
+      "favorable_trade_press",
+      "stock_momentum",
+      "product_launch"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260820-04",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD reports Gucci revenue decline beat analyst forecasts, leather goods returned to growth, NA comps accelerated to 3.7% - independent quantified positive.",
+    "signal_tags": [
+      "earnings_beat",
+      "favorable_trade_press",
+      "regional_growth"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260820-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Viral social video comparing past vs current male model casting sparked mixed-to-critical reactions describing new casting/design direction unfavorably.",
+    "signal_tags": [
+      "design_criticism",
+      "casting_backlash",
+      "sns_viral"
+    ],
+    "confidence": 0.55
+  }
+]
