@@ -1,0 +1,65 @@
+[
+  {
+    "id": "EU-2026-08-21-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock fell sharply and underperformed sector peers, with analysts actively cutting FY26-27 estimates.",
+    "signal_tags": ["earnings_momentum", "stock_price", "analyst_estimates"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-21-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed market note: narrowing Gucci decline and margin gain offset by jewelry/eyewear outperforming the core leather-goods business.",
+    "signal_tags": ["earnings_momentum", "stock_price", "category_mix"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-08-21-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press flags margin collapse from 27% to 11% and continued double-digit H1 sales decline, questioning strategy fit.",
+    "signal_tags": ["trade_press_criticism", "margin_decline", "strategy_risk"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-21-005",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent handbag-community editorial recommends entry-level Gucci bags for durable resale demand and recognizable codes.",
+    "signal_tags": ["purchase_intent", "resale_value", "community_review"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-21-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale sales rising while first-hand sales fall, and Gucci ranks behind Chanel, Louis Vuitton and Hermes on resale-value retention.",
+    "signal_tags": ["resale_data", "peer_comparison", "pricing_pressure"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-21-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive TikTok tag activity mixing official styling clips, UGC and dupe content with no verifiable engagement metrics.",
+    "signal_tags": ["sns_activity", "unverified_metrics", "counterfeit_adjacent"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-08-21-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual H1 earnings wire mixing narrowing Gucci decline with continued revenue drop and planned inventory cuts, no strong evaluative slant.",
+    "signal_tags": ["earnings_momentum", "inventory", "category_mix"],
+    "confidence": 0.55
+  }
+]

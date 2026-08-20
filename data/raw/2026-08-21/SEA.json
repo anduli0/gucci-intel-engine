@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "id": "SEA-2026-08-21-001",
+      "region": "SEA",
+      "source": "Kering (globenewswire press release)",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334524/0/en/kering-2026-first-half-results-back-to-growth-performance-improvement-strategy-execution-on-track.html",
+      "published_at": "2026-07-28",
+      "title": "Kering 2026 First-Half Results: Gucci decline narrows, Asia-Pacific shows early recovery signs",
+      "summary": "Kering's official H1 2026 results show group revenue returning to comparable growth (+1%) after twelve straight quarterly declines. Gucci H1 revenue fell 9% reported / 5% comparable to EUR 2,757 million, but posted its strongest sequential retail acceleration in several quarters. North America led growth; Western Europe and Asia-Pacific showed early signs of recovery while Mainland China remained challenging but improving through Q2. Kept as the standing quarterly financial baseline for the SEA/APAC market since no more recent disclosure exists; note this is ~24 days old, older than the ideal 72hr-7day window but retained as load-bearing regional data.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-21-002",
+      "region": "SEA",
+      "source": "TheIndustry.fashion",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.theindustry.fashion/kering-revenue-falls-as-gucci-declines-persist-despite-early-signs-of-recovery/",
+      "published_at": "2026-07-29",
+      "title": "Kering revenue falls as Gucci declines persist despite early signs of recovery",
+      "summary": "Trade coverage of Kering's H1 2026 results noting Gucci's continued weaker performance in Asia-Pacific and Western Europe even as North America grew roughly 8% year-on-year. Frames the Gucci turnaround as still incomplete across Asia, including Southeast Asian markets, providing a critical counterweight to promotional coverage. Same age caveat as item 001.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-21-004",
+      "region": "SEA",
+      "source": "TikTok (#gucci / regional hashtags, public discovery page)",
+      "source_type": "sns",
+      "tier": "T3",
+      "url": "https://www.tiktok.com/discover/gucci-model-challenge",
+      "published_at": "2026-08 (ongoing trend, exact post dates not resolvable)",
+      "title": "\"Gucci Model Challenge\" and bag-unboxing trend content, incl. Ho Chi Minh City-tagged posts",
+      "summary": "Public TikTok discovery aggregation shows continued organic Gen-Z engagement with Gucci through a styling/modeling challenge format and ASMR-style bag unboxing videos, with some content carrying Vietnam-specific tags (#guccihcmc). Individual post-level reach/like/comment metrics are not visible on the aggregator page, so left null. Included to satisfy the mandatory SNS channel; flagged as a trend aggregator rather than a single dated, attributable post, so weighted as weak/low-confidence signal.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-21-005",
+      "region": "SEA",
+      "source": "PurseForum (PurseBlog)",
+      "source_type": "community",
+      "tier": "T3",
+      "url": "https://forum.purseblog.com/threads/unpopular-gucci-opinions.1052856/",
+      "published_at": "undated, rolling thread (not attributable to a single day)",
+      "title": "\"Unpopular Gucci Opinions\" community thread",
+      "summary": "Long-running PurseForum thread where members criticize Gucci designs as 'tacky and overdone,' argue logo over-saturation has diluted brand exclusivity, and debate whether recent collections feel derivative under the brand's post-Michele creative direction. Included per anti-bias balance duty, since brand-keyword searches otherwise returned almost entirely promotional/activation coverage for SEA. Because the thread has no single publish date, it is recorded with minimal recency weight and should not be treated as a dated daily event.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 10,
+    "Louis Vuitton": 0,
+    "Dior": 0,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0
+  }
+}

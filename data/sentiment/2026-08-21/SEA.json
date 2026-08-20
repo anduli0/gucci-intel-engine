@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SEA-2026-08-21-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Official H1 results show continued Gucci revenue decline (-9% reported/-5% comp) despite a partial sequential improvement, net negative earnings signal.",
+    "signal_tags": ["earnings", "momentum_press", "apac_recovery"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-21-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press verdict that Gucci's Asia/SEA turnaround remains incomplete despite headline recovery framing elsewhere.",
+    "signal_tags": ["earnings", "momentum_press", "trade_press", "apac_weakness"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-08-21-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trend aggregator of organic TikTok content with no attributable metrics or clear evaluative stance; low-confidence polarity demoted to neutral.",
+    "signal_tags": ["sns", "trend_aggregator", "gen_z", "low_confidence"],
+    "confidence": 0.3
+  },
+  {
+    "id": "SEA-2026-08-21-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community members criticize designs as tacky/overdone and logo-saturated, calling post-Michele collections derivative; undated rolling thread caps recency weight.",
+    "signal_tags": ["design_criticism", "brand_dilution", "community", "anti_bias_balance"],
+    "confidence": 0.55
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-20260821-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD's independent runway review is mixed -- tailoring praised, but accessories/styling called uninteresting or overly provocative -- net balanced.",
+    "signal_tags": ["runway_review", "creative_direction", "mixed_reception"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260821-04",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Bernstein's independent 7.6/10 score reads as directionally positive improvement versus prior debut despite qualified criticism.",
+    "signal_tags": ["analyst_verdict", "runway_review", "turnaround_narrative"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260821-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Persistent price-hike and value-for-money backlash with members shifting spend to Bottega Veneta or resale instead of new Gucci.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "peer_comparison"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260821-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Viral comparison video draws mixed-to-critical reactions on declining casting/styling standards under new creative regime.",
+    "signal_tags": ["design_criticism", "viral_content", "creative_direction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-20260821-07",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community reaction to bag redesigns is genuinely split between enthusiasts and buyers calling them derivative.",
+    "signal_tags": ["product_redesign", "community_reaction", "mixed_sentiment"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260821-08",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic TikTok BagTok content favorably compares Gucci bags to competitors in aspirational everyday-styling context.",
+    "signal_tags": ["organic_ugc", "purchase_intent", "product_praise"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260821-09",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Q2 revenue beat consensus with Gucci decline narrowing and North America comps accelerating to 3.7% growth.",
+    "signal_tags": ["earnings_momentum", "regional_growth", "quantified_demand"],
+    "confidence": 0.85
+  }
+]

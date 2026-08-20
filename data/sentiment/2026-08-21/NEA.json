@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NEA-2026-08-21-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Bloomberg-sourced report of double-digit YoY sales decline for Kering/Gucci amid China luxury spending slump.",
+    "signal_tags": ["negative_earnings", "china_macro", "momentum_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-21-002",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade-press analysis sees early turnaround signals in Kering results, but explicitly hedges that recovery remains difficult.",
+    "signal_tags": ["turnaround_narrative", "earnings_analysis", "conditional"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-21-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical report on 25% sales drop, oversupply forcing permanent outlet discounts, and documented QC failures (fading, peeling).",
+    "signal_tags": ["quality_complaint", "outlet_discount_image", "oversupply", "negative_earnings"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-21-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reader comments echo firsthand experience of outlet devaluation and 'no longer special' sentiment; no engagement metrics available.",
+    "signal_tags": ["value_for_money", "outlet_discount_image", "consumer_sentiment"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-21-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Gucci Japan X post describing new Jackie Flap bag launch; purely descriptive promo copy, not public opinion.",
+    "signal_tags": ["activation_coverage", "product_launch", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-21-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent resale-value data shows average 42% retention (low among peers) and explicit warning against Gucci as an investment.",
+    "signal_tags": ["resale_value_drop", "quantified_third_party_data", "investment_warning"],
+    "confidence": 0.85
+  }
+]
