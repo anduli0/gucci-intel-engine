@@ -1,0 +1,83 @@
+[
+  {
+    "id": "EU-2026-08-22-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "German press frames H1 recovery as fragile, stressing Gucci Q2 comps still fell 2% and remain below prior-year levels",
+    "signal_tags": ["earnings", "momentum", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-22-002",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "HSBC upgrades Kering to Buy citing narrower Gucci decline and US leather-goods strength, but piece also notes split analyst sentiment",
+    "signal_tags": ["earnings", "analyst_rating", "trade_press"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-22-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical Swiss broadcast piece on revenue near-halving, quality problems, logo overexposure, and ~275 planned store closures",
+    "signal_tags": ["quality_complaint", "design_criticism", "earnings", "trade_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-22-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Brand Finance ranking shows Gucci brand value down 25.3% and dropped to 5th among Italian brands; stale but still cited data point, capped magnitude",
+    "signal_tags": ["brand_value", "earnings", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-22-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual confirmation of Gucci's Milan runway date; forward-looking anticipation framing without an evaluative verdict",
+    "signal_tags": ["show_schedule", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-22-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Large grassroots Trustpilot thread with recurring quality/craftsmanship and customer-service complaints across 1,600+ reviews",
+    "signal_tags": ["quality_complaint", "customer_service", "community"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-22-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "TikTok recirculation of Kate Moss runway look shows genuinely mixed reactions (praise vs. unflattering critique) months after original show",
+    "signal_tags": ["sns", "runway_reaction", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-08-22-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Repost of Gucci-staged La Famiglia campaign with mixed comments (some design-originality criticism, some support); activation coverage without clear net verdict",
+    "signal_tags": ["activation_coverage", "sns", "mixed_reaction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-08-22-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector forum thread debates whether Flora reissue is genuine direction or safe nostalgia play; no clear net polarity, low-confidence detail due to inaccessible source",
+    "signal_tags": ["community", "product_launch", "mixed_reaction"],
+    "confidence": 0.45
+  }
+]

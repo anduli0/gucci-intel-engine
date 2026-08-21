@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NA-20260822-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci Beauty license exits Coty a year early with flagged sales/profit step-down, signaling disruption to a steady US retail touchpoint",
+    "signal_tags": ["earnings_press", "licensing", "beauty"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260822-02",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock pullback and still-negative Gucci comparable revenue leave US investors unconvinced turnaround is real",
+    "signal_tags": ["negative_earnings_press", "stock_performance", "turnaround_skepticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260822-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine authentication-request thread for a thrifted bag; counterfeit-adjacent inquiry defaults neutral, thinning moderation is incidental context",
+    "signal_tags": ["counterfeit_trap", "resale_community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260822-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Persistent dupe-seeking content volume signals full-price accessibility pain point even though framing is value-conscious not hostile",
+    "signal_tags": ["dupe_culture", "counterfeit_trap", "price_accessibility"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-20260822-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained US price-hike backlash thread with value-for-money complaints and spend shifting to Bottega Veneta or resale over new-season Gucci",
+    "signal_tags": ["price_backlash", "value_for_money", "peer_comparison"],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "brand_group": "Kering",
+  "date": "2026-08-22",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Kering",
+      "event_type": "financial",
+      "headline": "케링 주가, H1 2026 실적 발표 이후 변동성 확대 — 12분기 만의 플러스 성장에도 투자자 신뢰는 회복 못해",
+      "summary": "케링 주가는 2026년 8월 11~17일 사이 약 9% 급락했으며 8월 17일 하루에만 4.26% 하락(주당 257.10유로 마감)했다. 12분기 연속 역성장 끝에 H1 2026 매출이 비교 기준 1% 성장으로 전환됐음에도, 투자자들은 회복 속도가 미미하다고 평가하며 케링을 CAC40 최악의 낙폭 종목으로 만들었다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-extends-recent-slide-as-luxury-weakness-weighs-on-valuation/69966765",
+      "source": "ad-hoc-news (Kering stock coverage)",
+      "tier": "T2",
+      "published_at": "2026-08-17",
+      "why_it_matters": "구찌는 케링 매출의 핵심 축이며, 구찌의 2분기 낙폭 축소(-2%)가 그룹 반등의 근거로 인용되고 있다 — 시장이 구찌 개선을 그룹 전체 밸류에이션의 신뢰 지표로 보고 있다는 뜻이므로 구찌 실적 지속 여부가 케링 주가 방향을 좌우한다.",
+      "why_it_matters_en": "Gucci is the anchor of Kering's revenue, and its narrowed Q2 decline (-2%) is being cited as the basis for group recovery narratives — meaning continued Gucci improvement, not just Kering's headline H1 growth, is what markets are actually pricing.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "corporate/strategy",
+      "headline": "케링, 생로랑·보테가베네타·발렌시아가 각 브랜드별 전략 목표 공개 — 가죽제품 비중 두 배 확대 목표",
+      "summary": "케링은 2030년까지 그룹 내 핸드백·가죽제품 매출 비중을 현재 10%에서 20%로 두 배로 늘리겠다는 목표를 제시했다. 발렌시아가는 TV·음악·스포츠·웰니스·게임 등 7개 문화 영역에서 브랜드 관련성을 강화하는 전략을, 보테가베네타는 가죽제품 글로벌 리더십과 베네치아 정체성 강화를 축으로 한다.",
+      "url": "https://wwd.com/fashion-news/designer-luxury/kering-strategy-saint-laurent-balenciaga-bottega-1238918517/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-19",
+      "why_it_matters": "케링이 그룹 차원에서 가죽제품 비중 확대를 명시한 것은 구찌 내부적으로도 핸드백 라인 강화 압박이 커진다는 의미 — 자매 브랜드들이 유사한 카테고리에서 자원을 배분받으면 구찌의 우선순위 경쟁이 심화될 수 있다.",
+      "why_it_matters_en": "Kering's group-wide push to double leather goods share (10% to 20% by 2030) signals intensified internal competition for resources and category focus among sister brands, including Gucci, which shares the same leather goods battleground.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Saint Laurent",
+      "event_type": "controversy/executive",
+      "headline": "안토니 바카렐로 생로랑 이탈설 SNS 확산 — 10년 재임 마무리 시점과 겹쳐 관심 집중",
+      "summary": "바카렐로가 생로랑을 떠난다는 소문이 소셜미디어에서 확산되고 있으나 공식 확인은 없는 상태다. 2016년 취임 이후 브랜드 매출을 12.2억 유로(2016년)에서 33억 유로(2022년)로 끌어올린 바카렐로는 내년이면 재임 10년을 맞는다.",
+      "url": "https://fashionunited.com/news/people/anthony-vaccarellos-decade-at-saint-laurent-a-retrospective/2026081874127",
+      "source": "FashionUnited",
+      "tier": "T2",
+      "published_at": "2026-08-18",
+      "why_it_matters": "케링 산하 최장수·최고 실적 크리에이티브 디렉터 중 한 명의 교체설은 구찌의 뎀나 체제 안정성과 비교당할 수밖에 없는 벤치마크 — 만약 이탈이 현실화되면 케링 전체의 CD 교체 리스크 서사에 구찌도 재차 소환될 가능성이 크다.",
+      "why_it_matters_en": "Unconfirmed departure rumors around Kering's longest-tenured, highest-performing creative director inevitably become a benchmark against Demna's Gucci tenure stability; if realized, it would reinforce a group-wide creative-director turnover narrative that keeps drawing comparisons back to Gucci.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "campaign/creative",
+      "headline": "루이즈 트로터 체제 보테가베네타, 중국서 호평 지속 — '케링의 왕관' 별칭 얻어",
+      "summary": "2025년 10월 데뷔 컬렉션이 웨이보에서 1억3000만 뷰를 기록한 데 이어, 트로터의 보테가베네타는 케링 내에서 상대적으로 견조한 실적(2025년 상반기 매출 +1%)과 함께 중국 소비자들 사이에서 '케링의 크라운 주얼'로 불리고 있다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17019/bottega-veneta-autumn-winter-2026-show-review-louise-trotter",
+      "source": "AnOther Magazine",
+      "tier": "T2",
+      "published_at": "2026-08-14",
+      "why_it_matters": "보테가베네타가 케링 산하에서 상대적 우등생으로 자리매김하면서, 그룹 자원·마케팅 우선순위 배분에서 구찌와 경쟁 구도가 형성될 수 있다 — 특히 중국 시장에서 보테가의 우호적 여론은 구찌의 중국 회복 서사와 직접 비교된다.",
+      "why_it_matters_en": "Bottega Veneta's emergence as Kering's relative star performer — especially its favorable reception in China — creates a direct internal comparison point against Gucci's own China recovery narrative and could shift group resource allocation.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Balenciaga",
+      "event_type": "shows_launches",
+      "headline": "발렌시아가, 피에르파올로 피촐리의 2026 F/W 쿠튀르 두 번째 컬렉션 공개 — HG 애비뉴·조지백 신제품 출시",
+      "summary": "피촐리가 파리 패션위크에서 발렌시아가 소포모어 컬렉션을 선보였으며, '몸 자체가 의상의 구조가 된다'는 콘셉트 아래 81룩을 공개하고 신규 백 라인인 HG 애비뉴백과 조지백을 데뷔시켰다.",
+      "url": "https://wwd.com/fashion-news/shows-reviews/gallery/balenciaga-fall-2026-couture-collection-1239057690/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-14",
+      "why_it_matters": "피촐리가 발렌티노 스타일의 쿠튀르 감성을 발렌시아가에 이식하며 신규 백 출시로 상업성을 동시에 노리는 행보는, 구찌가 뎀나 체제 이후 신규 크리에이티브 디렉터의 상업/쿠튀르 균형을 어떻게 잡을지에 대한 참고 사례가 된다.",
+      "why_it_matters_en": "Piccioli's blend of couture sensibility with new commercial bag launches at Balenciaga offers a reference case for how Gucci's own creative direction (post-Demna) might balance artistic repositioning with revenue-driving product drops.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "corporate/M&A",
+      "headline": "케링 주얼리 부문 신설 완료 — 부셰론·포멜라토·도도·킬린 통합, 2030년까지 매출 두 배 목표",
+      "summary": "케링은 부셰론, 포멜라토, 도도, 킬린을 하나의 '케링 주얼리' 사업부로 통합하고 장마르크 뒤플렉스를 CEO로 임명했다. 연간 약 10억 유로 매출을 내는 이 브랜드군은 2030년까지 매출 두 배 확대를 목표로 하며, 부셰론은 워치 카테고리 진출과 미국·아시아 확장을 추진한다.",
+      "url": "https://nationaljeweler.com/articles/14788-kering-establishes-jewelry-division-appoints-ceo",
+      "source": "National Jeweler",
+      "tier": "T2",
+      "published_at": "2026-08-12",
+      "why_it_matters": "케링이 주얼리 사업 구조를 독립 부문으로 재편하며 성장축을 다변화하는 것은 구찌 뷰티/주얼리 라인에 대한 그룹 차원의 투자 우선순위가 상대적으로 희석될 수 있음을 시사한다.",
+      "why_it_matters_en": "Kering's restructuring of jewelry into a standalone, growth-targeted division diversifies the group's growth engines beyond fashion houses, which could mean Gucci's own jewelry/beauty ambitions compete harder for group capital and attention.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Saint Laurent",
+      "event_type": "trend",
+      "headline": "생로랑 몸바사백, 2026년 '올해의 잇백'으로 부상 — 톰 포드 시대 디자인 재출시가 셀럽 채택 확산",
+      "summary": "2002년 톰 포드 시절 출시됐던 몸바사백이 2026년 봄 재출시되며 파리·뉴욕·서울의 셀럽들 사이에서 빠르게 확산되고 있다. 업계 매체들은 이를 '2026년 첫 잇백'으로 지목하고 있다.",
+      "url": "https://www.whowhatwear.com/fashion/handbags/saint-laurent-mombasa-bag",
+      "source": "Who What Wear",
+      "tier": "T2",
+      "published_at": "2026-08-10",
+      "why_it_matters": "경쟁사 아카이브 재출시가 셀럽 채택을 통해 유기적 확산에 성공한 사례는, 구찌 아카이브(호스빗·잭키백 등) 재출시 전략의 상업적 잠재력을 가늠할 벤치마크가 된다.",
+      "why_it_matters_en": "A rival's archive-revival bag achieving organic celebrity-driven virality is a direct benchmark for the commercial upside of Gucci's own heritage reissue strategy (Horsebit, Jackie, etc.).",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering Eyewear",
+      "event_type": "financial",
+      "headline": "케링 아이웨어, 2분기 매출 4억7600만 유로로 8% 성장 — 발렌티노 아이웨어 데뷔가 견인",
+      "summary": "케링 아이웨어는 2026년 2분기 매출이 전년 대비 8%(환율 조정 기준) 성장했으며, 린드버그 40주년 캡슐 컬렉션, 마우이짐 옵티컬 재출시, 발렌티노 아이웨어 데뷔가 성장을 견인했다. 상반기 누적 매출은 9억6500만 유로로 8% 증가했다.",
+      "url": "https://www.keringeyewear.com/newsroom",
+      "source": "Kering Eyewear newsroom",
+      "tier": "T1",
+      "published_at": "2026-08-05",
+      "why_it_matters": "케링 아이웨어의 견조한 성장은 구찌 아이웨어 라이선싱 사업의 그룹 내 벤치마크 실적 기준이 되며, 발렌티노 신규 파트너십 성공 사례는 구찌 아이웨어 라인 재활성화 전략에 참고가 될 수 있다.",
+      "why_it_matters_en": "Kering Eyewear's solid growth sets a group benchmark that Gucci's own eyewear licensing performance gets measured against, and Valentino's successful new-partnership launch offers a playbook Gucci eyewear could draw on.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "nea-20260822-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Jackie Flap bag launch write-up with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-20260822-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mainstream syndication of the same Jackie Flap launch, descriptive and non-evaluative.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-20260822-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fashion-trade descriptive coverage of Jackie Flap craftsmanship details, no critical judgment offered.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-20260822-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-snap lifestyle feature on the bag launch, descriptive rather than a critical or purchase-intent verdict.",
+    "signal_tags": ["activation_coverage", "celebrity_style", "product_launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-20260822-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical framing of Gucci's China store closures amid a two-year contracting mainland luxury market.",
+    "signal_tags": ["store_closures", "china_market", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-20260822-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual brand-value ranking citation (Kantar BrandZ) with no evaluative framing beyond the figure itself.",
+    "signal_tags": ["brand_value", "industry_standing"],
+    "confidence": 0.7
+  },
+  {
+    "id": "nea-20260822-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent, quantified market reaction: Kering shares surged 15% on Gucci's turnaround momentum, non-activation.",
+    "signal_tags": ["earnings", "market_reaction", "turnaround"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-20260822-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Korean consumer spend shifting from bags/RTW toward jewelry/watches is an indirect negative for Gucci's core leather-goods category.",
+    "signal_tags": ["category_shift", "korea_market", "indirect_signal"],
+    "confidence": 0.55
+  }
+]

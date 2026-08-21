@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-08-22-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "12th straight quarterly sales decline, store closures, cautious CEO outlook framed as negative momentum press",
+    "signal_tags": ["earnings", "momentum_negative", "store_closures"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-22-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual localized earnings recap mixing continued revenue decline with new-bag-driven improvement, no clear evaluative verdict",
+    "signal_tags": ["earnings", "localized_press", "product_launch"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-22-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of FW26 preview event and celebrity attendance, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "runway_preview", "celebrity"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-22-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of Gucci-produced short-film marketing campaign, press-kit derived with no outlet verdict",
+    "signal_tags": ["activation_coverage", "marketing_campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-22-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Criminal counterfeit enforcement case shows scale of fake-Gucci market damaging brand image, mild negative per counterfeit trap",
+    "signal_tags": ["counterfeit", "enforcement", "brand_risk"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-08-22-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic unboxing video with no captured evaluative statement or engagement metrics available, defaulted neutral",
+    "signal_tags": ["sns", "unboxing", "organic"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-08-22-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community criticism of logo-heavy designs as derivative post-Michele, damped for rolling/undated thread",
+    "signal_tags": ["design_criticism", "community", "derivative_narrative"],
+    "confidence": 0.55
+  }
+]

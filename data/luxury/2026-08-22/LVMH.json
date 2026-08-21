@@ -1,0 +1,152 @@
+{
+  "brand_group": "LVMH",
+  "date": "2026-08-22",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "LVMH",
+      "event_type": "financial",
+      "headline": "LVMH 주가, 448유로선에서 52주 고점 대비 30% 이상 하락 상태 지속",
+      "summary": "2026년 8월 21일 LVMH 주가는 448.50유로로 전일 대비 1.22% 상승했으나, 여전히 52주 고점 654.70유로 대비 약 200유로 낮은 수준이다. 상반기 매출은 386억 유로로 전년 대비 3% 감소했지만 2분기 유기적 성장률은 3%(중동 영향 제외 시 4%)로 회복세를 보였다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-stock-holds-below-recent-highs-as-h1-2026-earnings-highlight-mixed/69982498",
+      "source": "ad-hoc-news / MarketScreener",
+      "tier": "T2",
+      "published_at": "2026-08-21",
+      "why_it_matters": "LVMH 주가가 연초 대비 30% 이상 하락한 채 반등 초입에 머무는 상황은 명품 업계 전반의 밸류에이션 재조정이 아직 끝나지 않았음을 보여주며, 케링·구찌의 시장 벤치마크에도 영향을 준다",
+      "why_it_matters_en": "LVMH's stock remaining down over 30% from its 52-week high even after a Q2 organic-growth uptick shows the industry-wide luxury valuation reset is not yet resolved, a relevant benchmark for Kering and Gucci.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "financial",
+      "headline": "LVMH 패션·가죽제품 부문, 2년 만에 처음으로 분기 매출 반등",
+      "summary": "2026년 2분기 실적에서 LVMH 패션·가죽제품 부문 매출이 2년 만에 처음으로 플러스 전환됐다고 WWD가 보도했다. 다만 상반기 전체로는 이 부문 매출이 181억 유로로 여전히 1% 감소(유기적 기준)를 기록했다.",
+      "url": "https://wwd.com/business-news/financial/lvmh-fashion-leather-goods-q2-2026-increase-1239083331/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-21",
+      "why_it_matters": "루이 비통·디올 등 핵심 브랜드가 포함된 패션·가죽제품 부문의 반등 신호는 케링·구찌가 비교당할 업계 회복 속도의 기준점이 되지만, 반기 기준으로는 여전히 역성장이라는 점에서 과장된 낙관은 경계해야 한다",
+      "why_it_matters_en": "A quarterly rebound in LVMH's Fashion & Leather Goods division (its first in two years) sets an industry recovery-pace benchmark Kering/Gucci will be measured against, though the division was still down 1% organically for the full half — a reason not to overread the turn.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Dior",
+      "event_type": "launch",
+      "headline": "디올, 프랑시스 커드지앙 조향으로 미스 디올 오 드 퍼퓸 전면 개편",
+      "summary": "디올이 2021년 이후 처음으로 미스 디올 오 드 퍼퓸을 전면 리뉴얼해 2026년 8월 출시했다. 그라스 장미·바닐라·샌달우드 중심으로 향을 재구성했고, 나탈리 포트만이 계속 얼굴을 맡았으며 하운즈투스 리본 디자인의 병을 새로 선보였다.",
+      "url": "https://www.whowhatwear.com/beauty/fragrance/dior-miss-dior-eau-de-parfum-2026",
+      "source": "Who What Wear",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "디올의 핵심 프랜차이즈 향수를 5년 만에 재단장하는 방식은 구찌 뷰티가 자사 시그니처 향수 라인을 어떻게 리프레시할지 참고할 벤치마크다",
+      "why_it_matters_en": "Dior's first refresh of its flagship Miss Dior fragrance in five years is a benchmark for how Gucci Beauty might approach revitalizing its own signature scent line.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "partnership",
+      "headline": "루이 비통, 뉴욕 프릭 컬렉션의 3년 단독 문화 후원사로 선정",
+      "summary": "루이 비통이 뉴욕 프릭 컬렉션의 향후 3개 주요 특별전(10월 개막하는 '시에나: 청동 예술 1450-1500' 포함)을 후원하는 단독 문화 파트너로 발표됐다. 매월 첫째 금요일 무료 개방 프로그램도 함께 지원한다.",
+      "url": "https://www.lvmh.com/en/news-lvmh/louis-vuitton-becomes-principal-cultural-sponsor-of-the-frick-collection-for-the-coming-three-years",
+      "source": "LVMH.com",
+      "tier": "T1",
+      "published_at": "2026-07-22",
+      "why_it_matters": "루이 비통의 미술관 장기 후원 전략은 브랜드 문화자본 축적 방식을 보여주며, 구찌가 예술·문화 파트너십을 통해 헤리티지 신뢰도를 구축하는 방식과 비교할 벤치마크다",
+      "why_it_matters_en": "Louis Vuitton's multi-year museum sponsorship illustrates a cultural-capital accumulation strategy, a comparison point for how Gucci builds heritage credibility through arts partnerships.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Fendi",
+      "event_type": "show",
+      "headline": "펜디, 마리아 그라치아 치우리 체제 첫 쿠튀르 컬렉션 공개",
+      "summary": "마리아 그라치아 치우리가 실비아 벤투리니 펜디의 후임으로 취임한 뒤 첫 오트쿠튀르 컬렉션을 선보였다. 인타르시아·레이스·자수 등 펜디 장인 기술을 강조한 컬렉션으로 평가받았다.",
+      "url": "https://wwd.com/fashion-news/shows-reviews/gallery/fendi-fall-2026-couture-collection-1239062003/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-09",
+      "why_it_matters": "디올을 떠난 조나단 앤더슨의 자리를 치우리가 메우며 LVMH 내 크리에이티브 디렉터 이동이 연쇄적으로 일어나는 상황은, 구찌의 데미나 체제 안정성을 상대적으로 평가할 기준이 된다",
+      "why_it_matters_en": "Chiuri's move to Fendi following Anderson's departure from Loewe/arrival at Dior continues a chain reaction of creative-director moves across LVMH, a useful relative-stability comparison for Gucci's current Demna-led regime.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "M&A",
+      "headline": "LVMH, 마크 제이콥스를 WHP 글로벌·G-III 합작사에 매각",
+      "summary": "LVMH가 1997년부터 보유해온 마크 제이콥스 브랜드를 WHP 글로벌과 G-III 어패럴 그룹의 50대 50 합작사에 매각하기로 최종 합의했다. G-III는 최대 4억 2500만 달러를 투자할 계획이며, 마크 제이콥스 본인은 크리에이티브 디렉터로 계속 남는다.",
+      "url": "https://www.businessoffashion.com/articles/luxury/confirmed-lvmh-sells-marc-jacobs-to-whp-global/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-05-14",
+      "why_it_matters": "LVMH가 비핵심 브랜드를 매각하며 포트폴리오를 선별적으로 재정비하는 움직임은, 케링이 브리오니 등 저성과 브랜드를 다룰 방식에 시사점을 주는 그룹 전략 벤치마크다",
+      "why_it_matters_en": "LVMH divesting a non-core brand to selectively rationalize its portfolio is a group-strategy benchmark relevant to how Kering might handle underperforming houses like Brioni.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Loro Piana",
+      "event_type": "legal",
+      "headline": "로로피아나 이탈리아 하청업체 불법 노동 의혹, 디올 스캔들과 함께 배경 리스크로 잔존",
+      "summary": "디올 이탈리아 제조 자회사의 노동 착취 사법관리 사건에 이어 로로피아나도 이탈리아 불법 스웨트숍 하청 의혹으로 조사를 받았다. LVMH는 공급망 수직계열화 강화를 약속했으나, 투자자들은 여전히 더 강력한 공급망 감시를 요구하고 있다.",
+      "url": "https://www.businessoffashion.com/news/sustainability/lvmh-vertical-integration-dior-scandal-invest/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2025-11-01",
+      "why_it_matters": "디올에 이어 로로피아나까지 이탈리아 제조 공급망 스캔들에 연루된 것은 이탈리아 명품 아웃소싱 생태계 전반의 규제 리스크가 구조적임을 시사하며, 같은 생태계를 공유하는 구찌도 동일한 노출 위험을 안고 있다",
+      "why_it_matters_en": "Loro Piana joining Dior as a target of Italian sweatshop-sourcing scrutiny suggests the regulatory risk in Italian luxury manufacturing outsourcing is structural, not brand-specific — and Gucci shares the same production ecosystem exposure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Givenchy",
+      "event_type": "campaign",
+      "headline": "지방시, 사라 버튼 체제 아래 애니 레보비츠 촬영 2026 여름 캠페인 공개",
+      "summary": "지방시가 사라 버튼의 디자인 캐스팅을 담은 2026 여름 캠페인을 공개했으며, 애니 레보비츠가 콜리어 쇼어와 함께 촬영을 맡았다. 사라 버튼 부임 후 첫 주요 신규 백 '스내치'도 함께 공개돼 상업적 히트를 노리고 있다.",
+      "url": "https://press.givenchy.com/?p=8300",
+      "source": "Givenchy Pressroom",
+      "tier": "T1",
+      "published_at": "2026-06-01",
+      "why_it_matters": "지방시가 유명 사진작가 기용과 신규 아이코닉백 출시를 동시에 밀어붙이는 방식은, 구찌가 데미나 체제에서 상업적 히트작을 만들어내야 하는 압박과 직접 비교되는 벤치마크다",
+      "why_it_matters_en": "Givenchy pairing a marquee photographer with a new potential icon bag under Sarah Burton is a direct benchmark for the commercial-hit pressure Gucci faces under its own creative regime.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Loewe",
+      "event_type": "trend",
+      "headline": "로에베 퍼즐백, 앤더슨 퇴임 이후에도 리세일 시장에서 견조한 가치 유지",
+      "summary": "로에베의 대표 아이콘인 퍼즐백이 출시 10년이 지난 2026년에도 리세일 시장에서 샤넬 클래식 플랩·에르메스 버킨에 견줄 만한 강한 보유가치를 유지하고 있다고 업계 매체들이 보도했다. 조나단 앤더슨이 떠난 뒤 매콜로·에르난데스 체제에서도 핵심 상업 자산으로 계속 활용되고 있다.",
+      "url": "https://secondsense.co/blog/resale-value-of-loewe-puzzle-bag-compared-to-other-designer-handbags",
+      "source": "Secondsense",
+      "tier": "T3",
+      "published_at": "2026-08-15",
+      "why_it_matters": "크리에이티브 디렉터가 교체돼도 견고한 아이코닉백의 리세일 가치가 유지되는 사례는, 구찌가 조디악·자키백 등 자사 아이콘 자산의 장기 가치를 어떻게 설계해야 하는지에 대한 카테고리 트렌드 시사점을 준다",
+      "why_it_matters_en": "The Puzzle bag holding strong resale value a decade in and across a creative-director transition is a category-trend signal for how Gucci should engineer long-term durability into its own icon assets like the Jackie or Horsebit bags.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Dior",
+      "event_type": "legal",
+      "headline": "디올 이탈리아 노동력 착취 스캔들, 여전히 배경 리스크로 남아",
+      "summary": "밀라노 법원이 디올의 이탈리아 제조 자회사를 노동 착취 혐의로 사법관리 하에 두었던 사건과 관련해 디올은 피해 노동자 지원을 위해 5년간 200만 유로를 지급하기로 합의했다. 2024~2025년 촉발된 이슈지만 이탈리아 명품 공급망 규제 리스크로 계속 거론된다.",
+      "url": "https://wwd.com/sourcing-journal/industry-news/dior-lvmh-italy-chinese-sweatshops-garment-workers-exploitation-1238835750/",
+      "source": "WWD / Sourcing Journal",
+      "tier": "T1",
+      "published_at": "2025-05-21",
+      "why_it_matters": "디올 공급망 스캔들은 이탈리아 명품 제조 아웃소싱 전반의 규제 압력을 상징하며, 구찌도 동일한 이탈리아 제조 생태계에 노출되어 있어 배경 리스크로 계속 모니터링해야 한다",
+      "why_it_matters_en": "Dior's supply-chain labor scandal exemplifies rising regulatory pressure on Italian luxury manufacturing outsourcing; Gucci shares the same Italian production ecosystem and carries comparable background exposure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Loro Piana",
+      "event_type": "executive",
+      "headline": "LVMH, 로로피아나 지분을 94%로 확대",
+      "summary": "2026년 1월 LVMH가 로로피아나 지분을 94%까지 늘렸으며, 프레데릭 아르노가 워치 부문 CEO에서 로로피아나 CEO로 자리를 옮겨 이끌고 있다.",
+      "url": "https://www.lvmh.com/en/news-lvmh",
+      "source": "LVMH.com",
+      "tier": "T1",
+      "published_at": "2026-01-01",
+      "why_it_matters": "아르노 가문 후계 구도와 브랜드 지분 확대가 맞물린 이 사례는 LVMH의 패밀리 경영 승계 전략을 보여주는 구조적 벤치마크로 계속 유효하다",
+      "why_it_matters_en": "The pairing of expanded ownership with an Arnault-family CEO placement remains a structurally relevant benchmark for LVMH's family-succession governance model.",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}
