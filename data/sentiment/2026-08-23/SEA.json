@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SEA-2026-08-23-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive Vogue PH write-up of Demna's Generation Gucci campaign with no independent evaluative verdict, just what/who/where.",
+    "signal_tags": ["activation_coverage", "campaign", "local_talent"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-23-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Vietnam counterfeit network story highlights pervasive Gucci fakes and enforcement scale, a brand-image controversy signal.",
+    "signal_tags": ["counterfeit", "controversy", "enforcement"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-23-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned HCMC Facebook post with moderate, unspectacular engagement; own-channel promo is not public opinion.",
+    "signal_tags": ["activation_coverage", "owned_channel", "engagement"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-23-004",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Kering Q2 results show Gucci's sales decline narrowing to best sequential pace in quarters, though Citi flagged margin caution and item is dated/borderline-fresh.",
+    "signal_tags": ["earnings", "momentum", "APAC_revenue", "stale_flagged"],
+    "confidence": 0.6
+  }
+]

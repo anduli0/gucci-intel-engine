@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NA-20260823-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock pressured by China slowdown and license restructuring headwinds despite narrowing Gucci comp decline; net negative momentum press.",
+    "signal_tags": ["earnings_momentum", "china_slowdown", "financial_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260823-02",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press frames Gucci's US positioning as structurally losing ground to Coach's accessible-luxury trade-down appeal.",
+    "signal_tags": ["trade_press", "peer_comparison", "positioning_risk"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260823-03",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Grassroots collector purchase-intent thread includes enthusiastic Gucci pickups, but low-intensity and imprecisely dated.",
+    "signal_tags": ["purchase_intent", "community", "grassroots"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260823-04",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent creator praises Paparazzo bag unprompted as underrated; genuine third-party product enthusiasm but single small post with no engagement metrics.",
+    "signal_tags": ["product_praise", "sns", "purchase_intent"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260823-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing price-hike backlash thread with value-for-money complaints and spend shifting toward Bottega Veneta/resale.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260823-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregator review page carries recurring stitching/QC failures and unresolved outlet customer-service complaints.",
+    "signal_tags": ["quality_complaint", "cx_complaint", "community"],
+    "confidence": 0.55
+  }
+]

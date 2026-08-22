@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "SEA-2026-08-23-001",
+      "region": "SEA",
+      "source": "Vogue Philippines",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://vogue.ph/vogue-partnerships/generation-gucci-demna/",
+      "published_at": "2026-08-10",
+      "title": "Inside Demna's Generation Gucci Campaign (Vogue Philippines August 2026 issue)",
+      "summary": "Vogue Philippines' August 2026 print issue features Demna's 'Generation Gucci' lookbook (84 portraits, models including Alex Consani, Gabbriette, Elsa Hosk), shot in part by Filipino photographer JV Rabano at Manila locations (Vestido the Studio, WILD Cafe, TREEHOUSE). Piece frames Gucci as a cross-generational cultural language and highlights updated Jackie, Dionysus, Giglio and Paparazzo bags. Local angle: a Philippine creative directly involved in the brand's global campaign rollout.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-23-002",
+      "region": "SEA",
+      "source": "VietNamNet (English)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://vietnamnet.vn/en/fake-gucci-hermes-goods-expose-counterfeit-fashion-network-in-vietnam-2545641.html",
+      "published_at": "2026-08-15",
+      "title": "Fake Gucci, Hermes goods expose counterfeit fashion network in Vietnam",
+      "summary": "Vietnamese authorities uncovered a nationwide counterfeit network (Phu Tho, Can Tho, Ho Chi Minh City, Hanoi, Khanh Hoa, Lang Son) selling fake Louis Vuitton, Dior, Gucci, Hermes, Nike and other branded goods via shops, warehouses and social platforms (Facebook, Zalo, TikTok, Shopee). Single seizures ranged from ~VND380 million to VND3.4 billion in counterfeit goods; total illicit profits described as tens of billions of dong. Critical-angle signal: highlights how pervasive Gucci counterfeiting is in the Vietnamese market and the scale of enforcement needed.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-23-003",
+      "region": "SEA",
+      "source": "Gucci Ho Chi Minh City (Facebook)",
+      "source_type": "sns",
+      "tier": "T3",
+      "url": "https://www.facebook.com/p/Gucci-100064850974136/",
+      "published_at": "2026-08-18",
+      "title": "Gucci HCMC Facebook post engagement snapshot",
+      "summary": "Recent post on Gucci's official Ho Chi Minh City Facebook page (own-channel, not independent commentary) showed moderate organic engagement, consistent with steady but unspectacular local social reach for the brand's Vietnam page versus regional competitor pages.",
+      "reach": null,
+      "likes": 52,
+      "comments": 7,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-08-23-004",
+      "region": "SEA",
+      "source": "Kering H1 2026 results coverage (WWD/Bloomberg via Citi note)",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/kering-sees-signs-of-progress-in-curbing-sales-declines-at-gucci",
+      "published_at": "2026-07-28",
+      "title": "Kering H1/Q2 2026: Gucci comparable sales decline narrows to 2%, Asia-Pacific ex-Japan flat at 30% of group revenue",
+      "summary": "Kering's Q2 2026 results (reported July 28) showed Gucci's comparable sales decline slowing to 2%, its best sequential performance in several quarters, driven partly by new handbag launches. Asia-Pacific excluding Japan held flat at roughly 30% of group revenue. Citi subsequently raised its Kering price target to EUR282 (from EUR266) on August 17 while keeping a neutral rating, citing margin caution. Included for regional financial context on Gucci's APAC trajectory even though the announcement itself is dated; flagged as borderline-fresh and retained only for the APAC revenue-share data point, not as a same-week story.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 4,
+    "Louis Vuitton": 2,
+    "Dior": 2,
+    "Chanel": 0,
+    "Prada": 1,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 1,
+    "Hermes": 2
+  },
+  "collection_notes": {
+    "date": "2026-08-23",
+    "region": "SEA",
+    "freshness_status": "THIN POOL - see summary. Extensive searches across English, Thai, Indonesian, Vietnamese, and Chinese-language keywords surfaced very little genuinely fresh (within 14-day window) SEA-specific Gucci content. Most discoverable SEA coverage (Gucci Visions Bangkok exhibition, Generation Gucci Manila event, Paparazzo bag Thai ambassador campaign, Threads KLCC-closure post with strong engagement, Raffles City Beauty Vault) fell outside the 14-day admission window (ranging from late Feb to late June 2026) and was excluded rather than padded in.",
+    "critical_angle_searches_run": true,
+    "critical_angle_result": "Critical/backlash searches (price hikes, quality complaints, resale, overrated/lost its way, store closures, AI backlash) surfaced mostly non-SEA-specific global commentary (AI campaign backlash, PurseForum quality complaints) or SEA items outside the freshness window (Malaysia Gucci KLCC closure Threads post, June 2026; dated ~2 months old). Only the Vietnam counterfeit-network story qualified as a fresh, SEA-specific critical-adjacent signal (enforcement/counterfeiting angle rather than brand-quality complaint).",
+    "channel_mix_shortfall": "Only 1 sns item and 0 community-forum items met both the SEA-relevance and 14-day freshness bar (PurseForum Singapore thread could not be fetched - 403 Forbidden - and no dated/fresh post content could be verified; Threads KLCC post was too old). Community channel is under-target (0 of desired 3+); reported honestly rather than padded with stale or unverifiable items.",
+    "excluded_for_staleness_examples": [
+      "Gucci Visions exhibition, Bangkok (Feb 11-Mar 15, 2026) - ~5-6 months old",
+      "Generation Gucci event, Manila with Pia Wurtzbach et al. (published July 10, 2026) - ~44 days old",
+      "Gucci Paparazzo bag Thai ambassador campaign, Gulf/Billkin/Pond (May 14, 2026) - ~101 days old",
+      "Threads post 'Kenapa Gucci KLCC tutup' Malaysia store closure query, 624 likes/131K views (June 21, 2026) - ~63 days old",
+      "Raffles City Beauty Vault Singapore pop-up (through June 14, 2026) - past window"
+    ]
+  }
+}

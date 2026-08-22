@@ -1,0 +1,83 @@
+[
+  {
+    "id": "nea-20260823-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified reporting of double-digit China sales decline with above-peer China exposure for Gucci.",
+    "signal_tags": ["negative_earnings", "momentum_press", "china_exposure"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-20260823-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent macro/consumer data corroborating China luxury slump and rising domestic-brand preference over foreign luxury.",
+    "signal_tags": ["negative_earnings", "consumer_sentiment", "china_exposure"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-20260823-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Critical framing of 12 straight quarterly declines, though decline is narrowing so damage is tempered/mixed.",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "nea-20260823-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified reporting: Kering/Gucci decline narrowing, US demand up, Momentum Indicator jump cited by third party.",
+    "signal_tags": ["favorable_trade_press", "quantified_demand_data", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-20260823-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive product-launch write-up with no evaluative verdict; activation coverage discounted to neutral.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-20260823-006",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Strong fan enthusiasm for BTS Jin Gucci editorial; fandom trap damps magnitude to 0.5 despite intense praise.",
+    "signal_tags": ["fandom_spike", "ambassador_enthusiasm"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-20260823-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Indirect negative signal: Korean spend rotating from bags/RTW toward jewelry/watches, away from Gucci's core category.",
+    "signal_tags": ["category_shift", "value_for_money"],
+    "confidence": 0.55
+  },
+  {
+    "id": "nea-20260823-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Low-reach counterfeit-authentication inquiry, thin signal; counterfeit trap defaults to neutral given negligible engagement and no clear brand-harm framing.",
+    "signal_tags": ["counterfeit_inquiry", "low_signal"],
+    "confidence": 0.4
+  },
+  {
+    "id": "nea-20260823-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Neutral/factual brand-value ranking report, no evaluative opinion attached.",
+    "signal_tags": ["factual_reporting", "brand_value"],
+    "confidence": 0.8
+  }
+]

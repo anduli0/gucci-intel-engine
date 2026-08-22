@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-08-23-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Negative earnings/momentum press: Kering shares down on China luxury slowdown hitting Gucci sales directly.",
+    "signal_tags": ["earnings_momentum", "china_slowdown", "stock_price"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-23-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Straight financial-markets reporting of Kering's ~9.3% share slide framed as sector-wide luxury weakness counterweight.",
+    "signal_tags": ["earnings_momentum", "stock_price", "sector_weakness"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-23-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual corporate-strategy reporting on L'Oreal licensing timeline; largely neutral/descriptive.",
+    "signal_tags": ["corporate_strategy", "licensing", "beauty"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-23-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent third-party experts explicitly criticize Gucci as logo-over-craftsmanship and inconsistent quality.",
+    "signal_tags": ["design_criticism", "quality_complaint", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-23-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive fashion-calendar scheduling coverage of the September runway date; no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "show_schedule", "demna_era"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-23-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuinely mixed community sentiment: nostalgic attachment balanced against hesitation over repair cost vs. value.",
+    "signal_tags": ["community_discussion", "durability", "resale_value"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-08-23-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purchase-intent thread includes Gucci but item-specific sentiment could not be verified; demoted per low confidence.",
+    "signal_tags": ["purchase_intent", "community_discussion", "unverified"],
+    "confidence": 0.3
+  },
+  {
+    "id": "EU-2026-08-23-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic fan/runway-recap TikTok activity present but engagement metrics unverifiable; fandom-spike trap, demoted.",
+    "signal_tags": ["fandom_spike", "sns_activity", "unverified_engagement"],
+    "confidence": 0.35
+  }
+]

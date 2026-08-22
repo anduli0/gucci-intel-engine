@@ -1,0 +1,152 @@
+{
+  "brand_group": "LVMH",
+  "date": "2026-08-23",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "LVMH",
+      "event_type": "earnings",
+      "headline": "LVMH 패션·가죽제품 부문, 2분기 플러스 전환에도 상반기 전체는 여전히 역성장",
+      "summary": "LVMH 상반기 그룹 매출은 유기적 기준 2% 증가한 386억 유로를 기록했고, 2분기는 3% 증가로 가속됐다. 다만 루이 비통·디올·펜디·셀린느가 속한 패션·가죽제품 부문은 상반기 기준 여전히 1% 감소(181억 유로)했으며, 영업이익은 7% 줄었다.",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lvmh-posts-solid-h1-2026-growth-as-margins-hold-firm-93CH-4814843",
+      "source": "Investing.com / WWD",
+      "tier": "T1",
+      "published_at": "2026-08-21",
+      "why_it_matters": "핵심 패션 부문이 2년 만에 분기 반등에 성공했지만 반기 전체로는 여전히 마이너스라는 점은, 케링·구찌가 비교당할 업계 회복 속도의 벤치마크이자 과도한 낙관을 경계해야 할 신호다",
+      "why_it_matters_en": "LVMH's core Fashion & Leather Goods division managed its first quarterly rebound in two years, yet was still down for the full half — an industry recovery-pace benchmark for Kering/Gucci that cautions against overreading the turn.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "controversy",
+      "headline": "루이 비통 중국 상표권 소송 승소, '변기가방' 밈으로 번지며 평판 위기 지속",
+      "summary": "루이 비통이 중국 밀크티 브랜드 Molly Tea를 상대로 4개 꽃잎 모노그램 상표권 침해 소송에서 승소해 약 150만 달러 배상 판결을 받았으나, 중국 소셜미디어에서 이 문양이 전통 화장실 타일 문양과 닮았다는 조롱이 확산되며 '변기가방' 밈이 지속되고 있다. 웨이보 조회수는 4억 건을 넘었고, 루이비통은 공개 대응을 자제하고 있다.",
+      "url": "https://wwd.com/business-news/legal/louis-vuitton-china-post-trademark-win-1239065193/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-19",
+      "why_it_matters": "법적 승소가 오히려 문화적 반감과 판매 둔화로 이어진 이 사례는, 구찌를 포함한 서구 럭셔리 브랜드가 중국 시장에서 지식재산권을 방어할 때 현지 문화 서사 관리를 병행하지 않으면 역풍을 맞을 수 있다는 경고다",
+      "why_it_matters_en": "A legal win turning into a cultural backlash and reported sales softness shows Western luxury houses, Gucci included, risk a China backfire when defending IP without simultaneously managing the local cultural narrative.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "legal",
+      "headline": "루이 비통, 중국 국가지식산권국(CNIPA) 상대 소송 계속 — 2018년 이후 6번째",
+      "summary": "루이 비통이 CNIPA를 상대로 낸 소송의 목요일 심리에서 판결이 나오지 않았다. 2018년 이후 CNIPA를 상대로 한 6번째 소송이며, 최근 5년간 중국 내 상표 관련 소송이 1,600건을 넘었다고 보도됐다.",
+      "url": "https://www.scmp.com/economy/china-economy/article/3360560/louis-vuitton-takes-chinas-trademark-regulator-court-legal-drive-continues",
+      "source": "South China Morning Post",
+      "tier": "T1",
+      "published_at": "2026-08-21",
+      "why_it_matters": "규제당국을 상대로 반복적으로 소송을 제기하는 공격적 IP 전략은 중국 내 브랜드 이미지에 누적 리스크를 쌓고 있으며, 구찌 등 경쟁사들이 같은 시장에서 지식재산권 집행 강도를 조율할 때 참고할 반면교사다",
+      "why_it_matters_en": "Louis Vuitton's pattern of repeated litigation against China's own trademark regulator is compounding reputational risk in-market — a cautionary reference point for how aggressively Gucci and peers should calibrate IP enforcement in China.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Fendi",
+      "event_type": "campaign",
+      "headline": "펜디, 제시카 알바를 신규 앰버서더로 발탁 — 사라 제시카 파커 이은 바게트 캠페인 확장",
+      "summary": "펜디가 8월 초 제시카 알바를 브랜드의 새로운 얼굴로 발탁했다고 발표했다. 알바는 최근 로마 쿠튀르쇼에도 참석했으며, 이는 사라 제시카 파커·송유기 등이 등장한 펜디 바게트백 캠페인 확장의 연장선이다.",
+      "url": "https://www.laineygossip.com/jessica-alba-new-face-of-fendi-after-stepping-away-from-the-honest-company/",
+      "source": "Lainey Gossip / WWD",
+      "tier": "T2",
+      "published_at": "2026-08-07",
+      "why_it_matters": "마리아 그라치아 치우리 체제의 펜디가 다세대·다국적 셀럽 캐스팅으로 바게트백을 재점화하는 방식은, 구찌가 조디악·자키 등 자사 아이콘백 캠페인에서 앰버서더 포트폴리오를 어떻게 구성할지에 대한 활성화 사례일 뿐 여론 개선의 증거는 아니다",
+      "why_it_matters_en": "Fendi's multi-generational celebrity casting to reignite the Baguette under Chiuri is an activation case study for how Gucci might structure ambassador rosters around its own icon bags — not evidence of a sentiment shift, since this is brand-controlled marketing output.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Fendi",
+      "event_type": "campaign",
+      "headline": "펜디, 칼 라거펠트 시대 재조명하는 로마 전시 '스텝스 스루 워크' 재개관",
+      "summary": "펜디가 로마 국립현대미술관(GNAMC)에서 1985년 칼 라거펠트와의 협업 초기 20년을 조명한 역사적 전시를 40년 만에 재현해 7월 10일부터 10월 25일까지 진행 중이다. 치우리 크리에이티브 디렉터가 기획했다.",
+      "url": "https://hauteliving.com/2026/08/fendi-karl-largerfeld-exhibition-rome-2026/794275/",
+      "source": "Haute Living",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "헤리티지 디자이너의 유산을 박물관급 전시로 재소환하는 방식은, 구찌가 톰 포드·알레산드로 미켈레 등 과거 시대를 브랜드 자산으로 재활용할 수 있는 벤치마크다",
+      "why_it_matters_en": "Reviving a legacy designer's archive as a museum-grade exhibition is a benchmark for how Gucci could similarly reactivate its own past creative eras (Tom Ford, Alessandro Michele) as brand equity.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Dior",
+      "event_type": "financial",
+      "headline": "디올, 조나단 앤더슨 신제품 효과로 LVMH 패션 부문 반등 주도",
+      "summary": "WWD는 디올이 상반기 패션·가죽제품 부문 평균을 웃도는 실적을 냈다고 보도했다. 조나단 앤더슨이 디자인한 첫 제품군이 매장에 진열되며 미국·일본 고객층에서 두 자릿수 매출 성장을 견인했고, 여성 기성복·가죽제품 수요가 강했다.",
+      "url": "https://wwd.com/business-news/financial/dior-revival-losing-streak-lvmh-fashion-division-1239084268/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-20",
+      "why_it_matters": "디올이 크리에이티브 디렉터 교체 직후 곧바로 실적 반등을 만들어낸 사례는, 구찌가 데미나 체제에서 상업적 성과를 실적으로 얼마나 빨리 전환해야 하는지에 대한 직접적 압박 기준선이 된다",
+      "why_it_matters_en": "Dior converting a creative-director transition into a fast financial rebound sets a direct benchmark pressure for how quickly Gucci needs to translate Demna's direction into commercial results.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Celine",
+      "event_type": "trend",
+      "headline": "셀린느·로에베, 2분기 순차적 실적 개선 — LVMH 실적발표서 별도 언급",
+      "summary": "LVMH 경영진은 상반기 실적발표에서 셀린느와 로에베가 직전 9개월 대비 2분기에 순차적 개선을 보였다고 밝혔다. 마이클 라이더(셀린느), 잭 맥콜로·라자로 에르난데스(로에베) 등 신임 크리에이티브 디렉터 체제의 초기 성과로 해석됐다.",
+      "url": "https://us.fashionnetwork.com/news/Lvmh-dior-the-key-growth-driver-of-the-fashion-leather-goods-division-in-2026,1856315.html",
+      "source": "FashionNetwork",
+      "tier": "T2",
+      "published_at": "2026-08-21",
+      "why_it_matters": "LVMH 산하 다수 브랜드가 동시에 크리에이티브 디렉터를 교체하고도 순차적 실적 개선을 보이는 흐름은, 데미나 체제 구찌의 턴어라운드 속도를 판단할 업계 전반의 비교 기준을 형성한다",
+      "why_it_matters_en": "Sequential improvement across multiple newly-helmed LVMH houses simultaneously is forming an industry-wide comparison baseline against which Gucci's own Demna-era turnaround speed will be judged.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "financial",
+      "headline": "LVMH 주가, 연초 대비 30% 이상 낮은 수준에서 반등 초기 단계 지속",
+      "summary": "8월 셋째 주 LVMH 주가는 450유로대에서 등락했다. 연초 640유로를 넘었던 수준과 비교하면 여전히 큰 폭 낮으며, TD 코웬은 8월 19일 목표주가를 525유로에서 510유로로 하향 조정한 반면 번스타인은 매수 의견을 재확인했다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-stock-steadies-as-citi-target-and-half-year-2026-results-frame-luxury-outlook/69959667",
+      "source": "ad-hoc-news / MarketScreener",
+      "tier": "T2",
+      "published_at": "2026-08-21",
+      "why_it_matters": "업계 최대 럭셔리 그룹의 주가가 여전히 연초 대비 큰 폭 낮은 채 애널리스트 의견이 엇갈리는 상황은, 명품 섹터 전반의 밸류에이션 회의론이 케링·구찌 주가 평가에도 계속 그림자를 드리운다는 의미다",
+      "why_it_matters_en": "The sector leader's stock remaining sharply below its yearly high with split analyst views signals persistent luxury-sector valuation skepticism that continues to shadow how Kering/Gucci get priced.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Dior",
+      "event_type": "legal",
+      "headline": "디올 이탈리아 노동력 착취 스캔들, 여전히 배경 리스크로 남아",
+      "summary": "밀라노 법원이 디올의 이탈리아 제조 자회사를 노동 착취 혐의로 사법관리 하에 두었던 사건과 관련해 디올은 피해 노동자 지원을 위해 5년간 200만 유로를 지급하기로 합의했다. 2024~2025년 촉발된 이슈지만 이탈리아 명품 공급망 규제 리스크로 계속 거론된다.",
+      "url": "https://wwd.com/sourcing-journal/industry-news/dior-lvmh-italy-chinese-sweatshops-garment-workers-exploitation-1238835750/",
+      "source": "WWD / Sourcing Journal",
+      "tier": "T1",
+      "published_at": "2025-05-21",
+      "why_it_matters": "디올 공급망 스캔들은 이탈리아 명품 제조 아웃소싱 전반의 규제 압력을 상징하며, 구찌도 동일한 이탈리아 제조 생태계에 노출되어 있어 배경 리스크로 계속 모니터링해야 한다",
+      "why_it_matters_en": "Dior's supply-chain labor scandal exemplifies rising regulatory pressure on Italian luxury manufacturing outsourcing; Gucci shares the same Italian production ecosystem and carries comparable background exposure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "M&A",
+      "headline": "LVMH, 마크 제이콥스를 WHP 글로벌·G-III 합작사에 매각",
+      "summary": "LVMH가 1997년부터 보유해온 마크 제이콥스 브랜드를 WHP 글로벌과 G-III 어패럴 그룹의 50대 50 합작사에 매각하기로 최종 합의했다. G-III는 최대 4억 2500만 달러를 투자할 계획이며, 마크 제이콥스 본인은 크리에이티브 디렉터로 계속 남는다.",
+      "url": "https://www.businessoffashion.com/articles/luxury/confirmed-lvmh-sells-marc-jacobs-to-whp-global/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-05-14",
+      "why_it_matters": "LVMH가 비핵심 브랜드를 매각하며 포트폴리오를 선별적으로 재정비하는 움직임은, 케링이 브리오니 등 저성과 브랜드를 다룰 방식에 시사점을 주는 그룹 전략 벤치마크다",
+      "why_it_matters_en": "LVMH divesting a non-core brand to selectively rationalize its portfolio is a group-strategy benchmark relevant to how Kering might handle underperforming houses like Brioni.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Loewe",
+      "event_type": "trend",
+      "headline": "로에베 퍼즐백, 앤더슨 퇴임 이후에도 리세일 시장에서 견조한 가치 유지",
+      "summary": "로에베의 대표 아이콘인 퍼즐백이 출시 10년이 지난 2026년에도 리세일 시장에서 샤넬 클래식 플랩·에르메스 버킨에 견줄 만한 강한 보유가치를 유지하고 있다고 업계 매체들이 보도했다. 조나단 앤더슨이 떠난 뒤 매콜로·에르난데스 체제에서도 핵심 상업 자산으로 계속 활용되고 있다.",
+      "url": "https://secondsense.co/blog/resale-value-of-loewe-puzzle-bag-compared-to-other-designer-handbags",
+      "source": "Secondsense",
+      "tier": "T3",
+      "published_at": "2026-08-15",
+      "why_it_matters": "크리에이티브 디렉터가 교체돼도 견고한 아이코닉백의 리세일 가치가 유지되는 사례는, 구찌가 조디악·자키백 등 자사 아이콘 자산의 장기 가치를 어떻게 설계해야 하는지에 대한 카테고리 트렌드 시사점을 준다",
+      "why_it_matters_en": "The Puzzle bag holding strong resale value a decade in and across a creative-director transition is a category-trend signal for how Gucci should engineer long-term durability into its own icon assets like the Jackie or Horsebit bags.",
+      "relevance": "category trend"
+    }
+  ]
+}
