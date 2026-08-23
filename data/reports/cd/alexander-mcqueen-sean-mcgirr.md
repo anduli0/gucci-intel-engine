@@ -1,6 +1,6 @@
 # 션 맥거 — 알렉산더 맥퀸
 
-2026-07-23 / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-24 / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## 목차
 
@@ -42,7 +42,7 @@
 
 맥거의 데뷔는 2024년 3월 파리 13구에서 비 오는 밤에 열린 FW24 남녀 통합 쇼였다[4][14]. 반응은 명확히 양극화됐다. 일부 평단은 새로운 언어의 윤곽을 시도했다고 평가했지만, 온라인 여론과 헤리티지 팬층은 하우스의 정통에서 벗어난 방향에 거센 비판을 쏟아냈다[14][4]. 이 논쟁 구도—평단의 조건부 옹호 대 대중·퓨리스트의 반발—는 이후 시즌에도 이어지며 맥거 체제의 핵심 서사가 됐다.
 
-상업 전환 측면에서 하우스는 액세서리 축을 강화하는 실용적 노선을 병행했다. 2025 봄 캠페인은 벨트·샌들·백을 포함한 T-바 라인 등 액세서리 판매에 초점을 맞췄고[15], SS26는 구조조정을 지원할 수 있는 보다 실용적(pragmatic) 접근을 반영하면서도 레드카펫용 쇼피스를 병행했다는 평가를 받았다[13]. 조직 변화는 극적이다. 케링은 2026년 6월 전 프라다 CEO 잔프랑코 다티스를 맥퀸 신임 CEO로 선임해 브랜드 재건과 규율 있는 비용 구조를 맡겼다[10]. 매장 절반 폐쇄, 런던·이탈리아 인력 감축이라는 강도 높은 다이어트가 진행 중이며, 맥거는 이 축소 국면 한가운데서 크리에이티브 방향을 잡아야 하는 이중 과제를 안고 있다[7][11]. 그리고 2026년 7월, 하우스는 SS27 런던 패션위크 복귀를 확정해 9월 20일 남녀 통합 쇼를 예고했다[3][8]. 맥퀸은 2023년 세라 버튼의 SS23 쇼 이후 런던을 떠나 파리에서 발표해왔으므로, 이번 복귀는 맥거의 첫 런던 무대이자 "런던에서 태어난 하우스"라는 뿌리로의 회귀 선언이다[3][8].
+상업 전환 측면에서 하우스는 액세서리 축을 강화하는 실용적 노선을 병행했다. 2025 봄 캠페인은 벨트·샌들·백을 포함한 T-바 라인 등 액세서리 판매에 초점을 맞췄고[15], SS26는 구조조정을 지원할 수 있는 보다 실용적(pragmatic) 접근을 반영하면서도 레드카펫용 쇼피스를 병행했다는 평가를 받았다[13]. 2026년 8월에는 FW26 '누아르(Noir)' 캠페인을 공개했는데, 하우스의 오랜 뮤즈 캐런 엘슨을 팔로마 엘세서·재키 후퍼·샤오원주와 함께 기용했고 촬영은 글렌 럭포드가 맡았다[16]. 히치콕적 "음산한 글래머(sinister glamour)" 무드로 연출된 이 캠페인은 3월 파리에서 선보인 컬렉션을 영화적으로 확장한 시각 장치로, 맥거가 정체성 중심의 다크 무드 언어를 캠페인 층위에서 일관되게 밀어붙이고 있음을 보여준다—다만 캠페인 화력 자체는 활성화 커버리지(브랜드 자체 연출)일 뿐 소비자 반응 개선의 근거가 아니므로, 마케팅 데이터 포인트로만 읽어야 한다[16]. 조직 변화는 극적이다. 케링은 2026년 6월 전 프라다 CEO 잔프랑코 다티스를 맥퀸 신임 CEO로 선임해 브랜드 재건과 규율 있는 비용 구조를 맡겼다[10]. 매장 절반 폐쇄, 런던·이탈리아 인력 감축이라는 강도 높은 다이어트가 진행 중이며, 맥거는 이 축소 국면 한가운데서 크리에이티브 방향을 잡아야 하는 이중 과제를 안고 있다[7][11]. 그리고 2026년 7월, 하우스는 SS27 런던 패션위크 복귀를 확정해 9월 20일 남녀 통합 쇼를 예고했다[3][8]. 맥퀸은 2023년 세라 버튼의 SS23 쇼 이후 런던을 떠나 파리에서 발표해왔으므로, 이번 복귀는 맥거의 첫 런던 무대이자 "런던에서 태어난 하우스"라는 뿌리로의 회귀 선언이다[3][8].
 
 ## 6. 구찌 관점
 
@@ -50,7 +50,7 @@
 
 첫째, 두 하우스는 놀랍도록 유사한 문제를 공유한다. 알렉산더 맥퀸의 3년 매출 60% 급감과 매장 절반 폐쇄[7]는 구찌의 매출 부진 국면과 같은 케링 그룹의 위기 서사에 속한다. 즉 맥거의 회생 실험은 구찌가 참고할 수 있는 '동일 지붕 아래 실험실'이다—어떤 크리에이티브 리셋이 상업적으로 작동하는지, 어떤 것이 팬층 반발만 키우는지를 실시간으로 보여준다.
 
-둘째, "헤리티지 코드의 재해석 대 보존" 논쟁은 뎀나의 구찌가 직면한 것과 동형이다. 맥거는 리 매퀸의 범스터·다크니스를 되살리되 퓨리스트의 반발을 감수하며 자기화했고, 뎀나 역시 구찌의 아카이브 코드(호스빗·GG·플로라)를 자기 언어로 번역하는 긴장을 안고 있다. 맥거 데뷔의 양극화 반응[DEBUT][4]은 구찌에 "아카이브를 존중하되 급진적으로 비틀 때 초기 여론이 어떻게 폭발하는가"에 대한 선행 사례를 제공한다.
+둘째, "헤리티지 코드의 재해석 대 보존" 논쟁은 뎀나의 구찌가 직면한 것과 동형이다. 맥거는 리 매퀸의 범스터·다크니스를 되살리되 퓨리스트의 반발을 감수하며 자기화했고, 뎀나 역시 구찌의 아카이브 코드(호스빗·GG·플로라)를 자기 언어로 번역하는 긴장을 안고 있다. 맥거 데뷔의 양극화 반응[DEBUT][4]은 구찌에 "아카이브를 존중하되 급진적으로 비틀 때 초기 여론이 어떻게 폭발하는가"에 대한 선행 사례를 제공한다. 나아가 FW26 '누아르' 캠페인처럼 정체성이 선명한 다크 무드 비주얼 언어를 캠페인 층위에서 빠르게 축적하는 방식은, 뎀나 체제 구찌가 일관된 비주얼 언어를 얼마나 신속히 세우는가를 가늠하는 비교점이 된다—단, 캠페인 버즈는 소비자 수용 개선의 증거가 아니라는 점을 전제로 관찰해야 한다[16].
 
 셋째, SS27 런던 복귀[3][8]는 구찌가 주시할 지리·정체성 전략 카드다. 맥거는 런던이 언제나 맥퀸의 심장에 있었다는 서사로 파리를 떠나 발상지로 회귀하는데, 이는 브랜드 서사를 도시 정체성에 재접속시키는 시도다[3]. 구찌가 밀라노·피렌체라는 이탈리아 뿌리 서사를 뎀나 시대에 어떻게 재활성화할지 설계할 때, 맥거의 '런던 리홈커밍'이 여론·미디어 화력에서 얼마나 이득을 보는지가 유용한 비교 지표가 된다. 요컨대 맥거는 구찌의 경쟁 위협이라기보다, 같은 그룹 안에서 먼저 실험대에 오른 '헤리티지 재장전 프로토타입'으로 관찰하는 것이 정확하다.
 
@@ -69,6 +69,7 @@ Seán McGirr, a Dublin-born, Central Saint Martins–trained designer, became cr
 - 크리에이티브 리셋: 2024~2025년 럭셔리 업계 전반의 대규모 CD 교체 흐름을 가리키는 표현.
 - 매출 60% 감소·매장 절반 폐쇄: 케링이 보고한 맥퀸의 2022~2025년 실적 및 2026년 말까지의 축소 계획으로, 개별 분기 감사 수치가 아닌 그룹 발표 기반 추정이다.
 - 잔프랑코 다티스: 2026년 6월 3일자 맥퀸 신임 CEO. 직전 프라다 CEO를 지냈고 그 이전 LVMH·리치몬트에서 아시아·미주·유럽 지역 임원을 역임했다.
+- 활성화 커버리지: 브랜드가 직접 제작·연출한 캠페인·이벤트 노출로, 공정한 소비자 여론(수용도)과 구분되며 긍정 편향을 유발할 수 있어 별도 취급한다.
 - 〈가설〉/〈미확인〉: 공개 근거로 확정되지 않은 전망 및 정보에 부여한 라벨.
 
 ## 출처
@@ -88,12 +89,13 @@ Seán McGirr, a Dublin-born, Central Saint Martins–trained designer, became cr
 [13] WWD — 맥퀸 SS26 리뷰(범스터 부활, 실용적 접근) — https://wwd.com/runway/spring-2026/paris/alexander-mcqueen/review/
 [14] Fashionista — 맥거 FW24 데뷔 리뷰 — https://fashionista.com/2024/03/alexander-mcqueen-fall-2024-review
 [15] WWD — 맥퀸 2025 봄 캠페인 및 T-바 액세서리 라인 — https://wwd.com/fashion-news/fashion-scoops/alexander-mcqueen-spring-2025-campaign-1236904871/
+[16] WWD — 맥퀸 FW26 '누아르' 캠페인(캐런 엘슨·팔로마 엘세서·재키 후퍼·샤오원주, 글렌 럭포드 촬영, 히치콕적 무드) — https://wwd.com/fashion-news/fashion-scoops/mcqueen-fall-campaign-2026-karen-elson-paloma-elsesser-1239086317/
 
 <!-- ===== ENGLISH EDITION ===== -->
 
 # Seán McGirr — Alexander McQueen
 
-2026-07-23 / CD DOSSIER / GUCCI INTELLIGENCE
+2026-08-24 / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## Table of Contents
 
@@ -135,7 +137,7 @@ A second axis is his fixation on London and its subcultures. He has said, "I'm o
 
 McGirr's debut was the FW24 combined menswear/womenswear show, staged on a rainy night in Paris's 13th arrondissement in March 2024[4][14]. The reaction was clearly polarized. Some critics saw the outlines of a new design language taking shape, but online public opinion and the heritage fan base reacted with fierce criticism of the departure from the house's traditional codes[14][4]. This dynamic — conditional support from critics versus backlash from the public and purists — carried through subsequent seasons and became the central narrative of the McGirr era.
 
-On the commercial side, the house pursued a parallel, pragmatic track that strengthened accessories. The Spring 2025 campaign focused on accessory sales, including belts, sandals, and the T-bar bag line[15], and SS26 was seen as reflecting a more pragmatic approach that could support the restructuring effort, even as it paired that pragmatism with red-carpet-ready showpieces[13]. Organizational change has been dramatic. In June 2026, Kering appointed former Prada CEO Gianfranco D'Attis as McQueen's new chief executive, tasking him with rebuilding the brand under a disciplined cost structure[10]. A high-intensity diet is underway — the closure of half the stores, and job cuts in both London and Italy — and McGirr must chart creative direction in the middle of this contraction, a dual challenge[7][11]. Then, in July 2026, the house confirmed its return to London Fashion Week for SS27, announcing a combined menswear/womenswear show for September 20[3][8]. McQueen had left London for Paris after Sarah Burton's SS23 show in 2023, so this return marks McGirr's first show in London and a declared return to the roots of "a house born in London"[3][8].
+On the commercial side, the house pursued a parallel, pragmatic track that strengthened accessories. The Spring 2025 campaign focused on accessory sales, including belts, sandals, and the T-bar bag line[15], and SS26 was seen as reflecting a more pragmatic approach that could support the restructuring effort, even as it paired that pragmatism with red-carpet-ready showpieces[13]. In August 2026, the house unveiled its FW26 "Noir" campaign, casting longtime house muse Karen Elson alongside Paloma Elsesser, Jacky Hooper and Xiao Wen Ju, shot by Glen Luchford[16]. Staged in a Hitchcock-esque "sinister glamour" mood, the campaign cinematically extends the collection McGirr showed in Paris in March 2026 and shows him pushing an identity-driven dark-mood language consistently at the campaign layer — though campaign firepower is itself activation coverage (brand-produced imagery), not evidence of improved consumer reception, and should be read only as a marketing data point[16]. Organizational change has been dramatic. In June 2026, Kering appointed former Prada CEO Gianfranco D'Attis as McQueen's new chief executive, tasking him with rebuilding the brand under a disciplined cost structure[10]. A high-intensity diet is underway — the closure of half the stores, and job cuts in both London and Italy — and McGirr must chart creative direction in the middle of this contraction, a dual challenge[7][11]. Then, in July 2026, the house confirmed its return to London Fashion Week for SS27, announcing a combined menswear/womenswear show for September 20[3][8]. McQueen had left London for Paris after Sarah Burton's SS23 show in 2023, so this return marks McGirr's first show in London and a declared return to the roots of "a house born in London"[3][8].
 
 ## 6. Gucci Perspective
 
@@ -143,7 +145,7 @@ For Gucci under the Demna era, McGirr is less a direct competitive threat than a
 
 First, the two houses share strikingly similar problems. Alexander McQueen's three-year, roughly 60% revenue decline and the closure of half its stores[7] belong to the same Kering group-wide crisis narrative as Gucci's own sales slump. McGirr's turnaround experiment is, in effect, a "laboratory under the same roof" that Gucci can study in real time — showing which kind of creative reset actually works commercially and which merely provokes fan backlash.
 
-Second, the debate over "reinterpreting versus preserving heritage codes" is structurally identical to what Demna's Gucci faces. McGirr revived Lee McQueen's bumster and darkness while accepting purist backlash and making them his own; Demna carries a similar tension in translating Gucci's archival codes — the horsebit, the double G, the Flora print — into his own language. The polarized reaction to McGirr's debut[14][4] offers Gucci a precedent for how initial public opinion can explode when a designer respects the archive while radically twisting it.
+Second, the debate over "reinterpreting versus preserving heritage codes" is structurally identical to what Demna's Gucci faces. McGirr revived Lee McQueen's bumster and darkness while accepting purist backlash and making them his own; Demna carries a similar tension in translating Gucci's archival codes — the horsebit, the double G, the Flora print — into his own language. The polarized reaction to McGirr's debut[14][4] offers Gucci a precedent for how initial public opinion can explode when a designer respects the archive while radically twisting it. Beyond that, the way McGirr rapidly accumulates a sharply identity-driven dark-mood visual language at the campaign layer — as in the FW26 "Noir" campaign — is a comparison point for how quickly Demna's Gucci can establish a consistent visual language, provided one observes it on the premise that campaign buzz is not proof of improved consumer reception[16].
 
 Third, the SS27 return to London[3][8] is a geography-and-identity strategy card worth Gucci's attention. McGirr is returning to McQueen's city of origin with a narrative that London has always been at the heart of the house, leaving Paris behind — an attempt to reconnect brand narrative with urban identity[3]. As Gucci considers how to reactivate its own Milan/Florence, Italian-roots narrative under Demna, how much traction McGirr's "London homecoming" gains in public opinion and media firepower becomes a useful comparative indicator. In short, McGirr is best understood not as a competitive threat to Gucci but as a "heritage-reload prototype" being tested first within the same group.
 
@@ -158,6 +160,7 @@ The top watch item over the next twelve months is the public and commercial rece
 - Creative reset: a term referring to the wave of major creative-director changes across the luxury industry in 2024–2025.
 - 60% revenue decline / closure of half the stores: Kering-reported figures for McQueen's 2022–2025 performance and its store-reduction plan through the end of 2026; these are group-disclosure-based estimates rather than individually audited quarterly figures.
 - Gianfranco D'Attis: named CEO of Alexander McQueen effective June 3, 2026. He previously served as CEO of Prada and, before that, held regional executive roles across Asia, the Americas, and Europe at LVMH and Richemont.
+- Activation coverage: brand-produced campaign or event exposure, distinct from unbiased consumer opinion (reception); it can create positive bias and is therefore treated separately.
 - (Hypothesis) / (Unverified): labels applied to forward-looking claims or information not yet confirmed by public evidence.
 
 ## Sources
@@ -177,3 +180,4 @@ The top watch item over the next twelve months is the public and commercial rece
 [13] WWD — McQueen SS26 review (bumster revival, pragmatic approach) — https://wwd.com/runway/spring-2026/paris/alexander-mcqueen/review/
 [14] Fashionista — Review of McGirr's FW24 debut — https://fashionista.com/2024/03/alexander-mcqueen-fall-2024-review
 [15] WWD — McQueen's Spring 2025 campaign and T-bar accessory line — https://wwd.com/fashion-news/fashion-scoops/alexander-mcqueen-spring-2025-campaign-1236904871/
+[16] WWD — McQueen FW26 "Noir" campaign (Karen Elson, Paloma Elsesser, Jacky Hooper, Xiao Wen Ju; shot by Glen Luchford; Hitchcock-esque mood) — https://wwd.com/fashion-news/fashion-scoops/mcqueen-fall-campaign-2026-karen-elson-paloma-elsesser-1239086317/

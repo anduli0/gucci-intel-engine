@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-08-24-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit crackdown links Gucci name to fake-goods network, mild brand-image drag.",
+    "signal_tags": ["counterfeit", "brand_protection"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-08-24-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit prosecution coverage tying Gucci trademarks to seized fake goods.",
+    "signal_tags": ["counterfeit", "brand_protection"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-08-24-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Further counterfeit seizure of fake Gucci bags, ongoing brand-name misuse exposure.",
+    "signal_tags": ["counterfeit", "brand_protection"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-08-24-004",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent business-press pickup of L'Oreal beauty licence deal with positive framing, but quote-driven/deal-announcement coverage and outside freshness window caps magnitude.",
+    "signal_tags": ["business_deal", "licensing", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-24-005",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Thai fan-community repost of ambassador content shows grassroots enthusiasm, damped as repetitive fandom spike with no engagement data.",
+    "signal_tags": ["ambassador", "fandom", "kpop_adjacent"],
+    "confidence": 0.45
+  },
+  {
+    "id": "SEA-2026-08-24-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic Malaysian forum chatter about Gucci KLCC boutique permanently closing amid retail relocation trend.",
+    "signal_tags": ["retail_footprint", "store_closure"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-08-24-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Indonesian investor coverage flags weak store traffic and declining China sales despite narrowing decline, recovery still unconfirmed.",
+    "signal_tags": ["earnings", "investor_sentiment"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-08-24-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive profile of ambassador's brand portfolio with no evaluative verdict on Gucci.",
+    "signal_tags": ["ambassador", "activation_coverage"],
+    "confidence": 0.7
+  }
+]

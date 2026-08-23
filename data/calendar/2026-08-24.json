@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-24",
+  "horizon_days": 60,
+  "items": [
+    {
+      "date": "2026-09-16~2026-09-22",
+      "event": "밀라노 패션위크 프리뷰 주간 (2027SS 준비 및 브랜드 예고)",
+      "brand": "Industry",
+      "type": "industry",
+      "why_ko": "밀라노 패션위크 본행사 직전 언론·바이어 프리뷰 주간으로, 구찌 쇼 관련 사전 기대감 형성 구간.",
+      "why_en": "Pre-week industry buildup ahead of Milan Fashion Week womenswear, shaping media anticipation before Gucci's show.",
+      "action_ko": "쇼 프리뷰 티저 및 인플루언서 시딩 사전 배포 (T-7~T-3)",
+      "source": "WWD",
+      "tier": 2,
+      "url": "https://wwd.com/fashion-news/fashion-features/prada-moschino-debut-milan-fashion-week-september-2026-calendar-1239080481/"
+    },
+    {
+      "date": "2026-09-22",
+      "event": "Vogue World: Milano",
+      "brand": "Industry",
+      "type": "industry",
+      "why_ko": "보그 월드 밀라노 개최로 밀라노 패션위크 개막을 알리며 이탈리아 장인정신을 조명, 구찌 브랜드 헤리티지 내러티브와 직접 연결되는 레드카펫급 행사.",
+      "why_en": "Vogue World: Milano opens Milan Fashion Week celebrating Italian craftsmanship, directly relevant to Gucci's heritage narrative with major red-carpet exposure.",
+      "action_ko": "앰버서더 출연 시 실시간 소셜 대응 및 이미지 확산 (당일 T+2h)",
+      "source": "Vogue / YesMilano",
+      "tier": 1,
+      "url": "https://www.voguescandinavia.com/articles/vogue-world-2026-milan"
+    },
+    {
+      "date": "2026-09-22~2026-09-28",
+      "event": "밀라노 패션위크 2027SS 여성복 (프라다, 구찌, 보테가 베네타, 펜디, 아르마니 등)",
+      "brand": "Multi-brand",
+      "type": "show",
+      "why_ko": "구찌 본진인 밀라노 패션위크로, 경쟁사 프라다·보테가·펜디·아르마니 쇼가 같은 주에 몰려 언론·바이어 관심이 분산되는 핵심 경쟁 구간.",
+      "why_en": "Milan Fashion Week is Gucci's home turf; competitor shows from Prada, Bottega Veneta, Fendi and Armani in the same week create intense share-of-voice competition.",
+      "action_ko": "경쟁사 쇼 일정 대비 SNS 발행 슬롯 선점 및 미디어 브리핑 사전 조율",
+      "source": "Fashionista / CNMI",
+      "tier": 1,
+      "url": "https://fashionista.com/2026/07/milan-fashion-week-september-2026-schedule"
+    },
+    {
+      "date": "2026-09-22",
+      "event": "프라다 2027SS 여성복 쇼 (밀라노 패션위크 개막)",
+      "brand": "Prada",
+      "type": "show",
+      "why_ko": "프라다가 목요일이 아닌 화요일 오후 2시로 슬롯을 앞당겨 밀라노 패션위크를 개막, 최상급 언론 주목도를 선점하는 경쟁 동향.",
+      "why_en": "Prada moved to a Tuesday 2pm slot to open Milan Fashion Week, securing prime media attention ahead of rivals.",
+      "action_ko": "프라다 쇼 리뷰 사이클 모니터링 후 구찌 쇼 포지셔닝 차별화 메시지 준비",
+      "source": "WWD",
+      "tier": 1,
+      "url": "https://wwd.com/fashion-news/fashion-features/prada-moschino-debut-milan-fashion-week-september-2026-calendar-1239080481/"
+    },
+    {
+      "date": "2026-09-25",
+      "event": "구찌 2027SS 여성복 런웨이 쇼 (뎀나 2번째 시즌)",
+      "brand": "Gucci",
+      "type": "show",
+      "why_ko": "뎀나의 구찌 두 번째 정규 런웨이 컬렉션으로, 2026년 2월 데뷔 쇼 이후 브랜드 방향성 지속성과 상업적 반응을 재확인하는 핵심 모먼트.",
+      "why_en": "Demna's second full runway collection for Gucci, a critical checkpoint on brand direction and commercial reception following his February 2026 debut show.",
+      "action_ko": "쇼 종료 후 T+24h 소셜·미디어 리액션 리포트 및 셀럽 착장 대응 실행",
+      "source": "WWD",
+      "tier": 1,
+      "url": "https://www.whowhatwear.com/fashion/runway/gucci-milan-fashion-week-fall-winter-2026"
+    },
+    {
+      "date": "2026-09-27",
+      "event": "보테가 베네타 2027SS 여성복 쇼",
+      "brand": "Bottega Veneta",
+      "type": "show",
+      "why_ko": "동일 케링 그룹 자매 브랜드로, 구찌와 포트폴리오 포지셔닝(가격대·고객층) 비교가 즉각적으로 이루어지는 사내 벤치마크 대상.",
+      "why_en": "As a sister Kering brand, Bottega Veneta's show is an immediate internal benchmark for positioning comparisons with Gucci.",
+      "action_ko": "케링 포트폴리오 내 상대적 반응 비교 분석 후 익일 보고",
+      "source": "WWD",
+      "tier": 2,
+      "url": "https://wwd.com/fashion-news/designer-luxury/gucci-versace-bottega-veneta-spring-2026-milan-fashion-week-1238024783/"
+    },
+    {
+      "date": "2026-09-28~2026-10-06",
+      "event": "파리 패션위크 2027SS 여성복 (디올, 샤넬, 루이비통, 생로랑, 발렌시아가, 로에베, 미우미우 등)",
+      "brand": "Multi-brand",
+      "type": "show",
+      "why_ko": "LVMH 산하 주요 브랜드가 총출동하는 파리 패션위크로, 밀라노 직후 진행되어 럭셔리 언론 사이클이 곧바로 LVMH 브랜드로 이동하는 구간 — 구찌 쇼 화제성 지속 여부의 시험대.",
+      "why_en": "Paris Fashion Week features the full LVMH lineup immediately after Milan, testing whether Gucci's show buzz can hold as luxury media attention shifts to Dior, Chanel, Louis Vuitton and peers.",
+      "action_ko": "파리 위크 기간 구찌 여운 콘텐츠(비하인드, 셀럽 착장) 지속 배포로 화제성 유지",
+      "source": "Complex / FHCM",
+      "tier": 1,
+      "url": "https://www.fhcm.paris/en/paris-fashion-week"
+    },
+    {
+      "date": "2026-10-06",
+      "event": "루이비통 2027SS 여성복 쇼 (파리 패션위크 폐막)",
+      "brand": "Louis Vuitton",
+      "type": "show",
+      "why_ko": "LVMH 최대 매출 브랜드가 파리 패션위크 피날레를 장식, 시즌 전체 럭셔리 담론의 마무리를 주도하는 경쟁 하이라이트.",
+      "why_en": "LVMH's flagship revenue brand closes Paris Fashion Week, typically dominating the season's final luxury media narrative.",
+      "action_ko": "시즌 종합 SOV(share of voice) 비교 리포트 작성 (T+3일)",
+      "source": "Complex",
+      "tier": 2,
+      "url": "https://www.complex.com/style/a/will-lavin/paris-fashion-week-ss27-women-schedule-2026"
+    },
+    {
+      "date": "2026-10-20",
+      "event": "LVMH 3분기(9개월) 매출 발표",
+      "brand": "LVMH",
+      "type": "earnings",
+      "why_ko": "최대 경쟁 그룹 LVMH의 패션·가죽제품 부문 실적으로, 디올·루이비통 등 경쟁 브랜드 대비 구찌 포지셔닝 벤치마크 데이터 제공.",
+      "why_en": "LVMH's Fashion & Leather Goods segment results provide a direct competitive benchmark against Gucci's performance versus Dior, Louis Vuitton and peers.",
+      "action_ko": "패션·가죽제품 부문 성장률 비교 분석 후 케링 실적 발표 메시징에 반영",
+      "source": "MarketScreener / LVMH",
+      "tier": 1,
+      "url": "https://www.lvmh.com/en/financial-calendar/2026-q1-revenue"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "에르메스 3분기 매출 발표 - 미확정",
+      "brand": "Hermès",
+      "type": "earnings",
+      "why_ko": "미확정: 2025년 동일 발표가 10월 22일에 있었던 패턴 기준 추정일. 초고가 세그먼트 수요 강도를 보여주는 지표로 구찌 리컬렉션 전략에 참고 자료.",
+      "why_en": "Uncertain: date estimated based on 2025 pattern (Oct 22 release); indicates ultra-high-end segment demand strength, relevant to Gucci's re-elevation strategy.",
+      "action_ko": "에르메스 가죽제품 부문 성장률과 구찌 핸드백 카테고리 전략 비교 검토",
+      "source": "Hermès Finance (pattern-based estimate)",
+      "tier": 2,
+      "url": "https://finance.hermes.com/en/publications/third-quarter-2025-revenue/"
+    },
+    {
+      "date": "2026-10-23",
+      "event": "케링 3분기(9개월) 매출 발표 - 미확정",
+      "brand": "Kering",
+      "type": "earnings",
+      "why_ko": "미확정: 과거 패턴은 10월 22~23일 발표를 시사하나 일부 소스는 10월 29일로 보도, 케링 IR 캘린더 공식 확정 대기 중. 구찌 매출 회복 여부와 뎀나 컬렉션 초기 상업 반응이 처음으로 수치화되는 핵심 이벤트.",
+      "why_en": "Uncertain: historical pattern suggests Oct 22-23 while some sources cite Oct 29; pending Kering's official IR calendar confirmation. This release will provide the first quantified read on Gucci's sales recovery under Demna.",
+      "action_ko": "실적 발표 D-3 내부 메시징 준비, 발표 직후 투자자·언론 Q&A 대응 체계 가동; 정확한 확정일 확인 즉시 캘린더 업데이트",
+      "source": "Ideal-investisseur / Investing.com / TipRanks",
+      "tier": 1,
+      "url": "https://www.ideal-investisseur.fr/en/stock-calendar/KERING-FR0000121485.html"
+    }
+  ]
+}

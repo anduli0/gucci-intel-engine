@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-08-24-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual stock-band reporting noting Gucci softness offset by jewelry division growth; descriptive financial coverage.",
+    "signal_tags": ["stock", "earnings", "sector-context"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-24-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Financial press attributes investor caution and stock decline directly to Gucci's slowdown and Asia exposure.",
+    "signal_tags": ["stock", "negative-momentum", "china-demand"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-24-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Stock down 13.6% YTD with China tax crackdown driving double-digit sales declines at Gucci; sector-wide but explicitly names Gucci decline.",
+    "signal_tags": ["stock", "negative-earnings", "china-demand", "sector-wide"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-24-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure schedule confirmation for MFW show slot, no evaluative verdict from outlet; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "show-schedule", "runway"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-24-005",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Grassroots collector thread welcomes Flora print revival and lighter materials, tempered by durability concerns; genuine mixed-to-positive product feedback.",
+    "signal_tags": ["community", "product-feedback", "flora", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-24-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregated SNS trend-volume signal with no verifiable engagement metrics or clear evaluative content; descriptive only.",
+    "signal_tags": ["sns", "organic-buzz", "unverifiable"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-08-24-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent consumer reviews cite strap failure, costly repairs, and declining build quality over recent years.",
+    "signal_tags": ["quality-complaint", "consumer-review", "repair-cost"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-24-008",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent market reaction: Kering stock jumps ~11% on Gucci's narrowing sales decline beating forecasts.",
+    "signal_tags": ["stock", "quantified-demand", "turnaround-signal", "analyst-reaction"],
+    "confidence": 0.6
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-20260824-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting on European price rollback with explicit open question on US applicability, no NA verdict",
+    "signal_tags": ["pricing", "factual_reporting"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260824-02",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Analytical piece concludes Gucci has limited room to absorb US tariffs, compounding trade-down risk versus rivals",
+    "signal_tags": ["pricing", "tariffs", "competitive_pressure"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260824-03",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Bernstein investor note scores Demna debut 7.6/10, net-positive verdict ahead of predecessor's debut",
+    "signal_tags": ["runway", "creative_direction", "investor_read"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260824-04",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "US critic praises collection's wow-factor and emotional design shift, independent runway review despite a caveat",
+    "signal_tags": ["runway", "creative_direction", "critic_review"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260824-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread genuinely split between relief and disappointment over Demna debut, no net consensus",
+    "signal_tags": ["community", "runway", "mixed_reaction"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260824-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Small SNS account calls Gucci most overrated luxury brand citing logos and leather quality, engagement unverifiable",
+    "signal_tags": ["sns", "brand_perception", "quality_complaint"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260824-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing US customer complaints about stitching failures and unsatisfactory paid repairs on aggregator review page",
+    "signal_tags": ["quality_complaint", "customer_service"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260824-08",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Meta-commentary reframing designer-change controversy as industry pattern, not itself a verdict on Gucci",
+    "signal_tags": ["commentary", "creative_direction"],
+    "confidence": 0.6
+  }
+]

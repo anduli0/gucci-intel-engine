@@ -1,0 +1,65 @@
+[
+  {
+    "id": "nea-20260824-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical analysis documents eleven consecutive quarters of China sales decline and a sharp revenue collapse (RMB 100bn to ~40bn), attributed to weakened brand strength and eroded loyalty.",
+    "signal_tags": ["negative_earnings_momentum", "design_criticism", "independent_analysis"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-20260824-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Genuine consumer commentary reports Gucci 1955 bag resale price roughly halved (RMB 13,000 to 6,500) and value-for-money skepticism versus alternatives like travel spending.",
+    "signal_tags": ["resale_price_drop", "value_for_money_dispute"],
+    "confidence": 0.75
+  },
+  {
+    "id": "nea-20260824-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign/product write-up (Lady Lunetta bag, ambassadors, Flora motif) with no independent evaluative verdict -- activation coverage discount applies.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-20260824-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive retail pop-up opening announcement (Gucci Editor Room at Shinsegae Gangnam) with no evaluative commentary -- brand-owned activation coverage.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-20260824-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade-community post reframes 'resale is unprofitable' narrative (explicitly citing Gucci) as a sourcing-margin problem, reflecting eroding confidence in the resale channel.",
+    "signal_tags": ["resale_price_drop", "value_for_money_dispute"],
+    "confidence": 0.55
+  },
+  {
+    "id": "nea-20260824-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Korean media reports luxury-resale platforms contracting due to inflated pricing, counterfeit concerns and eroding brand trust, citing falling resale premiums across luxury brands including Gucci.",
+    "signal_tags": ["resale_price_drop", "counterfeit_adjacent"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-20260824-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "aespa Ningning named Gucci global ambassador with fan enthusiasm; fandom spike damped to mild magnitude per fandom trap, not independent critical judgment.",
+    "signal_tags": ["ambassador_news", "fandom_spike"],
+    "confidence": 0.6
+  }
+]
