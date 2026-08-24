@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-25",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "Gucci + pool.json의 competitor_set(8개 전 브랜드)에 대해 동일한 중립 쿼리 템플릿(\"<브랜드> 뉴스\"/\"<brand> news\" 등, NEA는 한국어·일본어 추가)을 지역별로 1회씩 실행",
+    "브랜드별로 동일한 검색 횟수·동일한 스캔 깊이를 적용 — 특정 브랜드를 더 깊게 조사하지 않음",
+    "패션/비즈니스 편집 기사만 집계 — 쇼핑몰 상품 페이지, 태그/아카이브 목록 페이지, 위키(나무위키/위키백과), 브랜드 공식 스토어 페이지, 중복 기사는 제외",
+    "발행일이 2026-08-18~2026-08-25(최근 7일) 구간으로 명확히 확인되는 기사만 집계 — 날짜 미상 또는 구간 밖 기사는 제외",
+    "검색 결과에 날짜 메타데이터가 없는 경우가 많아(범용 웹검색 특성), 이번 사이클은 전 브랜드·전 지역에서 보수적으로 낮은 카운트가 관측됨 — 이는 수집 편향이 아니라 동일 기준 적용의 결과이므로 임의로 보정하지 않음",
+    "SEA/NEA 등 일부 지역은 최근 7일 이내로 명확히 날짜가 확인되는 브랜드별 편집 기사가 검색 결과 상 발견되지 않아 다수 브랜드가 0으로 기록됨 — 이는 측정 불능이 아니라 '해당 기간 내 검색으로 발견된 관련 기사 없음'을 의미"
+  ],
+  "criteria_en": [
+    "For Gucci + all 8 brands in pool.json competitor_set, ran the same neutral query template (\"<brand> news\" / Korean and Japanese equivalents for NEA) once per brand per region",
+    "Identical search count and scan depth per brand — no brand was searched more deeply than another",
+    "Counted only fashion/business editorial articles — excluded shopping/product listing pages, tag/archive list pages, wiki pages (Wikipedia/Namuwiki), official brand store pages, and duplicates",
+    "Only counted articles with a confirmable publish date within 2026-08-18 to 2026-08-25 (last 7 days) — undated or out-of-window items excluded",
+    "Because generic web search frequently lacks date metadata, this cycle's counts are conservatively low across all brands and regions — this reflects consistent methodology, not brand bias, and was not smoothed or inflated",
+    "Several regions (notably SEA and parts of NEA) returned no editorial articles with a confirmable date inside the 7-day window for many brands, resulting in honest 0 counts — this means 'no dated relevant article found in this search pass', not that measurement was impossible"
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 1,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 1
+    },
+    "SEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 1,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 1,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 1,
+      "Balenciaga": 0,
+      "Burberry": 1
+    },
+    "EU": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {
+        "outlets": ["FASHIONSNAP"],
+        "examples": [
+          {"title": "「シャネル」が新エイジングケア クリーム発売 コラーゲンの量と質にアプローチ", "url": "https://www.fashionsnap.com/article/2026-08-24/chanel-le-lift/"}
+        ]
+      },
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {
+        "outlets": ["FASHIONSNAP"],
+        "examples": [
+          {"title": "バーバリー ビューティがローステッド バニラの魅力を描くフレグランスを発売", "url": "https://www.fashionsnap.com/article/2026-08-23/burberry-goddess-amber-vanilla/"}
+        ]
+      }
+    },
+    "SEA": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Gucci Pre-Fall 2026 Ready-to-Wear Collection [PHOTOS]", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/gucci-pre-fall-2026-ready-to-wear-collection-1238369668/"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {
+        "outlets": ["Paris Select Book (citing Bloomberg)"],
+        "examples": [
+          {"title": "Chanel posts 16% growth in the first half of 2026, driven by Matthieu Blazy", "url": "https://www.parisselectbook.com/en/2026/08/22/chanel-posts-16-growth-in-the-first-half-of-2026-driven-by-matthieu-blazy/"}
+        ]
+      },
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Saint Laurent Fall 2026 Ready-to-Wear Collection [PHOTOS]", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/saint-laurent-fall-2026-ready-to-wear-collection-1238645614/"}
+        ]
+      },
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Burberry is Owning the Ludicrously Capacious Bag with Fall 2026 Campaign", "url": "https://wwd.com/fashion-news/fashion-scoops/burberry-fall-2026-campaign-ludicrously-capacious-bag-1239091083/"}
+        ]
+      }
+    },
+    "EU": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    }
+  }
+}

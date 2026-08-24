@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-08-25-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "China tax crackdown singled out Gucci bags as bearing the brunt of demand pressure, dragging Kering stock",
+    "signal_tags": ["earnings_momentum", "china_demand", "stock"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-25-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified double-digit China sales decline for Gucci amid sector-wide tax-driven slump",
+    "signal_tags": ["earnings_momentum", "china_demand", "sector_wide"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-25-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade coverage of the F1/Alpine sponsorship deal, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "sponsorship"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-25-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Low 1.9/5 authenticated consumer aggregate with recurring durability and after-sales complaints",
+    "signal_tags": ["quality_complaint", "customer_service", "grassroots"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-25-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuinely split collector-community verdict on Demna's debut bags, no net polarity",
+    "signal_tags": ["product_reception", "mixed_sentiment", "grassroots"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-08-25-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan reaction mixes livery-loss jokes and price-hike speculation but lacks clear polarity toward Gucci itself; low-confidence polarity demoted to neutral",
+    "signal_tags": ["fandom", "cross_vertical", "price_speculation"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-08-25-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive report of sustained organic TikTok volume with no evaluative content",
+    "signal_tags": ["organic_buzz", "sns", "unverified_reach"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-25-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade-press critical review finds La Famiglia campaign incoherent as a whole despite compelling individual parts",
+    "signal_tags": ["trade_press_review", "creative_direction", "campaign_critique"],
+    "confidence": 0.7
+  }
+]

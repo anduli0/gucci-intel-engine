@@ -1,0 +1,112 @@
+{
+  "brand_group": "Kering",
+  "date": "2026-08-25",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Kering",
+      "event_type": "financial",
+      "headline": "China 럭셔리 판매 10%대 급감, Gucci·보테가·발렌시아가 모두 두 자릿수 하락",
+      "summary": "블룸버그가 집계한 3개 리서치사 데이터에 따르면 중국 상위 25개 럭셔리 브랜드의 7월 매출이 전년 대비 10% 이상 감소했으며, 역외자산 과세 캠페인이 부유층 소비를 위축시킨 것이 원인으로 지목된다. Kering 산하 Gucci, 보테가 베네타, 발렌시아가가 모두 두 자릿수 매출 감소를 기록했다.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/luxury-sales-plunge-in-china-as-tax-push-hits-wealthy-shoppers",
+      "source": "Bloomberg",
+      "tier": "T1",
+      "published_at": "2026-08-20",
+      "why_it_matters": "구찌뿐 아니라 케링 산하 전 브랜드가 중국 과세 리스크에 동시에 노출되어 있음을 보여주는 그룹 차원의 구조적 위험 신호다.",
+      "why_it_matters_en": "This is a group-wide structural risk signal showing Kering's entire brand portfolio, not just Gucci, is simultaneously exposed to China's tax crackdown on wealth.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "controversy",
+      "headline": "케링 주가, 중국 수요 둔화 우려로 250유로 중반대 정체",
+      "summary": "8월 20~21일 기준 케링 주가는 250~252유로 구간에서 등락하며 연초 대비 13.6% 하락한 상태이고, 5일간 1.75% 추가 하락했다. 보석 부문의 견조한 성장에도 불구하고 투자자들은 중국 럭셔리 수요 둔화와 구찌 회복 속도를 주시하며 신중한 태도를 유지하고 있다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-steadies-in-the-mid-eur250-band-as-china-luxury-demand-cools/69984923",
+      "source": "ad-hoc-news (Reuters wire)",
+      "tier": "T2",
+      "published_at": "2026-08-25",
+      "why_it_matters": "케링 그룹 전체의 주가 부진은 구찌 턴어라운드에 대한 시장의 신뢰가 아직 회복되지 않았음을 보여준다.",
+      "why_it_matters_en": "Kering's group-wide share weakness signals the market has not yet regained confidence in Gucci's turnaround pace.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "executive",
+      "headline": "보테가 베네타, LVMH 뷰티 출신 로맹 스핏저를 신임 CEO로 선임",
+      "summary": "케링은 로맹 스핏저를 2026년 9월 1일부로 보테가 베네타 CEO로 임명한다고 발표했다. 스핏저는 LVMH 뷰티에서 지방시·겐조·프란시스 커정 등 향수 부문을 이끌었던 인물로, 밀라노에 상주하며 루카 드 메오 케링 CEO에게 직접 보고한다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html",
+      "source": "GlobeNewswire (Kering corporate)",
+      "tier": "T1",
+      "published_at": "2026-07-15",
+      "why_it_matters": "케링이 LVMH 출신 인재를 계속 영입하며 산하 브랜드 경영진을 재편하는 흐름은 구찌의 경영 전략에도 인력·조직 벤치마크로 작용한다.",
+      "why_it_matters_en": "Kering's continued poaching of LVMH executive talent to reshape sister-brand leadership sets an organizational benchmark relevant to Gucci's own management strategy.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Balenciaga",
+      "event_type": "show",
+      "headline": "피에르파올로 피촐리, 발렌시아가 오트쿠튀르 데뷔 컬렉션 호평",
+      "summary": "피촐리의 발렌시아가 55번째 쿠튀르 컬렉션이 파리에서 공개돼 크리스토발 발렌시아가 특유의 실루엣 중심 철학을 계승했다는 평가를 받았으며, 지지 하디드가 등장한 깃털 장식 피날레 룩이 화제를 모았다. 다만 뒤이은 기성복(레디투웨어) 컬렉션은 패션 포럼에서 "열정이 없다"는 혹평을 받는 등 반응이 엇갈렸다.",
+      "url": "https://jingdaily.com/posts/pierpaolo-piccioli-balenciaga-couture-55-collection-review",
+      "source": "Jing Daily",
+      "tier": "T2",
+      "published_at": "2026-08-14",
+      "why_it_matters": "뎀나 이후 발렌시아가의 크리에이티브 리셋이 쿠튀르에서는 호평, 레디투웨어에서는 혹평으로 갈리는 것은 케링 산하 브랜드의 CD 교체 리스크를 보여주는 사례다.",
+      "why_it_matters_en": "Balenciaga's post-Demna creative reset drawing praise in couture but sharp criticism in ready-to-wear illustrates the risk profile of creative-director transitions across Kering's stable.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "financial",
+      "headline": "케링 주얼리 부문, 상반기 매출 14% 성장하며 구찌 부진 상쇄",
+      "summary": "케링의 2026년 상반기 매출은 72억2000만유로로 보고 기준 3% 감소했으나 비교 기준으로는 1% 성장했다. 이 중 주얼리 부문(부쉐론 등)은 상반기 14% 성장하며 그룹 실적을 지탱했고, 영업이익률은 12.8%로 전년 대비 40bp 개선됐다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334524/0/en/kering-2026-first-half-results-back-to-growth-performance-improvement-strategy-execution-on-track.html",
+      "source": "GlobeNewswire (Kering corporate)",
+      "tier": "T1",
+      "published_at": "2026-07-28",
+      "why_it_matters": "주얼리 부문이 구찌의 실적 공백을 메우고 있다는 사실은 케링 내에서 구찌의 상대적 비중과 협상력이 약화되고 있음을 시사한다.",
+      "why_it_matters_en": "Jewelry offsetting Gucci's earnings drag signals Gucci's relative weight and internal leverage within Kering may be eroding.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Alexander McQueen",
+      "event_type": "campaign",
+      "headline": "알렉산더 맥퀸, 카렌 엘슨 기용한 '느와르' 무드 가을 캠페인 공개",
+      "summary": "알렉산더 맥퀸이 오랜 뮤즈 카렌 엘슨과 팔로마 엘세서 등을 기용해 글렌 루치포드가 촬영한 2026 가을 캠페인을 공개했다. 3월 파리 패션위크에서 선보인 컬렉션의 무드를 어둡고 시네마틱한 톤으로 확장했다.",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/mcqueen-fall-campaign-2026-karen-elson-paloma-elsesser-1239086317/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-21",
+      "why_it_matters": "케링 산하 세컨 티어 브랜드들도 강도 높은 캠페인 투자를 이어가고 있어, 구찌의 마케팅 자원 배분과 브랜드 간 경쟁을 함께 살펴야 한다.",
+      "why_it_matters_en": "Kering's second-tier houses are sustaining heavy campaign investment, underscoring internal competition for marketing resources and attention that Gucci must factor into its own allocation.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering Eyewear",
+      "event_type": "licensing",
+      "headline": "케링 아이웨어, 발렌티노와 글로벌 라이선스 계약으로 2분기 매출 7% 성장",
+      "summary": "케링 아이웨어는 2026년 2분기 매출 4억7600만유로(+7% 보고 기준, +8% 비교 기준)를 기록했으며, 발렌티노 아이웨어 신규 라이선스 출시와 린드버그 40주년 캡슐 컬렉션, 마우이짐 옵티컬 재출시가 성장을 견인했다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334524/0/en/kering-2026-first-half-results-back-to-growth-performance-improvement-strategy-execution-on-track.html",
+      "source": "GlobeNewswire (Kering corporate)",
+      "tier": "T1",
+      "published_at": "2026-07-28",
+      "why_it_matters": "아이웨어처럼 라이선스 기반 카테고리가 꾸준히 성장하는 것은 구찌 뷰티·아이웨어 라이선스 사업의 성장 여력을 가늠하는 참고 지표가 된다.",
+      "why_it_matters_en": "Steady growth in license-based categories like eyewear offers a reference point for gauging the growth headroom in Gucci's own beauty and eyewear licensing business.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Brioni",
+      "event_type": "executive",
+      "headline": "브리오니, 생로랑 출신 페데리코 아리고니를 신임 CEO로 선임",
+      "summary": "브리오니 CEO였던 메디 베나바지가 지노리 1735 CEO로 자리를 옮기면서, 생로랑 아시아태평양 사장 겸 부CEO였던 페데리코 아리고니가 브리오니 CEO로 승진 임명됐다.",
+      "url": "https://wwd.com/business-news/human-resources/kering-new-ceos-brioni-ginori-1237686419/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-05",
+      "why_it_matters": "케링이 그룹 내부에서 인력을 순환 배치하는 방식은 구찌 경영진 인사 풀에도 시사점을 준다.",
+      "why_it_matters_en": "Kering's pattern of internal executive rotation across brands offers a signal for how Gucci's own leadership bench may be managed.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": []
+}

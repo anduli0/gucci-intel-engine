@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-25",
+  "horizon_days": 60,
+  "items": [
+    {
+      "date": "2026-09-10~2026-09-15",
+      "event": "New York Fashion Week (SS27)",
+      "brand": "Industry (CFDA)",
+      "type": "show",
+      "why_ko": "글로벌 패션 시즌의 개막전으로, 미국 시장의 소비 심리와 셀러브리티 캐스팅 트렌드를 가늠하는 선행 지표.",
+      "why_en": "Opens the global fashion month, an early read on US consumer sentiment and celebrity casting trends.",
+      "action_ko": "NA 지역 인플루언서·셀럽 착장 모니터링 강화, 구찌 앰버서더 노출 기회 스카우팅",
+      "source": "CFDA",
+      "tier": 1,
+      "url": "https://cfda.com/news/view-the-preliminary-september-2026-official-nyfw-schedule/"
+    },
+    {
+      "date": "2026-09-17~2026-09-21",
+      "event": "London Fashion Week (SS27)",
+      "brand": "Industry (BFC)",
+      "type": "show",
+      "why_ko": "맥퀸(Seán McGirr), 멀버리(Christopher Kane) 등 경쟁 하우스의 새 크리에이티브 디렉터 데뷔가 다수 예정되어 크리에이티브 담론 경쟁이 치열해짐.",
+      "why_en": "Multiple rival houses debut new creative directors (McQueen, Mulberry), intensifying competition for creative discourse share.",
+      "action_ko": "경쟁 하우스 디렉터 교체 리뷰 대비 뎀나 구찌 내러티브 선점 콘텐츠 준비",
+      "source": "British Fashion Council",
+      "tier": 1,
+      "url": "https://www.britishfashioncouncil.co.uk/BFCNEWS/5094/THE-BRITISH-FASHION-COUNCIL-ANNOUNCES-PROVISIONAL-SCHEDULE-FOR-LONDON-FASHION-WEEK-SEPTEMBER-2026"
+    },
+    {
+      "date": "2026-09-22",
+      "event": "Milan Fashion Week 개막 - Prada 쇼",
+      "brand": "Prada",
+      "type": "show",
+      "why_ko": "프라다가 밀라노 패션위크를 여는 슬롯을 확보, 핵심 경쟁사의 시즌 톤 세팅을 가장 먼저 확인 가능.",
+      "why_en": "Prada opens Milan Fashion Week, setting the season's competitive tone first among key rivals.",
+      "action_ko": "프라다 쇼 리뷰 기반 SEA/EU 경쟁 포지셔닝 브리핑 작성",
+      "source": "WWD",
+      "tier": 1,
+      "url": "https://wwd.com/fashion-news/fashion-features/prada-moschino-debut-milan-fashion-week-september-2026-calendar-1239080481/"
+    },
+    {
+      "date": "2026-09-22~2026-09-28",
+      "event": "Milan Fashion Week (SS27, Womenswear)",
+      "brand": "Industry (Camera Moda)",
+      "type": "show",
+      "why_ko": "구찌 홈그라운드 시즌. 뎀나 2번째 컬렉션 발표 및 베르사체·보테가 베네타·아르마니 등 이탈리아 경쟁 하우스가 총출동.",
+      "why_en": "Gucci's home season in Milan, with Demna's second collection alongside Versace, Bottega Veneta, and Armani.",
+      "action_ko": "밀라노 쇼 위크 전 기간 미디어·SNS 트래킹 강화, 경쟁사 쇼 직후 실시간 비교 리포트 준비",
+      "source": "Camera Nazionale della Moda Italiana",
+      "tier": 1,
+      "url": "https://fashionista.com/2026/07/milan-fashion-week-september-2026-schedule"
+    },
+    {
+      "date": "2026-09-25",
+      "event": "구찌 쇼 (Demna 2번째 컬렉션, SS27)",
+      "brand": "Gucci",
+      "type": "show",
+      "why_ko": "뎀나의 두 번째 구찌 컬렉션으로 데뷔 시즌 이후 방향성 지속 여부를 시장이 평가하는 핵심 분수령.",
+      "why_en": "Demna's second Gucci collection, a critical checkpoint for whether the debut-season direction is sustained.",
+      "action_ko": "쇼 종료 후 T+24h 이벤트 대응 리포트 발행, 소셜 버즈·프레스 톤 실시간 모니터링",
+      "source": "Hypebeast / Milan FW schedule",
+      "tier": 1,
+      "url": "https://hypebeast.com/2025/7/milan-fashion-week-spring-2026-schedule-gucci-demna-dario-vitale-versace-louise-trotter-jil-sander-simone-belloti-bottega-veneta-info"
+    },
+    {
+      "date": "2026-09-26",
+      "event": "Bottega Veneta 쇼",
+      "brand": "Bottega Veneta",
+      "type": "show",
+      "why_ko": "루이즈 트로터 체제의 보테가 베네타가 밀라노에서 가죽공예 중심 경쟁 서사를 이어가는 핵심 라이벌.",
+      "why_en": "Bottega Veneta under Louise Trotter continues its leathercraft-centric narrative, a key rival to Gucci in Milan.",
+      "action_ko": "가죽 아이코닉 백 포지셔닝 비교 분석 실시",
+      "source": "Milan Fashion Week schedule",
+      "tier": 2,
+      "url": "https://us.fashionnetwork.com/news/Milan-women-s-fashion-week-reveals-a-packed-lineup-for-september,1754775.html"
+    },
+    {
+      "date": "2026-09-28",
+      "event": "Giorgio Armani 쇼 (밀라노 폐막)",
+      "brand": "Armani",
+      "type": "show",
+      "why_ko": "조르지오 아르마니 타계 이후 첫 정규 시즌 쇼로 하우스 승계 방향에 업계 관심 집중, 밀라노 감성적 클로징.",
+      "why_en": "First regular-season Armani show after the founder's passing, closing Milan with intense industry focus on house succession.",
+      "action_ko": "업계 전반 애도·계승 담론 모니터링, 구찌 대외 메시지 톤 조율",
+      "source": "FashionNetwork",
+      "tier": 2,
+      "url": "https://us.fashionnetwork.com/news/Milan-women-s-fashion-week-reveals-a-packed-lineup-for-september,1754775.html"
+    },
+    {
+      "date": "2026-09-28~2026-10-06",
+      "event": "Paris Fashion Week (SS27, Womenswear)",
+      "brand": "Industry (FHCM)",
+      "type": "show",
+      "why_ko": "디올, 샤넬, 생로랑, 루이비통 등 LVMH·케링 핵심 하우스가 총집결하는 시즌 최대 격전지, 68개 쇼·33개 프레젠테이션 규모.",
+      "why_en": "The season's biggest battleground with Dior, Chanel, Saint Laurent, and Louis Vuitton all showing; 68 runway shows and 33 presentations.",
+      "action_ko": "LVMH 하우스 쇼 직후 경쟁 인텔리전스 요약 발행, 구찌 프레스 데이 일정과 충돌 회피 조율",
+      "source": "Fédération de la Haute Couture et de la Mode",
+      "tier": 1,
+      "url": "https://www.complex.com/style/a/will-lavin/paris-fashion-week-ss27-women-schedule-2026"
+    },
+    {
+      "date": "2026-10-06",
+      "event": "Louis Vuitton 쇼 (파리 폐막)",
+      "brand": "Louis Vuitton",
+      "type": "show",
+      "why_ko": "루이비통이 파리 패션위크 전체를 폐막하는 최종 슬롯 확보, LVMH 최대 무기 브랜드의 시즌 마무리 메시지.",
+      "why_en": "Louis Vuitton closes Paris Fashion Week, LVMH's flagship brand delivering the season's final statement.",
+      "action_ko": "시즌 종합 경쟁 리캡 리포트에 루이비통 클로징 포함해 발행",
+      "source": "Complex",
+      "tier": 1,
+      "url": "https://www.complex.com/style/a/will-lavin/paris-fashion-week-ss27-women-schedule-2026"
+    },
+    {
+      "date": "2026-10-20",
+      "event": "LVMH 2026년 3분기 매출 발표",
+      "brand": "LVMH",
+      "type": "earnings",
+      "why_ko": "최대 경쟁 그룹 LVMH의 3분기 매출로 럭셔리 전반 수요 회복 여부와 패션·레더굿즈 부문 트렌드를 가장 먼저 확인.",
+      "why_en": "LVMH's Q3 revenue is the first major signal on broader luxury demand recovery and Fashion & Leather Goods trends.",
+      "action_ko": "발표 직후 업계 브리프에 LVMH 실적 해석 반영, 케링 실적 발표 전 비교 프레임 준비",
+      "source": "LVMH Investor Relations",
+      "tier": 1,
+      "url": "https://www.lvmh.com/en/investors"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "에르메스 2026년 3분기 매출 발표",
+      "brand": "Hermès",
+      "type": "earnings",
+      "why_ko": "초고가 세그먼트의 안정성을 보여주는 벤치마크로, 구찌 리포지셔닝 전략의 준거점이 되는 실적.",
+      "why_en": "A benchmark for ultra-high-end segment resilience, a reference point for Gucci's repositioning strategy.",
+      "action_ko": "울트라럭셔리 세그먼트 대비 구찌 가격 포지셔닝 리뷰",
+      "source": "Hermès Finance",
+      "tier": 1,
+      "url": "https://finance.hermes.com/en/"
+    },
+    {
+      "date": "2026-10-29",
+      "event": "케링 2026년 3분기 매출 발표",
+      "brand": "Kering",
+      "type": "earnings",
+      "why_ko": "구찌 모기업 케링의 3분기 실적 — 뎀나 체제 2개 시즌째 매출·마진 반영 첫 분기 발표로 CMO 최우선 관심 지표.",
+      "why_en": "Kering's Q3 results are the first quarterly print reflecting two seasons under Demna — the top-priority metric for the Gucci CMO.",
+      "action_ko": "실적 발표 D-day 대응 메시지·투자자 Q&A 예상 논점 사전 준비, 발표 후 즉시 인덱스 해석 리포트 발행",
+      "source": "Kering Investor Relations",
+      "tier": 1,
+      "url": "https://www.ideal-investisseur.fr/en/stock-calendar/KERING-FR0000121485.html"
+    },
+    {
+      "date": "2026-11-13",
+      "event": "리치몬트 2026 회계연도 반기 실적 발표",
+      "brand": "Richemont",
+      "type": "earnings",
+      "why_ko": "주얼리·워치 부문 대표 그룹의 실적으로 하드럭셔리 수요와 중국·미국 소비 회복 시그널을 제공, 구찌 주얼리 확장 전략에 참고.",
+      "why_en": "Richemont's results signal hard-luxury demand and China/US consumption recovery, relevant to Gucci's jewelry expansion strategy.",
+      "action_ko": "하드럭셔리 카테고리 벤치마크로 구찌 주얼리 라인 전략 리뷰",
+      "source": "Richemont",
+      "tier": 2,
+      "url": "https://www.richemont.com/investors/corporate-calendar/"
+    }
+  ]
+}

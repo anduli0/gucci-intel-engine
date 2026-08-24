@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-08-25-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit prosecution naming Gucci reflects brand-protection exposure, not a direct brand attack, so mild negative per counterfeit-trap guidance.",
+    "signal_tags": ["counterfeit", "brand_protection", "legal"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-25-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity/event write-up of a brand-staged preview with no independent design critique.",
+    "signal_tags": ["activation_coverage", "ambassador", "event"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-25-003",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation write-up carries outlet's own laudatory evaluative language ('monumental', 'redefined modern luxury'), so positive but capped under the activation discount.",
+    "signal_tags": ["activation_coverage", "collection_review", "oversampled_promo"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-25-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Grassroots consumer concern/puzzlement over a boutique closure amid a broader luxury-tenant retreat from KLCC signals shrinking local footprint.",
+    "signal_tags": ["store_closure", "consumer_concern", "retail_footprint"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-08-25-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum thread corroborates a pattern of quality/QC complaints (finish wearing off, peeling, denied exchanges), though full content was inaccessible.",
+    "signal_tags": ["quality_complaint", "unverified_access"],
+    "confidence": 0.45
+  },
+  {
+    "id": "SEA-2026-08-25-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador-portfolio profile with no independent evaluative verdict on the brand; treated as fandom/activation coverage.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-25-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Coverage of Kering Q2 2026 results notes Gucci organic sales still declining and weak traffic/China sales, with recovery unconfirmed pending Q3.",
+    "signal_tags": ["earnings", "momentum_press", "china_softness"],
+    "confidence": 0.65
+  }
+]

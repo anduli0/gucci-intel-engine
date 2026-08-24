@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-20260825-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Bloomberg-sourced report of double-digit Gucci sales decline in China, deepening momentum reversal and pressuring Kering valuation.",
+    "signal_tags": ["negative_earnings_momentum", "china_demand", "kering_valuation"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260825-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD republishes/recirculates Fall 2026 RTW photo gallery with mostly descriptive framing, no explicit critical verdict in coverage.",
+    "signal_tags": ["runway_coverage", "descriptive_reporting"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260825-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring PurseForum community criticism calling designs 'tacky'/'overdone' and citing eroded exclusivity from logo-driven marketing.",
+    "signal_tags": ["design_criticism", "exclusivity_erosion", "grassroots_sentiment"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260825-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Persistent low-grade US consumer complaints about stitching, hardware tarnish, and multi-month repair delays.",
+    "signal_tags": ["quality_complaint", "repair_service", "consumer_reviews"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260825-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained, months-long organic social backlash against AI-generated campaign imagery as 'cheap' and 'lazy', not subject to activation cap since it is organic backlash.",
+    "signal_tags": ["controversy", "ai_backlash", "campaign_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260825-07",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party PurseBlog hands-on review is generally positive on the Paparazzo bag's versatility, tempered by community price-versus-quality skepticism in comments.",
+    "signal_tags": ["third_party_review", "purchase_consideration", "price_value_skepticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260825-08",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "BoF trade-press coverage frames sustained US store traffic uptick as independent commercial validation of Demna's fast-track retail strategy.",
+    "signal_tags": ["favorable_trade_press", "store_traffic", "quantified_demand"],
+    "confidence": 0.75
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "nea-20260825-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Straight product-launch write-up of Jackie Flap bag with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-20260825-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity-spotting follow-up (Shawn Mendes) with no independent critical judgment.",
+    "signal_tags": ["activation_coverage", "celebrity_spotting"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-20260825-003",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic Korean fan enthusiasm for BTS Jin's Gucci photoshoot, damped under fandom/ambassador trap.",
+    "signal_tags": ["fandom", "ambassador", "kpop"],
+    "confidence": 0.65
+  },
+  {
+    "id": "nea-20260825-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent trade-press framing of Gucci/Kering turnaround as cautious repositioning, not clear-cut positive or negative; also stale beyond usefulness window.",
+    "signal_tags": ["trade_press", "china_market", "stale"],
+    "confidence": 0.5
+  },
+  {
+    "id": "nea-20260825-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reseller community commentary reflecting continued erosion of confidence in the Gucci resale channel.",
+    "signal_tags": ["resale", "trust_erosion"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-20260825-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Korean media report on collapsing luxury resale trust, counterfeit concerns and falling resale premiums naming Gucci among affected brands.",
+    "signal_tags": ["resale", "counterfeit", "trust_erosion", "market_structure"],
+    "confidence": 0.75
+  },
+  {
+    "id": "nea-20260825-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive retail pop-up announcement with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.9
+  }
+]
