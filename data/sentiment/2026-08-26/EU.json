@@ -1,0 +1,92 @@
+[
+  {
+    "id": "EU-2026-08-26-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering stock steady but group softness explicitly driven by Gucci revenue decline; only gradual H2 improvement guided.",
+    "signal_tags": ["earnings", "momentum_press", "stock"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-26-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "China luxury sales down >10%, Gucci posts double-digit decline; beauty license divestment underscores retrenchment.",
+    "signal_tags": ["earnings", "china_slowdown", "licensing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-26-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Revenue nearly halved 2022-2025; explicit quality problems and brand overexposure cited, plus 275 store closures planned.",
+    "signal_tags": ["quality_complaint", "design_criticism", "earnings", "store_closures"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-26-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Historic Avenue Montaigne flagship lease not renewed, no renewal steps taken, part of retail streamlining/retreat.",
+    "signal_tags": ["store_closures", "retail_strategy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-26-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Third-party real-estate commentary analyzing the Avenue Montaigne exit as a market-wide strategic signal; largely analytical/factual, low confidence on direct brand polarity.",
+    "signal_tags": ["retail_strategy", "market_analysis"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-08-26-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan account reel resurfacing/reacting to Demna FW26 runway footage; descriptive resharing, no independent evaluative verdict given.",
+    "signal_tags": ["fandom", "activation_coverage", "demna_transition"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-08-26-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Viral meme is a false collab claim used as aesthetic shorthand in youth culture, explicitly not genuine brand engagement.",
+    "signal_tags": ["meme", "misinformation", "not_genuine_engagement"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-26-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade media TikTok preview of Demna's runway debut is purely descriptive activation coverage with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "demna_transition"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-26-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Mixed community sentiment but explicit recurring quality complaints (\"cheap looking,\" poor construction) surface alongside collector enthusiasm.",
+    "signal_tags": ["quality_complaint", "community", "mixed_sentiment"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-08-26-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "French financial press attributes Kering group weakness principally to Gucci underperformance amid luxury slowdown.",
+    "signal_tags": ["earnings", "momentum_press"],
+    "confidence": 0.85
+  }
+]

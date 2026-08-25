@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-08-26-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "China luxury sales plunge with Gucci posting double-digit decline is quantified negative momentum press with regional SEA tourist-spending implications.",
+    "signal_tags": ["earnings_momentum", "china_exposure", "macro"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-26-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock drop and analyst discount citing Gucci turnaround uncertainty is independent quantified investor sentiment, not brand-owned coverage.",
+    "signal_tags": ["investor_sentiment", "earnings_momentum", "stock_reaction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-26-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador/store-opening activation write-up with no independent evaluative verdict; also stale (outside freshness window).",
+    "signal_tags": ["activation_coverage", "ambassador", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-26-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit seizure signals ongoing brand-protection exposure and grey-market demand in region; counterfeit items are neutral-to-mild-negative per trap rule.",
+    "signal_tags": ["counterfeit", "brand_protection"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-26-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-account ambassador photo/hashtag lobbying is a fandom spike, not independent judgment of the brand; damped to neutral per fandom trap, unverifiable engagement.",
+    "signal_tags": ["fandom", "ambassador", "kpop", "activation_coverage"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-08-26-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer quality complaint (bag coating peeling) on community forum; mild individual QC complaint with unverifiable engagement scale.",
+    "signal_tags": ["quality_complaint", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-08-26-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed investor commentary: narrowing Gucci decline beats consensus but headline frames turnaround as still unproven; factual financial reporting without clear polarity.",
+    "signal_tags": ["earnings_momentum", "investor_sentiment", "financial_reporting"],
+    "confidence": 0.5
+  }
+]

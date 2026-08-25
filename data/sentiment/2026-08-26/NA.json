@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-20260826-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador-interview write-up tied to campaign cycle; press-kit derived, not independent public opinion.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260826-02",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Same activation pickup but explicitly notes reader comment sections skewing toward mockery, an organic negative reaction.",
+    "signal_tags": ["activation_coverage", "ambassador", "mockery"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260826-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified negative earnings/momentum coverage: Kering shares down ~13.6% YTD amid China sales slump weighing on Gucci outlook.",
+    "signal_tags": ["earnings", "stock", "china_slump"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20260826-04",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press reporting of quantified third-party demand data: US Q2 sales up 9%, beating expectations.",
+    "signal_tags": ["earnings", "trade_press", "us_growth"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260826-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critic's sharply negative design/creative-direction verdict calling the Times Square show cynical spectacle.",
+    "signal_tags": ["critic_review", "design_criticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260826-06",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuinely mixed grassroots collector reaction, some praise for aesthetic and some derivative/pricing criticism, no net polarity.",
+    "signal_tags": ["community", "collector_forum", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260826-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring standing content genre questioning quality-to-price ratio; organic but not a single viral spike.",
+    "signal_tags": ["sns", "value_for_money", "quality_scrutiny"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260826-08",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Persistent low-grade consumer complaints on stitching, hardware tarnish and slow repairs, counterbalancing promo coverage.",
+    "signal_tags": ["quality_complaint", "repair", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260826-09",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity-sighting chatter with no independently visible engagement metrics or explicit evaluative verdict.",
+    "signal_tags": ["sns", "celebrity_sighting", "it_bag"],
+    "confidence": 0.45
+  }
+]

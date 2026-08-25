@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-08-26-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive WWD write-up of Gucci's own Primavera campaign cast/concept, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-26-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-media aggregation of billboard rollout; descriptive activation coverage, not independent public opinion.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-26-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-community compilation cataloguing ad placements/assets, descriptive, no evaluative content.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-26-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fan community explicitly flags mixed-to-critical reaction (makeup/posing called 'awkward'/'weird'), genuine opinion despite ambassador content, damped per fandom trap.",
+    "signal_tags": ["fandom", "ambassador", "design_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-26-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Muted fan reaction with negligible engagement, incidental preview post, no real sentiment signal.",
+    "signal_tags": ["fandom", "ambassador", "low_engagement"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-26-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade outlet product-launch write-up (spec/price details), purely descriptive with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-26-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical business analysis: 12 straight quarters of decline, domestic brands gaining share, Gen Z pullback, outsold by local rival.",
+    "signal_tags": ["earnings_momentum", "china_market", "peer_comparison", "value_for_money"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-26-008",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade press reads narrowing decline (-8% to -2%) as a turning point, though caveated on China dependency.",
+    "signal_tags": ["earnings_momentum", "analyst_view"],
+    "confidence": 0.65
+  }
+]
