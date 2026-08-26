@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NEA-2026-08-27-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 report of double-digit China sales decline for Gucci amid broader sector slump is negative earnings/momentum press.",
+    "signal_tags": ["earnings", "china_macro", "sector_decline"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-27-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Hedged follow-up mixing persistent sales slump with CEO optimism and analyst growth consensus; balanced, not clearly polarized.",
+    "signal_tags": ["earnings", "china_macro", "outlook"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NEA-2026-08-27-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Stock dip tied to renewed scrutiny of Gucci turnaround, but framed as near-term recalibration rather than fundamental brand damage.",
+    "signal_tags": ["stock_reaction", "china_macro", "turnaround_scrutiny"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-27-005",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent Bernstein analyst calls Demna's runway debut 'more good than bad' but explicitly mixed, so capped at moderate magnitude.",
+    "signal_tags": ["trade_press", "runway_review", "creative_direction", "analyst_view"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-27-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual state-media roundup on foreign firms' China performance with incidental Gucci mention inside a contraction narrative.",
+    "signal_tags": ["china_macro", "factual_report"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-27-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive product-launch write-up (materials, pricing, silhouette) with no outlet evaluative verdict; activation coverage discount applies.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SEA-2026-08-27-001",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Outlet frames Asian casting as commercial validation, but item is campaign/ambassador activation coverage subject to the discount cap.",
+    "signal_tags": ["activation_coverage", "ambassador", "campaign", "fandom"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-27-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press descriptive campaign write-up (cast, director) with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-27-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Multi-city counterfeit prosecution of large scale (VND1.9B+) signals brand exclusivity/enforcement pressure in Vietnam.",
+    "signal_tags": ["counterfeit", "controversy", "brand_protection"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-27-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan backlash mocking Jin's campaign styling; genuine but repetitive fandom volume damped per fandom trap.",
+    "signal_tags": ["fandom", "ambassador", "design_criticism", "kpop"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-08-27-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-site preview repost of campaign imagery with no evaluative sentiment expressed, incidental fandom coverage.",
+    "signal_tags": ["fandom", "ambassador", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-27-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Manila celebrity styling preview event; no independent evaluative verdict from outlet.",
+    "signal_tags": ["activation_coverage", "campaign", "local_market"],
+    "confidence": 0.75
+  }
+]

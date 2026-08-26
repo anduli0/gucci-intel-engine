@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-20260827-01",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press reports quantified US sales growth (+9%) and narrowing organic decline, beating analyst forecasts.",
+    "signal_tags": ["earnings", "quantified_demand_data", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260827-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual financial wire report; Gucci reset framed as real but fragile and lagging faster-growing jewelry/eyewear divisions.",
+    "signal_tags": ["earnings", "peer_comparison", "financial_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260827-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 1.0,
+    "rationale": "Widely-cited factual report on price cuts and CEO admission past hikes went too far; mixes corrective action with an admitted misstep, net neutral.",
+    "signal_tags": ["price_change", "trade_press", "greedflation"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260827-04",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SNS reaction to price cuts is split between welcome-correction approval and skeptical too-little-too-late commentary.",
+    "signal_tags": ["price_change", "mixed_reaction", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260827-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Grassroots collector debate on PurseForum is split between reconsidering repurchase and skepticism that cuts reflect genuine value correction.",
+    "signal_tags": ["price_change", "community", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260827-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Critic argues Demna's pre-fall collection recycles Tom Ford-era codes rather than forging a distinct identity, despite acknowledging improved wearability.",
+    "signal_tags": ["design_criticism", "creative_direction", "trade_creator"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260827-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Motorsport fans mock the fashion-over-performance branding of the Gucci-Alpine F1 deal, echoing prior backlash cycles; activation coverage cap applies.",
+    "signal_tags": ["activation_coverage", "sponsorship", "fan_backlash"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260827-08",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "F1 fan community genuinely split between praising the merch design and rejecting luxury branding on racing gear, no net polarity.",
+    "signal_tags": ["activation_coverage", "community", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260827-09",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring aggregated US consumer complaints on stitching failures, hardware tarnish misclassified as wear-and-tear, and costly repairs at premium price points.",
+    "signal_tags": ["quality_complaint", "value_for_money", "consumer_reviews"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260827-10",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Resale analysis frames Gucci as more accessibly priced than Chanel/Hermes (~26% gap) and roughly comparable to Louis Vuitton on value retention; mixed, descriptive market positioning without a strong evaluative verdict.",
+    "signal_tags": ["resale_value", "peer_comparison", "price_positioning"],
+    "confidence": 0.5
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-08-27-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Primavera campaign post, purely descriptive of cast/director — not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-27-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade press describes campaign theme and cast without an independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-27-003",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "UK outlet gives a clear evaluative verdict framing the campaign as a considered, effective return to Gucci's sexy heritage under Demna.",
+    "signal_tags": ["activation_coverage", "campaign", "creative_direction", "trade_press"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-27-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of ambassador cast and Demna's multi-ambassador strategy, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-27-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Financial press ties Kering share weakness directly to Gucci slowdown and China demand softness.",
+    "signal_tags": ["earnings_momentum", "financial_press", "china_demand"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-27-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "French financial media attributes Kering's group-level weakness principally to Gucci's ongoing underperformance.",
+    "signal_tags": ["earnings_momentum", "financial_press", "china_demand"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-27-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread mixes nostalgic approval with quality/construction concerns versus earlier Flora pieces — genuinely mixed reaction.",
+    "signal_tags": ["community", "flora_reissue", "quality_perception", "mixed_reaction"],
+    "confidence": 0.45
+  },
+  {
+    "id": "EU-2026-08-27-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum roundup explicitly shows polarized split between harsh critics and enthusiastic praise of Demna's debut, no dominant polarity.",
+    "signal_tags": ["community", "runway_debut", "polarized", "creative_direction"],
+    "confidence": 0.4
+  }
+]
