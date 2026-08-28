@@ -1,0 +1,154 @@
+[
+  {
+    "id": "NEA-2026-08-28-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Primavera campaign write-up with no outlet verdict, brand-staged activation.",
+    "signal_tags": [
+      "activation_coverage",
+      "campaign",
+      "ambassador"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-28-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Vogue Korea editorial descriptively frames Jin's campaign role without independent critical judgment.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador",
+      "editorial"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-28-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador activation coverage of Ningning's campaign feature, no evaluative verdict.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-28-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan reaction roundup praising Jin's visuals; fandom spike damped per trap, ambassador discount applies.",
+    "signal_tags": [
+      "fandom_spike",
+      "ambassador",
+      "activation_coverage"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-28-005",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan enthusiasm for Jin's Gucci visuals on Threads, damped as fandom spike.",
+    "signal_tags": [
+      "fandom_spike",
+      "ambassador",
+      "sns"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-28-006",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan repost celebrating ambassador Zhang Linghe for fragrance line; organic but generic fandom volume, damped.",
+    "signal_tags": [
+      "fandom_spike",
+      "ambassador",
+      "sns"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-08-28-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan community logistics discussion about a meet-and-greet, not evaluative of brand.",
+    "signal_tags": [
+      "fandom_spike",
+      "ambassador",
+      "community"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-28-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Jackie Flap bag launch write-up, no evaluative verdict.",
+    "signal_tags": [
+      "activation_coverage",
+      "product_launch"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-28-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent third-party sales data shows double-digit China sales decline for Gucci amid wealth-tax crackdown.",
+    "signal_tags": [
+      "quantified_demand_data",
+      "china_slowdown",
+      "earnings_momentum"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-28-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical analysis explains why Gucci's China slump is steeper than peers, citing structural bifurcation and tax enforcement.",
+    "signal_tags": [
+      "critical_analysis",
+      "china_slowdown",
+      "peer_comparison"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-28-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale background item explicitly outside freshness window, retained only as corroborating context, not a fresh signal.",
+    "signal_tags": [
+      "stale_context",
+      "china_slowdown"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-08-28-013",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Diaspora trade-press coverage names Gucci among Kering brands posting double-digit China declines amid tax enforcement.",
+    "signal_tags": [
+      "china_slowdown",
+      "financial_press"
+    ],
+    "confidence": 0.7
+  }
+]

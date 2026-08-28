@@ -1,0 +1,139 @@
+{
+  "brand_group": "Kering",
+  "date": "2026-08-28",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Saint Laurent",
+      "event_type": "executive_move",
+      "headline": "생로랑 반카렐로 퇴진설, 공식 확인 없이 계속 확산 - Zara 이적설까지 등장",
+      "summary": "Anthony Vaccarello의 Saint Laurent 퇴진 루머가 소셜미디어와 업계 매체에서 계속 확산되고 있으며, 일부에서는 Zara 이적설까지 제기됐다. Kering이나 Vaccarello 본인의 공식 발표는 아직 없다.",
+      "url": "https://fashionunited.com/news/people/anthony-vaccarellos-decade-at-saint-laurent-a-retrospective/2026081874127",
+      "source": "FashionUnited",
+      "tier": "T2",
+      "published_at": "2026-08-18",
+      "why_it_matters": "미확인 루머임에도 계속 확산 중인 점은 생로랑의 크리에이티브 리더십 불확실성이 시장 심리에 실제로 영향을 주고 있음을 시사하며, 구찌의 드사르노 체제 안정성과 대조되는 참고점이다.",
+      "why_it_matters_en": "Even unconfirmed, the persistence of this rumor across outlets signals real market unease about Saint Laurent's creative leadership stability, a useful contrast point against Gucci's own De Sarno-era stability question.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "financial",
+      "headline": "케링, 8월 월간 주식·의결권 총수 공시 - 정기 규제 신고",
+      "summary": "Kering이 2026년 8월 기준 자본금 구성 주식 수 및 총 의결권 수에 대한 월간 정기 공시를 발표했다. 특별한 변동 사항은 없는 루틴 규제 신고다.",
+      "url": "https://www.globenewswire.com/news-release/2026/08/24/3350013/0/en/kering-monthly-statement-on-the-total-number-of-shares-and-voting-rights-august-2026.html",
+      "source": "GlobeNewswire (Kering)",
+      "tier": "T1",
+      "published_at": "2026-08-24",
+      "why_it_matters": "루틴 공시이지만 케링의 지배구조 투명성 관행을 보여주며, 대주주 구조 변동 여부를 매달 추적할 수 있는 근거 자료가 된다.",
+      "why_it_matters_en": "A routine filing, but it is the standing data point for tracking any shift in Kering's shareholder/voting structure month to month.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "executive_move",
+      "headline": "보테가 베네타 신임 CEO 로맹 슈피처, 9월 1일 취임 임박",
+      "summary": "LVMH 프래그런스 부문 회장 출신 Romain Spitzer의 Bottega Veneta CEO 취임(9월 1일, 밀라노 근무, 케링 경영위원회 합류)이 다가오는 가운데, 전임 Bartolomeo Rongone은 이미 몽클레르 그룹 CEO로 자리를 옮겼다.",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html",
+      "source": "GlobeNewswire (Kering)",
+      "tier": "T1",
+      "published_at": "2026-07-15",
+      "why_it_matters": "LVMH 출신 임원 영입은 케링이 경쟁사 인재를 스카우트해 브랜드 경영을 강화하는 흐름을 보여주며, 구찌 조직 재정비와 병행되는 그룹 전체 리더십 리셋의 일부다.",
+      "why_it_matters_en": "Poaching a top LVMH executive underscores Kering's pattern of recruiting rival talent to strengthen brand management, part of a group-wide leadership reset running in parallel with Gucci's own reorganization.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "financial",
+      "headline": "케링, 매장 100여개 추가 폐쇄 계획 지속 - 아시아 비중 40%",
+      "summary": "케링이 2025년 133개 매장을 폐쇄한 데 이어 2026년에도 100여개 매장을 추가 폐쇄할 계획이며, 이 중 약 40%가 아시아 시장에 집중된다. 루카 데메오 CEO의 재무 구조조정 일환이다.",
+      "url": "https://whatnow.com/news/trending/multinational-luxury-group-to-close-100-more-stores-amid-sales-slump/",
+      "source": "WhatNow / FashionUnited",
+      "tier": "T2",
+      "published_at": "2026-08-20",
+      "why_it_matters": "아시아 매장 폐쇄 비중이 40%에 달한다는 점은 구찌를 포함한 그룹 전체가 아시아 리테일 풋프린트를 축소하고 있다는 의미로, 구찌의 지역별 매장 전략에도 직접적 압박 요인이다.",
+      "why_it_matters_en": "With roughly 40% of closures concentrated in Asia, the group-wide retail footprint reduction directly pressures Gucci's own regional store strategy in the same markets.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Alexander McQueen",
+      "event_type": "financial",
+      "headline": "맥퀸, 매장 절반 폐쇄 구조조정 지속 - 데메오, 매각설 부인",
+      "summary": "루카 데메오 케링 CEO가 알렉산더 맥퀸 매각설을 부인하고 대신 강도 높은 턴어라운드를 우선시하겠다고 밝혔다. 맥퀸은 전 세계 매장의 50%를 2026년 말까지 폐쇄하는 축소 지향 구조조정을 진행 중이다.",
+      "url": "https://us.fashionnetwork.com/news/Kering-s-luca-de-meo-rules-out-selling-mcqueen-prioritises-a-robust-turnaround,1806382.html",
+      "source": "FashionNetwork",
+      "tier": "T2",
+      "published_at": "2026-08-15",
+      "why_it_matters": "손실 브랜드를 매각 대신 축소 재편으로 회생시키려는 케링의 결정은, 구찌 역시 유사한 '규모 축소를 통한 수익성 회복' 압박에 놓일 수 있음을 시사하는 그룹 차원의 선례다.",
+      "why_it_matters_en": "Kering choosing to shrink-to-turnaround a loss-making house rather than sell it is a group-level precedent suggesting Gucci itself could face similar profitability-through-downsizing pressure if underperformance persists.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Balenciaga",
+      "event_type": "campaign",
+      "headline": "발렌시아가, 피에르파올로 피촐리 첫 캠페인 '클레르-옵스퀴르' 공개",
+      "summary": "Pierpaolo Piccioli의 Balenciaga 첫 가을 캠페인이 사진작가 Robin Galiegue와 함께 명암 대비를 주제로 공개됐다. Anok Yai가 출연했으며 Hourglass Avenue 백, Le 7 Bowling 백 등 핸드백 라인이 중심이다.",
+      "url": "https://wwd.com/fashion-news/designer-luxury/balenciaga-fall-2026-campaign-anok-yai-1239165957/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-13",
+      "why_it_matters": "피촐리가 핸드백 중심 상업성과 예술적 무드를 동시에 노리는 전략은, 구찌가 신임 크리에이티브 팀 아래 상업 히트 상품과 브랜드 이미지 재건을 어떻게 병행할지에 대한 벤치마크가 된다.",
+      "why_it_matters_en": "Piccioli's dual push for handbag commerciality and art-directed mood offers Gucci a benchmark for balancing hit-product commercial pressure with brand image rebuilding under its own creative regime.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "trend",
+      "headline": "보테가 베네타, Lyst 지수 7위 안정권 유지 - 실적 견조세 지속",
+      "summary": "Bottega Veneta가 2026년 1분기와 2분기 연속 Lyst Index 세계 7위를 유지하며 케링 산하 브랜드 중 가장 안정적인 수요 흐름을 보이고 있다. 2025년 3분기에도 그룹 내 유일하게 매출 플러스(+3%)를 기록한 바 있다.",
+      "url": "https://www.lyst.com/the-lyst-index/Q2-26/",
+      "source": "Lyst Index",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "케링 그룹 내 유일하게 꾸준히 견조한 실적을 내는 브랜드로 자리잡은 점은, 구찌가 벤치마크할 '조용한 럭셔리·장인정신' 포지셔닝의 성공 사례이자 그룹 내 상대적 위상 하락의 근거이기도 하다.",
+      "why_it_matters_en": "Standing out as the one consistently resilient Kering house is both a positioning benchmark (quiet luxury, craftsmanship) Gucci could study, and evidence of Gucci's own relative standing slipping within the group's brand hierarchy.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "earnings",
+      "headline": "케링 3분기 실적 발표 10월 29일 예정 - 구찌 반등 지속 여부 시험대",
+      "summary": "케링의 2026년 3분기 매출 발표일이 10월 29일로 확정됐다. 2분기에 12분기 만에 첫 그룹 성장 전환을 기록했지만 구찌는 여전히 매출 감소(12분기 연속) 상태였던 만큼, 3분기 실적이 반등 서사의 지속성을 가늠할 다음 시험대가 된다.",
+      "url": "https://www.investing.com/equities/kering-earnings",
+      "source": "Investing.com",
+      "tier": "T2",
+      "published_at": "2026-08-25",
+      "why_it_matters": "10월 29일 실적 발표는 구찌 매출 감소세가 마침내 멈추는지 확인할 다음 공식 데이터 포인트로, 지금까지의 반등 서사가 기대치 관리인지 실제 개선인지 가려줄 분수령이다.",
+      "why_it_matters_en": "The October 29 report is the next official data point testing whether Gucci's revenue decline finally breaks, and whether the group turnaround narrative reflects real improvement or continued expectations management.",
+      "relevance": "competitive threat"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Kering",
+      "event_type": "financial",
+      "headline": "케링, 뷰티 사업부 로레알에 40억 유로 매각 완료",
+      "summary": "Kering이 Kering Beauté 사업부(구찌·발렌시아가·보테가 베네타 뷰티 라이선스 포함)를 로레알에 40억 유로에 매각, 2026년 3월 31일 거래 완료.",
+      "url": "https://www.personalcareinsights.com/news/loreal-acquires-kering-beaute-4-billion.html",
+      "source": "Personal Care Insights",
+      "tier": "T2",
+      "published_at": "2026-03-01",
+      "why_it_matters": "구찌 뷰티 사업이 이제 로레알 럭스 산하로 운영된다는 뜻으로, 구찌 브랜드의 뷰티 카테고리 전략 통제권이 그룹 밖으로 이전된 구조적 변화다.",
+      "why_it_matters_en": "Gucci's own beauty business now operates under L'Oréal Luxe, a structural shift moving beauty-category control outside the Kering group itself — still strategically material to how Gucci's brand equity is managed.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "regulation",
+      "headline": "케링, 발렌티노 완전 인수 시점 2028년 이후로 재연기",
+      "summary": "Kering이 카타르계 Mayhoola로부터 발렌티노 나머지 70% 지분 인수 옵션 행사 시점을 2028-2029년으로 재차 연기했다. 부채 부담을 이유로 든 조치다.",
+      "url": "https://www.investing.com/news/stock-market-news/kering-delays-full-valentino-acquisition-to-2028-amid-debt-concerns-4234093",
+      "source": "Reuters via Investing.com",
+      "tier": "T1",
+      "published_at": "2025-09-10",
+      "why_it_matters": "발렌티노 인수 연기는 케링이 여전히 부채 관리를 최우선으로 하고 있음을 보여주며, 이는 구찌를 포함한 그룹 내 자본 배분 우선순위에 직접 영향을 준다.",
+      "why_it_matters_en": "The repeated Valentino acquisition delay signals Kering is still debt-constrained first and foremost, which directly caps capital available for reinvestment across the group including Gucci.",
+      "relevance": "category trend"
+    }
+  ]
+}

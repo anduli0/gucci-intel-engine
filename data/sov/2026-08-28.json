@@ -1,0 +1,130 @@
+{
+  "date": "2026-08-28",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "구찌 + data/sources/pool.json competitor_set 7개 브랜드(루이비통, 디올, 샤넬, 프라다, 보테가 베네타, 생로랑, 발렌시아가, 버버리) 전원에 동일한 중립 쿼리 템플릿 적용 — '<브랜드> 뉴스'(NEA는 한국어), '<브랜드> actualité'(EU 프랑스어), '<브랜드> news'/'<브랜드> news Southeast Asia'/'<브랜드> news this week'(NA/SEA 영어).",
+    "브랜드별 검색 횟수·스캔 깊이를 동일하게 유지(브랜드당 기본 1회 + 날짜 검증 1회, 지역별 8개 브랜드 전원 동일 처리) — 특정 브랜드를 더 깊이 파지 않음.",
+    "패션/비즈니스 에디토리얼 기사만 집계 대상으로 하고 쇼핑몰 목록, 태그 페이지, 위키백과, 중복 기사는 제외.",
+    "기사 발행일이 명시적으로 확인 가능하고 2026-08-21~08-28 구간(최근 7일)에 해당하는 경우만 집계 — 검색 스니펫에 날짜가 없거나 과거(예: 2023년, 2025년 하반기) 기사로 재확인된 경우는 제외.",
+    "검색 엔진이 최신순 필터를 안정적으로 제공하지 않아 다수의 상시성(evergreen) 페이지가 노출됨 — 날짜가 명확히 확인된 기사만 정직하게 카운트했으며, 브랜드 간 결과가 대칭적으로 희소한 경우(SEA, NA, EU 다수 브랜드) 그대로 0으로 기록함(임의 보정 없음).",
+    "구찌 관련 자체 캠페인/홍보성 기사는 편집 기사로 간주하되 브랜드 공식 홍보자료(pradagroup.com, burberryplc.com 등 브랜드 자사 뉴스룸)는 제외."
+  ],
+  "criteria_en": [
+    "Same neutral query template run for Gucci + all 7 pool.json competitor_set brands (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry) — Korean queries for NEA, French for EU, English for NA/SEA.",
+    "Identical search count and scan depth per brand (1 base query + 1 date-verification query per brand, applied uniformly across all 4 regions) — no brand searched more deeply than another.",
+    "Only fashion/business editorial articles counted; shopping listings, tag pages, Wikipedia, and duplicates excluded.",
+    "Only articles with an explicitly confirmable publish date within 2026-08-21 to 2026-08-28 (trailing 7 days) were counted; undated snippets or items later confirmed as older (e.g., 2023, mid-2025) were excluded.",
+    "Search tool does not reliably restrict to a 7-day window and surfaces many evergreen/SEO-persistent pages; counts were kept honest by only crediting date-verified items, and symmetric near-zero results (SEA, NA, EU for most brands) were recorded as-is rather than smoothed.",
+    "Brand owned-media newsrooms (e.g., pradagroup.com, burberryplc.com) excluded as non-independent editorial sources; own-brand campaign coverage by independent press still counted."
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 1,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 1,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 1,
+      "Burberry": 0
+    },
+    "SEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "EU": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["Vogue Korea"],
+        "examples": [
+          {"title": "르네상스 초상 너머, 지금의 진과 구찌", "url": "https://www.vogue.co.kr/2026/08/25/%EB%A5%B4%EB%84%A4%EC%83%81%EC%8A%A4-%EC%B4%88%EC%83%81-%EB%84%88%EB%A8%B8-%EC%A7%80%EA%B8%88%EC%9D%98-%EC%A7%84%EA%B3%BC-%EA%B5%AC%EC%B0%8C"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {
+        "outlets": ["W Korea"],
+        "examples": [
+          {"title": "익숙함과 새로움 사이, 샤넬 2026 F/W", "url": "https://www.wkorea.com/2026/08/25/%EC%9D%B5%EC%88%99%ED%95%A8%EA%B3%BC-%EC%83%88%EB%A1%9C%EC%9B%80-%EC%82%AC%EC%9D%B4-%EC%83%A4%EB%84%AC-2026-f-w"}
+        ]
+      },
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {
+        "outlets": ["Vogue Korea"],
+        "examples": [
+          {"title": "발렌시아가에서 다시 만난 꾸뛰르의 세상", "url": "https://www.vogue.co.kr/2026/08/27/%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84%EA%B0%80%EC%97%90%EC%84%9C-%EB%8B%A4%EC%8B%9C-%EB%A7%8C%EB%82%9C-%EA%BE%B8%EB%9B%B0%EB%A5%B4%EC%9D%98-%EC%84%B8%EC%83%81"}
+        ]
+      },
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "SEA": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "NA": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "EU": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    }
+  },
+  "notes": "Web search tool does not support reliable last-7-days filtering; most 'this week'/'news' queries surfaced SEO-persistent evergreen or older articles (some snippets were later found, on date-verification, to be from 2023 or mid-2025 despite appearing in a 'recent news' framing). To keep counts honest per methodology/gmai-formula.md §3.2d, only articles with an explicitly confirmable publish date inside 2026-08-21–2026-08-28 were credited. This produced a sparse but symmetric result: 3 verified NEA items (Gucci, Chanel, Balenciaga, each 1) and 0 elsewhere. SEA, NA and EU are NOT omitted (a genuine, non-zero search effort was applied identically to all 8 brands in all 4 regions) but the honest, verifiable in-window count for every brand in those three regions was 0 given the search tool's limitations — this is a measurement-precision caveat, not a claim that zero coverage exists in reality."
+}

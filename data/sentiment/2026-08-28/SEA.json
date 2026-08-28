@@ -1,0 +1,95 @@
+[
+  {
+    "id": "SEA-2026-08-28-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive store-renovation and ambassador store-visit coverage, no evaluative judgment offered",
+    "signal_tags": [
+      "activation_coverage",
+      "store_opening",
+      "ambassador"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-28-003",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Outlet's own evaluative framing praises campaign's Asian-star strategy as proof of cultural relevance, capped under activation-coverage rule",
+    "signal_tags": [
+      "activation_coverage",
+      "campaign",
+      "ambassador",
+      "third_party_verdict"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-08-28-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic viral backlash over AI-generated imagery, harsh mockery of brand judgment, not subject to activation cap since negative",
+    "signal_tags": [
+      "controversy",
+      "ai_backlash",
+      "creative_direction"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-28-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Negative earnings/momentum press: Kering revenue decline, Gucci sales down double digits, store closures",
+    "signal_tags": [
+      "earnings",
+      "momentum",
+      "store_closures"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-28-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Genuine unfiltered fan backlash mocking Jin's campaign styling/makeup; fandom-spike damping applied to magnitude",
+    "signal_tags": [
+      "fandom",
+      "ambassador",
+      "campaign",
+      "styling_criticism"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-08-28-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community reaction evenly split between criticism and praise of styling, no dominant polarity to force",
+    "signal_tags": [
+      "fandom",
+      "campaign",
+      "mixed_reaction"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-08-28-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-site preview posting/discussion with no evaluative content, organic amplification volume only",
+    "signal_tags": [
+      "fandom",
+      "ambassador",
+      "campaign"
+    ],
+    "confidence": 0.8
+  }
+]

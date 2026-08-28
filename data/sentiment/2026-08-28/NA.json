@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-20260828-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade-press write-up of Gucci's own campaign launch, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20260828-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity interview/shoot tied to campaign, no independent critical judgment offered.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260828-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic NFL fan mockery of the campaign (\"start saying no\") is genuine negative public reaction, not brand-owned promo.",
+    "signal_tags": ["backlash", "ambassador_risk", "sns_reaction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260828-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Further derisive fan reaction reinforcing mocking narrative; lower-tier outlet, repetitive of same event.",
+    "signal_tags": ["backlash", "ambassador_risk", "sns_reaction"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260828-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade-press activation write-up for collector audience, no clear evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260828-06",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive culture-media activation coverage emphasizing cast strategy, no independent verdict.",
+    "signal_tags": ["activation_coverage", "campaign_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260828-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic celebrity social sparring dominated by mockery of the campaign look; polarized but net negative lean.",
+    "signal_tags": ["backlash", "ambassador_risk", "sns_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260828-08",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent financial press frames Gucci's uneven quarterly performance as a signal of shopper uncertainty.",
+    "signal_tags": ["earnings", "momentum_negative", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260828-09",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring flagship customer-service complaints (being watched/followed) despite some mitigating reviews.",
+    "signal_tags": ["service_complaint", "in_store_experience"],
+    "confidence": 0.6
+  }
+]

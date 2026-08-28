@@ -1,0 +1,76 @@
+[
+  {
+    "id": "EU-2026-08-28-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock fell on China luxury slowdown with investors doubting sustained Gucci recovery",
+    "signal_tags": [
+      "earnings_momentum",
+      "china_demand",
+      "stock_reaction"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-28-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering underperformed peers amid softer China demand and doubts over Gucci turnaround pace",
+    "signal_tags": [
+      "earnings_momentum",
+      "china_demand",
+      "stock_reaction"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-28-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine regulatory share-count disclosure, purely administrative with no evaluative content",
+    "signal_tags": [
+      "regulatory_filing"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "EU-2026-08-28-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive Milan Fashion Week calendar confirmation, no independent verdict yet rendered",
+    "signal_tags": [
+      "activation_coverage",
+      "runway_schedule"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-28-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Viral Gucci Morty meme uses brand as incidental visual hook, not a brand evaluation",
+    "signal_tags": [
+      "meme",
+      "incidental_mention",
+      "high_volume"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-28-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Parody post reusing the meme as stylistic signifier, not direct brand commentary",
+    "signal_tags": [
+      "meme",
+      "incidental_mention"
+    ],
+    "confidence": 0.7
+  }
+]
