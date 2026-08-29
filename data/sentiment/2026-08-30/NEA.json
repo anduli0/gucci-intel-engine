@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NEA-2026-08-30-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign write-up with no evaluative verdict from outlet.",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-30-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press descriptive coverage of campaign launch, press-kit framing without independent critical judgment.",
+    "signal_tags": ["activation_coverage", "campaign", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-30-003",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified demand signal (sold out in 24h) beyond Gucci's own marketing claims.",
+    "signal_tags": ["purchase_intent", "ambassador", "demand_data"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-08-30-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Korean fan community reaction skews mixed-to-critical of the campaign styling, damped as fandom-spike volume.",
+    "signal_tags": ["fandom_spike", "design_criticism", "ambassador"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-08-30-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic viral social-media backlash calling the styling boring and questioning the ambassador's image.",
+    "signal_tags": ["ambassador_risk", "design_criticism", "backlash"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-30-006",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan-enthusiasm aggregation with high buzz but low critical depth, capped under fandom trap.",
+    "signal_tags": ["fandom_spike", "ambassador", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-30-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified store-closure and sales-decline data signaling continued negative momentum despite Q2 improvement.",
+    "signal_tags": ["negative_earnings", "store_closures", "momentum"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-30-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador milestone offset by industry skepticism over unsustainably fast appointment-to-campaign turnaround.",
+    "signal_tags": ["ambassador_risk", "activation_coverage", "industry_skepticism"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-30-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale data ranks Gucci among weakest value-retention luxury brands.",
+    "signal_tags": ["resale_value", "quantified_data"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-30-010",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade analysis of Japan sales outperformance despite price hikes, a genuine regional strength signal.",
+    "signal_tags": ["trade_press", "sales_data", "regional_strength"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-30-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Price-hike backlash and antitrust-fine context amplify consumer criticism of regional overpricing.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "regulatory"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-08-30-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Unfocused low-tier community thread mixing counterfeit chatter and general skepticism, too diffuse for clear polarity.",
+    "signal_tags": ["counterfeit", "community", "low_confidence"],
+    "confidence": 0.4
+  }
+]

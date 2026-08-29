@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-08-30-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Jackie Flap bag launch with ambassador styling, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-30-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive rollout coverage of Jackie Flap bag with ambassador lineup and store locations, no critical judgment offered.",
+    "signal_tags": ["activation_coverage", "ambassador", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-30-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Campaign write-up centered on K-pop/C-pop ambassadors for SEA fandom audience, descriptive framing without independent verdict.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-30-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent business press reports 217 store closures and 22% sales plunge, concentrated in Asia, directly hitting SEA retail footprint.",
+    "signal_tags": ["negative_earnings", "store_closures", "asia_pacific"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-30-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent resale data shows Marmont average resale price falling from $1,600 to $853, signaling weakening resale value.",
+    "signal_tags": ["resale_value_drop", "quantified_data", "secondhand_market"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-30-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Speculative SNS post questioning motives behind price cuts (recession signal vs strategy shift); ambiguous tone, low-confidence polarity demoted to neutral.",
+    "signal_tags": ["sns_chatter", "price_speculation"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-08-30-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing community forum thread airs candid criticism of current design direction, pricing and quality versus legacy Tom Ford/Alessandro eras.",
+    "signal_tags": ["design_criticism", "quality_complaint", "community_sentiment", "legacy_comparison"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-08-30-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive Instagram reel referencing brand's local SEA presence with no visible engagement metrics or evaluative content.",
+    "signal_tags": ["activation_coverage", "sns"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-30-010",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation write-up carries the outlet's own evaluative framing of the film as Demna's first cohesive brand-storytelling statement, capped magnitude per activation-coverage rule.",
+    "signal_tags": ["activation_coverage", "creative_direction", "campaign_review"],
+    "confidence": 0.55
+  }
+]

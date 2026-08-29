@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-20260830-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 wire report of double-digit China sales decline for Gucci amid tax crackdown, framed as headwind to turnaround.",
+    "signal_tags": ["earnings_momentum", "china_demand", "financial_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20260830-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic NFL fan mockery of Brady's Gucci campaign as 'divorced energy'; derisive viral reaction not subject to activation cap since it's negative organic response.",
+    "signal_tags": ["ambassador_backlash", "campaign_mockery", "organic_reaction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260830-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral Portnoy-led fan backlash calling Brady's Gucci campaign 'bizarre', organic mainstream-audience negative reaction.",
+    "signal_tags": ["ambassador_backlash", "campaign_mockery", "organic_reaction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260830-06",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Core-customer forum thread genuinely split between welcoming Demna's direction and calling pieces derivative; no dominant valence.",
+    "signal_tags": ["community_sentiment", "creative_direction", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260830-07",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-blog walkthrough of Borsetto bag update reads as largely descriptive coverage without a strong independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260830-08",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Resale guide reports recent-era Gucci bags losing significant resale value fast versus Chanel/Hermes/LV, a clear comparative value-retention critique.",
+    "signal_tags": ["resale_value", "value_for_money", "peer_comparison"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260830-09",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "CEO admission that pricing strategy 'went too far' testing demand elasticity, framed as corrective acknowledgment of a prior misstep.",
+    "signal_tags": ["pricing_backlash", "strategy_criticism", "executive_admission"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260830-10",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fan reaction roundup described as mixed-to-mocking toward another Brady Gucci-linked moment; less unambiguous than other Brady items.",
+    "signal_tags": ["ambassador_backlash", "mixed_reaction", "organic_reaction"],
+    "confidence": 0.6
+  }
+]

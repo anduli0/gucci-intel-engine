@@ -1,0 +1,65 @@
+[
+  {
+    "id": "EU-2026-08-30-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade-press write-up of Gucci's own Primavera campaign cast/strategy with no independent evaluative verdict on quality or reception.",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-08-30-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent financial reporting on Kering share decline, China luxury slowdown, and licensing uncertainty is negative momentum/earnings press.",
+    "signal_tags": ["stock", "earnings_momentum", "china_slowdown", "licensing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-30-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade analysis reports quantified revenue and DTC sales declines in Western Europe, a negative earnings/momentum signal despite mention of a turnaround narrative.",
+    "signal_tags": ["earnings_momentum", "sales_decline", "tourist_spend"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-30-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent third-party ranking (Brand Finance) shows quantified brand-value decline and reputation downgrade, a peer-comparison loss of ranking to Miu Miu.",
+    "signal_tags": ["brand_ranking", "peer_comparison", "brand_value_decline"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-30-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community outlet's descriptive coverage of the campaign cast/styling itself carries no independent evaluative verdict; framing note about value-perception threads is context, not a verdict.",
+    "signal_tags": ["activation_coverage", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-30-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic, active community thread with recurring quality/QC complaints (shoes, watches, zippers) and exclusivity erosion from repeated core styles.",
+    "signal_tags": ["quality_complaint", "qc", "exclusivity_erosion"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-30-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo post announcing its own campaign; self-praise is not public opinion per activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "brand_owned", "sns"],
+    "confidence": 0.9
+  }
+]
