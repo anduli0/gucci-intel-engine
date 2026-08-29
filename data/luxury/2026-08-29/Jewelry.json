@@ -1,0 +1,152 @@
+{
+  "brand_group": "Jewelry",
+  "date": "2026-08-29",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Chow Sang Sang",
+      "event_type": "earnings",
+      "headline": "차우생생, 상반기 순이익 두 배 이상 급증 — 금 주얼리 수요와 지금 대출 재평가 이익이 견인",
+      "summary": "홍콩 주얼리 리테일러 차우생생이 2026년 상반기 매출을 전년 대비 17% 증가한 128억 8천만 홍콩달러로, 순이익은 139% 급증한 21억 5천만 홍콩달러로 발표했다(2026년 8월 26일 실적 발표). 홍콩·마카오 동일점포매출이 38%, 중국 본토가 11% 늘며 금값 변동성 속에서도 금 주얼리 수요가 견조했다.",
+      "url": "https://rapaport.com/news/chow-sang-sang-revenue-rises-as-gold-jewelry-demand-holds-steady/",
+      "source": "Rapaport",
+      "tier": "T2_trade",
+      "published_at": "2026-08-27",
+      "why_it_matters": "매스·프리미엄 금 주얼리 리테일러의 이익이 두 배로 뛴 것은 금값 강세 속에서도 실물 금 주얼리 수요가 식지 않았다는 신호로, 구찌가 참고할 하이엔드 파인주얼리 수요와는 결이 다르지만 지역 소비 심리를 가늠하는 선행 지표다.",
+      "why_it_matters_en": "A Hong Kong mass/premium gold jeweler more than doubling profit shows physical gold jewelry demand staying resilient even as bullion prices stay elevated — a different segment than Gucci's fine-jewelry ambitions, but a useful regional consumer-sentiment leading indicator.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Birks",
+      "event_type": "campaign",
+      "headline": "버크스, 캐나다 배우 소피 넬리세를 신규 앰배서더로 발탁",
+      "summary": "캐나다 주얼러 버크스가 배우 소피 넬리세를 브랜드 앰배서더로 임명하고 시그니처 컬렉션을 소개하는 캠페인에 출연시킬 계획이라고 밝혔다(2026년 8월 26일 보도).",
+      "url": "https://rapaport.com/all-news/",
+      "source": "Rapaport",
+      "tier": "T2_trade",
+      "published_at": "2026-08-26",
+      "why_it_matters": "지역 주얼러들도 셀럽 앰배서더 전략을 확대하며 하이주얼리 메종의 마케팅 문법을 차용하는 흐름은, 카테고리 전반의 광고 경쟁 강도가 높아지고 있음을 보여준다.",
+      "why_it_matters_en": "Regional jewelers adopting celebrity-ambassador playbooks once reserved for maisons signals rising marketing-intensity competition across the category — background noise Gucci's own jewelry ambitions would compete against.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "US customs / counterfeit jewelry",
+      "event_type": "regulation",
+      "headline": "미 세관, 홍콩발 위조 주얼리 875점(370만 달러 상당) 압수",
+      "summary": "미국 세관국경보호청이 홍콩에서 발송된 위조 주얼리 875점, 시가 370만 달러 상당을 압수했다고 2026년 8월 26일 보도됐다.",
+      "url": "https://rapaport.com/all-news/",
+      "source": "Rapaport",
+      "tier": "T2_trade",
+      "published_at": "2026-08-26",
+      "why_it_matters": "고가 브랜드명을 도용한 위조품 유통이 여전히 대규모로 적발되는 것은 카르티에·반클리프처럼 아이코닉 라인을 보유한 메종들의 지속적 법적 리스크를 재확인시키며, 구찌의 가죽제품 위조 대응 전략과 궤를 같이한다.",
+      "why_it_matters_en": "A single seizure of 875 counterfeit jewelry pieces worth $3.7M underscores that IP enforcement remains a constant, unresolved cost of doing business for icon-driven jewelry maisons — a risk pattern that parallels Gucci's own leather-goods counterfeiting exposure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Jewelry sector (resale)",
+      "event_type": "trend",
+      "headline": "카르티에 러브 브레이슬릿, 리세일가 65~75% 유지하며 Z세대·틱톡서 재부상",
+      "summary": "카르티에의 시그니처 러브 브레이슬릿이 리세일 시장에서 정가의 65~75% 가치를 유지하고 있으며, 틱톡 언박싱·셀럽 코트사이드 착용·금융권 종사자들의 '성공 인증' 게시물 등을 통해 미국 내 Z세대 사이에서 다시 확산되고 있다는 분석이 나왔다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/cartier-love-bracelet-in-2026-iconic-flex-or-overpriced-hype/68626593",
+      "source": "Ad-Hoc News / trend analysis",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "리치몬트 산하 카르티에 러브 라인이 리세일 가치 방어력과 세대 확장을 동시에 보여주는 것은, 단일 아이콘 제품이 장기간 브랜드 자산을 복리로 축적하는 사례로, 구찌의 시그니처 아이콘(호스빗·GG) 육성 전략에 직접적인 벤치마크가 된다.",
+      "why_it_matters_en": "Cartier's Love bracelet holding 65-75% resale value while gaining fresh Gen Z traction via TikTok is a case study in a single icon compounding brand equity over decades — a direct benchmark for how Gucci should steward its own icons (Horsebit, GG).",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Van Cleef & Arpels",
+      "event_type": "retail",
+      "headline": "반클리프 아펠, 마드리드 첫 부티크 오픈 후 4개월 헤리티지 전시 8월 15일 종료",
+      "summary": "반클리프 아펠이 2026년 4월 마드리드에 첫 부티크(450㎡, 2개층)를 연 데 이어 진행해온 헤리티지 컬렉션 아카이브 전시 'Welcome to Van Cleef & Arpels' world'가 8월 15일 종료됐다.",
+      "url": "https://www.vancleefarpels.com/es/en/the-maison/newsroom/van-cleef-arpels-opens-its-first-boutique-in-madrid.html",
+      "source": "Van Cleef & Arpels / Richemont",
+      "tier": "T1",
+      "published_at": "2026-08-15",
+      "why_it_matters": "리치몬트가 신규 시장(마드리드) 진입 시 매장 오픈과 헤리티지 전시를 결합한 4개월 캠페인으로 진행하는 것은, 단순 매장 오픈보다 문화적 서사를 결합한 리테일 전략의 사례로 구찌의 신규 플래그십 오픈 전략에 참고가 된다.",
+      "why_it_matters_en": "Richemont pairing a new-market boutique opening with a four-month heritage exhibition (rather than a single launch event) is a retail-as-culture playbook worth benchmarking for Gucci's own flagship openings.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bulgari",
+      "event_type": "campaign",
+      "headline": "불가리 세르펜티, 앤 해서웨이·프리앙카 초프라 조나스 캠페인 지속 노출",
+      "summary": "불가리가 2026년 1월 공개한 세르펜티 아이콘 캠페인('Regeneration' 테마, 앤 해서웨이·프리앙카 초프라 조나스 출연, 크리스 콜스 촬영)이 연중 지속적으로 노출되며 브랜드 앰배서더 전략의 핵심 축으로 자리잡았다.",
+      "url": "https://www.fashiongonerogue.com/story/anne-hathaway-bvlgari-serpenti/",
+      "source": "Fashion Gone Rogue",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "LVMH 산하 불가리가 복수의 글로벌 톱스타를 활용해 세르펜티 단일 아이콘을 연중 반복 노출하는 것은 자사 마케팅 활동이며 여론 개선의 증거는 아니지만, 아이콘 라인 캠페인의 지속성 측면에서 구찌 호스빗백 캠페인 운영과 비교할 지점이다.",
+      "why_it_matters_en": "This is Bulgari's own marketing output (activation coverage, not evidence of sentiment shift) — but the sustained, multi-ambassador repetition of a single icon (Serpenti) across a full year is a cadence benchmark relevant to how Gucci runs its own icon campaigns (e.g. Horsebit).",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Richemont / Cartier / Van Cleef & Arpels",
+      "event_type": "earnings",
+      "headline": "리치몬트 주얼리 부문, 회계연도 내내 견조한 두 자릿수 성장으로 그룹 실적 견인 지속",
+      "summary": "리치몬트의 주얼리 메종(카르티에·반클리프 아펠) 부문이 2026 회계연도 전반에 걸쳐 두 자릿수 매출 성장을 이어가며 그룹 전체 실적 개선을 견인했다는 분석이 반복적으로 확인되고 있으며, 시계 산업 대비 주얼리의 상대적 방어력이 재확인되고 있다.",
+      "url": "https://www.emarketer.com/content/cartier-keeps-richemont-sparkling-through-luxury-slowdown",
+      "source": "eMarketer",
+      "tier": "T2",
+      "published_at": "2026-05-22",
+      "why_it_matters": "카르티에가 럭셔리 업계 둔화 속에서도 리치몬트를 지탱하는 핵심 성장동력으로 반복 인용되는 것은, 파인주얼리가 가죽제품·레디투웨어보다 경기 방어력이 강한 카테고리임을 재확인시키며 구찌의 카테고리 다각화 논의에 근거를 제공한다.",
+      "why_it_matters_en": "Cartier being repeatedly cited as the category keeping Richemont resilient through a broader luxury slowdown reinforces that fine jewelry outperforms leather goods/ready-to-wear defensively — supporting evidence for Gucci's category-diversification debate.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering Jewelry (Boucheron / Pomellato / Dodo / Qeelin)",
+      "event_type": "executive",
+      "headline": "케링, 2030년까지 주얼리 매출 두 배 확대 목표 — 부쉐론·포멜라토가 그룹 내 최고 성장 브랜드로 부상",
+      "summary": "케링이 부쉐론·포멜라토·도도·치링을 아우르는 주얼리 사업부를 통해 2030년까지 매출 두 배 확대를 목표로 재편 중이며, 사비나 벨리가 포멜라토 그룹 CEO로 임명돼 알베르 벤수산 케링 럭셔리 워치&주얼리 사업부 대표 산하에서 운영되고 있다. 부쉐론과 포멜라토는 2026년 1분기 케링 포트폴리오 내 가장 빠른 성장을 기록했다.",
+      "url": "https://www.jckonline.com/editorial-article/kering-debuts-reconkering/",
+      "source": "JCK",
+      "tier": "T2_trade",
+      "published_at": "2026-06-01",
+      "why_it_matters": "케링이 구찌·생로랑 등 패션 하우스가 부진한 시기에 주얼리 사업부를 그룹의 새로운 성장축으로 육성하는 것은, 구찌 자체적으로도 파인주얼리 카테고리 투자 확대가 그룹 전략과 정합성을 가질 수 있음을 시사하는 동시에, 그룹 내 자원 배분 경쟁이 심화될 가능성을 내포한다.",
+      "why_it_matters_en": "Kering building out its jewelry division (Boucheron, Pomellato, Dodo, Qeelin) as a fresh growth engine while fashion houses including Gucci struggle suggests both strategic alignment opportunity for Gucci's own fine-jewelry push and intensifying internal competition for group capital and executive attention.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Cartier",
+      "event_type": "retail",
+      "headline": "카르티에, 베벌리힐스 로데오 드라이브에 뉴욕 플래그십급 3층 부티크 신축",
+      "summary": "카르티에가 로데오 드라이브에 뉴욕 5번가 플래그십에 버금가는 규모의 3층 부티크를 신축 중이며 2027년 완전 개장을 목표로 하고 있다.",
+      "url": "https://www.watchpro.com/cartier-to-open-beverley-hills-boutique-second-only-in-scale-to-its-new-york-flagship/",
+      "source": "WatchPro",
+      "tier": "T2",
+      "published_at": "2026-08-19",
+      "why_it_matters": "리치몬트가 미국 서부 최고급 상권에 대형 투자를 감행하는 것은 미국 시장 내 하이주얼리·워치 수요에 대한 강한 확신을 보여주며, 구찌의 미국 리테일 재배치 전략과 비교할 기준점이 된다.",
+      "why_it_matters_en": "Richemont's major flagship investment on Rodeo Drive signals strong conviction in US high-jewelry/watch demand even as broader luxury spending moderates — a scale benchmark for Gucci's own US retail repositioning.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Cartier / Van Cleef & Arpels",
+      "event_type": "regulation",
+      "headline": "리치몬트, 카르티에·반클리프 겨냥 '슈퍼페이크' 위조 소송 계속 진행",
+      "summary": "리치몬트가 카르티에와 반클리프 아펠을 대리해 뉴욕남부지방법원에서 정가에 근접한 가격의 초정밀 위조품('슈퍼페이크')을 유통한 업체를 상대로 제기한 상표권·트레이드드레스 침해 소송이 계속 진행 중이다.",
+      "url": "https://www.thefashionlaw.com/richemont-takes-on-cartier-van-cleef-arpels-superfakes-in-new-lawsuit/",
+      "source": "The Fashion Law",
+      "tier": "T2",
+      "published_at": "2025-07-30",
+      "why_it_matters": "정교한 위조품이 정가에 근접한 가격으로 유통되는 '슈퍼페이크' 현상은 하이주얼리 전반의 신뢰 자산을 위협하며, 구찌 역시 가죽제품군에서 유사한 위조 리스크에 노출되어 있어 법적 대응 전략을 지속 참고할 필요가 있다.",
+      "why_it_matters_en": "The superfake phenomenon — near-identical counterfeits sold at close-to-retail prices — threatens brand trust across high jewelry, a legal-risk pattern Gucci's leather goods business shares and should keep tracking for enforcement strategy.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Jewelry sector",
+      "event_type": "trend",
+      "headline": "랩그로운 다이아몬드, 2026년 미국 약혼반지 물량의 61%까지 확대 — 하이주얼리 메종은 여전히 천연석 고수",
+      "summary": "2026년 랩그로운 다이아몬드가 미국 약혼반지 판매 물량의 약 61%를 차지할 것으로 전망되지만 금액 기준으로는 다이아몬드 시장의 약 21%에 그쳐, 대중 시장과 하이주얼리 메종 간 가격·소재 전략 격차가 뚜렷해지고 있다.",
+      "url": "https://www.persistencemarketresearch.com/market-research/lab-grown-diamonds-market.asp",
+      "source": "Persistence Market Research",
+      "tier": "T2_trade",
+      "published_at": "2026-08-01",
+      "why_it_matters": "랩그로운 다이아몬드의 물량 급증은 매스 주얼리 시장을 잠식하는 반면 카르티에·반클리프 등 메종은 천연석·헤리티지로 차별화하는 이원화 구도가 굳어지고 있어, 구찌가 파인주얼리 확장을 검토할 때 소재 포지셔닝의 참고 지표가 된다.",
+      "why_it_matters_en": "Lab-grown diamonds now dominate US engagement-ring volume by unit count but remain a fraction of value share, hardening a bifurcation between mass jewelry and natural-stone heritage maisons — relevant material-positioning context should Gucci deepen its own fine jewelry push.",
+      "relevance": "category trend"
+    }
+  ]
+}

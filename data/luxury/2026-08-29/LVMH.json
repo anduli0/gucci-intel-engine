@@ -1,0 +1,126 @@
+{
+  "brand_group": "LVMH",
+  "date": "2026-08-29",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "launch",
+      "headline": "루이비통 첫 메이크업 컬렉션 '라 보테', 8월 29일 전 세계 매장서 판매 개시",
+      "summary": "루이비통이 팻 맥그라스를 크리에이티브 디렉터로 영입해 개발한 첫 메이크업 라인 '라 보테 루이비통'(립스틱 55종·립밤 10종·아이섀도 팔레트 8종)이 8월 29일부터 선별 매장에서 전 세계 판매를 시작했다. 립스틱은 개당 160달러로 에르메스 뷰티 대비 약 2배 가격대다.",
+      "url": "https://www.businessoffashion.com/articles/beauty/louis-vuitton-beauty-products-reveal/",
+      "source": "Business of Fashion / WWD",
+      "tier": "T1",
+      "published_at": "2026-08-29",
+      "why_it_matters": "루이비통이 하드럭셔리 프라이싱을 뷰티 카테고리에 그대로 이식한 것은, 구찌 뷰티(현재 코티 라이선스 체제)의 가격 포지셔닝과 자체 크리에이티브 디렉터 기용 여부를 재검토하게 하는 직접적 벤치마크다.",
+      "why_it_matters_en": "LV importing hard-luxury pricing directly into a new beauty category is a direct benchmark forcing a rethink of Gucci Beauty's (Coty-licensed) price positioning and whether an in-house creative-director model for beauty is worth pursuing.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "retail",
+      "headline": "루이비통, 8월 31일 구이양 매장 폐점 확정 — 중국 서남부 매장 반토막",
+      "summary": "루이비통이 구이저우성 구이양 라반트센터 매장을 8월 31일부로 폐점, 4년 만에 해당 성(省)에서 완전 철수한다. 서남부 지역 매장 수는 정점 6개에서 3개로 줄었으며, 몰리티 상표권 소송 후폭풍과 중국 럭셔리 소비 둔화(7월 상위 25개 브랜드 매출 10%↓)가 배경으로 지목된다.",
+      "url": "https://wwd.com/business-news/retail/louis-vuitton-closes-lavant-center-guizhou-store-1239144086/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-29",
+      "why_it_matters": "지방 성 단위 완전 철수는 중국 내 선택과 집중형 리테일 재편이 가속화되고 있다는 신호로, 구찌의 중국 저티어 도시 매장 존속 여부 판단에 직접적인 참고 사례다.",
+      "why_it_matters_en": "A full provincial exit signals accelerating selective retail consolidation in China — a direct reference point for Gucci's own decisions on lower-tier China store viability.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Dior",
+      "event_type": "campaign",
+      "headline": "디올, 조너선 앤더슨 체제 사진집 캠페인 언론 노출 지속 — 자연주의 판타지 무드 재확인",
+      "summary": "디올이 조너선 앤더슨 데뷔 이후 봄여름·가을겨울 시즌에 걸쳐 자연주의적 판타지 톤의 캠페인 이미지를 이어가고 있으며, LVMH 패션그룹의 턴어라운드 기대가 앤더슨의 크리에이티브 방향에 걸려 있다는 평가가 이어지고 있다.",
+      "url": "https://www.malaymail.com/news/life/2026/03/04/dior-bets-on-jonathan-andersons-nature-driven-fantasy-as-lvmh-chases-a-turnaround/211213",
+      "source": "Malay Mail / WWD",
+      "tier": "T2",
+      "published_at": "2026-08-27",
+      "why_it_matters": "디올이 단일 CD 매출 반등 기대를 크게 걸고 있는 구도는, 구찌 역시 뎀나 체제 초기 실적 압박을 겪고 있는 상황과 구조적으로 유사해 비교 벤치마크가 된다 — 다만 이는 브랜드 자체 캠페인 커버리지로 실제 매출 반등 검증은 아니다.",
+      "why_it_matters_en": "Dior pinning turnaround hopes heavily on a single CD parallels Gucci's own early-Demna-era earnings pressure — a structurally comparable case, though this is campaign/activation coverage, not verified sales-recovery data.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "LVMH corporate",
+      "event_type": "earnings",
+      "headline": "LVMH 주가, 연초 대비 30% 하락 지속 — 중국 수요 둔화가 그룹 전반 압박",
+      "summary": "LVMH 주가가 2026년 8월 기준 연초 대비 약 30% 낮은 수준에서 거래되고 있다. 상반기 유기적 매출 성장률은 3%(시장 예상 2.3% 상회)였으나 순이익·영업이익은 정체 수준이며, 중국·아시아 수요 둔화가 지속적으로 그룹 밸류에이션을 짓누르고 있다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-stock-holds-below-recent-highs-as-h1-2026-earnings-highlight-mixed/69982498",
+      "source": "ad-hoc-news / Investing.com",
+      "tier": "T2",
+      "published_at": "2026-08-28",
+      "why_it_matters": "업계 최대 그룹의 지속적 주가 약세와 중국 수요 부진은 케링·구찌를 포함한 럭셔리 섹터 전반의 밸류에이션 압박이 단기 이슈가 아님을 재확인시킨다.",
+      "why_it_matters_en": "The sector bellwether's sustained share-price weakness and China softness reconfirm that valuation pressure across luxury, Kering/Gucci included, is not a short-term blip.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Givenchy",
+      "event_type": "campaign",
+      "headline": "지방시, 사라 버튼 체제 첫 로케이션 촬영 캠페인 — 스튜디오 초상에서 탈피",
+      "summary": "지방시가 가을 2026 캠페인에서 위르겐 텔러가 크로아티아 아드리아 해안(마카르스카)에서 촬영한 로케이션 이미지를 처음 공개했다. 그동안 콜리어 쇼어의 스튜디오 인물사진에 의존하던 사라 버튼의 여성복 캠페인 방식에서 벗어난 전환이다.",
+      "url": "https://runwaylive.com/givenchy-fall-2026-campaign-juergen-teller-croatia.html",
+      "source": "Runway Live / WWD",
+      "tier": "T2",
+      "published_at": "2026-08-26",
+      "why_it_matters": "LVMH 산하 중소 하우스가 CD 체제 안정화 이후 비주얼 전략을 실험적으로 조정하는 흐름은, 구찌 역시 신임 CD 체제에서 캠페인 톤을 다각화할 시점을 가늠하는 참고 사례다.",
+      "why_it_matters_en": "A smaller LVMH house adjusting its visual strategy once a CD era stabilizes offers a reference point for when Gucci might diversify its own campaign tone under its new creative regime.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Fendi",
+      "event_type": "campaign",
+      "headline": "펜디, 카를 라거펠트 40주년 전시 로마서 재현 — 마리아 그라치아 키우리 기획",
+      "summary": "펜디 크리에이티브 디렉터 마리아 그라치아 키우리가 기획한 'Fendi/Karl Lagerfeld 1985' 전시가 로마 국립현대미술관에서 7월 10일부터 10월 25일까지 재개관해 진행 중이다. 라거펠트와 펜디의 첫 20년 협업을 40년 만에 재조명한다.",
+      "url": "https://hauteliving.com/2026/08/fendi-karl-largerfeld-exhibition-rome-2026/794275/",
+      "source": "Haute Living",
+      "tier": "T2",
+      "published_at": "2026-08-25",
+      "why_it_matters": "펜디가 헤리티지 아카이브를 전시 콘텐츠로 재가공해 브랜드 서사를 강화하는 방식은, 구찌의 아카이브·헤리티지 자산(구찌 가든, 아카이브 프로젝트) 활용 전략과 직접 비교되는 지점이다.",
+      "why_it_matters_en": "Fendi repackaging heritage archive material into exhibition content to reinforce brand narrative is a direct comparison point for Gucci's own archive/heritage assets (Gucci Garden, archive projects).",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "LVMH corporate",
+      "event_type": "M&A",
+      "headline": "LVMH의 마크 제이콥스 매각, 3분기 내 완료 예정 — 비핵심 브랜드 정리 지속",
+      "summary": "LVMH가 1997년부터 보유해온 마크 제이콥스를 WHP Global·G-III Apparel 합작법인에 최대 8억5천만 달러에 매각하는 절차가 2026년 3분기 완료를 목표로 진행 중이다. 마크 제이콥스 본인은 크리에이티브 디렉터로 유임한다.",
+      "url": "https://www.prnewswire.com/news-releases/lvmh-and-whp-global-announce-definitive-agreement-for-the-acquisition-of-marc-jacobs-302772917.html",
+      "source": "PR Newswire / WWD",
+      "tier": "T1",
+      "published_at": "2026-05-14",
+      "why_it_matters": "LVMH가 비핵심 브랜드를 정리하며 핵심 하우스에 자원을 집중하는 포트폴리오 재편 원칙은, 구찌가 케링 내 자원배분 논쟁에서 계속 참고할 선례다.",
+      "why_it_matters_en": "LVMH's continued trimming of non-core brands to refocus resources on core houses remains a portfolio-discipline precedent relevant to Kering's resource-allocation debates around Gucci.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Dior",
+      "event_type": "shows",
+      "headline": "조너선 앤더슨, 디올 여성복·남성복 동시 총괄 데뷔 — 사상 최초 사례",
+      "summary": "조너선 앤더슨이 디올 역사상 최초로 여성복과 남성복을 동시에 총괄하는 크리에이티브 디렉터로서 2025년 데뷔 컬렉션을 선보였고, 이후 2026년 봄여름·가을겨울 컬렉션에서 자연주의적 판타지 무드를 이어가고 있다.",
+      "url": "https://www.lvmh.com/en/news-lvmh/jonathan-anderson-presents-debut-dior-haute-couture-collection-spring-summer-2026",
+      "source": "LVMH / WWD",
+      "tier": "T1",
+      "published_at": "2025-10-02",
+      "why_it_matters": "디올의 '한 사람이 남녀 라인 총괄' 구조 실험은 구찌를 포함한 경쟁사들의 크리에이티브 조직 설계에 중요한 선례로 계속 참고할 가치가 있다.",
+      "why_it_matters_en": "Dior's experiment with a single designer heading both womenswear and menswear remains an important organizational precedent worth continued tracking against Gucci's own creative structure.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "LVMH corporate",
+      "event_type": "executive",
+      "headline": "LVMH 패션그룹, 피에트로 베카리 체제로 전환 — 시드니 톨레다노 퇴진",
+      "summary": "루이비통 CEO였던 피에트로 베카리가 2026년 1월 1일부로 LVMH 패션그룹 회장으로 승진, 30여 년간 베르나르 아르노의 최측근이었던 시드니 톨레다노의 일선 후임이 됐다. LVMH 패션 부문 전반의 리더십 세대교체 신호다.",
+      "url": "https://www.modaes.com/global/companies/lvmh-promotes-louis-vuitton-ceo-to-head-fashion-group-to-take-over-from-toledano",
+      "source": "Modaes / Yahoo Finance",
+      "tier": "T1",
+      "published_at": "2026-01-01",
+      "why_it_matters": "LVMH 패션그룹 최고위 리더십 세대교체는 그룹 전체 전략 방향 재설정 신호로, 케링/구찌의 조직 안정성과 비교할 배경 지식으로 계속 유효하다.",
+      "why_it_matters_en": "The top-level LVMH Fashion Group leadership handover signals a group-wide strategic reset and remains useful background for contrasting against Kering/Gucci's own organizational stability.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

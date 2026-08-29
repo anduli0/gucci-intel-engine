@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-08-29-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own ambassador campaign, no independent verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-08-29-002",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Outlet gives independent evaluative praise of campaign's creative direction, but it covers a brand-run activation so capped at 0.5.",
+    "signal_tags": ["activation_coverage", "creative_direction", "critic_review"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-08-29-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive local preview-event coverage of product/silhouette direction with no evaluative judgment.",
+    "signal_tags": ["activation_coverage", "product_preview"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-29-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press descriptive report on campaign casting logic quoting Demna, no independent critical verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-08-29-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical-angle report on store closures and 22% sales decline, directly hitting SEA retail footprint.",
+    "signal_tags": ["earnings_momentum", "retail_footprint", "critical_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-08-29-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale data shows Marmont average price nearly halving, signaling value/quality perception erosion.",
+    "signal_tags": ["resale_value", "quantified_data", "critical_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-29-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Enthusiast community reaction is ambivalent, weighing new aesthetic against past hits with no clear verdict.",
+    "signal_tags": ["community_reaction", "design_uncertainty"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-08-29-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Genuine SNS fan backlash mocking ambassador's campaign styling, but narrow in scope so damped per fandom trap.",
+    "signal_tags": ["fandom", "ambassador", "sns_backlash"],
+    "confidence": 0.6
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NEA-2026-08-29-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned campaign launch write-up (activation coverage); embedded sustainability skepticism is too mild/hedged to force polarity",
+    "signal_tags": ["activation_coverage", "ambassador", "campaign_launch"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-29-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic controversy over Gucci China photoshopping ambassador image, mixed mockery/criticism reaction",
+    "signal_tags": ["controversy", "ambassador_risk", "localization"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-29-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community debate over censorship/localization double standards on edited campaign image, mixed but net critical",
+    "signal_tags": ["controversy", "localization", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-29-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press citing tracked data: Gucci China sales fell over 10% amid wealth crackdown",
+    "signal_tags": ["earnings_momentum", "china_demand", "independent_data"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-29-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent financial press: twelfth straight quarterly decline, analyst skeptical of genuine recovery, positioning called awkward",
+    "signal_tags": ["earnings_momentum", "analyst_criticism", "china_demand"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-08-29-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent resale-market roundup shows Gucci non-icon styles trailing Chanel/Hermes in value retention",
+    "signal_tags": ["resale_value", "independent_data"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-29-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan SNS enthusiasm over ambassador ad ranking; damped as fandom spike per trap rule",
+    "signal_tags": ["fandom_spike", "ambassador", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-29-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Forbes Japan analysis: Gucci's China downturn steeper than peers, bifurcation hurting competitive position",
+    "signal_tags": ["analyst_criticism", "china_demand", "competitive_position"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-29-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale background item explicitly outside fresh window, not counted as new signal despite critical content",
+    "signal_tags": ["background_context", "stale"],
+    "confidence": 0.4
+  }
+]

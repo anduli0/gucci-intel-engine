@@ -1,0 +1,139 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-08-29",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "financial",
+      "headline": "구찌, 2분기 매출 감소폭 2%로 축소되며 12분기 연속 하락 지속",
+      "summary": "케링의 2026년 2분기 실적에서 구찌 매출은 전년 대비 2% 감소한 14억 유로를 기록해 시장 예상치를 상회했다. 다만 이는 12개 분기 연속 매출 하락이며, 1분기의 8% 감소(유기적 기준)보다는 개선된 수치다.",
+      "url": "https://wwd.com/business-news/financial/kering-q1-2026-results-meo-1238911937/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-07-30",
+      "why_it_matters": "매출 하락폭 둔화는 뎀나 체제와 드메오 구조조정의 초기 효과로 해석될 여지가 있으나, 12분기 연속 감소라는 사실 자체가 여전히 구조적 위기를 방증한다.",
+      "why_it_matters_en": "The narrower Q2 decline suggests early traction from Demna and de Meo's reset, but a 12th consecutive quarterly drop confirms the turnaround is still incomplete, not reversed.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "구찌, 뉴욕 미트패킹 디스트릭트 매장 폐쇄 확정",
+      "summary": "2023년 개장한 9,000제곱피트 규모의 뉴욕 미트패킹 디스트릭트 매장이 폐쇄될 예정이라고 Crain's New York Business가 보도했다. 이는 케링이 추진 중인 2026년 100개 매장 폐쇄 계획의 일환이다.",
+      "url": "https://www.crainsnewyork.com/real-estate/commercial/cny-gucci-to-close-meatpacking-district-store-20260819/",
+      "source": "Crain's New York Business",
+      "tier": "T2",
+      "published_at": "2026-08-19",
+      "why_it_matters": "3년밖에 안 된 플래그십급 매장의 폐쇄는 '효율화'라는 공식 설명과 별개로 뉴욕 리테일 전략의 재검토가 얼마나 광범위한지를 보여준다.",
+      "why_it_matters_en": "Closing a store opened just three years ago underscores how sweeping Gucci's US retail rationalization has become, beyond the official 'efficiency' framing.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "드메오, 구찌 매장 3분의 2 리모델링·매장 면적 20% 축소 계획 재확인",
+      "summary": "케링 CEO 루카 드메오는 자본시장의 날(Capital Markets Day)에서 구찌 매장망의 3분의 2를 리노베이션 또는 이전하고, 매장 면적을 20% 줄이며, 아울렛을 3분의 1 축소해 2030년까지 매장당 매출밀도를 두 배로 늘리겠다는 'ReconKering' 전략을 제시했다.",
+      "url": "https://wwd.com/business-news/financial/kering-capital-markets-day-2026-1238917775/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-04-16",
+      "why_it_matters": "볼륨에서 희소성 중심 모델로의 전환은 옳은 방향일 수 있으나, 실행까지 수년이 걸리는 계획이며 아직 매출 반등으로 이어지지 않았다는 점을 함께 봐야 한다.",
+      "why_it_matters_en": "The shift from a volume model to an exclusivity model may be directionally sound, but it is a multi-year execution plan that has not yet translated into a sales turnaround.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "뎀나의 '제너레이션 구찌' 캠페인, 확장 가족 페르소나로 이어져",
+      "summary": "뎀나가 지난해 데뷔 컬렉션에서 선보인 라 봄바, 로랑플루언서 등 캐릭터들이 등장하는 '제너레이션 구찌' 캠페인 후속편이 공개돼 구찌닷컴과 매장에서 공개됐다.",
+      "url": "https://hypebeast.com/2026/4/generation-gucci-campaign-photograhed-by-demna",
+      "source": "Hypebeast",
+      "tier": "T2",
+      "published_at": "2026-04-01",
+      "why_it_matters": "이는 구찌 자체 마케팅 활동에 대한 보도이며 대중 여론의 개선을 의미하지 않는다 — 캐릭터 중심 세계관이 반복될수록 신선도 유지가 관건이다.",
+      "why_it_matters_en": "This is coverage of Gucci's own marketing output, not evidence of improved public sentiment; the recurring character universe raises the question of how long the concept stays fresh.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "구찌, 밀라노 프리마베라 쇼 앞두고 AI 생성 이미지 사용으로 반발 직면",
+      "summary": "구찌가 밀라노 프리마베라 쇼를 앞두고 'Created with AI' 라벨이 붙은 AI 생성 프로모션 이미지 4장을 공개하며 소셜미디어에서 논란이 일었다. 고가 브랜드가 왜 AI 이미지를 쓰느냐는 비판과, 장인정신을 내세우는 브랜드 정체성과의 모순이라는 지적이 제기됐다.",
+      "url": "https://news.designrush.com/gucci-ai-ads-backlash-denma-milan-primavera-show",
+      "source": "DesignRush",
+      "tier": "T2",
+      "published_at": "2026-02-25",
+      "why_it_matters": "장인정신과 고가 포지셔닝을 강조해온 브랜드가 AI 이미지로 비용 절감 인상을 준 것은 자체적 리스크이며, 향후 캠페인 제작 방식에 대한 신뢰도 문제로 이어질 수 있다.",
+      "why_it_matters_en": "For a house that leans on craftsmanship and premium pricing, visible AI-generated imagery reads as a cost-cutting signal and risks undermining trust in future campaign production.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "로레알, 구찌 뷰티 50년 독점 라이선스 계약 체결 (예정보다 1년 앞당김)",
+      "summary": "케링과 로레알은 2026년 7월 7일 구찌 향수·뷰티 사업에 대한 50년 독점 글로벌 라이선스 계약을 발표했다. 계약은 2027년 7월 1일부터 발효되며, 코티는 라이선스를 조기 반납하는 대가로 약 4억 달러를 받는다.",
+      "url": "https://www.loreal.com/en/press-release/group/l-oreal-enters-a-50-year-exclusive-worldwide-beauty-licence-with-kering--for-the-gucci-brand/",
+      "source": "L'Oréal",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "뷰티 라이선스를 코티에서 로레알로 조기 전환한 것은 구찌 뷰티 사업 재건에 대한 케링의 강한 베팅이며, 구찌 코어 패션 사업의 부진과 대비되는 성장 동력으로 주목할 필요가 있다.",
+      "why_it_matters_en": "The early transition of the beauty license from Coty to L'Oréal signals a strong Kering bet on rebuilding Gucci Beauty, a potential growth lever that stands in contrast to the ongoing weakness in Gucci's core fashion business.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "trend",
+      "headline": "구찌, 리세일 시장에서는 3위 최다 검색 브랜드 — 신제품 부진과 대조",
+      "summary": "리얼리얼(The RealReal) 2026 리세일 리포트에 따르면 구찌는 샤넬·루이비통에 이어 리세일 플랫폼에서 세 번째로 많이 검색된 브랜드다. 재키 1961, 호스빗 1955 등 헤리티지 아이코닉 라인이 리세일 수요를 견인하는 반면, 신제품 판매는 둔화되고 있다는 지적이 나온다.",
+      "url": "https://wwd.com/sourcing-journal/industry-news/the-realreal-2026-resale-report-vintage-searches-1239148202/",
+      "source": "WWD (Sourcing Journal)",
+      "tier": "T1",
+      "published_at": "2026-08-20",
+      "why_it_matters": "1차 시장(신제품)이 부진한 반면 2차 시장(리세일)에서 헤리티지 라인 수요가 견조하다는 점은 구찌의 자산이 브랜드 헤리티지에 있음을 재확인시키지만, 동시에 신제품 라인업이 그 헤리티지를 충분히 활용하지 못하고 있다는 신호이기도 하다.",
+      "why_it_matters_en": "Strong resale demand for heritage lines even as new-product sales soften confirms Gucci's core equity lies in its archive, but also signals current collections may not be converting that heritage into primary-market sales.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "shows",
+      "headline": "뎀나의 구찌 크루즈 2027, 뉴욕 타임스스퀘어 점거 쇼로 화제성 1위 기록",
+      "summary": "뎀나가 뉴욕 타임스스퀘어를 봉쇄하고 진행한 구찌 크루즈 2027 쇼는 63명의 모델이 등장했으며, 케링 CEO 루카 드메오는 '수년 만에 처음으로 구찌 쇼가 미디어 임팩트 1위를 기록했다'고 언급했다. 비평가들의 반응은 대체로 긍정적이었다.",
+      "url": "https://www.dazeddigital.com/fashion/article/70279/1/gucci-cruise-2026-times-square-new-york-demna-guccicore-casting",
+      "source": "Dazed",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "미디어 임팩트 1위는 화제성 지표일 뿐 매출 전환과는 별개이며, 실제 2분기 매출은 여전히 마이너스(-2%)였다는 점에서 화제성과 실적 간 괴리를 계속 추적해야 한다.",
+      "why_it_matters_en": "Topping media-impact rankings is a buzz metric, not a sales metric; Q2 revenue was still negative (-2%), so the gap between cultural buzz and financial conversion remains the key thing to track.",
+      "relevance": "competitive threat"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "루카 드메오, 'ReconKering' 3단계 장기 전략 발표",
+      "summary": "2025년 9월 취임한 케링 CEO 루카 드메오가 2026년 말까지 구조 개혁 완료, 2028년 말까지 지속가능한 성장 재건, 2030년까지 '넥스트 럭셔리'의 기준 플레이어 지위 회복이라는 3단계 로드맵 'ReconKering'을 공개했다. 재고 10억 유로 감축, 자동차 업계 노하우를 접목한 공급망 개편이 핵심이다.",
+      "url": "https://www.nssmag.com/en/fashion/44996/reconkering-luca-de-meo-gucci-turnaround-kering-strategy",
+      "source": "nss magazine",
+      "tier": "T2",
+      "published_at": "2026-04-16",
+      "why_it_matters": "구찌 개혁의 전체 시간표를 규정하는 상위 전략이며, 2026년 말이 1단계 완료 시점이라는 점에서 향후 분기 실적 평가의 기준선이 된다.",
+      "why_it_matters_en": "This top-level roadmap sets the timeline against which all future Gucci turnaround progress should be measured, with end-2026 marking the close of phase one.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "구찌 CEO 스테파노 칸티노, 돌체앤가바나 공동 CEO로 전격 이적",
+      "summary": "2025년 1월부터 구찌를 이끌었던 스테파노 칸티노가 프란체스카 벨레티니에게 자리를 넘기고 돌체앤가바나 공동 CEO로 이동했다.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-13/dolce-gabbana-appoints-stefano-cantino-as-co-ceo-mnwt9w5c",
+      "source": "Bloomberg",
+      "tier": "T1",
+      "published_at": "2026-04-13",
+      "why_it_matters": "1년여 만의 CEO 교체는 턴어라운드 초기 리더십의 불안정성을 보여주며, 벨레티니 체제 하 전략 연속성 여부가 관전 포인트다.",
+      "why_it_matters_en": "A CEO change after roughly a year highlights leadership instability during the early turnaround phase; whether Bellettini maintains strategic continuity is the key thing to watch.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-20260829-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press independently questions whether Demna-era pricing/drops are converting curiosity into actual purchases",
+    "signal_tags": ["trade_press", "pricing", "commercial_traction", "skepticism"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260829-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Gucci's own Primavera campaign cast, no independent verdict",
+    "signal_tags": ["activation_coverage", "ambassador", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260829-03",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation write-up with outlet's own positive evaluative verdict on campaign visuals; capped per activation discount",
+    "signal_tags": ["activation_coverage", "campaign", "creative_direction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260829-04",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Sports-media piece raises brand-safety optics questions about Brady/Gucci but does not render a clear brand verdict",
+    "signal_tags": ["ambassador", "brand_safety", "sports_media"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-20260829-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares down 13.6% YTD on China sales slump dragging Gucci, negative earnings/momentum signal for investors",
+    "signal_tags": ["earnings", "stock", "china_slump", "investor_sentiment"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20260829-06",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic core-customer community thread with mixed impressions on Flora print revival, not uniformly positive or negative",
+    "signal_tags": ["community", "product_design", "mixed_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260829-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer complaints about handbag durability, hardware quality and repair-cost disputes",
+    "signal_tags": ["quality_complaint", "customer_service", "organic"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260829-08",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral organic sports-fan mockery of Brady's Gucci campaign look, high-reach negative social reaction sustained over a week",
+    "signal_tags": ["sns", "viral", "ambassador_backlash", "organic"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260829-09",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical long-read arguing over-distribution eroded Gucci's status and cultural relevance among affluent shoppers",
+    "signal_tags": ["design_criticism", "brand_dilution", "independent_press"],
+    "confidence": 0.85
+  }
+]

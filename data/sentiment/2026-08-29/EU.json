@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-08-29-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "China luxury slowdown fears drag Kering stock while Gucci recovery still unproven",
+    "signal_tags": ["stock_reaction", "china_demand", "momentum_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-29-002",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade press sees improving quarterly trajectory toward turnaround, though explicitly not complete",
+    "signal_tags": ["trade_press", "earnings", "turnaround_narrative"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-29-003",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Bloomberg reports quantified Q2 sales beat and 16.9% share surge, independent verdict",
+    "signal_tags": ["earnings_beat", "stock_reaction", "quantified_demand"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-29-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering group grows but piece frames Gucci as still lagging healthier sister brands in Europe",
+    "signal_tags": ["peer_comparison", "earnings", "underperformance"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-29-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting on lease dispute and flagship relocation, framed as network rationalization not decline",
+    "signal_tags": ["real_estate", "factual"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-08-29-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Milan prosecutors' labor-exploitation probe keeps supply-chain controversy live for Gucci",
+    "signal_tags": ["controversy", "labor_exploitation", "supply_chain", "legal_risk"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-08-29-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci-Alpine F1 sponsorship announcement, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "sponsorship", "brand_owned"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-08-29-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Media account coverage of Gucci's own campaign teaser, descriptive activation with no engagement data",
+    "signal_tags": ["activation_coverage", "campaign", "sns", "brand_owned"],
+    "confidence": 0.6
+  }
+]
