@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-08-31-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Wire report of double-digit China sales drop for Gucci alongside peers, fading wealth effect -- negative earnings/momentum press",
+    "signal_tags": ["earnings", "china_market", "negative_momentum"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-31-002",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent analyst/market judgment: Kering shares jumped 14-17% on narrower Q2 decline beating forecasts plus HSBC upgrade -- quantified third-party demand signal",
+    "signal_tags": ["earnings", "analyst_upgrade", "stock_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-08-31-003",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade press frames still-negative H1 as cusp-of-turnaround under new leadership/ReconKering plan; favorable but hedged trade-press criticism, mixed with negative underlying figures",
+    "signal_tags": ["trade_press", "turnaround_narrative", "earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-31-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consumer reviews cite stitching failures, hardware tarnishing, costly/slow repairs -- quality/QC complaints, materials below price-point expectation",
+    "signal_tags": ["quality_complaint", "repair_service", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-08-31-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum members unfavorably compare Demna-era construction to archive pieces and debate design fatigue from recycled Horsebit/Web codes",
+    "signal_tags": ["design_criticism", "community_debate", "lost_its_way"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-08-31-006",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party handbag outlet reports growing organic enthusiasm for Borsetto as wearable archive-referencing alternative -- independent positive judgment, no hard sales data",
+    "signal_tags": ["product_praise", "purchase_intent", "archive_codes"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-08-31-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official TikTok campaign content -- brand-owned promo discount; mixed genuine engagement and recurring skepticism about content-vs-product substance, no dominant verdict",
+    "signal_tags": ["activation_coverage", "tiktok", "campaign"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-08-31-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Instagram campaign post -- activation coverage discount; comment mix of fandom praise (damped) and carried-over AI-imagery skepticism, buzz signal only, no clear polarity",
+    "signal_tags": ["activation_coverage", "instagram", "fandom", "ai_controversy"],
+    "confidence": 0.55
+  }
+]

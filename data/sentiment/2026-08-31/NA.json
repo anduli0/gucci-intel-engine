@@ -1,0 +1,81 @@
+[
+  {
+    "id": "NA-20260831-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Rising US short interest signals persistent investor skepticism about Gucci's turnaround despite Q2 beat.",
+    "signal_tags": [
+      "financial_press",
+      "investor_sentiment",
+      "turnaround_skepticism"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260831-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral mainstream mockery of Brady campaign ('bizarre', 'massacred') is organic backlash, not subject to activation cap.",
+    "signal_tags": [
+      "campaign_backlash",
+      "ambassador_risk",
+      "viral",
+      "sports_audience"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260831-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector forum genuinely split between welcoming Flora revival and finding new canvas pieces feel cheaper.",
+    "signal_tags": [
+      "collector_community",
+      "product_launch",
+      "mixed_reaction"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260831-06",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade reporting on Gucci Beauty license transfer from Coty to L'Oreal, no evaluative judgment.",
+    "signal_tags": [
+      "licensing",
+      "corporate_news",
+      "factual"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260831-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer-comparison trap: community members rate Gucci resale value below Chanel/Hermes, favoring archival Tom Ford era.",
+    "signal_tags": [
+      "peer_comparison",
+      "resale_value",
+      "community_tier"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260831-09",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Primary earnings-call disclosure of narrowing comp decline and tariff pressure is factual corroboration, not independent evaluative judgment.",
+    "signal_tags": [
+      "earnings_call",
+      "primary_disclosure",
+      "factual"
+    ],
+    "confidence": 0.7
+  }
+]

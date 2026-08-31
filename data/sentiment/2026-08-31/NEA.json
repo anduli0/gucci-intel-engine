@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NEA-2026-08-31-001",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Quantified Google Trends #1 and 24-hour sellout are independent demand signals, but driven by K-pop fandom spike so capped at 0.5.",
+    "signal_tags": ["fandom_spike", "ambassador", "demand_data", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-08-31-002",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Reinforces Jin merch/jacket sellout and trends narrative; fandom-driven virality, damped per fandom-spike rule.",
+    "signal_tags": ["fandom_spike", "ambassador", "demand_data"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-08-31-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community reactions to Primavera shoot are explicitly mixed (criticism, nostalgia, praise) with no clear net polarity.",
+    "signal_tags": ["fandom_community", "mixed_reaction", "design_feedback"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-08-31-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Ambassador-placement dispute escalated into illegal doxxing and a lawsuit, a viral controversy reflecting ambassador/fandom risk tied to the campaign.",
+    "signal_tags": ["ambassador_risk", "controversy", "fandom_conflict"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-08-31-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Cross-fandom dispute over perceived unequal ambassador treatment in Gucci campaign; organic controversy, moderate intensity aggregation.",
+    "signal_tags": ["ambassador_risk", "controversy", "fandom_conflict"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-08-31-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering H1 results show 60% profit drop and APAC sales still down 10% with cited 'luxury fatigue' and 100-store closure plan, despite narrowing decline; net negative momentum press.",
+    "signal_tags": ["earnings", "china_market", "momentum_negative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-08-31-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "China luxury sector sales fall over 10% amid tax crackdown and market losses, with Gucci explicitly named among double-digit decliners.",
+    "signal_tags": ["earnings", "china_market", "macro_headwind"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-31-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive product launch write-up (materials, pricing, availability) with no evaluative verdict; brand-owned promo copy per activation-coverage rule.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-08-31-009",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Celebrity/influencer SNS adoption framed by outlet as reviving interest in the archival Jackie line; mild third-party evaluative framing, capped under activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "influencer", "product_launch"],
+    "confidence": 0.55
+  }
+]

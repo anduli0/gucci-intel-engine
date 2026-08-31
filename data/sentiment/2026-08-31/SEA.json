@@ -1,0 +1,105 @@
+[
+  {
+    "id": "SEA-2026-08-31-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Primavera campaign write-up (roster, theme) with no outlet verdict; brand-owned activation coverage.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador",
+      "fandom"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-31-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive campaign coverage listing celebrities and credits, no independent evaluative judgment offered.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-31-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual rundown of ambassador lineup and creative direction; no critical verdict, press-kit derived.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-08-31-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Vietnam-wide counterfeit prosecutions name Gucci among faked luxury brands, mild reputational/consumer-trust drag.",
+    "signal_tags": [
+      "counterfeit",
+      "legal",
+      "regional_enforcement"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-31-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Bac Ninh counterfeit-labeling operation applied fake Gucci labels to blank garments; brand-adjacent counterfeit harm, localized scale.",
+    "signal_tags": [
+      "counterfeit",
+      "legal",
+      "regional_enforcement"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-08-31-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Ambassador-treatment fandom war over Gucci's campaign escalated to alleged doxxing and legal action, a viral brand-adjacent controversy.",
+    "signal_tags": [
+      "controversy",
+      "ambassador_risk",
+      "fandom",
+      "sns_spike"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-08-31-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregator recap of the same Jin/Xiao Zhan doxxing controversy; duplicate coverage of an already-captured event, magnitude damped.",
+    "signal_tags": [
+      "controversy",
+      "ambassador_risk",
+      "fandom",
+      "duplicate_event"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-08-31-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale-blog commentary on pervasive Gucci counterfeiting (even combs) reflects consumer wariness and brand-adjacent erosion of trust.",
+    "signal_tags": [
+      "counterfeit",
+      "consumer_trust"
+    ],
+    "confidence": 0.6
+  }
+]
