@@ -1,0 +1,155 @@
+{
+  "date": "2026-09-01",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "브랜드 9개(구찌 + pool.json competitor_set 8개: Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry) 전원에 동일한 중립 검색 쿼리 템플릿(\"<브랜드> 뉴스\" / \"<브랜드> news\" / \"<브랜드> actualité mode\" 등, 지역 언어별) 적용",
+    "브랜드별로 동일한 검색 횟수·동일한 스캔 깊이를 유지하여 편향을 방지함 (구찌를 더 깊이 파지 않음)",
+    "발행일이 2026-08-25~2026-09-01 사이로 확인된, 패션/비즈니스 편집 기사만 집계 (쇼핑 리스팅·태그 페이지·중복·연혁성 아카이브 기사 제외)",
+    "동일 사건을 다루는 중복 기사(예: 갤러리 버전과 본문 버전)는 1건으로 집계",
+    "NEA: 한국어(뉴스)·일본어(ニュース) 쿼리 동일 횟수 실행; SEA: Tatler Asia 등 영어 쿼리 2라운드 실행했으나 창 내 기사 확인 안 됨; NA: WWD/BoF/Hypebeast/Highsnobiety 접근 가능 매체 대상 실행 후 개별 기사 발행일 재검증; EU: 프랑스어/이탈리아어/영어 쿼리 실행 후 발행일 재검증 — 8월 말은 유럽 패션계 비수기(휴가철)로 확인됨",
+    "카운트는 관찰된 그대로 기록하며 인위적으로 정규화·평활화하지 않음 (0건도 그대로 기록)"
+  ],
+  "criteria_en": [
+    "Same neutral query template run for all 9 brands (Gucci + the 8 pool.json competitor_set brands: Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry), localized per region language",
+    "Identical search count and scan depth per brand to prevent bias (Gucci was never searched more deeply than peers)",
+    "Only counted editorial fashion/business articles with a confirmed publish date within 2026-08-25 to 2026-09-01; excluded shopping listings, tag pages, duplicates, and evergreen archive pieces",
+    "Duplicate coverage of the same event (e.g., gallery + text version of one story) counted once",
+    "NEA: symmetric Korean + Japanese queries; SEA: two rounds of English queries via Tatler Asia and general search, no in-window article confirmed for any brand; NA: queries via WWD/BoF/Hypebeast/Highsnobiety with individual article publish-date verification; EU: French/Italian/English queries with publish-date verification — confirmed late-August is a seasonal lull in European fashion press",
+    "Counts recorded as genuinely observed, not smoothed or normalized; zeros are recorded honestly"
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 1,
+      "Louis Vuitton": 0,
+      "Dior": 2,
+      "Chanel": 0,
+      "Prada": 1,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 1,
+      "Burberry": 0
+    },
+    "SEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 0,
+      "Louis Vuitton": 1,
+      "Dior": 1,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 1,
+      "Burberry": 0
+    },
+    "EU": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["Vogue Korea"],
+        "examples": [
+          {"title": "르네상스 초상 너머, 지금의 진과 구찌", "url": "https://www.vogue.co.kr/2026/08/25/%EB%A5%B4%EB%84%A4%EC%83%81%EC%8A%A4-%EC%B4%88%EC%83%81-%EB%84%88%EB%A8%B8-%EC%A7%80%EA%B8%88%EC%9D%98-%EC%A7%84%EA%B3%BC-%EA%B5%AC%EC%B0%8C/"}
+        ]
+      },
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {
+        "outlets": ["Vogue Korea", "Fashionsnap"],
+        "examples": [
+          {"title": "조나단 앤더슨, 그리고 디올의 가을", "url": "https://www.vogue.co.kr/2026/08/31/%EC%A1%B0%EB%82%98%EB%8B%A8-%EC%95%A4%EB%8D%94%EC%8A%A8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%94%94%EC%98%AC%EC%9D%98-%EA%B0%80%EC%9D%84"},
+          {"title": "ディオール「ソヴァージュ」初のウード配合エクストレが登場", "url": "https://www.fashionsnap.com/article/2026-08-26/sauvage-new-2608/"}
+        ]
+      },
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {
+        "outlets": ["W Korea"],
+        "examples": [
+          {"title": "미야오 가원의 사소한 즐거움", "url": "https://www.wkorea.com/2026/08/26/%EB%AF%B8%EC%95%BC%EC%98%A4-%EA%B0%80%EC%9B%90%EC%9D%98-%EC%82%AC%EC%86%8C%ED%95%9C-%EC%A6%90%EA%B1%B0%EC%9B%80"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["Fashionsnap"],
+        "examples": [
+          {"title": "「ボッテガ・ヴェネタ」から新フレグランス コレクション イタリアを新たな視点で表現", "url": "https://www.fashionsnap.com/article/2026-08-28/bottega-veneta-alta/"}
+        ]
+      },
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {
+        "outlets": ["Vogue Korea"],
+        "examples": [
+          {"title": "발렌시아가에서 다시 만난 꾸뛰르의 세상", "url": "https://www.vogue.co.kr/2026/08/27/%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84%EA%B0%80%EC%97%90%EC%84%9C-%EB%8B%A4%EC%8B%9C-%EB%A7%8C%EB%82%9C-%EA%BE%B8%EB%9B%B0%EB%A5%B4%EC%9D%98-%EC%84%B8%EC%83%81"}
+        ]
+      },
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "SEA": {
+      "Gucci": {"outlets": [], "examples": [], "note": "Tatler Asia + general searches run; no article with confirmed publish date in 2026-08-25~09-01 window surfaced"},
+      "Louis Vuitton": {"outlets": [], "examples": [], "note": "same as above"},
+      "Dior": {"outlets": [], "examples": [], "note": "same as above"},
+      "Chanel": {"outlets": [], "examples": [], "note": "same as above"},
+      "Prada": {"outlets": [], "examples": [], "note": "same as above"},
+      "Bottega Veneta": {"outlets": [], "examples": [], "note": "same as above"},
+      "Saint Laurent": {"outlets": [], "examples": [], "note": "same as above"},
+      "Balenciaga": {"outlets": [], "examples": [], "note": "same as above"},
+      "Burberry": {"outlets": [], "examples": [], "note": "same as above"}
+    },
+    "NA": {
+      "Gucci": {"outlets": [], "examples": [], "note": "WWD/BoF searched; latest confirmed Gucci items (Palazzo Gucci, managerial reshuffle) dated outside the 7-day window"},
+      "Louis Vuitton": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Louis Vuitton Pays Tribute to Japanese Artist Yayoi Kusama", "url": "https://wwd.com/fashion-news/designer-luxury/yayoi-kusama-dies-louis-vuitton-collab-1239165806/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Funeral Services Are Set for Dior PR Executive Mathilde Favier", "url": "https://wwd.com/fashion-news/designer-luxury/dior-pr-dies-funeral-mathilde-favier-1239173429/"}
+        ]
+      },
+      "Chanel": {"outlets": [], "examples": [], "note": "confirmed items (data breach Aug 1, CFO appointment Jul 22) fall outside window"},
+      "Prada": {"outlets": [], "examples": [], "note": "H1 2026 results article confirmed published Jul 30, outside window"},
+      "Bottega Veneta": {"outlets": [], "examples": [], "note": "Palm Beach store opening confirmed Jul 13, outside window"},
+      "Saint Laurent": {"outlets": [], "examples": [], "note": "ICP photography exhibition article confirmed Apr 27, outside window"},
+      "Balenciaga": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Balenciaga's Fall 2026 Campaign Steps Into the Light - and Dark", "url": "https://wwd.com/fashion-news/designer-luxury/balenciaga-fall-2026-campaign-anok-yai-1239165957/"}
+        ]
+      },
+      "Burberry": {"outlets": [], "examples": [], "note": "Q1 earnings (Jul 17) and fall campaign coverage (~Jul-Aug 19) fall outside window"}
+    },
+    "EU": {
+      "Gucci": {"outlets": [], "examples": [], "note": "Cultural Currency Index piece confirmed Oct 2025, outside window; no in-window EU editorial item found"},
+      "Louis Vuitton": {"outlets": [], "examples": [], "note": "fashionunited.fr roundup found was dated 2025-09-01 (wrong year); no in-window item"},
+      "Dior": {"outlets": [], "examples": [], "note": "Dior Fall 2026 couture shoes piece confirmed Jul 6, outside window"},
+      "Chanel": {"outlets": [], "examples": [], "note": "CFO appointment piece confirmed Jul 22-23, outside window"},
+      "Prada": {"outlets": [], "examples": [], "note": "no in-window EU-dateline item found"},
+      "Bottega Veneta": {"outlets": [], "examples": [], "note": "no in-window EU-dateline item found"},
+      "Saint Laurent": {"outlets": [], "examples": [], "note": "no in-window EU-dateline item found"},
+      "Balenciaga": {"outlets": [], "examples": [], "note": "no in-window EU-dateline item found"},
+      "Burberry": {"outlets": [], "examples": [], "note": "V&A exhibition announcement confirmed Jul 28; Retail Gazette/FashionUnited campaign piece confirmed Aug 19 — both outside the Aug 25-Sep 1 window"}
+    }
+  }
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NEA-2026-09-01-001",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Quantified sold-out/Google Trends demand data is independent signal, but ambassador/fandom-driven spike capped per fandom trap",
+    "signal_tags": ["ambassador", "fandom_spike", "purchase_intent", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-01-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic online backlash/mockery of ambassador styling is genuine negative opinion, mild community-level intensity",
+    "signal_tags": ["design_criticism", "ambassador", "community_backlash"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-09-01-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuinely mixed fan-community reactions (some critical, some positive) with low volume; ambiguous net polarity",
+    "signal_tags": ["fandom_spike", "mixed_reaction"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-09-01-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Fandom conflict escalated to illegal doxxing and lawsuit, a viral controversy tied to Gucci's campaign ambassador handling",
+    "signal_tags": ["controversy", "ambassador_risk", "fandom_spike", "legal_action"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-01-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing cross-fandom 'unequal treatment' dispute keeps ambassador controversy alive; repetitive fan-vote volume damped",
+    "signal_tags": ["controversy", "ambassador_risk", "fandom_spike"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-01-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Revenue still declining (-2% YoY) despite improvement from -5%; analysts frame recovery as fragile relative to peers",
+    "signal_tags": ["earnings", "momentum_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-01-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Clear negative sales momentum story: China luxury demand crackdown, Gucci named among double-digit decliners",
+    "signal_tags": ["earnings", "momentum_press", "macro_headwind"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-01-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity SNS product-adoption roundup with no outlet evaluative verdict",
+    "signal_tags": ["activation_coverage", "product_feature"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-01-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual explainer recapping the fandom controversy timeline without new evaluative judgment of the brand",
+    "signal_tags": ["factual_recap", "controversy", "ambassador_risk"],
+    "confidence": 0.55
+  }
+]

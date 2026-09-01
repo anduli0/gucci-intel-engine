@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-09-01-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign cast/theme write-up with no outlet verdict",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-01-002",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation write-up with outlet's own positive verdict on Asian-star strategy, capped per activation discount",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-01-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit ring bust trading on Gucci name is a brand-adjacent negative signal, factual/enforcement toned",
+    "signal_tags": ["counterfeit", "enforcement"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-01-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual H1 earnings disclosure: retail sales still down YoY but sequential improvement noted, mixed signal treated as neutral",
+    "signal_tags": ["earnings", "momentum", "trade_press"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-01-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Store exit from flagship KLCC mall over high rent signals retreat from marquee location, modest engagement",
+    "signal_tags": ["store_closure", "retail_footprint"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-01-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community discussion corroborating flagship store closure, sustained local negative-toned chatter",
+    "signal_tags": ["store_closure", "community"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-09-01-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral value-for-money complaint over overpriced basic item resonating widely in local comments",
+    "signal_tags": ["value_for_money", "price_backlash", "viral"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-09-01-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Brand's own campaign posts brigaded with hostile comments amid fan controversy, organic negative reaction damped as fandom spike",
+    "signal_tags": ["ambassador_risk", "fandom_spike", "comment_brigading"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-09-01-010",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive event/screening recap, no evaluative verdict, retained only as stale engagement benchmark",
+    "signal_tags": ["activation_coverage", "event"],
+    "confidence": 0.6
+  }
+]

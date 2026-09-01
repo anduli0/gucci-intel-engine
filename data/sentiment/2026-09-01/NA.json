@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NA-20260901-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador injury withdrawal reduces Gucci's marquee earned-media presence at the US Open, a negative for brand visibility momentum",
+    "signal_tags": ["ambassador_risk", "earned_media", "sports_marketing"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260901-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregated fan reaction to Sinner's withdrawal is mixed sympathy/criticism of his team, not a direct opinion on Gucci",
+    "signal_tags": ["sns_buzz", "ambassador", "indirect"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260901-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained, active US collector community thread documenting stitching, hardware and color-shift quality complaints on recent-era bags",
+    "signal_tags": ["quality_complaint", "community_signal", "craftsmanship"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260901-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer comparison trap: Gucci resale value framed as inferior to Chanel/Hermes, magnitude damped per rubric bot/repeat-poster volatility guidance",
+    "signal_tags": ["peer_comparison", "resale_value", "community_signal"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260901-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "T1 trade press frames the turnaround as fragile and unproven ahead of the September show, a moderately critical independent judgment",
+    "signal_tags": ["trade_press", "turnaround_narrative", "show_anticipation"],
+    "confidence": 0.7
+  }
+]

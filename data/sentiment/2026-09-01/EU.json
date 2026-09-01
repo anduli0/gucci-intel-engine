@@ -1,0 +1,83 @@
+[
+  {
+    "id": "EU-2026-09-01-001",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press reports Gucci's decline narrowing sharply (-8% to -2%) with CEO citing turnaround momentum.",
+    "signal_tags": ["earnings", "momentum", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-01-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares fell 3.6% on China slowdown fears with Gucci described as lagging peers.",
+    "signal_tags": ["earnings", "china_exposure", "stock_reaction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-01-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Stock stays at Hold with heavy YTD losses; market unconvinced turnaround is proven despite target raises.",
+    "signal_tags": ["earnings", "analyst_sentiment", "china_exposure"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-01-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Weekly roundup notes improving contraction but explicitly frames Gucci as still lagging best-in-class peer Hermes.",
+    "signal_tags": ["peer_comparison", "earnings", "momentum"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-01-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic Trustpilot complaints of glued belts separating and sneakers unsticking, disputing premium quality positioning.",
+    "signal_tags": ["quality_complaint", "value_for_money", "consumer_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-01-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum reaction to Flora reissue is mixed, split between appreciation and skepticism about creative renewal.",
+    "signal_tags": ["design_reaction", "community", "mixed_reception"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-01-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned TikTok promo content; comments mix genuine interest with recurring skepticism, no clear independent verdict.",
+    "signal_tags": ["activation_coverage", "sns", "mixed_reception"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-09-01-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram ambassador activation coverage; discounted per rubric, mixed fan enthusiasm and price skepticism.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom", "mixed_reception"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-09-01-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "H1 recap still shows -9% reported revenue; optimistic turnaround framing is interpretive, not a clear independent verdict.",
+    "signal_tags": ["earnings", "trade_press", "turnaround_narrative"],
+    "confidence": 0.55
+  }
+]

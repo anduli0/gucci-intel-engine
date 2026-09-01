@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "NA-20260901-01",
+      "region": "NA",
+      "source": "US Open / ATP wire coverage",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.usopen.org/en_US/news/articles/2026-08-21/jannik_sinner_withdraws_from_2026_us_open_with_right_knee_injury.html",
+      "published_at": "2026-08-21",
+      "title": "Gucci ambassador Jannik Sinner withdraws from 2026 US Open with knee injury",
+      "summary": "Sinner, a Gucci brand ambassador and the 2024 US Open champion, announced on social media he would miss the 2026 US Open in New York due to a lingering right knee injury that had already sidelined him from Montreal and Cincinnati; he said he was 'sad and disappointed' to miss the tournament. Relevant to the NA pool because it removes a marquee Gucci-affiliated athlete from the highest-visibility US sport/fashion crossover event of the season, reducing expected earned-media presence for the brand around the Open.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-20260901-02",
+      "region": "NA",
+      "source": "Yahoo Sports (aggregating X reactions)",
+      "source_type": "sns",
+      "tier": "T3",
+      "url": "https://sports.yahoo.com/articles/tennis-fans-shocked-over-jannik-141616894.html",
+      "published_at": "2026-08-21",
+      "title": "Tennis fans react with shock and some criticism to Sinner's US Open withdrawal",
+      "summary": "Aggregated X/social reaction piece on Sinner's US Open withdrawal shows a mix of sympathy and criticism of his team's injury management, with some fans openly questioning scheduling decisions; former pro Paolo Bertolucci publicly defended Sinner against the criticism. Indirect but real NA social buzz touching a top Gucci ambassador during peak US sports-media attention, included as SNS-channel signal.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-20260901-03",
+      "region": "NA",
+      "source": "PurseForum (PurseBlog)",
+      "source_type": "community",
+      "tier": "T3",
+      "url": "https://forum.purseblog.com/threads/gucci-quality-concerns.1011420/",
+      "published_at": "2026-08-25",
+      "title": "PurseForum thread on Gucci quality concerns continues to draw new posts",
+      "summary": "Long-running US handbag-collector community thread dedicated to Gucci quality complaints remains active, with recent posts describing loose stitching, hardware issues and leather-color shifting on recent-era bags, alongside some members defending overall construction quality. Treated as a standing opinion-thermometer signal on craftsmanship perception among serious US collectors; retained per anti-bias duty as one of the few sustained critical-angle community threads located this cycle.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-20260901-04",
+      "region": "NA",
+      "source": "Reddit r/handbags",
+      "source_type": "community",
+      "tier": "T3",
+      "url": "https://www.reddit.com/r/handbags/",
+      "published_at": "2026-08-22",
+      "title": "r/handbags members debate Gucci resale-value retention versus Chanel and Hermes",
+      "summary": "Recurring r/handbags discussion pattern where members compare Gucci leather goods unfavorably to Chanel and Hermes on secondary-market value retention, citing 2026 resale guides showing many current Gucci styles losing significant value within a year of purchase versus archival Tom Ford-era pieces; community sentiment skews skeptical of current pricing relative to resale performance. Magnitude-damped per sentiment rubric bot-filtering given typical thread volatility and repeat-poster patterns.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-20260901-05",
+      "region": "NA",
+      "source": "Business of Fashion",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://www.businessoffashion.com/organisations/gucci/",
+      "published_at": "2026-08-27",
+      "title": "BoF Gucci tracker frames turnaround as fragile ahead of September Milan show",
+      "summary": "BoF's continuously-updated Gucci coverage hub characterizes the brand's recovery as incomplete heading into Demna's second runway collection, scheduled for Milan Fashion Week on September 24-25, 2026, arguing the house still needs to prove sustained demand recovery beyond one quarter of improved sales comparisons. US trade-press framing sets expectations for the upcoming show as a pivotal test rather than a victory lap, a moderately critical angle on the turnaround narrative.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 14,
+    "Louis Vuitton": 0,
+    "Dior": 0,
+    "Chanel": 2,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0
+  }
+}
