@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-09-02-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive campaign unveiling write-up with no independent evaluative verdict, amplifying global marketing wave.",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-02-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive store/collection launch announcement (dates, venue, ambassador) with no outlet verdict.",
+    "signal_tags": ["activation_coverage", "store_opening", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-02-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press confirms Asia-Pacific revenue fell ~22% YoY, steepest decline group-wide, per Kering's own disclosure.",
+    "signal_tags": ["earnings", "momentum_press", "apac_decline"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-09-02-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring factory-exposé/counterfeit-adjacent TikTok trend eroding trust in Gucci's pricing premium, no engagement metrics to size the spike.",
+    "signal_tags": ["counterfeit", "trust_erosion", "sns_trend"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-02-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing forum thread logging QC complaints (hardware wear, stitching, canvas holes) referenced by SEA buyers pre-purchase.",
+    "signal_tags": ["quality_complaint", "community", "pre_purchase_reference"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-02-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Viral Indonesian anecdote reflecting value-for-money disconnect between price and perceived material quality, carried over item without fresh spike.",
+    "signal_tags": ["value_for_money", "price_perception", "viral_anecdote"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-09-02-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive recap of a year-old VIP preview event used only as background context, no fresh evaluative content.",
+    "signal_tags": ["activation_coverage", "stale_context", "ambassador"],
+    "confidence": 0.8
+  }
+]

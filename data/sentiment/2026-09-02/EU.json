@@ -1,0 +1,56 @@
+[
+  {
+    "id": "EU-2026-09-02-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade analysis frames Kering crisis as eroded Gucci brand desirability with sharp sales/margin decline despite partial H1 improvement",
+    "signal_tags": ["negative_earnings", "momentum_press", "brand_relevance"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-02-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Kering official account promoting its own turnaround narrative, not independent public opinion",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-09-02-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Gucci official Instagram brand-controlled campaign content, explicitly noted as activation not independent opinion",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-09-02-004",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade report cites Gucci beating revenue consensus and quantified 530 percent resale price surge signaling strong demand",
+    "signal_tags": ["earnings_beat", "resale_value", "quantified_demand"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-02-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade outlet frames Kering's secondhand pivot as implicit admission that price hikes drove customers away from retail",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "critical_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-09-02-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring one-star reviews cite unresolved warranty repairs and lost parcels; aggregate France rating of 1.9/5 reflects sustained QC/service failures",
+    "signal_tags": ["quality_complaint", "service_failure", "aggregate_rating"],
+    "confidence": 0.85
+  }
+]

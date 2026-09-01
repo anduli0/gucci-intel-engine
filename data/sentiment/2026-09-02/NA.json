@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-20260902-01",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press judgment tying Q2 sales beat to quantified US handbag demand, framed as turnaround evidence.",
+    "signal_tags": ["earnings", "demand_data", "turnaround"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260902-02",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Stock wire reports share weakness and resurfacing doubts about turnaround durability, undercutting prior optimism.",
+    "signal_tags": ["stock_reaction", "negative_momentum"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260902-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual reporting of managerial restructuring with no evaluative verdict.",
+    "signal_tags": ["governance", "factual"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260902-04",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Designer-friendly preview framing of Demna's approach ahead of show; positive verdict but activation-adjacent, capped per discount.",
+    "signal_tags": ["activation_coverage", "designer_framing", "show_preview"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260902-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer-comparison trap: community cites Gucci resale retention as weaker than Chanel/Hermes, magnitude damped per thread-volatility note.",
+    "signal_tags": ["resale_value", "peer_comparison", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260902-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sustained collector-community criticism of price hikes outpacing design innovation and 'rebadged' SKU complaints.",
+    "signal_tags": ["price_backlash", "design_criticism", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260902-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Dupe/counterfeit-adjacent TikTok content implying Gucci pricing is out of reach; counterfeit trap treated as mild negative.",
+    "signal_tags": ["counterfeit_adjacent", "price_value", "sns"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-20260902-08",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation/retail rollout write-up with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "retail_rollout"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260902-09",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo activity; self-posted marketing is not public opinion per rubric.",
+    "signal_tags": ["activation_coverage", "brand_owned", "sns"],
+    "confidence": 0.8
+  }
+]

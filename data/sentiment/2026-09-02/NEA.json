@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NEA-2026-09-02-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "China's top 25 labels including Gucci posted double-digit July sales declines amid capital controls and cautious VIP spending.",
+    "signal_tags": ["negative_earnings", "china_macro", "momentum_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-02-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering shares fell on China luxury slowdown with Gucci still exposed, despite a noted 'improving trends' caveat.",
+    "signal_tags": ["negative_earnings", "stock_reaction", "china_macro"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-09-02-003",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent research shows Gucci's H1 organic sales contraction narrowing from -8% to -2%, framed as turning the corner.",
+    "signal_tags": ["independent_research", "momentum_improving", "quantified_data"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-02-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Korean secondhand-luxury resale platforms collapsing on trust erosion and counterfeit concerns, implicitly covering Gucci as a heavily-resold brand.",
+    "signal_tags": ["resale_value", "trust_erosion", "counterfeit"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-02-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Dated background reference to Gucci-Alpine F1 title partnership with no fresh NEA reaction or evaluative coverage found.",
+    "signal_tags": ["background_context", "no_reaction_data"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-02-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Kering Japan press release announcing Tokyo premiere of 'The Tiger' short film is brand-owned promo copy, not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_promo", "demna_la_famiglia"],
+    "confidence": 0.95
+  },
+  {
+    "id": "NEA-2026-09-02-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community tips thread on secondhand luxury price variance by condition; informational, not brand-specific sentiment.",
+    "signal_tags": ["resale_community", "informational"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-02-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade practitioner attributes resale margin pressure to wholesale pricing issues, pushing back on decline narrative without clear brand praise.",
+    "signal_tags": ["resale_community", "counter_narrative"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-09-02-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring DCInside forum threads dispute Gucci authentication, hardware/leather quality, and counterfeit comparisons.",
+    "signal_tags": ["quality_complaint", "counterfeit", "community_baseline"],
+    "confidence": 0.65
+  }
+]
