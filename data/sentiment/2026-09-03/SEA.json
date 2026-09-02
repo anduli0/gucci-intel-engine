@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SEA-2026-09-03-001",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "MEGA adds its own evaluative verdict framing Asian ambassador casting as genuine cultural significance, not just descriptive campaign copy, but remains activation-derived coverage.",
+    "signal_tags": ["activation_coverage", "ambassador", "campaign", "fandom"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-09-03-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Largely descriptive write-up of the same Primavera campaign (who stars, theme, regional strategy) without an independent evaluative verdict; press-kit derived.",
+    "signal_tags": ["activation_coverage", "ambassador", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-03-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual markets wire on Kering stock holding steady amid turnaround debate versus peers; no clear positive or negative brand-sentiment verdict.",
+    "signal_tags": ["earnings", "financial_backdrop", "peer_comparison"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-03-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador/fandom profile of Gulf Kanawut's brand ties; explicitly flagged stale context, no independent critical verdict beyond descriptive framing of fan amplification.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom", "stale_context"],
+    "confidence": 0.55
+  }
+]

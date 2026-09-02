@@ -1,0 +1,29 @@
+[
+  {
+    "id": "NEA-20260903-01",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified data: Q2 revenue beat consensus and Padlock bag resale price surged 530%, both third-party demand signals, not brand-owned promo.",
+    "signal_tags": ["earnings", "resale_value", "leather_goods", "independent_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20260903-02",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade recap framing sentiment as contingent on future comparable-sales growth; no clear evaluative verdict, plain factual/analytical positioning.",
+    "signal_tags": ["earnings", "trade_press", "wait_and_see"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20260903-03",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador campaign write-up (what it is, who stars) via fan-syndication account; activation coverage discount applies, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom_spike", "campaign"],
+    "confidence": 0.55
+  }
+]

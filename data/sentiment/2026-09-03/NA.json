@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-20260903-01",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified third-party demand data (Q2 NA handbag comps +9%) from earnings transcript coverage, the clearest regional bright spot.",
+    "signal_tags": ["earnings", "demand_data", "handbags"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260903-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade coverage of management reorganization with no evaluative verdict on outcome.",
+    "signal_tags": ["governance", "management_change"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260903-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity-styling activation write-up with no outlet evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "celebrity_styling"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260903-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral, quoted public backlash against AI-generated campaign imagery replacing real models/craftsmanship.",
+    "signal_tags": ["controversy", "ai_backlash", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260903-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Genuine consumer-community QC complaints (stitching, cracking leather, repair disputes); magnitude damped as rolling review aggregator, not single fresh event.",
+    "signal_tags": ["quality_complaint", "consumer_community"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260903-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector-forum skepticism over 'Made in Italy' sourcing claims and perceived material quality decline.",
+    "signal_tags": ["quality_complaint", "sourcing_skepticism", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260903-07",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic meme virality is cultural-relevance buzz, not a clear evaluative judgment of the brand; kept neutral per fandom/SNS-spike trap.",
+    "signal_tags": ["meme", "sns_buzz", "organic"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260903-08",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Recurring hashtag/styling platform activity, channel-mix indicator only, no discrete evaluative story.",
+    "signal_tags": ["sns_buzz", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20260903-09",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Stock-wire coverage of Kering shares softening on renewed China demand concerns tempering the NA-driven rally; negative momentum press.",
+    "signal_tags": ["stock", "earnings_momentum", "investor_sentiment"],
+    "confidence": 0.65
+  }
+]

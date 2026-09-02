@@ -1,0 +1,83 @@
+[
+  {
+    "id": "EU-2026-09-03-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual framing of Q3 turnaround outlook, no evaluative verdict",
+    "signal_tags": ["earnings", "turnaround_watch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-03-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive analysis of executive reshuffle/power dynamics, no brand attitude expressed",
+    "signal_tags": ["leadership", "trade_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-09-03-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci-staged Palazzo Gucci cultural activation, no independent verdict",
+    "signal_tags": ["activation_coverage", "heritage_marketing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-03-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual runway calendar confirmation framed as future test, no verdict yet",
+    "signal_tags": ["runway_calendar", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-03-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Persistent quality-control and warranty/customer-service complaints, quantified low TrustScore across ~1,729 reviews",
+    "signal_tags": ["quality_complaint", "customer_service", "trustpilot"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-03-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer-comparison trap: Gucci resale value seen as lagging LV/Chanel due to logo saturation and quality-consistency concerns",
+    "signal_tags": ["resale_value", "peer_comparison", "community_forum"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-09-03-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo carousel, self-praise is not public opinion",
+    "signal_tags": ["activation_coverage", "owned_channel"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-09-03-008",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent investor analysis citing quantified FCF/debt improvement as earnings recovery, but caveated by unresolved China/comp-sales risk",
+    "signal_tags": ["earnings", "investor_sentiment", "quantified_data"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-03-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Financial wire highlights double-digit China sales declines for Gucci as counterbalancing risk despite stock stability",
+    "signal_tags": ["earnings", "china_risk", "momentum_press"],
+    "confidence": 0.7
+  }
+]

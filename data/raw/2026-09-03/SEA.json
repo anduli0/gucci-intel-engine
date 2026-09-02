@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "id": "SEA-2026-09-03-001",
+      "region": "SEA",
+      "source": "MEGA (mega-asia.com)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://mega-asia.com/fashion/gucci-primavera-campaign-asian-stars/",
+      "published_at": "2026-08-26",
+      "title": "Gucci's New Campaign Gets It: Asian Stars Rule Fashion Now",
+      "summary": "Manila-based lifestyle outlet MEGA covers Gucci's Primavera campaign, which casts five Asian personalities (BTS's Jin, aespa's NINGNING, Chinese actor Xiao Zhan, Lee Young Ae, and Tarzzan of ALLDAY PROJECT) among its ten global faces, shot by Michal Chelbin and tied to Demna's debut collection. The piece frames the casting as recognition that Asian stars now function as cultural amplifiers for luxury brands rather than token diversity picks.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-09-03-002",
+      "region": "SEA",
+      "source": "L'Officiel Singapore",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.lofficielsingapore.com/fashion/gucci-primavera-fashion-campaign-bts-jin-aespa-ningning-xiao-xhan",
+      "published_at": "2026-08-27",
+      "title": "BTS' Jin, Aespa's Ningning and Xiao Zhan Lead Gucci's Primavera Campaign",
+      "summary": "Singapore edition of L'Officiel reports on the same Primavera campaign, emphasizing themes of \"love, connection and reinvention\" and positioning it within Gucci's broader strategy of leaning on Asian entertainment figures with large, highly engaged regional fan bases to drive campaign visibility across Southeast Asian markets.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-09-03-003",
+      "region": "SEA",
+      "source": "ad-hoc-news.de (corporate/markets wire)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-holds-steady-as-luxury-group-valuation-stays-in-focus/70009562",
+      "published_at": "2026-08-27",
+      "title": "Kering stock holds steady as luxury group valuation stays in focus",
+      "summary": "Markets wire piece on Kering's ~$30.9bn market cap as of late August 2026, noting investors are weighing whether Gucci's turnaround (helped by the Jackie and Dionysus handbag lines) can sustain group-level growth versus peers like Moncler and Brunello Cucinelli. Relevant to SEA as a barometer of the financial backdrop against which regional retail/wholesale decisions (store counts, pricing) are being made.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-09-03-004",
+      "region": "SEA",
+      "source": "Tatler Asia",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.tatlerasia.com/style/fashion/gulf-kanawut-brand-collaborations",
+      "published_at": "2026-03-06",
+      "title": "Gulf Kanawut's brand collaborations in 2026: Gucci, Onitsuka Tiger, Sulwhasoo and more",
+      "summary": "Profile of Thai actor Gulf Kanawut, Gucci's first Thai male brand ambassador (since 2024), noting his continued role under Demna and his styling at the Gucci FW26 Milan show, with the piece explicitly framing his fandom-driven social amplification as evidence of Southeast Asia's growing weight in Gucci's global ambassador strategy. Included despite being older than the ideal window because it is the most substantive available SEA-specific ambassador analysis and no fresher equivalent surfaced; flagged as stale context rather than a daily signal.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 14,
+    "Louis Vuitton": 3,
+    "Dior": 3,
+    "Chanel": 3,
+    "Prada": 1,
+    "Bottega Veneta": 2,
+    "Saint Laurent": 0,
+    "Balenciaga": 2,
+    "Burberry": 2
+  },
+  "collection_notes": {
+    "date": "2026-09-03",
+    "region": "SEA",
+    "freshness_status": "THIN — extensive search across news, SNS, and community channels in en/th/id/vi/ko/zh found very limited genuinely fresh (within 7 days) SEA-specific Gucci coverage. Most SEA-tagged hits were stale reposts of the Sept 2025 La Famiglia launch, the Jan 2025 Central Phuket expansion, the 2024 Gucci Visions Bangkok exhibition (paywalled/undated republish), or global stories (Kering earnings, Demna AI-ad backlash, store-closure plans) with only tangential regional framing.",
+    "sns_community_status": "NO qualifying SEA-specific SNS or community items were admitted. TikTok discover pages (#Gucci Plaza Indonesia, #Gucci Store Philippines) and Instagram searches surfaced only login-walled or non-substantive results with no visible engagement metrics or verifiable recent posting dates; PurseForum threads on new Gucci bags (Suede Guccis, 2026 Gucci Flora) are global/US-centric with no confirmed SEA poster origin, so were excluded per cross-region dedup policy rather than mis-assigned. This is a genuine gap, not a result of under-searching — reported honestly rather than padded.",
+    "critical_angle_status": "Critical-angle searches (price hikes, resale drop, boycott, quality complaints, overrated/lost its way, store closures, earnings miss) ran across en/th/ko and surfaced substantive results, but almost none were SEA-market-specific and fresh — they were global/China-focused (Kering Q1/Q2 2025-2026 sales declines, 40% of 2026 Asia store closures concentrated in Korea/Japan/China, Demna AI-generated-ad backlash from Feb 2026, generic PurseForum stitching-quality threads). None were admitted for staleness or lack of regional specificity; noted here so the pool's positive tilt (ambassador/campaign coverage) is understood as a function of what the region actually publishes right now, not selective inclusion."
+  }
+}
