@@ -1,0 +1,139 @@
+{
+  "brand_group": "Kering",
+  "date": "2026-09-04",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Alexander McQueen",
+      "event_type": "show",
+      "headline": "McQueen, 파리 이탈 확정 — SS27 런던 패션위크 9월 20일 복귀쇼 공식화",
+      "summary": "Alexander McQueen이 파리를 떠나 SS27 시즌 런던 패션위크 공식 캘린더에 복귀하며 9월 20일 쇼 개최를 확정했다. Sarah Burton의 2022년 그리니치 쇼 이후 처음이며, 크리에이티브 디렉터 Seán McGirr의 첫 런던 쇼가 된다.",
+      "url": "https://us.fashionnetwork.com/news/Mcgirr-waves-goodbye-to-paris-for-now-mcqueen-to-show-at-london-fashion-week-for-ss27,1841989.html",
+      "source": "FashionNetwork",
+      "tier": "T1",
+      "published_at": "2026-09-04",
+      "why_it_matters": "McQueen이 파리 캘린더를 이탈해 브랜드 발상지 런던으로 복귀하는 것은 헤리티지·지리적 정체성을 마케팅 자산으로 전면에 내세우는 시도로, 밀라노·피렌체 뿌리를 가진 구찌의 헤리티지 서사 전략과 비교할 벤치마크다.",
+      "why_it_matters_en": "McQueen's exit from the Paris calendar to return to its London birthplace foregrounds heritage and geographic identity as a marketing asset — a useful benchmark for how Gucci activates its own Florence/Milan roots.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "executive",
+      "headline": "Bottega Veneta 신임 CEO Romain Spitzer, 9월 1일부로 공식 취임 — LVMH 출신 영입",
+      "summary": "LVMH 프래그런스 부문 CEO 출신 Romain Spitzer가 9월 1일부로 Bottega Veneta CEO로 취임해 Kering 경영위원회에 합류했다. 밀라노 기반으로 Luca de Meo에게 직접 보고하며, 전임 CEO Bartolomeo Rongone은 3월 퇴사했다.",
+      "url": "https://wwd.com/business-news/human-resources/kering-names-romain-spitzer-ceo-bottega-veneta-1239066831/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-01",
+      "why_it_matters": "그룹 내 최고 실적 하우스에 LVMH 출신 고위 임원을 영입한 것은 Kering이 Bottega Veneta에 대한 투자를 가속화하고 있다는 신호로, 구찌와의 그룹 내 자원 배분 경쟁에서 구찌의 상대적 우선순위를 주시할 필요가 있다.",
+      "why_it_matters_en": "Recruiting an LVMH veteran to run Kering's best-performing house signals accelerating investment there — worth watching for how it affects Gucci's relative claim on group resources.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "earnings",
+      "headline": "Kering 주가, H1 실적 후 조정 국면 지속 — 8월 말~9월 초 약세",
+      "summary": "Kering 주가는 8월 31일 254.05유로에서 9월 1일 248.20유로로 2.3% 하락하는 등 H1 2026 실적 발표(순이익 60% 감소) 이후 조정 흐름을 이어가고 있다. 차기 실적 발표는 10월 29일로 예정.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-dips-as-h1-2026-profit-falls-while-jewelry-segment-accelerates/70041625",
+      "source": "ad-hoc-news / Reuters wire",
+      "tier": "T2",
+      "published_at": "2026-09-01",
+      "why_it_matters": "그룹 전체 주가 약세는 구찌를 포함한 전 브랜드에 대한 투자자 신뢰 회복이 아직 요원함을 보여주며, 구찌 단독의 턴어라운드 서사만으로는 그룹 밸류에이션을 방어하기 어려운 상황이다.",
+      "why_it_matters_en": "Continued share-price weakness after H1 results shows investor confidence has not yet returned group-wide, meaning a Gucci-only turnaround narrative is unlikely by itself to support Kering's valuation.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "retail",
+      "headline": "Kering, 2026년 매장 100개 추가 폐점 계획 — 아시아 비중 40%",
+      "summary": "Kering은 2026년 상반기에만 84개 순 매장을 폐점했으며 연간 목표 100개 폐점을 향해 가고 있다. 구찌·맥퀸을 포함한 브랜드 전반의 매장망 축소이며, 폐점의 약 40%가 아시아 시장에 집중된다. 상반기 말 기준 총 매장 수는 1,635개로 2025년 말 1,719개에서 감소했다.",
+      "url": "https://www.thestreet.com/retail/gucci-parent-kering-closes-at-least-217-stores-plans-more",
+      "source": "TheStreet",
+      "tier": "T2",
+      "published_at": "2026-08-28",
+      "why_it_matters": "매장 축소가 아시아에 집중된 것은 구찌를 포함한 그룹 전체가 중국 중심 수요 둔화에 대응해 오프라인 발자국을 구조적으로 줄이고 있다는 뜻으로, 구찌 단독의 매장 전략 조정만으로는 그룹 차원 축소 흐름을 거스르기 어렵다.",
+      "why_it_matters_en": "Store closures concentrated in Asia show a group-wide structural retreat from offline footprint amid China-led demand softness — a headwind Gucci's own store strategy cannot easily counter alone.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "trend",
+      "headline": "Kering 보석 부문, 2분기 매출 +18% — 그룹 내 유일한 두 자릿수 성장 엔진",
+      "summary": "Boucheron·Pomellato·Qeelin을 포함한 Kering Jewelry 부문이 2026년 2분기 매출 2억 5,200만 유로(리포티드 +15%, 비교 가능 기준 +18%)를 기록하며 그룹 내 최고 성장률을 이어갔다. 상반기 누계로는 5억 2,100만 유로(비교 가능 기준 +20%)를 기록했다.",
+      "url": "https://gjepc.org/solitaire/jewellery-drives-kerings-q1-recovery-posts-record-growth/",
+      "source": "Solitaire / GJEPC",
+      "tier": "T2",
+      "published_at": "2026-08",
+      "why_it_matters": "보석 부문이 그룹 내 유일하게 두 자릿수 성장을 지속하는 반면 구찌 가죽제품은 매출 감소가 이어지고 있어, 그룹 내 투자 우선순위와 경영진의 관심이 구찌에서 멀어질 위험이 있다.",
+      "why_it_matters_en": "Jewelry remains the group's only double-digit growth engine while Gucci leather goods keep declining, raising the risk that group investment focus and executive attention drift away from Gucci.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Saint Laurent",
+      "event_type": "controversy",
+      "headline": "Anthony Vaccarello 퇴진설 확산 — 10년 재임 후 '창의적 반복' 비판 제기",
+      "summary": "Saint Laurent 크리에이티브 디렉터 Anthony Vaccarello(2016년 취임)를 둘러싼 퇴진 루머가 업계에 확산되고 있다. 브랜드나 본인 모두 공식 확인은 하지 않았으나, 10년 재임에 따른 '창의적 반복'과 후임자 하마평이 온라인 포럼에서 활발히 오가는 중이다.",
+      "url": "https://www.thefashionspot.com/runway-news/968346-forum-members-react-to-the-rumors-of-anthony-vaccarello-exiting-saint-laurent-as-creative-director/",
+      "source": "TheFashionSpot",
+      "tier": "T2",
+      "published_at": "2026-09-02",
+      "why_it_matters": "미확인 루머이지만, 확인될 경우 그룹 내 크리에이티브 디렉터 교체 랠리(Balenciaga·McQueen·Bottega에 이어)가 이어지는 셈이며 구찌 역시 크리에이티브 리더십 안정성에 대한 시장 기대치가 계속 시험대에 오를 것이다.",
+      "why_it_matters_en": "Unconfirmed, but if it materializes it would extend the group's creative-director turnover wave (after Balenciaga, McQueen, Bottega) — a pattern that keeps market expectations around creative-leadership stability, including Gucci's own, under scrutiny.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Balenciaga",
+      "event_type": "trend",
+      "headline": "Balenciaga 리세일 시장, 지역별 극명한 양극화 — 아시아·중동 회복 vs 북미·유럽 부진",
+      "summary": "리세일 분석에 따르면 Triple S·City백 등 일부 시그니처 제품은 30일 내 65~80% 판매율을 기록하는 반면, 2022년 광고 논란 이후 북미·유럽·Z세대 스트리트웨어 소비자층에서는 브랜드 문화적 위상이 완전히 회복되지 못했다. 성장은 주로 아시아·중동 시장이 견인 중이다.",
+      "url": "https://www.wear2am.com/blog/balenciaga-controversy-brand-status",
+      "source": "WEAR2AM (리세일 분석)",
+      "tier": "T2",
+      "published_at": "2026-08",
+      "why_it_matters": "같은 그룹 내 브랜드가 논란 이후에도 지역별로 상이한 회복 속도를 보이는 사례로, 구찌가 특정 시장(중국 등)에서 겪는 수요 회복 지연 문제에 지역 맞춤 전략의 필요성을 시사한다.",
+      "why_it_matters_en": "A sister brand's uneven, region-specific recovery after controversy underscores the case for region-specific playbooks — relevant as Gucci works through its own slower demand recovery in certain markets like China.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "M&A",
+      "headline": "Kering-Mayhoola, Valentino 완전인수 시점 2028~2029년으로 연기 유지 — de Meo 부채 축소 우선",
+      "summary": "Kering과 Mayhoola는 Valentino 잔여 지분 70%에 대한 풋/콜옵션 행사 시점을 각각 2028년·2029년으로 재조정한 합의를 유지 중이며, 2025년 11월에는 Valentino의 대출 약정 위반을 막기 위해 양측이 1억 유로를 추가 출자한 바 있다.",
+      "url": "https://wwd.com/business-news/mergers-acquisitions/valentino-kering-mayhoola-postpone-put-options-1238132686/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08",
+      "why_it_matters": "Valentino 인수를 늦추고 부채 축소·기존 브랜드 회생에 자본을 집중하는 기조가 이어지고 있어, 구찌 턴어라운드에 대한 그룹 차원 자본 배분이 상대적으로 유지되거나 확대될 여지가 있다.",
+      "why_it_matters_en": "The continued deferral of full Valentino ownership in favor of debt reduction and fixing existing houses suggests group capital allocation toward Gucci's turnaround may hold steady or expand, a mild positive for Gucci's resourcing.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Kering",
+      "event_type": "executive",
+      "headline": "Kering, 'ReconKering' 전략 3단계 로드맵 공개 — 2030년까지 '넥스트 럭셔리' 리더십 회복 목표",
+      "summary": "Luca de Meo CEO가 피렌체 Capital Markets Day에서 구조 개혁(2026년 말까지)→성장 재건(2028년까지)→리더십 회복(2030년까지) 3단계 'ReconKering' 로드맵을 발표했다. 취임 이후 Kering 주가는 52.9% 상승했다.",
+      "url": "https://wwd.com/business-news/financial/kering-capital-markets-day-2026-1238917775/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08",
+      "why_it_matters": "de Meo의 그룹 전략은 구찌 회생을 최우선 과제로 명시하고 있어, 그룹 차원의 투자·인력·의사결정 속도가 구찌 회생 성패에 직결된다.",
+      "why_it_matters_en": "De Meo's group strategy explicitly frames Gucci's turnaround as the top priority, meaning group-level investment and decision speed are directly tied to Gucci's recovery outcome.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "regulatory",
+      "headline": "Kering, 아이웨어 '메이드 인 이탈리아' 허위 표시 소송 직면",
+      "summary": "Kering이 중국에서 생산된 아이웨어 제품을 '메이드 인 이탈리아'로 허위 표기했다는 연방 소송에 직면했다는 보도가 나왔다. Kering Eyewear는 Maui Jim 인수를 포함해 사업 확장을 지속 중이다.",
+      "url": "https://www.businessoffashion.com/articles/news-analysis/kering-sued-over-made-in-italy-eyewear-claims/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-08",
+      "why_it_matters": "원산지 표시 소송은 그룹 전체의 '메이드 인 이탈리아' 헤리티지 마케팅 신뢰도에 타격을 줄 수 있어, 구찌의 이탈리아 장인정신 서사에도 간접적 리스크가 된다.",
+      "why_it_matters_en": "A made-in-Italy mislabeling suit risks undercutting group-wide heritage-craftsmanship marketing credibility, an indirect reputational risk for Gucci's own Italian-artisanship narrative.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

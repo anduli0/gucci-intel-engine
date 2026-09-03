@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NA-20260904-01",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador in-store activation write-up, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom_trap"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20260904-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual legal-trade reporting of a settlement/injunction outcome, not public opinion about the brand.",
+    "signal_tags": ["counterfeit", "legal", "brand_protection"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260904-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering CEO admits Gucci 'went too far' on price hikes with significant volume damage, independent leadership admission.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "leadership_admission"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20260904-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade-press briefing questioning depth and floor of Gucci's ongoing sales decline.",
+    "signal_tags": ["negative_momentum", "trade_press", "sales_decline"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20260904-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Individual consumer describes unresolved, slow corporate response to an outlet complaint.",
+    "signal_tags": ["customer_service", "quality_complaint"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260904-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fashion forum split but net critical on Cruise 2027 Times Square show, calling it wasted budget/non-event.",
+    "signal_tags": ["design_criticism", "community_sentiment", "mixed_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20260904-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Standing low aggregate rating (1.9/5) citing lost repairs and long turnaround; magnitude damped as rolling aggregator not fresh event.",
+    "signal_tags": ["quality_complaint", "customer_service", "aggregator"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20260904-08",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent creator critic content branding Fall 2026 collection a 'flop' under Demna.",
+    "signal_tags": ["design_criticism", "creator_content", "independent_judgment"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20260904-09",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale demand data (eBay) ranks Gucci among most-purchased luxury resale brands.",
+    "signal_tags": ["resale_value", "quantified_demand", "desirability"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20260904-10",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic meme buzz is brand-adjacent parody volume, not a clear evaluative opinion of the brand; fan/meme spike damped.",
+    "signal_tags": ["meme", "organic_buzz", "fandom_trap"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-20260904-11",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer alleges bait-and-switch pricing and negligence at boutique, part of pattern of service complaints.",
+    "signal_tags": ["retail_experience", "value_for_money", "quality_complaint"],
+    "confidence": 0.65
+  }
+]

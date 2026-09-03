@@ -1,0 +1,83 @@
+[
+  {
+    "id": "EU-2026-09-04-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Financial wire frames Kering/Gucci as unproven turnaround story with investors withholding conviction amid profit pressure",
+    "signal_tags": ["earnings", "stock", "momentum_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-09-04-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified headline-level negative: H1 net income down 60%, stock underperforms index, Gucci weakness explicitly cited as drag",
+    "signal_tags": ["earnings", "stock", "momentum_press", "quantified"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-09-04-003",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD independent trade-press review praises Demna's Cruise 2027 show as his most commercial, sellable outing yet",
+    "signal_tags": ["trade_press", "runway_review", "creative_direction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-04-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual show-calendar scheduling announcement, no evaluative content",
+    "signal_tags": ["schedule", "factual"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-09-04-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic meme spike is cultural visibility, not brand opinion or purchase intent; damped per fandom/meme trap",
+    "signal_tags": ["meme", "organic", "sns", "fandom_trap"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-04-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing community thread on stitching/hardware/canvas QC complaints, though underlying thread text inaccessible so treated as mild/sustained rather than acute",
+    "signal_tags": ["quality_complaint", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-04-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale guide ranks Gucci 4th behind Chanel, LV and Hermes — peer comparison framing as relative weakness for Gucci",
+    "signal_tags": ["resale_value", "peer_comparison", "quantified"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-09-04-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained low Trustpilot score (1.8-1.9/5 across 1,700+ reviews) with warranty and delivery complaints, not a one-off spike",
+    "signal_tags": ["customer_service", "quality_complaint", "quantified"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-04-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram teaser is purely descriptive activation coverage with no independent evaluative verdict; discounted to neutral per activation-coverage policy",
+    "signal_tags": ["activation_coverage", "brand_owned", "sns"],
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-09-04-001",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party (WWD) analyst read of Q2 results as early stabilization evidence, though comparable sales still declining -- mild independent positive.",
+    "signal_tags": ["earnings", "analyst_view", "turnaround"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-04-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive executive appointment announcement (Gucci Racing VP), no evaluative verdict.",
+    "signal_tags": ["corporate_news", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-04-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent trade analysis but mixed/cautious verdict (revenue still down 9%/5% LFL, 'fragile' inflection) -- not a clean positive or negative call.",
+    "signal_tags": ["earnings", "analyst_view", "turnaround"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-04-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-account repost of Gucci Beauty's own IG store-opening announcement; descriptive activation coverage plus fandom volume, no independent judgment.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-04-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned official post celebrating ambassador awards; press-kit/self-promo, not public opinion.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-04-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Compilation of sponsored influencer content; descriptive activation-marketing volume, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "influencer"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-09-04-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Critical coverage of sales slump plus AI-design backlash eroding craftsmanship perception; genuine organic criticism but item is stale (~11 weeks old).",
+    "signal_tags": ["ai_backlash", "quality_perception", "sales_slump", "stale_context"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-09-04-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified wire report of 200+ Kering store closures, ~40% Asia-weighted and roughly half from Gucci -- clear negative momentum signal for SEA retail footprint.",
+    "signal_tags": ["store_closures", "negative_momentum", "retail_footprint"],
+    "confidence": 0.8
+  }
+]

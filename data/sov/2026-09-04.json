@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-04",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "구찌 및 data/sources/pool.json의 competitor_set 전 브랜드(루이비통, 디올, 샤넬, 프라다, 보테가베네타, 생로랑, 발렌시아가, 버버리)에 대해 동일한 중립 검색 템플릿(\"<브랜드> 뉴스\"/\"<브랜드> news\" 등, 지역별 현지어 포함)을 지역당 1회씩 동일한 횟수로 실행함",
+    "각 지역은 NEA(한국어/일본어), SEA(영어+동남아 앵글), NA(영어), EU(영어/프랑스어/이탈리아어)로 구분",
+    "검색 결과에서 최근 7일 이내로 명확히 확인 가능한 날짜가 달린 패션·비즈니스 편집 기사만 집계 대상으로 삼고자 하였음",
+    "이번 실행에서는 웹 검색 도구가 각 브랜드별로 요약된 결과만 반환하고, 개별 기사의 발행일을 신뢰성 있게 확인할 수 없는 경우가 대다수였음 (다수 결과가 브랜드 허브/태그 페이지, 리테일/매장 안내, 위키, 주가 정보, 또는 명확히 7일 이전으로 판단되는 구작 기사)",
+    "지역 간 동일한 탐색 노력(브랜드당 검색 1회, 동일 스캔 깊이)을 유지하였으나, 결과의 신뢰도 있는 날짜 검증이 불가능하여 임의로 수치를 추정하거나 정상화하지 않기로 함",
+    "따라서 이번 사이클에서는 4개 지역 블록 모두 공정하고 검증 가능한 카운트를 산출할 수 없다고 판단하여 regions/evidence 블록을 비움 — 수치를 조작하거나 추측하는 대신 정직하게 미측정으로 기록함",
+    "compute_gmai.py는 이 파일에 유효한 지역 카운트가 없을 경우 명세대로 중립 SOV(1/(1+competitor_set 크기))로 폴백해야 함"
+  ],
+  "criteria_en": [
+    "Ran the identical neutral query template (\"<brand> news\"/local-language equivalents) once per region for Gucci plus every brand in data/sources/pool.json competitor_set (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry)",
+    "Regions covered: NEA (Korean/Japanese queries), SEA (English + Southeast Asia angle), NA (English), EU (English/French/Italian)",
+    "Intended to count only distinct, dated, relevant editorial fashion/business articles published within roughly the last 7 days",
+    "In this run, the search tool returned brand-summarized results rather than a verifiable list of individually dated articles; the large majority of surfaced links were brand hub/tag pages, retail/store-locator pages, Wikipedia, stock-quote pages, or items clearly older than 7 days",
+    "Identical search effort (one query per brand, same scan depth) was applied across all brands and regions, but reliable date verification needed to build an honest, apples-to-apples 7-day count was not achievable from the returned data",
+    "Per the bias-control protocol's honesty rule, no counts were fabricated or smoothed; because none of the four region blocks could be measured to the required standard this cycle, all region/evidence keys are omitted rather than populated with invented numbers",
+    "compute_gmai.py should fall back to the neutral SOV default (1/(1+size of competitor_set)) for this date per the formula contract"
+  ],
+  "regions": {},
+  "evidence": {},
+  "measurement_note": "All four region blocks (NEA/SEA/NA/EU) omitted this cycle: symmetric per-brand web searches were run identically for Gucci + 8 competitors in each region, but the search tool's summarized output did not allow reliable verification of distinct, dated (last-7-day), editorial-article counts per brand. Rather than estimate or fabricate counts, this file intentionally records no per-region SOV data for 2026-09-04."
+}

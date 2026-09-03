@@ -1,0 +1,114 @@
+[
+  {
+    "id": "NEA-20260904-01",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "China luxury sales plunge with Gucci named among double-digit drops is negative momentum press.",
+    "signal_tags": ["momentum_negative", "earnings_negative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20260904-02",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering stock reaction framing Gucci's China trajectory as recovery swing factor is mild negative momentum press.",
+    "signal_tags": ["momentum_negative", "investor_sentiment"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-20260904-03",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Business-media deep dive on revenue collapse ties decline to creative-director churn, no hit bag, and outlet discounting gutting resale value.",
+    "signal_tags": ["design_criticism", "resale_value_drop", "earnings_negative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20260904-04",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Mass store closures plus CEO's own \"grandmother's house\" critique of store presentation is a rare direct executive-level negative.",
+    "signal_tags": ["earnings_negative", "quality_complaint"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20260904-05",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador appointment announcement with fan amplification is activation coverage, not independent public opinion.",
+    "signal_tags": ["activation_coverage", "fandom_spike"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20260904-06",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Entertainment-desk write-up of ambassador news is descriptive brand-owned promo copy per activation discount.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-20260904-07",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD Japan trade scorecard is genuinely split between praise for tailoring and criticism of shoes/bags/elegance, netting neutral.",
+    "signal_tags": ["design_criticism", "trade_press"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-20260904-08",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Quiet Korean price hike drawing gouging criticism is price-hike backlash, though outside freshness window so kept mild.",
+    "signal_tags": ["price_hike_backlash"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20260904-09",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring authenticity-verification threads reflect counterfeit-adjacent consumer distrust per trap rule.",
+    "signal_tags": ["counterfeit"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-20260904-10",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community discussion cites brand over-extension diluting luxury positioning and QC/after-sales complaints.",
+    "signal_tags": ["qc_complaint", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-20260904-11",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic Douyin content cluster on handbags wearing out is a consumer-generated quality complaint.",
+    "signal_tags": ["qc_complaint"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-20260904-12",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Qixi short-film coverage is purely descriptive activation write-up with no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-20260904-13",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Vogue Korea gives an independent critical verdict praising Demna's Pre-Fall lookbook, qualifying for full positive magnitude.",
+    "signal_tags": ["design_praise", "trade_press"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-20260904-14",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Michelin star for Gucci Osteria Tokyo is positive third-party recognition, though a background lifestyle-extension story.",
+    "signal_tags": ["award"],
+    "confidence": 0.6
+  }
+]
