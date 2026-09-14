@@ -1,0 +1,65 @@
+[
+  {
+    "id": "eu-2026-09-14-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual market reporting framing Gucci turnaround as unproven bet, not yet reflected in results",
+    "signal_tags": ["earnings", "stock", "market_commentary"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-09-14-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press headline frames another tough quarter, CEO publicly flags Gucci overdependency risk",
+    "signal_tags": ["earnings", "negative_momentum", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-09-14-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Leaked internal memo shows CEO strategy explicitly built on reducing dependence on Gucci, admitting it cannot carry recovery alone",
+    "signal_tags": ["strategy", "negative_momentum", "leadership_commentary"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-09-14-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Q1 results show double-digit revenue decline with Kering itself citing low cultural relevance in Europe",
+    "signal_tags": ["earnings", "negative_momentum", "background_context"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-09-14-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community board activity noted but access blocked, no verifiable evaluative content",
+    "signal_tags": ["community", "unverified"],
+    "confidence": 0.4
+  },
+  {
+    "id": "eu-2026-09-14-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer comparison trap: Gucci ranks 4th in resale value behind Chanel, LV, Hermes despite healthy archive demand",
+    "signal_tags": ["resale_value", "peer_comparison", "quantified_demand"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-14-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Decline narrowing but outlet stresses turnaround remains unproven and comparable sales still negative",
+    "signal_tags": ["earnings", "mixed_signal", "trade_press"],
+    "confidence": 0.6
+  }
+]

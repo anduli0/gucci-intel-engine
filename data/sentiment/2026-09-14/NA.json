@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NA-2026-09-14-001",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Bloomberg reporting of Kering Q2 data shows NA comparable sales up 8-9%, quantified third-party evidence of genuine turnaround.",
+    "signal_tags": ["earnings", "quantified_demand", "regional_outperformance"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-09-14-002",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent sell-side analyst consensus cites NA comparable growth and AUR strength as credible evidence Demna's resets are commercially working.",
+    "signal_tags": ["analyst_view", "quantified_demand", "creative_direction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-14-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press frames NA stabilization as offset by 100+ global store closures and overall brand 'not fixed yet' -- cautionary net read.",
+    "signal_tags": ["earnings", "store_footprint", "trade_press_critical"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-09-14-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "BoF opinion documents organic US consumer price-value backlash (PurseForum/Reddit complaints) and notes Gucci already cutting prices to rebuild volume.",
+    "signal_tags": ["price_backlash", "value_for_money", "trade_press_critical"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-14-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consumer-finance outlet headline names Gucci among brands losing desirability fastest with younger US shoppers, framed as structural headwind.",
+    "signal_tags": ["desirability_decline", "logo_fatigue", "trade_press_critical"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-14-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum thread metadata shows split opinion on quality (praise vs canvas wear/hardware tarnishing complaints); full text blocked, no forced polarity.",
+    "signal_tags": ["quality_complaint", "community_sentiment", "low_visibility"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-14-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed forum activity: enthusiastic reveal posts alongside price-value skepticism vs Chanel/LV; no single dominant verdict, index-only visibility.",
+    "signal_tags": ["community_sentiment", "peer_comparison", "value_for_money"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-14-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "TikTok edit recirculation is descriptive; comment debate itself split between 'reinvention' and 'nostalgia repackage' framings, no clear net verdict.",
+    "signal_tags": ["sns_buzz", "creative_direction_debate", "activation_coverage"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-14-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram engagement metrics reflect Gucci's own posts, explicitly framed as steady baseline reach, not third-party public opinion.",
+    "signal_tags": ["brand_owned_metrics", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-14-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Syndicated roundup explicitly reports split community reaction (fresh POV vs derivative Tom Ford references); no forced polarity on divided opinion.",
+    "signal_tags": ["community_sentiment", "creative_direction_debate", "secondary_source"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NA-2026-09-14-011",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade outlet credits core leather goods (Horsebit loafer) as the real commercial win, favorable but conditional/backhanded on runway hype.",
+    "signal_tags": ["trade_press_favorable", "product_substance", "quantified_demand"],
+    "confidence": 0.6
+  }
+]

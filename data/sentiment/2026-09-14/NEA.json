@@ -1,0 +1,56 @@
+[
+  {
+    "id": "nea-2026-09-14-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Deep mainland China price cuts (up to 40%) frame domestic boutiques as narrowing gap with daigou/resellers, implying prior overpricing and outlet-discount image risk.",
+    "signal_tags": ["pricing", "discounting", "outlet_image", "china"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-09-14-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent commentary explicitly skeptical Demna debut + price cuts can restore brand standing, citing H1 2026 revenue -9% and APAC -10%.",
+    "signal_tags": ["momentum", "revenue_decline", "creative_direction", "skepticism"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-09-14-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering Japan press release for FW2026 eyewear campaign; purely descriptive brand-owned promo copy, not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-09-14-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic Korean consumer backlash accusing Gucci and peers of unannounced repeated price hikes / treating Korea as an easy target.",
+    "signal_tags": ["price_hike_backlash", "korea", "consumer_sentiment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-09-14-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering-wide store closures (84 globally, ~5% of DOS) reported as contraction/negative momentum, implicating Gucci's Asia network; largely factual industry reporting.",
+    "signal_tags": ["store_network", "contraction", "momentum"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-09-14-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Weibo community discussion argues Gucci has fallen from top-tier to second-tier status, welcoming discounts as validation of decline.",
+    "signal_tags": ["brand_status", "china", "community_sentiment", "discounting"],
+    "confidence": 0.65
+  }
+]

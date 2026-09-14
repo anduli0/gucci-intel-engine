@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-09-14-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press analysis questioning whether price cuts will win back shoppers, notes wait-and-see stance and shift to gold over leather goods.",
+    "signal_tags": ["price_cut", "value_for_money", "trade_press", "duty_free_demand"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-14-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press reports CEO admission that pricing power eroded and products were priced too high, plus 20% SKU cut -- negative momentum narrative from independent judgment.",
+    "signal_tags": ["pricing_power", "trade_press", "turnaround", "sku_cut"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-09-14-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reuters wire on internal memo: store closures, downsizing, reduced reliance on Gucci within Kering portfolio -- negative momentum/business press.",
+    "signal_tags": ["earnings_momentum", "store_closures", "trade_press", "portfolio_rebalance"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-14-004",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Corrected: Lyst Index Q1-26 shows Gucci climbing to No.5 (biggest mover, +4 places) behind Chanel at No.1 -- genuine but modest independent demand-improvement signal, not a No.1 reclaim.",
+    "signal_tags": ["search_demand", "lyst_index", "quantified_demand", "corrected_figure"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-09-14-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "T3 SNS post reflects consumer frustration/regret over price-cut timing after purchase -- organic but narrow value-for-money complaint.",
+    "signal_tags": ["value_for_money", "consumer_frustration", "price_cut", "cross_border_shopper"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-14-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SNS discussion debating whether price cut is a bottom or signals further discounts -- speculative, mixed, no clear polarity.",
+    "signal_tags": ["price_cut", "sns_discussion", "purchase_timing"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-14-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent newsletter analytically frames price cuts as strategy to attract younger shoppers -- descriptive/interpretive, not a strong evaluative verdict.",
+    "signal_tags": ["price_cut", "trade_press", "brand_strategy"],
+    "confidence": 0.5
+  }
+]
