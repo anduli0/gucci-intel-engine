@@ -5,6 +5,11 @@
 set -uo pipefail
 cd "$(dirname "$0")/.."
 
+# Pin the cycle date at START. A run that crosses midnight (KST) must validate
+# against the date the brief was generated for, not the wall-clock date at gate
+# time — otherwise the honesty gate below false-fails and aborts a good cycle.
+START_DAY=$(date +%F)
+
 # CORE steps must succeed. A failure here (e.g. a revoked/expired auth token
 # returning "401 OAuth access token has been revoked") is fatal: we mark the
 # run FAILED so the job goes red and the owner is alerted, instead of silently
@@ -45,9 +50,10 @@ fi
 # produced. This is the same artifact daily.yml's guard checks. If it is missing
 # (auth failure, crash, etc.) abort BEFORE export/publish so the live site is
 # never overwritten with stale data under a green checkmark.
-TODAY_BRIEF="data/reports/daily/$(date +%F)-luxury-brief.md"
-if [ "$CORE_FAILED" != "0" ] || [ ! -s "$TODAY_BRIEF" ]; then
-  echo "::error::daily cycle did NOT complete — core_failed=$CORE_FAILED, missing/empty $TODAY_BRIEF. Aborting before publish."
+START_BRIEF="data/reports/daily/${START_DAY}-luxury-brief.md"
+NOW_BRIEF="data/reports/daily/$(date +%F)-luxury-brief.md"
+if [ "$CORE_FAILED" != "0" ] || { [ ! -s "$START_BRIEF" ] && [ ! -s "$NOW_BRIEF" ]; }; then
+  echo "::error::daily cycle did NOT complete — core_failed=$CORE_FAILED, missing/empty brief (${START_DAY} or $(date +%F)). Aborting before publish."
   exit 1
 fi
 
