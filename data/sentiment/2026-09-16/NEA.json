@@ -1,0 +1,83 @@
+[
+  {
+    "id": "nea-2026-09-16-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press analysis frames China price cuts as failing to restore confidence, with consumers shifting to gold over Gucci leather goods.",
+    "signal_tags": ["price_cuts", "value_for_money", "china_demand", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-09-16-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press corroborates price cuts and explicitly ties them to declining H1 2026 revenue and APAC slowdown, i.e. negative momentum press.",
+    "signal_tags": ["price_cuts", "earnings_momentum", "china_demand", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-09-16-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive product-launch write-up (what/who/where/price) with no evaluative verdict from the outlet; activation coverage discount applies.",
+    "signal_tags": ["product_launch", "activation_coverage", "japan"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-09-16-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador/campaign PR coverage (Gucci Primavera visuals) with no independent evaluative judgment; falls under activation discount and fandom trap.",
+    "signal_tags": ["ambassador_campaign", "activation_coverage", "kpop_fandom", "cpop_fandom"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-09-16-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic backlash to AI-generated campaign imagery ('cheap/sloppy'), but item is stale (Feb publish date) and held only as background context, lowering confidence.",
+    "signal_tags": ["ai_campaign_controversy", "controversy", "stale_context"],
+    "confidence": 0.5
+  },
+  {
+    "id": "nea-2026-09-16-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Weibo commentary thread is genuinely mixed between bargain-hunters and skeptics citing declining prestige; no clear dominant polarity, keep neutral rather than force a side.",
+    "signal_tags": ["price_cuts", "mixed_reaction", "sns", "china_demand"],
+    "confidence": 0.55
+  },
+  {
+    "id": "nea-2026-09-16-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer community replies favor alternative spending or discounted secondhand over new Gucci, questioning value retention -- organic value-for-money dispute.",
+    "signal_tags": ["value_for_money", "price_cuts", "resale_comparison", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-09-16-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "General forum chatter referencing Gucci alongside counterfeit/replica discussion without a specific clear claim or engagement metrics; neutral per counterfeit-inquiry default.",
+    "signal_tags": ["counterfeit_adjacent", "community", "low_signal"],
+    "confidence": 0.4
+  },
+  {
+    "id": "nea-2026-09-16-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent critical review is genuinely balanced -- praises styling but questions whether film-over-runway format is sustainable amid a sales slide; no forced polarity.",
+    "signal_tags": ["creative_direction", "critical_review", "format_debate"],
+    "confidence": 0.55
+  }
+]

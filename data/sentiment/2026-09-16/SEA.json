@@ -1,0 +1,65 @@
+[
+  {
+    "id": "sea-2026-09-16-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign/casting write-up of Gucci's own Primavera activation, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign", "casting"],
+    "confidence": 0.8
+  },
+  {
+    "id": "sea-2026-09-16-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive regional activation report on Primavera reaching Bangkok retail/events, no evaluative judgment.",
+    "signal_tags": ["activation_coverage", "regional_rollout"],
+    "confidence": 0.8
+  },
+  {
+    "id": "sea-2026-09-16-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pre-event fan anticipation announcement of ambassador attendance, descriptive with no brand opinion expressed.",
+    "signal_tags": ["fandom_spike", "activation_coverage", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "sea-2026-09-16-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mall's own promotional post amplifying Gucci event outfits; brand-adjacent promo, not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned_promo"],
+    "confidence": 0.85
+  },
+  {
+    "id": "sea-2026-09-16-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organized fan engagement/repost push around ambassador event; amplification tactic, no genuine evaluative content.",
+    "signal_tags": ["fandom_spike", "organized_amplification"],
+    "confidence": 0.7
+  },
+  {
+    "id": "sea-2026-09-16-006",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Outlet's own clear evaluative verdict praising Primavera's Asian-star casting strategy as culturally significant, capped per activation discount.",
+    "signal_tags": ["activation_coverage", "casting", "trade_press_verdict"],
+    "confidence": 0.7
+  },
+  {
+    "id": "sea-2026-09-16-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual note on ongoing resale/marketplace community activity, no clear polarity toward the brand.",
+    "signal_tags": ["resale", "secondary_market"],
+    "confidence": 0.7
+  }
+]

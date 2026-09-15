@@ -1,0 +1,56 @@
+[
+  {
+    "id": "eu-2026-09-16-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Financial wire framing Gucci recovery as an unproven bet amid still-negative comparable sales; factual market reporting, not clear organic polarity.",
+    "signal_tags": ["earnings", "market_read", "turnaround_watch"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-16-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Gucci Eyewear campaign write-up with no critical framing; brand-owned promo coverage, not public opinion.",
+    "signal_tags": ["activation_coverage", "eyewear_campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-09-16-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade analysis stresses comps remain negative with China/Western Europe weak, explicitly cautions turnaround is unproven.",
+    "signal_tags": ["earnings", "trade_press", "turnaround_skepticism", "regional_weakness"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-09-16-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community purchase/style-debate threads with unverifiable engagement (403 on fetch); descriptive, no clear net polarity.",
+    "signal_tags": ["community", "purchase_intent", "unverified_metrics"],
+    "confidence": 0.4
+  },
+  {
+    "id": "eu-2026-09-16-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "TikTok reactions to Demna-era Gucci explicitly described as mixed, split between enthusiasm and 'gimmick' fatigue; no dominant polarity, aggregate-level only.",
+    "signal_tags": ["sns", "fandom_trap", "mixed_reaction", "creative_direction"],
+    "confidence": 0.4
+  },
+  {
+    "id": "eu-2026-09-16-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci ranks No.4 in resale value retention behind Chanel, Louis Vuitton and Hermes, with first-hand sales described as soft and new product drawing mixed reviews vs. healthier archive-era demand.",
+    "signal_tags": ["resale_value", "peer_comparison", "quantified_data"],
+    "confidence": 0.55
+  }
+]

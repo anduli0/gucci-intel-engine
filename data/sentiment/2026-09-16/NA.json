@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NA-2026-09-16-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity-styling write-up of Gucci pumps with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "celebrity_styling"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-16-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Billboard profile describing Gucci's DJ booking/activation; brand-cachet framing is contextual not an independent critical verdict, so treated as descriptive activation coverage.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-16-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explicitly descriptive brand-promo eyewear campaign write-up with no critical framing.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-09-16-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent financial press notes NA retail momentum improving (comp-sales decline narrowing) though tone remains cautious/watching for sustained conversion.",
+    "signal_tags": ["earnings", "quantified_data", "independent_press"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-09-16-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical motorsport-press analysis frames Gucci as a struggling brand gambling on F1 relevance amid eleven consecutive quarters of sales declines; stale (outside freshness window), retained as context only, not index-eligible.",
+    "signal_tags": ["critical", "stale_but_context", "earnings_decline"],
+    "confidence": 0.7
+  }
+]

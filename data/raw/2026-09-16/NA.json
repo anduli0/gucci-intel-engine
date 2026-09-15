@@ -1,0 +1,134 @@
+{
+  "items": [
+    {
+      "id": "NA-2026-09-16-001",
+      "region": "NA",
+      "source": "WWD",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://wwd.com/footwear-news/shoe-trends/naomi-watts-gucci-pumps-golden-globes-kick-off-toronto-1239227679/",
+      "published_at": "2026-09-13",
+      "title": "Naomi Watts Flatters Her Feet in Gucci Horsebit Pumps at 'Road To The Golden Globes' Kick-Off Party in Toronto",
+      "summary": "WWD footwear coverage of actress Naomi Watts wearing black Gucci Horsebit pumps with gilded hardware at a Golden Globes-season kickoff party in Toronto on Sept. 12, paired with a red draped top and tailored slacks. Descriptive celebrity-styling item, no independent evaluative verdict.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "tags": ["activation_coverage"]
+    },
+    {
+      "id": "NA-2026-09-16-002",
+      "region": "NA",
+      "source": "Billboard",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.billboard.com/music/features/brokinpaper-dj-producer-up-and-coming-dance-artist-1236336634/",
+      "published_at": "2026-09-09",
+      "title": "Dance Up-And-Comer of the Month BrokinPaper Made Music Inspired By Gesaffelstein -- Then Gucci Called",
+      "summary": "Billboard profile of NYC producer BrokinPaper (Harrison Lee), naming him Dance Artist of the Month; piece notes Gucci recruited him to DJ its Cruise 2027 Times Square afterparty and a Gucci Berlin Gallery Weekend event, crediting the brand's cultural cachet in electronic music circles.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "tags": ["activation_coverage"]
+    },
+    {
+      "id": "NA-2026-09-16-003",
+      "region": "NA",
+      "source": "Fashion Gone Rogue",
+      "source_type": "news",
+      "tier": "T3",
+      "url": "https://www.fashiongonerogue.com/story/gucci-eyewear-fall-2026-campaign/",
+      "published_at": "2026-09-16",
+      "title": "Gucci Eyewear's Fall 2026 Campaign Has the Look",
+      "summary": "Fashion blog write-up of Gucci Eyewear's Fall/Winter 2026 campaign shot by Mark Seliger, describing Horsebit and Double G hardware details across new acetate and metal frame styles. Purely descriptive brand-promo coverage, no critical framing.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "tags": ["activation_coverage"]
+    },
+    {
+      "id": "NA-2026-09-16-004",
+      "region": "NA",
+      "source": "Kering (press/finance, covered via WWD/Yahoo Finance)",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://uk.finance.yahoo.com/news/kering-shares-jump-gucci-stabilises-092136484.html",
+      "published_at": "2026-09-13",
+      "title": "Kering Shares Jump as Gucci Stabilises and Second-Quarter Revenue Beats Forecasts",
+      "summary": "Financial-press roundup noting Kering stock held broadly stable on Euronext as of Sept. 13, with investors watching whether Gucci's North America retail momentum (up roughly 7% in Q1, comparable sales decline narrowing in H1) can convert into sustained growth under CEO Luca de Meo's turnaround plan.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "tags": []
+    },
+    {
+      "id": "NA-2026-09-16-005",
+      "region": "NA",
+      "source": "GPFans",
+      "source_type": "news",
+      "tier": "T3",
+      "url": "https://www.gpfans.com/en/f1-news/1085016/f1-gucci-alpine-sponsorship-deal-analysis-struggling-brand/",
+      "published_at": "2026-05-28",
+      "title": "Gucci is struggling so it gambled $150million that F1 can 'make it cool again'",
+      "summary": "Critical motorsport-press analysis framing Gucci's ~$150M Alpine F1 title sponsorship (Gucci Racing from 2027) as a high-stakes bet by a brand that has now posted eleven consecutive quarters of organic sales declines, arguing F1 needed Gucci's cachet less than Gucci needed F1's cultural relevance.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "tags": ["critical", "stale_but_context"],
+      "note": "Published May 2026, outside the 14-day freshness window; retained ONLY as background context for mention_counts, EXCLUDED from index-eligible pool. Flagged, not scored as fresh."
+    }
+  ],
+  "excluded_stale_or_unverifiable": [
+    {
+      "reason": "older than 14-day freshness window",
+      "examples": [
+        "Kate Moss thong-dress FW26 runway coverage (Feb 27 2026 show)",
+        "Gucci AI-slop Milan campaign backlash (Feb 2026 pre-show controversy)",
+        "Cindy Crawford Times Square wardrobe malfunction reveal (underlying show May 16 2026)",
+        "Gucci Racing / Tancredi Vitale VP appointment (effective Sept 1, reported ~July 21 2026)",
+        "Forum members / PurseForum reactions to Demna FW26 debut (show was Feb 2026; recirculated evergreen article)",
+        "Kering Q1/Q2 2026 earnings deep-dives (April/July 2026)"
+      ]
+    },
+    {
+      "reason": "no fresh NA-specific coverage found despite targeted searches",
+      "examples": [
+        "No dated Reddit r/handbags, r/fashion, or r/malefashionadvice threads specifically about Gucci published in the last 7 days were locatable via public search",
+        "No dated PurseForum Gucci Clubhouse thread from the last 7 days was locatable via public search (existing threads are older, undated in search snippets)"
+      ]
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 6,
+    "Louis Vuitton": 0,
+    "Dior": 0,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 1,
+    "Burberry": 0
+  },
+  "coverage_notes": {
+    "date": "2026-09-16",
+    "region": "NA",
+    "channel_mix": "News: 4 admitted items (WWD x2, financial-press roundup, Fashion Gone Rogue). SNS/community: 0 admitted after bot/freshness/verifiability filtering -- searches for Reddit, PurseForum, X/Twitter, TikTok, and Instagram content specific to NA and dated within the freshness window returned only undated, evergreen, or non-region-specific results that could not be admitted under the source-pool-policy (missing verifiable published_at or url pointing to actual dated post).",
+    "critical_angle_searches_run": [
+      "Gucci price increase backlash 2026",
+      "Gucci quality complaints reddit",
+      "Gucci resale value drop StockX 2026",
+      "Gucci store closing layoffs 2026",
+      "Gucci overrated lost its way criticism",
+      "Gucci boycott cancel 2026",
+      "Gucci counterfeit lawsuit trademark 2026",
+      "Gucci AI images criticized fashion show September 2026",
+      "Gucci Racing Alpine fans reaction skeptic F1 forum"
+    ],
+    "critical_angle_result": "Critical-angle searches surfaced substantive material (price-cut strategy amid 11 straight quarters of comparable-sales declines, store-closure program, AI-generated marketing backlash, F1 sponsorship skepticism, historical boycott chatter) but nearly all of it dated to February-August 2026, outside the 14-day admission window for a 2026-09-16 daily pool. Only one critical item (GPFans F1-sponsorship-as-gamble analysis) was retained, and it is explicitly flagged as stale/context-only rather than scored. No fresh (last-7-day) NA critical-angle story was found today; this is a genuine gap, not padding.",
+    "sns_community_shortfall": "Target of >=3 sns/community items per day was NOT met for NA today (0 admitted). Public web search access does not surface dated, attributable X/Instagram/TikTok/Reddit/PurseForum posts for this specific date; this is reported honestly per instructions rather than padded with undated or fabricated items."
+  }
+}
