@@ -11,7 +11,12 @@ on:
     - cron: '7 21 * * *'   # 21:07 UTC = 06:07 KST — backup 1
     - cron: '7 22 * * *'   # 22:07 UTC = 07:07 KST — backup 2
     - cron: '7 23 * * *'   # 23:07 UTC = 08:07 KST — backup 3 (last resort, finishes ASAP after 08:00)
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force the full pipeline even if today reports already exist'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -30,15 +35,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Backup-run guard: if today's cycle already published its reports,
-      # skip the pipeline and only re-export/republish the site.
+      # Backup-run guard: only skip the pipeline (republish only) when ALL of
+      # today's core reports exist. Checking only the luxury brief let a
+      # midnight-crossing run leave index-interpretation/business-review a day
+      # behind while the guard reported "done". A manual force=true always runs.
       - name: Check if today's cycle already completed
         id: guard
         run: |
           today=$(date +%F)
-          if [ -f "data/reports/daily/${today}-luxury-brief.md" ]; then
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            echo "done=false" >> "$GITHUB_OUTPUT"
+            echo "force=true — running full pipeline."
+          elif [ -f "data/reports/daily/${today}-luxury-brief.md" ] \
+            && [ -f "data/reports/daily/${today}-index-interpretation.md" ] \
+            && [ -f "data/reports/daily/${today}-gucci-business-review.md" ]; then
             echo "done=true" >> "$GITHUB_OUTPUT"
-            echo "Reports for ${today} already exist — republish only."
+            echo "All reports for ${today} already exist — republish only."
           else
             echo "done=false" >> "$GITHUB_OUTPUT"
           fi
