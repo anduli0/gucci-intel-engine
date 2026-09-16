@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sea-2026-09-17-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale, purely descriptive recap of Gucci's own SS26 activation event with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "stale_event", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "sea-2026-09-17-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade recap of KL store footprint used as a retail benchmark; no clear evaluative verdict beyond factual counts.",
+    "signal_tags": ["activation_coverage", "store_opening", "retail_trade"],
+    "confidence": 0.7
+  },
+  {
+    "id": "sea-2026-09-17-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Old fan-account attendance notice, repetitive fandom amplification with no evaluative content; damped per fandom-spike trap.",
+    "signal_tags": ["fandom_spike", "ambassador", "stale_event", "sns"],
+    "confidence": 0.7
+  },
+  {
+    "id": "sea-2026-09-17-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade critique: weak innovation and logo over-reliance driving affluent APAC/SEA shoppers to Hermes and Chanel instead.",
+    "signal_tags": ["design_criticism", "lost_its_way", "peer_comparison", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "sea-2026-09-17-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Recurring factual observation of sustained preloved resale listing volume; no clear positive or negative polarity signal.",
+    "signal_tags": ["resale_market", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "sea-2026-09-17-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Steep unofficial China discounting (up to 40%) reads as outlet/discount image damage, cross-posted into SEA diaspora resale groups; mixed/debated discussion moderates confidence.",
+    "signal_tags": ["discount_image", "resale_market", "price_cut", "sns"],
+    "confidence": 0.65
+  },
+  {
+    "id": "sea-2026-09-17-007",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent T1 financial press: Kering shares up 15.9% on Q2 turnaround as Gucci's sales decline slowed more than expected across all regions.",
+    "signal_tags": ["earnings", "turnaround", "quantified_demand", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "sea-2026-09-17-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent business press on 217 store closures amid sales plunge, nearly 40% in Asian markets, signaling regional retrenchment.",
+    "signal_tags": ["negative_earnings", "store_closure", "retrenchment", "trade_press"],
+    "confidence": 0.8
+  }
+]

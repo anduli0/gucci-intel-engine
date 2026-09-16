@@ -1,0 +1,47 @@
+[
+  {
+    "id": "eu-2026-09-17-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual fashion-week calendar preview naming Gucci's second collection as watched, set against generic industry revenue-decline framing, not brand-specific criticism.",
+    "signal_tags": ["schedule", "industry_backdrop"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-09-17-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press (WWD) review of Demna's runway collection carries real critical reservations -- Bernstein 7.6/10 'not a home run' and doubts whether Demna is overshadowing the Gucci identity.",
+    "signal_tags": ["critic_review", "creative_direction", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-09-17-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent analysts (ODDO BHF, Citi) flag turnaround not yet showing in numbers and slower/costlier dynamics, with Kering shares well off 52-week high -- negative earnings/momentum press.",
+    "signal_tags": ["analyst_scrutiny", "earnings_momentum", "stock_performance"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-09-17-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Genuine consumer forum thread reporting recurring QC complaints (stitching, hardware tarnish, edge-paint wear) and repair-cost frustration; ongoing thread rather than single acute spike.",
+    "signal_tags": ["quality_control", "consumer_opinion", "customer_service"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-09-17-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregate TikTok discovery page explicitly split between enthusiasm and 'gimmick' fatigue over Demna-era Gucci, with no accessible engagement metrics -- ambiguous mixed signal, default neutral.",
+    "signal_tags": ["sns_aggregate", "mixed_reaction", "creative_direction"],
+    "confidence": 0.4
+  }
+]

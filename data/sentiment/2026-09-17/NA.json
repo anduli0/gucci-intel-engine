@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-2026-09-17-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Hedged financial-press framing of stock stabilization and revenue beat; watching whether momentum translates, not a confirmed positive verdict.",
+    "signal_tags": ["financial", "turnaround_narrative"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-17-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press analysis explicitly framed as cautiously optimistic, not confirmed recovery; largely restates brand-side initiatives.",
+    "signal_tags": ["turnaround_narrative", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-09-17-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity-dressing activation write-up with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-17-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive CSR/philanthropy event and red-carpet coverage, press-kit derived, no independent brand judgment.",
+    "signal_tags": ["activation_coverage", "csr"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-17-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Ongoing community thread with consistent, emotional frustration over repeated price hikes and eroding value-for-money.",
+    "signal_tags": ["critical", "price_backlash"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-17-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade-press opinion piece using Gucci's $1,000 T-shirt as the headline symbol of industry-wide price-hike backlash and eroded value perception.",
+    "signal_tags": ["critical", "price_backlash"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-17-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregated consumer reviews report leather cracking and poor repair-service quality; mixed with some praise but recent entries skew critical.",
+    "signal_tags": ["critical", "quality_complaint"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-17-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral-style social post explicitly names Gucci among 'most overrated' luxury brands, citing screaming logos and poor leather quality.",
+    "signal_tags": ["critical", "overrated_narrative"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-09-17-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale-market analysis shows oversaturation suppressing standard-colorway prices and frames Michele-era logomania pieces as dated, a soft-negative value-retention read.",
+    "signal_tags": ["critical", "resale_value"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-17-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive store-expansion trade coverage; investment/expansion news is not an independent evaluative judgment on brand perception.",
+    "signal_tags": ["expansion", "canada", "activation_coverage"],
+    "confidence": 0.6
+  }
+]

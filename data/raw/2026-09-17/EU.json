@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "eu-2026-09-17-001",
+      "region": "EU",
+      "source": "Il Fatto Quotidiano",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.ilfattoquotidiano.it/2026/09/16/milano-fashion-week-2026-il-calendario-delle-sfilate-e-degli-eventi-in-programma-dal-22-al-28-settembre-il-confronto-con-new-york-e-londra-mentre-il-settore-perde-fatturato-ed-export/8508373/",
+      "published_at": "2026-09-16",
+      "title": "Milan Fashion Week 2026 calendar released amid industry-wide revenue and export decline",
+      "summary": "Major Italian daily previews Milan Fashion Week (Sept 22-28, 203 events/61 shows) and names Demna's second Gucci ready-to-wear collection one of three closely watched 'second collections' (with Fendi's Chiuri and Marni's Rogge) that will show whether new creative identities are becoming recognizable. Sober framing: Milan arrives with the fashion sector 'still in decline,' citing falling exports and cautious consumption -- a neutral-to-negative industry backdrop rather than Gucci-specific criticism.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "eu-2026-09-17-002",
+      "region": "EU",
+      "source": "WWD",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://wwd.com/runway/fall-2026/milan/gucci/review/",
+      "published_at": "2026-09-12",
+      "title": "WWD critics' review of Gucci Fall 2026 runway: 83 looks show design range but leave 'homage vs. own vision' question open",
+      "summary": "Trade-press runway review of Demna's most recent full Gucci collection: praises range across archetypes (tailoring, tracksuits, floral pleats referencing Botticelli's Primavera) but sits alongside wider critical chatter (Bernstein rated the season 7.6/10, 'clearly not a home run'; other critics ask whether 'Demna through Gucci' is overshadowing 'Gucci by Demna'). Independent trade-press judgment, not activation copy -- carried as the most substantive available critical fashion-industry read heading into the Sept 24 Spring 2027 show.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "eu-2026-09-17-003",
+      "region": "EU",
+      "source": "ad-hoc-news.de (financial wire, corporate news)",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/kering-builds-gucci-focused-turnaround-shares-under-analyst-scrutiny/69607872",
+      "published_at": "2026-09-10",
+      "title": "Kering shares under analyst scrutiny as Gucci-focused turnaround continues",
+      "summary": "German financial wire cites ODDO BHF ('the group's trajectory is moving in the right direction under the new CEO, but Gucci's turnaround is not yet reflected in the numbers and its timing remains uncertain') and Citi ('luxury brand turnarounds have become more complex, slower, costlier, and far less public-market-friendly than in the past'). Independent analyst skepticism -- explicitly critical-angle counterweight to Kering's own optimistic messaging; Kering (PRTP) quoted near EUR 232.70, well off its 52-week high of EUR 354.20.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "eu-2026-09-17-004",
+      "region": "EU",
+      "source": "PurseForum (PurseBlog community boards)",
+      "source_type": "community",
+      "tier": "T3",
+      "url": "https://forum.purseblog.com/threads/gucci-quality-concerns.1011420/",
+      "published_at": "2026-09",
+      "title": "PurseForum 'Gucci quality concerns' thread continues to draw complaints about stitching, hardware tarnish and edge-paint wear",
+      "summary": "Long-running PurseForum community thread where members report quality-control issues on recent-purchase Gucci leather goods -- stitching separating, metallic strap finishing peeling, edge paint wearing off after light use -- alongside separate customer-service frustration over repair costs. Genuine consumer-opinion signal (not brand-owned), included per channel-mix and critical-angle mandate; thread is continuously active so exact day-level post date could not be confirmed via search snippet, engagement counts inaccessible (403 on direct fetch), left null.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "eu-2026-09-17-005",
+      "region": "EU",
+      "source": "TikTok (fashion-commentary accounts, aggregate discovery page)",
+      "source_type": "sns",
+      "tier": "T3",
+      "url": "https://www.tiktok.com/discover/gucci-denma-review",
+      "published_at": "2026-09",
+      "title": "TikTok fashion-commentary accounts keep circulating mixed Demna-era Gucci review clips ahead of the Sept 24 Milan show",
+      "summary": "Fashion TikTok discovery page shows continuing volume of reaction/review-style clips debating Demna's Gucci direction -- split between enthusiasm for the sexier, Tom-Ford-referencing silhouette and fatigue with what some commenters call 'gimmick' or overly referential styling. Aggregate discovery-page signal only; individual video-level like/comment/share counts not accessible via public search, left null per no-fabrication rule.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 5,
+    "Louis Vuitton": 0,
+    "Dior": 1,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 1,
+    "Burberry": 0
+  }
+}

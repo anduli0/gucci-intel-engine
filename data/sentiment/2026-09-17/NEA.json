@@ -1,0 +1,110 @@
+[
+  {
+    "id": "nea-2026-09-17-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press analysis frames price cuts as evidence of eroded pricing power and cautious/skeptical Chinese buyer response, favoring gold over branded goods.",
+    "signal_tags": ["price_cut", "china_demand", "value_for_money", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-09-17-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Financial media frames rare official 40% China price cut as a break from luxury pricing norms and admission of eroded pricing power.",
+    "signal_tags": ["price_cut", "china_demand", "pricing_power", "earnings"],
+    "confidence": 0.75
+  },
+  {
+    "id": "nea-2026-09-17-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Negative earnings press: Q1 revenue down 8% YoY, Asia/Europe underperforming, steep Japan decline attributed to weak demand and buyer rotation to jewelry.",
+    "signal_tags": ["earnings_decline", "china_demand", "japan_decline"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-09-17-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Negative earnings press describing 19% Q2 revenue drop amid weak Chinese demand, part of a broader 'luxury crisis' narrative.",
+    "signal_tags": ["earnings_decline", "china_demand", "sector_crisis"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-09-17-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of the FW26 eyewear campaign with no independent evaluative verdict; brand-owned promo copy = neutral per v1.1 discount.",
+    "signal_tags": ["activation_coverage", "campaign_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-09-17-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer backlash (not subject to activation cap since negative) against AI-generated campaign imagery, quoted netizen criticism contradicting brand craftsmanship positioning.",
+    "signal_tags": ["controversy", "ai_campaign", "authenticity_criticism", "design_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "nea-2026-09-17-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Store closures (84 across group, 25 Gucci) reflect negative retail-footprint trend; mild positive counter-detail (sales decline narrowing) doesn't offset the overall negative momentum framing, so kept mild negative on balance.",
+    "signal_tags": ["store_closures", "restructuring", "earnings_trend"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-09-17-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Influencer breakdown of discounts notes discounted styles losing resale value immediately, a resale-price-drop negative signal, though framed matter-of-factly.",
+    "signal_tags": ["resale_value_drop", "price_cut", "influencer"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-09-17-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Deal-forum post itemizing discounts and inviting bargain-hunting discussion; incidental/factual community coverage without clear brand-opinion polarity.",
+    "signal_tags": ["price_cut", "community_chatter", "bargain_hunting"],
+    "confidence": 0.55
+  },
+  {
+    "id": "nea-2026-09-17-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community threads discuss erosion of trust from unpredictable pricing versus peer brands; aggregate board-level chatter kept at mild magnitude given diffuse sourcing.",
+    "signal_tags": ["trust_erosion", "peer_comparison", "price_volatility", "community_chatter"],
+    "confidence": 0.55
+  },
+  {
+    "id": "nea-2026-09-17-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consumer-affairs report on Korea sales decline (-5.2%) and operating profit drop (-8.6%), with industry quote that logo-driven luxury buying era has ended.",
+    "signal_tags": ["earnings_decline", "korea_market", "value_for_money", "parallel_imports"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-09-17-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Tier-1 wire analysis (Bloomberg) frames Gucci as bellwether case for pricing-power erosion, citing ~10% APAC comparable sales decline and risk of further brand-equity damage.",
+    "signal_tags": ["pricing_power", "china_demand", "earnings_decline", "trade_press"],
+    "confidence": 0.8
+  }
+]
