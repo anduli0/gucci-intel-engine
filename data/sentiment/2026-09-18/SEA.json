@@ -1,0 +1,56 @@
+[
+  {
+    "id": "sea-2026-09-18-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Group-level governance appointment, factual and not Gucci-brand or SEA-specific.",
+    "signal_tags": ["corporate_governance", "kering_group"],
+    "confidence": 0.9
+  },
+  {
+    "id": "sea-2026-09-18-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sibling Kering maison's Thailand store closure signals regional retail contraction, a critical counterweight to Gucci's expansion narrative.",
+    "signal_tags": ["retail_contraction", "kering_cost_discipline", "peer_brand"],
+    "confidence": 0.55
+  },
+  {
+    "id": "sea-2026-09-18-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual schedule confirmation for an upcoming show; no reaction content exists yet.",
+    "signal_tags": ["show_schedule", "forward_looking", "runway"],
+    "confidence": 0.9
+  },
+  {
+    "id": "sea-2026-09-18-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador brand-portfolio profile with no independent evaluative verdict; activation/ambassador discount applies.",
+    "signal_tags": ["ambassador_coverage", "activation_coverage", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "sea-2026-09-18-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community anecdote of dismissive staff treatment feeds store-elitism narrative, but freshness unverified and confidence below 0.5 threshold, so polarity demoted to neutral.",
+    "signal_tags": ["service_complaint", "elitism_narrative", "unverified_freshness", "demoted_low_confidence"],
+    "confidence": 0.45
+  },
+  {
+    "id": "sea-2026-09-18-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Year-old fan-account event recap recirculating; fandom spike damped, no fresh engagement data visible.",
+    "signal_tags": ["fandom", "ambassador_coverage", "recycled_content"],
+    "confidence": 0.4
+  }
+]

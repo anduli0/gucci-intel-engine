@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NA-2026-09-18-001",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent WWD critic review praises Demna's range and storytelling in Fall 2026 collection",
+    "signal_tags": ["runway", "critical_review", "independent_judgment"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-18-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive photo gallery documenting looks, no independent evaluative verdict",
+    "signal_tags": ["runway", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-18-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador activation write-up at flagship store, no independent brand critique",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-18-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Motorsport fans doubt F1 sponsorship can revive brand credibility despite some strategic optimism",
+    "signal_tags": ["critical", "brand_strategy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-18-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuinely mixed fan/critic reception to Alpine F1 deal, some call it gimmick others praise strategy",
+    "signal_tags": ["mixed", "brand_strategy"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-09-18-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic meme buzz with brand riding passively, not an evaluative opinion of Gucci itself",
+    "signal_tags": ["meme", "organic_buzz", "gen_z"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-18-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Meme explainer treats Gucci as cultural prop, not a judgment on the brand",
+    "signal_tags": ["meme", "organic_buzz"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-18-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Balanced community thread with shock-value complaints offset by praise for classic leather goods",
+    "signal_tags": ["community_opinion", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-09-18-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified resale data shows bags losing 55-70% of retail value, a documented value-retention concern",
+    "signal_tags": ["critical", "resale_value"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-18-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Hedged turnaround narrative built on Gucci-owned campaign, racing platform and beauty license, not a confirmed independent verdict",
+    "signal_tags": ["turnaround_narrative", "activation_coverage"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-09-18-011",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering Q3 results confirm continued comparable-sales decline at Gucci, negative earnings press",
+    "signal_tags": ["critical", "earnings"],
+    "confidence": 0.85
+  }
+]

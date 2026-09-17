@@ -1,0 +1,83 @@
+[
+  {
+    "id": "eu-2026-09-18-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain scheduling/preview coverage of Sept 25 show, no evaluative verdict.",
+    "signal_tags": ["show_schedule", "editorial_preview"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-09-18-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual calendar preview naming Gucci among watched 'second collections'; industry-wide decline framing, not Gucci-specific criticism.",
+    "signal_tags": ["show_schedule", "industry_backdrop"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-09-18-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Stock slips despite some analyst target raises; market conviction on turnaround described as fragile and unresolved.",
+    "signal_tags": ["earnings_momentum", "analyst_sentiment", "financial_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-09-18-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent business press explicitly skeptical of Demna turnaround succeeding, framing investor patience as thin.",
+    "signal_tags": ["earnings_momentum", "turnaround_skepticism", "independent_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-09-18-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained heavy negative consumer reviews on after-sales service, repair delays, price hikes, and quality defects.",
+    "signal_tags": ["quality_complaint", "service_complaint", "consumer_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-09-18-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent French review aggregator 1.9/5 with repeated craftsmanship, cracking hardware, and multi-month repair-wait complaints.",
+    "signal_tags": ["quality_complaint", "service_complaint", "consumer_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-09-18-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fashion TikTok discovery skews skeptical ('flop', derivative-of-Tom-Ford critiques) mixed with some positive reactions; no engagement metrics available.",
+    "signal_tags": ["design_criticism", "sns_discovery", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-09-18-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent YouTube reviewers question whether Demna's Gucci direction is derivative of Tom Ford rather than a new identity.",
+    "signal_tags": ["design_criticism", "creative_direction", "independent_review"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-18-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread comparing new vs archive Flora pieces on quality/pricing; comparative discussion without clear net verdict, page largely inaccessible.",
+    "signal_tags": ["community_discussion", "product_comparison"],
+    "confidence": 0.4
+  }
+]

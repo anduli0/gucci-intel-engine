@@ -1,0 +1,311 @@
+{
+  "date": "2026-09-18",
+  "regions": {
+    "NEA": {
+      "GMAI": 46.22,
+      "band": "중립",
+      "NSS": -0.3035,
+      "components": {
+        "sentiment": 0.3482,
+        "buzz": 0.9303,
+        "engagement": 0.5,
+        "sov": 0.2222
+      },
+      "contrib": {
+        "sentiment": 15.67,
+        "buzz": 18.61,
+        "engagement": 7.5,
+        "sov": 4.44
+      },
+      "sov_known": true,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 8.1,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "price_discount",
+            -5.04
+          ],
+          [
+            "store_closures",
+            -3.92
+          ],
+          [
+            "brand_dilution",
+            -3.92
+          ],
+          [
+            "critical_press",
+            -3.92
+          ]
+        ],
+        "pos": [
+          [
+            "organic_praise",
+            0.89
+          ],
+          [
+            "ambassador",
+            0.89
+          ],
+          [
+            "fandom",
+            0.89
+          ]
+        ]
+      },
+      "channel_mix": {
+        "news": 5,
+        "sns": 3,
+        "community": 2
+      },
+      "counts": {
+        "pos": 1,
+        "neu": 5,
+        "neg": 4
+      },
+      "n_items": 10,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": 5.2,
+        "buzz": 5.72,
+        "engagement": 0.0,
+        "sov": 1.24
+      },
+      "delta": 12.17
+    },
+    "SEA": {
+      "GMAI": 43.07,
+      "band": "주의",
+      "NSS": -0.0795,
+      "components": {
+        "sentiment": 0.4602,
+        "buzz": 0.632,
+        "engagement": 0.5,
+        "sov": 0.1111
+      },
+      "contrib": {
+        "sentiment": 20.71,
+        "buzz": 12.64,
+        "engagement": 7.5,
+        "sov": 2.22
+      },
+      "sov_known": false,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 3.7,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "retail_contraction",
+            -1.79
+          ],
+          [
+            "kering_cost_discipline",
+            -1.79
+          ],
+          [
+            "peer_brand",
+            -1.79
+          ]
+        ],
+        "pos": []
+      },
+      "channel_mix": {
+        "news": 4,
+        "sns": 1,
+        "community": 1
+      },
+      "counts": {
+        "pos": 0,
+        "neu": 5,
+        "neg": 1
+      },
+      "n_items": 6,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": 3.44,
+        "buzz": 5.0,
+        "engagement": 0.0,
+        "sov": -1.78
+      },
+      "delta": 6.67
+    },
+    "NA": {
+      "GMAI": 50.6,
+      "band": "중립",
+      "NSS": 0.0934,
+      "components": {
+        "sentiment": 0.5467,
+        "buzz": 0.7247,
+        "engagement": 0.5,
+        "sov": 0.2
+      },
+      "contrib": {
+        "sentiment": 24.6,
+        "buzz": 14.49,
+        "engagement": 7.5,
+        "sov": 4.0
+      },
+      "sov_known": true,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 6.2,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "critical",
+            -3.14
+          ],
+          [
+            "earnings",
+            -2.08
+          ],
+          [
+            "brand_strategy",
+            -0.83
+          ],
+          [
+            "resale_value",
+            -0.24
+          ]
+        ],
+        "pos": [
+          [
+            "independent_judgment",
+            5.25
+          ],
+          [
+            "critical_review",
+            5.25
+          ],
+          [
+            "runway",
+            5.25
+          ]
+        ]
+      },
+      "channel_mix": {
+        "news": 6,
+        "sns": 2,
+        "community": 3
+      },
+      "counts": {
+        "pos": 1,
+        "neu": 7,
+        "neg": 3
+      },
+      "n_items": 11,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": 7.15,
+        "buzz": 2.22,
+        "engagement": 0.0,
+        "sov": 0.92
+      },
+      "delta": 10.3
+    },
+    "EU": {
+      "GMAI": 42.88,
+      "band": "주의",
+      "NSS": -0.4068,
+      "components": {
+        "sentiment": 0.2966,
+        "buzz": 0.9352,
+        "engagement": 0.5,
+        "sov": 0.1667
+      },
+      "contrib": {
+        "sentiment": 13.35,
+        "buzz": 18.7,
+        "engagement": 7.5,
+        "sov": 3.33
+      },
+      "sov_known": true,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 7.9,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "quality_complaint",
+            -4.93
+          ],
+          [
+            "service_complaint",
+            -4.93
+          ],
+          [
+            "consumer_review",
+            -4.93
+          ],
+          [
+            "design_criticism",
+            -2.47
+          ]
+        ],
+        "pos": []
+      },
+      "channel_mix": {
+        "news": 4,
+        "sns": 2,
+        "community": 3
+      },
+      "counts": {
+        "pos": 0,
+        "neu": 3,
+        "neg": 6
+      },
+      "n_items": 9,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": -0.77,
+        "buzz": 6.26,
+        "engagement": 0.0,
+        "sov": 0.0
+      },
+      "delta": 5.48
+    }
+  },
+  "global": {
+    "GMAI": 46.0,
+    "band": "중립",
+    "delta": 9.17,
+    "delta_attrib": {
+      "sentiment": 3.8,
+      "buzz": 4.91,
+      "engagement": 0.0,
+      "sov": 0.45
+    },
+    "sentiment_weighted": 0.3968
+  },
+  "missing_blocks": [],
+  "triggers": [
+    "GLOBAL |Δ| ≥ 7pt (Δ=+9.17)"
+  ],
+  "triggers_v2": [
+    {
+      "code": "global_delta",
+      "delta": 9.17
+    }
+  ],
+  "region_weights_used": {
+    "NEA": 0.35,
+    "SEA": 0.12,
+    "NA": 0.25,
+    "EU": 0.28
+  }
+}

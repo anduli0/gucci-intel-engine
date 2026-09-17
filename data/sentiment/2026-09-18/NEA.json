@@ -1,0 +1,92 @@
+[
+  {
+    "id": "nea-2026-09-18-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned eyewear campaign write-up with no evaluative verdict from the outlet.",
+    "signal_tags": ["activation_coverage", "campaign", "eyewear"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-09-18-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering press release announcing campaign rollout timing; brand-owned promo copy, not public opinion.",
+    "signal_tags": ["activation_coverage", "press_release", "eyewear"],
+    "confidence": 0.95
+  },
+  {
+    "id": "nea-2026-09-18-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent finance/product commentary frames deep China discounts as damaging resale value and signals volume-over-prestige strategy.",
+    "signal_tags": ["price_discount", "resale_value", "outlet_discount_image"],
+    "confidence": 0.75
+  },
+  {
+    "id": "nea-2026-09-18-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community deal post itemizes discounts and asks readers whether to buy; bargain-hunting discussion, not clear brand opinion.",
+    "signal_tags": ["price_discount", "community_discussion"],
+    "confidence": 0.55
+  },
+  {
+    "id": "nea-2026-09-18-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official ambassador account posting brand-staged pictorial; ambassador appointment/fan coverage capped as activation, not independent opinion.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-09-18-006",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan praise for ambassador fit with brand aesthetic; genuine fandom enthusiasm but damped to mild magnitude per fandom-spike trap.",
+    "signal_tags": ["fandom", "ambassador", "organic_praise"],
+    "confidence": 0.65
+  },
+  {
+    "id": "nea-2026-09-18-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade-press earnings analysis: sequential improvement noted but revenue remains far below 2022 peak; balanced but net negative momentum framing.",
+    "signal_tags": ["earnings", "turnaround_narrative", "trade_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "nea-2026-09-18-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregator restating ambassador appointment news with generic anticipation language; descriptive activation amplification, not independent judgment.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-09-18-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community thread disputes pricing fairness, calling past Korea price hikes price-gouging versus China discounts; value-for-money backlash.",
+    "signal_tags": ["price_policy", "value_for_money", "community_discussion"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-09-18-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical trade explainer ties steep discounting and mass store closures to brand-prestige dilution risk, independent negative judgment.",
+    "signal_tags": ["price_discount", "store_closures", "brand_dilution", "critical_press"],
+    "confidence": 0.75
+  }
+]
