@@ -1,0 +1,65 @@
+[
+  {
+    "id": "eu-2026-09-19-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive eyewear campaign write-up with no outlet evaluative verdict, brand-owned promo activation",
+    "signal_tags": ["activation_coverage", "campaign", "eyewear"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-09-19-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual corporate-governance appointment at group level, no polarity toward Gucci brand",
+    "signal_tags": ["corporate", "leadership", "kering"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-09-19-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Union strike over restructuring layoffs near Gucci's manufacturing heartland signals labor/reputational risk",
+    "signal_tags": ["labor", "controversy", "restructuring"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-09-19-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent consumer-review channel shows sustained complaints on repairs, fees and craftsmanship defects",
+    "signal_tags": ["quality_complaint", "service_complaint", "independent_review"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-09-19-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector community notes inconsistent stitching and peeling on current pieces versus praised vintage quality",
+    "signal_tags": ["quality_complaint", "peer_comparison", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-19-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified resale data shows Gucci trailing Chanel/Hermes/LV in value retention, independent third-party figures",
+    "signal_tags": ["resale_value", "peer_comparison", "quantified_data"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-09-19-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed aggregate discovery feed with styling content and skeptical commentary, no clear net polarity or metrics",
+    "signal_tags": ["sns_discourse", "creative_direction", "mixed_signal"],
+    "confidence": 0.4
+  }
+]

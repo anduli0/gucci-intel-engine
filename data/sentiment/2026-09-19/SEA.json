@@ -1,0 +1,65 @@
+[
+  {
+    "id": "sea-2026-09-19-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Tourism-board press release names Gucci as flagship tenant with no evaluative verdict, purely descriptive third-party promo copy.",
+    "signal_tags": ["retail_tourism", "activation_coverage", "brand_mention"],
+    "confidence": 0.8
+  },
+  {
+    "id": "sea-2026-09-19-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned official X post about ambassador appearances is owned marketing, not public opinion.",
+    "signal_tags": ["brand_owned", "ambassador", "activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "sea-2026-09-19-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual schedule confirmation for upcoming Sept 22 show; no SEA audience reaction exists yet.",
+    "signal_tags": ["schedule", "runway_anticipation", "demna"],
+    "confidence": 0.85
+  },
+  {
+    "id": "sea-2026-09-19-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering CEO flags flattish Q3 growth with Gucci still in decline and China demand weak, a clear negative independent financial signal.",
+    "signal_tags": ["earnings", "momentum", "china_demand", "critical_angle"],
+    "confidence": 0.85
+  },
+  {
+    "id": "sea-2026-09-19-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "McQueen Thailand closure signals Kering group-wide SEA retail contraction, indirect negative context touching Gucci footprint sentiment.",
+    "signal_tags": ["kering_group", "store_footprint", "critical_angle"],
+    "confidence": 0.55
+  },
+  {
+    "id": "sea-2026-09-19-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan showcase video is descriptive fan content with no visible engagement metrics or clear evaluative enthusiasm; damped per fandom trap.",
+    "signal_tags": ["fandom", "ugc", "ambassador", "sns"],
+    "confidence": 0.5
+  },
+  {
+    "id": "sea-2026-09-19-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing superfake/authentication concern thread reflects consumer-trust erosion around counterfeits, a recurring mild-negative signal.",
+    "signal_tags": ["counterfeit", "consumer_trust", "community"],
+    "confidence": 0.6
+  }
+]

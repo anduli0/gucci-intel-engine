@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NA-2026-09-19-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 1.0,
+    "rationale": "Factual earnings analysis; NA momentum is descriptive data point within a still-critical 'not fixed yet' group narrative, not evaluative praise or condemnation",
+    "signal_tags": ["earnings", "north_america_momentum", "critical_context"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-19-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador activation write-up with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-09-19-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci ambassador tie-in became entangled in fan/press backlash during US Open, reputational friction not brand-staged",
+    "signal_tags": ["ambassador", "backlash_adjacent", "critical_angle"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-19-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade analysis: fan skepticism that a struggling brand can buy cultural relevance, explicitly tied to 20%+ sales decline",
+    "signal_tags": ["sponsorship", "critical_angle", "fan_skepticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-19-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Fan-community analysis explicitly frames the F1 deal as a desperate image reset for a commercially weak brand",
+    "signal_tags": ["sponsorship", "critical_angle"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-19-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Persistent consumer complaints on craftsmanship defects, poor service, and value-for-money criticism ('paying for the logo')",
+    "signal_tags": ["quality_complaint", "critical_angle", "consumer_review"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-19-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector forum thread genuinely mixed but described as more critical than official coverage, complaints of derivative design dominate",
+    "signal_tags": ["community_sentiment", "mixed", "critical_angle"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-09-19-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic viral meme with tongue-in-cheek framing; playful internet humor without clear evaluative polarity toward the brand",
+    "signal_tags": ["meme", "organic_virality", "sns"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-09-19-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press balances strategy optimism against pointed reader doubt over authenticity of a struggling brand in racing culture",
+    "signal_tags": ["sponsorship", "critical_angle"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-09-19-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analytical turnaround debate piece, analysts explicitly split with caution against over-reading stabilization; no forced polarity",
+    "signal_tags": ["earnings", "turnaround_debate"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-19-011",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale data shows strong value retention (55-80%) for core bags, independent demand signal",
+    "signal_tags": ["resale_market", "value_retention"],
+    "confidence": 0.75
+  }
+]

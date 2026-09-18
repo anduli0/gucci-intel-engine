@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NEA-2026-09-19-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Steep price cuts reverse Gucci's no-discount norm and are explicitly linked to declining Gucci/APAC revenue and net store closures.",
+    "signal_tags": ["price_cut", "discount_image", "earnings_pressure", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-19-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analytical discussion of price cuts and creative-director debut framed as open question, not a clear verdict; sell-out detail is a minor positive but overall tone is speculative.",
+    "signal_tags": ["price_cut", "creative_director", "analysis_thread"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-19-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Consumer question comparing domestic vs overseas price gap and daigou arbitrage; factual/inquisitive, not an opinion statement.",
+    "signal_tags": ["price_cut", "daigou", "consumer_question"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-19-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Explicit Gen Z criticism that designs are 'increasingly boring', a running discount-only joke, and weak resale value versus peers.",
+    "signal_tags": ["design_criticism", "discount_image", "resale_weakness", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-19-005",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Stray Kids member named global ambassador; genuine positive brand news but damped under fandom-spike trap per rubric.",
+    "signal_tags": ["ambassador", "kpop_fandom", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-19-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering press release describing eyewear campaign; brand-owned promo copy with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "eyewear_campaign", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-19-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive lifestyle-desk write-up of eyewear campaign visuals and product details; no evaluative judgment expressed.",
+    "signal_tags": ["activation_coverage", "eyewear_campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-19-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade analyst report card on Demna's debut show; specific critiques (boring shoes/bags, leggings look cheap) dominate despite a partial positive score, net critical.",
+    "signal_tags": ["design_criticism", "runway_review", "creative_director", "mixed_reception"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-09-19-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Coverage explicitly frames reception as split (pros and cons) between dystopian-direction concern and revitalization praise; genuinely mixed, no net lean.",
+    "signal_tags": ["mixed_reception", "creative_director", "design_criticism"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-19-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual background piece on F1 Alpine sponsorship, outside 14-day freshness window; descriptive business-strategy context, no clear polarity.",
+    "signal_tags": ["sponsorship", "stale_context", "factual"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-19-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer-comparison trap: resale value discussion implicitly acknowledges Gucci holds value worse than Chanel and Hermes after the price cut.",
+    "signal_tags": ["resale_weakness", "peer_comparison", "price_cut"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-19-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Syndicated republish of eyewear campaign announcement; purely descriptive activation coverage, no independent verdict.",
+    "signal_tags": ["activation_coverage", "eyewear_campaign", "syndicated"],
+    "confidence": 0.85
+  }
+]
