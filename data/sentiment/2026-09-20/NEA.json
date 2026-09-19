@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NEA-2026-09-20-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade analysis ties steep China price cuts to Kering H1 revenue decline (-9% YoY) and weak store traffic.",
+    "signal_tags": ["price_cuts", "negative_earnings", "china_market"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-20-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Frames brand overhaul as \"sacrificing a limb to survive\": 40% price cuts and 100+ planned store closures amid uncertainty.",
+    "signal_tags": ["price_cuts", "store_closures", "lost_its_way", "china_market"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-20-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer thread questions whether steep markdowns signal declining brand value rather than a genuine opportunity.",
+    "signal_tags": ["price_cuts", "value_for_money", "consumer_sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-20-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Gen Z calls designs \"increasingly boring,\" running joke about never buying without a discount, underperforms Chanel/Hermes on resale value.",
+    "signal_tags": ["design_criticism", "resale_value", "peer_comparison", "china_market"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-20-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Largely factual Milan Fashion Week schedule preview; Demna show called \"most anticipated\" but overall descriptive trade coverage.",
+    "signal_tags": ["fashion_week_preview", "runway_anticipation"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-20-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own FW26 eyewear campaign with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-20-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador fandom coverage of BTS Jin's campaign jacket selling out in a day; quantified demand but ambassador/fan-driven, capped per fandom trap.",
+    "signal_tags": ["ambassador", "fandom", "sellout", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-20-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Structural analysis of Japan outperforming other regions despite a steep ~24% YoY decline there too; mixed, largely analytical framing.",
+    "signal_tags": ["regional_performance", "japan_market", "negative_earnings"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-20-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Cautious Chinese shoppers question pricing justification, adopt wait-and-see stance, and favor gold over Gucci goods as a value store.",
+    "signal_tags": ["value_for_money", "price_cuts", "peer_comparison", "china_market"],
+    "confidence": 0.8
+  }
+]

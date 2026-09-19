@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-2026-09-20-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity-editorial activation coverage of Dakota Johnson's Vogue shoot, no evaluative verdict from outlet.",
+    "signal_tags": ["activation_coverage", "celebrity_editorial"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-20-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Financial-wire piece frames NA as a watch-point for turnaround proof but comps still negative group-wide; factual, hedged, no clear polarity.",
+    "signal_tags": ["earnings", "investor_sentiment", "north_america_momentum"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-20-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Genuine third-party collector-forum reaction to Demna's runway debut leans positive but mixed, so capped at mild magnitude.",
+    "signal_tags": ["community_reaction", "runway_debut", "handbag_collectors"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-20-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer-comparison trap: creators favor Chanel/Brunello Cucinelli over Gucci in 'overrated' debate, scored negative for Gucci; aggregated discovery content damped to mild.",
+    "signal_tags": ["critical_angle", "overrated_discourse", "peer_comparison"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-20-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring consumer complaints about stitching, hardware and repair service; standing quality/value-for-money theme rather than single headline incident.",
+    "signal_tags": ["critical_angle", "quality_complaint", "customer_service"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-20-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Viral meme boosts mention volume but is brand-name pop-culture buzz, not an opinion about the brand itself.",
+    "signal_tags": ["meme_culture", "buzz_only", "not_sentiment_bearing"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-20-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD trade review is mixed/hedged: an improvement over the prior debut but explicitly not a definitive commercial home run; balanced verdict, no forced polarity.",
+    "signal_tags": ["runway_review", "trade_press", "creative_direction"],
+    "confidence": 0.55
+  }
+]

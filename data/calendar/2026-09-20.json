@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-20",
+  "horizon_days": 60,
+  "items": [
+    {
+      "date": "2026-09-22",
+      "event": "Vogue World: Milano",
+      "brand": "Vogue / Industry",
+      "type": "industry",
+      "why_ko": "밀란 패션위크 개막을 장식하는 초대형 스펙터클 행사로 이탈리아 하우스 전반의 미디어 스포트라이트가 집중되는 시점 — 구찌 쇼(9/25) 직전 여론 온도를 좌우함",
+      "why_en": "Mega spectacle event opening Milan Fashion Week, concentrating global media spotlight on Italian houses right before Gucci's own show on 9/25",
+      "action_ko": "밀란 패션위크 전체 미디어 임팩트 모니터링 개시, 구찌 쇼 대비 SOV 베이스라인 측정",
+      "source": "Vogue Adria",
+      "tier": 1,
+      "url": "https://vogueadria.com/vogue-world-milano-2026-live/"
+    },
+    {
+      "date": "2026-09-22",
+      "event": "Prada Milan Fashion Week SS27 opening show",
+      "brand": "Prada",
+      "type": "show",
+      "why_ko": "밀란 패션위크 SS27 개막 쇼로 프라다가 시즌 톤을 설정 — 구찌 최대 경쟁사 중 하나의 상업/크리에이티브 방향성 선점 관찰 필요",
+      "why_en": "Opens Milan Fashion Week SS27, setting the season's creative tone as a top Gucci competitor",
+      "action_ko": "프라다 쇼 리뷰 익일 경쟁사 벤치마킹 노트 작성, 구찌 쇼 포지셔닝 차별화 포인트 도출",
+      "source": "designscene.net",
+      "tier": 1,
+      "url": "https://www.designscene.net/2026/07/milano-fashion-week-ss27.html"
+    },
+    {
+      "date": "2026-09-23",
+      "event": "Jil Sander Milan Fashion Week SS27 show",
+      "brand": "Jil Sander",
+      "type": "show",
+      "why_ko": "미니멀리즘 경쟁 축의 시즌 방향성 확인 — 구찌의 맥시멀리즘 노선과 대조되는 포지셔닝 참고 자료",
+      "why_en": "Minimalist-camp direction check, a useful contrast point against Gucci's maximalist repositioning under Demna",
+      "action_ko": "경쟁 무드보드 비교 자료에 반영, 구찌 SS27 쇼 프레젠테이션 톤 최종 점검",
+      "source": "designscene.net",
+      "tier": 2,
+      "url": "https://www.designscene.net/2026/07/milano-fashion-week-ss27.html"
+    },
+    {
+      "date": "2026-09-25",
+      "event": "Gucci Milan Fashion Week SS27 runway show",
+      "brand": "Gucci",
+      "type": "show",
+      "why_ko": "뎀나 취임 후 두 번째 인빈시블 런웨이 쇼 — 데뷔 쇼(2026-02-27) 이후 상업 전환(라 파밀리아 즉시 판매) 성과를 검증받는 핵심 분수령, 미디어·평단·매출 반응이 향후 12개월 브랜드 방향을 좌우",
+      "why_en": "Demna's second in-person runway show for Gucci, the key test of whether the commercial reset launched after his February debut (La Famiglia see-now-buy-now) is translating into sustained momentum",
+      "action_ko": "쇼 종료 후 T+24h 미디어·SNS 반응 플래시 리포트 실행, T+72h 내 리테일 트래픽·판매 데이터 연동 점검",
+      "source": "WWD",
+      "tier": 1,
+      "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/"
+    },
+    {
+      "date": "2026-09-25~2026-10-12",
+      "event": "Gucci 'La Famiglia' 후속 캡슐 컬렉션 리테일 전개 (10개 매장 한정)",
+      "brand": "Gucci",
+      "type": "launch",
+      "why_ko": "쇼 직후 즉시 구매(see-now-buy-now) 전략의 2탄 — 뉴욕·베이징·서울·도쿄 등 10개 플래그십 매장 한정 판매로 지역별 초기 반응 데이터를 확보할 결정적 기회",
+      "why_en": "Second wave of the see-now-buy-now retail strategy, limited to 10 global flagship stores including Seoul and Tokyo — critical window to capture region-specific early demand signals",
+      "action_ko": "서울·도쿄 매장 재고 소진 속도 및 VIP 반응 실시간 트래킹, 지역 마케팅팀과 즉시 데이터 공유",
+      "source": "Gucci / X (official)",
+      "tier": 1,
+      "url": "https://x.com/gucci/status/1970037721600295364"
+    },
+    {
+      "date": "2026-09-25",
+      "event": "Bottega Veneta Milan Fashion Week SS27 show",
+      "brand": "Bottega Veneta (Kering)",
+      "type": "show",
+      "why_ko": "케링 계열 자매 브랜드가 구찌와 같은 날 쇼 진행 — 그룹 내 미디어 자원 배분 및 SOV 경쟁 이슈 발생 가능",
+      "why_en": "Same-day show as Gucci from Kering sibling brand Bottega Veneta, raising potential internal media-resource and share-of-voice competition",
+      "action_ko": "그룹 PR 캘린더 조율 확인, 당일 SOV 분산 리스크 사전 점검",
+      "source": "hypebeast.com",
+      "tier": 2,
+      "url": "https://hypebeast.com/2025/7/milan-fashion-week-spring-2026-schedule-gucci-demna-dario-vitale-versace-louise-trotter-jil-sander-simone-belloti-bottega-veneta-info"
+    },
+    {
+      "date": "2026-09-28~2026-10-06",
+      "event": "Paris Fashion Week SS27 (여성 컬렉션)",
+      "brand": "Multi-brand (Dior, Chanel, Saint Laurent, Balenciaga, Louis Vuitton 등)",
+      "type": "show",
+      "why_ko": "LVMH·케링 산하 최대 경쟁 하우스가 총출동하는 시즌 최대 이벤트 — 디올(9/30), 생로랑(9/30), 샤넬(10/3), 발렌시아가(10/4), 루이비통(10/6) 등 크리에이티브 방향과 셀럽 캐스팅이 구찌의 SOV를 직접 잠식할 수 있는 구간",
+      "why_en": "The season's largest competitive event with nearly every major LVMH/Kering house showing — Dior, Saint Laurent, Chanel, Balenciaga, Louis Vuitton — each capable of eroding Gucci's share of voice through celebrity casting and creative buzz",
+      "action_ko": "파리 기간 전체 경쟁사 SOV 일일 트래킹, 구찌 언급량 하락 구간 식별 시 리액티브 콘텐츠 배포",
+      "source": "Complex / FHCM",
+      "tier": 1,
+      "url": "https://www.complex.com/style/a/will-lavin/paris-fashion-week-ss27-women-schedule-2026"
+    },
+    {
+      "date": "2026-10-20",
+      "event": "LVMH 2026년 3분기 매출 발표",
+      "brand": "LVMH",
+      "type": "earnings",
+      "why_ko": "최대 경쟁 그룹 LVMH의 3분기 실적 — 중국 및 미국 수요 회복 여부가 케링·구찌의 업계 내 상대적 포지션 평가에 참조 지표로 활용됨 (컨센서스 추정일, 공식 확정 전 미확정)",
+      "why_en": "LVMH Q3 revenue release — China/US demand trends here serve as a benchmark for evaluating Kering/Gucci's relative position (consensus estimate date, unconfirmed pending official calendar)",
+      "action_ko": "발표 직후 애널리스트 콜 코멘터리 요약, 구찌 관련 비교 언급 여부 모니터링",
+      "source": "Investing.com estimate",
+      "tier": 2,
+      "url": "https://www.investing.com/equities/l.v.m.h.-earnings"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "Hermès 2026년 3분기 매출 발표",
+      "brand": "Hermès",
+      "type": "earnings",
+      "why_ko": "울트라 럭셔리 세그먼트의 견고함을 보여주는 헤르메스 실적 — 소비 심리 저점 여부를 가늠하는 선행 지표로, 구찌의 프라이싱·헤리티지 전략 논의에 참고",
+      "why_en": "Hermès Q3 revenue signals resilience of ultra-luxury demand, a leading indicator for whether consumer sentiment has bottomed — relevant to Gucci pricing and heritage strategy debates",
+      "action_ko": "헤르메스 실적 발표 직후 럭셔리 수요 트렌드 요약 메모 작성 및 GMAI 해석 리포트에 반영",
+      "source": "Hermès Finance",
+      "tier": 1,
+      "url": "https://finance.hermes.com/en/publications/first-quarter-2026-revenue/"
+    },
+    {
+      "date": "2026-10-29",
+      "event": "Kering 2026년 3분기 매출 발표",
+      "brand": "Kering (Gucci 모기업)",
+      "type": "earnings",
+      "why_ko": "구찌를 포함한 케링 그룹 3분기 매출 발표 — 뎀나 체제 첫 전체 분기 실적이 반영되는 첫 리포트로, 구찌 매출 반등 여부가 시장의 직접적 평가 대상이 됨 (일부 소스 간 날짜 상이, 공식 확정 전 미확정)",
+      "why_en": "Kering group Q3 revenue including Gucci — the first quarterly report to fully reflect the Demna era, making Gucci's revenue trajectory the market's central focus (date varies across sources, unconfirmed pending official IR calendar)",
+      "action_ko": "실적 발표 D-3부터 투자자 커뮤니케이션 메시지 정렬, 발표 당일 애널리스트 Q&A 실시간 대응 체계 가동",
+      "source": "Investing.com / MarketScreener",
+      "tier": 1,
+      "url": "https://www.investing.com/equities/kering-earnings"
+    },
+    {
+      "date": "2026-11-02",
+      "event": "CFDA Fashion Awards 2026 (American Museum of Natural History)",
+      "brand": "Multi-brand / Industry",
+      "type": "industry",
+      "why_ko": "미국 패션계 최대 시상식으로 레드카펫 노출과 셀럽 캐스팅이 럭셔리 브랜드 인지도에 직접 영향 — 구찌 앰버서더 참석 및 착장 여부가 핵심 관찰 포인트",
+      "why_en": "The top US fashion awards ceremony with major red-carpet exposure — Gucci ambassador attendance and styling choices are the key watch items",
+      "action_ko": "레드카펫 착장 리스트 사전 조율, 당일 실시간 SOV 트래킹 및 T+24h 반응 리포트",
+      "source": "CFDA",
+      "tier": 1,
+      "url": "https://cfda.com/news/save-the-date-the-cfda-fashion-awards-presented-by-amazon-fashion-are-set-for-nov-2/"
+    },
+    {
+      "date": "2026-11-13",
+      "event": "Richemont 2026 회계연도 중간 실적 발표",
+      "brand": "Richemont",
+      "type": "earnings",
+      "why_ko": "주얼리·워치 세그먼트 강자 리치몬트의 실적으로 하드 럭셔리 수요 트렌드를 보여주는 참고 지표 — 구찌 주얼리/워치 카테고리 확장 전략 논의에 참조",
+      "why_en": "Richemont's interim results offer a read on hard-luxury (jewelry/watch) demand, relevant context for Gucci's own jewelry and watch category expansion",
+      "action_ko": "하드 럭셔리 세그먼트 트렌드를 럭셔리 브리프에 반영, 구찌 주얼리 라인 벤치마킹 자료 업데이트",
+      "source": "Richemont",
+      "tier": 2,
+      "url": "https://www.richemont.com/news-media/press-releases-news/richemont-delivers-strong-sales-growth-and-solid-results-for-the-year-ended-31-march-2026/"
+    }
+  ]
+}

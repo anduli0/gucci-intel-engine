@@ -1,0 +1,101 @@
+[
+  {
+    "id": "eu-2026-09-20-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-styling churnalism with no independent evaluative verdict, low-tier volume signal only.",
+    "signal_tags": ["celebrity_styling", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "eu-2026-09-20-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual schedule confirmation ahead of the show, no evaluative content.",
+    "signal_tags": ["schedule", "forward_looking"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-09-20-003",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent T1 trade press reports quantified market reaction: Kering shares surged 15% on Gucci Q2 beat.",
+    "signal_tags": ["earnings", "quantified_demand", "independent_judgment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-09-20-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Price-cut story built on CEO's admission prices were pushed 'too high', a value-for-money / prior-overpricing narrative.",
+    "signal_tags": ["price_narrative", "value_for_money", "ceo_admission"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-20-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent community thread reports stitching, hardware tarnish and zipper failures, partially offset by mitigating counter-comments.",
+    "signal_tags": ["quality_complaint", "community_signal"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-20-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Rolling independent review feed skews negative on repairs, fees and craftsmanship defects.",
+    "signal_tags": ["quality_complaint", "aftersales", "community_signal"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-09-20-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade outlet reports new-collection resale discounted 30-70% while only legacy archive pieces hold value, signaling soft demand for current product.",
+    "signal_tags": ["resale_signal", "quantified_demand", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-20-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregate TikTok discovery feed mixes anticipation and skepticism with no net clear verdict and no accessible engagement counts.",
+    "signal_tags": ["sns_aggregate", "mixed_reaction", "low_confidence"],
+    "confidence": 0.35
+  },
+  {
+    "id": "eu-2026-09-20-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent industry commentary delivers clear critical verdict that AI-generated campaign imagery undermines credibility of a house charging premium prices.",
+    "signal_tags": ["ai_backlash", "credibility_criticism", "independent_judgment"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-09-20-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram teaser is activation coverage discounted to neutral; comment split not an independent verdict.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-09-20-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 outlet CNN delivers sustained critical examination of whether AI-generated marketing undermines Gucci's craftsmanship narrative.",
+    "signal_tags": ["ai_backlash", "credibility_criticism", "independent_judgment", "T1"],
+    "confidence": 0.8
+  }
+]

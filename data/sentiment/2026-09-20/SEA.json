@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SEA-20260920-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual report on Chanel's own art partnership in Thailand; Gucci not mentioned, no evaluative content about Gucci",
+    "signal_tags": ["competitor_activity", "cultural_marketing", "not_about_gucci"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-20260920-02",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Corroborating factual coverage of Chanel's art commission; mentions Gucci only as a peer competing via ambassadors, no judgment on Gucci",
+    "signal_tags": ["competitor_activity", "cultural_marketing", "peer_comparison_neutral"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-20260920-03",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade roundup on Chanel/Dior cultural-patronage pivot; Gucci not mentioned in the piece itself, only in collector's framing note, so no direct sentiment toward Gucci",
+    "signal_tags": ["competitor_activity", "cultural_marketing", "not_about_gucci", "industry_trend"],
+    "confidence": 0.8
+  }
+]
