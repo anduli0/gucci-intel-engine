@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SEA-20260921-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive mall/retailer activation listing for a fragrance pop-up, no evaluative verdict.",
+    "signal_tags": [
+      "activation_coverage",
+      "beauty",
+      "retail_pop_up"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-20260921-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Q2 stabilization is overshadowed by explicit fresh September demand headwinds with APAC/SEA named the softest region.",
+    "signal_tags": [
+      "earnings",
+      "momentum_press",
+      "apac_weakness",
+      "trade_press"
+    ],
+    "confidence": 0.65
+  }
+]

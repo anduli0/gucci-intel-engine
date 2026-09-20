@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NEA-2026-09-21-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Steep official price cuts on bestsellers tied to weak Kering results signal eroding pricing power and prestige.",
+    "signal_tags": ["price_cut", "prestige_erosion", "earnings_link"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-21-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade analysis presents explicitly polarized consumer views on repricing with no net verdict.",
+    "signal_tags": ["price_cut", "mixed_sentiment", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-21-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Store closure as part of a wider retail-footprint contraction is a negative momentum signal, reported factually.",
+    "signal_tags": ["store_closure", "retail_contraction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-21-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive product-launch write-up with no evaluative verdict from the outlet.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-21-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Japan growth framed as a byproduct of price-hike fatigue diverting demand elsewhere, not organic brand strength -- mixed, not clean positive.",
+    "signal_tags": ["regional_divergence", "price_hike_fatigue", "trade_press"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-21-006",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador campaign item sold out in a day -- genuine quantified demand signal, but damped as an ambassador fandom spike.",
+    "signal_tags": ["ambassador", "fandom_spike", "sellout", "purchase_intent"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-09-21-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard descriptive eyewear campaign coverage with no critical framing.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-21-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Consumer thread genuinely split between reading price cuts as opportunity vs. prestige decline.",
+    "signal_tags": ["price_cut", "mixed_sentiment", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-21-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Gen Z calls designs 'increasingly boring' and notes Gucci lags Chanel/Hermes on resale value -- design criticism plus peer comparison negative for Gucci.",
+    "signal_tags": ["design_criticism", "peer_comparison", "resale_value", "gen_z"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-21-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Named a value-for-money pick but explicitly 'not dominant' versus top-tier trio -- mixed mindshare signal.",
+    "signal_tags": ["peer_comparison", "mindshare", "community"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-09-21-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual listing of rare price cuts with explicitly minimal engagement (0 likes/comments) at capture.",
+    "signal_tags": ["price_cut", "low_engagement", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-09-21-012",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan-account praise for campaign aesthetics -- positive fandom-driven engagement, damped as a fan spike.",
+    "signal_tags": ["fandom_spike", "campaign_praise", "sns"],
+    "confidence": 0.55
+  }
+]

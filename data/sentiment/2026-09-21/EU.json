@@ -1,0 +1,115 @@
+[
+  {
+    "id": "eu-2026-09-21-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Balanced trade-press preview framing Sept 25 show as a test/bellwether with open questions, no independent verdict rendered yet.",
+    "signal_tags": [
+      "runway_preview",
+      "trade_press"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-09-21-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Straight scheduling/service journalism confirming show slot, no evaluative content.",
+    "signal_tags": [
+      "scheduling",
+      "trade_press"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-09-21-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Neutral financial-market reporting on stock holding steady while investors await recovery confirmation.",
+    "signal_tags": [
+      "financial_press",
+      "stock"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-09-21-005",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent critic essay argues Demna's cautious approach reflects a 'luxury identity crisis', explicit design-direction criticism from low-reach community outlet.",
+    "signal_tags": [
+      "design_criticism",
+      "lost_its_way",
+      "community"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-09-21-006",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Comment thread explicitly split between praise for tailoring and 'plays it safe' criticism; unresolved polarity and unverifiable engagement counts.",
+    "signal_tags": [
+      "sns",
+      "split_reaction",
+      "runway"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "id": "eu-2026-09-21-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Outlet explicitly frames online reaction as 'divided' between fans and critics, no net polarity to assign.",
+    "signal_tags": [
+      "celebrity_styling",
+      "split_reaction"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-09-21-008",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing collector-community thread on stitching/hardware quality complaints, tempered by some members reporting satisfactory repairs.",
+    "signal_tags": [
+      "quality_complaint",
+      "community"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-21-009",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Historic Paris flagship lease non-renewal amid rent dispute, part of broader ~275-store closure/footprint-rationalization narrative.",
+    "signal_tags": [
+      "store_footprint",
+      "retail_rationalization"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-21-011",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recap of 2026 sales slump plus continuing AI-imagery backlash undermining perceived craftsmanship authenticity.",
+    "signal_tags": [
+      "negative_momentum",
+      "ai_backlash",
+      "design_criticism"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-09-21-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Wire-service factual background report on February debut show, kept as reference anchor, no new evaluative content.",
+    "signal_tags": [
+      "wire_service",
+      "background"
+    ],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-21",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "Gucci 및 data/sources/pool.json competitor_set 8개 브랜드 전원에 대해 동일한 중립 쿼리 템플릿('<브랜드> news' / '<브랜드> 뉴스' / '<ブランド> ニュース' / actualité / notizie)을 지역별로 1회씩 실행함",
+    "모든 브랜드에 동일한 검색 횟수(지역당 1회 1차 검색 + 날짜 정밀화 검색)와 동일한 스캔 깊이(검색결과 상위 약 9~10건)를 적용함 — 특정 브랜드를 더 깊게 파지 않음",
+    "집계 기간은 발행일이 확인 가능한 최근 7일(2026-09-14~09-21) 이내 기사로 제한함; 날짜 불명확 기사는 제외함",
+    "쇼핑몰 상품페이지, 태그/아카이브 목록페이지, 위키백과, 주가시세 티커 페이지, 브랜드 공식 이커머스 페이지는 집계에서 제외함",
+    "동일 사건을 다룬 복수 매체 기사는 매체가 다르면 각각 별개 기사로 계수하되, 동일 매체 내 중복 게재물은 1건으로 계수함",
+    "NEA는 한국어(1차) 및 일본어(교차확인) 쿼리를 사용했으며, 날짜가 명확히 확인된 한국어 매체 결과를 기준으로 계수함",
+    "SEA는 Tatler Asia 등 지역 매체 쿼리를 실행했으나 반환된 결과가 대부분 프로모션성 구舊기사/이벤트 아카이브로 최근 7일 이내 편집 기사를 명확히 특정할 수 없어 이번 회차는 측정 불가로 처리하고 region 키를 생략함",
+    "브랜드가 실제로 보도량이 많으면 그 값을 그대로 기록하며 인위적 평탄화(스무딩)를 하지 않음; 0건도 정직하게 기록함"
+  ],
+  "criteria_en": [
+    "Ran the identical neutral query template ('<brand> news' / Korean / Japanese / French / Italian equivalents) once per region for Gucci and all 8 brands in data/sources/pool.json competitor_set",
+    "Applied identical search count (one primary + one date-precision search per region) and identical scan depth (~top 9-10 results) per brand — never searched one brand more deeply than another",
+    "Restricted counting to articles with a confirmable publish date within roughly the last 7 days (2026-09-14 to 2026-09-21); undated items were excluded",
+    "Excluded shopping/product listing pages, tag/archive index pages, Wikipedia, stock-ticker pages, and brand official e-commerce pages",
+    "Distinct outlets covering the same event were each counted; duplicate postings within the same outlet counted once",
+    "NEA used Korean (primary) and Japanese (cross-check) queries; counts are based on Korean-language results with confirmable dates",
+    "SEA queries (Tatler Asia etc.) returned mostly promotional/archival event coverage without confirmable 7-day recency, so SEA could not be reliably measured this cycle and the region key is omitted",
+    "Genuine differences in coverage volume were recorded honestly, including zeros, with no normalization or smoothing"
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 1,
+      "Louis Vuitton": 0,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 0,
+      "Bottega Veneta": 3,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 0,
+      "Louis Vuitton": 2,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 1,
+      "Bottega Veneta": 2,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 2
+    },
+    "EU": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 2,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["네이트뉴스"],
+        "examples": [
+          {"title": "구찌, 2026 가을·겨울 아이웨어 새 시선", "url": "https://m.news.nate.com/view/20260917n39560"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": [],
+        "examples": []
+      },
+      "Dior": {
+        "outlets": ["네이트뉴스"],
+        "examples": [
+          {"title": "디올, 조나단 앤더슨 감성 담은 '프로메나드 쇼퍼 백' 선봬", "url": "https://m.news.nate.com/view/20260915n20192"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["더블유 코리아 (W Korea)"],
+        "examples": [
+          {"title": "샤넬의 수트와 재킷이 달라졌다", "url": "https://www.wkorea.com/2026/09/16/%EC%83%A4%EB%84%AC%EC%9D%98-%EC%88%98%ED%8A%B8%EC%99%80-%EC%9E%AC%ED%82%B7%EC%9D%B4-%EB%8B%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4"}
+        ]
+      },
+      "Prada": {
+        "outlets": [],
+        "examples": []
+      },
+      "Bottega Veneta": {
+        "outlets": ["서울신문", "파이낸셜뉴스", "네이트뉴스"],
+        "examples": [
+          {"title": "보테가 베네타, 브랜드 글로벌 앰버서더에 배우 송혜교 위촉", "url": "https://www.seoul.co.kr/news/economy/2026/09/18/20260918500231"},
+          {"title": "보테가 베네타, 송혜교 글로벌 앰버서더 발탁...\"추구하는 가치 같다\"", "url": "https://www.fnnews.com/news/202609181600576611"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": [],
+        "examples": []
+      },
+      "Balenciaga": {
+        "outlets": [],
+        "examples": []
+      },
+      "Burberry": {
+        "outlets": [],
+        "examples": []
+      }
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": [],
+        "examples": []
+      },
+      "Louis Vuitton": {
+        "outlets": ["WWD", "Design Scene"],
+        "examples": [
+          {"title": "Louis Vuitton Nods to Space in Fall 2026 Menswear Campaign", "url": "https://wwd.com/fashion-news/fashion-scoops/louis-vuitton-fall-2026-campaign-pharrell-williams-space-1239058071/"},
+          {"title": "Louis Vuitton Flight Mode Fall Winter 2026 Takes the Train", "url": "https://www.designscene.net/2026/09/louis-vuitton-flight-mode-fw26.html"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["BeautyVelle"],
+        "examples": [
+          {"title": "Sneak Peek! DIOR Holiday 2026 Limited-Edition Couture Eyeshadow Palette", "url": "https://beautyvelle.com/2026/09/20/sneak-peek-dior-holiday-2026-limited-edition-couture-eyeshadow-palette/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["Miami Living Magazine"],
+        "examples": [
+          {"title": "Chanel Unveils New Fragrance and Skincare Launches for September 2026", "url": "https://www.miamilivingmagazine.com/post/chanel-unveils-new-fragrance-and-skincare-launches-for-september-2026"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Prada to Open Milan Fashion Week in September 2026", "url": "https://wwd.com/fashion-news/fashion-features/prada-moschino-debut-milan-fashion-week-september-2026-calendar-1239080481/"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["Design Scene", "The Zoe Report"],
+        "examples": [
+          {"title": "Bottega Veneta Presents Winter 2026 Through Eight Lenses", "url": "https://www.designscene.net/2026/09/bottega-veneta-winter-2026-campaign.html"},
+          {"title": "Bottega Veneta's Fall/Winter 2026 Collection Doubled Down On Statement Coats", "url": "https://www.thezoereport.com/fashion/bottega-venetas-fall/winter-2026-show-review"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": [],
+        "examples": []
+      },
+      "Balenciaga": {
+        "outlets": [],
+        "examples": []
+      },
+      "Burberry": {
+        "outlets": ["ad-hoc-news"],
+        "examples": [
+          {"title": "Burberry stock gains as FTSE rally lifts luxury group", "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/burberry-stock-gains-as-ftse-rally-lifts-luxury-group/70118934"},
+          {"title": "Burberry stock slips after HSBC cuts its target", "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/burberry-stock-slips-after-hsbc-cuts-its-target/70129700"}
+        ]
+      }
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": [],
+        "examples": []
+      },
+      "Louis Vuitton": {
+        "outlets": [],
+        "examples": []
+      },
+      "Dior": {
+        "outlets": [],
+        "examples": []
+      },
+      "Chanel": {
+        "outlets": [],
+        "examples": []
+      },
+      "Prada": {
+        "outlets": ["Il Fatto Quotidiano", "MilanoFinanza"],
+        "examples": [
+          {"title": "Milano Fashion Week 2026, il calendario delle sfilate e degli eventi in programma dal 22 al 28 settembre", "url": "https://www.ilfattoquotidiano.it/2026/09/16/milano-fashion-week-2026-il-calendario-delle-sfilate-e-degli-eventi-in-programma-dal-22-al-28-settembre-il-confronto-con-new-york-e-londra-mentre-il-settore-perde-fatturato-ed-export/8508373/"},
+          {"title": "Prada aprirà per la prima volta la fashion week di settembre", "url": "https://www.milanofinanza.it/fashion/prada-aprira-per-la-prima-volta-la-fashion-week-di-settembre-202607231742552367"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": [],
+        "examples": []
+      },
+      "Saint Laurent": {
+        "outlets": [],
+        "examples": []
+      },
+      "Balenciaga": {
+        "outlets": [],
+        "examples": []
+      },
+      "Burberry": {
+        "outlets": [],
+        "examples": []
+      }
+    }
+  },
+  "notes": {
+    "SEA": "측정 불가 — Tatler Asia 등 SEA 매체 대상 대칭 검색을 8개 브랜드 전원에 동일하게 실행했으나, 반환된 결과가 대부분 프로모션 이벤트/구 기사 아카이브였고 최근 7일 이내로 날짜가 명확히 확인되는 편집 기사를 어느 브랜드에서도 특정할 수 없어 이번 회차는 region 키를 생략함. (SoV not measurable this cycle — omitted per protocol rather than estimated.)"
+  }
+}

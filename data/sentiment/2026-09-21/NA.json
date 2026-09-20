@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-2026-09-21-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "T1 trade-press preview corroborates turnaround-skepticism ahead of SS27 show despite NA bright-spot framing",
+    "signal_tags": ["turnaround_skepticism", "trade_press", "milan_preview"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-21-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive interview/background piece with designer's own quotes, no independent evaluative verdict",
+    "signal_tags": ["background_context", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-21-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community roundup genuinely split between praise and harsh criticism of the same show; no clear net polarity",
+    "signal_tags": ["community_reaction", "divided_sentiment"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-09-21-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregated TikTok discovery content mixes enthusiasm and overrated-vs-peers skepticism; too ambiguous to force polarity",
+    "signal_tags": ["critical_angle", "overrated_discourse", "peer_comparison"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-21-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring first-hand complaints on repair delays, leather cracking, and poor customer service signal genuine quality-for-price dissatisfaction",
+    "signal_tags": ["critical_angle", "quality_complaint", "customer_service"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-21-006",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent T1 financial reporting of narrowing comparable-sales decline with NA retail momentum cited by CEO is quantified third-party evidence",
+    "signal_tags": ["earnings", "north_america_momentum", "turnaround"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-21-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Meme/fan-art buzz explicitly not sentiment-bearing, logged as volume only",
+    "signal_tags": ["meme_culture", "buzz_only"],
+    "confidence": 0.7
+  }
+]
