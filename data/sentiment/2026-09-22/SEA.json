@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SEA-20260922-01",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent SEA fashion-press review praises styling but frames it within an unresolved innovate-vs-repackage debate, tempering the positive.",
+    "signal_tags": ["runway_review", "creative_direction", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-20260922-02",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press reports quantified analyst verdict (7.6/10, net-positive) on Demna's debut, directly tied to Kering turnaround narrative.",
+    "signal_tags": ["runway_review", "analyst_rating", "trade_press", "investor_sentiment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-20260922-03",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD's own critics' runway review gives favorable independent judgment on sharper, more defined creative direction under Demna.",
+    "signal_tags": ["runway_review", "creative_direction", "trade_press"],
+    "confidence": 0.85
+  }
+]

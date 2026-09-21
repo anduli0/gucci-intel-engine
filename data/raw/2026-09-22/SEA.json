@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "SEA-20260922-01",
+      "region": "SEA",
+      "source": "Harper's Bazaar Singapore",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.harpersbazaar.com.sg/fashion/runway/gucci-fall-winter-2026-review",
+      "published_at": "2026-09-21",
+      "title": "Demna Gives A Lesson In Sex Education At Gucci Fall/Winter 2026",
+      "summary": "Singapore edition of Harper's Bazaar reviews Demna's runway debut for Gucci Fall/Winter 2026 at Milan Fashion Week, describing a body-conscious, sexed-up direction (mini dresses, low-rise trousers, fitted tailoring) that recalibrates rather than reinvents the house archive. The review is largely descriptive/positive on styling but situates the collection within a broader industry debate over whether Demna is truly innovating or repackaging Tom Ford-era Gucci.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-20260922-02",
+      "region": "SEA",
+      "source": "WWD",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://wwd.com/fashion-news/designer-luxury/gucci-show-demna-reaction-bernstein-1238640197/",
+      "published_at": "2026-09-22",
+      "title": "Demna's Runway Debut at Gucci Was 'More Good Than Bad,' Says Bernstein",
+      "summary": "WWD reports Bernstein luxury analyst Luca Solca's assessment of Demna's first Gucci runway show (Fall/Winter 2026, Milan), scoring the collection 7.6/10 and calling reactions a mixed but net-positive set. Relevant to SEA as regional trade and investor watchers track whether the show supports the Kering turnaround narrative directly affecting APAC/SEA store investment and pricing.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-20260922-03",
+      "region": "SEA",
+      "source": "WWD",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://wwd.com/runway/fall-2026/milan/gucci/review/",
+      "published_at": "2026-09-21",
+      "title": "Gucci Fall 2026 Ready to Wear Runway, Fashion Show & Collection Review",
+      "summary": "WWD's runway review of Demna's Gucci Fall 2026 show at Milan Fashion Week describes a structured, controlled, more defined vision replacing the transitional seasons since Alessandro Michele's exit, with sharper proportions and restrained volumes. Serves as the primary trade-press record that regional SEA press (Harper's Bazaar SG, L'Officiel) is reacting to.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 3,
+    "Louis Vuitton": 0,
+    "Dior": 0,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-09-22",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "밀라노 패션위크 개막, 뎀나의 두 번째 구찌 기성복 컬렉션은 9월 25일로 확정",
+      "summary": "9월 22일 개막한 밀라노 패션위크(SS27, 물리적 쇼는 22~27일 진행)에서 구찌는 9월 25일 오후 2시(현지시간) 뎀나의 두 번째 레디투웨어 컬렉션을 공개할 예정이다. 2월 데뷔쇼 이후 두 번째 시즌으로, 업계는 이번 쇼를 뎀나식 구찌 해석이 정착되고 있는지 가늠하는 지표로 보고 있다.",
+      "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-22",
+      "why_it_matters": "패션위크 개막일에 쇼 일정이 확정되며 업계 관심이 재점화됐으나, 실제 쇼는 사흘 뒤로 오늘 자체는 예고 단계에 머문다는 점에 유의해야 한다.",
+      "why_it_matters_en": "Milan Fashion Week's opening day confirms Gucci's show slot, but the actual runway event is still three days out — today is anticipation, not the verdict.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "구찌, AI 생성 이미지 사용으로 소셜미디어 반발 지속",
+      "summary": "구찌가 밀라노 프리마베라 쇼를 앞두고 'Created with AI' 표기가 붙은 AI 생성 프로모션 이미지를 게시하면서 논란이 일었다. 최저가 핸드백이 850달러, 최고가는 1만 달러에 달하는 브랜드가 제작비 절감을 위해 AI를 활용한다는 점에 대한 신뢰성 문제 제기가 이어지고 있다.",
+      "url": "https://news.designrush.com/gucci-ai-ads-backlash-denma-milan-primavera-show",
+      "source": "DesignRush",
+      "tier": "T2_trade",
+      "published_at": "2026-02",
+      "why_it_matters": "장인정신을 핵심 가치로 내세우는 브랜드가 AI 생성 이미지를 쓴다는 모순은 뎀나 체제 초반 신뢰성 리스크로 작용하며, 패션위크 시즌마다 재소환될 가능성이 있다.",
+      "why_it_matters_en": "The contradiction between Gucci's craftsmanship positioning and its use of AI-generated imagery is a credibility risk for the early Demna era, and likely to resurface each fashion week cycle.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "케링 주가, 구찌 주도 회복 기대 속 안정세 유지",
+      "summary": "9월 중순 기준 케링 주가는 유로넥스트 파리에서 대체로 안정적인 흐름을 보이고 있으며, 투자자들은 구찌 회생 전략이 향후 성장으로 이어질지 예의주시하고 있다. 2분기 깜짝 실적으로 주가가 15% 급등했던 7월과 달리, 최근에는 새로운 실적 데이터를 기다리며 관망하는 분위기다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-holds-steady-as-investors-look-to-gucci-led-recovery/70095491",
+      "source": "ad-hoc-news",
+      "tier": "T2_trade",
+      "published_at": "2026-09-13",
+      "why_it_matters": "주가가 안정권에서 움직인다는 것은 2분기의 긍정적 서프라이즈가 아직 지속적 리레이팅으로 이어지지 않았다는 뜻으로, 3분기 실적 발표 전까지는 시장이 판단을 유보하고 있다는 신호다.",
+      "why_it_matters_en": "A steady share price shows the Q2 positive surprise has not yet become a sustained re-rating; the market is withholding judgment until the next quarterly print.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "profile",
+      "headline": "보그 필리핀, 뎀나의 '구찌버스' 재건 전략 심층 프로필 게재",
+      "summary": "보그 필리핀은 2026년 9월 발행 기사에서 뎀나가 구찌에서 추구하는 비전을 조명했다. 뎀나는 '나의 구찌 비전은 시크함, 우아함, 이탈리안다움이 만드는 포모(FOMO)를 만드는 것'이라 언급했으며, 제너레이션 구찌 캠페인과 '라 파밀리아' 컬렉션이 그 실천 사례로 다뤄졌다.",
+      "url": "https://vogue.ph/fashion/designer-profile/inside-demnas-gucciverse-september-2026/",
+      "source": "Vogue Philippines",
+      "tier": "T2_by_region",
+      "published_at": "2026-09",
+      "why_it_matters": "에디토리얼 프로필이 늘어나는 것은 업계 담론에서 뎀나의 서사가 확산되고 있음을 보여주지만, 이는 매체의 편집 콘텐츠이지 소비자 반응 데이터가 아니라는 구분이 필요하다.",
+      "why_it_matters_en": "A growing wave of editorial profiles shows Demna's narrative gaining traction in trade discourse, but this is press coverage, not consumer sentiment data.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "구찌, 휴스턴 갤러리아에 텍사스 최대 규모급 2층 매장 오픈",
+      "summary": "구찌는 휴스턴 갤러리아에 1만1천 평방피트 규모의 2층 신규 매장을 열며 텍사스 내 입지를 확장했다. 이는 케링의 '매장 축소·밀도 강화' 전략 발표 이후에도 특정 핵심 상권에서는 대형 매장 투자를 이어가고 있음을 보여준다.",
+      "url": "https://houston.culturemap.com/news/fashion/gucci-new-store-houston-galleria/",
+      "source": "CultureMap Houston",
+      "tier": "T2_by_region",
+      "published_at": "2026-08",
+      "why_it_matters": "매장망 3분의 2를 리뉴얼·축소한다는 그룹 전략과 별개로 핵심 상권에는 대형 투자를 지속하는 것은, 구찌가 '선택과 집중'을 통해 소수 거점에 자원을 몰아주는 전략을 취하고 있음을 시사한다.",
+      "why_it_matters_en": "Even as the group plans to shrink two-thirds of Gucci's store network, continued large-format investment in a top-tier market like Houston suggests a selective concentration strategy rather than blanket retreat.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "legal",
+      "headline": "구찌 아메리카, 위조품 판매업체 상대 900만 달러 배상 평결 확보 (연속 후속 보도)",
+      "summary": "구찌 아메리카가 온라인 위조품 판매자들을 상대로 900만 달러 배상 평결과 영구금지명령을 받아낸 건이 지식재산권 전문 매체를 통해 지속 보도되고 있다. 로드앤테일러, 센추리21 등을 상대로 한 이전 소송들과 함께 위조품 단속 패턴의 일부로 다뤄지는 중이다.",
+      "url": "https://www.worldipreview.com/trademark/gucci-grabs-9m-verdict-in-counterfeiting-claim-13816",
+      "source": "World IP Review",
+      "tier": "T2_trade",
+      "published_at": "2026-09",
+      "why_it_matters": "반복되는 위조품 소송 보도는 브랜드 방어 활동의 실효성을 보여주는 동시에, 구찌라는 이름에 대한 위조 수요가 매출 부진 속에서도 여전히 크다는 역설을 드러낸다.",
+      "why_it_matters_en": "Recurring counterfeit-litigation coverage demonstrates active brand defense, but the persistence of these cases also underscores that counterfeit demand for the Gucci name remains high even amid a sales slump.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "로레알의 구찌 뷰티 라이선스 전환 작업, 9월 진행 중 (2027년 7월 공식 개시 예정)",
+      "summary": "코티에서 로레알로 넘어가는 구찌 뷰티 사업권 전환이 9월부터 본격화되고 있으며, 정식 라이선스 개시는 2027년 7월 1일, 첫 신제품은 2028년 초로 예정돼 있다. 50년 독점 계약으로 로레알 럭셔리 부문의 핵심 축으로 자리매김할 전망이다.",
+      "url": "https://www.gcimagazine.com/brands-products/fragrance-home/news/22971614/loral-sees-gucci-as-its-next-luxury-beauty-powerhouse-targets-early-2028-launch",
+      "source": "Global Cosmetic Industry",
+      "tier": "T2_trade",
+      "published_at": "2026-08-03",
+      "why_it_matters": "전환 작업이 이번 달 실제로 진행되고 있다는 점은 장기 뷰티 전략이 계획대로 굴러가고 있음을 뜻하지만, 신제품 공백기가 2028년까지 이어진다는 리스크는 여전하다.",
+      "why_it_matters_en": "The transition work actively underway this month confirms the long-term beauty strategy is on track, but the risk of a new-product vacuum lasting until 2028 remains unchanged.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "corporate strategy",
+      "headline": "케링 CEO 루카 데 메오, '리콘케링' 전략으로 구찌 매장망 3분의 2 리뉴얼 계획",
+      "summary": "케링 CEO 루카 데 메오는 2030년까지 그룹 조정영업이익률을 2025년 11.1%의 두 배 이상으로 끌어올리겠다는 '리콘케링' 전략을 발표했으며, 구찌 매장 네트워크의 3분의 2를 리뉴얼·이전하고 매장 면적을 20% 줄여 매장당 매출밀도를 2030년까지 두 배로 높인다는 목표를 제시했다.",
+      "url": "https://www.cnbc.com/2026/04/16/kering-stock-ker-gucci-cmd-turnaround-profit-strategy.html",
+      "source": "CNBC",
+      "tier": "T1",
+      "published_at": "2026-04-16",
+      "why_it_matters": "매장 축소·효율화 전략은 구찌를 '규모'에서 '밀도' 중심 브랜드로 재편하려는 시도로, 단기 매출에는 역풍이 될 수 있으나 장기 수익성 개선을 노린 승부수다.",
+      "why_it_matters_en": "The store-network shrink-and-densify strategy repositions Gucci around sales density rather than scale, a bet on long-term profitability that carries near-term revenue risk.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "루카 데 메오, 구찌 실적 의존도 낮추고 생로랑·보테가·발렌시아가 비중 확대 방침 재확인",
+      "summary": "데 메오 CEO는 케링 그룹의 '구찌 과의존'을 줄이기 위해 생로랑, 보테가 베네타, 발렌시아가에 더 무게를 싣겠다는 방침을 재확인했으며, 3분기는 전년 동기 비교 부담으로 매출이 보합권에 머물 수 있다고 경고했다.",
+      "url": "https://businesschief.com/news/why-kering-ceo-luca-de-meo-is-moving-focus-away-from-gucci",
+      "source": "Business Chief",
+      "tier": "T2_by_region",
+      "published_at": "2026-04",
+      "why_it_matters": "그룹 최고경영진이 '구찌 의존도 축소'를 공개적으로 표명한 것은 구찌가 더 이상 케링의 유일한 성장동력으로 취급되지 않는다는 신호로, 구찌 내부적으로도 성과 압박이 커질 수 있음을 시사한다.",
+      "why_it_matters_en": "Group leadership openly signaling a push to reduce reliance on Gucci indicates the brand is no longer treated as Kering's sole growth engine, implying mounting internal pressure on Gucci to perform.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

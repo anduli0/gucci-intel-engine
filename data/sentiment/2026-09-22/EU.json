@@ -1,0 +1,83 @@
+[
+  {
+    "id": "eu-2026-09-22-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fashion week calendar listing flags Gucci as a watched appointment inside a sector-wide critical/macro frame, but no evaluative verdict on Gucci itself.",
+    "signal_tags": ["fashion_week", "calendar", "macro_context"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-09-22-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Neutral service journalism confirming show date/time; bellwether framing without judgment.",
+    "signal_tags": ["fashion_week", "calendar"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-09-22-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Financial press notes flat stock and analysts awaiting proof of recovery; cautious neutral market read, not a verdict on the brand.",
+    "signal_tags": ["financial_press", "stock", "analyst_caution"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-09-22-004",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent market data: comparable sales decline narrowed sharply and stock jumped 11% on the print, a genuine positive momentum signal despite lingering analyst caution.",
+    "signal_tags": ["financial_press", "earnings", "quantified_demand", "stock_reaction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-09-22-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press documents quiet price cuts with CEO admitting prior prices were pushed too high -- a critical value/pricing narrative conceding past overreach.",
+    "signal_tags": ["pricing", "value_for_money", "trade_press", "ceo_admission"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-09-22-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Unmoderated community QC complaint thread (uneven stitching) with some unfavorable peer comparisons; replies are mixed so kept mild rather than emotional/viral.",
+    "signal_tags": ["quality_control", "community", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-09-22-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram recap of FW26 collection ahead of the show; purely descriptive activation content, not public opinion.",
+    "signal_tags": ["activation_coverage", "owned_channel", "sns"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-09-22-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Sympathetic-but-critical essay questions whether criticism of Demna is fair without asserting a clear verdict; also stale (March 2026), so treated as neutral/ambiguous.",
+    "signal_tags": ["commentary", "stale", "designer_scrutiny"],
+    "confidence": 0.45
+  },
+  {
+    "id": "eu-2026-09-22-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "T1 trade press preview explicitly described as balanced anticipatory framing raising open questions rather than assuming success.",
+    "signal_tags": ["trade_press", "fashion_week", "preview"],
+    "confidence": 0.7
+  }
+]

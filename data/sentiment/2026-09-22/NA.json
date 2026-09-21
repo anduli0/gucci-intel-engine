@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-2026-09-22-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade-press preview framing the show as a pending referendum, no verdict yet delivered",
+    "signal_tags": ["runway_preview", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-22-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive runway archive/review coverage noting stylistic continuities, no clear evaluative verdict stated",
+    "signal_tags": ["runway_review", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-22-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Kering Foundation charity dinner and red-carpet Gucci looks, activation coverage without an evaluative verdict",
+    "signal_tags": ["activation_coverage", "celebrity_dressing", "charity_event"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-22-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party 'best dressed' style verdict on a Gucci gown, positive but capped as celebrity/ambassador-adjacent activation coverage",
+    "signal_tags": ["activation_coverage", "celebrity_dressing", "positive_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-22-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic meme/dance-trend volume under #gucci tag, low-signal fandom activity with no clear brand opinion expressed",
+    "signal_tags": ["fandom_spike", "meme_trend", "sns"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-09-22-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community authentication threads reflect ongoing consumer anxiety about counterfeits closely replicating Gucci hardware/tags",
+    "signal_tags": ["counterfeit_concern", "community", "authenticity_anxiety"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-22-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified resale data shows eroding secondary-market value, especially steep drops for legacy logo-heavy pieces",
+    "signal_tags": ["resale_value_decline", "quantified_data", "legacy_design_fatigue"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-22-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Price-hike and value-for-money backlash with documented buyer pause/switching to competitor brands amid logo fatigue",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "brand_switching"],
+    "confidence": 0.7
+  }
+]

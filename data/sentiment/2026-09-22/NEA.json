@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-2026-09-22-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Names Gucci in luxury demand crisis with twelve straight quarters of decline and H1 revenue down 9% YoY.",
+    "signal_tags": ["negative_earnings", "momentum_press", "price_trust_erosion"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-22-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade analysis frames ten quarters of decline, store closures and pricing missteps as the context for the turnaround; Demna debut reaction explicitly polarized, not praise.",
+    "signal_tags": ["negative_earnings", "momentum_press", "store_closures", "design_reaction_mixed"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-22-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive eyewear campaign write-up with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-22-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Quiet double-digit price cuts framed as response to eroded pricing power; social reaction muted/unsurprised so damped magnitude.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "peer_comparison_context"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-22-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual product-release reporting with prices and dates, no evaluative framing.",
+    "signal_tags": ["factual_reporting"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-22-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community repost of decline article with top comment skeptical of luxury value proposition, representative of critical sentiment toward Gucci and category.",
+    "signal_tags": ["design_criticism", "value_for_money", "community_sentiment"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-22-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Weibo thread ties Demna debut, price cuts and store closures into one open-question turnaround narrative; store contraction and instability skew negative but framed as a question, so magnitude damped.",
+    "signal_tags": ["store_closures", "momentum_press", "sns_narrative"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-22-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Price cuts broke the norm that luxury prices only rise, unsettling buyer trust in Gucci as a store of value.",
+    "signal_tags": ["resale_value", "value_for_money", "price_trust_erosion"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-22-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "General secondhand-resale advice using Gucci only as an incidental reference point, not brand-specific news.",
+    "signal_tags": ["incidental_mention"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-22-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Consumer explainer on narrowing domestic-vs-overseas price gap; informational rather than evaluative.",
+    "signal_tags": ["factual_reporting", "price_trust_erosion"],
+    "confidence": 0.55
+  }
+]
