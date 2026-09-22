@@ -1,0 +1,68 @@
+[
+  {
+    "id": "NA-2026-09-23-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Price target cut and shares near 52-week low despite a minor rebound; sell-side calls the turnaround fragile.",
+    "signal_tags": [
+      "analyst_note",
+      "stock_momentum",
+      "negative_earnings_press"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-23-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent handbag community outlet, normally skeptical of logo-driven houses, recommends specific Gucci bags as best first designer purchases.",
+    "signal_tags": [
+      "third_party_review",
+      "purchase_intent",
+      "community_endorsement"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-23-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-meme community activity persisting at small niche scale; ambiguous brand affinity, damp per fandom-spike trap.",
+    "signal_tags": [
+      "meme",
+      "fandom",
+      "low_reach",
+      "sns"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-23-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained high-volume consumer complaints (1.9/5 across 228 reviews) about durability, repair turnaround, and customer service.",
+    "signal_tags": [
+      "quality_complaint",
+      "customer_service",
+      "baseline_negative"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-23-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit proliferation warning reflecting eroding buyer trust in resale channels; counterfeit trap treated as mild negative.",
+    "signal_tags": [
+      "counterfeit",
+      "resale_trust",
+      "authentication"
+    ],
+    "confidence": 0.6
+  }
+]

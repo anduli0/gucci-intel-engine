@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-09-23-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive regional write-up of Gucci-staged Bangkok Primavera event; article unfetchable, no independent verdict.",
+    "signal_tags": ["activation_coverage", "runway_event"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-23-02",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Venue's official social post amplifying brand-staged activation; purely descriptive promo content.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-23-03",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan account pre-event announcement of celebrity attendance; descriptive, no evaluative content.",
+    "signal_tags": ["fandom", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-23-04",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan amplification compiling coverage and rallying engagement for ambassador duo at Gucci event; fandom enthusiasm capped.",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-23-05",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Grassroots SG forum thread: heavy discounting seen as eroding exclusivity, counterfeit concerns, peer comparison naming Hermes/Goyard/LV as superior.",
+    "signal_tags": ["discounting", "counterfeit", "peer_comparison", "brand_devaluation"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-23-06",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Police seizure of counterfeit Gucci goods in Hanoi; factual enforcement report signaling ongoing counterfeit-market drag.",
+    "signal_tags": ["counterfeit", "brand_integrity"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-09-23-07",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador profile with outlet's own evaluative note that his minimalist styling was one of the most shared moments of the Milan show; capped as activation coverage with verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.65
+  }
+]

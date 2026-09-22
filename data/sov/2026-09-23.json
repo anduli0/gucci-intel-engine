@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-23",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "구찌 + pool.json competitor_set(루이비통, 디올, 샤넬, 프라다, 보테가 베네타, 생로랑, 발렌시아가, 버버리) 총 9개 브랜드 전원에 동일한 중립 쿼리 템플릿(\"<브랜드> 뉴스\" / \"<브랜드> news\" 등, 지역별 언어)을 동일 횟수·동일 검색 깊이로 실행",
+    "NEA는 한국어+일본어 쿼리를 모두 실행(중국어는 이번 라운드에서 결과 신뢰도 낮아 보조적으로만 참고), SEA/NA/EU는 영어 기준 쿼리 + 지역 매체 특화 쿼리(Tatler Asia 등) 병행",
+    "대략 최근 7일(2026-09-16~09-23) 내 발행된, 해당 브랜드를 다루는 편집 기사만 집계 — 브랜드 공식 스토어/제품 리스팅, 태그·아카이브 페이지, 나무위키/위키백과, 순수 주가시세 페이지는 제외",
+    "동일 보도자료를 재게재한 명백한 중복(동일 매체 동일 내용 반복)은 1건으로 묶되, 서로 다른 매체가 같은 이벤트를 각자 취재한 경우는 매체별로 별도 집계",
+    "브랜드마다 수집 노력(검색 횟수·스캔 깊이)을 동일하게 유지 — 구찌를 더 깊이 파거나 경쟁사를 더 얕게 보는 비대칭 수집 금지",
+    "SEA 지역은 이번 라운드 검색 결과 다수가 구형(evergreen) 피처였고 최근 7일 내로 명확히 날짜가 확인되는 편집 기사가 전 브랜드에 걸쳐 부족하여, 신뢰 가능한 심볼릭 카운트를 만들 수 없어 이번 스냅샷에서 지역 자체를 생략함"
+  ],
+  "criteria_en": [
+    "Ran the identical neutral query template (\"<brand> news\" in the appropriate regional language) for all 9 brands — Gucci plus the full pool.json competitor_set (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry) — same number of searches and same scan depth per brand",
+    "NEA ran both Korean and Japanese queries (Chinese-language results were weak this round and used only as secondary context); SEA/NA/EU ran English queries plus region-specific outlet queries (e.g. Tatler Asia)",
+    "Counted only editorial articles published in roughly the last 7 days (2026-09-16 to 2026-09-23) that substantively cover the brand — excluded store/product listing pages, tag/archive pages, Wikipedia/Namuwiki, and bare stock-quote pages",
+    "Collapsed obvious duplicate wire reposts of the identical release by the same outlet into one count; counted separately when distinct outlets each covered the same event with their own article",
+    "Held collection effort symmetric across brands (same search count, same scan depth) — never searched Gucci more deeply than competitors",
+    "SEA region omitted from this snapshot: most search results were older evergreen features and a reliable, honestly-dated 7-day editorial count could not be established symmetrically across all 9 brands"
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 6,
+      "Louis Vuitton": 1,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 1,
+      "Bottega Veneta": 2,
+      "Saint Laurent": 2,
+      "Balenciaga": 1,
+      "Burberry": 1
+    },
+    "NA": {
+      "Gucci": 2,
+      "Louis Vuitton": 1,
+      "Dior": 2,
+      "Chanel": 1,
+      "Prada": 2,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 1,
+      "Balenciaga": 1,
+      "Burberry": 2
+    },
+    "EU": {
+      "Gucci": 2,
+      "Louis Vuitton": 1,
+      "Dior": 1,
+      "Chanel": 1,
+      "Prada": 2,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 1,
+      "Balenciaga": 1,
+      "Burberry": 2
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["머니투데이", "서플", "패션서울", "안경원라이프", "싱글리스트", "한국면세뉴스"],
+        "examples": [
+          {"title": "구찌, 2026 가을·겨울 아이웨어 새 시선", "url": "https://www.mt.co.kr/living/2026/09/17/2026091722391851471"},
+          {"title": "구찌, 추석 맞이 다채로운 핸드백·슈즈 Primavera 셀렉션 선보여", "url": "https://www.kdfnews.com/news/articleView.html?idxno=187866"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["ouispeakfashion (JP)"],
+        "examples": [
+          {"title": "ルイ ヴィトン、「フライト・モード 2026秋冬」コレクションを発表", "url": "https://ouispeakfashion.com/jp/louis-vuitton-flight-mode-fall-winter-2026"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["SPUR"],
+        "examples": [
+          {"title": "【ディオール】A24と2年間のパートナーシップを発表！", "url": "https://spur.hpplus.jp/culture/news/2026-09-21-KKjp0w/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["더블유 코리아 (W Korea)"],
+        "examples": [
+          {"title": "샤넬의 수트와 재킷이 달라졌다", "url": "https://www.wkorea.com/2026/09/16/%EC%83%A4%EB%84%AC%EC%9D%98-%EC%88%98%ED%8A%B8%EC%99%80-%EC%9E%AC%ED%82%B7%EC%9D%B4-%EB%8B%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["fashion-press (JP, Prada Beauty)"],
+        "examples": [
+          {"title": "プラダ ビューティ 2026年9月新作リップバーム", "url": "https://www.fashion-press.net/news/brand/65"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["서울신문", "네이트뉴스"],
+        "examples": [
+          {"title": "보테가 베네타, 브랜드 글로벌 앰버서더에 배우 송혜교 위촉", "url": "https://www.seoul.co.kr/news/economy/2026/09/18/20260918500231"},
+          {"title": "'보테가 베네타'가 선택한 배우, 송혜교 글로벌 앰버서더 선정", "url": "https://m.news.nate.com/view/20260918n22220"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": ["fashion-press (JP)", "The Fashion Post (JP)"],
+        "examples": [
+          {"title": "イヴ・サンローラン「パリのカフェ文化」着想26年秋コスメ", "url": "https://www.fashion-press.net/news/148317"},
+          {"title": "緊張感と繊細さの共存。サンローランが2026年秋メンズキャンペーンを発表", "url": "https://fashionpost.jp/news/391049"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["MSN Japan / news.goo"],
+        "examples": [
+          {"title": "バレンシアガ×セガのコラボコレクションが始動 東京ゲームショウに合わせ限定アパレルを発表", "url": "https://www.msn.com/ja-jp/news/other/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%A2%E3%82%AC-%E3%82%BB%E3%82%AC%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E5%A7%8B%E5%8B%95-%E6%9D%B1%E4%BA%AC%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A7%E3%82%A6%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E9%99%90%E5%AE%9A%E3%82%A2%E3%83%91%E3%83%AC%E3%83%AB%E3%82%92%E7%99%BA%E8%A1%A8/ar-AA2ciEO2"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["마리끌레르 코리아"],
+        "examples": [
+          {"title": "170주년을 맞은 버버리, 런던 V&A 박물관에서 특별전 개최", "url": "https://www.marieclairekorea.com/fashion/2026/07/burberry-museum"}
+        ]
+      }
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["The Fashionisto", "WWD"],
+        "examples": [
+          {"title": "Gucci Changes the View for Fall 2026 Eyewear Campaign", "url": "https://www.thefashionisto.com/story/gucci-fall-2026-eyewear/"},
+          {"title": "Gucci Fall 2026 Ready-to-Wear Collection [PHOTOS]", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/gucci-fall-2026-ready-to-wear-collection-1238633113/"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["Design Scene"],
+        "examples": [
+          {"title": "Louis Vuitton Flight Mode Fall Winter 2026 Takes the Train", "url": "https://www.designscene.net/2026/09/louis-vuitton-flight-mode-fw26.html"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["BeautyVelle"],
+        "examples": [
+          {"title": "Sneak Peek! DIOR Holiday 2026 Limited-Edition Couture Eyeshadow Palette", "url": "https://beautyvelle.com/2026/09/20/sneak-peek-dior-holiday-2026-limited-edition-couture-eyeshadow-palette/"},
+          {"title": "Sneak Peek! DIOR Holiday 2026 Limited-Edition Couture Multi-Use Palette", "url": "https://beautyvelle.com/2026/09/20/sneak-peek-dior-holiday-2026-limited-edition-couture-multi-use-palette/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["Miami Living Magazine"],
+        "examples": [
+          {"title": "Chanel Unveils New Fragrance and Skincare Launches for September 2026", "url": "https://www.miamilivingmagazine.com/post/chanel-unveils-new-fragrance-and-skincare-launches-for-september-2026"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Prada to Open Milan Fashion Week in September 2026", "url": "https://wwd.com/fashion-news/fashion-features/prada-moschino-debut-milan-fashion-week-september-2026-calendar-1239080481/"},
+          {"title": "Prada to open Milan Fashion Week with return of autumn shows", "url": "https://www.wantedinmilan.com/news/prada-to-open-milan-fashion-week-as-autumn-shows-return.html"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["artnet News"],
+        "examples": [
+          {"title": "Bottega Veneta and Versace Deliver Art-Infused Debuts at Milan Fashion Week", "url": "https://news.artnet.com/art-world/bottega-veneta-and-versace-deliver-art-infused-debuts-at-milan-fashion-week-2693993"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Saint Laurent Fall 2026 Ready-to-Wear Collection [PHOTOS]", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/saint-laurent-fall-2026-ready-to-wear-collection-1238645614/"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["The Cool Hour"],
+        "examples": [
+          {"title": "Balenciaga Fall 2026 Makes Outerwear The Main Attraction", "url": "https://www.thecoolhour.com/balenciaga-fall-2026-campaign/"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["CNN", "AOL"],
+        "examples": [
+          {"title": "Burberry isn't a nostalgia brand, it's a heritage brand", "url": "https://www.cnn.com/2026/09/22/style/burberry-ss27-show"},
+          {"title": "Burberry closes London Fashion Week 2026 with signature check print and celeb-filled front row", "url": "https://www.aol.com/articles/london-fashion-week-2026-five-162330000.html"}
+        ]
+      }
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": ["WWD", "The Fashionisto"],
+        "examples": [
+          {"title": "Gucci Fall 2026 Ready-to-Wear Collection [PHOTOS]", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/gucci-fall-2026-ready-to-wear-collection-1238633113/"},
+          {"title": "Gucci Changes the View for Fall 2026 Eyewear Campaign", "url": "https://www.thefashionisto.com/story/gucci-fall-2026-eyewear/"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["Paris Select Book"],
+        "examples": [
+          {"title": "Louis Vuitton unveils its spring-summer 2027 formal collection by Pharrell Williams on 3 September 2026", "url": "https://www.parisselectbook.com/en/2026/07/29/louis-vuitton-unveils-its-spring-summer-2027-formal-collection-by-pharrell-williams-on-3-september-2026/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["SPUR (JP coverage of EU/global partnership)"],
+        "examples": [
+          {"title": "【ディオール】A24と2年間のパートナーシップを発表！", "url": "https://spur.hpplus.jp/culture/news/2026-09-21-KKjp0w/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["V Magazine"],
+        "examples": [
+          {"title": "Bhavitha Mandava and Friends Star in Chanel's Fall/Winter 2026 Campaign", "url": "https://vmagazine.com/article/a-new-rhythm-takes-hold-at-chanel-for-fall-winter-2026/"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["WWD", "Wanted in Milan"],
+        "examples": [
+          {"title": "Prada to Open Milan Fashion Week in September 2026", "url": "https://wwd.com/fashion-news/fashion-features/prada-moschino-debut-milan-fashion-week-september-2026-calendar-1239080481/"},
+          {"title": "Prada to open Milan Fashion Week with return of autumn shows", "url": "https://www.wantedinmilan.com/news/prada-to-open-milan-fashion-week-as-autumn-shows-return.html"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["artnet News"],
+        "examples": [
+          {"title": "Bottega Veneta and Versace Deliver Art-Infused Debuts at Milan Fashion Week", "url": "https://news.artnet.com/art-world/bottega-veneta-and-versace-deliver-art-infused-debuts-at-milan-fashion-week-2693993"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": ["Grazia"],
+        "examples": [
+          {"title": "PFW: 80s Romance Finds An Edge At Saint Laurent Spring/Summer 2026", "url": "https://graziamagazine.com/articles/saint-laurent-spring-summer-2026-show/"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["FHCM"],
+        "examples": [
+          {"title": "BALENCIAGA | FHCM", "url": "https://www.fhcm.paris/en/house/balenciaga"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["CNN", "AOL"],
+        "examples": [
+          {"title": "Burberry isn't a nostalgia brand, it's a heritage brand", "url": "https://www.cnn.com/2026/09/22/style/burberry-ss27-show"},
+          {"title": "Burberry closes London Fashion Week 2026 with signature check print and celeb-filled front row", "url": "https://www.aol.com/articles/london-fashion-week-2026-five-162330000.html"}
+        ]
+      }
+    }
+  }
+}

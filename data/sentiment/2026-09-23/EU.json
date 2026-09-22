@@ -1,0 +1,83 @@
+[
+  {
+    "id": "eu-2026-09-23-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Reuters wire: Kering shares erased CEO-era gains amid deepening sector slowdown, Deloitte data, 'holding period' framing.",
+    "signal_tags": ["earnings_momentum", "sector_slowdown", "independent_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "eu-2026-09-23-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Reuters-sourced piece: middle-class pullback, price-hike-driven value-consciousness, spend rotating away from luxury fashion.",
+    "signal_tags": ["value_for_money", "sector_slowdown", "independent_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "eu-2026-09-23-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press schedule preview; surfaces industry ROI-pressure angle but stays factual/neutral on Gucci specifically.",
+    "signal_tags": ["show_preview", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-23-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Day-one MFW recap with zero Gucci mention; factual negative-space timing signal, not an evaluative statement.",
+    "signal_tags": ["show_preview", "negative_space"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-09-23-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Straight leadership/governance reporting on new Kering Italy president; no evaluative content.",
+    "signal_tags": ["leadership", "factual"],
+    "confidence": 0.8
+  },
+  {
+    "id": "eu-2026-09-23-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic forum thread citing recurring QC complaints (strap finish wearing, uneven stitching) despite some members defending quality.",
+    "signal_tags": ["quality_control", "community_chatter"],
+    "confidence": 0.55
+  },
+  {
+    "id": "eu-2026-09-23-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic long-running complaint thread: peeling leather, broken straps, contested customer-service resolutions.",
+    "signal_tags": ["quality_control", "customer_service", "community_chatter"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-09-23-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade outlet frames rising resale demand alongside declining new-product sales as a value-for-money warning sign.",
+    "signal_tags": ["value_for_money", "resale_market", "trade_press"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-09-23-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive street-style documentation of Gucci looks at MFW; no evaluative verdict, engagement metrics unavailable.",
+    "signal_tags": ["sns_buzz", "street_style"],
+    "confidence": 0.6
+  }
+]

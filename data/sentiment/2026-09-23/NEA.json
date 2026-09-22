@@ -1,0 +1,93 @@
+[
+  {
+    "id": "NEA-2026-09-23-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual MFW schedule preview naming Demna's Gucci slot, no evaluative verdict.",
+    "signal_tags": ["show_preview", "factual"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-23-002",
+    "region": "NEA",
+    "region_note": null,
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "BoF frames the show as an unresolved test of Demna's reset; analytical/skeptical anticipation, not a verdict yet.",
+    "signal_tags": ["trade_press", "analytical", "show_preview"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-23-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "\"Earthquake\" framing of ~100 China store closures (30% of fleet) plus mixed reads that closures signal lost premium status.",
+    "signal_tags": ["store_closures", "price_cuts", "china_retail", "momentum_negative"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-23-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Despite a traffic uptick, commenters skeptical that repeat discounting restores desirability rather than training shoppers to wait for markdowns.",
+    "signal_tags": ["price_cuts", "discount_image", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-23-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Community thread on continued sales decline and prior price hikes framed as having permanently damaged desirability vs Chanel/Hermes; skepticism Demna can reverse it.",
+    "signal_tags": ["sales_decline", "price_hike_backlash", "peer_comparison", "design_skepticism"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-23-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned press release describing FW2026 eyewear campaign; self-praise is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.95
+  },
+  {
+    "id": "NEA-2026-09-23-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent resale price index shows sustained downward trend with a -26.5% single-period drop, quantified third-party demand signal.",
+    "signal_tags": ["resale_value", "quantified_data", "demand_decline"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-23-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Straightforward, non-critical trade coverage of a Japan-exclusive SLG/wallet launch.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-23-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Personal Threads post mixes reposted negative news with unclear personal stance; insufficient confidence to assign polarity.",
+    "signal_tags": ["sns", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-09-23-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard non-critical lifestyle-media activation writeup of the FW2026 eyewear campaign.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  }
+]
