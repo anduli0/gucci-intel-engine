@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-2026-09-24-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock drop and RBC price-target cut tied directly to Gucci's weak September sales exit rate is negative momentum press.",
+    "signal_tags": ["earnings", "analyst_note", "stock_price", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-24-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "US financial newsletter projects declining Q3 Gucci revenue and flags risk of further profit-estimate cuts, clear negative momentum framing.",
+    "signal_tags": ["earnings", "analyst_note", "momentum_press", "revenue_outlook"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-24-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own eyewear campaign (who shot it, what it looks like) with no independent evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "campaign", "eyewear"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-09-24-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Collector community reaction to Flora reissue trends positive/nostalgic but includes real skepticism about archive-mining, so damped to mild magnitude.",
+    "signal_tags": ["community_reaction", "archive_revival", "nostalgia", "mixed_sentiment"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-24-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring viral TikTok discourse questioning whether logo branding justifies price versus quieter competitors is organic negative consumer sentiment.",
+    "signal_tags": ["sns_discourse", "value_for_money", "logo_fatigue", "viral"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-09-24-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing baseline complaint volume about hardware/stitching durability and slow service confirms persistent after-sales dissatisfaction, but not a new spike.",
+    "signal_tags": ["quality_complaint", "customer_service", "baseline_signal"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-24-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive continuing-coverage roundup of Gucci's own product drops and campaign follow-through with no independent critical verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "product_drop", "media_coverage"],
+    "confidence": 0.85
+  }
+]

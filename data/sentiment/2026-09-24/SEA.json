@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-09-24-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador airport-styling write-up with no independent evaluative verdict, per activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-24-02",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned official X post; self-promo copy is not public opinion.",
+    "signal_tags": ["brand_owned", "activation_coverage", "ambassador"],
+    "confidence": 0.95
+  },
+  {
+    "id": "SEA-2026-09-24-03",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Secondary outlet adds mild positive verdict ('understated yet striking') on ambassador activation; capped under activation-coverage and fandom rules.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-24-04",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Direct consumer complaint of very bad welcome and zero service at SEA flagship, independent critical retail experience.",
+    "signal_tags": ["retail_experience", "quality_complaint", "consumer_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-24-05",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread genuinely split between quality satisfaction and craftsmanship/cheap-feel criticism; no dominant polarity, default neutral.",
+    "signal_tags": ["quality_complaint", "community", "mixed_sentiment"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-24-06",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analytical trade-press business context on turnaround uncertainty and APAC lag; factual framing without a clear evaluative verdict.",
+    "signal_tags": ["business_performance", "trade_press", "apac_context"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-24-07",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring 'is Gucci overrated' street-interview format recycling logo-saturation and lost-exclusivity criticism; generic/general-audience so damped magnitude.",
+    "signal_tags": ["design_criticism", "exclusivity_erosion", "sns"],
+    "confidence": 0.55
+  }
+]

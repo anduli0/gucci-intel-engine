@@ -1,0 +1,65 @@
+[
+  {
+    "id": "eu-2026-09-24-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "BoF frames sales as still declining with investor skepticism pending proof of stabilization, not just spectacle.",
+    "signal_tags": ["earnings_momentum", "trade_press", "runway_preview"],
+    "confidence": 0.7
+  },
+  {
+    "id": "eu-2026-09-24-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade outlet gives independent critical verdict: revenue still falling and debut collection narrowed target customer, a skeptical framing distinct from brand messaging.",
+    "signal_tags": ["design_criticism", "earnings_momentum", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "eu-2026-09-24-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual show-schedule preview; notes star-studded front row but also that debut 'polarized critics', net mixed with no forced polarity.",
+    "signal_tags": ["runway_preview", "mixed_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-24-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering shares easing back from highs and market confidence in Gucci-led recovery described as fragile and reversible.",
+    "signal_tags": ["stock_market", "earnings_momentum"],
+    "confidence": 0.65
+  },
+  {
+    "id": "eu-2026-09-24-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ironic meme trend loosely tied to brand name rather than clear product/campaign sentiment; ambiguous tone defaults to neutral.",
+    "signal_tags": ["meme", "organic_buzz", "sns"],
+    "confidence": 0.5
+  },
+  {
+    "id": "eu-2026-09-24-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum members genuinely split on Demna's debut, some praising disruption, others criticizing loss of maximalist identity; no net polarity.",
+    "signal_tags": ["community", "mixed_reaction", "design_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "eu-2026-09-24-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual executive profile on management reshuffle, forward-looking framing without independent evaluative verdict yet.",
+    "signal_tags": ["executive_profile", "factual"],
+    "confidence": 0.6
+  }
+]

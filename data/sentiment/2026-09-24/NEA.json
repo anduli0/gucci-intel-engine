@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NEA-2026-09-24-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive Milan Fashion Week schedule confirmation for Demna's show, explicitly not yet a review.",
+    "signal_tags": ["schedule", "runway", "activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-24-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified Q1 revenue decline (-8%) framed as proof leadership change hasn't reversed a 12-quarter slide.",
+    "signal_tags": ["earnings", "momentum", "regional_decline"],
+    "confidence": 0.95
+  },
+  {
+    "id": "NEA-2026-09-24-003",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Consumer resale guide notes Gucci retains value comparatively better than steeper-depreciation peers, though framing is neutral/informational.",
+    "signal_tags": ["resale_value", "peer_comparison"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-24-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Comment threads genuinely split between welcoming price cuts as buying opportunity and reading them as confirmation of overpricing/decline; no net polarity.",
+    "signal_tags": ["price_cut", "creative_reset", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-24-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral community thread on 12-quarter sales decline and lost luxury mystique, with heavy controversial engagement (93,732 downvotes).",
+    "signal_tags": ["momentum", "value_for_money", "mystique_loss", "viral"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-24-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Deep China price cuts and Kering CEO admission of overpricing read as discount/outlet image damage, though social reaction is muted as an industry-wide trend.",
+    "signal_tags": ["price_cut", "discount_image", "earnings"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-24-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Report of ~125 planned store closures with executive quote likening stores to 'grandmother's houses', substantive sourced design/network criticism.",
+    "signal_tags": ["store_network", "design_criticism", "restructuring"],
+    "confidence": 0.9
+  }
+]
