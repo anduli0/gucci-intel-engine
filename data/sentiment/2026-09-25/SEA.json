@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SEA-2026-09-25-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Preview naming the show as a key date; factual/anticipatory framing with no evaluative verdict.",
+    "signal_tags": ["show_preview", "factual"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-25-02",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador front-row/fandom coverage of Alia Bhatt's viral look; positive but capped as activation/fandom coverage, not independent critique.",
+    "signal_tags": ["ambassador", "fandom", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-25-04",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forward-looking business-lens preview of accessory strategy; no verdict rendered yet.",
+    "signal_tags": ["business_preview", "factual"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-25-05",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent report of Gucci India revenue falling 17.3% while Hermes grew, a clear negative-momentum business data point.",
+    "signal_tags": ["earnings", "quantified_data", "peer_comparison"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-25-06",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Peer-comparison trap: Hermes framed as outgrowing Gucci in India with corroborating quantified figures, and notes Gucci exposure to aspirational pullback.",
+    "signal_tags": ["peer_comparison", "quantified_data", "earnings"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-25-07",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of ambassador store appearance; no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "store_opening", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-25-08",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned official X post; self-promo is not public opinion regardless of engagement volume.",
+    "signal_tags": ["brand_owned", "activation_coverage", "fandom"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-09-25-09",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Genuine unpaid enthusiast forum sentiment predominantly critical, calling the direction derivative and a 'cop-out collection'.",
+    "signal_tags": ["organic_opinion", "design_criticism", "community"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-25-10",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fetch failure limited detail extraction; mixed running commentary description too low-confidence to assign polarity.",
+    "signal_tags": ["low_confidence", "community", "value_for_money"],
+    "confidence": 0.3
+  },
+  {
+    "id": "SEA-2026-09-25-11",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Documented organic backlash against AI-generated campaign imagery, called 'AI slop', with academic warning of reputational risk.",
+    "signal_tags": ["controversy", "ai_backlash", "organic_opinion"],
+    "confidence": 0.75
+  }
+]

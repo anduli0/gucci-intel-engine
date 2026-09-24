@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NEA-2026-09-25-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 wire story with independent analyst/consultant criticism ('not a good look') of Made-in-China sneakers tied to price-value debate and sales halved over three years.",
+    "signal_tags": ["quality_provenance", "price_value_debate", "negative_earnings_context", "trade_press_criticism"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-25-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral Weibo explainer frames 30-40% China price cuts as proof Gucci overpriced itself, breaking 'prices only rise' convention; quantified, organic reader framing skews negative.",
+    "signal_tags": ["price_cut", "value_for_money", "china_market", "quantified_demand_data"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-25-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Weibo secondhand-market post cites Gucci's steepest resale discount among major luxury brands and links new price cuts to further compressing resale value.",
+    "signal_tags": ["resale_value_drop", "secondhand_market", "quantified_demand_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-25-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive schedule/preview of Demna's second Gucci RTW show at Milan Fashion Week; no evaluative verdict yet.",
+    "signal_tags": ["runway_schedule", "factual_reporting"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-25-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive writeup of Gucci FW26 eyewear campaign with explicitly no critical framing; routine brand-owned activation coverage.",
+    "signal_tags": ["activation_coverage", "campaign_press_kit"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-25-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community thread cites Gucci's 12 consecutive quarters of declining sales as negative momentum press, but top 'lost mystique' comment was overwhelmingly downvoted, indicating contested reception.",
+    "signal_tags": ["negative_earnings_context", "luxury_slowdown", "controversial_reception"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-25-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "K-pop ambassador appointment (Stray Kids' Lee Know) covered with positive-only fan-oriented framing; capped under fandom/activation-coverage discount.",
+    "signal_tags": ["ambassador_appointment", "activation_coverage", "fandom_spike", "kpop"],
+    "confidence": 0.7
+  }
+]

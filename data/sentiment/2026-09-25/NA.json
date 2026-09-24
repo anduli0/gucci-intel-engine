@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-2026-09-25-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 Reuters wire: 'Made in China' sourcing shift framed by a consultant as reputationally damaging and by Berenberg as tension with Gucci's luxury repositioning amid price cuts.",
+    "signal_tags": ["sourcing_controversy", "prestige_risk", "analyst_commentary"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-25-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 republication of same wire story, contextualized against Gucci's three-year sales slide (roughly halved) - negative momentum press.",
+    "signal_tags": ["sourcing_controversy", "negative_momentum", "sales_decline"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-25-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "RBC Capital cuts Kering price target 20% (EUR 350 to 280), citing doubt about Gucci's US-led recovery pace ahead of Q3 update.",
+    "signal_tags": ["analyst_downgrade", "negative_earnings_signal", "quantified"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-25-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade-press comparison judges Gucci's creative reset as 'rockier' than Dior's and warns discounting risks eroding prestige.",
+    "signal_tags": ["design_criticism", "brand_identity", "discount_risk"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-09-25-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity-dressing writeup for a Kering-hosted event; no independent evaluative verdict, so activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "celebrity_dressing"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-09-25-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community reactions to Cruise 2027 are explicitly split between praise and harsh dismissal with no clear majority; forcing polarity is not warranted.",
+    "signal_tags": ["mixed_reaction", "community", "runway_show"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-25-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring US consumer complaints about stitching, hardware tarnish, zipper failures, and poor repair service - genuine QC/quality complaint signal.",
+    "signal_tags": ["quality_complaint", "customer_service", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-25-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Instagram debate on AI-generated campaign imagery shows genuinely split opinion (concern vs. defenders); no clear net polarity to force.",
+    "signal_tags": ["ai_controversy", "sns", "mixed_reaction"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NA-2026-09-25-009",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent investor analysis reports quantified positive NA handbag sales (new styles, stronger men's bags) beating Q2 consensus with improving AUR/conversion.",
+    "signal_tags": ["quantified_demand", "sales_positive", "investor_analysis"],
+    "confidence": 0.75
+  }
+]

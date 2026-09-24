@@ -1,0 +1,139 @@
+{
+  "brand_group": "Kering",
+  "date": "2026-09-25",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Kering",
+      "event_type": "financial",
+      "headline": "RBC, HSBC 등 증권사들 케링 목표주가 잇달아 하향",
+      "summary": "RBC캐피털은 9월 22일 케링 목표주가를 350유로에서 280유로로 하향(섹터퍼폼 유지)했고, 주가는 22일 이후 226유로 선까지 밀리며 주간 기준 약 2.1% 하락했다. 52주 최저가(224.90유로) 근접 수준이다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-falls-as-rbc-cuts-its-target-to-eur-280/70167072",
+      "source": "ad-hoc-news / Investing.com",
+      "tier": "T2",
+      "published_at": "2026-09-22",
+      "why_it_matters": "구찌가 그룹 EBIT의 절반 이상을 차지하는 만큼, 애널리스트들의 목표주가 연쇄 하향은 구찌 턴어라운드 시점에 대한 시장 신뢰가 여전히 취약하다는 신호이다.",
+      "why_it_matters_en": "Repeated price-target cuts (RBC, HSBC) signal persistent market skepticism about the pace of Kering's — and by extension Gucci's — turnaround, since Gucci drives the majority of group EBIT.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Alexander McQueen",
+      "event_type": "executive",
+      "headline": "구찌 출신 아닌 프라다 前 CEO 단아티스, 맥퀸 CEO로 구조조정 지휘",
+      "summary": "프라다 전 CEO 잔프랑코 단아티스가 6월 알렉산더 맥퀸 CEO로 취임해 매장 50% 폐점을 포함한 축소 전략을 지휘 중이며, 루카 드 메오 케링 CEO는 맥퀸 매각설을 공식 부인하고 원단 정통 테일러링으로의 회귀를 강조했다.",
+      "url": "https://us.fashionnetwork.com/news/Kering-s-luca-de-meo-rules-out-selling-mcqueen-prioritises-a-robust-turnaround,1806382.html",
+      "source": "FashionNetwork",
+      "tier": "T2",
+      "published_at": "2026-06-03",
+      "why_it_matters": "케링이 부실 브랜드 정리보다 정예화·재수익화를 택한 선례로, 구찌 역시 매장망·라인업 군살빼기 압박에 놓일 수 있음을 시사한다.",
+      "why_it_matters_en": "Kering's choice to restructure rather than sell McQueen (50% store closures, ex-Prada CEO brought in) is a template that could foreshadow similar lean-down pressure on Gucci's own retail footprint.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Balenciaga",
+      "event_type": "collab",
+      "headline": "발렌시아가, JM 웨스통과 하이브리드 클래식 슈즈 컬래버레이션 공식 출시",
+      "summary": "피에르파올로 피촐리의 발렌시아가가 프랑스 정통 제화 브랜드 JM 웨스통과 손잡고 옥스퍼드, 더비, 로퍼, 뮬 4종의 하이브리드 슈즈를 1,050~2,350달러에 선보였으며, 발렌시아가 매장과 온라인에서 판매 중이다.",
+      "url": "https://wwd.com/footwear-news/shoe-industry-news/balenciaga-jm-weston-dress-shoes-release-date-1239242194/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-18",
+      "why_it_matters": "정통 프렌치 메종과의 이종 협업으로 피촐리 체제의 발렌시아가가 헤리티지 신뢰도를 재건하려는 시도로, 구찌의 컬래버 전략(이종 파트너십 통한 화제성 확보) 벤치마크가 될 수 있다.",
+      "why_it_matters_en": "Piccioli's Balenciaga leaning on a heritage French shoemaker for credibility-building is a cross-house collab template Gucci can benchmark for its own partnership plays.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Alexander McQueen",
+      "event_type": "shows",
+      "headline": "맥퀸, 25년 만에 런던 패션위크 복귀 쇼 개최",
+      "summary": "크리에이티브 디렉터 션 맥거가 9월 20일 런던에서 브랜드 창립지 복귀를 알리는 첫 런던 쇼(2027 스프링 시즌)를 열었으며, 날카로운 테일러링과 오케이전 웨어 중심으로 구성됐다.",
+      "url": "https://wwd.com/fashion-news/fashion-features/alexander-mcqueen-london-fashion-week-september-runway-show-1239018868/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-20",
+      "why_it_matters": "실적 부진 속에서도 브랜드 유산과 도시적 정체성으로 회귀하는 흐름은, 구찌가 피렌체·이탈리아 정체성을 활용한 스토리텔링을 강화할 때 참고할 만한 사례다.",
+      "why_it_matters_en": "McQueen's return to its London roots amid financial struggles shows heritage storytelling as a recovery lever — relevant as Gucci leans on its Florence/Italian identity.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "M&A",
+      "headline": "케링-마이훌라, 발렌티노 완전인수 옵션 2029년으로 재연기 (배경 이슈로 지속 인용)",
+      "summary": "2025년 9월 발표된 계약 개정에 따라 마이훌라의 발렌티노 잔여 70% 지분 풋옵션과 케링의 콜옵션이 각각 2029년으로 유예됐으며, 이는 케링의 약 95억~105억 유로 순부채 부담과 발렌티노 매출 부진이 배경이다. 최신 뉴스는 아니지만 케링 자본배분 전략의 핵심 축으로 계속 인용되고 있다.",
+      "url": "https://wwd.com/business-news/mergers-acquisitions/valentino-kering-mayhoola-postpone-put-options-1238132686/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2025-09-24",
+      "why_it_matters": "케링이 부채 축소를 이유로 발렌티노 완전인수를 미루는 것은, 구찌 재건에 투입할 그룹 차원의 자본 여력이 제한적임을 시사하는 배경 변수다.",
+      "why_it_matters_en": "Kering deferring full Valentino ownership to cut debt signals constrained group capital available for Gucci's own turnaround investment — a background but still-relevant capital allocation signal.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Saint Laurent",
+      "event_type": "campaign",
+      "headline": "생로랑, 탈리아 체트릿 감독의 가을 캠페인에 로제·리우웬 기용",
+      "summary": "생로랑의 2026년 가을 캠페인 필름은 탈리아 체트릿이 연출하고 코너 스토리, 로제(블랙핑크), 리우웬이 출연했으며 밀리 바닐리 음악을 사용, 쿠튀르적 감성과 셀러브리티 파워를 결합했다.",
+      "url": "https://creativebrandsmag.com/saint-laurent-unveils-fall-2026-campaign-with-star-power/",
+      "source": "Creative Brands Mag",
+      "tier": "T2",
+      "published_at": "2026-09-15",
+      "why_it_matters": "생로랑이 K팝 스타(로제)를 앞세운 글로벌 캠페인으로 화제성을 유지하는 전략은, 구찌의 앰배서더 라인업 및 캠페인 화제성 대비 벤치마크가 된다. 단, 이는 브랜드 자체 마케팅 활동이며 소비자 반응 지표는 아니다.",
+      "why_it_matters_en": "Saint Laurent leaning on a K-pop global star (Rosé) for campaign buzz is a benchmark against Gucci's own ambassador strategy — note this is house-generated activation coverage, not an independent sentiment signal.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "retail",
+      "headline": "보테가 베네타, 뉴욕 미트패킹 디스트릿트 신규 매장 오픈",
+      "summary": "보테가 베네타가 뉴욕 미트패킹 디스트릭트에 약 312㎡ 규모의 신규 매장을 열었으며, 콘크리트 마감과 베르데 생드니 대리석 등 브랜드 인하우스 디자인팀이 설계한 인테리어를 적용했다.",
+      "url": "https://superfuture.com/2025/12/new-shops/new-york-bottega-veneta-store-opening/",
+      "source": "Superfuture",
+      "tier": "T2",
+      "published_at": "2025-12-15",
+      "why_it_matters": "루이즈 트로터 체제의 보테가가 미국 내 신규 상권 확장을 이어가는 점은, 구찌의 북미 리테일 전략 대비 참고 지표가 된다.",
+      "why_it_matters_en": "Bottega's continued US retail expansion under Trotter offers a reference point for Gucci's North America retail strategy, though this is an older (Dec 2025) opening still relevant to current footprint comparisons.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "trend",
+      "headline": "케링 주얼리·아이웨어 부문, 패션·레더굿즈 부진 속 나홀로 성장",
+      "summary": "1분기 기준 케링 주얼리 부문 매출은 보고 기준 14%, 비교 기준 22% 증가했고 아이웨어도 보고 기준 3%, 비교 기준 7% 성장한 반면, 패션·레더굿즈는 9% 감소(구찌 -14.3%)해 그룹 내 포트폴리오 불균형이 뚜렷해지고 있다.",
+      "url": "https://wwd.com/business-news/financial/kering-q1-2026-results-meo-1238911937/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-04-16",
+      "why_it_matters": "그룹 내 비패션 카테고리(주얼리·아이웨어)가 성장 엔진으로 부상하는 것은 구찌의 패션·레더굿즈 중심 매출 구조에 대한 경고 신호이자, 카테고리 다각화 필요성을 시사한다.",
+      "why_it_matters_en": "Jewelry and eyewear emerging as Kering's growth engines while fashion & leather goods (Gucci's core) contracts is a structural warning sign underscoring the need for category diversification.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "shows",
+      "headline": "루이즈 트로터의 보테가 베네타 2026 가을 컬렉션, '밀라노다움' 재해석",
+      "summary": "밀라노 패션위크에서 공개된 루이즈 트로터의 두 번째 시즌 컬렉션은 인트레치아토 기법의 브랜드 헤리티지를 유지하면서 '덜 스튜디드, 더 정확한' 밀라노 스타일을 추구했다는 평가를 받았다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17019/bottega-veneta-autumn-winter-2026-show-review-louise-trotter",
+      "source": "AnOther Magazine",
+      "tier": "T1",
+      "published_at": "2026-09-14",
+      "why_it_matters": "트로터가 취임 2시즌 만에 전임자(블라지) 그림자에서 벗어나 자신만의 관점을 굳히는 속도는, 구찌의 뎀나 체제 안착 속도를 비교 평가하는 벤치마크로 유효하다.",
+      "why_it_matters_en": "Trotter establishing her own point of view just two seasons in is a useful pacing benchmark for evaluating how quickly Demna is settling into Gucci's creative direction.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "executive",
+      "headline": "루카 드 메오 케링 CEO, 피렌체에서 그룹 턴어라운드 전략 공식 발표",
+      "summary": "드 메오는 4월 피렌체에서 그룹 수익성 두 배 확대와 구찌 회복을 핵심 목표로 하는 전략을 공개했으며, 부CEO 직제 폐지 및 프란체스카 벨레티니의 구찌 총괄 체제를 구축했다.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-16/kering-chief-de-meo-targets-higher-profitability-gucci-rebound",
+      "source": "Bloomberg",
+      "tier": "T1",
+      "published_at": "2026-04-16",
+      "why_it_matters": "그룹 조직개편의 핵심이 구찌 회복에 맞춰져 있다는 점에서, 구찌 내부 경영진과 예산 배분의 우선순위를 이해하는 데 필수적인 배경 정보다.",
+      "why_it_matters_en": "Kering's group reorg is explicitly centered on fixing Gucci, making this essential background for understanding internal management priorities and resource allocation affecting Gucci directly.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

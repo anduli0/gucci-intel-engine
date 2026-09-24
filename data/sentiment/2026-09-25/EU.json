@@ -1,0 +1,119 @@
+[
+  {
+    "id": "EU-20260925-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock falls near 52-week low ahead of Gucci read, negative momentum press.",
+    "signal_tags": ["stock_price", "earnings_momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20260925-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "RBC cuts Kering price target 20% citing overly optimistic luxury forecasts, sector-wide caution on Gucci's parent.",
+    "signal_tags": ["analyst_note", "earnings_momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20260925-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "BoF frames the show as a scrutiny moment/open question on commercial traction, not a settled verdict.",
+    "signal_tags": ["trade_press", "runway"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20260925-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive schedule/calendar preview of the show, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "schedule"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20260925-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade outlet questions whether the sex-appeal pivot can reverse a prolonged revenue slide, explicitly skeptical critical-angle framing.",
+    "signal_tags": ["trade_press", "design_criticism"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20260925-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Fashion forum members pan the debut collection as derivative and cheap-looking with no dissenting positive views quoted.",
+    "signal_tags": ["community_sentiment", "design_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20260925-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SNS reaction to the Kate Moss look is genuinely split between praise and criticism.",
+    "signal_tags": ["sns_reaction", "mixed_sentiment"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-20260925-008",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Bernstein analyst quantified score (7.6/10, improvement vs predecessor) is a favorable third-party verdict.",
+    "signal_tags": ["analyst_note", "independent_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20260925-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering closes 217+ stores tied directly to Gucci's prolonged sales decline and cost-cutting program.",
+    "signal_tags": ["store_closures", "earnings_momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20260925-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci handbag price hikes up to 20% in France framed as margin-defense/crisis measure, price-hike backlash context.",
+    "signal_tags": ["price_hike", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20260925-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector community discussion shows many posters preferring archive Tom Ford/Michele-era pieces over new Demna-era releases.",
+    "signal_tags": ["community_sentiment", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20260925-012",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "TikTok recap draws mixed anticipation/skepticism comments with no visible engagement metrics to weigh polarity.",
+    "signal_tags": ["sns_reaction", "low_signal"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-20260925-013",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Numero reports critics genuinely split between hailing a genius revival and seeing an undifferentiated retread.",
+    "signal_tags": ["trade_press", "mixed_sentiment"],
+    "confidence": 0.6
+  }
+]
