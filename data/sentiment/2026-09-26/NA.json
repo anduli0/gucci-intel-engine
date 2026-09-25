@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-2026-09-26-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "BoF trade review is balanced/ambivalent, explicitly questioning whether the show is genuine reinvention or polished homage.",
+    "signal_tags": ["trade_press", "runway", "mixed_verdict"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-26-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "AP wire descriptive coverage of brand-staged show with celebrity attendees; activation coverage, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "celebrity", "runway"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-26-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebratory but explicitly non-critical descriptive celebrity-entrance coverage; discounted per activation-coverage rule.",
+    "signal_tags": ["activation_coverage", "celebrity", "sns_buzz"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-26-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent analysts (Berenberg, Barclays) and a Milan consultant flag Made-in-China provenance/price tension and investor doubt on Gucci pricing.",
+    "signal_tags": ["analyst_verdict", "provenance", "pricing_concern", "quality_concern"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-26-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread split between praise for quieter direction and criticism that it lacks archival wit; net mixed.",
+    "signal_tags": ["community", "runway", "mixed_verdict"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-09-26-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread with mixed views on whether new Flora bag materials feel as premium as Michele-era pieces.",
+    "signal_tags": ["community", "product_quality", "mixed_verdict"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-09-26-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Volume of outlet-haul discovery content signals frequent-discount visibility that trade press links to eroding full-price brand prestige.",
+    "signal_tags": ["sns_buzz", "outlet_discount", "prestige_erosion"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-09-26-009",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade analysis cites narrowing US sales decline and handbag rebound as turnaround signals, though explicitly hedged as fragile/unconfirmed.",
+    "signal_tags": ["trade_press", "sales_momentum", "hedged"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-09-26-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Instagram reposts of activation-adjacent celebrity clip show split comment sentiment (admiration vs joking), no clear net polarity.",
+    "signal_tags": ["sns_buzz", "activation_coverage", "celebrity", "mixed_verdict"],
+    "confidence": 0.5
+  }
+]

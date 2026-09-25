@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEA-2026-09-26-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "AFP wire descriptive collection recap; sales-decline-slowing detail is hedged and buried, not a clear independent verdict",
+    "signal_tags": ["runway_review", "wire_coverage", "earnings_mention"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-09-26-02",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely promotional livestream preview aimed at SEA audiences, no evaluative content",
+    "signal_tags": ["activation_coverage", "livestream_promo"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-09-26-03",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press independent critical judgment praising Demna's first full creative articulation",
+    "signal_tags": ["trade_press_review", "runway_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-26-05",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical business piece on Asia store-network saturation and consumer pullback on luxury spend, a clear regional headwind",
+    "signal_tags": ["store_closures", "earnings_momentum", "consumer_pullback"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-26-06",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Rare permanent price cuts break luxury pricing taboo, raising resale-value and discount-image concerns for regional shoppers",
+    "signal_tags": ["price_cut", "resale_value", "discount_image"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-26-07",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Majority-critical enthusiast forum thread with viral 'Gucci is dead' sentiment on campaign disconnect",
+    "signal_tags": ["community_sentiment", "design_criticism", "lost_its_way"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-26-09",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Culture-magazine review describes stylistic archetypes without a clear positive or negative verdict",
+    "signal_tags": ["runway_review", "culture_press"],
+    "confidence": 0.5
+  }
+]

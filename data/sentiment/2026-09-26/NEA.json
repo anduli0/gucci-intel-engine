@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NEA-2026-09-26-001",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent critic (Vogue Korea) verdict frames Demna's second show as a stabilizing, commercially legible, positive step.",
+    "signal_tags": ["runway_review", "creative_direction", "independent_critique"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-26-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Measured trade coverage treats Gucci as one contender among several new-designer debuts; large SNS buzz is volume not verdict.",
+    "signal_tags": ["runway_coverage", "buzz_volume", "measured_framing"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-26-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Outlet explicitly frames reaction as mixed praise-and-criticism (賛否), a genuinely divided verdict rather than net positive or negative.",
+    "signal_tags": ["runway_review", "mixed_reaction"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-26-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-attendance fandom spike (Song Weilong) is incidental buzz about the star, not an evaluation of the brand or collection.",
+    "signal_tags": ["fandom_spike", "celebrity_attendance", "sns_trend"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-26-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Industry sources warn 'Made in China' sneaker breaking Italian-manufacturing convention could undercut Gucci's luxury repositioning.",
+    "signal_tags": ["design_criticism", "brand_image_risk", "manufacturing_origin"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-26-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Skeptical community explainer treats steep China price cuts as an admission of pricing overreach, echoing discount-distrust sentiment.",
+    "signal_tags": ["price_cut_backlash", "value_for_money", "consumer_distrust"],
+    "confidence": 0.6
+  }
+]

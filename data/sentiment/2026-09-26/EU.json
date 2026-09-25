@@ -1,0 +1,128 @@
+[
+  {
+    "id": "EU-2026-09-26-001",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press review frames Demna's sophomore show as more assured and confident, a genuine critical verdict.",
+    "signal_tags": ["runway_review", "creative_direction", "independent_judgment"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-26-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed verdict: called most convincing effort yet but hype exceeded delivery and opinion split on social media, net balanced.",
+    "signal_tags": ["runway_review", "mixed_reception"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-26-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive takeaways piece raising an open question about heritage fit, no clear evaluative verdict either way.",
+    "signal_tags": ["runway_coverage", "descriptive"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-26-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Multiple independent analysts (Berenberg, Barclays) and a consultant call the Made-in-China sneaker move bad optics and a risk to Gucci's price-value narrative.",
+    "signal_tags": ["controversy", "provenance", "analyst_criticism", "price_value"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-26-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Cautiously optimistic trade analysis, but explicitly notes results are still weak and momentum is unproven; balanced framing kept neutral.",
+    "signal_tags": ["earnings_commentary", "turnaround_narrative"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-26-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent culture-press review critical of overplayed sensuality relative to heritage codes, part of split critical reception.",
+    "signal_tags": ["runway_review", "design_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-26-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Coverage of shock imagery (surgical/severed-head motifs) framed as discomfort splitting critics, tilts negative on discomfort though acknowledges some admiration.",
+    "signal_tags": ["runway_review", "controversy", "mixed_reception"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-26-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Institutional media amplification of show imagery, not an independent editorial judgment; treated as activation-adjacent promo amplification.",
+    "signal_tags": ["media_amplification", "activation_coverage"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-09-26-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pre-show anticipation content with mixed pre-show commentary in replies, fandom/anticipation spike rather than genuine post-show verdict.",
+    "signal_tags": ["fandom_spike", "anticipation", "sns"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-09-26-011",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent creator reaction video with no stated verdict content available; insufficient detail to assign polarity confidently.",
+    "signal_tags": ["creator_content", "insufficient_detail"],
+    "confidence": 0.3
+  },
+  {
+    "id": "EU-2026-09-26-012",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent analysis citing Interbrand data that Gucci lost more brand value than any other luxury house, questioning whether design alone restores desirability.",
+    "signal_tags": ["brand_value_decline", "quantified_data", "desirability_crisis"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-09-26-013",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent commentary framing Gucci's multi-year revenue slide as a symbol of broader luxury malaise and diminished aspirational value.",
+    "signal_tags": ["revenue_decline", "aspirational_value", "community_commentary"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-26-014",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Hard negative momentum press: 217 store closures and 22% sales plunge reported as part of cost-cutting turnaround effort.",
+    "signal_tags": ["negative_earnings", "store_closures", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-26-015",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of flagship boutique and Shawn Mendes performance with no independent evaluative verdict, brand-staged spectacle.",
+    "signal_tags": ["activation_coverage", "store_opening", "ambassador_event"],
+    "confidence": 0.6
+  }
+]

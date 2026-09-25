@@ -1,0 +1,337 @@
+{
+  "date": "2026-09-26",
+  "regions": {
+    "NEA": {
+      "GMAI": 48.11,
+      "band": "중립",
+      "NSS": -0.0451,
+      "components": {
+        "sentiment": 0.4774,
+        "buzz": 0.8135,
+        "engagement": 0.5,
+        "sov": 0.1429
+      },
+      "contrib": {
+        "sentiment": 21.48,
+        "buzz": 16.27,
+        "engagement": 7.5,
+        "sov": 2.86
+      },
+      "sov_known": true,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 5.6,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "design_criticism",
+            -4.48
+          ],
+          [
+            "brand_image_risk",
+            -4.48
+          ],
+          [
+            "manufacturing_origin",
+            -4.48
+          ],
+          [
+            "price_cut_backlash",
+            -1.02
+          ]
+        ],
+        "pos": [
+          [
+            "independent_critique",
+            4.48
+          ],
+          [
+            "creative_direction",
+            4.48
+          ],
+          [
+            "runway_review",
+            4.48
+          ]
+        ]
+      },
+      "channel_mix": {
+        "news": 4,
+        "sns": 2,
+        "community": 0
+      },
+      "counts": {
+        "pos": 1,
+        "neu": 3,
+        "neg": 2
+      },
+      "n_items": 6,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": 17.26,
+        "buzz": 5.1,
+        "engagement": 0.0,
+        "sov": -3.81
+      },
+      "delta": 18.56
+    },
+    "SEA": {
+      "GMAI": 66.65,
+      "band": "우호",
+      "NSS": 0.1415,
+      "components": {
+        "sentiment": 0.5708,
+        "buzz": 0.8956,
+        "engagement": 0.5,
+        "sov": 0.7778
+      },
+      "contrib": {
+        "sentiment": 25.68,
+        "buzz": 17.91,
+        "engagement": 7.5,
+        "sov": 15.56
+      },
+      "sov_known": true,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 5.2,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "store_closures",
+            -2.13
+          ],
+          [
+            "earnings_momentum",
+            -2.13
+          ],
+          [
+            "consumer_pullback",
+            -2.13
+          ],
+          [
+            "price_cut",
+            -0.77
+          ]
+        ],
+        "pos": [
+          [
+            "runway_review",
+            6.08
+          ],
+          [
+            "trade_press_review",
+            6.08
+          ]
+        ]
+      },
+      "channel_mix": {
+        "news": 5,
+        "sns": 1,
+        "community": 1
+      },
+      "counts": {
+        "pos": 1,
+        "neu": 3,
+        "neg": 3
+      },
+      "n_items": 7,
+      "sov_source": "collection-derived",
+      "delta_attrib": {
+        "sentiment": 3.52,
+        "buzz": -0.27,
+        "engagement": 0.0,
+        "sov": 10.56
+      },
+      "delta": 13.8
+    },
+    "NA": {
+      "GMAI": 49.7,
+      "band": "중립",
+      "NSS": -0.1611,
+      "components": {
+        "sentiment": 0.4194,
+        "buzz": 0.9842,
+        "engagement": 0.5,
+        "sov": 0.1818
+      },
+      "contrib": {
+        "sentiment": 18.87,
+        "buzz": 19.68,
+        "engagement": 7.5,
+        "sov": 3.64
+      },
+      "sov_known": true,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 7.2,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "analyst_verdict",
+            -4.12
+          ],
+          [
+            "provenance",
+            -4.12
+          ],
+          [
+            "pricing_concern",
+            -4.12
+          ],
+          [
+            "quality_concern",
+            -4.12
+          ]
+        ],
+        "pos": [
+          [
+            "hedged",
+            0.91
+          ],
+          [
+            "sales_momentum",
+            0.91
+          ],
+          [
+            "trade_press",
+            0.91
+          ]
+        ]
+      },
+      "channel_mix": {
+        "news": 5,
+        "sns": 2,
+        "community": 2
+      },
+      "counts": {
+        "pos": 1,
+        "neu": 6,
+        "neg": 2
+      },
+      "n_items": 9,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": 12.39,
+        "buzz": 4.03,
+        "engagement": 0.0,
+        "sov": -1.63
+      },
+      "delta": 14.8
+    },
+    "EU": {
+      "GMAI": 50.26,
+      "band": "중립",
+      "NSS": -0.1258,
+      "components": {
+        "sentiment": 0.4371,
+        "buzz": 0.9879,
+        "engagement": 0.5,
+        "sov": 0.1667
+      },
+      "contrib": {
+        "sentiment": 19.67,
+        "buzz": 19.76,
+        "engagement": 7.5,
+        "sov": 3.33
+      },
+      "sov_known": true,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 11.2,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "controversy",
+            -3.21
+          ],
+          [
+            "provenance",
+            -2.57
+          ],
+          [
+            "analyst_criticism",
+            -2.57
+          ],
+          [
+            "price_value",
+            -2.57
+          ]
+        ],
+        "pos": [
+          [
+            "independent_judgment",
+            2.26
+          ],
+          [
+            "creative_direction",
+            2.26
+          ],
+          [
+            "runway_review",
+            0.48
+          ]
+        ]
+      },
+      "channel_mix": {
+        "news": 9,
+        "sns": 3,
+        "community": 2
+      },
+      "counts": {
+        "pos": 1,
+        "neu": 7,
+        "neg": 6
+      },
+      "n_items": 14,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": 6.05,
+        "buzz": 8.41,
+        "engagement": 0.0,
+        "sov": 0.83
+      },
+      "delta": 15.3
+    }
+  },
+  "global": {
+    "GMAI": 51.33,
+    "band": "중립",
+    "delta": 16.13,
+    "delta_attrib": {
+      "sentiment": 11.25,
+      "buzz": 5.11,
+      "engagement": 0.0,
+      "sov": -0.24
+    },
+    "sentiment_weighted": 0.4628
+  },
+  "missing_blocks": [],
+  "triggers": [
+    "GLOBAL |Δ| ≥ 7pt (Δ=+16.13)"
+  ],
+  "triggers_v2": [
+    {
+      "code": "global_delta",
+      "delta": 16.13
+    }
+  ],
+  "region_weights_used": {
+    "NEA": 0.35,
+    "SEA": 0.12,
+    "NA": 0.25,
+    "EU": 0.28
+  }
+}
