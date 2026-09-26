@@ -1,0 +1,90 @@
+[
+  {
+    "id": "EU-2026-09-27-001",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "T1 critic review questions whether aesthetic durably fixes Gucci's identity/demand despite hype, net skeptical verdict",
+    "signal_tags": ["critic_review", "design_criticism", "identity_narrative"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-27-002",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press frames show under commercial pressure narrative, cites -2% comparable revenue decline, questions creative merit vs budget verdict",
+    "signal_tags": ["negative_earnings", "design_criticism", "commercial_pressure"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-09-27-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Critic reads show as playful but 'not fully resolved', ambivalent verdict without clear polarity",
+    "signal_tags": ["critic_review", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-27-004",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Grassroots fan-forum consensus overwhelmingly negative, calling collection a tragedy and predicting a flop",
+    "signal_tags": ["design_criticism", "community_backlash", "flop_narrative"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-27-005",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Continuing fan-forum thread calls womenswear abysmal and predicts another huge flop, dominant negative consensus",
+    "signal_tags": ["design_criticism", "community_backlash", "flop_narrative"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-27-006",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade piece frames show as a commercial stabilization test amid slowing sales decline, factual/neutral framing without clear verdict",
+    "signal_tags": ["trade_press", "commercial_pressure"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-27-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD piece is descriptive summary noting the broader review wave split between praise and skepticism, no standalone verdict",
+    "signal_tags": ["trade_press", "mixed_reaction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-09-27-008",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic Italian consumer reviews report product failures within months and ineffective warranty support",
+    "signal_tags": ["quality_complaint", "customer_service", "value_for_money"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-27-009",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale volumes rising as new-product sales fall signals demand mismatch and structural headwind for current collections",
+    "signal_tags": ["resale_data", "demand_mismatch", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-27-010",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade wrap of collection elements and staging, no evaluative verdict from outlet",
+    "signal_tags": ["trade_press", "descriptive_only"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-27-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregated social reaction roundup is genuinely polarized between harsh dismissals and defenders, no dominant lean",
+    "signal_tags": ["sns_discourse", "mixed_reaction"],
+    "confidence": 0.5
+  }
+]

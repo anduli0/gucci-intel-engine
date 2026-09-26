@@ -1,0 +1,128 @@
+[
+  {
+    "id": "NEA-2026-09-27-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 wire: analysts and Milan consultant warn 'Made in China' sourcing damages Italian-heritage positioning; organic critical press, not activation.",
+    "signal_tags": ["quality_provenance", "manufacturing_controversy", "critical"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-27-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Chinese-language echo of same sourcing controversy, explicitly linking it to a sales slump and brand-image weakening; organic critical coverage.",
+    "signal_tags": ["quality_provenance", "manufacturing_controversy", "critical"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-27-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Value-for-money dispute: Chinese shoppers cautious about price cuts, some preferring gold over bags; mild/conditional organic skepticism.",
+    "signal_tags": ["price_cut", "value_for_money", "critical"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-27-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Steep ~29% China markdowns framed as biggest self-initiated cut in a decade with explicit brand-premium erosion risk; clear organic negative.",
+    "signal_tags": ["price_cut", "brand_premium_erosion", "critical"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-27-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Unprecedented store closures plus viral 'like grandma's house' quote signal emotional, headline-level organic brand-image damage.",
+    "signal_tags": ["store_closures", "brand_image", "critical"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-27-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Concrete quantified negative momentum: 84 Kering store closures H1 2026, ~125 Gucci closures planned by 2030, 10 of 46 Korean stores under review.",
+    "signal_tags": ["store_closures", "earnings_pressure", "critical"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-09-27-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent critic verdict from Vogue Korea praising specific looks and the finale gown; qualifies for uncapped 1.0 as genuine third-party judgment, not press-kit description.",
+    "signal_tags": ["runway_review", "independent_critique", "positive"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-27-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of the Store Show with no independent evaluative verdict; per rubric this is 0 regardless of positive tone.",
+    "signal_tags": ["runway_coverage", "activation_coverage", "descriptive"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-27-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-staged ambassador appointment announcement, purely descriptive activation coverage with no independent verdict; discounted to neutral.",
+    "signal_tags": ["ambassador", "activation_coverage", "fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-27-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom/activation spike around ambassador travel; hashtag volume reflects fan enthusiasm for the actress, not organic brand sentiment, so damped to neutral per fandom-trap guidance.",
+    "signal_tags": ["fandom", "activation_coverage", "ambassador", "damped"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-09-27-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Content-farm-pattern Weibo post on price cuts breaking the 'only goes up' luxury pricing myth and citing resale-value risk; treated as low-amplification opinion-thermometer signal, mild negative.",
+    "signal_tags": ["price_cut", "value_for_money", "critical", "content_farm_pattern"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-27-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Incidental, non-evaluative brand mention on a general entertainment community thread; no substantive attitude toward the brand.",
+    "signal_tags": ["incidental_mention", "neutral"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-27-013",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Vogue Korea commentary crediting Demna with reigniting brand momentum, an evaluative third-party judgment on creative direction, not press-kit description.",
+    "signal_tags": ["runway_review", "independent_critique", "positive"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-27-014",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Sector-wide quality-complaint statistics do not name Gucci among top complainants or cite Gucci-specific figures; kept neutral as sector context only.",
+    "signal_tags": ["quality_complaints", "sector_context", "critical"],
+    "confidence": 0.4
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-2026-09-27-001",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fashion-forum roundup overwhelmingly calls Demna's S2027 Gucci show a vulgar, visionless tragedy",
+    "signal_tags": ["design_criticism", "runway_reaction", "organic_community"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-27-002",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Live forum thread split mixed-to-negative on Demna's Gucci collection, with only a small defending minority",
+    "signal_tags": ["design_criticism", "runway_reaction", "mixed_opinion"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-27-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD critical review exists but full verdict is paywalled; no explicit polarity disclosed in available summary",
+    "signal_tags": ["trade_press", "paywalled", "insufficient_evidence"],
+    "confidence": 0.3
+  },
+  {
+    "id": "NA-2026-09-27-004",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reuters wire with Berenberg/Barclays analysts flagging 'Made in China' sneakers as bad for provenance and dampening investor buying as prices fall",
+    "signal_tags": ["quality_provenance", "analyst_criticism", "earnings_momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-27-005",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity activation coverage of Cardi B's Milan walk with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "celebrity", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-27-006",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Meme reuse of Gucci-branded image with no evaluative content about the brand itself",
+    "signal_tags": ["meme", "incidental_mention", "sns_volume"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-09-27-007",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent style creator short explicitly calls the Demna Gucci collection a flop",
+    "signal_tags": ["design_criticism", "organic_sns", "creator_review"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-09-27-008",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community forum discussion raises value-for-money and quality comparison questions without a clear net verdict",
+    "signal_tags": ["value_for_money", "quality_complaint", "ambiguous"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-27-009",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Bernstein analyst note scores Demna's Gucci collection 7.6/10 as 'more good than bad,' a hedged but independent mildly positive verdict",
+    "signal_tags": ["analyst_note", "trade_press", "hedged_positive"],
+    "confidence": 0.7
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SEA-2026-09-27-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive AFP wire show write-up plus factual sales-decline note, no outlet evaluative verdict, activation coverage.",
+    "signal_tags": ["activation_coverage", "runway", "wire_syndication"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-27-02",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Bernstein analyst verdict calling debut 'more good than bad', an improvement vs predecessor, not brand-staged content.",
+    "signal_tags": ["analyst_reaction", "independent_judgment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-27-03",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation write-up with mild outlet praise ('recapturing sprezzatura'); capped at 0.5 per activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "runway"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-27-04",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador fan/management account descriptive departure post, no evaluative content, fandom + activation coverage.",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-09-27-05",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fandom framing of ambassador debut as a status win; damped per fandom trap, not counted as organic brand-quality sentiment.",
+    "signal_tags": ["fandom", "ambassador", "cross_border_fan_chatter"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-27-06",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic negative community sentiment on KLCC store closure ('cringe brand', 'dead mall'), but flagged stale/borderline so magnitude and confidence reduced.",
+    "signal_tags": ["store_closure", "critical", "stale_borderline"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-27-07",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fresh organic Malay-language consumer post expressing mild skepticism about Gucci's KLCC exit alongside Dior's parallel departure.",
+    "signal_tags": ["store_closure", "critical", "organic"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-09-27-08",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure access/broadcast-time promo framing with zero independent evaluative content; activation coverage scored 0 per rubric.",
+    "signal_tags": ["activation_coverage", "promotional"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-27-09",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press briefing citing continued sales softness and investor impatience with turnaround pace; not activation coverage.",
+    "signal_tags": ["independent_judgment", "critical", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-27-10",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic community reaction genuinely split between praise and harsh 'worst show' criticism; balanced polarity so kept neutral per doubt rule.",
+    "signal_tags": ["organic", "critical", "mixed_sentiment", "community"],
+    "confidence": 0.5
+  }
+]
