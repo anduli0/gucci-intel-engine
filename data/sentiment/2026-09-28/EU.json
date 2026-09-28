@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EU-2026-09-28-001",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent critic (WWD) frames SS27 show as Demna's first fully personal, favorable statement for the house.",
+    "signal_tags": ["runway_review", "critic_verdict", "creative_direction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-28-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade press calls show commercially convincing but explicitly flags overstated pre-show hype and divisive social reception; net mixed, kept neutral.",
+    "signal_tags": ["trade_press", "mixed_verdict", "hype_caveat"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-28-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade write-up of show themes (aristocracy/pop culture) with no clear evaluative verdict.",
+    "signal_tags": ["activation_coverage", "descriptive"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-09-28-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Brand Finance ranking shows Gucci falling to 5th on weakened brand strength and softer demand; dated/context item so capped magnitude.",
+    "signal_tags": ["brand_ranking", "quantified_data", "stale_context"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-09-28-005",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Kering Q2 results show Gucci's organic sales decline narrowing and margin improving; positive momentum but outside freshness window, background context.",
+    "signal_tags": ["earnings", "momentum", "stale_context"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-09-28-006",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Community forum posters react positively to the show, saying it made Gucci feel cool and young again.",
+    "signal_tags": ["community_reaction", "purchase_intent_adjacent"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-28-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom spike around Thai ambassadors attending the show; volume driven by fan enthusiasm not critical brand commentary, damped per fandom trap.",
+    "signal_tags": ["fandom_spike", "ambassador", "damped"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-28-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Viral celebrity-entrance moment generating fan/spectacle commentary but no clear evaluative statement about the brand itself.",
+    "signal_tags": ["celebrity_spectacle", "activation_coverage"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-09-28-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador front-row appearance coverage, press-kit adjacent, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "descriptive"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-09-28-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Short-form video guest roundup is descriptive activation coverage with no evaluative content.",
+    "signal_tags": ["activation_coverage", "descriptive", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-28-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale demand persists but new-product sales decline signals weakened full-price purchase intent; dated context item, capped magnitude.",
+    "signal_tags": ["resale_data", "value_for_money", "stale_context"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-28-012",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Union strike over restructuring plan including store closures and SKU cuts at Gucci; labor unrest controversy, dated context item.",
+    "signal_tags": ["labor_unrest", "restructuring", "controversy", "stale_context"],
+    "confidence": 0.7
+  }
+]

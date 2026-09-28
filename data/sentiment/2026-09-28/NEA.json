@@ -1,0 +1,114 @@
+[
+  {
+    "id": "NEA-2026-09-28-001",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "GQ Korea's admiring analytical read of the SS27 show is activation-adjacent trade coverage with an evaluative tone, capped per activation discount",
+    "signal_tags": ["show_review", "activation_coverage", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-28-002",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Profile foregrounds steep, quantified sales declines (21% 2024, 25% H1 2025) and revisits a past controversy, outweighing design-philosophy framing",
+    "signal_tags": ["negative_earnings", "controversy_revisit", "momentum_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-28-003",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Vogue Korea critic review praises the collection's cohesive synthesis of codes and themes",
+    "signal_tags": ["collection_review", "independent_critic"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-28-004",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD Japan T1 trade review favorably compares the show's sexy, realist direction to Tom Ford-era Gucci",
+    "signal_tags": ["collection_review", "independent_critic", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-28-005",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive recap of show staging and styling with no evaluative verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-28-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Official permanent price cuts of up to 40% tied to revenue decline break luxury pricing norms and signal discount/repositioning damage",
+    "signal_tags": ["price_cut", "discount_image", "negative_earnings"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-28-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive report on the immersive store-set show and celebrity attendee list, no evaluative verdict given",
+    "signal_tags": ["activation_coverage", "celebrity_attendance"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-28-008",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Netizen sentiment shift toward approval citing restrained logo use and tailoring, but celebrity turnout is a contributing factor so damped per fandom trap",
+    "signal_tags": ["sns_sentiment_shift", "fandom_spike", "design_praise"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-28-009",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer thread frames the price cut as breaking the 'only rises' rule and voices skepticism about resale/value retention",
+    "signal_tags": ["value_for_money", "resale_concern", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-28-010",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reseller commentary says hard-goods price hikes are driving buyers away, reflecting value-for-money backlash affecting Gucci among peers",
+    "signal_tags": ["price_hike_backlash", "reseller_sentiment", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-28-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine authentication/purchase inquiry chatter, steady non-spiking community volume, not a genuine counterfeit controversy",
+    "signal_tags": ["community_chatter", "authentication_inquiry"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-28-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Hedged business-press assessment weighing reputation risk against early stabilization signs, no clear verdict either way",
+    "signal_tags": ["earnings_context", "mixed_assessment"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-28-013",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD review mostly relays Demna's own show-note framing without the outlet's independent evaluative verdict",
+    "signal_tags": ["show_review", "activation_coverage", "trade_press"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-09-28-014",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregation thread reflects confused/mixed consumer perception of conflicting price-hike and price-cut news, no clear polarity",
+    "signal_tags": ["sns", "mixed_signal", "pricing_confusion"],
+    "confidence": 0.5
+  }
+]

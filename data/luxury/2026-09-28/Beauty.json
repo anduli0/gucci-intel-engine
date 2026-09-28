@@ -1,0 +1,152 @@
+{
+  "brand_group": "Beauty",
+  "date": "2026-09-28",
+  "mode": "weekly",
+  "findings": [
+    {
+      "brand": "Prada Beauty",
+      "event_type": "trend",
+      "headline": "프라다 뷰티, 8월 스킨·컬러 두 라인 정식 론칭 이후 편집숍 확대로 급부상 지속",
+      "summary": "프라다 뷰티는 8월 1일 '프라다 스킨'(어댑토.gn 스마트 테크놀로지 기반 크림·세럼·클렌저)과 '프라다 컬러' 두 라인을 정식 론칭했으며, 리필 가능 용기 설계와 해로즈·셀프리지 입점을 축으로 벨라 하디드를 첫 글로벌 뷰티 앰배서더로 내세워 화제성을 이어가고 있다.",
+      "url": "https://cewuk.co.uk/prada-launch-prada-beauty/",
+      "source": "CEW UK / Cosmetics Business",
+      "tier": "T2",
+      "published_at": "2026-08-01",
+      "why_it_matters": "프라다 뷰티가 신규 라인 두 개와 톱 모델 앰배서더 체제로 편집숍 화제성을 계속 키우는 것은, 신제품 없이 라이선스 전환기(2028년까지)에 머물러 있는 구찌 뷰티가 같은 기간 잃을 수 있는 프레스티지 뷰티 진열대·미디어 노출 점유율을 구체적으로 보여준다.",
+      "why_it_matters_en": "Prada Beauty sustaining momentum with two new lines and a top-model ambassador well past its August launch — while Gucci Beauty remains in a licensing-transition product vacuum until 2028 — concretely illustrates the shelf and media-share Gucci risks ceding in prestige beauty.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Estée Lauder (Tom Ford / La Mer / Clinique / Aveda)",
+      "event_type": "legal",
+      "headline": "에스티로더, 월마트 상대 위조품 소송 지속 — 톰 포드·라 메르·클리니크 등 정품 인증 훼손 주장",
+      "summary": "에스티로더는 월마트가 자사 온라인몰에서 톰 포드, 라 메르, 클리니크, 아베다, 르 라보 등 브랜드의 위조 화장품·향수를 판매했다고 주장하며 제기한 소송을 이어가고 있으며, 위조품이 정품 인증과 소비자 신뢰를 훼손한다는 점을 핵심 쟁점으로 삼고 있다.",
+      "url": "https://local12.com/news/nation-world/estee-lauder-company-accuses-walmart-of-selling-counterfeit-beauty-products-including-tom-ford-cincinnati-aveda-clinique-la-mer-le-labo-seal-of-authenticity-counterfeits-consumer-alerts-bitter-peach-fakes-skincare-fragrance-beauty-product-packaging",
+      "source": "Local12 / CNBC",
+      "tier": "T2",
+      "published_at": "2026-02-10",
+      "why_it_matters": "대형 유통망을 통한 위조품 유통이 톰 포드·라 메르 같은 억대 매출 브랜드에서도 법적 분쟁으로 비화하는 것은, 구찌가 뷰티 라이선스 전환기에 온라인·오프라인 유통 채널 통제와 정품 인증 체계를 얼마나 촘촘히 설계해야 하는지를 보여주는 경고 사례다.",
+      "why_it_matters_en": "Counterfeit distribution through major retail escalating into litigation even for billion-dollar brands like Tom Ford and La Mer is a cautionary case for how tightly Gucci must control distribution channels and authentication as its beauty license transitions.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Coty (David Beckham / Rabanne category peers)",
+      "event_type": "legal",
+      "headline": "Coty, 데이비드 베컴 향수 라이선스 놓고 4100만 달러 규모 소송 직면 — 향수 사업 신뢰도에 타격",
+      "summary": "데이비드 베컴 브랜드를 보유한 DB Ventures는 Coty가 라이선스 계약을 위반해 주유소 등 부적절한 유통 채널에 제품을 유통시켰다며 최소 4100만 달러의 손해배상을 청구하는 소송을 뉴욕에서 제기했으며, 이는 Coty의 최대 수익원인 향수 부문에 대한 또 다른 압박 요인으로 지목된다.",
+      "url": "https://www.globalcosmeticsnews.com/coty-faces-us41m-lawsuit-over-david-beckham-fragrance-licence-dispute/",
+      "source": "Global Cosmetics News / Reuters",
+      "tier": "T1",
+      "published_at": "2026-05-01",
+      "why_it_matters": "Coty가 라이선스 브랜드 유통 관리 실패로 거액 소송에 휘말리는 사례는, 2027년 6월까지 Coty가 구찌 뷰티를 계속 운영한다는 점에서 구찌 브랜드의 유통 품질 관리가 라이선스 파트너의 다른 분쟁 리스크와 무관하지 않음을 시사한다.",
+      "why_it_matters_en": "Coty being hit with a major distribution-related licensing lawsuit is directly relevant since Coty continues operating Gucci Beauty through mid-2027 — a reminder that Gucci's brand-distribution quality is not insulated from its licensing partner's other legal exposure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Beauty industry (WWD Power Brands 2026)",
+      "event_type": "trend",
+      "headline": "WWD '2026 파워 브랜드' 50선 발표 — 레거시와 신생 브랜드 동반 부상 구도 재확인",
+      "summary": "WWD는 매출 호조를 보이는 레거시 하우스와 신흥 브랜드를 아우른 '2026년 가장 강력한 뷰티 브랜드' 50개 리스트를 발표했으며, 파워 창업자·파워 제품 리스트도 함께 공개해 업계 전반의 브랜드 파워 지형을 재정리했다.",
+      "url": "https://wwd.com/beauty-industry-news/beauty-features/lists/beauty-power-brands-2026-1239143216/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-21",
+      "why_it_matters": "업계 파워 브랜드 리스트가 매년 갱신되는 것 자체가 프레스티지 뷰티 경쟁의 서열 유동성을 보여주며, 신제품이 없는 구찌 뷰티는 이런 연례 랭킹류 미디어 노출 기회에서도 당분간 소외될 수밖에 없다.",
+      "why_it_matters_en": "The annual reshuffling of industry power-brand rankings underscores how fluid prestige-beauty pecking order is — a media-visibility opportunity Gucci Beauty cannot currently compete for given its ongoing product drought.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "TikTok Shop beauty category",
+      "event_type": "trend",
+      "headline": "TikTok숍 뷰티 카테고리 상반기 20억8000만 달러 매출 — K뷰티가 상위 매출 브랜드 대거 장악",
+      "summary": "TikTok숍의 뷰티·퍼스널케어 카테고리는 2026년 1~6월 20억8000만 달러 매출을 기록해 최대 카테고리로 자리잡았으며, 상위 매출은 메디큐브·닥터멜라신 등 K뷰티 브랜드가 다수를 차지했고 향수 부문만도 2억1800만 달러 규모로 나타났다.",
+      "url": "https://wwd.com/business-news/business-features/tiktok-shop-beauty-sales-2-billion-dollar-growth-1239106171/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-08",
+      "why_it_matters": "럭셔리 향수·메이크업이 아닌 K뷰티 매스 브랜드가 소셜커머스 매출 상위를 장악하는 구도는, 구찌 뷰티가 향후 L'Oréal 체제로 재출범할 때 소셜커머스 채널 전략을 처음부터 재설계해야 함을 시사한다.",
+      "why_it_matters_en": "Mass K-beauty brands, not luxury fragrance or makeup houses, dominate top social-commerce sales — a signal that Gucci Beauty will need to design its social-commerce channel strategy from scratch once it relaunches under L'Oréal.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Rabanne Beauty (Puig)",
+      "event_type": "executive",
+      "headline": "퓌그 산하 라바니, 르노 드 레스켕을 패션·뷰티 총괄 사장으로 선임 — 뷰티·패션 시너지 확대 포석",
+      "summary": "퓌그는 지방시·디올 아메리카스 CEO 출신 르노 드 레스켕을 라바니의 패션·뷰티 총괄 사장으로 임명했으며, 라바니는 향수·화장품 투자를 기반으로 퓌그 산하 첫 매출 10억 유로 돌파 브랜드로 성장한 상태다.",
+      "url": "https://www.premiumbeautynews.com/en/rabanne-puig-names-renaud-de,27428,en",
+      "source": "Premium Beauty News",
+      "tier": "T2",
+      "published_at": "2026-04-01",
+      "why_it_matters": "패션 하우스 임원 출신을 뷰티·패션 통합 총괄로 앉혀 향수 매출을 10억 유로 브랜드로 키운 라바니의 사례는, 구찌가 뷰티 재출범 시 패션-뷰티 조직 통합 리더십 모델을 벤치마크할 만하다.",
+      "why_it_matters_en": "Rabanne installing a fashion-executive-turned-beauty-fashion president and scaling to a billion-euro brand on fragrance/cosmetics investment is a leadership-integration model worth benchmarking for Gucci's eventual beauty relaunch.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Chanel Beauty",
+      "event_type": "executive",
+      "headline": "샤넬, 루치아 피에로니를 크리에이티브 메이크업 디렉터로 선임 — 마테유 블라지 런웨이 뷰티 파트너 정식 영입",
+      "summary": "샤넬은 마테유 블라지의 2025년 10월 데뷔 컬렉션부터 런웨이 뷰티를 함께 만들어온 화가 출신 메이크업 아티스트 루치아 피에로니를 크리에이티브 메이크업 디렉터로 공식 임명했으며, 피에로니는 시세이도 산하 끌레드포 보떼에서 2006~2019년 메이크업 크리에이티브 디렉터를 지낸 인물로 프래그런스·뷰티 총괄 시모나 카타네오에게 보고한다.",
+      "url": "https://wwd.com/beauty-industry-news/color-cosmetics/chanel-names-lucia-pieroni-top-makeup-role-1239260255/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-25",
+      "why_it_matters": "샤넬이 신임 아티스틱 디렉터의 런웨이 메이크업 파트너를 뷰티 부문 정식 리더로 앉혀 패션-뷰티 크리에이티브를 한 인물로 통합하는 것은, 구찌가 뷰티 재출범 시 크리에이티브 디렉터와 뷰티 메이크업 총괄 간 협업 구조를 어떻게 설계할지에 대한 참고 사례다.",
+      "why_it_matters_en": "Chanel formally installing its new artistic director's runway makeup collaborator as Creative Makeup Director — unifying fashion and beauty creative under one figure — is a structural reference point for how Gucci might align its own creative director with beauty leadership once it relaunches.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Beauty industry (dupe/copycat culture)",
+      "event_type": "trend",
+      "headline": "BoF, '우연한 카피캣' 논란 심층 분석 — 펜티 뷰티·후다 뷰티·글로우 레시피 등 유사 제품 동시다발 출시 파문",
+      "summary": "Business of Fashion은 한국 포장재 제조사 삼화가 개발한 신규 아이마스크 그라인더 디자인을 펜티 뷰티·후다 뷰티·글로우 레시피 등 다수 브랜드가 거의 동시에 채택해 출시하며 벌어진 논란과, 몰리 심스가 자신의 브랜드 YSE 뷰티의 '와이드 어웨이크' 아이크림과 동일한 이름을 존스 로드가 콘실러에 붙인 데 대해 공개 반발한 사례를 통해 뷰티 업계의 의도적 듀프와 '우연한 카피캣'의 경계가 갈수록 흐려지고 있다고 짚었다.",
+      "url": "https://www.businessoffashion.com/articles/topics/how-beauty-can-avoid-accidental-copycats/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-09-25",
+      "why_it_matters": "제조사 공급망을 공유하는 다수 브랜드가 비슷한 제품·이름을 거의 동시에 출시해 카피캣 논란이 반복되는 구도는, 구찌 뷰티가 재출범 후 신제품을 낼 때 패키징·네이밍 단계에서부터 독자성 확보를 얼마나 신경 써야 하는지를 보여준다.",
+      "why_it_matters_en": "Repeated copycat controversies — where brands sharing manufacturer supply chains launch near-identical products and names almost simultaneously — is a cautionary signal for how carefully Gucci Beauty must guard packaging and naming distinctiveness when it eventually launches new products.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Interparfums (fragrance licensing / Puma)",
+      "event_type": "licensing",
+      "headline": "인터퍼퓸스, 퓨마와 글로벌 향수 라이선스 체결 — 2027년 론칭 예정, 스포츠·라이프스타일 향수 시장 재확인",
+      "summary": "인터퍼퓸스는 9월 22일 스포츠 브랜드 퓨마와 2037년 말까지 이어지는 독점 글로벌 향수 라이선스 계약을 체결했다고 발표했으며, 2027년 새로운 시그니처 라이프스타일 향수 출시를 목표로 애슬레저 감성과 퓨마의 글로벌 소비자층을 활용할 계획이다.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/interparfums-inks-global-fragrance-deal-201500505.html",
+      "source": "Yahoo Finance / TipRanks",
+      "tier": "T2",
+      "published_at": "2026-09-22",
+      "why_it_matters": "럭셔리 하우스가 아닌 스포츠·라이프스타일 브랜드까지 장기 향수 라이선스 계약이 이어지는 것은 향수 카테고리 전반의 라이선싱 경쟁이 치열해지고 있음을 보여주며, 구찌 뷰티의 L'Oréal 이관 협상에서도 장기 라이선스 조건(로열티율, 독점성, 최소보장금)이 업계 표준으로 얼마나 타이트해질지 가늠할 참고선이 된다.",
+      "why_it_matters_en": "Long-term fragrance licensing deals extending beyond luxury houses to sports/lifestyle brands show how competitive fragrance licensing terms have become industry-wide — a useful benchmark for how tight terms (royalty rates, exclusivity, minimum guarantees) might get in Gucci Beauty's own L'Oréal transition.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci Beauty",
+      "event_type": "licensing",
+      "headline": "L'Oréal, Coty로부터 구찌 뷰티 라이선스 1년 앞당겨 인수 — 2027년 7월 이관, 2028년 첫 제품 목표",
+      "summary": "L'Oréal은 Kering과 구찌 브랜드에 대한 50년 독점 글로벌 뷰티·향수 라이선스 계약을 체결했으며, 원래 2028년 6월 만료 예정이던 Coty와의 기존 계약을 1년 앞당겨 2027년 7월 1일부로 조기 이관하기로 했다. Coty는 조기 상환 대가로 약 4억 달러(2026년 2.5억 달러, 2027년 최대 1.5억 달러)를 받는다.",
+      "url": "https://www.loreal.com/en/press-release/group/l-oreal-enters-a-50-year-exclusive-worldwide-beauty-licence-with-kering--for-the-gucci-brand/",
+      "source": "L'Oréal (press release)",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "구찌 뷰티의 라이선스 주인이 Coty에서 L'Oréal로 바뀌는 것은 구찌 브랜드 자산과 직결되는 50년 단위의 구조적 결정으로, L'Oréal이 '수십억 유로급 브랜드'로 키우겠다고 공언한 이상 향후 Coty 운영 종료(2027.7)부터 첫 신제품(2028년) 사이의 실행 공백을 어떻게 관리하는지가 핵심 관전 포인트다.",
+      "why_it_matters_en": "The Gucci Beauty license moving from Coty to L'Oréal is a 50-year structural decision directly tied to Gucci's own brand equity; with L'Oréal publicly targeting a multibillion-euro brand, how the gap between Coty's operational handoff (July 2027) and the first new product (2028) is managed remains the central watch point.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "La Mer / Estée Lauder",
+      "event_type": "executive",
+      "headline": "에스티로더, 라 메르 총괄 산드라 메인 은퇴에 맞춰 럭셔리 뷰티 브랜드 총괄 신설 조직개편 단행",
+      "summary": "에스티로더는 9월 3일 산드라 메인의 은퇴를 계기로 '글로벌 럭셔리 뷰티 브랜드 총괄'이라는 신설 직책을 만들어 저스틴 박스포드에게 에스티로더·에어린·다르팡·랩시리즈에 라 메르까지 총괄하도록 맡겼으며, 에리카 콱을 에스티로더 브랜드 SVP 겸 GM으로 임명했다.",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/09-03-2026-153719797",
+      "source": "The Estée Lauder Companies (press release)",
+      "tier": "T1",
+      "published_at": "2026-09-03",
+      "why_it_matters": "세계 1위 럭셔리 스킨케어 브랜드 라 메르를 포함한 조직 통폐합은 에스티로더가 럭셔리 브랜드군을 하나의 리더십 아래 재정비해 효율화를 꾀하는 신호로, 2027년 이후 구찌 뷰티를 인수할 L'Oréal 진영과의 럭셔리 뷰티 경쟁 구도 재편에 참고할 사례다.",
+      "why_it_matters_en": "Consolidating leadership over La Mer (the world's No.1 luxury skincare brand) alongside Estée Lauder and other brands under one new President role signals ELC restructuring its luxury portfolio for efficiency — a reference point as L'Oréal's camp (future Gucci Beauty parent) reshapes the luxury beauty competitive landscape.",
+      "relevance": "category trend"
+    }
+  ]
+}

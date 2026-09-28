@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SEA-2026-09-28-01",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent wire coverage quotes Berenberg and consultant Simon Whitehouse ('not a good look') criticizing Made-in-China provenance shift.",
+    "signal_tags": ["critical", "independent_judgment", "wire_syndication", "manufacturing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-28-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 Reuters wire with Barclays/Berenberg analysts flagging value-proposition and provenance tension for the Drip sneaker.",
+    "signal_tags": ["critical", "independent_judgment", "analyst_reaction", "manufacturing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-28-03",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregated social backlash over cost-cutting perception and cited revenue decline, discounted for unverified engagement metrics.",
+    "signal_tags": ["critical", "sns_aggregation", "manufacturing"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-28-04",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-staged ambassador announcement with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-28-05",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan/management account send-off post is descriptive activation coverage, no independent brand-quality judgment.",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-28-06",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan enthusiasm over joint ambassador photo at Milan show, damped per fandom-spike trap rather than independent judgment.",
+    "signal_tags": ["fandom", "ambassador", "organic"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-28-07",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Skeptical commentary questions ambassador-deal logic but framing is mixed/analytical rather than clearly negative toward Gucci.",
+    "signal_tags": ["ambassador", "mixed_sentiment", "cross_border_fan_chatter"],
+    "confidence": 0.45
+  },
+  {
+    "id": "SEA-2026-09-28-08",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic consumer forum thread deliberating price-value of a bag purchase; factual deliberation without a settled verdict.",
+    "signal_tags": ["organic", "price_value", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-28-09",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive eyewear collection preview with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-28-10",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive regional retail-activation coverage of boutique launch and ambassador appearance, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "retail", "product_launch"],
+    "confidence": 0.75
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-2026-09-28-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press retrospective framing NY Cruise as template for later show; descriptive/analytical, no clear evaluative verdict on the brand.",
+    "signal_tags": ["trade_press", "activation_coverage", "show_recap"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-28-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent BoF review poses an open question, weighing commercial staging against continued skepticism; no net verdict reached.",
+    "signal_tags": ["trade_press", "critical_review", "ambivalent"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-09-28-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Wire story quotes consultant calling China-made sourcing 'not a good look' and analysts flagging tension with premium turnaround.",
+    "signal_tags": ["sourcing_controversy", "quality_image", "analyst_commentary"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-28-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party data: Gucci US comparable sales rose 9% in Q2, strongest region, leather goods returned to growth.",
+    "signal_tags": ["earnings", "quantified_demand", "background_context"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-28-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of the Store Show and celebrity attendance, explicitly noted as lacking independent critical judgment.",
+    "signal_tags": ["activation_coverage", "celebrity_attendance", "descriptive"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-28-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan-forum thread net negative-leaning: womenswear called 'abysmal'/Chanel-copy, styling mocked, frustration over recycled bestsellers; minority dissent noted.",
+    "signal_tags": ["community", "design_criticism", "value_for_money"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-09-28-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Handbag-collector community shows genuinely mixed opinions on price-versus-craftsmanship value; no net polarity.",
+    "signal_tags": ["community", "value_for_money", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-09-28-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "TikTok discovery feed shows mixed reaction/critique content around the show with no aggregate engagement metrics; net sentiment indeterminate.",
+    "signal_tags": ["sns", "mixed", "no_engagement_data"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-28-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "YouTube comment section explicitly split between praise for merchandising concept and criticism of recycled bestsellers; genuinely mixed.",
+    "signal_tags": ["sns", "mixed", "show_recap"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-09-28-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Business press reports 217+ store closures with Gucci the largest share, plus sales plunge and more closures planned into 2026.",
+    "signal_tags": ["earnings", "store_closures", "negative_momentum"],
+    "confidence": 0.85
+  }
+]

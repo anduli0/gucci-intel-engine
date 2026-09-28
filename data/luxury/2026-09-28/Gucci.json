@@ -1,0 +1,112 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-09-28",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "Demna의 'The Store Show', 밀라노 매장을 통째로 재현한 2027 봄여름 컬렉션 발표",
+      "summary": "Demna Gvasalia가 9월 25~26일 밀라노에서 비아 몬테나폴레오네 매장을 그대로 재현한 세트 위에서 구찌 2027 봄여름 컬렉션을 공개했다. 미니 스커트 정장, 톰 포드 시대를 연상시키는 로우웨이스트 펜슬스커트, 애니멀 프린트 코트 등 '라 파밀리아' 캐릭터들을 재등장시켰다.",
+      "url": "https://www.wmagazine.com/fashion/gucci-spring-2027-runway-photos",
+      "source": "W Magazine",
+      "tier": "T2",
+      "published_at": "2026-09-26",
+      "why_it_matters": "쇼 콘셉트 자체가 '쇼핑'을 무대화한 것으로, 리테일 재건이 브랜드 서사의 중심이라는 신호이지만 상업적 매출 반등으로 이어질지는 아직 미지수다.",
+      "why_it_matters_en": "Staging a runway show as a literal store signals retail-first storytelling under Demna, but critical acclaim has not yet been shown to translate into a sales turnaround.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "SS27 쇼 비평, '완전한 비전 공개'로 호평 다수이나 냉소적 반응도 병존",
+      "summary": "The Zoe Report, Marie Claire, The Impression 등 매체가 Demna의 SS27 쇼를 그의 구찌 미학이 온전히 드러난 컬렉션으로 평가했으나, 일부 포럼·평론에서는 발렌시아가 시절 논란 이력을 다시 소환하며 엇갈린 반응을 보였다.",
+      "url": "https://www.thezoereport.com/fashion/gucci-spring-summer-2027-show-review",
+      "source": "The Zoe Report",
+      "tier": "T2",
+      "published_at": "2026-09-26",
+      "why_it_matters": "평단의 호평은 크리에이티브 방향 안정화의 근거가 되지만, 이는 활동(캠페인·쇼) 자체에 대한 평가이지 소비자 여론이나 매출 회복의 증거로 곧바로 해석할 수 없다.",
+      "why_it_matters_en": "Positive critical reception supports creative-direction stabilization, but this is activation coverage of a staged show, not evidence of consumer sentiment or sales recovery.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "financial",
+      "headline": "Kering 2분기 매출 1% 증가, 구찌는 2% 감소로 낙폭 축소되며 반등 조짐",
+      "summary": "Kering의 2026년 2분기 그룹 매출은 전년 대비 1% 증가했고, 구찌는 유기적 매출이 2% 감소에 그쳐 1분기의 14.3% 감소보다 크게 개선됐다. 신규 백 라인 효과로 가죽제품 부문이 플러스 전환했다.",
+      "url": "https://wwd.com/business-news/financial/kering-group-q2-2025-revenue-ceo-luca-de-meo-gucci-improves-1239085301/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-08-01",
+      "why_it_matters": "낙폭 축소는 긍정적 신호이나 여전히 마이너스 성장이며, 서유럽·중국의 수요 약세가 지속되는 만큼 완전한 턴어라운드로 단정하기는 이르다.",
+      "why_it_matters_en": "The narrowing decline is encouraging but Gucci is still contracting, and weakness in Western Europe and China persists, so calling this a full turnaround is premature.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "Kering, 2026년 매장 100곳 순감축 계획 중 구찌 비중 최대",
+      "summary": "Kering은 2026년 상반기에만 84개 매장을 순감축했으며 연간 목표 100곳 폐점 중 구찌가 가장 큰 비중을 차지할 것으로 전망된다. 폐점의 약 40%는 아시아 시장에 집중된다.",
+      "url": "https://www.thestreet.com/retail/gucci-parent-kering-closes-at-least-217-stores-plans-more",
+      "source": "TheStreet",
+      "tier": "T2",
+      "published_at": "2026-09-15",
+      "why_it_matters": "매장망 축소는 비용 구조 개선 노력이지만 동시에 브랜드 위축·아시아 접근성 약화라는 리스크를 동반하며, 리테일 쇼(The Store Show)의 화려한 서사와 실제 매장 축소 현실 사이의 괴리를 보여준다.",
+      "why_it_matters_en": "Store network rationalization improves cost structure but signals contraction and reduced Asia accessibility, exposing a gap between the glamorous retail narrative of the runway show and the reality of shrinking store count.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "L'Oréal, 구찌 뷰티 라이선스 전환 작업 9월 시작 — 2028년 첫 출시 목표",
+      "summary": "L'Oréal이 Coty로부터 구찌 뷰티 라이선스를 인수한 이후 2026년 9월부터 전환 작업을 시작해 2028년 초 첫 제품 출시를 목표로 하고 있으며, 구찌를 30억 유로 규모 럭셔리 뷰티 브랜드로 키우겠다는 목표를 내걸었다.",
+      "url": "https://www.gcimagazine.com/brands-products/fragrance-home/news/22971614/loral-sees-gucci-as-its-next-luxury-beauty-powerhouse-targets-early-2028-launch",
+      "source": "Global Cosmetic Industry",
+      "tier": "T2",
+      "published_at": "2026-08-03",
+      "why_it_matters": "뷰티 라이선스 대전환은 장기 성장동력이지만 실제 매출 기여까지 2년 이상의 공백기가 있어 단기 실적 개선과는 무관하다.",
+      "why_it_matters_en": "The beauty licensing handover is a long-term growth lever, but a two-plus-year gap before revenue contribution means it has no bearing on near-term results.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "구찌 AI 생성 캠페인 이미지 사용에 업계 반발 지속",
+      "summary": "구찌가 Primavera 쇼 프로모션에 AI 생성 이미지를 사용한 것에 대한 비판이 이어지고 있으며, 이탈리아 장인정신을 표방하는 브랜드가 AI에 의존하는 것에 대한 정체성 논쟁이 커지고 있다.",
+      "url": "https://businesschief.com/news/why-guccis-ai-strategy-sparked-a-high-fashion-debate",
+      "source": "Business Chief",
+      "tier": "T2",
+      "published_at": "2026-03-01",
+      "why_it_matters": "비용 절감을 위한 AI 도입이 '이탈리아 장인정신'이라는 핵심 브랜드 자산과 정면으로 충돌하는 리스크이며, 매출 부진 국면에서 신뢰 회복에 부담으로 작용할 수 있다.",
+      "why_it_matters_en": "Cost-driven AI adoption directly conflicts with the brand's core Italian-craftsmanship positioning, adding a trust-rebuilding burden at a moment of weak sales.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "Francesca Bellettini 체제 1년차, De Meo 3단계 전략 속 구조조정 국면 지속",
+      "summary": "Francesca Bellettini가 구찌 CEO로 취임한 지 약 1년이 됐으며, Kering CEO Luca de Meo는 2026년 말까지 구조적 리셋을 완료하고 2028년까지 지속가능한 성장으로 전환하는 3단계 전략을 추진 중이다.",
+      "url": "https://businesschief.com/news/why-kering-ceo-luca-de-meo-is-moving-focus-away-from-gucci",
+      "source": "Business Chief",
+      "tier": "T2",
+      "published_at": "2026-09-10",
+      "why_it_matters": "그룹 차원의 전략적 우선순위가 구찌에서 다른 브랜드로 분산될 조짐이 있다는 지적은 구찌 회생이 그룹 내 최우선 과제가 아닐 수 있다는 리스크를 시사한다.",
+      "why_it_matters_en": "Reports that group strategic focus may be diffusing away from Gucci toward other Kering houses suggest Gucci's turnaround may not remain the group's top priority.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "Primavera 캠페인, 초대형 글로벌 캐스팅으로 문화적 포지셔닝 시도",
+      "summary": "구찌의 Primavera 캠페인은 Kate Moss, Tom Brady, Shawn Mendes, 진(BTS), 닝닝, 샤오잔, Alex Consani, 이영애 등 초국가적 캐스팅으로 구성됐으며 Michal Chelbin의 르네상스풍 초상 사진과 Johan Renck의 필름으로 전개됐다.",
+      "url": "https://www.designscene.net/2026/08/gucci-primavera-campaign.html",
+      "source": "Design Scene",
+      "tier": "T2",
+      "published_at": "2026-08-15",
+      "why_it_matters": "대규모 글로벌 캐스팅은 각 지역 시장에서의 화제성 확보 전략이지만, 이는 브랜드 자체 마케팅 활동이며 소비자 여론 개선의 증거로 취급해서는 안 된다.",
+      "why_it_matters_en": "The sprawling global celebrity casting is a deliberate multi-market visibility play, but as brand-generated marketing output it should not be read as evidence of improved consumer sentiment.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": []
+}
