@@ -1,0 +1,140 @@
+{
+  "brand_group": "Beauty",
+  "date": "2026-09-29",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Prada Beauty",
+      "event_type": "trend",
+      "headline": "프라다 뷰티, 첫 블러셔 '프라다 터치' 팝업 투어로 뉴욕·LA·마이애미 순회",
+      "summary": "프라다 뷰티가 크림-파우더 텍스처의 첫 블러셔 '프라다 터치' 출시를 기념해 미국 3개 도시를 순회하는 이틀짜리 팝업 투어를 진행했다. 동시에 젠다야가 등장하는 캠페인이 9월 공개되며 브랜드 확장 모멘텀을 뒷받침한다.",
+      "url": "https://cosmeticsbusiness.com/prada-beauty-kicks-off-two-day-pop-up-tour",
+      "source": "Cosmetics Business",
+      "tier": "T2_trade",
+      "published_at": "2026-09-17",
+      "why_it_matters": "프라다 뷰티는 L'Oréal 럭셔리 포트폴리오 내에서 구찌 뷰티 이관의 성공 템플릿으로 거론되는 브랜드로, 급성장세는 곧 구찌 뷰티가 2028년 이후 따라야 할 벤치마크를 보여준다.",
+      "why_it_matters_en": "Prada Beauty is the internal L'Oréal template most cited for how Gucci Beauty should scale post-2028 — its momentum is the benchmark, not just a peer data point.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Prada Beauty",
+      "event_type": "trend",
+      "headline": "프라다 그룹 검색 모멘텀 관련 라이스트 인덱스 인용 — 수치 미확인 (출처 오기재)",
+      "summary": "이 항목이 인용한 Luxury Daily 기사는 실제로는 2024년 1월 게재된 2023년 4분기 라이스트 인덱스 보도로 확인되어, 2026년 9월 시점의 '검색량 41% 증가, 3회째 1위' 주장을 뒷받침하지 못한다. 해당 수치는 미확인 처리하며, 최신 라이스트 인덱스 공식 발표가 확인될 때까지 인용하지 않는다.",
+      "url": "https://www.luxurydaily.com/prada-dominates-latest-lyst-index-as-new-players-emerge/",
+      "source": "Luxury Daily / Lyst",
+      "tier": "T2_trade",
+      "published_at": "2024-01-31",
+      "data_quality_note": "fact-checker 재검증(2026-09-29)에서 published_at 오기재(2026-09-15로 표기됐으나 실제 2024-01-31) 및 41%/3회 연속 1위 수치 미검증 확인. 향후 리포트에 재사용 금지.",
+      "why_it_matters": "프라다(패션)의 검색 수요와 뷰티 확장의 상관관계는 참고할 만한 가설이나, 현재 근거 자료로는 뒷받침되지 않으므로 확인 전까지 벤치마크로 인용하지 않는다.",
+      "why_it_matters_en": "The fashion-search-to-beauty-expansion correlation for Prada is a plausible hypothesis but unsupported by current sourcing — do not cite as a benchmark until verified.",
+      "relevance": "category trend — unverified, excluded from published reports"
+    },
+    {
+      "brand": "Chanel Beauty",
+      "event_type": "launch",
+      "headline": "샤넬, 코코 마드모아젤 크러쉬 압솔루 신규 향수와 서브리마쥬·르 리프트 라인 업데이트 공개",
+      "summary": "샤넬이 9월 라이치·자몽 및 로즈·재스민 노트의 앰버 계열 신제품 '코코 마드모아젤 크러쉬 압솔루'를 출시하고, 서브리마쥬 아이밤과 르 리프트 크림을 리뉴얼했다.",
+      "url": "https://www.miamilivingmagazine.com/post/chanel-unveils-new-fragrance-and-skincare-launches-for-september-2026",
+      "source": "Miami Living Magazine",
+      "tier": "T2_trade",
+      "published_at": "2026-09-24",
+      "why_it_matters": "샤넬 뷰티는 라이선스 없는 완전 자체 운영 모델의 준거점으로, 향후 L'Oréal 산하로 편입되는 구찌 뷰티의 라이선스 모델과 근본적으로 다른 통제 구조를 시사한다.",
+      "why_it_matters_en": "Chanel Beauty operates as a fully owned, license-free model — a structural contrast to Gucci Beauty's upcoming L'Oréal-licensed setup, underscoring different levels of brand control.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "YSL Beauty",
+      "event_type": "campaign",
+      "headline": "YSL 뷰티, '마이셀프 옴' 신규 향수와 영국 '아이코닉 데이즈' 로열티 캠페인 동시 전개",
+      "summary": "YSL 뷰티가 생강·카다멈 노트로 시작하는 향수 'MYSLF L'Absolu'를 선보이고, 영국에서는 등급별 최대 25% 할인과 미니어처 증정을 내건 'Iconic Days' 캠페인을 가동했다.",
+      "url": "https://www.themakermag.com/style/2026/9/23/the-art-of-iconic-beauty-ysl-beauty-unveils-exclusive-iconic-days-privileges",
+      "source": "The Maker Mag",
+      "tier": "T2_trade",
+      "published_at": "2026-09-23",
+      "why_it_matters": "YSL 뷰티는 프라다·발렌티노와 함께 L'Oréal 럭셔리 라인업의 성공 사례로 꼽히며, 향후 구찌 뷰티가 편입될 포트폴리오의 프로모션·CRM 운영 방식을 미리 보여준다.",
+      "why_it_matters_en": "YSL Beauty, cited alongside Prada and Valentino as an L'Oréal luxury success story, previews the promotional and CRM playbook Gucci Beauty will likely inherit once folded into the same portfolio.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Armani Beauty",
+      "event_type": "M&A",
+      "headline": "아르마니 그룹, L'Oréal·LVMH·에실로룩소티카와 지분 15% 매각 협상 준비",
+      "summary": "조르지오 아르마니 유언에 따라 아르마니 그룹이 사망 후 18개월 내 지분 15%를 L'Oréal, LVMH, 에실로룩소티카 중에서 매각해야 하며, 최근 3사와의 협상 개시가 보도됐다. L'Oréal은 2050년까지 이어지는 아르마니 뷰티 라이선스 보호를 최우선시하는 것으로 전해진다.",
+      "url": "https://cosmeticsbusiness.com/armani-stake-sale-closer-loreal-lvmh-talks",
+      "source": "Cosmetics Business",
+      "tier": "T2_trade",
+      "published_at": "2026-09-26",
+      "why_it_matters": "LVMH가 아르마니 지분 인수에 성공하면 뷰티 라이선스 지형이 재편되어 L'Oréal-케링(구찌) 협력 구도에도 간접적 경쟁 압력이 생길 수 있다.",
+      "why_it_matters_en": "If LVMH succeeds in acquiring an Armani stake, it reshapes the beauty-licensing landscape and could create indirect competitive pressure on the L'Oréal-Kering (Gucci) alliance.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "L'Oréal Luxe",
+      "event_type": "earnings",
+      "headline": "L'Oréal 럭스 부문 상반기 영업이익률 22.4%로 경쟁사 압도, 향수 매출 두 자릿수 성장",
+      "summary": "2025년 연간 매출 156억 유로, 영업이익률 22.4%를 기록한 L'Oréal 럭스가 2026년 상반기에도 미국·유럽에서 시장 지배력을 강화하며 향수 부문 두 자릿수 성장을 이어갔다.",
+      "url": "https://www.loreal-finance.com/eng/press-release/2026-half-year-results",
+      "source": "L'Oréal Finance",
+      "tier": "T1",
+      "published_at": "2026-09-01",
+      "why_it_matters": "구찌 뷰티가 2027년 7월부터 편입될 모회사의 수익성 기반으로, 22.4%대 영업이익률은 향후 구찌 뷰티 투자·마케팅 예산 배정의 실질적 기준선이 된다.",
+      "why_it_matters_en": "This is the profitability base of the parent Gucci Beauty joins from July 2027 — the 22.4% operating margin sets the practical benchmark for future Gucci Beauty investment and marketing budgets.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Estée Lauder",
+      "event_type": "executive",
+      "headline": "에스티로더, 저스틴 박스포드를 럭셔리 뷰티 총괄 신설 직책에 임명해 라메르 포함 총괄 확대",
+      "summary": "에스티로더가 저스틴 박스포드를 '글로벌 프레지던트, 럭셔리 뷰티 브랜드'로 승진시켜 에스티로더 브랜드와 함께 라메르, 에어린, 다르팽 파리, 랩시리즈까지 총괄하는 조직 개편을 단행했다.",
+      "url": "https://theindustry.beauty/estee-lauder-luxury-beauty-leadership/",
+      "source": "TheIndustry.beauty",
+      "tier": "T2_trade",
+      "published_at": "2026-09-20",
+      "why_it_matters": "경쟁 그룹(에스티로더)이 럭셔리 스킨케어·향수를 한 리더 산하로 통합하는 것은, L'Oréal 럭스 산하 구찌 뷰티의 조직 편입 방식에도 참고가 되는 조직 설계 사례다.",
+      "why_it_matters_en": "A rival group consolidating luxury skincare and fragrance under one leader is a relevant organizational-design precedent for how Gucci Beauty gets absorbed into the L'Oréal Luxe structure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Armani Beauty",
+      "event_type": "campaign",
+      "headline": "아르마니 뷰티, 베니스영화제 공식 뷰티 스폰서 9년 연속 수행하며 신규 향수 'I Will' 조명",
+      "summary": "아르마니 뷰티가 베니스국제영화제 공식 뷰티 스폰서를 9년째 맡아 배우 조나단 베일리가 등장하는 신규 남성 향수 'I Will'의 토드 필드 감독 캠페인 필름 비공개 상영회를 진행했다.",
+      "url": "https://www.globalcosmeticsnews.com/armani-beauty-marks-ninth-year-as-official-beauty-sponsor-of-venice-film-festival/",
+      "source": "Global Cosmetics News",
+      "tier": "T2_trade",
+      "published_at": "2026-09-05",
+      "why_it_matters": "영화제 장기 스폰서십은 뷰티 브랜드의 문화적 정통성 구축 전략을 보여주며, 구찌가 향후 자체 뷰티 브랜드 인지도 구축 시 활용할 수 있는 이벤트 마케팅 모델이다.",
+      "why_it_matters_en": "Long-run film-festival sponsorship illustrates a cultural-legitimacy strategy for beauty brands — a template Gucci could draw on when building its own beauty brand equity post-2028.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci Beauty",
+      "event_type": "licensing",
+      "headline": "L'Oréal, 구찌 뷰티 라이선스 인수 1년 앞당겨 2027년 7월 시행",
+      "summary": "케링과 L'Oréal이 2025년 10월 체결한 얼라이언스에 따라 L'Oréal이 구찌 뷰티에 대한 50년 독점 글로벌 라이선스를 확보했다. 케링이 코티에 약 4억 달러를 지급해 기존 라이선스를 조기 환매하면서 시행 시점이 당초보다 1년 앞당겨진 2027년 7월 1일로 확정됐다.",
+      "url": "https://www.loreal-finance.com/eng/press-release/loreal-enters-50-year-exclusive-worldwide-beauty-licence-kering-gucci-brand",
+      "source": "L'Oréal Finance",
+      "tier": "T1",
+      "published_at": "2026-07-07",
+      "why_it_matters": "구찌 뷰티의 미래 운영권이 코티에서 L'Oréal로 넘어가는 것은 구찌 전체 전략에서 가장 중대한 비패션 구조 변화로, 브랜드 통제력과 수익 배분 조건을 근본적으로 재설정한다.",
+      "why_it_matters_en": "The Gucci Beauty license moving from Coty to L'Oréal is the single most consequential non-fashion structural change for Gucci overall, resetting brand control and revenue-sharing terms.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci Beauty",
+      "event_type": "product",
+      "headline": "L'Oréal CEO, 구찌 뷰티 첫 제품 2028년 출시 목표에 '수십억 유로 브랜드' 야심 공식화",
+      "summary": "L'Oréal CEO 니콜라 이에로니무스가 구찌 뷰티 첫 신제품을 2028년 초 출시할 계획이며, 프라다·발렌티노 뷰티가 4~6년 만에 매출 1억 유로 미만에서 7억 유로 이상으로 성장한 전례를 따라 구찌를 30억 유로 규모 브랜드로 키우겠다는 목표를 밝혔다.",
+      "url": "https://cosmeticsbusiness.com/l-or%C3%A9al-plots-first-gucci-beauty-launch-as-early",
+      "source": "Cosmetics Business / Reuters",
+      "tier": "T1",
+      "published_at": "2026-07-30",
+      "why_it_matters": "L'Oréal이 프라다·발렌티노 템플릿을 명시적으로 구찌에 적용하겠다고 밝힌 것은 향후 2~3년간 구찌 뷰티 사업의 성장 속도와 투자 규모를 가늠할 가장 구체적인 공개 지표다.",
+      "why_it_matters_en": "L'Oréal explicitly naming the Prada/Valentino template as its Gucci playbook is the most concrete public signal of the growth pace and investment scale to expect in Gucci Beauty over the next 2-3 years.",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

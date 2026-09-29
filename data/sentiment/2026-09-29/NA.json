@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-2026-09-29-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "BoF trade-press review frames Demna's Store Show as possibly polished theatrics over an unresolved multi-year identity/sales crisis.",
+    "signal_tags": ["design_criticism", "trade_press", "identity_crisis"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-29-002",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Celebratory third-party lifestyle review with clear evaluative verdict praising the collection, but activation-adjacent PR-aligned coverage so capped per v1.1.",
+    "signal_tags": ["favorable_review", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-29-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "US tennis fans criticize ambassador Sabalenka for prioritizing Gucci runway appearances over tour prep, ambassador-risk controversy.",
+    "signal_tags": ["ambassador_risk", "fandom_trap", "controversy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-29-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic, emotionally charged fan backlash ('hideous', 'slamless behavior') directly tied to Gucci ambassador's runway choice.",
+    "signal_tags": ["ambassador_risk", "organic_backlash", "controversy"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-29-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Balanced trade analysis noting ambassador strategy is commercially effective but carries reputational/brand-safety exposure.",
+    "signal_tags": ["trade_analysis", "ambassador_strategy"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-09-29-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 wire story: 'Made in China' sourcing shift on $1,000 sneakers quoted as bad for premium positioning, analysts flag tension with turnaround strategy.",
+    "signal_tags": ["quality_perception", "sourcing_controversy", "positioning_risk"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-29-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed, unverifiable TikTok reactions (some praise, some call direction 'idiotic'); default neutral per T3 SNS ambiguity.",
+    "signal_tags": ["sns_mixed", "unverified_engagement"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-29-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Snippet-only evidence (page fetch blocked) of warm collector reception to Flora revival; engagement unverifiable so low confidence demotes polarity to neutral.",
+    "signal_tags": ["heritage_revival", "unverified_engagement", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-09-29-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Cardi B's Store Show entrance drew organic social commentary ('mafia boss' comparison) without a clear positive or negative verdict.",
+    "signal_tags": ["celebrity_appearance", "organic_reaction_ambiguous"],
+    "confidence": 0.45
+  }
+]

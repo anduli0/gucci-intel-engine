@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NEA-2026-09-29-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T2 business press cites analyst warning of tension between China-made origin and luxury positioning against backdrop of 50% revenue decline",
+    "signal_tags": ["quality_origin_concern", "trade_press_criticism", "revenue_decline"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-29-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline frames China-made sneaker as abandoning Florentine craftsmanship heritage; independent critical judgment despite noting split views",
+    "signal_tags": ["quality_origin_concern", "heritage_criticism", "trade_press_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-29-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline itself voices consumer discomfort ('the feeling is just off') over China-made authenticity despite confirmed authenticity",
+    "signal_tags": ["quality_origin_concern", "consumer_trust", "value_for_money"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-29-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Industry sources quoted warning China-made move could weaken brand image amid middle-class recovery push",
+    "signal_tags": ["quality_origin_concern", "brand_image_risk", "trade_press_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-29-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Financial media framing as industry-wide supply-chain shift rather than a Gucci-specific evaluative verdict; largely descriptive/analytical",
+    "signal_tags": ["supply_chain", "industry_trend"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-29-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic Weibo consumer skepticism over value-for-origin pricing logic and resale value erosion concerns for China-made pieces",
+    "signal_tags": ["value_for_money", "resale_price_drop", "quality_origin_concern"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-29-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic diaspora forum blunt design criticism ('so ugly'); low corroboration since page fetch blocked, capping magnitude",
+    "signal_tags": ["design_criticism", "unverified_community"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-09-29-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Popular Korean community thread mocking revenue decline and cost-cutting via China-made goods, meaningful engagement (252 comments)",
+    "signal_tags": ["negative_momentum_press", "brand_image_risk", "community_mockery"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-29-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Luxury consultant on record saying 'Made in China is not a good look'; analysts question price-value match amid concurrent price cuts",
+    "signal_tags": ["quality_origin_concern", "value_for_money", "trade_press_criticism"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-29-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Unusual ~30% China price cuts reported as reversal of luxury pricing convention, tied to weak Kering earnings and China reliance",
+    "signal_tags": ["price_cut", "negative_earnings", "discount_image_damage"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-29-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade-press skepticism on whether price cuts restore Chinese shopper confidence, older anchor item used for context only",
+    "signal_tags": ["value_for_money", "trade_press_criticism", "consumer_hesitation"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-29-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fortune Korea contextualizes China-made sneaker within broader restructuring narrative (store closures, cost pressure) with skeptical framing",
+    "signal_tags": ["quality_origin_concern", "restructuring", "trade_press_criticism"],
+    "confidence": 0.6
+  }
+]

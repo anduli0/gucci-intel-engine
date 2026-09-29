@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-09-29-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent BoF critical review frames verdict on Demna's identity fix as still open/confounding, not clearly positive or negative.",
+    "signal_tags": ["independent_judgment", "runway", "mixed_sentiment"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-29-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Bernstein analyst via WWD calls out specific product criticism (cheap-looking, vulgar) and wasteful staging despite mixed-to-positive overall framing.",
+    "signal_tags": ["critical", "independent_judgment", "analyst_reaction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-09-29-03",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of La Famiglia store takeover with no outlet evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "retail", "product_launch"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-29-04",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reports Kering/Gucci store closures concentrated in Asia alongside ~19% FY2025 revenue decline; negative structural/earnings press, not subject to promo cap.",
+    "signal_tags": ["critical", "store_closures", "background_context"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-09-29-05",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic fan-community post skeptically questions whether ambassador reception was genuine media validation or fan-driven hype; mixed, damped fandom spike.",
+    "signal_tags": ["mixed_sentiment", "fandom", "ambassador", "organic"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-09-29-06",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive regional ambassador/campaign reel with promotional tone and no independent evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "sns", "regional"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-29-07",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic consumer discourse recurring criticism that Gucci prioritizes logo over craftsmanship/durability; mild, undated, non-viral quality/value complaint.",
+    "signal_tags": ["critical", "quality_complaint", "organic", "price_value"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-09-29-08",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-analytical coverage of show staging as retail-concept prototype; descriptive with no clear brand-sentiment verdict.",
+    "signal_tags": ["independent_judgment", "retail", "runway"],
+    "confidence": 0.5
+  }
+]

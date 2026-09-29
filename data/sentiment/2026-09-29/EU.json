@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-09-29-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic forum consensus calls SS27 collection vulgar, grotesque and visionless, hoping for designer exit.",
+    "signal_tags": ["design_criticism", "community", "lost_its_way"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-29-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst score is net-positive but the report itself flags Instagram reaction skewing negative and most-engaged, the dominant public-opinion signal.",
+    "signal_tags": ["mixed_reception", "analyst_view", "social_engagement"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-29-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Italian press frames store-show staging as cynical pragmatism amid weak revenue and defensive repricing.",
+    "signal_tags": ["negative_earnings", "price_backlash", "independent_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-29-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade outlet skeptically probes price cuts following CEO's admission that prices were pushed too high.",
+    "signal_tags": ["price_backlash", "value_for_money", "skeptical_trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-29-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Industry report notes Kering shares erased all gains under new CEO amid sector-wide stagnation.",
+    "signal_tags": ["negative_earnings", "momentum_press", "stock_performance"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-29-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity front-row buzz focused on Cardi B's entrance, incidental to brand evaluation, not a verdict on Gucci itself.",
+    "signal_tags": ["celebrity_buzz", "incidental_mention", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-29-007",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Community thread shows mild, practical product appreciation for reissued Flora print with low emotional charge.",
+    "signal_tags": ["product_appreciation", "community", "purchase_intent"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-09-29-008",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD's independent critic praises coherence of Demna's vision despite noting heavy commercial slant, a qualified favorable trade-press verdict.",
+    "signal_tags": ["favorable_trade_press", "design_criticism", "independent_review"],
+    "confidence": 0.75
+  }
+]
