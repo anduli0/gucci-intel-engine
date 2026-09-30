@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NEA-2026-09-30-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Business press reports steep China price cuts and admission products were overpriced, signaling pricing-power/value erosion.",
+    "signal_tags": ["price_cut", "value_for_money", "trade_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-30-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "SKU-level price cuts tied explicitly to 12 straight quarters of sales decline, a negative momentum narrative.",
+    "signal_tags": ["price_cut", "sales_decline", "trade_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-09-30-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "SNS analysis frames price cuts as risking resale value and eroding 'worth the price' prestige perception.",
+    "signal_tags": ["price_cut", "resale_value", "prestige_erosion"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-30-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explicitly split consumer reaction to price cuts plus new director; no dominant polarity, some welcome affordability, others cite lost exclusivity.",
+    "signal_tags": ["price_cut", "creative_direction", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-30-005",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Korean critic praises SS27 Store Show as clear proof of hope and growth potential.",
+    "signal_tags": ["runway_review", "creative_direction", "independent_critique"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-09-30-006",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "GQ Korea show write-up with evaluative framing praising Demna's reworking of Gucci codes; largely descriptive so capped per activation-coverage rule.",
+    "signal_tags": ["activation_coverage", "runway_review", "creative_direction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-30-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Japanese critic judgment calling the collection a full expression of Demna's vision and a deliberate, praised design statement.",
+    "signal_tags": ["runway_review", "creative_direction", "independent_critique"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-09-30-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press reports Kering Q1 revenue down 6.4% with Gucci still dragging results despite narrowing decline.",
+    "signal_tags": ["earnings", "negative_momentum", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-09-30-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Cautiously optimistic turnaround summary but explicitly flags diminished resale/collector appeal and polarized customer reaction, net mixed.",
+    "signal_tags": ["price_cut", "creative_direction", "resale_value", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-09-30-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Generic community baseline chatter (authentication, comparisons) with no standout viral thread or clear polarity.",
+    "signal_tags": ["community_baseline"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-30-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale-value anxiety discussion questioning whether bags still hold value after 30% price cuts.",
+    "signal_tags": ["resale_value", "price_cut", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-09-30-012",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Elle Korea independent critic review gives a measured favorable verdict on Demna's more stable, balanced SS27 direction.",
+    "signal_tags": ["runway_review", "creative_direction", "independent_critique"],
+    "confidence": 0.7
+  }
+]

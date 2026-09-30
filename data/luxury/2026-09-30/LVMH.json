@@ -1,0 +1,139 @@
+{
+  "brand_group": "LVMH",
+  "date": "2026-09-30",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "show",
+      "headline": "루이비통, 니콜라 제스키에르 SS27 여성 컬렉션 파리 루브르서 공개",
+      "summary": "루이비통이 2026년 9월 30일 정오(파리 현지시간) 파리 루브르 박물관에서 니콜라 제스키에르 연출의 2027 봄여름 여성 컬렉션 쇼를 열었다. 1940년대 할리우드 글래머를 실내 웨어드로브 코드에 접목한 유동적 실루엣과 자수·자카드 디테일이 특징이었다.",
+      "url": "https://en.louisvuitton.com/eng-nl/magazine/articles/women-spring-summer-2026-show",
+      "source": "Louis Vuitton / WWD",
+      "tier": "T1",
+      "published_at": "2026-09-30",
+      "why_it_matters": "루이비통이 파리패션위크 화요일 정오라는 최고 노른자 시간대를 다시 확보하며 LVMH 패션 부문의 간판 브랜드 지위를 재확인했다 — 구찌가 데뮤나 체제로 확보하려는 쇼 캘린더 상 상징성과 직접 비교되는 벤치마크.",
+      "why_it_matters_en": "Louis Vuitton again claims the marquee Tuesday-noon PFW slot, reaffirming its status as LVMH's fashion flagship — a direct calendar-prestige benchmark against what Gucci under Demna is trying to build.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Dior",
+      "event_type": "show",
+      "headline": "디올, 조나단 앤더슨 여성복 데뷔 쇼 이후에도 평단 반응 엇갈려",
+      "summary": "9월 29일 열린 조나단 앤더슨의 디올 여성복 SS27 데뷔 쇼에 대한 후속 평가가 30일에도 이어지고 있다. 바 재킷을 극단적으로 축소한 실루엣과 쿠튀르적 매듭 디테일이 '혁신'이라는 호평과 '스펙터클이 실용성을 압도한다'는 비판으로 갈렸다.",
+      "url": "https://wwd.com/fashion-news/fashion-features/jonathan-anderson-dior-experts-react-first-women-collection-1238270404/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-29",
+      "why_it_matters": "디올의 크리에이티브 디렉터 교체가 표준 오브 리빙(standing ovation)과 상업성 논란을 동시에 낳은 것은, 구찌의 데뮤나 체제 초기 반응을 가늠하는 참조점이 된다 — 파격적 재해석이 반드시 즉각적 호평으로 이어지지 않는다는 반증.",
+      "why_it_matters_en": "Dior's creative-director reset drew both a standing ovation and commercial-viability criticism simultaneously — a useful reference for gauging Demna's own early reception at Gucci, since bold reinvention doesn't automatically equal unanimous praise.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "controversy",
+      "headline": "루이비통, '몰리티' 상표 소송 승소 후 중국 내 애국주의 반발로 매출 타격 지속",
+      "summary": "7월 쑤저우 법원에서 루이비통이 중국 티 브랜드 '몰리티'를 상대로 상표권 승소를 거뒀으나, 이 판결이 '천년 전통 문양을 외국 브랜드가 독점한다'는 반발을 촉발해 7~8월 루이비통 중국 매출이 두 자릿수(20~30%대) 감소했다는 보도가 이어지고 있다.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/louis-vuitton-loses-china-sales-after-legal-fight-with-tea-chain",
+      "source": "Bloomberg",
+      "tier": "T1",
+      "published_at": "2026-09-10",
+      "why_it_matters": "법적 승리가 오히려 소비자 반감과 매출 감소로 이어진 사례는, 중국에서의 지식재산권 방어 전략이 현지 문화 정서를 잘못 건드릴 경우 역풍을 부를 수 있음을 보여준다 — 구찌 역시 중국 IP·문화 이슈 대응 시 참고할 리스크 사례.",
+      "why_it_matters_en": "A legal win that backfired into a sales-damaging nationalist backlash shows how IP-enforcement strategy in China can misjudge local cultural sentiment — a cautionary case for Gucci's own China IP and cultural-sensitivity playbook.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "earnings",
+      "headline": "LVMH 주가, 6년래 최저권 근접 지속 — 애널리스트 목표가 잇단 하향",
+      "summary": "LVMH 주가는 9월 29일 종가 394.60유로로 전일 대비 1.05% 하락했으며, 52주 최저가(392.25유로)에 근접한 상태다. 제프리스는 지난주 목표가를 510유로에서 440유로로 낮췄고, 시가총액은 약 1956억 유로로 2023년 고점 대비 절반 수준까지 떨어졌다.",
+      "url": "https://www.investing.com/equities/l.v.m.h.",
+      "source": "Investing.com",
+      "tier": "T2",
+      "published_at": "2026-09-29",
+      "why_it_matters": "LVMH 주가의 지속적 약세는 패션·레더굿즈 수요 둔화와 중국 리스크가 여전히 해소되지 않았음을 시사하며, 케링·구찌에도 유사한 투자 심리 압박이 이어질 가능성을 시사한다.",
+      "why_it_matters_en": "LVMH's persistent share weakness signals unresolved fashion/leather-goods demand softness and China risk, suggesting Kering and Gucci face similar investor-sentiment headwinds ahead.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Givenchy",
+      "event_type": "retail",
+      "headline": "지방시, 파페치 글로벌 이커머스 입점 — 사라 버튼 체제 유통 확장",
+      "summary": "지방시가 9월 21일 파페치에 글로벌 e-컨세션을 오픈하며 190개국 이상 소비자에게 직접 판매를 시작했다. 사라 버튼은 이번 주 2026 패션 어워즈 올해의 디자이너 최종 후보에도 선정됐다.",
+      "url": "https://www.parisselectbook.com/en/2026/09/25/givenchy-farfetch-e-concession/",
+      "source": "Paris Select Book / WWD",
+      "tier": "T1",
+      "published_at": "2026-09-25",
+      "why_it_matters": "사라 버튼 체제 지방시가 유통망 확장과 어워드 인정을 동시에 확보하는 것은 LVMH 소형 하우스의 회복 전략 사례로, 구찌의 향후 디지털 유통·크리에이티브 평가 병행 전략에 참고가 된다.",
+      "why_it_matters_en": "Givenchy expanding distribution via Farfetch while its designer earns awards recognition offers a smaller-maison turnaround template worth studying for Gucci's parallel push on digital retail and creative credibility.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Loro Piana",
+      "event_type": "show",
+      "headline": "로로피아나, 밀라노서 SS27 '솔루션 포' 컬렉션 공개",
+      "summary": "로로피아나가 9월 28일 밀라노 브레라 궁전에서 2027 봄여름 컬렉션 'Solutions For'를 선보였다. 캐시미어에서 리넨·실크로 이어지는 소재 전환과 흙빛·모래빛 팔레트가 특징이었다.",
+      "url": "https://www.designscene.net/2026/09/loro-piana-spring-summer-2027.html",
+      "source": "Design Scene",
+      "tier": "T2",
+      "published_at": "2026-09-28",
+      "why_it_matters": "로로피아나가 '콰이어트 럭셔리' 노선을 밀라노 패션위크에서 꾸준히 이어가는 것은 수요 둔화기에도 절제된 헤리티지 소재 전략이 유효할 수 있음을 시사한다.",
+      "why_it_matters_en": "Loro Piana's steady quiet-luxury runway presence at Milan suggests a restrained, material-led heritage strategy can still hold up even during broader demand softness.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "trend",
+      "headline": "루이비통, 미니백 부활 트렌드 주도 — 포쉐트 아세소아르가 2026년 최다 판매",
+      "summary": "2026년 루이비통 베스트셀러 분석에 따르면 모노그램 캔버스 포쉐트 아세소아르가 Z세대 '마이크로 럭셔리' 수요와 틱톡發 미니백 부활 트렌드를 타고 판매 1위를 기록했고, 앙프렝트 네버풀 MM이 '콰이어트 럭셔리' 흐름을 타며 2위를 차지했다.",
+      "url": "https://www.saikacollective.com/blogs/saika-luxury-authentication-journal/new-louis-vuitton-handbags-2026-trends-collector-insights",
+      "source": "Saika Collective / 업계 분석",
+      "tier": "T2",
+      "published_at": "2026-09",
+      "why_it_matters": "루이비통이 중국발 매출 부진 속에서도 미니백·콰이어트 럭셔리 트렌드로 젊은 신규 고객층을 계속 흡수하고 있다는 점은, 구찌의 핸드백 라인업 전략(스몰 레더굿즈 비중, 입문가 상품)에 직접적인 참고가 된다.",
+      "why_it_matters_en": "Despite China softness, Louis Vuitton keeps pulling in younger entry-level buyers via the mini-bag and quiet-luxury wave — directly relevant to how Gucci should weight its own small-leather-goods and entry-price handbag strategy.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "LVMH",
+      "event_type": "executive",
+      "headline": "베르나르 아르노, 지주사 구조 단순화로 LVMH 가족 지배력 강화",
+      "summary": "베르나르 아르노와 아르노 가문이 아가슈(Agache)와 피낭시에르 아가슈를 크리스찬 디올 SE에 합병해 단일 상장 지주사 '아가슈-SCA'로 재편하는 구조조정을 발표했다(9월 23일 보도). 임시주총은 2026년 12월, 공개매수는 2027년 1분기로 예정됐다.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/arnault-clan-to-change-lvmh-holding-structure-to-ensure-control",
+      "source": "Bloomberg",
+      "tier": "T1",
+      "published_at": "2026-09-23",
+      "why_it_matters": "지배구조 단순화는 아르노 가문의 장기 세대 승계 대비 포석으로, 주가 약세기에 나온 방어적 조치다 — 케링의 피노 가문 지배구조와 비교할 만한 거버넌스 이벤트.",
+      "why_it_matters_en": "The holding-structure simplification is Arnault's defensive move to lock in multi-generational family control amid a share-price slump — a governance event worth benchmarking against Kering's Pinault family structure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "trend",
+      "headline": "LVMH 주얼리 부문(티파니·불가리) 나홀로 9% 성장, 패션·레더굿즈는 정체",
+      "summary": "2026년 상반기 실적에서 LVMH 주얼리 부문이 티파니와 불가리 주도로 9% 유기적 성장을 기록해 그룹 내 최고 성과를 냈고, 세포라는 5% 성장한 반면 패션·레더굿즈 부문은 혼조세를 보였다.",
+      "url": "https://wwd.com/business-news/financial/lvmh-fashion-leather-goods-q2-2026-increase-1239083331/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-01",
+      "why_it_matters": "하드럭셔리(주얼리)로의 수요 이동이 뚜렷해지고 있어, 패션·레더굿즈 중심인 구찌로서는 카테고리 믹스 재검토가 필요한 신호로 읽힌다.",
+      "why_it_matters_en": "A clear demand shift toward hard luxury (jewelry) versus soft fashion/leather goods signals Gucci should reassess its category mix given its leather-goods-heavy revenue base.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Loro Piana",
+      "event_type": "controversy",
+      "headline": "로로피아나, '화이트 솔' 디자인 모조품 소송서 토리노 법원 예비 승소",
+      "summary": "토리노 법원이 9월 24일 로로피아나의 화이트 솔 신발 디자인을 모방 판매한 파리 소재 업체에 대해 예비 금지명령을 내렸다. 로로피아나는 앞서 아동노동 스캔들로 명성에 타격을 입은 바 있다.",
+      "url": "https://wwd.com/business-news/legal/loro-piana-legal-victory-ongoing-fight-white-sole-design-1239047789/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-24",
+      "why_it_matters": "아동노동 스캔들 이후 이미지 회복이 필요한 로로피아나가 지식재산권 소송에서 승소한 것은 럭셔리 하우스의 법적 방어 전략 사례로 계속 참고할 가치가 있다.",
+      "why_it_matters_en": "Loro Piana notching an IP win while still recovering reputationally from the child-labor scandal remains a useful reference case for how luxury houses lean on legal wins in image-repair efforts.",
+      "relevance": "category trend"
+    }
+  ]
+}

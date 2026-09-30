@@ -1,0 +1,118 @@
+[
+  {
+    "id": "EU-2026-09-30-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press reports China-made sneaker breaking Italian tradition with analyst warnings of brand-positioning damage.",
+    "signal_tags": [
+      "manufacturing_origin",
+      "brand_positioning",
+      "analyst_warning"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-09-30-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Macro piece uses Gucci's China-made sneaker symbolically to frame erosion of Europe's luxury prestige moat, not a direct brand review.",
+    "signal_tags": [
+      "manufacturing_origin",
+      "macro_symbolism"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-09-30-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual stock price and governance disclosure reporting, no evaluative brand opinion.",
+    "signal_tags": [
+      "stock_price",
+      "governance",
+      "factual"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-09-30-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering CEO candidly frames Gucci as still the group's core problem and plans to reduce group dependence on it.",
+    "signal_tags": [
+      "leadership_commentary",
+      "turnaround",
+      "momentum_press"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-30-006",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent critic gives mixed-positive review praising conceptual clarity but flags doubt over commercial translation.",
+    "signal_tags": [
+      "critic_review",
+      "runway",
+      "mixed_verdict"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-09-30-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Italian outlet calls show staging 'cynical pragmatism' and highlights gap between fashion-week desire and low actual purchasing.",
+    "signal_tags": [
+      "critic_review",
+      "commercial_skepticism",
+      "price_repositioning"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-09-30-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan/creator TikTok wave split between admiration and 'Balenciaga 2.0' skepticism; low-confidence mixed fandom content demoted to neutral.",
+    "signal_tags": [
+      "sns",
+      "fandom_trap",
+      "mixed_reaction"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-09-30-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic community chatter is practical/product-focused and mixed; fetch was blocked, limiting confidence.",
+    "signal_tags": [
+      "community",
+      "product_discussion",
+      "low_confidence"
+    ],
+    "confidence": 0.35
+  },
+  {
+    "id": "EU-2026-09-30-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Forum members strongly criticize womenswear as 'ABYSMAL'/'trash' and mock recycled capsule concept despite mixed menswear takes.",
+    "signal_tags": [
+      "community",
+      "design_criticism",
+      "commercial_skepticism"
+    ],
+    "confidence": 0.7
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SEA-2026-09-30-01",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade-press independent judgment (Berenberg analyst, Milan consultant) warns China-made sneaker undermines luxury/Italian-craftsmanship positioning.",
+    "signal_tags": ["critical", "manufacturing", "price_value", "independent_judgment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-09-30-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Regional business press amplifies manufacturing-tradition controversy alongside sales-halved/turnaround framing, independent critical angle.",
+    "signal_tags": ["critical", "manufacturing", "regional_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-09-30-03",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-appointment confirmation, no outlet evaluative verdict; activation coverage discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador", "regional_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-30-04",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity-attendance write-up at runway show, no independent evaluative judgment offered.",
+    "signal_tags": ["activation_coverage", "runway", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-09-30-05",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom-spike SNS chatter mixes celebratory tone with genuine questioning of ambassador credibility; mixed/ambiguous polarity defaults neutral, damped per fandom trap.",
+    "signal_tags": ["mixed_sentiment", "fandom", "ambassador", "organic"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-09-30-06",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-account travel send-off, pure fandom volume with no evaluative content about the brand.",
+    "signal_tags": ["fandom", "organic", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-09-30-07",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer review describes inattentive/dismissive staff at flagship boutique, driving customer to purchase at Dior instead.",
+    "signal_tags": ["critical", "service_complaint", "organic", "retail"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-09-30-08",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregated discovery-tag reseller/review content with no clearly stated sentiment or verdict retrievable.",
+    "signal_tags": ["organic", "product_review", "resale_market"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-09-30-09",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "E-commerce marketplace price-range listing, no direct sentiment expressed, weak market-activity proxy only.",
+    "signal_tags": ["resale_market", "price_value", "organic"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-09-30-10",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 earnings coverage: despite narrowing decline, Asia-Pacific retail sales remain explicitly flagged as a drag/weak versus other regions.",
+    "signal_tags": ["critical", "earnings", "background_context", "asia_pacific"],
+    "confidence": 0.75
+  }
+]

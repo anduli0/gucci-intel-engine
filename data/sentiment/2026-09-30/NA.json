@@ -1,0 +1,115 @@
+[
+  {
+    "id": "NA-2026-09-30-001",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "BoF independent critic review calls Demna's SS27 show a breakthrough giving Gucci a coherent identity",
+    "signal_tags": [
+      "runway_review",
+      "critic_verdict",
+      "creative_direction"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-09-30-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD runway photo gallery/coverage is purely descriptive with no evaluative verdict",
+    "signal_tags": [
+      "activation_coverage",
+      "runway_coverage"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-30-003",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 Reuters report cites analyst warning of provenance/luxury-positioning tension over Made in China sneakers",
+    "signal_tags": [
+      "manufacturing_controversy",
+      "analyst_warning",
+      "provenance"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-09-30-004",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "T3 consumer writeup frames Made in China sneakers as backlash-worthy 'getting cheap' without price cut",
+    "signal_tags": [
+      "manufacturing_controversy",
+      "value_for_money",
+      "backlash"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-30-005",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Forum roundup overwhelmingly negative, calling collection 'vulgar', 'grotesque', predicting Demna's exit",
+    "signal_tags": [
+      "design_criticism",
+      "community_backlash",
+      "creative_direction"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-09-30-006",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "PurseForum thread details ongoing owner complaints about stitching, hardware tarnish, edge-paint wear",
+    "signal_tags": [
+      "quality_complaint",
+      "community"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-09-30-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Hypebeast tag coverage is descriptive activation/product tracking with no clear verdict",
+    "signal_tags": [
+      "activation_coverage"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-30-008",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Glossy analysis argues Gucci turnaround is premature despite NA regional improvement in latest Kering quarter",
+    "signal_tags": [
+      "earnings",
+      "momentum_press"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-09-30-009",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade coverage offers mild independent verdict that Demna is building a coherent, repeatable Gucci vocabulary",
+    "signal_tags": [
+      "runway_review",
+      "creative_direction"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-09-30-010",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "General MFW celebrity attendance post, only incidentally Gucci-adjacent with no evaluative content",
+    "signal_tags": [
+      "incidental_mention",
+      "sns_buzz"
+    ],
+    "confidence": 0.6
+  }
+]
