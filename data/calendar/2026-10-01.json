@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-01",
+  "horizon_days": 60,
+  "items": [
+    {
+      "date": "2026-10-04",
+      "event": "파리 패션위크 SS27 - Miu Miu, Valentino, Jean Paul Gaultier 쇼",
+      "brand": "Miu Miu / Valentino / Jean Paul Gaultier",
+      "type": "show",
+      "why_ko": "Miu Miu의 지속적 모멘텀과 Valentino/JPG 체질 변화가 영패션 소비자 점유율에서 구찌와 직접 경쟁한다.",
+      "why_en": "Miu Miu's continued momentum and Valentino/JPG repositioning compete directly with Gucci for younger luxury spend.",
+      "action_ko": "쇼 종료 후 T+24h 소셜/프레스 반응 모니터링, 경쟁사 실루엣·가격대 벤치마킹 리포트 작성",
+      "source": "Grazia",
+      "tier": 1,
+      "url": "https://grazia.sg/fashion/paris-fashion-week-ss27-schedule/"
+    },
+    {
+      "date": "2026-10-05",
+      "event": "샤넬 파리 패션위크 SS27 쇼",
+      "brand": "Chanel",
+      "type": "show",
+      "why_ko": "Matthieu Blazy 체제 샤넬의 SS27 컬렉션은 이탈리아 출신 디렉터의 파리 하우스 재해석으로, 뎀나의 구찌 재해석과 비교 대상이 된다.",
+      "why_en": "Chanel's SS27 under Matthieu Blazy offers a direct comparison point for an Italian-trained designer reinterpreting a heritage Paris house, paralleling Demna's Gucci trajectory.",
+      "action_ko": "쇼 직후 24시간 내 프레스 톤 비교 분석, 헤리티지 재해석 전략 벤치마킹",
+      "source": "Vogue Adria",
+      "tier": 1,
+      "url": "https://vogueadria.com/paris-fashion-week-show-schedule/"
+    },
+    {
+      "date": "2026-10-06",
+      "event": "파리 패션위크 SS27 폐막 - 루이비통 쇼",
+      "brand": "Louis Vuitton (LVMH)",
+      "type": "show",
+      "why_ko": "루이비통이 SS27 파리 패션위크를 마감하며 LVMH 최대 브랜드의 방향성이 공개, 경쟁 럭셔리 하우스 소비 심리에 영향.",
+      "why_en": "Louis Vuitton closes Paris Fashion Week SS27, setting the tone for LVMH's flagship brand and broader luxury sentiment heading into Q4.",
+      "action_ko": "쇼 종료 후 T+24h 경쟁 브랜드 익스포저 비교, 4분기 캠페인 타이밍 재점검",
+      "source": "Grazia",
+      "tier": 1,
+      "url": "https://graziamagazine.com/me/articles/paris-fashion-week-ss27-calendar/"
+    },
+    {
+      "date": "2026-10-15~2026-10-20",
+      "event": "리야드 패션위크 2026",
+      "brand": "Industry (Riyadh Fashion Week)",
+      "type": "industry",
+      "why_ko": "사우디 럭셔리 시장 확대의 핵심 이벤트로, 중동 고소비층 접근 및 지역 활성화 전략에 참고할 신흥 시장 신호.",
+      "why_en": "Key event for Saudi luxury market expansion; signals emerging Middle East consumer trends relevant to Gucci's regional activation strategy.",
+      "action_ko": "행사 기간 중 중동 지역 SNS/리테일 트래픽 모니터링, 현지 앰버서더 협업 기회 검토",
+      "source": "Time Out Riyadh",
+      "tier": 2,
+      "url": "https://www.timeoutriyadh.com/news/riyadh-fashion-week-2026"
+    },
+    {
+      "date": "2026-10-20",
+      "event": "LVMH 2026년 3분기(9개월) 매출 발표",
+      "brand": "LVMH",
+      "type": "earnings",
+      "why_ko": "LVMH 패션·레더굿즈 부문 실적은 럭셔리 전반 수요 온도를 보여주는 선행지표로, 구찌(케링) 실적 발표 전 시장 기대치를 형성한다.",
+      "why_en": "LVMH's fashion & leather goods results serve as a leading indicator of overall luxury demand, shaping market expectations ahead of Kering's own report.",
+      "action_ko": "발표 직후 애널리스트 코멘트 스크리닝, 케링 실적 발표 메시지 톤 사전 조율",
+      "source": "CNBC / Investing.com",
+      "tier": 1,
+      "url": "https://www.investing.com/equities/l.v.m.h.-earnings"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "에르메스 2026년 3분기 매출 발표",
+      "brand": "Hermès",
+      "type": "earnings",
+      "why_ko": "에르메스는 럭셔리 업계 내 초고가 세그먼트 건전성 벤치마크로, 구찌의 가격 포지셔닝 전략에 참고 지표가 된다.",
+      "why_en": "Hermès results are the benchmark for ultra-high-end segment health, informing Gucci's pricing and positioning strategy.",
+      "action_ko": "발표 데이터로 프라이싱 파워 비교 분석, 내부 가격 전략 리뷰 반영",
+      "source": "Marketscreener / Hermès Finance",
+      "tier": 1,
+      "url": "https://finance.hermes.com/en/calendar/"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "프라다 그룹 2026년 9개월 매출 발표",
+      "brand": "Prada Group",
+      "type": "earnings",
+      "why_ko": "Miu Miu의 고성장세가 지속되는 가운데 프라다 그룹 실적은 구찌의 최근 Z세대·젊은 소비자층 경쟁 구도를 가늠하는 핵심 참고자료.",
+      "why_en": "With Miu Miu's growth continuing, Prada Group's results are a key reference point for Gucci's competition for younger luxury consumers.",
+      "action_ko": "Miu Miu 대비 구찌 타겟 연령층 매출 기여도 내부 비교 분석 실시",
+      "source": "WWD",
+      "tier": 1,
+      "url": "https://wwd.com/business-news/financial/prada-group-ceo-andrea-guerra-potential-growth-4b-euros-sales-1238322753/"
+    },
+    {
+      "date": "2026-10-28",
+      "event": "케링 2026년 3분기 매출 발표",
+      "brand": "Kering (Gucci)",
+      "type": "earnings",
+      "why_ko": "구찌 자체 실적이 처음으로 뎀나의 SS27 '스토어 쇼' 이후 반응을 매출로 확인시켜주는 시점 — CMO 핵심 KPI 보고 기준일.",
+      "why_en": "Kering's Q3 report is the first to reflect commercial response following Demna's SS27 'Store Show' — the key KPI checkpoint for the CMO office.",
+      "action_ko": "실적 발표 전 지역별 GMAI 데이터와 매출 가이던스 교차 검증, 발표 직후 투자자·언론 메시지 대응 준비",
+      "source": "Investing.com / Marketscreener",
+      "tier": 1,
+      "url": "https://www.marketscreener.com/quote/stock/KERING-4683/calendar/"
+    },
+    {
+      "date": "2026-11-02",
+      "event": "CFDA 패션 어워즈 2026",
+      "brand": "Industry (CFDA)",
+      "type": "industry",
+      "why_ko": "미국 패션계 최대 시상식으로 레드카펫 노출이 구찌 및 경쟁 하우스 브랜드 이미지에 직접 영향, 셀럽 착용 기회 다수 발생.",
+      "why_en": "The biggest night in American fashion; red-carpet exposure directly impacts Gucci and rival brand imagery, with major celebrity dressing opportunities.",
+      "action_ko": "행사 전 앰버서더 드레싱 제안 확정, 시상식 직후 T+24h 레드카펫 룩 소셜 반응 분석",
+      "source": "WWD",
+      "tier": 1,
+      "url": "https://wwd.com/fashion-news/fashion-scoops/the-2026-cfda-fashion-awards-american-museum-of-natural-history-nov-2-1239055962/"
+    },
+    {
+      "date": "2026-11-12",
+      "event": "버버리 2026/27 회계연도 반기 실적 발표",
+      "brand": "Burberry",
+      "type": "earnings",
+      "why_ko": "버버리의 턴어라운드 진행 상황은 영국 헤리티지 브랜드 재건 전략 벤치마크로, 구찌의 유사한 브랜드 리포지셔닝 전략과 비교 가능.",
+      "why_en": "Burberry's turnaround progress offers a comparable case study for heritage-brand repositioning, relevant to Gucci's own transformation under Demna.",
+      "action_ko": "턴어라운드 KPI(마진, 풀프라이스 판매 비중) 벤치마킹 후 내부 전략 리뷰에 반영",
+      "source": "Burberry plc",
+      "tier": 2,
+      "url": "https://www.burberryplc.com/investors/financial-calendar"
+    },
+    {
+      "date": "2026-11-13",
+      "event": "리치몬트 2026/27 회계연도 반기 실적 발표",
+      "brand": "Richemont",
+      "type": "earnings",
+      "why_ko": "리치몬트 주얼리·워치 부문 실적은 하드럭셔리 수요를 보여주는 지표로, 구찌 주얼리·워치 라인 확장 전략에 참고 자료가 된다.",
+      "why_en": "Richemont's jewelry and watch results indicate hard-luxury demand, informing Gucci's own jewelry and watch category expansion plans.",
+      "action_ko": "하드럭셔리 부문 수요 데이터 확인 후 구찌 주얼리 라인 마케팅 예산 배분 재검토",
+      "source": "Richemont",
+      "tier": 2,
+      "url": "https://www.richemont.com/investors/corporate-calendar/"
+    },
+    {
+      "date": "2026-11-30~2026-12-06",
+      "event": "마이애미 아트 위크 / 아트 바젤 마이애미비치 2026",
+      "brand": "Industry (Art Basel)",
+      "type": "industry",
+      "why_ko": "럭셔리 브랜드의 아트 콜라보·VIP 이벤트가 집중되는 시기로, 구찌의 아트 파트너십 및 북미 VIP 고객 접점 기회.",
+      "why_en": "Peak period for luxury-art collaborations and VIP events; an opportunity window for Gucci art partnerships and North American VIP engagement.",
+      "action_ko": "아트 바젤 기간 팝업/VIP 라운지 활성화 여부 사전 점검, 경쟁 하우스 아트 콜라보 모니터링",
+      "source": "Art Basel",
+      "tier": 2,
+      "url": "https://www.artbasel.com/miami-beach"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "샤넬 메티에 다르 2027 쇼 (로마)",
+      "brand": "Chanel",
+      "type": "show",
+      "why_ko": "60일 지평선 경계에 근접하나, Matthieu Blazy의 첫 이탈리아 메티에 다르 쇼로 이탈리아 헤리티지 마케팅 사례 — 구찌의 피렌체 뿌리 전략과 직접 비교됨.",
+      "why_en": "Just beyond the 60-day window but highly relevant — Matthieu Blazy's first Italian-soil Métiers d'Art show in Rome directly parallels Gucci's own Florence-heritage strategy.",
+      "action_ko": "사전 공개 이미지 모니터링, 이탈리아 헤리티지 내러티브 경쟁 비교 분석 착수",
+      "source": "WWD",
+      "tier": 2,
+      "url": "https://wwd.com/fashion-news/fashion-scoops/chanels-metiers-dart-2027-collection-location-rome-1238945868/"
+    }
+  ]
+}

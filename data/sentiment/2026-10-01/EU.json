@@ -1,0 +1,83 @@
+[
+  {
+    "id": "EU-2026-10-01-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Kering CEO statement defending Italian production is factual/defensive corporate reporting, not independent judgment.",
+    "signal_tags": ["corporate_statement", "sourcing_controversy_response"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-10-01-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press reports Made-in-China sneaker controversy with analyst and consultant criticism of provenance/luxury positioning tension.",
+    "signal_tags": ["made_in_china_controversy", "analyst_criticism", "provenance"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-01-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Forum members overwhelmingly pan SS27 'Store Show' collection as vulgar and visionless, viral-level organic backlash.",
+    "signal_tags": ["design_criticism", "collection_backlash", "creative_direction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-10-01-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum hub description notes recurring price-to-quality complaints among members; mostly descriptive with mild negative signal.",
+    "signal_tags": ["value_for_money", "forum_discussion"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-01-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive TikTok coverage of Gucci Memoria heritage exhibition with no clear evaluative verdict from outlet.",
+    "signal_tags": ["activation_coverage", "exhibition"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-10-01-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trustpilot reviews cite poor service, a bag durability failure with no remedy, and damaged/empty online orders.",
+    "signal_tags": ["quality_complaint", "service_complaint", "customer_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-01-007",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Harper's Bazaar trade-press review praises Demna's FW26 show as a deliberate, successful bid to restore cultural buzz.",
+    "signal_tags": ["favorable_review", "creative_direction", "runway_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-01-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual reporting of Kering share price movement in after-hours trading.",
+    "signal_tags": ["stock_price", "factual_reporting"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-10-01-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Instagram comments on Kate Moss campaign look are genuinely split between praise and fit criticism; no clear net polarity.",
+    "signal_tags": ["mixed_reaction", "campaign_comments", "ambassador"],
+    "confidence": 0.55
+  }
+]

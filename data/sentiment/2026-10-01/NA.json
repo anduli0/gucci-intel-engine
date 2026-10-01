@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-2026-10-01-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade-analysis framing using Gucci sneaker as symbol of China's manufacturing rise, not a direct brand-quality verdict.",
+    "signal_tags": ["manufacturing", "china", "trade_press", "provenance"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-01-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press reports twelfth consecutive quarterly sales decline and CEO tempering rebound expectations, clear negative momentum coverage.",
+    "signal_tags": ["earnings", "momentum", "trade_press", "turnaround"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-01-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Enthusiast forum thread sharply split but dominated by harsh design criticism and objection to dropping womenswear, with only one dissenting positive post.",
+    "signal_tags": ["design_criticism", "runway", "community", "demna"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-10-01-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation preview video ahead of runway show; comment sentiment split between excitement and skepticism with no clear verdict.",
+    "signal_tags": ["activation_coverage", "runway_preview", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-01-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Social roundup shows mixed-to-negative consensus mocking the sneaker design and criticizing full luxury pricing without Italian-made provenance.",
+    "signal_tags": ["value_for_money", "provenance", "design_criticism", "sns"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-10-01-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Established, actively-posting community thread documents recurring quality-control complaints (stitching, hardware, zippers) against rising prices.",
+    "signal_tags": ["quality_control", "value_for_money", "community"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-01-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 wire report carries independent expert judgment that Made-in-China labeling is 'not a good look' and conflicts with reclaimed luxury positioning.",
+    "signal_tags": ["provenance", "manufacturing", "trade_press", "expert_opinion"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-01-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Street-style photo roundup of attendee bags is descriptive product-spotting content with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "street_style", "product_spotting"],
+    "confidence": 0.6
+  }
+]

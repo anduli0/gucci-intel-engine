@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SEA-2026-10-01-01",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 Bloomberg-wire analysis reports Gucci/SEA tourist-spend weakness and names Singapore as underperforming within regional momentum narrative.",
+    "signal_tags": ["critical", "earnings", "china_spillover", "regional_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-01-02",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-debut activation write-up with no independent evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador", "regional_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-01-03",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive front-row outfit style coverage, no outlet evaluative judgment beyond factual detail; treated as activation coverage.",
+    "signal_tags": ["activation_coverage", "ambassador", "runway"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-10-01-04",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Indonesian financial outlet runs 'death spiral' framing citing rising prices, declining quality, and discount-outlet overstock for Gucci.",
+    "signal_tags": ["critical", "price_value", "quality_complaint", "regional_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-01-05",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Indonesian financial press reports Gucci China store closures amid weakening demand, part of critical regional wave.",
+    "signal_tags": ["critical", "store_closures", "regional_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-01-06",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Weibo fandom discussion thread on ambassador reactions is a repetitive fan-event spike, damped to neutral per fandom trap rather than genuine brand affinity.",
+    "signal_tags": ["fandom", "ambassador", "cross_region_chatter"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-10-01-07",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Netizen aggregation piece includes skeptical voices questioning whether ambassador pick reflects merit or just fan buying power, mixed but net-critical of brand judgment.",
+    "signal_tags": ["critical", "mixed_sentiment", "ambassador", "fandom_skepticism"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-10-01-08",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "TikTok discovery cluster described only as haul/review activity volume with no extractable verdict text or engagement metrics; treated as incidental organic buzz.",
+    "signal_tags": ["ugc", "product_review", "organic_buzz"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-10-01-09",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Resale marketplace price-dispersion data is descriptive of secondary-market structure, not a clear positive or negative verdict on the brand.",
+    "signal_tags": ["resale_market", "price_value", "secondary_market"],
+    "confidence": 0.45
+  },
+  {
+    "id": "SEA-2026-10-01-10",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Long-running community forum thread expresses recurring value-for-money frustration over price increases without matching quality.",
+    "signal_tags": ["critical", "price_value", "community_sentiment"],
+    "confidence": 0.65
+  }
+]

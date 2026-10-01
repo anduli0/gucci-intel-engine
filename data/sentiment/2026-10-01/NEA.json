@@ -1,0 +1,119 @@
+[
+  {
+    "id": "NEA-2026-10-01-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual report on China-made sneakers including brand's own denial of cost-cutting; no outlet evaluative verdict.",
+    "signal_tags": ["manufacturing", "made_in_china", "factual"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-01-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Factual report but frames consumer doubt over price justification amid 12th straight quarterly sales decline.",
+    "signal_tags": ["manufacturing", "made_in_china", "value_for_money", "earnings_pressure"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-01-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Weibo amplification debating whether China-made sneakers justify price vs Italian-made equivalents.",
+    "signal_tags": ["made_in_china", "value_for_money", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-01-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer skepticism/quality-anxiety thread questioning build quality of China-made vs Italy-made sneakers.",
+    "signal_tags": ["quality_complaint", "made_in_china"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-01-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral consumer complaint over quiet up-to-40% price cuts undermining luxury 'only rises' pricing myth.",
+    "signal_tags": ["discounting", "price_backlash", "outlet_image"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-01-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador editorial cover story; no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "kpop"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-01-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party demand data: campaign jacket sold out across multiple markets within a day.",
+    "signal_tags": ["ambassador", "kpop", "sellout", "demand_data"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-01-008",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan account sellout post; genuine demand signal but fandom spike volume damped to mild magnitude.",
+    "signal_tags": ["fandom", "kpop", "sellout", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-01-009",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "High-affect fandom praise of ambassador campaign photos; damped per fandom-spike trap.",
+    "signal_tags": ["fandom", "kpop", "ambassador"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-10-01-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Small-scale organic community photo-sharing of popup appearance; purely descriptive, minimal engagement.",
+    "signal_tags": ["activation_coverage", "fandom", "popup"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-10-01-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Bernstein analyst review criticizes shoes/bags as uninteresting and other pieces as vulgar.",
+    "signal_tags": ["design_criticism", "analyst_review", "creative_direction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-01-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Negative earnings/momentum press: China tax enforcement drives double-digit July sales drop for Gucci.",
+    "signal_tags": ["earnings_pressure", "china_macro", "sales_decline"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-01-013",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Favorable trade-editorial profile of Demna's commercially-minded creative direction and new atelier approach.",
+    "signal_tags": ["creative_direction", "trade_press", "favorable_review"],
+    "confidence": 0.6
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-10-01",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "Made in China 라벨 스니커즈 논란, 발매 1주일 지나도 계속 확산",
+      "summary": "Demna의 첫 구찌 스니커즈 'Drip'과 슬립온 모델이 중국 제조사에서 만들어져 'Made in China' 라벨을 달고 판매되는 것으로 확인되면서, 이탈리아 장인정신을 핵심 가치로 내세워온 구찌의 정체성과 충돌한다는 비판이 업계 전반으로 확산되고 있다. Barclays·Berenberg 등 애널리스트들은 가격 인하와 겹쳐 브랜드 자산 훼손 우려를 제기했다.",
+      "url": "https://insideretail.asia/2026/09/29/why-guccis-made-in-china-sneakers-are-raising-questions/",
+      "source": "Inside Retail Asia",
+      "tier": "T2",
+      "published_at": "2026-09-29",
+      "why_it_matters": "가격 인하와 동시에 터진 생산지 논란은 '이탈리아산=구찌' 공식에 대한 소비자 신뢰를 시험하는 이중 리스크다.",
+      "why_it_matters_en": "The China-made label controversy lands on top of price cuts, testing consumer trust in the Italian-craftsmanship premise Gucci has always charged for.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "애널리스트들, 중국산 라벨이 가격 인하와 맞물려 브랜드 가치 훼손 우려 제기",
+      "summary": "Barclays 애널리스트 Carole Madjo는 투자자들이 이미 구찌의 할인 전략에 놀란 상태에서, 중국산 라벨까지 더해지며 '가격과 가치가 여전히 맞는지'에 대한 의문이 커지고 있다고 지적했다. 구찌 측은 스위스·일본 공급업체 활용 사례를 들며 이탈리아 생산 기조에는 변함이 없다고 해명했다.",
+      "url": "https://jingdaily.com/posts/gucci-and-the-fragility-of-desire",
+      "source": "Jing Daily",
+      "tier": "T2",
+      "published_at": "2026-09-29",
+      "why_it_matters": "가격 할인과 생산지 이슈가 겹치면 '희소성·프리미엄'이라는 럭셔리의 근본 가치 제안이 흔들릴 수 있다는 애널리스트 경고는 업계 전체에 시사점을 준다.",
+      "why_it_matters_en": "Analysts warn that discounting plus a provenance controversy together strain the core luxury value proposition of scarcity and premium pricing.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "pricing",
+      "headline": "구찌, 중국 내 일부 핸드백·의류 가격 최대 30% 인하",
+      "summary": "Kering 내부 소식통에 따르면 구찌는 중국 등 일부 시장에서 제품 가격을 인하했다. Mercato 스몰 토트는 25,500위안에서 20,000위안으로(약 22% 인하), Ophidia 미니 버킷백은 약 29% 인하됐으며 일부 드레스·수영복·니트웨어도 약 30% 가격이 내려갔다.",
+      "url": "https://jingdaily.com/posts/gucci-cuts-prices-but-will-chinese-shoppers-return",
+      "source": "Jing Daily",
+      "tier": "T2",
+      "published_at": "2026-09-25",
+      "why_it_matters": "가격 인하는 중국 수요 회복을 노린 승부수지만, 럭셔리 브랜드의 '희소성 프리미엄'을 스스로 깎아내리는 선례가 될 위험이 있다.",
+      "why_it_matters_en": "The price cuts are a bet to win back Chinese demand, but risk setting a precedent that erodes the brand's own scarcity premium.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "데므나의 두 번째 구찌 런웨이 'The Store', 밀라노에서 공개",
+      "summary": "구찌 크리에이티브 디렉터 데므나는 2027 봄/여름 컬렉션을 실제 구찌 매장을 재현한 세트 안에서 선보였다. 모델들이 매장 문으로 입장해 상품 진열실을 거쳐 걷는 콘셉트로, 취임 1년을 맞아 처음으로 '완전한 개인 비전'을 담았다는 평가를 받았으나 일부 평론가는 과도한 가죽 본디지 소품이 브랜드 유산을 희화화했다고 비판했다.",
+      "url": "https://theimpression.com/demna-gucci-spring-2027-store-show-profile/",
+      "source": "The Impression",
+      "tier": "T2",
+      "published_at": "2026-09-25",
+      "why_it_matters": "취임 1년 차 데므나의 비전이 호평과 혹평으로 극명하게 갈리는 것은 구찌 턴어라운드 서사의 리스크를 보여준다.",
+      "why_it_matters_en": "The sharply split critical reception to Demna's one-year-mark vision underscores the risk embedded in Gucci's turnaround narrative.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "구찌, SS27 쇼와 연계해 프리마베라 캠페인·케이트 모스 필름 전개",
+      "summary": "데므나 취임 후 첫 캠페인 '프리마베라'는 10인의 글로벌 캐스팅과 함께 케이트 모스가 출연한 단편 필름(감독 Johan Renck)을 포함했다. 낯선 이들이 춤을 추며 짝을 찾는 콘셉트로 Chris Isaak의 'Wicked Game'을 립싱크하는 장면이 화제가 됐다.",
+      "url": "https://hypebeast.com/2026/4/generation-gucci-campaign-photograhed-by-demna-gvasalia",
+      "source": "Hypebeast",
+      "tier": "T2",
+      "published_at": "2026-04-01",
+      "why_it_matters": "이는 구찌 자체 마케팅 활동 보도로, 소비자 여론 개선의 근거로 해석해서는 안 되며 어디까지나 브랜드가 주도한 노출 활동이다.",
+      "why_it_matters_en": "This is coverage of Gucci's own marketing activation, not evidence of improved public sentiment — it should be read as brand-driven exposure, not opinion.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "financial",
+      "headline": "구찌 2026년 2분기 매출 12분기 연속 감소, 회복은 제한적",
+      "summary": "구찌 매출은 2022년 109억 유로에서 2025년 60억 유로로 3년간 거의 반토막났다. 2026년 2분기에도 매출이 다시 감소하며 12분기 연속 하락을 기록했으나, 하락폭 자체는 전분기 대비 둔화(비교 기준 약 -2%)되며 부분적 안정화 신호도 함께 나타났다.",
+      "url": "https://jingdaily.com/posts/eleven-quarters-later-gucci-still-misunderstands-its-crisis",
+      "source": "Jing Daily",
+      "tier": "T2",
+      "published_at": "2026-09-01",
+      "why_it_matters": "12분기 연속 매출 감소는 단기 이벤트가 아닌 구조적 위기로, 쇼·캠페인의 화제성과 실제 매출 회복 사이의 괴리를 보여준다.",
+      "why_it_matters_en": "Twelve consecutive quarters of declining sales signal a structural crisis, not a cyclical dip — highlighting the gap between runway buzz and real revenue recovery.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "구찌 뷰티, 로레알로 라이선스 이전 확정 — 2027년 7월 발효, 신제품은 2028년",
+      "summary": "구찌와 로레알은 50년 독점 뷰티 라이선스 계약을 체결했으며, 기존 Coty와의 계약(2028년 6월 만료 예정)보다 1년 앞당겨 2027년 7월 1일부로 로레알이 인수한다. Coty는 조기 양도 대가로 약 4억 달러를 받으며, 로레알은 2028년경 첫 구찌 뷰티 제품(향수·코스메틱)을 출시할 계획이다.",
+      "url": "https://www.hpcmagmea.com/2026/08/03/loreal-targets-2028-debut-for-first-gucci-beauty-products-under-new-licensing-agreement/",
+      "source": "HPCi Media",
+      "tier": "T2_trade",
+      "published_at": "2026-08-03",
+      "why_it_matters": "뷰티 라이선스는 구찌의 장기 수익 구조를 바꿀 전략적 결정으로, 로레알의 글로벌 유통·R&D 역량이 브랜드 재건의 새 축이 될 수 있다.",
+      "why_it_matters_en": "The beauty licensing shift is a long-horizon strategic move that could become a new pillar of the brand's turnaround, leveraging L'Oreal's global distribution and R&D scale.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "프란체스카 벨레티니, 구찌 신임 회장 겸 CEO로 재확인 — 턴어라운드 지휘",
+      "summary": "이전 생로랑을 매출 6배 성장(연 30억 유로 이상)시킨 프란체스카 벨레티니가 구찌의 회장 겸 CEO로서 브랜드 회생을 이끌고 있다. 전임 Stefano Cantino 체제에서 벨레티니 체제로의 전환은 케링 그룹의 핵심 리더십 개편으로 평가된다.",
+      "url": "https://wwd.com/business-news/human-resources/gucci-ceo-francesca-bellettini-confirmed-1238159856/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-02-01",
+      "why_it_matters": "벨레티니의 생로랑 성공 경험이 구찌에서도 재현될 수 있을지가 케링 그룹 전체 실적 회복의 핵심 변수다.",
+      "why_it_matters_en": "Whether Bellettini can replicate her Saint Laurent turnaround at Gucci is the central variable for Kering group's overall recovery.",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": []
+}
