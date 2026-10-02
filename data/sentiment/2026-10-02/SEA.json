@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-10-02-01",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent T2 critical analysis quoting consultant/analyst skepticism on Made-in-China sneaker move; price-value and manufacturing-heritage controversy, not activation-discounted.",
+    "signal_tags": ["critical", "manufacturing", "price_value", "regional_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-02-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Bahasa Indonesia press confirms same manufacturing-provenance backlash reaching local-language audience with explicit negative consultant quote.",
+    "signal_tags": ["critical", "manufacturing", "price_value", "regional_press", "bahasa_indonesia"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-02-03",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Wire-syndicated pickup of same critical manufacturing story into a third SEA market; negative but secondary/derivative coverage, not fresh independent reporting.",
+    "signal_tags": ["critical", "manufacturing", "price_value", "regional_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-10-02-04",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Demna's heritage-bag campaign with no outlet evaluative verdict; activation-coverage discount applies, plus stale background context.",
+    "signal_tags": ["activation_coverage", "product_campaign", "background_context"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-02-05",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Straight descriptive ambassador-appointment announcement (what/who/where) with no independent critical verdict; brand-activation discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-02-06",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent third-party quantified social-listening data shows Gucci ranked #2 in SOV at MFW with large measured reach/mentions, qualifying for uncapped positive magnitude.",
+    "signal_tags": ["sns_volume", "ambassador", "quantified_buzz"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-10-02-07",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Thai fan-account post celebrating ambassador's Milan debut is a fandom spike, not independently verified brand affinity; dampened to mild magnitude per fandom trap.",
+    "signal_tags": ["fandom", "ambassador", "organic_buzz"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-10-02-08",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic UGC store-content cluster with no visible engagement metrics or clear evaluative verdict; descriptive community volume only.",
+    "signal_tags": ["ugc", "organic_buzz", "store_content"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-10-02-09",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale consumer-advice thread with mixed price/value/durability replies and no clear net-positive or net-negative verdict; low-confidence polarity demoted to neutral.",
+    "signal_tags": ["community_sentiment", "price_value", "background_context"],
+    "confidence": 0.4
+  }
+]

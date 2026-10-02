@@ -1,0 +1,112 @@
+{
+  "brand_group": "Hermes-Chanel",
+  "date": "2026-10-02",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Hermès",
+      "event_type": "earnings",
+      "headline": "Hermès Q2 2026 revenue narrowly misses analyst expectations despite double-digit leather goods growth",
+      "summary": "Hermès posted Q2 2026 revenue of 4.05 billion euros versus the 4.08 billion euros analysts expected; leather goods and silk/textiles each grew 10%, but perfume and beauty fell 4%, the weakest category. H1 revenue rose 6% at constant currency to 8.2 billion euros with operating margin holding at 41%.",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hermes-shares-fall-on-q2-2026-revenue-miss-93CH-4818880",
+      "source": "Investing.com",
+      "tier": "T2",
+      "published_at": "2026-07-31",
+      "why_it_matters_en": "Even the industry's most resilient operator is showing a revenue miss and a beauty-category slump, a useful reality check against any narrative that top luxury houses are immune to the slowdown Gucci itself faces.",
+      "why_it_matters": "업계에서 가장 견고하다는 에르메스조차 매출 기대치를 밑돌고 뷰티 부문이 약세를 보였다는 점은, 럭셔리 상위 하우스가 구찌가 겪는 둔화에서 완전히 자유롭지 않다는 현실을 보여준다.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "regulation",
+      "headline": "Hermès asks Ninth Circuit to uphold dismissal of Birkin allocation antitrust case",
+      "summary": "Hermès filed a brief urging the US Ninth Circuit Court of Appeals to affirm a lower court's dismissal of a proposed class action alleging the brand illegally ties Birkin and Kelly bag access to prior purchases of other merchandise; Hermès argues the system is lawful selective-selling, not coercive tying.",
+      "url": "https://www.pymnts.com/cpi-posts/hermes-urges-ninth-circuit-to-reject-birkin-antitrust-claims/",
+      "source": "PYMNTS (citing CPI)",
+      "tier": "T2",
+      "published_at": "2026-05-20",
+      "why_it_matters_en": "A win would cement scarcity-based allocation as a legally defensible retail model other maisons, including Gucci, could study for icon-bag strategies; a loss would force a rethink of client-tiering practices across the industry.",
+      "why_it_matters": "에르메스가 승소하면 희소성 기반 배분 모델이 법적으로 방어 가능한 리테일 전략으로 자리잡아 구찌를 포함한 다른 하우스가 아이코닉 백 전략에 참고할 수 있고, 패소하면 업계 전반의 고객 등급제 관행을 재검토해야 한다.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "controversy",
+      "headline": "Investigative report alleges Hermès profiles clients' addresses and social media to gate Birkin access",
+      "summary": "A Glitz investigation reported that Hermès sales staff reportedly research prospective buyers' home addresses and social-media presence to judge fit before offering access to Birkin bags, with no published allocation criteria disclosed to customers.",
+      "url": "https://www.complex.com/style/a/jaelaniturnerwilliams/hermes-tracks-client-access-bags",
+      "source": "Complex",
+      "tier": "T2",
+      "published_at": "2026-01-15",
+      "why_it_matters_en": "Opaque, profiling-based allocation is a recurring reputational exposure point for ultra-exclusive maisons; it sits alongside the live antitrust appeal as a compounding legal and PR risk Gucci should watch rather than emulate uncritically.",
+      "why_it_matters": "불투명한 고객 프로파일링 기반 배분 방식은 초고가 하우스들의 반복되는 평판 리스크 요인으로, 현재 진행 중인 반독점 항소와 겹쳐 법적·PR 리스크가 누적되고 있어 구찌가 무비판적으로 모방하기보다 경계해야 할 사례다.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Chanel",
+      "event_type": "executive",
+      "headline": "Chanel names Lucia Pieroni as Creative Makeup Director, ending collaborative-studio approach",
+      "summary": "Chanel appointed Lucia Pieroni, formerly creative director of makeup at Shiseido's Clé de Peau Beauté, as its new Creative Makeup Director effective September 14, 2026; she reports to fragrance and beauty president Simona Cattaneo, reverting from the three-person collaborative team Chanel used since 2022 to a single artistic lead.",
+      "url": "https://wwd.com/beauty-industry-news/color-cosmetics/chanel-names-lucia-pieroni-top-makeup-role-1239260255/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-25",
+      "why_it_matters_en": "Chanel is consolidating creative authority in beauty under one name after a multi-year collective experiment, signaling that single-voice creative direction is being reasserted as the preferred model for maison-level makeup lines, relevant to how Gucci Beauty structures its own creative leadership.",
+      "why_it_matters": "샤넬이 2022년부터 시도한 3인 공동 크리에이티브 체제를 접고 단일 메이크업 디렉터 체제로 복귀한 것은, 하우스급 메이크업 라인에서 단일 크리에이티브 보이스가 다시 선호되는 모델임을 시사하며 구찌 뷰티의 크리에이티브 리더십 구조에도 참고가 된다.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Chanel",
+      "event_type": "retail",
+      "headline": "Chanel's Hermès-style exclusivity push on handbag pricing and purchase limits draws renewed scrutiny",
+      "summary": "Trade coverage continues to frame Chanel's strategy of raising classic handbag prices roughly two-thirds since 2019 and imposing purchase limits as a deliberate attempt to match Hermès-level exclusivity, a strategy some commentators argue has alienated part of its core fanbase without yet achieving Hermès-level resale retention.",
+      "url": "https://www.businessoffashion.com/news/luxury/chanel-is-aiming-for-hermes-status-with-handbag-price-hikes/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-06-10",
+      "why_it_matters_en": "Chanel's scarcity gambit is a live natural experiment in whether aggressive price hikes alone can manufacture Hermès-grade desirability; mid-2026 resale data still shows Chanel trailing Hermès and Van Cleef & Arpels on retention, suggesting the strategy has real limits Gucci's own pricing playbook should note.",
+      "why_it_matters": "샤넬의 희소성 전략은 가격 인상만으로 에르메스급 선호도를 만들어낼 수 있는지를 보여주는 실험대이며, 2026년 중반 리세일 데이터에서도 샤넬은 에르메스·반클리프 아펠보다 낮은 가치 보존율을 보여 전략의 한계가 뚜렷하므로 구찌의 가격 정책에도 시사점이 있다.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "trend",
+      "headline": "Hermès again tops 2025-26 resale retention rankings, with Birkin/Kelly holding 100%+ value",
+      "summary": "Rebag's Clair Report and other resale trackers show Hermès leading luxury resale retention at roughly 138% in 2025 and maintaining 100%+ secondhand value on Birkin and Kelly into 2026, while Van Cleef & Arpels leads fine jewelry retention and Chanel's Classic Flap/22 Bag trail at around 75%.",
+      "url": "https://retailboss.co/hermes-resale-values/",
+      "source": "Retail Boss (citing Rebag Clair Report)",
+      "tier": "T2",
+      "published_at": "2026-01-20",
+      "why_it_matters_en": "Resale retention is becoming a public scoreboard of brand desirability; Hermès' continued lead and Chanel's comparative softness give Gucci a concrete external benchmark for where its own icon bags would need to sit to be read as genuinely scarce rather than merely expensive.",
+      "why_it_matters": "리세일 가치 보존율이 브랜드 선호도를 가늠하는 공개 지표로 자리잡는 가운데 에르메스의 지속적 우위와 샤넬의 상대적 열세는, 구찌의 아이코닉 백이 단순히 비싼 것이 아니라 진짜 희소성을 갖췄는지 평가할 구체적 외부 기준을 제공한다.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "retail",
+      "headline": "Hermès opens first permanent Brooklyn boutique in Williamsburg",
+      "summary": "Hermès opened its 44th US store at 130 Berry Street in Williamsburg, Brooklyn on September 19, 2026, a two-floor space built from a collage of reclaimed industrial facades, following a 2023 pop-up at the same block.",
+      "url": "https://www.culturedmag.com/article/2026/09/17/fashion-hermes-store-williamsburg-brooklyn-opening/",
+      "source": "Cultured Magazine",
+      "tier": "T2",
+      "published_at": "2026-09-17",
+      "why_it_matters_en": "Hermès is pushing beyond traditional flagship corridors into culturally-coded neighborhood retail, a localization play worth tracking as Gucci weighs its own store-network choices in similarly gentrifying US markets.",
+      "why_it_matters": "에르메스가 전통적 플래그십 거리를 벗어나 문화적 상징성이 있는 동네 상권으로 확장한 것은, 구찌가 미국 내 유사한 젠트리피케이션 지역에서 매장망 전략을 고민할 때 참고할 로컬라이제이션 사례다.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "pricing",
+      "headline": "Hermès reportedly weighing softer price increases as luxury demand cools",
+      "summary": "Trade coverage suggests Hermès may moderate its historically aggressive annual price-hike cadence as broader luxury buyer pull-back pressures the category, even though the house's own H1 2026 results remained comparatively strong.",
+      "url": "https://finimize.com/content/herm%C3%A8s-may-ease-price-hikes-as-luxury-buyers-pull-back",
+      "source": "Finimize",
+      "tier": "T2",
+      "published_at": "2026-08-05",
+      "why_it_matters_en": "If even Hermès is tempering price increases, it signals the demand slowdown is broad enough to touch pricing power at the very top of the pyramid, a caution against any strategy premised on unlimited luxury pricing headroom.",
+      "why_it_matters": "에르메스조차 가격 인상 속도를 조절할 조짐이 있다는 것은 수요 둔화가 피라미드 최상단까지 영향을 미치고 있다는 신호로, 무제한적 가격 결정력을 전제로 한 전략에 대한 경고가 된다.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": []
+}

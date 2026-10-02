@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NEA-2026-10-02-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci-staged Milan show with no outlet evaluative verdict",
+    "signal_tags": ["activation_coverage", "runway_show", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-02-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst-flagged tension between China-made sneakers and premium pricing undermines luxury positioning",
+    "signal_tags": ["provenance_backlash", "value_for_money", "quality_concern"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-02-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Official consumer agency data shows recurring Gucci quality defects and refund refusals",
+    "signal_tags": ["quality_complaint", "consumer_protection", "refund_dispute"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-02-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Stale (outside freshness window) store-closure and 'grandmother's house' critique recirculating as background context",
+    "signal_tags": ["store_closures", "restructuring", "stale_recirculation"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-02-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Viral community post on sales decline and China-made labels, though thread diffuses blame to sector-wide trouble",
+    "signal_tags": ["community_discussion", "sales_decline", "provenance_backlash"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-02-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explainer thread presents brand's rationale alongside skeptical comments without net verdict",
+    "signal_tags": ["provenance_debate", "balanced_discussion"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-10-02-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Poll-style thread explicitly splits between acceptance and backlash, no net sentiment",
+    "signal_tags": ["provenance_debate", "balanced_discussion"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-02-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Gen Z commentary calls designs boring and unfavorably compares Gucci purchase to alternative spending, at large platform scale",
+    "signal_tags": ["design_criticism", "value_for_money", "peer_comparison"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-02-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive eyewear campaign coverage with no evaluative verdict",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-02-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified H1 2026 results show sales down and APAC ex-Japan underperforming versus North America",
+    "signal_tags": ["negative_earnings", "regional_underperformance"],
+    "confidence": 0.75
+  }
+]

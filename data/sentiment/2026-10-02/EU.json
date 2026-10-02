@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EU-2026-10-02-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 Reuters report of Made-in-China sourcing breaking Italian-heritage positioning, with analyst flagging provenance/luxury-positioning tension",
+    "signal_tags": ["sourcing_controversy", "provenance", "analyst_criticism"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-10-02-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Follow-up analysis framing sourcing controversy as ongoing test/risk to luxury positioning, more measured than viral originating report",
+    "signal_tags": ["sourcing_controversy", "trade_press", "positioning_risk"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-10-02-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering share price fall tied by commentary to sneaker sourcing controversy; negative momentum press, mild magnitude as it's a routine market note",
+    "signal_tags": ["stock_move", "negative_momentum", "sourcing_controversy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-02-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine market data note; stock modestly higher intraday but trend described as still bearish and inconclusive, factual reporting",
+    "signal_tags": ["stock_move", "factual_reporting"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-10-02-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Design-press review praises immersive heritage treatment but core critical point targets Gucci/brand spectacle for crowding out independent design discourse; activation coverage with evaluative verdict capped at 0.5",
+    "signal_tags": ["activation_coverage", "design_press", "critical_commentary"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-02-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed community thread with both loyalist praise and quality/value grievances in same summary; net split sentiment defaults neutral per 'when in doubt' rule",
+    "signal_tags": ["community_sentiment", "mixed_reaction", "quality_complaint"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-10-02-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trustpilot complaints on inconsistent boutique service, bag durability failure, and damaged/incomplete online orders are quality/QC and service complaints",
+    "signal_tags": ["quality_complaint", "customer_service", "online_order_issue"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-10-02-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Split public reaction to ambassador/runway look with widely-echoed critical comment on styling/design fit outweighing isolated praise; fandom-adjacent, damped to 0.5",
+    "signal_tags": ["fandom_trap", "design_criticism", "mixed_reaction", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-02-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Widely circulated viral social backlash over paying luxury prices for China-made sneaker amid revenue decline; organic negative reaction, not promo-capped",
+    "signal_tags": ["sourcing_controversy", "pricing_backlash", "viral_social", "value_for_money"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-10-02-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Kering/Gucci-affiliated executive statement and academy launch is brand-owned/corporate promo copy countering backlash narrative; self-praise/PR is not public opinion",
+    "signal_tags": ["activation_coverage", "corporate_pr", "counter_narrative"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-10-02-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Overwhelmingly negative independent forum review of SS27 collection calling it 'vulgarity' and 'pile of nothingness' with unfavorable peer comparison to DSquared2 and doubts on Demna tenure; independent critical judgment, viral-level magnitude",
+    "signal_tags": ["design_criticism", "collection_review", "peer_comparison", "creative_direction_risk"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-02-012",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent French trade-press commentary praises Demna's FW26 'Primavera' as template-setting for emotional storytelling driving luxury desirability, a favorable trade-press critical judgment",
+    "signal_tags": ["favorable_trade_press", "creative_direction", "collection_review"],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-2026-10-02-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual sponsorship/partnership announcement with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "partnership"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-02-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Spring 2027 menswear styling details without a clear evaluative verdict.",
+    "signal_tags": ["runway_coverage", "descriptive"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-02-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Forum members deliver an overwhelmingly negative, emotional verdict calling the collection 'vulgar' and hoping for designer exit.",
+    "signal_tags": ["design_criticism", "community_backlash"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-02-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Viral meme sustains brand-name visibility but carries no evaluative judgment of the brand itself.",
+    "signal_tags": ["meme_virality", "fandom_trap", "incidental_mention"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-02-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Mixed-to-skeptical community verdict questioning durability and longevity of Flora pieces relative to price.",
+    "signal_tags": ["quality_complaint", "value_for_money", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-02-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press reports Gucci comparable sales down 8% with China deeply negative, Europe weak and Middle East -11%, and CFO Poulou's cautious tone tempers turnaround optimism despite a NA bright spot.",
+    "signal_tags": ["negative_earnings", "momentum_press", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-02-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent critique is ambiguous/split in verdict and lacks engagement data to confirm polarity, so demoted to neutral.",
+    "signal_tags": ["independent_critique", "low_confidence"],
+    "confidence": 0.45
+  }
+]
