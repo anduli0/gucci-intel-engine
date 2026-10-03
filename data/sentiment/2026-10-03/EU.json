@@ -1,0 +1,119 @@
+[
+  {
+    "id": "EU-20261003-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press judgment that China-made Drip sneaker undermines brand identity and Italian manufacturing provenance.",
+    "signal_tags": ["manufacturing_controversy", "made_in_italy", "trade_press_criticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261003-02",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent daily frames China-made sneaker as a structural/political problem for Italian manufacturing competitiveness.",
+    "signal_tags": ["manufacturing_controversy", "made_in_italy", "industrial_policy"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261003-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reports Gucci broke 'made in Italy' dogma; framing is critical but tempered by brand's own rebuttal quote, more descriptive.",
+    "signal_tags": ["manufacturing_controversy", "made_in_italy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261003-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 Reuters wire with analyst and consultant on record warning of provenance/positioning tension and calling the move 'not a good look.'",
+    "signal_tags": ["manufacturing_controversy", "made_in_italy", "analyst_criticism"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261003-05",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Favorable critic review of brand-staged runway show ('quintessentially Gucci'); activation coverage with evaluative verdict, capped at 0.5.",
+    "signal_tags": ["runway_review", "activation_coverage", "store_renovation"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261003-06",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade press review of brand-staged show with mildly favorable framing of Demna's creative vision; activation coverage capped at 0.5.",
+    "signal_tags": ["runway_review", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261003-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign write-up (who stars, concept) with no independent evaluative verdict; brand-driven activation coverage.",
+    "signal_tags": ["campaign_launch", "activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261003-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Negative earnings press: 8% sales decline, eleventh straight quarterly drop, Kering shares fell.",
+    "signal_tags": ["earnings_miss", "share_price", "momentum_negative"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261003-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregated social reaction skeptical of China-made sneaker undercutting craftsmanship premium; T3 source, moderate confidence.",
+    "signal_tags": ["manufacturing_controversy", "value_for_money", "social_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261003-10",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reports steep price cuts after CEO admitted overpricing, fueling discount/outlet-image and resale-value concerns among consumers.",
+    "signal_tags": ["price_cut", "discount_image", "resale_value"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261003-11",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consumer reviews document specific quality-control failures (pilling shawl, broken belt) called 'shameful' for the price point.",
+    "signal_tags": ["quality_complaint", "consumer_review"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20261003-12",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed TikTok reaction combining fan excitement and skeptical 'gimmick over clothes' commentary; no clear dominant polarity, fandom-spike trap applies.",
+    "signal_tags": ["fandom_spike", "mixed_reaction", "activation_coverage"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-20261003-13",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual reporting on EMEA leadership appointment and Kering's Milan building stake sale for cash amid restructuring.",
+    "signal_tags": ["leadership_change", "asset_sale", "restructuring"],
+    "confidence": 0.65
+  }
+]

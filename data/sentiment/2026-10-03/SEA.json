@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SEA-2026-10-03-01",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Vietnamese business press frames 'Made in China' Drip sneaker at unchanged ~$1,000 price as public backlash amid cited revenue collapse, an organic critical/price-value story.",
+    "signal_tags": ["critical", "manufacturing", "price_value", "regional_press", "vietnamese"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-03-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent APAC trade press cites analyst warnings that China-made sneaker could damage price-value equation, plus quantified sales-halving context -- qualifies as independent judgment, not activation.",
+    "signal_tags": ["critical", "manufacturing", "price_value", "trade_press", "apac"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-03-03",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Malaysian outlet covers same Drip sneaker manufacturing-break story confirming spread to a 4th SEA market, framed amid sales slump; mostly descriptive relative to 01/02 so capped at mild magnitude.",
+    "signal_tags": ["critical", "manufacturing", "price_value", "regional_press", "malaysia"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-10-03-04",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive flagship-reopening write-up (design details, location) with no independent evaluative verdict -- activation-coverage discount applies, demoted to neutral.",
+    "signal_tags": ["activation", "retail", "store_opening", "activation_coverage"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-10-03-05",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-warehouse enforcement story is third-party factual reporting on fakes, not Gucci's own conduct; low-confidence mild-negative polarity demoted to neutral per confidence<0.5 rule.",
+    "signal_tags": ["counterfeit", "enforcement", "neutral", "vietnam"],
+    "confidence": 0.4
+  }
+]

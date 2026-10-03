@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-2026-10-03-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 wire reports Made-in-China sneaker shift with analyst warning of provenance/luxury-positioning tension",
+    "signal_tags": [
+      "sourcing",
+      "provenance",
+      "analyst_commentary",
+      "manufacturing"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-03-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer backlash over paying luxury price for no-longer-Italian-made sneaker, some threatening to stop buying",
+    "signal_tags": [
+      "price_value_backlash",
+      "provenance",
+      "purchase_intent_negative"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-03-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Forum members deliver harsh, emotional design criticism ('vulgarity', 'lack of vision') of Demna's Spring 2027 collection",
+    "signal_tags": [
+      "design_criticism",
+      "collection_review",
+      "community_backlash"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-10-03-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SNS spotlight on runway looks with reply discussion evenly split between praise and criticism, no dominant verdict",
+    "signal_tags": [
+      "sns_mixed",
+      "runway_reaction"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-10-03-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum debate skews toward 'cutting corners while charging more' framing despite some members defending quality",
+    "signal_tags": [
+      "price_hike_backlash",
+      "quality_complaint",
+      "community_debate"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-10-03-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "T1 runway review frames collection as 'complete vision' but explicitly notes critical reception is mixed industry-wide",
+    "signal_tags": [
+      "trade_press",
+      "collection_review",
+      "mixed_reception"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-10-03-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent grassroots critique describes designer's signature as consistent but polarizing, no clear net verdict",
+    "signal_tags": [
+      "independent_critique",
+      "polarizing"
+    ],
+    "confidence": 0.5
+  }
+]

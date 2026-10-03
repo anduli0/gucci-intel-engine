@@ -1,0 +1,119 @@
+[
+  {
+    "id": "NEA-2026-10-03-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press reports China price cuts failing to restore confidence, shoppers waiting for more cuts and favoring gold over logo bags.",
+    "signal_tags": ["price_cut", "demand_weakness", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-03-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified resale-value data shows secondhand prices dragged down in parallel with official price cuts.",
+    "signal_tags": ["resale_price_drop", "quantified_demand"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-03-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Balanced discussion of China-made sneaker pricing/value, acknowledges Gucci's defense and shifting consumer judgment without clear verdict.",
+    "signal_tags": ["origin_debate", "value_for_money"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-03-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral Korean community thread mocks revenue decline and cost-cutting move to China manufacturing with cynical tone.",
+    "signal_tags": ["earnings_backlash", "cost_cutting_mockery", "viral_community"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-03-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Korean consumers alarmed by 'Made in China' labels on premium-priced items; analyst ties brand reputation to perceived origin.",
+    "signal_tags": ["origin_backlash", "authenticity_concern"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-03-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline questions abandonment of Florentine craftsmanship; frames China-made sneaker against backdrop of halved revenue and store closures.",
+    "signal_tags": ["origin_backlash", "earnings_negative"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-03-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Bernstein analyst scores Demna debut 7.6/10, an improvement but 'not a home run' with shoes/bags called boring and look lacking elegance.",
+    "signal_tags": ["critic_review", "mixed_verdict"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-10-03-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares fall up to 5% intraday and Citi cuts price target on cautious outlook ahead of Q3 earnings.",
+    "signal_tags": ["stock_decline", "analyst_downgrade"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-03-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Multiple independent analysts (Berenberg, Whitehouse, Barclays) say 'Made in China is not a good look' and flag risk customers reconsider purchases.",
+    "signal_tags": ["origin_backlash", "analyst_criticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-03-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of F/W eyewear campaign with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-10-03-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of Demna's Milan show relying on brand's own framing/quotes, no outlet evaluative verdict; activation discount applies.",
+    "signal_tags": ["activation_coverage", "runway_show"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-03-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic social chatter lists Gucci as a comparison/reference brand in buying-decision topics without a clear favorable or unfavorable verdict.",
+    "signal_tags": ["peer_comparison", "share_of_voice"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-03-013",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Community analysis attributes brand crisis to mass-market overexposure, cites ~25% YoY sales decline, counterfeit proliferation and celebrity-association damage.",
+    "signal_tags": ["brand_crisis_narrative", "counterfeit_concern", "earnings_negative"],
+    "confidence": 0.7
+  }
+]
