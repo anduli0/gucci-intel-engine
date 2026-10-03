@@ -1,0 +1,112 @@
+{
+  "brand_group": "Jewelry",
+  "date": "2026-10-04",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Tiffany",
+      "event_type": "controversy",
+      "headline": "Tiffany & Co. apologizes after Chengdu counter mishandles VIP client's mooncake gift, sparking social media backlash",
+      "summary": "A Chengdu customer who said she had spent over 200,000 yuan at a Tiffany counter reported that a promised Mid-Autumn mooncake gift box was sent to another client; staff offered generic peach crisps as a substitute. Tiffany acknowledged a 'copy-and-paste' address error and poor staff communication, and pledged retraining and an in-person apology after the story spread on Chinese social media.",
+      "url": "https://www.dimsumdaily.hk/tiffany-co-apologises-over-misdirected-mooncake-gift-from-chengdu-counter/",
+      "source": "Dimsum Daily",
+      "tier": "T2",
+      "published_at": "2026-10-01",
+      "why_it_matters": "VIP 고객 응대 실수가 중국 SNS에서 확산된 사례로, 럭셔리 하우스의 로컬 리테일 운영 리스크를 보여준다 — 구찌 역시 중국 VIC 서비스 표준화에 참고할 사안.",
+      "why_it_matters_en": "A VIP service failure that went viral in China highlights operational risk in luxury retail execution — a cautionary reference for Gucci's own China VIC service standards.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Boucheron",
+      "event_type": "launch",
+      "headline": "Boucheron opens US exhibition at Christie's New York pairing archive pieces with Claire Choisne's 2026 Carte Blanche collection",
+      "summary": "Running October 9-18, 'Boucheron: In Focus — A Monograph of a Visionary' marks the US debut of the 'Human Being' Carte Blanche high jewelry collection designed by creative director Claire Choisne, juxtaposing historic archive pieces with new work.",
+      "url": "https://www.surfacemag.com/articles/boucheron-in-focus-new-york-exhibition/",
+      "source": "Surface",
+      "tier": "T2",
+      "published_at": "2026-10-02",
+      "why_it_matters": "경매·전시 하우스와의 협업으로 헤리티지를 상업적 모멘텀으로 전환하는 전략은 구찌의 아카이브 자산 활용 전략에 벤치마크가 될 수 있다.",
+      "why_it_matters_en": "Partnering with an auction house for a heritage-meets-new-collection showcase is a benchmark model for converting archive assets into commercial momentum — relevant to how Gucci could activate its own archive.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Van Cleef & Arpels",
+      "event_type": "retail",
+      "headline": "Van Cleef & Arpels diamond ring set to headline Sotheby's Paris fine jewelry sale",
+      "summary": "A Van Cleef & Arpels diamond ring will lead Sotheby's October 8 Fine Jewelry auction in Paris, underscoring sustained secondary-market demand for the Maison's signed pieces.",
+      "url": "https://rapaport.com/news/van-cleef-arpels-diamond-ring-to-lead-sothebys-paris-auction/",
+      "source": "Rapaport",
+      "tier": "T2_trade",
+      "published_at": "2026-10-02",
+      "why_it_matters": "경매 시장에서 하이엔드 주얼리 하우스의 리세일 가치가 견고함을 재확인 — 구찌 고가 라인의 2차 시장 가치 구축과는 격차가 큰 카테고리.",
+      "why_it_matters_en": "Reaffirms robust resale value for high-end signed jewelry at auction — a category where Gucci's higher-price lines still lag in secondary-market value retention.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Pomellato",
+      "event_type": "executive",
+      "headline": "Pomellato veteran Sabina Belli elevated to lead Kering's entire Italian industrial network",
+      "summary": "Effective September 15, Sabina Belli — after more than a decade running Pomellato — became president of Kering Italy, reporting to managing director Luca de Meo, with a mandate spanning suppliers, ateliers and craftsmanship infrastructure across the group's Italian brands.",
+      "url": "https://fashionunited.com/news/people/from-pomellato-to-kering-italy-sabina-belli-takes-the-helm-of-the-groups-italian-network/2026090174355",
+      "source": "FashionUnited",
+      "tier": "T2",
+      "published_at": "2026-09-15",
+      "why_it_matters": "구찌가 소속된 케어링 그룹의 이탈리아 제조 기반 보호 전략 강화 — 구찌 공급망·장인 정책에도 직접 영향을 미칠 그룹 차원의 조직 개편.",
+      "why_it_matters_en": "A Kering group-level reorganization to safeguard Italian manufacturing — directly relevant to Gucci's own supply chain and artisan policy since Gucci sits within the same group infrastructure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Cartier",
+      "event_type": "campaign",
+      "headline": "Cartier's 'Into the Wild' high jewelry collection extends its animalier codes beyond the panther",
+      "summary": "Unveiled September 1 in Istanbul, the collection introduces a new 'Gallery of Animal Portraits' ring series and articulated pieces featuring tiger, parrot, carp, crocodile and rhino motifs alongside fresh Panthère jewels, reinforcing Cartier's signature bestiary as a recurring high-jewelry platform.",
+      "url": "https://wwd.com/accessories-news/jewelry/cartier-into-the-wild-high-jewelry-1238950974/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-01",
+      "why_it_matters": "장기적 상징 코드(팬서)를 반복적으로 확장·재해석하는 전략은 구찌의 지지(G) 로고·동물 모티프 활용 전략과 직접 비교할 벤치마크.",
+      "why_it_matters_en": "Cartier's strategy of repeatedly expanding and reinterpreting a single long-running icon (the panther) is a direct benchmark against how Gucci extends its own recurring motifs and logo codes.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Bulgari",
+      "event_type": "campaign",
+      "headline": "Bulgari toasts Polychroma high jewelry collection with Los Angeles celebrity gala",
+      "summary": "Bulgari hosted a week of events in LA culminating in a gala for its Polychroma collection — 600 pieces using 56 gemstone varieties — drawing Jon Hamm, Viola Davis and Kirsten Dunst as the brand continues to lean on celebrity-dense activations around its high jewelry lines.",
+      "url": "https://www.aol.com/articles/viola-davis-kirsten-dunst-celebrate-191700879.html",
+      "source": "AOL/WWD wire",
+      "tier": "T2",
+      "published_at": "2026-09-29",
+      "why_it_matters": "이는 홍보 활동(활성화) 보도이지 여론 개선의 지표가 아니다 — 셀러브리티 밀집 행사로 하이주얼리 라인을 알리는 방식은 구찌 하이엔드 캠페인 벤치마크가 되나, 과잉 노출 피로 리스크도 동반한다.",
+      "why_it_matters_en": "This is activation coverage, not a sentiment signal — celebrity-dense galas for high-jewelry launches are a benchmark tactic for Gucci's own high-end activations, though they carry over-saturation fatigue risk.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Richemont (Cartier, Van Cleef & Arpels)",
+      "event_type": "earnings",
+      "headline": "Richemont's jewelry Maisons post 14% full-year sales growth, outperforming the group's other divisions",
+      "summary": "Richemont's FY2026 results (year ended March 2026) showed group sales of EUR 22.4 billion with jewelry Maisons — Cartier and Van Cleef & Arpels — growing 14% at constant exchange rates to EUR 16.5 billion, carrying a 30.5% operating margin versus softer performance in watches and other divisions.",
+      "url": "https://rapaport.com/news/jewelry-sees-strong-full-year-revenue-at-richemont/",
+      "source": "Rapaport",
+      "tier": "T2_trade",
+      "published_at": "2026-05-16",
+      "why_it_matters": "주얼리 카테고리가 가방·의류보다 견조한 수요를 보이는 구조적 흐름을 재확인 — 구찌의 주얼리·파인 주얼리 포트폴리오 확장 논거를 뒷받침하는 그룹 외부 벤치마크.",
+      "why_it_matters_en": "Confirms the structural trend of jewelry outperforming leather goods and apparel in demand resilience — an external benchmark supporting the case for Gucci to expand its own fine jewelry portfolio.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Jewelry category",
+      "event_type": "trend",
+      "headline": "Estate and colored-gemstone jewelry searches surge as resale hard-luxury demand hits record share",
+      "summary": "Industry trend coverage for 2026 points to rising search interest in estate/vintage pieces, old-mine diamonds and colored stones (rubies, spinels, orange sapphires), while hard luxury (jewelry and watches) now accounts for roughly 83% of the secondhand luxury market, with Van Cleef & Arpels Alhambra pieces retaining over 90% of retail value on resale.",
+      "url": "https://mygemma.com/blogs/news/luxury-resale-index-2026",
+      "source": "myGemma Luxury Resale Index / trade coverage",
+      "tier": "T2_trade",
+      "published_at": "2026-09-20",
+      "why_it_matters": "리세일 가치 보존력이 높은 파인 주얼리 카테고리가 소비자 투자 심리를 흡수하고 있다 — 구찌가 약한 하드 럭셔리(주얼리) 영역의 구조적 기회를 시사.",
+      "why_it_matters_en": "Fine jewelry's strong resale value retention is absorbing consumer 'investment' mindset spending — signaling a structural opportunity in hard luxury, a category where Gucci remains comparatively weak.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": []
+}

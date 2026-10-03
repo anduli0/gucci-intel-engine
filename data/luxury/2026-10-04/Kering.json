@@ -1,0 +1,139 @@
+{
+  "brand_group": "Kering",
+  "date": "2026-10-04",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Kering",
+      "event_type": "financial",
+      "headline": "케링 주가, 3분기 실적 앞둔 신중론 여파로 52주 신저가 경신 지속",
+      "summary": "10월 2일 애널리스트 콜에서 드러난 경영진의 신중한 어조 여파로 케링 주가가 10월 2일 장중 유로당 210.30유로까지 밀리며 52주 신저가(203.20~354.20유로 범위)를 기록했고, 10월 22일 3분기 매출 발표를 앞두고 약세가 이어지고 있다. JP모간은 목표주가를 235유로에서 215유로로, 씨티는 282유로에서 243유로로 각각 하향했다.",
+      "url": "https://in.investing.com/news/stock-market-news/kering-stock-falls-as-management-strikes-cautious-tone-5616283",
+      "source": "Investing.com",
+      "tier": "T2",
+      "published_at": "2026-10-02",
+      "why_it_matters": "케링 그룹 전체의 투자심리 악화는 구찌 단독의 회복 서사를 그룹 차원의 신중론과 분리해서 읽을 수 없게 만들며, 10월 22일 실적에서 구찌 수치가 그룹 평균과 얼마나 괴리되는지가 핵심 관전 포인트다",
+      "why_it_matters_en": "Group-wide investor sentiment deterioration means any Gucci-specific recovery narrative cannot be read apart from this cautious group guidance; the key test is how far Gucci's Oct 22 numbers diverge from the group average.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Saint Laurent",
+      "event_type": "executive",
+      "headline": "바카렐로 생로랑 퇴사설, 10월 들어서도 하우스·케링 양측 공식 확인 없이 지속",
+      "summary": "앤서니 바카렐로가 9월 29일 파리에서 금빛 테마의 취임 10주년 기념 2027 봄/여름 컬렉션을 선보인 뒤 업계는 사실상의 고별 쇼로 해석했고, 유력 소식통(BoringNotCom)은 후임으로 끌로에 크리에이티브 디렉터 케메나 카말리를 지목했다. 10월 4일 현재까지 생로랑과 케링 양측 모두 공식 발표를 하지 않은 채 추측 보도만 이어지고 있다.",
+      "url": "https://puck.news/anthony-vaccarello-is-leaving-yves-saint-laurent/",
+      "source": "Puck News",
+      "tier": "T2",
+      "published_at": "2026-09-10",
+      "why_it_matters": "케링 양대 수익 축 중 하나인 생로랑의 10년 차 크리에이티브 디렉터 교체가 한 달 가까이 미확정 상태로 흘러가는 것은, 그룹이 공식 커뮤니케이션보다 유출을 통한 여론 관리를 선호하는 패턴을 보여주며 구찌의 데미나 체제 평가 기준과 비교된다",
+      "why_it_matters_en": "A decade-long creative director transition at one of Kering's two profit anchors remaining unconfirmed for nearly a month suggests the group favors leak-driven narrative management over formal announcements — a pattern worth comparing against how Gucci's own Demna era will eventually be messaged.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Balenciaga",
+      "event_type": "shows",
+      "headline": "발렌시아가, 피콜리 2년 차 '2027 여름' 컬렉션으로 쿠튀르 기법의 일상복 전환 심화",
+      "summary": "피에르파올로 피콜리가 파리 테니스 클럽에서 '레 코레일 드 라 리베르테'라는 제목으로 발렌시아가 2027 여름 컬렉션을 공개했다. 55회 오트쿠튀르 컬렉션에서 쓴 스티칭 기법을 셔츠·티셔츠·바이어스 재단 청바지 등 일상복에 적용했으며, 평단은 '지금까지 중 가장 완성도 높은 컬렉션'이라는 평가를 내놓았다.",
+      "url": "https://hauteliving.com/2026/10/balenciaga-summer-2027-paris-fashion-week/797950/",
+      "source": "Haute Living",
+      "tier": "T2",
+      "published_at": "2026-10-01",
+      "why_it_matters": "비평적 호평에도 불구하고 피콜리의 조기 퇴사설이 가라앉지 않는 배경에는 쿠튀르 중심 노선의 상업적 성과 둔화가 거론되며, 크리에이티브 호평과 매출 성과가 분리되지 않는 케링 특유의 평가 기준은 구찌 체제에도 동일하게 적용된다",
+      "why_it_matters_en": "Despite critical acclaim, exit speculation around Piccioli persists amid concerns about the couture-first approach's commercial traction — a reminder that Kering does not decouple creative praise from sales performance, the same yardstick applied to Gucci.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "event_type": "shows",
+      "headline": "보테가 베네타, 트로터 2년 차 2027 봄/여름 쇼에서 팔레트·실루엣 확장",
+      "summary": "루이즈 트로터가 밀라노 패션위크에서 데뷔 1주년을 맞아 가죽·라피아 토트백 사이즈를 키우고 노랑·빨강·보라·플로럴 프린트를 더한 구조적이되 가벼운 실루엣의 2027 봄/여름 컬렉션을 공개했다. 카일리 제너가 피날레를 장식했고 줄리앤 무어·제이콥 엘로디 등 앰버서더가 참석했다.",
+      "url": "https://fashionunited.uk/news/fashion/louise-trotter-expands-her-palette-at-bottega-veneta/2026092690583",
+      "source": "FashionUnited",
+      "tier": "T2",
+      "published_at": "2026-09-27",
+      "why_it_matters": "트로터 체제 2년 차에 접어들며 컬렉션이 더 가벼워지고 셀러브리티 캐스팅이 강화되는 궤적은, 신임 크리에이티브 디렉터의 2년 차 전환이 어떤 모습이어야 하는지에 대한 동종 그룹 벤치마크를 제공한다",
+      "why_it_matters_en": "The trajectory toward lighter silhouettes and heavier celebrity casting in a creative director's second year offers a same-group benchmark for what a sophomore-year creative transition should look like.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "corporate",
+      "headline": "케링, 밀라노 MIND서 '아카데미아 페르 레 에첼렌체' 2026-27학년도 개강 — 1,500명 등록",
+      "summary": "케링이 지난 4월 출범시킨 이탈리아 장인 양성 아카데미 '아카데미아 페르 레 에첼렌체'의 2026-27학년도 개강식을 밀라노 MIND 혁신지구에서 열었다. 루카 드 메오 CEO와 케링 이탈리아 대표 사비나 벨리가 참석했으며, 보테가 베네타·브리오니·구찌·포메라토·케링 아이웨어가 공동 개발한 커리큘럼으로 6개 주 1,500명 이상의 학생과 400명 이상의 마스터 장인이 참여한다.",
+      "url": "https://retailboss.co/kerings-new-italian-craft-academy-opens-with-more-than-1500-students/",
+      "source": "Retail Boss",
+      "tier": "T2",
+      "published_at": "2026-10-01",
+      "why_it_matters": "구찌가 공동 커리큘럼 개발에 참여한 그룹 차원의 장인 양성 투자는 이탈리아 생산 비중(85%)을 지키려는 신호이며, 최근 구찌의 '메이드 인 차이나' 스니커즈 논란과 나란히 놓고 볼 때 그룹의 메시지 일관성이 시험대에 오른다",
+      "why_it_matters_en": "This group-wide artisan-training investment, with Gucci co-developing curriculum, signals a bid to protect Kering's 85% Italian-production footprint — but sits awkwardly next to Gucci's own recent 'Made in China' sneaker controversy, testing the group's messaging consistency.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "retail",
+      "headline": "케링, 2026년 상반기 매장 84곳 순감 — 연간 100곳 감축 목표 궤도",
+      "summary": "케링이 2026년 상반기 구찌·생로랑·보테가 베네타·발렌시아가 등 전 브랜드에 걸쳐 매장 84곳을 순감해 총 매장 수가 2025년 말 1,719개에서 1,635개로 줄었다. 아시아태평양(31곳)과 북미(20곳) 감축폭이 가장 컸으며, 2025년 133개 폐점에 이은 지속적 네트워크 축소로 연간 목표 100곳 감축 궤도에 있다.",
+      "url": "https://www.thestreet.com/retail/gucci-parent-kering-closes-at-least-217-stores-plans-more",
+      "source": "TheStreet",
+      "tier": "T2",
+      "published_at": "2026-09-29",
+      "why_it_matters": "아시아태평양 중심의 매장 축소가 구찌를 포함한 전 브랜드에 걸쳐 진행 중이라는 점은, 구찌 단독의 매장 효율화 조치가 그룹 전체의 구조조정 흐름 안에 있음을 보여준다",
+      "why_it_matters_en": "APAC-weighted store reductions spanning every house including Gucci show that any Gucci-specific retail-efficiency move sits inside a group-wide restructuring wave, not an isolated brand decision.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Balenciaga",
+      "event_type": "trend",
+      "headline": "게스키에르 시대 발렌시아가, 리세일 검색량 급증 지속 — 아카이브 가치 부각",
+      "summary": "더리얼리얼의 2026 리세일 리포트에 따르면 니콜라 게스키에르 시절 발렌시아가에 대한 저장 검색이 전년 대비 400% 증가했고 '르 시티 백' 리세일가는 52% 상승했다. 발렌시아가·생로랑 모두 최다 검색 상위 10개 브랜드에 포함됐다.",
+      "url": "https://wwd.com/sourcing-journal/industry-news/the-realreal-2026-resale-report-vintage-searches-1239148202/",
+      "source": "WWD (Sourcing Journal)",
+      "tier": "T1",
+      "published_at": "2026-08-01",
+      "why_it_matters": "크리에이티브 디렉터 교체 국면에서 과거 시대 아카이브의 리세일 가치가 부각되는 현상은, 구찌의 톰 포드·미켈레 시대 아카이브 가치 관리 전략에 참고할 만한 패턴으로 계속 추적 가치가 있다",
+      "why_it_matters_en": "Archive-era resale value spiking precisely during a creative-director transition period remains a pattern worth tracking for how Gucci manages legacy value from its own Tom Ford and Michele eras.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Kering",
+      "event_type": "corporate",
+      "headline": "케링, 구찌 의존도 낮추려 '하우스 오브 드림스' 투자 법인 추진",
+      "summary": "루카 드 메오 케링 CEO가 신흥 브랜드에 소수·다수 지분을 투자하는 장기 투자 플랫폼 '하우스 오브 드림스' 설립을 준비 중이다. 구찌가 케링 영업이익의 절반가량을 차지하는 상황에서 그룹의 구찌 의존도를 낮추려는 전략의 핵심으로 제시됐다.",
+      "url": "https://www.cnbc.com/2025/11/21/kering-ceo-plans-house-of-dreams-investment-arm-to-help-trim-reliance-on-gucci.html",
+      "source": "CNBC (Reuters 인용)",
+      "tier": "T1",
+      "published_at": "2025-11-21",
+      "why_it_matters": "구찌 의존도를 '리스크'로 규정한 그룹 차원의 전략적 방향 전환으로, 향후 전략 업데이트 발표 시 계속 추적해야 할 핵심 사안이다",
+      "why_it_matters_en": "A standing strategic pivot explicitly framing Gucci-dependence as a risk to de-risk from — keep tracking ahead of any further Kering strategy updates.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "M&A",
+      "headline": "로레알, 케링 뷰티 인수 완료 — 구찌 뷰티 50년 라이선스 전환 예고",
+      "summary": "로레알이 크리드 향수 하우스를 포함한 케링 뷰티를 약 40억 유로에 인수 완료했으며, 기존 코티와의 구찌 라이선스 만료 후 구찌 뷰티 50년 독점 라이선스 계약권을 확보했다.",
+      "url": "https://www.loreal.com/en/press-release/group/loreal-completes-the-acquisition-of-kering-beaute/",
+      "source": "L'Oréal 공식 보도자료",
+      "tier": "T1",
+      "published_at": "2026-03-31",
+      "why_it_matters": "구찌 뷰티 라이선스의 미래 파트너 확정 사안으로, 코티-로레알 전환 시점과 조건은 구찌 뷰티 사업부에 계속 중요하다",
+      "why_it_matters_en": "Determines Gucci Beauty's future licensing partner; the Coty-to-L'Oréal transition timeline and terms remain materially important to watch.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Kering",
+      "event_type": "earnings",
+      "headline": "케링 3분기 실적 발표 10월 22일 예정 — 신중론 속 기대치 낮아진 상태",
+      "summary": "케링은 10월 22일 3분기 매출을 발표할 예정이며, 10월 2일 애널리스트 콜에서 드러난 신중한 어조와 주가 52주 신저가로 인해 시장 기대치가 이미 하향 조정된 상태다.",
+      "url": "https://www.investing.com/equities/kering-earnings",
+      "source": "Investing.com (컨센서스 집계)",
+      "tier": "T2",
+      "published_at": "2026-10-02",
+      "why_it_matters": "구찌를 포함한 케링 패션·가죽 부문 전체 실적 발표가 임박한 가운데, 구찌 단독 회복세는 그룹 전체 맥락에서 재검증될 예정이다",
+      "why_it_matters_en": "With the group-wide Fashion & Leather Goods Q3 report imminent (incl. Gucci), any Gucci-only recovery narrative will be re-tested against group results within three weeks.",
+      "relevance": "category trend"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NA-2026-10-04-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive holiday makeup launch write-up with no evaluative verdict from outlet.",
+    "signal_tags": ["activation_coverage", "product_launch", "beauty"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-04-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo content is not public opinion per rubric.",
+    "signal_tags": ["activation_coverage", "brand_owned", "beauty"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-04-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer backlash over Chinese manufacturing while luxury pricing is retained on the Drip sneaker.",
+    "signal_tags": ["price_value_backlash", "manufacturing_origin", "footwear"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-04-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum summary itself is mixed (price/manufacturing complaints vs leather-goods praise) and based on indexed snippets only, not full text.",
+    "signal_tags": ["price_value_backlash", "mixed_sentiment", "manufacturing_origin", "low_source_fidelity"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-10-04-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trend is largely counterfeit/dupe-sourcing content excluded from sentiment weight; remainder is a volume signal only.",
+    "signal_tags": ["counterfeit", "trend_volume", "denim"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-10-04-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent commentary defends creative direction but concurrently acknowledges continuing sales declines and 'sometimes-tacky' framing, net mixed.",
+    "signal_tags": ["design_commentary", "mixed_sentiment", "trade_press"],
+    "confidence": 0.45
+  }
+]

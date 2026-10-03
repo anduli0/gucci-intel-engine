@@ -1,0 +1,83 @@
+[
+  {
+    "id": "EU-20261004-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares dropped 2.7% on cautious investor tone citing China weakness and slowing US/Japan/Korea momentum ahead of Q3.",
+    "signal_tags": ["earnings", "stock_reaction", "china_weakness", "momentum"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261004-02",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "HSBC and multiple banks cut Gucci/Kering targets, flagging slower launches, store-traffic deterioration, and a worsened Q3 sales outlook.",
+    "signal_tags": ["analyst_rating", "earnings", "momentum", "sales_outlook"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261004-03",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci Beauty holiday collection launch with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch", "beauty"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261004-04",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD trade-press runway review frames Demna's collection favorably as his fullest personal statement for the house.",
+    "signal_tags": ["trade_press", "runway_review", "creative_direction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20261004-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fortune uses Gucci's China-made sneaker to argue rising Chinese competitiveness erodes the premium justifying European luxury pricing.",
+    "signal_tags": ["pricing_premium", "china_manufacturing", "industry_narrative"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261004-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Fashion-forum commenters overwhelmingly call Demna's Spring 2027 collection vulgar and visionless, some predicting his exit.",
+    "signal_tags": ["design_criticism", "community_backlash", "creative_direction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261004-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trustpilot France rates Gucci.com 1.9/5 with recurring quality (pilling shawl) and customer-service complaints.",
+    "signal_tags": ["quality_complaint", "customer_service", "value_for_money", "quantified_third_party"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261004-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Roundup describes social commentary as split between praise for tailoring and skepticism on commercial impact, no clear dominant polarity.",
+    "signal_tags": ["mixed_reaction", "runway", "social_commentary"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-20261004-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Rome staff strike and union accusations of a 'masked collective layoff' over the Rome-to-Milan office relocation.",
+    "signal_tags": ["labor_controversy", "strike", "restructuring"],
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-10-04-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reports sixth price hike in two years as a de-discounting push, framing accelerating hikes as consumer-unfriendly despite a brief resale uptick note.",
+    "signal_tags": ["price_hike", "pricing_strategy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-04-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Critical deep-dive on accelerating price-hike cadence (now every 4-5 months), explicitly framing it as backlash-worthy pricing behavior for shoppers to react to.",
+    "signal_tags": ["price_hike", "pricing_strategy", "viral_analysis"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-10-04-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Pairs steep discount/outlet-image damage with a viral QC complaint (8,200 RMB sneaker cracked, warranty initially denied) resolved only after social pressure.",
+    "signal_tags": ["quality_complaint", "discount_image", "warranty_dispute"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-04-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Taiwan trade press questions 'Made in China' sneaker launch as cost-cutting amid 12 straight quarters of sales declines and a 19% revenue drop.",
+    "signal_tags": ["manufacturing_origin", "controversy", "negative_momentum"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-04-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community thread mocks the China-made labeling as luxury brands dropping pretense; split comments temper severity but net framing is critical of brand image.",
+    "signal_tags": ["manufacturing_origin", "mockery", "low_engagement"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-04-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Consumer acceptance of China-made shoes is genuinely split between 'lowers luxury feel' and quality-focused acceptance, with CEO commentary balancing the thread.",
+    "signal_tags": ["manufacturing_origin", "mixed_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-04-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive hourly trending digest noting Gucci's incidental appearance alongside peer brands in comparison chatter.",
+    "signal_tags": ["incidental_mention", "peer_comparison_sov"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-04-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline questions whether Gucci abandoned Florentine craftsmanship via China-made sneaker, set against halved Kering revenue and store closures.",
+    "signal_tags": ["manufacturing_origin", "design_criticism", "negative_momentum"],
+    "confidence": 0.75
+  }
+]

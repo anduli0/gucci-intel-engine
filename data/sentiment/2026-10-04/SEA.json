@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-10-04-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press flags China-shift provenance risk and analyst warnings of eroded premium justification, independent judgment not activation coverage.",
+    "signal_tags": ["manufacturing_provenance", "analyst_warning", "premium_erosion"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-04-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Mainstream Vietnamese outlet critical piece linking 'Made in China' sneaker to revenue decline and reputational damage, reaching broad SEA audience.",
+    "signal_tags": ["manufacturing_provenance", "negative_press", "revenue_decline"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-04-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-hosted Cruise 2026 event write-up with celebrity attendees, no evaluative verdict; activation coverage demoted to neutral.",
+    "signal_tags": ["activation_coverage", "celebrity_attendance"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-04-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom-driven volume around ambassadors' Milan appearance, not an evaluative statement about the brand itself; damped per fandom trap.",
+    "signal_tags": ["fandom_spike", "ambassador", "kpop_adjacent"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-04-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Coordinated fan-account repost of ambassador show coverage, official-style descriptive content with no independent brand judgment.",
+    "signal_tags": ["fandom_spike", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-04-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand/retailer-driven TikTok product promo content, self-praise is not public opinion per rubric.",
+    "signal_tags": ["activation_coverage", "brand_owned_promo"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-10-04-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Design/quality criticism is genuine but thread is stale (dated 2025-01-01) and not freshly SEA-specific; low confidence polarity demoted to neutral.",
+    "signal_tags": ["design_criticism", "quality_complaint", "stale_signal"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-10-04-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Legacy background coverage of High Watchmaking collection, purely descriptive and not fresh to this cycle.",
+    "signal_tags": ["activation_coverage", "stale_signal", "hard_luxury"],
+    "confidence": 0.7
+  }
+]
