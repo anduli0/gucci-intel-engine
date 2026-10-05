@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SEA-2026-10-05-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst and consultant quotes frame 'Made in China' sneaker shift plus price cuts as undermining Gucci's premium justification.",
+    "signal_tags": ["manufacturing_origin", "value_for_money", "analyst_warning", "price_cut"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-05-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own official ambassador-spotlight post; brand-owned promo content, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-05-003",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic Thai fan celebration of ambassador pairing at Milan; fandom spike damped to mild magnitude and tempered confidence given unverifiable platform-wide hashtag counts.",
+    "signal_tags": ["fandom_spike", "ambassador", "sns"],
+    "confidence": 0.45
+  },
+  {
+    "id": "SEA-2026-10-05-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan account travel-update post is largely descriptive with modest engagement; demoted from weak positive given low confidence in genuine brand-affinity signal versus routine fan tracking.",
+    "signal_tags": ["fandom_spike", "ambassador", "sns"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-10-05-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread presents mixed, unresolved debate over styling and whether Demna's debut is reinvention or dilution, with no clear net verdict.",
+    "signal_tags": ["community_debate", "design_critique", "creative_direction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-10-05-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 Reuters wire cites Kering sales halved in three years and analyst warning that manufacturing-origin shift plus price cuts risk shoppers' confidence in Gucci's premium pricing.",
+    "signal_tags": ["manufacturing_origin", "earnings_momentum", "value_for_money", "analyst_warning"],
+    "confidence": 0.9
+  }
+]

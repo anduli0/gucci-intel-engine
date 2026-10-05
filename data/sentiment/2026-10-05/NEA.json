@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-10-05-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sina frames Gucci shoes as disposable 'novelty tax' vs. Hermes/Chanel asset-grade pieces, a clear peer-comparison downgrade of Gucci.",
+    "signal_tags": ["peer_comparison", "resale_value", "value_for_money"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-05-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Reader opinion is genuinely split between 'overdue correction' and 'drinking poison to quench thirst' with no dominant verdict.",
+    "signal_tags": ["price_cut", "made_in_china", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-05-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Largely factual price-gap FAQ with split reactions (some pleased, some worried about resale erosion) and no clear net verdict.",
+    "signal_tags": ["price_cut", "daigou", "resale_value"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-10-05-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Jing Daily (T2 trade press) casts independent doubt that price cuts will restore demand amid cautious, gold-favoring Chinese consumers.",
+    "signal_tags": ["price_cut", "demand_doubt", "negative_momentum"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-05-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Xiaohongshu-sourced community comments voice value-for-money backlash, recommending secondhand purchase instead of new.",
+    "signal_tags": ["value_for_money", "community_backlash", "made_in_china"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-05-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst (Berenberg) quoted warning the Made-in-China label risks tension with Gucci's luxury-image recovery, an independent negative judgment.",
+    "signal_tags": ["made_in_china", "analyst_warning", "brand_image_risk"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-05-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "FnNews questions whether Made-in-China luxury can work, citing ~50% three-year revenue decline and erosion-of-premium-positioning risk.",
+    "signal_tags": ["made_in_china", "negative_earnings", "brand_image_risk"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-05-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Nate community page headline and reactions signal reader disbelief/skepticism toward a four-figure sneaker being made in China.",
+    "signal_tags": ["made_in_china", "community_reaction", "skepticism"],
+    "confidence": 0.55
+  }
+]

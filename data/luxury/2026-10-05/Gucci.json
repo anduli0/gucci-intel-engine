@@ -1,0 +1,99 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-10-05",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "Gucci의 'Made in China' 스니커즈 출시, 이탈리아 제조 전통과의 단절 논란",
+      "summary": "Gucci가 데미나 디자인의 신형 스니커즈 '드립(Drip)'(유럽 약 800유로, 미국 1,000달러)과 같은 컬렉션의 슬립온 레더 모델을 중국 제조사에서 생산해 'Made in China' 라벨로 판매하기 시작했다. Gucci는 해당 제조사가 요구되는 기술력과 품질 기준을 갖췄다고 설명했으나, 베렌버그 애널리스트 등은 브랜드가 되찾으려는 럭셔리 포지셔닝과 원산지 사이의 긴장을 지적했다.",
+      "url": "https://insideretail.com.au/business/why-guccis-made-in-china-sneakers-are-raising-questions-202610",
+      "source": "Inside Retail (Reuters 기반)",
+      "tier": "T2",
+      "published_at": "2026-10-01",
+      "why_it_matters": "구찌가 중산층 고객 회복을 위해 가격을 낮추는 동시에 원산지까지 흔들면, '메이드 인 이탈리아' 프리미엄 포지셔닝 자체의 신뢰도가 훼손될 위험이 있다 — 턴어라운드 전략의 핵심 모순을 보여주는 사례.",
+      "why_it_matters_en": "Gucci lowering both price and country-of-origin standards simultaneously risks eroding the core premium positioning it needs for its turnaround — a real tension, not just noise.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "launch",
+      "headline": "Gucci 뷰티, 2026 홀리데이 한정판 메이크업 컬렉션 공식 출시",
+      "summary": "Gucci Beauty가 블러쉬 드 보테 2종, 루즈 아 레브르 맛 립스틱 3종, 글로스 아 레브르 1종으로 구성된 홀리데이 한정판 컬렉션을 10월 3일 공식 출시했다(가격 42~50달러). Macy's, Bloomingdale's, Sephora, Selfridges, Nordstrom, Saks 등에서 판매된다.",
+      "url": "https://beautyvelle.com/2026/10/03/gucci-beauty-holiday-2026-limited-edition-collection/",
+      "source": "BeautyVelle",
+      "tier": "T3",
+      "published_at": "2026-10-03",
+      "why_it_matters": "뷰티 라이선스가 L'Oréal로 이전되는 전환기 직전, Coty 체제 하 마지막 홀리데이 시즌 물량으로 기존 유통망에서의 성과가 향후 라이선스 인수인계 협상력에 영향을 줄 수 있다.",
+      "why_it_matters_en": "This is likely one of the final holiday pushes under the Coty-run license before the transition to L'Oréal — performance here could factor into handover dynamics.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "Gucci Racing, 전 베네치아 FC 임원 Tancredi Vitale를 부사장으로 영입",
+      "summary": "Gucci와 알핀 포뮬러원 팀의 파트너십 조직인 Gucci Racing이 9월 1일부로 Tancredi Vitale을 부사장으로 임명했다고 보도됐다. Vitale은 Nike·Jordan·Adidas Y-3 등에서 13년 이상 스포츠 브랜드 경력을 쌓았으며, Gucci 마케팅 SVP를 겸하는 Giovanni Perosino와 함께 일한다.",
+      "url": "https://wwd.com/fashion-news/designer-luxury/gucci-racing-vice-president-tancredi-vitale-1239065251/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-09-24",
+      "why_it_matters": "구찌가 F1 플랫폼에 스포츠 업계 베테랑을 영입하는 것은 핵심 가죽제품 매출 둔화 속에서 스포츠·라이프스타일로 고객 접점을 넓히려는 다각화 시도이며, 단기 매출 반등과는 별개의 장기 포석이다.",
+      "why_it_matters_en": "Bringing in a sports-industry veteran for the F1 platform signals a longer-horizon diversification bet, separate from — not a fix for — near-term core leather goods softness.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "Kering 2026년 3분기 실적 발표 10월 22일 예정 — 구찌 회복세 재확인 분수령",
+      "summary": "시장 캘린더에 따르면 Kering의 3분기 매출 발표는 10월 22일경으로 예정되어 있다. 직전 공개된 1분기 실적에서는 구찌 매출이 비교 기준 8% 감소(그룹 매출의 약 38%를 차지)했으며, TD Cowen 등 일부 애널리스트는 데미나의 첫 컬렉션 공개 이후 하반기 2~6% 성장 반등을 전망한 바 있다.",
+      "url": "https://www.glossy.co/fashion/kerings-3-9-billion-quarter-shows-gucci-isnt-fixed-yet/",
+      "source": "Glossy / WWD 계열 분석",
+      "tier": "T2",
+      "published_at": "2026-04-14",
+      "why_it_matters": "10월 22일 발표될 3분기 실적이 데미나의 '더 스토어 쇼' 이후 첫 매출 데이터로, 턴어라운드가 실제 매출로 전환되는지 가늠하는 결정적 지표가 된다. 현재까지의 애널리스트 낙관론은 아직 실적으로 입증되지 않았다.",
+      "why_it_matters_en": "The October 22 Q3 release will be the first sales data point after Demna's full debut show — the real test of whether analyst optimism translates into actual revenue; it hasn't been proven yet.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "Kate Moss·Emily Ratajkowski 주연 'Beauty and the Bag' 캠페인, 로고마니아 귀환 신호",
+      "summary": "데미나 체제의 Gucci가 Mert Alas & Marcus Piggott 촬영으로 Kate Moss와 Emily Ratajkowski를 내세운 'Beauty and the Bag' 캠페인을 전개 중이다. Ratajkowski는 크루즈 2026에서 소개된 토트백 Giglio를, Moss는 소형 백 Borsetto를 각각 선보이며, 두 모델 모두 2월 밀라노 패션위크 런웨이에도 섰다.",
+      "url": "https://vogue.ph/fashion/shopping/demnas-gucci-beauty-and-bag-campaign/",
+      "source": "Vogue Philippines",
+      "tier": "T2",
+      "published_at": "2026-03-01",
+      "why_it_matters": "이는 구찌가 직접 기획·발행한 광고 캠페인이며 여론의 호의적 반응을 뜻하지 않는다 — 활동(activation) 보도일 뿐, 핵심 가죽제품 매출이 실제로 회복되고 있다는 근거는 별도로 필요하다.",
+      "why_it_matters_en": "This is Gucci's own paid campaign output, not evidence of favorable public sentiment — activation coverage, not proof the core leather goods business is actually recovering.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "trend",
+      "headline": "Lyst 지수 2분기: 구찌 '핫 브랜드' 5위 복귀, Vittoria 힐 '핫 상품' 4위",
+      "summary": "Lyst Index 2026년 2분기 기준 구찌는 전체 브랜드 순위 5위에 올랐고, Gucci Vittoria 힐은 전체 상품 랭킹 4위를 기록했다. 당시 'Gucci Gift' 캠페인(야닉 신너, 솔란지 출연)과 LACMA 아트+필름 갈라 후원, 영국 패션 어워드 수상 등이 동력으로 거론됐다.",
+      "url": "https://www.lyst.com/the-lyst-index/Q2-26/",
+      "source": "Lyst",
+      "tier": "T2",
+      "published_at": "2026-07-15",
+      "why_it_matters": "2분기 소비자 검색·구매 수요 지표상 반등 신호는 긍정적이나, 약 3개월 전 데이터로 이미 지나간 분기 성적이며 10월 발표될 3분기 매출 실적과의 정합성 여부가 아직 확인되지 않았다.",
+      "why_it_matters_en": "A genuine Q2 demand-signal uptick, but this is now stale (roughly three months old) and still unconfirmed against the Q3 revenue figures due this month — treat as background, not current momentum.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "데미나, 밀라노 '더 스토어 쇼'로 구찌 2주년 시즌쇼 — 매장 콘셉트를 런웨이로",
+      "summary": "데미나가 밀라노 패션위크(9월 25~26일)에서 매장을 재현한 공간에서 구찌 쇼를 열었다. 체크무늬 안감 재킷, 어깨선을 강조한 수트, 크롭트 팬츠, 트리플 버클 벨트 등을 선보이며 본인이 '가장 개인적인(personal)' 컬렉션이라 소개했다.",
+      "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
+      "source": "Wallpaper",
+      "tier": "T2",
+      "published_at": "2026-09-26",
+      "why_it_matters": "밀라노 쇼 자체는 약 열흘 전 행사이나 'Made in China' 스니커즈, 캠페인, 임원 영입 등 현재 이어지는 모든 뉴스 흐름의 출발점으로, 10월 실적 발표와 연결해 해석해야 할 배경 사건이다.",
+      "why_it_matters_en": "The Milan show itself is now ~10 days old, but it is the origin point for the current news cycle (sneaker controversy, campaign, executive hire) and should be read together with the upcoming October earnings.",
+      "relevance": "competitive threat"
+    }
+  ],
+  "keep": []
+}

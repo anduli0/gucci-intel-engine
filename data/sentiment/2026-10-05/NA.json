@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NA-2026-10-05-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Stock drop and multiple broker target cuts explicitly cite Gucci's continuing revenue contraction as the drag; negative earnings/momentum press.",
+    "signal_tags": ["earnings", "analyst_rating", "stock_price", "momentum_negative"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-05-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SNS reaction to ambassador campaign is explicitly divided between critics and defenders with no net lean; fandom/ambassador trap damped to mild neutral.",
+    "signal_tags": ["ambassador", "sns_reaction", "fandom_trap", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-10-05-003",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent third-party editorial gives clear enthusiastic praise and justifies price point, qualifying as independent judgment not brand-owned promo.",
+    "signal_tags": ["product_review", "handbag_community", "purchase_intent", "price_justification"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-05-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analysts and a named consultant flag brand-risk from Made-in-China sourcing versus luxury positioning, compounded by price-value backlash over the sneaker's unchanged retail price despite cheaper manufacturing.",
+    "signal_tags": ["sourcing_controversy", "price_value", "analyst_rating", "brand_risk"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-05-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring verified consumer complaints over craftsmanship defects and repair-cost disputes, with a blunt 'NOT WORTH IT' verdict.",
+    "signal_tags": ["quality_complaint", "customer_service", "repair_policy", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-05-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive retail activation write-up with no independent evaluative verdict; brand-owned promo coverage per anti-bias policy.",
+    "signal_tags": ["activation_coverage", "product_launch", "beauty", "retail"],
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-20261005-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "HSBC and peer banks cut Kering/Gucci price targets citing slower launches and weaker traffic, though still rating buy",
+    "signal_tags": ["analyst_rating", "earnings_momentum", "financial_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-20261005-02",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Opinion piece frames China-made Gucci sneakers as undermining Italian-heritage positioning and exposing manufacturing weakness",
+    "signal_tags": ["sourcing_controversy", "brand_positioning", "opinion"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261005-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Multiple independent analysts and a Milan consultant warn made-in-China sneakers damage provenance and value proposition, compounded by price cuts",
+    "signal_tags": ["sourcing_controversy", "value_for_money", "analyst_rating"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20261005-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares dropped after cautious pre-close call citing China softness and slowing momentum into Gucci Q3",
+    "signal_tags": ["earnings_momentum", "stock_reaction", "financial_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261005-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD photo gallery/descriptive coverage of SS27 show with no clear evaluative verdict",
+    "signal_tags": ["activation_coverage", "runway_show"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-20261005-06",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press review judges Demna's SS27 show a successful, aspirational reinvention of Gucci codes",
+    "signal_tags": ["critic_review", "runway_show", "creative_direction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20261005-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Cluster of UK Trustpilot 1-star reviews cite product defects, poor service response, a disputed return, and a panned men's collection",
+    "signal_tags": ["quality_complaint", "customer_service", "consumer_review"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20261005-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Enthusiast forum thread mixed-to-skeptical on Demna's direction and management credibility amid Kering's debt and repositioning",
+    "signal_tags": ["fan_community", "brand_direction", "mixed_sentiment"],
+    "confidence": 0.55
+  }
+]
