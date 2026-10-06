@@ -1,0 +1,100 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-10-06",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "financial",
+      "headline": "Kering 주가, Gucci 회복 지연 우려로 추가 하락 및 목표가 하향",
+      "summary": "Kering 주가가 10월 2일 3.22% 하락해 210.30유로로 마감했으며 52주 최고가 대비 40% 이상 낮은 수준이다. UBS는 목표가를 285유로에서 224유로로, RBC는 280유로에서 260유로로 하향했고 Citi도 282유로에서 243유로로 낮췄다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-falls-3-22-percent-as-gucci-recovery-slows/70224806",
+      "source": "ad-hoc-news (German financial wire)",
+      "tier": "T2_general",
+      "published_at": "2026-10-04",
+      "why_it_matters": "애널리스트들이 구찌 회복 시점에 대한 확신을 잃고 있다는 신호로, 10월 22일 3분기 실적 발표가 분수령이 될 것이다.",
+      "why_it_matters_en": "Analysts are losing confidence in the timing of Gucci's turnaround; the October 22 Q3 results will be a key checkpoint.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "구찌, 신발 일부를 '메이드 인 차이나'로 생산 전환 — 이탈리아 제조 전통과 충돌",
+      "summary": "로이터 보도에 따르면 구찌가 신제품 스니커즈 '드립' 등 일부 모델을 중국에서 생산해 '메이드 인 차이나' 라벨을 부착하고 있다. 구찌는 이탈리아가 핵심 제조 기반임을 강조했으나 애널리스트들은 브랜드 포지셔닝과 산지 신뢰성 사이의 긴장을 지적했다.",
+      "url": "https://www.investing.com/news/economy-news/guccis-new-made-in-china-sneaker-models-break-with-italian-tradition-4915143",
+      "source": "Reuters (via Investing.com)",
+      "tier": "T1",
+      "published_at": "2026-09-24",
+      "why_it_matters": "중산층 고객 회복을 노리는 구찌가 '메이드 인 이탈리아' 정체성을 희석시킬 경우 프리미엄 포지셔닝 서사에 역풍을 맞을 수 있다.",
+      "why_it_matters_en": "As Gucci courts middle-class shoppers, diluting its Made-in-Italy identity risks a backlash against the premium positioning it is trying to rebuild.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "구찌, 파리 아브뉴 몽테뉴 플래그십 철수 가능성 — 매장망 축소 전략의 일환",
+      "summary": "구찌의 역사적인 파리 아브뉴 몽테뉴 매장 임대 계약이 연말 만료를 앞두고 있으나 구찌와 케어링 모두 갱신 절차에 나서지 않은 것으로 보도됐다. 이는 구찌의 글로벌 매장망 축소(리테일 간소화) 전략과 맞물려 있다.",
+      "url": "https://www.nssmag.com/en/fashion/45857/gucci-boutique-closure-avenue-montaigne-paris",
+      "source": "nss magazine",
+      "tier": "T2_general",
+      "published_at": "2026-10-02",
+      "why_it_matters": "파리 핵심 상권에서 상징적 매장을 철수하는 것은 비용 절감이 매장 수익성 회복보다 우선한다는 신호로 읽힐 수 있어, 구찌의 브랜드 위상 관리와 긴장 관계에 있다.",
+      "why_it_matters_en": "Pulling out of an iconic Paris address signals cost discipline is being prioritized over flagship brand-prestige retail, in tension with Gucci's image-rebuilding push.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "launch",
+      "headline": "구찌 뷰티, 2026 홀리데이 한정판 메이크업 컬렉션 출시",
+      "summary": "구찌 뷰티가 블러시 디 보테 2종, 루즈 아 레브르 맛 립스틱 3종, 립글로스 1종으로 구성된 홀리데이 한정판 컬렉션을 10월 3일 공식 출시했다. 가격은 42~50달러이며 세포라, 노드스트롬 등 주요 리테일러에서 판매된다.",
+      "url": "https://beautyvelle.com/2026/10/03/gucci-beauty-holiday-2026-limited-edition-collection/",
+      "source": "BeautyVelle (beauty trade)",
+      "tier": "T2_general",
+      "published_at": "2026-10-03",
+      "why_it_matters": "뷰티 라인은 코티에서 로레알로 라이선스가 넘어가는 전환기(2027년 7월) 전 마지막 홀리데이 사이클 중 하나로, 접근 가능한 가격대의 고객 접점을 유지하는 역할을 한다.",
+      "why_it_matters_en": "This holiday cycle falls during the transition window before the Gucci beauty license moves from Coty to L'Oreal (July 2027), serving as an accessible price-point touchpoint while the fashion business struggles.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "데므나, 구찌 SS27 '더 스토어 쇼'로 '완전한 개인적 비전' 공개 (배경, 9월 25일)",
+      "summary": "데므나가 밀라노에서 구찌 매장을 그대로 재현한 공간에서 2027 봄/여름 컬렉션 '더 스토어 쇼'를 발표했다. '반항적인 귀족', '스놉', '에센트릭' 세 가지 캐릭터 축으로 전개됐으며, 카디 비·돈나텔라 베르사체 등이 참석했다.",
+      "url": "https://www.wmagazine.com/fashion/gucci-spring-2027-runway-photos",
+      "source": "W Magazine",
+      "tier": "T2_by_region_NA",
+      "published_at": "2026-09-25",
+      "why_it_matters": "취임 후 첫 '완전한 개인적 비전'을 선언한 쇼로 데므나의 구찌 장기 방향성을 보여주지만, 이번 주 신규 보도는 이 쇼 자체보다 가격·제조·매장 전략 이슈에 집중되어 있어 참고용 배경으로 기록한다.",
+      "why_it_matters_en": "Demna's self-declared first 'complete personal vision' show signals his long-term direction, but this week's fresh coverage centers on pricing, manufacturing, and retail strategy rather than the show itself — flagged here as background context (11 days old).",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "케어링, '하우스 오브 드림스' 투자 유닛으로 구찌 의존도 낮추기 추진 (배경)",
+      "summary": "케어링 CEO 루카 데 메오가 구찌 의존도를 낮추고 신사업 포트폴리오를 다각화하기 위한 사내 투자 플랫폼 '하우스 오브 드림스' 설립을 추진 중이라고 로이터가 보도했다. 구찌는 케어링 영업이익의 절반가량을 차지한다.",
+      "url": "https://www.cnbc.com/2025/11/21/kering-ceo-plans-house-of-dreams-investment-arm-to-help-trim-reliance-on-gucci.html",
+      "source": "Reuters (via CNBC)",
+      "tier": "T1",
+      "published_at": "2025-11-21",
+      "why_it_matters": "구찌가 여전히 그룹 수익의 핵심이지만, 모회사 차원에서 '구찌 이후'를 대비한 포트폴리오 재편이 공식화되고 있다는 점에서 구찌의 그룹 내 전략적 위상 변화를 시사한다.",
+      "why_it_matters_en": "Even as Gucci remains the group's profit engine, Kering is formally preparing a post-Gucci diversification strategy at the corporate level — a signal of Gucci's shifting strategic standing within the group. Flagged as older background (nearly 11 months old).",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "pricing",
+      "headline": "구찌, 중국서 핸드백·의류 가격 최대 30% 인하 — '오르기만 하던' 럭셔리 가격 정책의 반전",
+      "summary": "구찌가 중국에서 오피디아 미니 버킷백(29% 인하), 메르카토 토트백(약 22% 인하) 등 핸드백과 기성복 가격을 큰 폭으로 낮췄다. 이는 중국 중산층 소비력 약화와 재판매 시장 투명성 확대에 대응한 조치로, 디오니소스 등 일부 백의 리세일 가치는 신품가의 4분의 1 수준까지 떨어졌다.",
+      "url": "https://finance.biggo.com/news/3e8f06c6-06ae-4482-b08e-8a1979034c86",
+      "source": "BigGo Finance (citing Jing Daily)",
+      "tier": "T2_general",
+      "published_at": "2026-09-08",
+      "why_it_matters": "가격 인하는 중국 수요 회복을 위한 단기 처방일 수 있으나, 브랜드 희소성·가격 결정력을 스스로 훼손해 장기 리세일 가치와 프리미엄 포지셔닝에 부담을 줄 위험이 있다.",
+      "why_it_matters_en": "Price cuts may stimulate near-term Chinese demand but risk self-undermining scarcity and pricing power, pressuring long-term resale value and premium positioning. Structurally important enough to retain despite being outside the 7-day window.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

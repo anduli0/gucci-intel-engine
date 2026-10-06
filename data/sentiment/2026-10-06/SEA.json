@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-10-06-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade press + analyst quotes frame 'Made in China' sneaker labeling as a threat to Gucci's premium positioning.",
+    "signal_tags": ["design_criticism", "value_for_money", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-06-002",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent critic runway review gives a clear positive verdict on Demna's SS27 collection, qualifying as independent judgment not activation copy.",
+    "signal_tags": ["collection_review", "creative_direction", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-10-06-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own official ambassador spotlight; brand-staged promo content, not independent opinion.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-10-06-004",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic Thai fan SNS celebration of ambassadors; genuine fandom enthusiasm but damped under fandom-spike trap.",
+    "signal_tags": ["fandom", "ambassador", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-06-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Cross-border fan chatter questioning/discussing validation of ambassador status; informational/uncertain tone, no clear brand verdict.",
+    "signal_tags": ["fandom", "cross_border", "sns"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-10-06-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community debate genuinely split between 'reinvention' and 'dilution' of house codes; content inferred from snippets, low confidence.",
+    "signal_tags": ["community", "design_debate", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-10-06-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive niche-outlet profile of ambassador's front-row outfit; explicitly secondary volume evidence, not an evaluative signal.",
+    "signal_tags": ["activation_coverage", "ambassador", "niche_outlet"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-06-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Demoted from negative: resale-supply proxy for softening demand has uncertain causation and confidence below 0.5 threshold.",
+    "signal_tags": ["resale_market", "soft_demand_proxy", "demoted_low_confidence"],
+    "confidence": 0.45
+  }
+]

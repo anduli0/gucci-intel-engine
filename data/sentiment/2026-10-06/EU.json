@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-20261006-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock drop, Gucci comparable revenue -5%, H1 net income -60%, analyst target cut reported as hard negative momentum press",
+    "signal_tags": ["earnings", "stock_price", "analyst_rating"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261006-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "CEO factual reassurance on Italian production sourcing, descriptive corporate statement with no independent evaluative charge",
+    "signal_tags": ["corporate_statement", "supply_chain"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20261006-03",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent critic review praises SS27 'Store Show' as theatrical and strategically relevant reading of luxury",
+    "signal_tags": ["runway_review", "creative_direction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261006-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "HSBC cuts Kering/Gucci target citing slower product cadence and softer store traffic, despite retained Buy rating",
+    "signal_tags": ["analyst_rating", "store_traffic"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261006-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Fashion forum split verdict on SS27, womenswear called 'abysmal' and 'bar on the floor' outweighs lukewarm menswear peer comparison",
+    "signal_tags": ["community_reaction", "runway_review", "design_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261006-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "PurseForum members call SS27 collection 'vulgar' and 'a tragedy', dominant sharply negative community reaction",
+    "signal_tags": ["community_reaction", "design_criticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261006-07",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "AnOther critic praises SS27 show's warmth, wit, and sophisticated casting concept, defends its commerciality",
+    "signal_tags": ["runway_review", "creative_direction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261006-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Newsletter aggregates fan/forum reaction, repeatedly centers on 'vulgar' as dominant community descriptor despite Demna's stated intent",
+    "signal_tags": ["community_reaction", "design_criticism"],
+    "confidence": 0.55
+  }
+]

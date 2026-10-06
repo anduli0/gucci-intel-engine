@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-10-06-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Frames Gucci as a discounted 'recovery-phase bet' with 12 consecutive quarters of declining sales, unfavorably contrasted with Hermes/Chanel price-scarcity strategy",
+    "signal_tags": ["negative_earnings", "discount_image", "peer_comparison"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-06-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reports 11 consecutive quarters of decline, ~22% revenue drop, and major store closures amid price cuts that 'can't sell' -- headline-level negative momentum press",
+    "signal_tags": ["negative_earnings", "discount_image", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-06-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade-press scorecard calls Demna debut 'not a home run' with shoes/bags 'boring' and leggings 'tasteless', though improvement vs. prior era noted",
+    "signal_tags": ["design_criticism", "trade_press", "runway_review"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-06-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent critic review praises 2027 S/S show as 'technically masterful' with real creative growth -- genuine third-party judgment, not brand copy",
+    "signal_tags": ["favorable_review", "runway_review", "independent_critic"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-06-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Commenters split but several doubt the luxury premium is justified on a China-made sneaker priced like Italy-made -- value-for-money dispute",
+    "signal_tags": ["value_for_money", "sns_discussion", "pricing"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-06-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-risk warning about daigou channels, but thread concludes official boutiques are now safer and cheaper post price-cut -- nets to neutral",
+    "signal_tags": ["counterfeit", "community_discussion"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-10-06-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive eyewear campaign write-up with no independent evaluative verdict -- activation press-kit coverage",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-10-06-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Cites 22.5% revenue drop and fall to 9th place in luxury rankings, but comments are divided with some defending brand's heritage value",
+    "signal_tags": ["negative_earnings", "sns_discussion", "brand_status"],
+    "confidence": 0.6
+  }
+]

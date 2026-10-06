@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-2026-10-06-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned Holiday 2026 collection rollout write-up, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch", "beauty"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-06-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Forum community overwhelmingly calls Demna's Spring 2027 collection 'vulgar' and hopes for his exit, no positive counterpoint.",
+    "signal_tags": ["design_criticism", "creative_direction", "community_sentiment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-06-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "T1 trade press takes a skeptical, open-ended line on whether Demna resolved Gucci's identity crisis and desirability problem.",
+    "signal_tags": ["trade_press", "design_criticism", "identity_crisis"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-06-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring verified US consumer complaints on repair policy and craftsmanship (tarnishing, stitching failures), aggregate 2.2/5 rating, 'NOT WORTH IT.'",
+    "signal_tags": ["quality_complaint", "customer_service", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-06-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Handbag-collector forum documents repeated unannounced price hikes with specific dollar figures and loyal-customer frustration.",
+    "signal_tags": ["price_hike_backlash", "community_sentiment", "value_for_money"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-06-008",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan-account enthusiasm for K-pop ambassador NingNing's Gucci styling; fandom spike damped to mild magnitude per trap rule.",
+    "signal_tags": ["fandom_spike", "ambassador", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-06-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mostly descriptive celebrity-entrance and social-mention-volume reporting; buzz proxy without a clear independent verdict on the brand itself.",
+    "signal_tags": ["sns_buzz", "celebrity", "activation_coverage"],
+    "confidence": 0.6
+  }
+]
