@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-07",
+  "horizon_days": 60,
+  "items": [
+    {
+      "date": "2026-10-12",
+      "event": "LVMH 2026년 3분기 매출 발표",
+      "brand": "LVMH",
+      "type": "earnings",
+      "why_ko": "LVMH 3분기 매출은 중국 수요 회복 여부와 럭셔리 업계 전반의 수요 바로미터로, 구찌의 경쟁 포지셔닝 벤치마크가 됨",
+      "why_en": "LVMH Q3 revenue is the industry demand bellwether, especially China recovery signals, setting the competitive benchmark for Gucci.",
+      "action_ko": "발표 당일(T+0) 경쟁사 실적 브리핑 작성, 구찌 지역별 GMAI와 교차 비교해 메시징 선제 조정",
+      "source": "Ad Hoc News / LVMH IR",
+      "tier": 1,
+      "url": "https://www.lvmh.com/en/financial-calendar/2026-q3-revenue"
+    },
+    {
+      "date": "2026-10-21",
+      "event": "Kering 2026년 3분기 매출 발표",
+      "brand": "Kering / Gucci",
+      "type": "earnings",
+      "why_ko": "구찌 의존도 축소를 선언한 'ReconKering' 구조조정 중 첫 분기 성적표로, 구찌 CMO의 예산·우선순위에 직접 영향",
+      "why_en": "First quarterly scorecard since de Meo's 'ReconKering' plan to reduce Gucci dependence — directly affects Gucci CMO budget and priorities.",
+      "action_ko": "실적 발표 전날까지 구찌 자체 서사(턴어라운드 증거) 준비, 발표 후 T+24h 내 내부 대응 메시지 배포",
+      "source": "Kering IR / MarketScreener",
+      "tier": 1,
+      "url": "https://www.marketscreener.com/quote/stock/KERING-4683/calendar/"
+    },
+    {
+      "date": "2026-10-21",
+      "event": "Moncler 2026년 9개월 매출 발표",
+      "brand": "Moncler",
+      "type": "earnings",
+      "why_ko": "아웃도어·고가 캐주얼 세그먼트 경쟁사 실적으로 아시아 수요 흐름 참고 지표",
+      "why_en": "Moncler's nine-month results offer a read on Asia demand trends in the adjacent premium outdoor/casual segment.",
+      "action_ko": "지역별(특히 NEA) 수요 데이터 비교 후 마케팅 캘린더에 참고 반영",
+      "source": "Ad Hoc News",
+      "tier": 2,
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/moncler-stock-heads-into-the-october-21-sales-update/70226427"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "Hermès 2026년 3분기 매출 발표",
+      "brand": "Hermès",
+      "type": "earnings",
+      "why_ko": "초고가 럭셔리 수요 탄력성의 기준점으로, 구찌 가격 전략 논의 시 참고 벤치마크",
+      "why_en": "Hermès results are the reference point for ultra-high-end demand resilience, informing Gucci pricing strategy discussions.",
+      "action_ko": "발표 후 경쟁 구도 리포트에 Hermès 회복력 대비 구찌 포지션 명시",
+      "source": "MarketScreener",
+      "tier": 2,
+      "url": "https://www.marketscreener.com/quote/stock/HERMES-INTERNATIONAL-4657/calendar/"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "Prada Group 2026년 9개월 매출 발표",
+      "brand": "Prada / Miu Miu",
+      "type": "earnings",
+      "why_ko": "Miu Miu의 고성장이 구찌 타깃 Gen-Z 고객층을 잠식하는지 확인할 핵심 데이터",
+      "why_en": "Prada Group results reveal whether Miu Miu's high growth is eroding Gucci's Gen-Z target customer base.",
+      "action_ko": "Miu Miu 성장률과 구찌 동일 세그먼트 SOV 비교 분석 실행",
+      "source": "Prada Group IR",
+      "tier": 2,
+      "url": "https://www.pradagroup.com/en/investors/investor-relations.html"
+    },
+    {
+      "date": "2026-11-02",
+      "event": "CFDA Fashion Awards 2026 (뉴욕 자연사박물관)",
+      "brand": "Industry-wide",
+      "type": "industry",
+      "why_ko": "미국 레드카펫 노출의 핵심 이벤트로, 앰버서더 착장 및 경쟁 브랜드 수상 내역이 북미 SOV에 직접 영향",
+      "why_en": "A key US red-carpet exposure event; ambassador looks and competitor wins directly impact North American share of voice.",
+      "action_ko": "행사 전 앰버서더 룩 확정 및 공급, 시상식 종료 후 T+24h 내 레드카펫 SOV 리포트 발행",
+      "source": "CFDA",
+      "tier": 1,
+      "url": "https://cfda.com/events/cfda-fashion-awards/2026/"
+    },
+    {
+      "date": "2026-11-13",
+      "event": "Richemont 2027 회계연도 반기(상반기) 실적 발표",
+      "brand": "Richemont",
+      "type": "earnings",
+      "why_ko": "주얼리·시계 중심 경쟁사 실적으로, 구찌 주얼리 확장 전략(드 메오 중점 분야) 벤치마크",
+      "why_en": "Richemont's interim results benchmark the jewelry/watch segment that de Meo has flagged as a Kering growth priority — relevant to Gucci's own jewelry push.",
+      "action_ko": "주얼리 카테고리 매출 기여도 비교, 구찌 주얼리 라인 마케팅 예산 논의에 반영",
+      "source": "Richemont IR",
+      "tier": 2,
+      "url": "https://www.richemont.com/investors/corporate-calendar/"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "Chanel Métiers d'Art 2027 컬렉션 (로마)",
+      "brand": "Chanel",
+      "type": "show",
+      "why_ko": "마티유 블라지 체제 2번째 메티에다르 쇼로 로마 현지 미디어 노출 집중, 동시간대 구찌 이탈리아 헤리티지 서사와 경쟁",
+      "why_en": "Matthieu Blazy's second Métiers d'Art show, staged in Rome, concentrates Italian heritage media narrative — competing directly with Gucci's own Italian-heritage storytelling.",
+      "action_ko": "쇼 종료 후 T+24h 내 이탈리아 헤리티지 포지셔닝 비교 리포트 작성, 구찌 이탈리아 유산 콘텐츠 선제 배포 검토",
+      "source": "WWD",
+      "tier": 1,
+      "url": "https://wwd.com/fashion-news/fashion-scoops/chanels-metiers-dart-2027-collection-location-rome-1238945868/"
+    },
+    {
+      "date": "2027-01-12~2027-01-15",
+      "event": "Pitti Immagine Uomo 111 (피렌체)",
+      "brand": "Industry-wide",
+      "type": "industry",
+      "why_ko": "남성복 트렌드와 바이어 반응을 가늠하는 업계 핵심 무역 박람회로, FW27-28 남성 시즌 분위기를 선행 파악할 수 있음",
+      "why_en": "Key menswear trade fair gauging buyer sentiment ahead of FW27-28 season, offering early signal on menswear category momentum.",
+      "action_ko": "현장 트렌드 리포트 수집, 구찌 남성복 MD 전략 회의 전 참고자료로 전달",
+      "source": "Fibre2Fashion",
+      "tier": 3,
+      "url": "https://www.fibre2fashion.com/trade-fairs/pitti-immagine-uomo-2027-66724"
+    },
+    {
+      "date": "2027-01-14",
+      "event": "Richemont 2027 회계연도 3분기 매출 발표",
+      "brand": "Richemont",
+      "type": "earnings",
+      "why_ko": "연말 홀리데이 시즌 럭셔리 수요 결과를 가장 먼저 보여주는 지표 중 하나",
+      "why_en": "One of the earliest indicators of holiday-season luxury demand outcomes.",
+      "action_ko": "홀리데이 시즌 구찌 실적 내부 전망과 비교해 1월 마케팅 예산 조정 논의",
+      "source": "Richemont IR",
+      "tier": 2,
+      "url": "https://www.richemont.com/investors/corporate-calendar/"
+    },
+    {
+      "date": "2027-01-15~2027-01-19",
+      "event": "밀라노 남성 패션위크 (FW27-28)",
+      "brand": "Industry-wide / Gucci",
+      "type": "show",
+      "why_ko": "뎀나 체제 구찌의 차기 남성 컬렉션이 공개될 가능성이 높은 시즌으로, 데뷔 이후 첫 순수 남성 단독 쇼 여부가 핵심 관전 포인트 (미확정)",
+      "why_en": "The season where Demna-era Gucci's next menswear collection is likely to show; whether it becomes his first standalone menswear show is the key watch point (unconfirmed date for Gucci's specific slot).",
+      "action_ko": "쇼 일정 공식 발표 즉시 미디어 대응 플랜 수립, 쇼 종료 후 T+24h 이벤트 대응 리포트 실행",
+      "source": "FashionUnited / Numero",
+      "tier": 1,
+      "url": "https://fashionunited.com/events/milan-fashion-week-mens-SS"
+    },
+    {
+      "date": "2027-01-19~2027-01-24",
+      "event": "파리 남성 패션위크 (FW27-28)",
+      "brand": "Industry-wide",
+      "type": "show",
+      "why_ko": "루이비통, 디올옴므 등 경쟁 남성복 쇼가 집중되는 기간으로 구찌 남성 카테고리 SOV 경쟁이 치열해짐",
+      "why_en": "Concentrated period of competitor menswear shows (Louis Vuitton, Dior Homme, etc.), intensifying SOV competition for Gucci's menswear category.",
+      "action_ko": "경쟁 브랜드 쇼 종료마다 T+24h SOV 트래킹, 주간 종합 비교 리포트 발행",
+      "source": "Galerie Joseph / DesignScene",
+      "tier": 1,
+      "url": "https://galeriejoseph.com/en/2026/08/11/fashion-week-men-paris-janvier-2027/"
+    },
+    {
+      "date": "2027-01-25~2027-01-28",
+      "event": "파리 오트쿠튀르 위크 (SS27)",
+      "brand": "Industry-wide",
+      "type": "show",
+      "why_ko": "쿠튀르는 구찌가 참가하지 않지만 디올, 샤넬, 발렌시아가 등 경쟁 쿠튀르 하우스의 헤드라인이 레드카펫·에디토리얼 점유율을 흡수함",
+      "why_en": "Gucci does not show couture, but competitor couture headlines (Dior, Chanel, Balenciaga) absorb red-carpet and editorial share of voice during this window.",
+      "action_ko": "쿠튀르 위크 기간 구찌 자체 콘텐츠 캘린더를 분산 배치해 노이즈 회피 전략 수립",
+      "source": "DesignScene",
+      "tier": 2,
+      "url": "https://www.designscene.net/2025/02/paris-fashion-week-2026-2027.html"
+    }
+  ]
+}

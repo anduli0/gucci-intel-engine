@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SEA-2026-10-07-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analysts flag origin-label/premium-price tension on China-made sneaker; still-live critical business-press narrative a week on.",
+    "signal_tags": ["quality_origin_controversy", "value_for_money", "independent_judgment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-07-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive, nearly year-old activation recap recirculating in search/social; no fresh evaluative content.",
+    "signal_tags": ["activation_coverage", "stale_recirculation"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-10-07-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "SNS debate skeptical that cheaper China manufacturing will lower prices, set against 12 quarters of sales decline and recent price hikes — mild value-for-money/credibility dispute.",
+    "signal_tags": ["value_for_money", "price_hike_backlash", "sns_discussion"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-07-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-media ambassador spike framing award wins via Gucci ties; fandom trap with no independent brand judgment, damped to neutral.",
+    "signal_tags": ["fandom_spike", "ambassador_coverage", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-10-07-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sustained heavy preloved/resale listing volume read as a soft proxy for consumer turnover/destocking, a discount/outlet-image risk; explicitly unconfirmed directional signal.",
+    "signal_tags": ["resale_market", "discount_image_risk", "unconfirmed_signal"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-10-07-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador/brand-collaboration profile with no outlet evaluative verdict; explicitly balanced against critical items, not standalone positive proof.",
+    "signal_tags": ["activation_coverage", "ambassador_coverage"],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-2026-10-07-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Brokers cut Kering targets citing Gucci's 5% comparable revenue decline and collapsed H1 profit; negative earnings/momentum press.",
+    "signal_tags": ["earnings", "analyst_rating", "momentum_negative"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-07-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "BoF calls the collection a 'partial breakthrough' but says it still divides critics on identity resolution; genuinely mixed trade verdict, not a clear endorsement.",
+    "signal_tags": ["trade_press", "runway_review", "mixed_verdict"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-07-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Forum reaction calls collection 'vulgar'/'grotesque' and derivative, speculating about Demna's exit; strong organic design-criticism/lost-its-way narrative.",
+    "signal_tags": ["design_criticism", "community_reaction", "lost_its_way"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-07-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic social backlash over 'Made in China' sneaker at ~$1,000 pits provenance against price; value-for-money and quality-perception controversy, not activation-capped since it's backlash.",
+    "signal_tags": ["price_backlash", "provenance_controversy", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-07-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Wire report quotes a consultant warning the China manufacturing shift is reputationally risky for an Italian-craftsmanship brand; negative but more descriptive/quote-driven tone.",
+    "signal_tags": ["manufacturing_shift", "reputational_risk", "trade_quote"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-10-07-006",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Influencer's Gucci look draws heavy unquantified fan praise in comments; fandom-spike trap damps magnitude despite positive tone.",
+    "signal_tags": ["influencer", "fandom_spike", "ambassador_adjacent"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-10-07-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregated consumer reviews report recurring stitching/hardware/paint defects, billed repairs, and 8-10 week wait times; clear quality/QC complaint pattern.",
+    "signal_tags": ["quality_complaint", "customer_service", "repair_issues"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-07-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD's own review text was paywalled/unavailable at fetch; only secondhand characterization as part of a mixed-to-critical consensus, insufficient to assign independent polarity.",
+    "signal_tags": ["trade_press", "paywalled", "unverified_verdict"],
+    "confidence": 0.3
+  }
+]

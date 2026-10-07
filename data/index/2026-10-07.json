@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-07",
+  "regions": {
+    "NEA": {
+      "GMAI": 36.99,
+      "band": "주의",
+      "NSS": -0.5074,
+      "components": {
+        "sentiment": 0.2463,
+        "buzz": 0.3561,
+        "engagement": 1.0,
+        "sov": 0.1892
+      },
+      "contrib": {
+        "sentiment": 11.08,
+        "buzz": 7.12,
+        "engagement": 15.0,
+        "sov": 3.78
+      },
+      "sov_known": true,
+      "engagement_known": true,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 6.4,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "discount",
+            -5.41
+          ],
+          [
+            "store_closures",
+            -5.41
+          ],
+          [
+            "momentum_press",
+            -5.41
+          ],
+          [
+            "viral",
+            -5.41
+          ]
+        ],
+        "pos": [
+          [
+            "mixed_verdict",
+            1.7
+          ],
+          [
+            "demna",
+            1.7
+          ],
+          [
+            "trade_press_positive",
+            1.7
+          ],
+          [
+            "creative_direction",
+            1.7
+          ]
+        ]
+      },
+      "channel_mix": {
+        "news": 4,
+        "sns": 4,
+        "community": 1
+      },
+      "counts": {
+        "pos": 1,
+        "neu": 2,
+        "neg": 6
+      },
+      "n_items": 9,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": 3.19,
+        "buzz": 2.55,
+        "engagement": 7.5,
+        "sov": 1.18
+      },
+      "delta": 14.42
+    },
+    "SEA": {
+      "GMAI": 32.67,
+      "band": "주의",
+      "NSS": -0.4519,
+      "components": {
+        "sentiment": 0.274,
+        "buzz": 0.3084,
+        "engagement": 0.5,
+        "sov": 0.3333
+      },
+      "contrib": {
+        "sentiment": 12.33,
+        "buzz": 6.17,
+        "engagement": 7.5,
+        "sov": 6.67
+      },
+      "sov_known": true,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 2.5,
+      "low_evidence": true,
+      "drivers": {
+        "neg": [
+          [
+            "resale_market",
+            -6.58
+          ],
+          [
+            "discount_image_risk",
+            -6.58
+          ],
+          [
+            "unconfirmed_signal",
+            -6.58
+          ],
+          [
+            "value_for_money",
+            -3.59
+          ]
+        ],
+        "pos": []
+      },
+      "channel_mix": {
+        "news": 3,
+        "sns": 2,
+        "community": 1
+      },
+      "counts": {
+        "pos": 0,
+        "neu": 3,
+        "neg": 3
+      },
+      "n_items": 6,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": -10.51,
+        "buzz": -1.62,
+        "engagement": 0.0,
+        "sov": 3.81
+      },
+      "delta": -8.31
+    },
+    "NA": {
+      "GMAI": 23.03,
+      "band": "경고",
+      "NSS": -0.7204,
+      "components": {
+        "sentiment": 0.1398,
+        "buzz": 0.2743,
+        "engagement": 0.5,
+        "sov": 0.1875
+      },
+      "contrib": {
+        "sentiment": 6.29,
+        "buzz": 5.49,
+        "engagement": 7.5,
+        "sov": 3.75
+      },
+      "sov_known": true,
+      "engagement_known": false,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 3.2,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "earnings",
+            -11.58
+          ],
+          [
+            "analyst_rating",
+            -11.58
+          ],
+          [
+            "momentum_negative",
+            -11.58
+          ],
+          [
+            "quality_complaint",
+            -2.9
+          ]
+        ],
+        "pos": [
+          [
+            "ambassador_adjacent",
+            0.46
+          ],
+          [
+            "fandom_spike",
+            0.46
+          ],
+          [
+            "influencer",
+            0.46
+          ]
+        ]
+      },
+      "channel_mix": {
+        "news": 4,
+        "sns": 2,
+        "community": 2
+      },
+      "counts": {
+        "pos": 1,
+        "neu": 2,
+        "neg": 5
+      },
+      "n_items": 8,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": -9.55,
+        "buzz": 1.12,
+        "engagement": 0.0,
+        "sov": -1.25
+      },
+      "delta": -9.67
+    },
+    "EU": {
+      "GMAI": 17.99,
+      "band": "경고",
+      "NSS": -0.7803,
+      "components": {
+        "sentiment": 0.1098,
+        "buzz": 0.4414,
+        "engagement": 0.0003,
+        "sov": 0.2105
+      },
+      "contrib": {
+        "sentiment": 4.94,
+        "buzz": 8.83,
+        "engagement": 0.01,
+        "sov": 4.21
+      },
+      "sov_known": true,
+      "engagement_known": true,
+      "buzz_known": true,
+      "baseline_days": 30,
+      "sentiment_coverage": 1.0,
+      "eff_n": 4.9,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "earnings_momentum",
+            -12.71
+          ],
+          [
+            "analyst_rating",
+            -12.71
+          ],
+          [
+            "stock",
+            -7.08
+          ],
+          [
+            "design_criticism",
+            -2.23
+          ]
+        ],
+        "pos": []
+      },
+      "channel_mix": {
+        "news": 5,
+        "sns": 1,
+        "community": 2
+      },
+      "counts": {
+        "pos": 0,
+        "neu": 3,
+        "neg": 5
+      },
+      "n_items": 8,
+      "sov_source": "objective",
+      "delta_attrib": {
+        "sentiment": -17.19,
+        "buzz": 1.23,
+        "engagement": -7.5,
+        "sov": -0.41
+      },
+      "delta": -23.85
+    }
+  },
+  "global": {
+    "GMAI": 27.66,
+    "band": "경고",
+    "delta": -5.05,
+    "delta_attrib": {
+      "sentiment": -7.35,
+      "buzz": 1.32,
+      "engagement": 0.52,
+      "sov": 0.44
+    },
+    "sentiment_weighted": 0.1848
+  },
+  "missing_blocks": [],
+  "triggers": [
+    "NA in 경고 band (GMAI=23.03)",
+    "EU dropped ≥ 10pt (Δ=-23.85)",
+    "EU in 경고 band (GMAI=17.99)"
+  ],
+  "triggers_v2": [
+    {
+      "code": "band_alert",
+      "region": "NA",
+      "gmai": 23.03
+    },
+    {
+      "code": "region_drop",
+      "region": "EU",
+      "delta": -23.85
+    },
+    {
+      "code": "band_alert",
+      "region": "EU",
+      "gmai": 17.99
+    }
+  ],
+  "region_weights_used": {
+    "NEA": 0.35,
+    "SEA": 0.12,
+    "NA": 0.25,
+    "EU": 0.28
+  }
+}

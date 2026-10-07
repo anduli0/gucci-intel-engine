@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NEA-2026-10-07-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral FAQ framing of simultaneous discounting, store closures and strategic doubt skews toward lost-pricing-power narrative",
+    "signal_tags": ["discount", "store_closures", "momentum_press", "viral"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-07-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Confirmed up to 40% price cuts break luxury pricing convention; analyst flags irreversible discount-ification brand risk",
+    "signal_tags": ["price_cut", "value_for_money", "discount_image", "analyst_warning"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-07-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "High-engagement community post mocks brand decline and 'selling out to China' amid reported revenue halving",
+    "signal_tags": ["community_backlash", "earnings_decline", "made_in_china", "mockery"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-07-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "News coverage of China-made sneaker shift tied to ~50% revenue decline with analyst warning on origin-image tension",
+    "signal_tags": ["made_in_china", "earnings_decline", "analyst_warning", "supply_chain"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-07-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press criticizes Gucci for breaking origin-image convention, unfavorably contrasted with LV's practice",
+    "signal_tags": ["peer_comparison", "supply_chain", "trade_press_criticism"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-10-07-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Transactional price-arbitrage advice thread with mixed purchase interest and skepticism, not a clear brand verdict",
+    "signal_tags": ["price_comparison", "daigou", "consumer_advice"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-07-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified brand value drop (24%), rank fall 6th to 9th, and steepest top-10 revenue decline is headline-level negative momentum",
+    "signal_tags": ["brand_value_decline", "earnings_decline", "ranking_drop"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-07-008",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade feature credits Demna with clearer design identity but notes sales recovery still lagging, a conditional verdict",
+    "signal_tags": ["creative_direction", "trade_press_positive", "demna", "mixed_verdict"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-07-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mostly transactional purchase-advice thread with incidental descriptive mention of F1 Alpine sponsorship",
+    "signal_tags": ["activation_coverage", "purchase_advice", "sponsorship"],
+    "confidence": 0.55
+  }
+]

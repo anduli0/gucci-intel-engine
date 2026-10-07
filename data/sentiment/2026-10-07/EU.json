@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-20261007-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Eight brokers cut Kering targets citing Gucci's 5% comparable revenue decline as the drag ahead of Q3 results.",
+    "signal_tags": ["earnings_momentum", "analyst_rating", "stock"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261007-02",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "RBC's second target cut in weeks forecasts Gucci dragging Kering's Q3 with a 5% organic sales decline.",
+    "signal_tags": ["earnings_momentum", "analyst_rating"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261007-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consultant and analysts explicitly criticize 'Made in China' sneaker as undermining Gucci's luxury/provenance positioning amid steep sales decline.",
+    "signal_tags": ["design_criticism", "provenance", "quality_perception"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261007-04",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Italian trade press factually reports the sneaker being made in China and breaking the 'Made in Italy' norm without its own evaluative verdict.",
+    "signal_tags": ["provenance", "factual_reporting"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261007-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual market-intel on Chinese Golden Week travel/spend to Europe, relevant context but not a judgment on Gucci.",
+    "signal_tags": ["market_data", "tourism_flow"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-20261007-06",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Baseline third-party SNS analytics snapshot, explicitly not a reaction to any specific content.",
+    "signal_tags": ["sns_baseline", "engagement_metric"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261007-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale listings showing up to 70% discount to retail signal resale-value erosion, though presented as data not editorial verdict.",
+    "signal_tags": ["resale_value", "secondhand_market"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261007-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring Trustpilot complaints about product quality failures and poor customer service, with reviewers feeling they pay for the name not quality.",
+    "signal_tags": ["quality_complaint", "customer_service", "value_for_money"],
+    "confidence": 0.85
+  }
+]
