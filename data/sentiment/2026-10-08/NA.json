@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NA-2026-10-08-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Gucci's own lawsuit alleging off-price retailers knowingly sold counterfeit Gucci bags is a counterfeit/legal controversy damaging brand-integrity narrative.",
+    "signal_tags": ["counterfeit", "legal_controversy", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-08-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan community thread is split between curiosity and skepticism on price/wearability, no clear net verdict; damped as fandom/community volume.",
+    "signal_tags": ["fandom_spike", "community_discussion", "capsule_drop", "mixed_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-08-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring consumer complaints about hardware/paint/stitching defects and being billed for repairs of apparent manufacturing faults is a clear QC and value-for-money backlash.",
+    "signal_tags": ["quality_complaint", "repair_billing", "consumer_reviews"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-08-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregate Trustpilot reviews described as skewing heavily negative on shipping, sizing, and customer service versus boutique experience is a clear organic service complaint.",
+    "signal_tags": ["ecommerce_friction", "customer_service", "consumer_reviews"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-08-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Demna's La Famiglia see-now-buy-now drop (what, who, where, when) with no independent evaluative verdict on the collection itself.",
+    "signal_tags": ["activation_coverage", "capsule_drop", "descriptive"],
+    "confidence": 0.7
+  }
+]

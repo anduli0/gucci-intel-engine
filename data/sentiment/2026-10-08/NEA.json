@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-10-08-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Price-hike backlash with quantified consumer shift to secondhand/competitors amid split pricing strategy",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "quantified_data"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-08-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Discount depth framed as outlet/pricing-model damage, though sector-wide framing dilutes Gucci-specific weight",
+    "signal_tags": ["discount_image", "pricing_model_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-08-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive street-style/runway report with no evaluative verdict",
+    "signal_tags": ["activation_coverage", "runway_descriptive"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-08-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Consumer FAQ thread with split reactions (welcome vs distrust) on price-gap narrowing, no net polarity",
+    "signal_tags": ["price_gap", "mixed_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-08-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale values pressured further by store discounts, mid-to-low retention tier reported",
+    "signal_tags": ["resale_price_drop", "secondhand_value"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-10-08-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral community thread mocking brand decline and 'selling out to China', high engagement and sustained traffic",
+    "signal_tags": ["brand_decline_narrative", "viral", "quality_origin_concern"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-08-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard campaign coverage with no critical or evaluative framing, demoted per activation-coverage discount",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-08-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explainer roundup of leadership/beauty/F1 changes with mixed curiosity-vs-skepticism reactions, no clear net polarity",
+    "signal_tags": ["brand_transformation", "mixed_reaction"],
+    "confidence": 0.55
+  }
+]

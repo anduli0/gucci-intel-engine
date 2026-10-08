@@ -1,0 +1,126 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-10-08",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "구찌, 케이프타운 V&A 워터프론트에 신규 매장 오픈",
+      "summary": "구찌가 남아공 케이프타운 V&A 워터프론트에 2008년 이래 입점해온 자리를 새 콘셉트 매장으로 교체해 공식 오픈했다. 여성/남성 레디투웨어부터 핸드백, 슈즈, 주얼리, 워치, 아이웨어, 향수까지 풀 카테고리를 갖췄다.",
+      "url": "https://lifestyleandtech.co.za/company-news/article/2026-10-06/gucci-unveils-new-store-at-va-waterfront-in-cape-town",
+      "source": "Lifestyle & Tech",
+      "tier": "T2_general",
+      "published_at": "2026-10-06",
+      "why_it_matters": "아프리카 럭셔리 시장은 작지만 성장 잠재력이 있는 지역으로, 구찌의 지속적 매장 리노베이션 투자는 리테일 네트워크 고급화 전략의 연장선이다.",
+      "why_it_matters_en": "Continued store renovation investment in a smaller but growing African luxury market signals Gucci's ongoing retail network premiumization strategy.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "controversy",
+      "headline": "구찌, 이탈리아산 전통 깨고 '메이드 인 차이나' 스니커즈 판매 시작",
+      "summary": "로이터 보도에 따르면 구찌가 뎀나의 프리마베라 컬렉션 스니커즈 '드립'을 포함해 신발 2종에 '메이드 인 이탈리아' 대신 '메이드 인 차이나' 라벨을 부착해 판매 중이다. 업계에서는 이 결정이 가격 대비 가치 논쟁을 부추기고 하이엔드 이미지를 훼손할 수 있다는 우려가 나온다.",
+      "url": "https://www.businessoffashion.com/news/luxury/guccis-new-made-in-china-sneaker-breaks-with-italian-tradition/",
+      "source": "Reuters / Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-09-24",
+      "why_it_matters": "원산지 라벨 변경은 구찌 가격-가치 방정식에 대한 소비자 신뢰와 직결되는 민감한 이슈로, 아스피레이셔널 고객층 회복 전략과 상충할 위험이 있다.",
+      "why_it_matters_en": "The origin-label shift is a sensitive issue directly tied to consumer trust in Gucci's price-value equation and risks undercutting its strategy to win back aspirational shoppers.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "케링 3분기 실적, 구찌 매출 14% 감소하며 둔화세 지속",
+      "summary": "케링의 2026년 3분기 매출은 34억 유로로 전년 대비 5% 감소했으며, 구찌는 13.4억 유로(-14%, 비교 기준)를 기록했다. 다만 북미와 서유럽에서는 모멘텀이 개선되고 신규 레더굿즈 라인이 반응을 얻었다.",
+      "url": "https://www.thefashionlaw.com/kering-reports-q3-revenue-as-sales-fall-for-gucci/",
+      "source": "The Fashion Law",
+      "tier": "T2_general",
+      "published_at": "2026-10-07",
+      "why_it_matters": "두 자릿수 매출 감소가 지속되고 있으나 북미·서유럽 리테일 개선과 신규 레더굿즈 반응은 뎀나 체제 전환 전략의 초기 신호로 해석할 여지가 있다. 다만 전체 턴어라운드는 아직 입증되지 않았다.",
+      "why_it_matters_en": "Double-digit revenue decline persists, but improving North America/Western Europe retail trends and new leather goods traction offer early (unproven) signals for the Demna-era turnaround strategy.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "뎀나, 밀라노 패션위크서 '스토어 쇼' 콘셉트로 첫 완전한 개인적 비전 공개",
+      "summary": "뎀나는 밀라노에서 열린 세 번째 구찌 쇼에서 매장을 그대로 재현한 '스토어 쇼' 형식으로 남녀 컬렉션을 선보였다. 카디비와 도나텔라 베르사체가 참석했으며, 테일러링과 1980년대 밀라노 스타일에서 영감을 받은 룩이 중심이었다.",
+      "url": "https://us.fashionnetwork.com/news/Gucci-s-demna-blends-aristocracy-and-pop-culture-at-milan-fashion-week,1870450.html",
+      "source": "FashionNetwork",
+      "tier": "T2_general",
+      "published_at": "2026-09-25",
+      "why_it_matters": "뎀나가 '완전한 개인적 비전'이라 자평한 이번 쇼는 향후 매장 디자인 방향까지 암시했다는 점에서, 브랜드 아이덴티티 재정립 속도와 일관성을 가늠하는 핵심 지표다.",
+      "why_it_matters_en": "Demna's self-described 'fully realized personal vision' hints at future store design direction, making it a key gauge of the pace and coherence of Gucci's brand identity reset.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "로레알, 구찌 뷰티 라이선스 조기 인수 절차 진행 중",
+      "summary": "케링과 로레알이 체결한 50년 독점 뷰티 라이선스 계약에 따라, 기존 코티 라이선스가 당초 2028년보다 앞당겨 종료되며 2027년 7월부터 로레알이 구찌 향수·뷰티 사업을 맡게 된다. 코티는 조기 종료 보상금 약 4억 달러를 받는다.",
+      "url": "https://theindustry.beauty/gucci-loreal-beauty-license-transition-2026/",
+      "source": "TheIndustry.beauty",
+      "tier": "T2_trade",
+      "published_at": "2026-07-10",
+      "why_it_matters": "뷰티 라이선스 주체 교체는 구찌의 매스티지 접점(뷰티·향수) 운영 주체가 바뀌는 구조적 변화로, 브랜드 통제력과 수익 구조에 장기적 영향을 준다. 과거 코티와의 라이선스 분쟁 이력도 있어 전환 리스크를 배제할 수 없다.",
+      "why_it_matters_en": "The beauty-license operator change is a structural shift in who controls Gucci's mass-accessible touchpoint (beauty/fragrance), with long-term implications for brand control and margins; the prior Coty licensing dispute history means transition risk isn't negligible.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "trend",
+      "headline": "라이스트 인덱스, 구찌 2026년 1분기 톱5 재진입",
+      "summary": "패션 검색 플랫폼 라이스트의 2026년 1분기 인덱스에서 구찌가 5위(+4단계 상승)를 기록, 2025년 하락세 이후 순위를 회복했다. 다만 최신 3분기 데이터는 아직 공개되지 않아 추세의 지속 여부는 확인되지 않았다.",
+      "url": "https://culted.com/how-gucci-rose-to-top-5-in-the-lyst-index/",
+      "source": "Culted",
+      "tier": "T2_general",
+      "published_at": "2026-04-01",
+      "why_it_matters": "소비자 검색 수요 지표상의 순위 회복은 뎀나발 화제성이 실질적 수요로 전환되고 있다는 긍정적 신호이지만, 매출 수치(케링 실적)는 여전히 두 자릿수 감소를 보이고 있어 화제성과 매출 간 괴리가 존재한다.",
+      "why_it_matters_en": "The ranking recovery on consumer search-demand metrics is a positive buzz signal, but it coexists with continued double-digit revenue decline in Kering's P&L — buzz and sales have not yet converged.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "legal",
+      "headline": "구찌, 길트그룹 상대 위조품 유통 소송 제기",
+      "summary": "구찌가 지난 8월 뉴욕 연방법원에 룰 길트 그룹과 길트 그룹을 상대로 소송을 제기했다. 2025년 길트·룰라라 이커머스 사이트에서 구입한 호스빗 1955 백과 GG 마몬트 미니 백이 위조품이었다는 주장이다.",
+      "url": "https://www.thefashionlaw.com/gucci-v-gilt-puts-luxury-sourcing-authentication-in-focus/",
+      "source": "The Fashion Law",
+      "tier": "T2_general",
+      "published_at": "2026-08-01",
+      "why_it_matters": "오프프라이스 채널을 통한 위조품 유통 문제는 브랜드 공식 유통망 밖에서의 가격·정품 관리 리스크를 보여주며, 장기적으로 브랜드 희소성 관리 전략과 연결된다.",
+      "why_it_matters_en": "Counterfeit distribution through off-price channels highlights pricing and authenticity-control risk outside official retail networks, tying into longer-term brand scarcity management.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "구찌 뷰티, 2026 홀리데이 한정판 컬렉션 출시",
+      "summary": "구찌 뷰티가 2026년 홀리데이 시즌을 겨냥한 한정판 컬렉션을 10월 3일 출시했다. 블러시 드 보테 2종, 루즈 아 레브르 매트 립스틱 3종, 글로스 아 레브르 1종으로 구성되며 메이시스, 블루밍데일스, 세포라, 셀프리지, 노드스트롬, 삭스 등에서 판매된다.",
+      "url": "https://beautyvelle.com/2026/10/03/gucci-beauty-holiday-2026-limited-edition-collection/",
+      "source": "BeautyVelle",
+      "tier": "T2_general",
+      "published_at": "2026-10-03",
+      "why_it_matters": "홀리데이 시즌 뷰티 한정판 출시는 구찌의 매스티지 접점 매출 방어 전략이자 로레알로의 라이선스 이전을 앞둔 코티 체제 하 마지막 홀리데이 캠페인 중 하나다.",
+      "why_it_matters_en": "The holiday beauty limited edition is part of Gucci's mass-accessible revenue defense and one of the final holiday campaigns under the Coty regime before the L'Oréal license handover.",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "뎀나 바잘리아, 2025년 3월 구찌 아티스틱 디렉터로 취임",
+      "summary": "발렌시아가 출신 뎀나가 케링 산하 자매 브랜드 구찌의 새 아티스틱 디렉터로 임명되며 브랜드 턴어라운드를 이끌고 있다. 2026년 9월 밀라노 쇼로 세 번째 컬렉션을 발표했다.",
+      "url": "https://www.yahoo.com/news/gucci-names-demna-aristic-director-181111165.html",
+      "source": "Yahoo/Reuters",
+      "tier": "T1",
+      "published_at": "2025-03-01",
+      "why_it_matters": "구찌 전체 전략의 성패를 가늠하는 가장 중요한 단일 변수로, 매 시즌 쇼·캠페인·실적 반응이 모두 이 인사 결정의 연장선에서 해석된다.",
+      "why_it_matters_en": "The single most important variable for Gucci's overall strategy — every season's show, campaign, and earnings reaction is read as an extension of this appointment.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

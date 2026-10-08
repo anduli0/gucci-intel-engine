@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SEA-2026-10-08-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Made-in-China sneaker sourcing draws analyst/consultant warnings of damage to Gucci's luxury provenance positioning amid turnaround.",
+    "signal_tags": ["quality_provenance", "controversy", "turnaround_narrative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-08-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party brand-value ranking shows Gucci slipping to 11th, behind Dior, framed as continued relative decline.",
+    "signal_tags": ["brand_value", "negative_momentum", "quantified_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-08-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci-staged padel activation with no outlet evaluative verdict; brand-owned activation coverage.",
+    "signal_tags": ["activation_coverage", "sponsorship"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-08-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Regional press recap of SS2027 show details with no independent critical verdict; descriptive activation coverage.",
+    "signal_tags": ["activation_coverage", "runway_recap"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-10-08-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "High discounted resale supply is a soft, unconfirmed directional proxy, not quantified evidence of declining demand; low-confidence polarity demoted to neutral.",
+    "signal_tags": ["resale_market", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-10-08-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic enthusiast-forum complaints about stitching/canvas durability on current-production bags signal ongoing QC concerns.",
+    "signal_tags": ["quality_complaint", "organic_community"],
+    "confidence": 0.6
+  }
+]

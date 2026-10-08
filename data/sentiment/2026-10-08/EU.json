@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-10-08-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Eight brokers cut Kering targets citing Gucci softness, net income down 60% and Gucci comp revenue down 5% — negative earnings/momentum press.",
+    "signal_tags": ["earnings", "analyst_rating", "momentum_negative"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-10-08-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "RBC forecasts Gucci organic sales falling 5% in Q3, dragging Kering's results, estimate below consensus — negative earnings/momentum press.",
+    "signal_tags": ["earnings", "analyst_rating", "momentum_negative"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-10-08-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering CEO admits Gucci has 'lost some of its shine' and rules out further price hikes — leadership-level negative brand-state narrative.",
+    "signal_tags": ["executive_commentary", "lost_its_way", "pricing"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-10-08-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Italian press frames China-made Gucci sneakers as a 'Made in Italy' reputational and political controversy.",
+    "signal_tags": ["made_in_italy", "manufacturing_origin", "controversy"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-08-006",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Local trade press reads Demna's 'store as runway' concept as a deliberate, favorable shift toward commercial execution over spectacle.",
+    "signal_tags": ["trade_press", "creative_direction", "retail_strategy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-08-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Quantified share-of-voice data showing Gucci ranked second in social and news mentions during Milan Fashion Week — descriptive, not evaluative.",
+    "signal_tags": ["share_of_voice", "media_data", "fashion_week"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-08-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Cardi B's entrance at Gucci's brand-staged show; no outlet evaluative verdict — activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "celebrity", "fashion_week"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-08-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "SNS post reporting celebrity coverage-share statistics for Cardi B's Milan appearance; descriptive volume data, not a sentiment judgment.",
+    "signal_tags": ["fandom", "media_data", "celebrity"],
+    "confidence": 0.55
+  }
+]
