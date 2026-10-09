@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-10-09-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned holiday Beauty collection launch write-up with no third-party evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch", "beauty"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-10-09-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade analysis frames Made-in-China sneaker as dividing opinion and a prestige risk amid turnaround pressure.",
+    "signal_tags": ["made_in_china", "prestige_risk", "trade_press", "demna_product"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-09-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual consumer FAQ reporting on shrinking China/overseas price gap, no evaluative stance.",
+    "signal_tags": ["price_gap", "discounting", "factual"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-09-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual recap of discount figures and sold-out SKUs, no clear evaluative verdict toward brand.",
+    "signal_tags": ["discounting", "factual", "sell_through"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-09-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ranking thread mixes praise for youthful image with criticism of price/quality inconsistency and China-made dilution of premium standing; net negative lean.",
+    "signal_tags": ["peer_comparison", "quality_perception", "made_in_china", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-09-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Q&A thread on brand decline is split between reassurance and agreement; ambiguous net sentiment defaults neutral.",
+    "signal_tags": ["decline_narrative", "community", "mixed"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NEA-2026-10-09-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press reports steep ~50% discount on China-made sneaker with expert warning of authenticity doubts and eroded luxury positioning.",
+    "signal_tags": ["made_in_china", "discounting", "authenticity_risk", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-09-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregated consumer sentiment calls Gucci 'dated,' criticizing current prints as overly busy versus better-holding classic pieces.",
+    "signal_tags": ["design_criticism", "lost_its_way", "sns", "resale_value"],
+    "confidence": 0.6
+  }
+]

@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-09",
+  "horizon_days": 60,
+  "items": [
+    {
+      "date": "2026-10-12",
+      "event": "LVMH 2026년 3분기 매출 발표",
+      "brand": "LVMH",
+      "type": "earnings",
+      "why_ko": "LVMH 3분기 실적은 럭셔리 수요 전반의 온도계 역할을 하며, Dior·Louis Vuitton 패션&레더굿즈 부문 둔화 지속 여부가 구찌의 경쟁 포지셔닝 해석에 직접 영향을 준다.",
+      "why_en": "LVMH's Q3 print is the sector bellwether; continued softness in Dior/Louis Vuitton fashion & leather goods will shape how analysts frame Gucci's relative turnaround trajectory.",
+      "action_ko": "발표 당일(10/12) 애널리스트 콜 모니터링 후 T+24h 내 경쟁사 비교 메모 작성, 구찌 ReconKering 메시지와 대조.",
+      "source": "LVMH Financial Calendar / Ad-Hoc News",
+      "tier": 1,
+      "url": "https://www.lvmh.com/en/financial-calendar/2026-q3-revenue"
+    },
+    {
+      "date": "2026-10-21",
+      "event": "몽클레르 3분기(9개월) 매출 발표",
+      "brand": "Moncler",
+      "type": "earnings",
+      "why_ko": "몽클레르의 아웃퍼포먼스는 '하이엔드 캐주얼·기능성 럭셔리' 수요가 구찌의 핵심 가죽제품·레디투웨어 수요를 일부 대체하고 있는지를 보여주는 선행 지표다.",
+      "why_en": "Moncler's momentum signals whether high-end casual/functional luxury demand is siphoning share from Gucci's core leather goods and RTW categories.",
+      "action_ko": "결과 발표 후 T+24h 내 카테고리별 수요 이동 분석 메모 공유.",
+      "source": "Ad-Hoc News / Moncler IR",
+      "tier": 1,
+      "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/moncler-stock-third-quarter-sales-date-set-for-october-21/70244259"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "케링(구찌 모회사) 2026년 3분기 매출 발표",
+      "brand": "Kering / Gucci",
+      "type": "earnings",
+      "why_ko": "구찌의 3분기 매출·유기적 성장률이 공개되는 핵심 데이트로, 뎀나 체제 2개 시즌(SS26 디버전/SS27 스토어쇼) 반영분이 투자자·언론 내러티브를 결정짓는다.",
+      "why_en": "This is the core date for Gucci's Q3 revenue and organic growth—covering the first two Demna-era seasons—determining how investors and media frame the turnaround narrative.",
+      "action_ko": "실적 발표 전(10/20~21) 메시지 사전 정렬, 발표 후 T+24h 내 CMO 대응 성명 및 소셜 리스닝 리포트 가동.",
+      "source": "MarketScreener / Ad-Hoc News",
+      "tier": 1,
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-fell-3-22-percent-as-analysts-cut-targets-on-october-2-2026-euh-no/70225754"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "에르메스 2026년 3분기 매출 발표",
+      "brand": "Hermès",
+      "type": "earnings",
+      "why_ko": "에르메스의 지속적 견조한 성장은 '초고가 크래프트 럭셔리'와 '패션 중심 브랜드' 간 양극화를 재확인시켜, 구찌가 어느 포지셔닝으로 회복해야 하는지에 대한 비교축이 된다.",
+      "why_en": "Hermès' continued resilience reaffirms the bifurcation between ultra-high-end craft luxury and fashion-led brands, providing Gucci a key comparison point for its recovery positioning.",
+      "action_ko": "케링·에르메스 동일자 발표 비교 메모를 T+24h 내 작성, 가격대·카테고리 전략 시사점 도출.",
+      "source": "Hermès Finance / Yahoo Finance",
+      "tier": 1,
+      "url": "https://finance.hermes.com/en/calendar/"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "프라다 그룹 이사회 — 9개월 매출(미감사) 승인",
+      "brand": "Prada",
+      "type": "earnings",
+      "why_ko": "프라다·미우미우의 지속 성장은 '동일 가격대 경쟁사가 구찌 고객을 흡수하고 있는가'를 가늠하는 직접적 벤치마크다.",
+      "why_en": "Continued Prada/Miu Miu growth is a direct benchmark for whether same-tier competitors are absorbing Gucci's customer base.",
+      "action_ko": "발표 후 T+24h 내 미우미우 vs 구찌 Z세대 점유율 비교 노트 작성.",
+      "source": "TipRanks / Prada Group IR",
+      "tier": 1,
+      "url": "https://www.tipranks.com/news/company-announcements/prada-sets-board-meeting-to-approve-nine-month-unaudited-revenues"
+    },
+    {
+      "date": "2026-11-02",
+      "event": "CFDA 패션 어워즈 2026 (아메리칸 자연사 박물관, 뉴욕)",
+      "brand": "Industry-wide",
+      "type": "industry",
+      "why_ko": "레드카펫 노출 집중 이벤트로, 구찌 앰버서더·대여 착장 여부가 미국 시장 내 브랜드 가시성과 바이럴 모멘트에 직결된다.",
+      "why_en": "A concentrated red-carpet exposure event; Gucci ambassador/loan placements directly drive US brand visibility and viral moments.",
+      "action_ko": "행사 전 셀럽 착장 핏팅 확정, 당일(11/2) 레드카펫 모니터링 후 T+24h 내 소셜 반응 플래시 리포트 발행.",
+      "source": "CFDA / WWD",
+      "tier": 1,
+      "url": "https://wwd.com/fashion-news/fashion-scoops/the-2026-cfda-fashion-awards-american-museum-of-natural-history-nov-2-1239055962/"
+    },
+    {
+      "date": "2026-11-12",
+      "event": "버버리 2026/27 반기 실적 발표",
+      "brand": "Burberry",
+      "type": "earnings",
+      "why_ko": "버버리의 영국·헤리티지 럭셔리 회복세는 '브랜드 턴어라운드 플레이북'의 성공 사례로 구찌의 리포지셔닝 전략에 참고 벤치마크를 제공한다.",
+      "why_en": "Burberry's heritage-luxury turnaround progress offers a reference playbook for Gucci's own repositioning strategy.",
+      "action_ko": "발표 후 T+24h 내 턴어라운드 KPI 비교 메모(마진·풀프라이스 비중) 작성.",
+      "source": "Burberry plc Financial Calendar",
+      "tier": 1,
+      "url": "https://www.burberryplc.com/investors/financial-calendar"
+    },
+    {
+      "date": "2026-11-13",
+      "event": "리치몬트 2026/27 반기 실적 발표",
+      "brand": "Richemont",
+      "type": "earnings",
+      "why_ko": "리치몬트 주얼리·시계 부문 강세는 하드럭셔리로의 소비 이동을 시사하며, 구찌 주얼리·시계 카테고리 확장 전략의 시급성을 점검하는 기준이 된다.",
+      "why_en": "Richemont's hard-luxury (jewelry/watch) strength signals a consumption shift that benchmarks the urgency of Gucci's own jewelry/watch category expansion.",
+      "action_ko": "발표 후 T+24h 내 하드럭셔리 카테고리 투자 우선순위 메모 공유.",
+      "source": "Richemont Corporate Calendar",
+      "tier": 1,
+      "url": "https://www.richemont.com/investors/corporate-calendar/"
+    },
+    {
+      "date": "2026-11-18~2026-11-22",
+      "event": "두바이 워치 위크 2026",
+      "brand": "Industry-wide",
+      "type": "industry",
+      "why_ko": "중동 고액 자산가 수요가 집중되는 하드럭셔리 행사로, 구찌의 시계·주얼리 라인 및 중동 VIC 전략 점검 기회다.",
+      "why_en": "A key hard-luxury event concentrating Middle East HNWI demand; an opportunity to assess Gucci's watch/jewelry line and Middle East VIC strategy.",
+      "action_ko": "행사 기간(11/18~22) 중 경쟁 하우스 신제품·가격 포지셔닝 모니터링, 종료 후 T+48h 내 지역 전략 메모.",
+      "source": "WhatsHotInUAE / Chrono24",
+      "tier": 2,
+      "url": "https://whatshotinuae.com/dubai-watch-week-2026-insiders-playbook/"
+    },
+    {
+      "date": "2026-11-30~2026-12-06",
+      "event": "마이애미 아트 위크 / 아트 바젤 마이애미비치 2026",
+      "brand": "Industry-wide",
+      "type": "industry",
+      "why_ko": "럭셔리 브랜드-아트 콜라보 및 VIP 프리뷰가 집중되는 미국 문화 이벤트로, 구찌의 아트 파트너십·팝업 활성화 기회이자 경쟁사 아트 마케팅 동향 관찰 포인트.",
+      "why_en": "A concentrated US cultural moment for luxury-art collaborations and VIP previews; an activation opportunity for Gucci and a watch point for rivals' art-marketing moves.",
+      "action_ko": "VIP 프리뷰(12/2~3) 기간 중 경쟁사 활성화 스캔, 퍼블릭 데이(12/4~6) 종료 후 T+48h 내 문화마케팅 벤치마크 메모.",
+      "source": "Art Basel / Miami Tourism",
+      "tier": 2,
+      "url": "https://www.artbasel.com/miami-beach"
+    },
+    {
+      "date": "2026-12-07",
+      "event": "2027 골든글로브 노미네이션 발표",
+      "brand": "Industry-wide",
+      "type": "industry",
+      "why_ko": "노미네이션 발표 직후부터 시상식(2027/1/10)까지 어워즈 시즌 스타일링 경쟁이 본격화되며, 구찌 앰버서더 캐스팅 및 드레싱 전략의 사전 준비 데드라인이 된다.",
+      "why_en": "Nominations kick off the awards-season styling race through the January 10, 2027 ceremony, setting the deadline for Gucci's ambassador casting and dressing strategy prep.",
+      "action_ko": "노미네이션 발표(12/7) 직후 T+24h 내 후보 배우 드레싱 우선순위 리스트 확정.",
+      "source": "AwardsWatch / GoldDerby",
+      "tier": 2,
+      "url": "https://www.goldderby.com/film/2026/2027-golden-globes-timeline-eligibility-new-ai-rules/"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-2026-10-09-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press reports Kering stock drop tied to Gucci revenue decline and cautious analyst recovery outlook.",
+    "signal_tags": ["earnings", "stock", "analyst_sentiment", "turnaround"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-09-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral consumer backlash over 'Made in China' sneakers keeping unchanged $1,000 price tag damages provenance/value perception.",
+    "signal_tags": ["price_backlash", "provenance_controversy", "value_for_money", "social_virality"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-09-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade newsletter raises open questions about whether L'Oreal/Gucci Beauty relaunch will meet targets, no clear verdict given.",
+    "signal_tags": ["beauty_license", "trade_speculation"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-10-09-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community thread unfavorably compares Demna's Flora reissue to Michele-era runs and flags outlet/resale pricing concerns.",
+    "signal_tags": ["design_criticism", "peer_era_comparison", "resale_pricing", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-09-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregated community chatter describes Gucci resale intent weakening versus Chanel amid Marmont oversupply, but source is unverifiable single-post aggregation.",
+    "signal_tags": ["resale_value", "peer_comparison", "oversupply"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-10-09-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale-intent index shows Gucci trailing Chanel (27 vs 51 searches) with Marmont-driven price erosion, independent demand data.",
+    "signal_tags": ["resale_value", "quantified_data", "peer_comparison", "oversupply"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-09-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline-level report on accelerating store closures and headcount cuts tied to continued double-digit Gucci sales declines.",
+    "signal_tags": ["store_closures", "sales_decline", "cost_cutting", "negative_momentum"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-09-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Rolling pattern of Trustpilot reviews citing shipping delays, return friction, and slow service compared unfavorably to boutique experience.",
+    "signal_tags": ["service_complaints", "ecommerce_quality", "community"],
+    "confidence": 0.65
+  }
+]

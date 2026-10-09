@@ -1,0 +1,90 @@
+[
+  {
+    "id": "SEA-2026-10-09-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Criminal prosecution of sellers of counterfeit Gucci goods is a clear brand-authenticity controversy, headline-level.",
+    "signal_tags": [
+      "counterfeit",
+      "enforcement",
+      "controversy"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-09-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Secondary/background follow-up on the same counterfeit case, outside freshness window and explicitly flagged as not buzz-counted; low-confidence polarity demoted to neutral.",
+    "signal_tags": [
+      "counterfeit",
+      "background",
+      "low_confidence"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-10-09-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador activation write-up with no independent evaluative verdict for Gucci; other ambassadors drew more praise, not Gucci itself.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador",
+      "fandom"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-09-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely celebratory, press-kit-style activation coverage of ambassador appearance with no independent critical judgment of the brand.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-09-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Lifestyle interview with Gucci ambassador focused on personal life/investing, not brand evaluation; descriptive activation coverage only.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-09-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom-driven resharing of official posts with no organic public commentary; damped per fandom-spike trap rule.",
+    "signal_tags": [
+      "fandom",
+      "activation_coverage",
+      "sns"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-10-09-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual financial-calendar confirmation with no new performance figures; APAC softness is flagged as watch item, not a verdict.",
+    "signal_tags": [
+      "earnings_calendar",
+      "factual"
+    ],
+    "confidence": 0.6
+  }
+]

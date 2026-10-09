@@ -1,0 +1,91 @@
+[
+  {
+    "id": "EU-2026-10-09-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "China-made sneaker sourcing tied to investor unease, stock down 41.8% from high, Gucci revenue down 5%, Goldman Neutral on execution risk.",
+    "signal_tags": [
+      "earnings_momentum",
+      "sourcing_controversy",
+      "analyst_rating"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-10-09-002",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Kering CEO cites early recovery signals at Gucci amid broader creative-studio restructuring; hedged exec commentary, not independent verdict.",
+    "signal_tags": [
+      "executive_commentary",
+      "turnaround_narrative"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-10-09-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sector round-up flags China demand drag on Gucci specifically, with Barclays modeling Gucci organic revenue down 6%.",
+    "signal_tags": [
+      "negative_momentum_press",
+      "china_demand",
+      "analyst_forecast"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-09-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Gucci UK filing shows 28.4% revenue decline and near-collapsed operating profit, clear negative earnings press.",
+    "signal_tags": [
+      "negative_earnings",
+      "regional_performance"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-10-09-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Follow-up trade piece on Drip sneaker 'Made in China' labeling continuing to generate reputational friction for Made-in-Italy identity.",
+    "signal_tags": [
+      "sourcing_controversy",
+      "made_in_italy",
+      "follow_up"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-10-09-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained organic Instagram backlash against AI-generated campaign ('AI slop', compared to Zara) outweighs smaller defensive minority.",
+    "signal_tags": [
+      "ai_campaign_backlash",
+      "organic_opinion",
+      "brand_dilution"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-10-09-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Active enthusiast forum thread predominantly critical of Demna's SS2027 show ('tragedy', 'lack of vision'), womenswear sidelining a recurring complaint; minority praise noted but not majority view.",
+    "signal_tags": [
+      "design_criticism",
+      "runway_reaction",
+      "independent_judgment"
+    ],
+    "confidence": 0.7
+  }
+]

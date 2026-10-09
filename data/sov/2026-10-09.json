@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-09",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "구찌 + data/sources/pool.json의 competitor_set 전 브랜드(루이비통, 디올, 샤넬, 프라다, 보테가 베네타, 생로랑, 발렌시아가, 버버리)에 동일한 중립 검색 템플릿 적용",
+    "지역별 동일 쿼리 형식 사용: NEA는 '<브랜드> 뉴스'(한국어), SEA/NA/EU는 '<brand> news' 영어 기반 쿼리 (+지역 매체 보강 키워드), 브랜드당 동일 검색 횟수·동일 스캔 깊이",
+    "최근 약 7일(2026-10-02~2026-10-09) 내 명시적으로 날짜가 확인되는 기사만 집계; 날짜 불명확 또는 윈도우 밖 기사는 모든 브랜드에 동일하게 제외",
+    "패션/비즈니스 편집 기사만 집계(리뷰, 피처, 보도); 쇼핑몰 상품 페이지, 태그 모음 페이지, 동일 기사의 단순 재게시는 제외",
+    "집계는 있는 그대로 기록하며 특정 브랜드를 위해 수를 보정하거나 평탄화하지 않음",
+    "SEA는 지역 특화 매체(Tatler Asia 등) 검색 결과가 대부분 상시 콘텐츠로 날짜가 불명확해 전반적으로 수치가 낮게 나타남 — 이는 측정의 한계이며 보정하지 않음"
+  ],
+  "criteria_en": [
+    "Brands measured: Gucci + every brand in data/sources/pool.json competitor_set (Louis Vuitton, Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry)",
+    "Identical neutral query template per brand per region: NEA used '<brand> 뉴스' (Korean), SEA/NA/EU used '<brand> news' (English, SEA runs also appended regional-outlet keywords); same number of searches and same scan depth for every brand",
+    "Only articles with an explicit, verifiable publish date inside the ~7-day window (2026-10-02 to 2026-10-09) were counted; undated or clearly out-of-window items were excluded symmetrically for all brands",
+    "Counted distinct relevant editorial articles only (fashion/business news, reviews, features); excluded shopping/product listing pages, tag-aggregator pages, and duplicate reposts of the same story",
+    "Counts are recorded as observed, with no smoothing or normalization across brands",
+    "SEA region searches returned mostly evergreen/undated Tatler Asia-style content, which depresses all brand counts there equally — a measurement limitation, not a brand effect"
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 1,
+      "Dior": 4,
+      "Chanel": 2,
+      "Prada": 1,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 3,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "SEA": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 0,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    },
+    "NA": {
+      "Gucci": 1,
+      "Louis Vuitton": 1,
+      "Dior": 1,
+      "Chanel": 0,
+      "Prada": 1,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 0,
+      "Balenciaga": 1,
+      "Burberry": 0
+    },
+    "EU": {
+      "Gucci": 1,
+      "Louis Vuitton": 2,
+      "Dior": 0,
+      "Chanel": 1,
+      "Prada": 0,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 1,
+      "Balenciaga": 2,
+      "Burberry": 1
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": [],
+        "examples": []
+      },
+      "Louis Vuitton": {
+        "outlets": ["StarNews Korea"],
+        "examples": [
+          {"title": "리사, 루브르를 물들인 루이비통 라일락 러플 톱…복고풍 우아함의 극치[K-EYES]", "url": "https://www.starnewskorea.com/music/2026/10/09/2026100901204865554"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["일간스포츠", "WWD Korea", "패션서울", "Insight"],
+        "examples": [
+          {"title": "디올, LACMA 배경 '2027 크루즈 캠페인' 프리뷰 공개", "url": "https://isplus.com/article/view/isp202610080094"},
+          {"title": "디올 2027 크루즈 캠페인, 제니퍼 로렌스·그레타 리와 LACMA에서 만난 예술", "url": "https://www.wwdkorea.com/news/articleView.html?idxno=20321"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["News PIM", "Vogue Korea"],
+        "examples": [
+          {"title": "제31회 부산국제영화제 6일 개막…김민하·전도연·김도연, 샤넬 룩 선보여", "url": "https://www.newspim.com/news/view/20261007001125"},
+          {"title": "전도연부터 김민하까지, 부산국제영화제를 수놓은 샤넬 드레스", "url": "https://vogue.co.kr/2026/10/07/%EC%A0%84%EB%8F%84%EC%97%B0%EB%B6%80%ED%84%B0-%EA%B9%80%EB%AF%BC%ED%95%98%EA%B9%8C%EC%A7%80-%EB%B6%80%EC%82%B0%EA%B5%AD%EC%A0%9C%EC%98%81%ED%99%94%EC%A0%9C%EB%A5%BC-%EC%88%98%EB%86%93%EC%9D%80"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["Campaign Insight"],
+        "examples": [
+          {"title": "[해외 캠페인] 伊 명품 미우미우, 일상을 실용으로 재해석 '봄·여름 컬렉션'", "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=6398"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": [],
+        "examples": []
+      },
+      "Saint Laurent": {
+        "outlets": ["Vogue Korea", "GQ Korea", "Eyesmag"],
+        "examples": [
+          {"title": "생 로랑 보이, 앤톤", "url": "https://www.vogue.co.kr/2026/10/02/%EC%83%9D-%EB%A1%9C%EB%9E%91-%EB%B3%B4%EC%9D%B4-%EC%95%A4%ED%86%A4/"},
+          {"title": "생 로랑과 앤디 워홀이 바라본 것", "url": "https://www.gqkorea.co.kr/2026/10/03/%EC%83%9D-%EB%A1%9C%EB%9E%91%EA%B3%BC-%EC%95%A4%EB%94%94-%EC%9B%8C%ED%99%80%EC%9D%B4-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EA%B2%83/"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": [],
+        "examples": []
+      },
+      "Burberry": {
+        "outlets": [],
+        "examples": []
+      }
+    },
+    "SEA": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {
+        "outlets": ["Harper's Bazaar Singapore"],
+        "examples": [
+          {"title": "Bottega Veneta Embraces The In-Betweens (SS27 review, published Oct 2, 2026)", "url": "https://harpersbazaar.com.sg/fashion/runway/bottega-veneta-spring-summer-2027-review"}
+        ]
+      },
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["Inside Retail Australia"],
+        "examples": [
+          {"title": "Why Gucci's 'Made in China' sneakers are raising questions", "url": "https://insideretail.com.au/business/why-guccis-made-in-china-sneakers-are-raising-questions-202610"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Louis Vuitton Spring 2027 Ready-to-Wear Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/spring-2027/paris/louis-vuitton/review/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["Finimize"],
+        "examples": [
+          {"title": "Dior Shakes Up Its Board Ahead Of The Arnault Family Merger", "url": "https://finimize.com/content/dior-shakes-up-its-board-ahead-of-the-arnault-family-merger"}
+        ]
+      },
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {
+        "outlets": ["TipRanks"],
+        "examples": [
+          {"title": "Prada Sets Board Meeting to Approve Nine-Month Unaudited Revenues", "url": "https://tipranks.com/news/company-announcements/prada-sets-board-meeting-to-approve-nine-month-unaudited-revenues"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "EXCLUSIVE: Jodie Chan to Lead U.S. Communications and Marketing at Bottega Veneta", "url": "https://wwd.com/business-news/human-resources/jodie-chan-bottega-veneta-communications-marketing-us-1238928643/"}
+        ]
+      },
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Balenciaga and Manolo Blahnik Launch Three New Shoe Styles as Part of Their First Collaboration", "url": "https://wwd.com/footwear-news/shoe-industry-news/balenciaga-manolo-blahnik-launch-first-collaboration-1238973121/"}
+        ]
+      },
+      "Burberry": {"outlets": [], "examples": []}
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": ["L'essentiel"],
+        "examples": [
+          {"title": "Col relevé: Gucci relance une tendance des années 2000 jugée ringarde", "url": "https://lessentiel.lu/fr/story/esprit-des-annees-2000-autrefois-ringard-le-col-releve-revient-a-la-mode-103644713"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["Titres Presse (Figaro/Vogue syndication)"],
+        "examples": [
+          {"title": "Louis Vuitton et l'ergonomie, point final de la Fashion Week de Paris", "url": "https://www.titrespresse.com/24217282603/louis-vuitton-fashion"},
+          {"title": "Adieu la frange à clip : voici l'alternative inattendue de Louis Vuitton", "url": "https://www.titrespresse.com/24221152603/louis-vuitton-nicolas"}
+        ]
+      },
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {
+        "outlets": ["Yahoo News / Le Figaro (Vogue Paris rebrand report)"],
+        "examples": [
+          {"title": "Vogue Paris 'risks losing its soul' as city title 'could be dropped from cover'", "url": "https://news.yahoo.com/vogue-paris-risks-losing-soul-155749483.html"}
+        ]
+      },
+      "Prada": {"outlets": [], "examples": []},
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {
+        "outlets": ["Titres Presse (Figaro/Vogue syndication)"],
+        "examples": [
+          {"title": "Saint Laurent : quel était le clin d'œil à trouver dans le décor du défilé ?", "url": "https://www.titrespresse.com/23305812603/saint-laurent-anthony"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["Titres Presse (Figaro/Vogue syndication)"],
+        "examples": [
+          {"title": "Balenciaga, une leçon de mode comme un récif corallien", "url": "https://www.titrespresse.com/23637982603/balenciaga-pierpaolo-piccioli"},
+          {"title": "De Lauryn Hill à The Shards: chez Balenciaga, la culture se joue au premier rang", "url": "https://www.titrespresse.com/23637982603/balenciaga-pierpaolo-piccioli"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["FashionNetwork UK"],
+        "examples": [
+          {"title": "Burberry good news continues, CEO upbeat but stays cautious", "url": "https://uk.fashionnetwork.com/news/Burberry-good-news-continues-ceo-upbeat-but-stays-cautious,1831983.html"}
+        ]
+      }
+    }
+  }
+}
