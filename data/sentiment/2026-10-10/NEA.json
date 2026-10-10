@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NEA-2026-10-10-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent analyst scored Demna debut 7.6/10, calling it 'not a home run' and trailing Dior/Chanel, with shoes/handbags called boring",
+    "signal_tags": ["critic_review", "design_criticism", "peer_comparison"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-10-10-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Price cuts framed with deep consumer skepticism; shoppers favoring gold over bags, doubting cuts will win them back",
+    "signal_tags": ["price_cut", "value_for_money", "discount_image"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-10-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Made-in-China sneaker move criticized by analysts and a consultant as damaging provenance and luxury positioning",
+    "signal_tags": ["provenance_criticism", "manufacturing_controversy", "critic_review"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-10-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral Weibo recap of price cuts, 75 store closures, and 60% Kering profit drop despite narrowing revenue decline",
+    "signal_tags": ["negative_earnings", "store_closures", "viral_sns"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-10-10-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Largely descriptive Weibo recap of redesign, price cuts, and management overhaul framed as open question, no clear verdict",
+    "signal_tags": ["factual_recap", "management_change"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-10-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Korean community thread derisively mocks Made-in-China sneakers as forced cost-cutting, with strong organic engagement (145/256)",
+    "signal_tags": ["provenance_criticism", "community_backlash", "manufacturing_controversy"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-10-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Ginza event with ambassador/celebrity attendance, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "ambassador_news", "fandom"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-10-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-driven ambassador appointment announcement, descriptive, flagged as activation not organic sentiment",
+    "signal_tags": ["activation_coverage", "ambassador_news", "fandom"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-10-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Price-conscious Weibo analysis finds China prices still meaningfully higher than Europe even after cuts",
+    "signal_tags": ["value_for_money", "price_gap", "incidental"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-10-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Nikkei trade-press analysis argues inconsistent heritage strategy across creative directors has confused consumers and diluted brand coherence",
+    "signal_tags": ["design_criticism", "lost_its_way", "critic_review"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-10-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent blogger details 11 consecutive quarters of decline and ~100 store closures, describing the brand as having 'half-collapsed'",
+    "signal_tags": ["negative_earnings", "store_closures", "critic_review"],
+    "confidence": 0.75
+  }
+]

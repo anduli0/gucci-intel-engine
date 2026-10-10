@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-2026-10-10-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual financial-wire reporting on Vaccarello/Kering/stock, not evaluative of Gucci itself",
+    "signal_tags": ["kering_corporate", "financial_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-10-10-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official Kering press release, brand-owned PR about Saint Laurent, not public opinion on Gucci",
+    "signal_tags": ["official_press_release", "kering_corporate"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-10-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity-dressing/sponsorship activation write-up with no evaluative verdict",
+    "signal_tags": ["activation_coverage", "celebrity_dressing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-10-004",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press criticism of China-made sourcing undercutting 'Made in Italy' positioning, ongoing controversy",
+    "signal_tags": ["made_in_italy_controversy", "sourcing_criticism", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-10-10-005",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Neutral-rated analyst note flags Gucci turnaround execution risk as key swing factor, mild cautionary framing",
+    "signal_tags": ["analyst_note", "execution_risk", "stock_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-10-006",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Campaign reaction split between dismissive and approving comments, no dominant independent verdict; fandom/ambassador trap damped",
+    "signal_tags": ["activation_coverage", "fandom_spike", "mixed_reaction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-10-10-007",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic Instagram backlash calling AI campaign 'AI slop' and fast-fashion-like, mild as minority defends it",
+    "signal_tags": ["ai_campaign_backlash", "organic_comment_backlash"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-10-10-008",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum thread split but critical framing ('trashy', derivative of Demna's past work) dominates per thread title",
+    "signal_tags": ["forum_discussion", "design_criticism", "mixed_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-10-009",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Steady baseline collector forum activity, factual description of ongoing threads, no clear valence",
+    "signal_tags": ["community_baseline_activity"],
+    "confidence": 0.6
+  }
+]

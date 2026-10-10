@@ -1,0 +1,65 @@
+[
+  {
+    "id": "NA-2026-10-10-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering stock falls on cautious tone; Gucci flagged as only 'progress' while peers more resilient, and price target cut.",
+    "signal_tags": ["earnings_momentum", "peer_comparison", "analyst_sentiment"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-10-10-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Negative earnings press: Gucci comparable revenue fell 5%, price target cuts, investor skepticism on turnaround.",
+    "signal_tags": ["earnings_momentum", "analyst_sentiment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-10-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual macro/tariff research citing Gucci only incidentally as an example of exposed category.",
+    "signal_tags": ["macro_factual", "incidental_mention"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-10-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale/background campaign debate explicitly flagged as not a fresh signal, with split praise/criticism reaction.",
+    "signal_tags": ["fandom_spike", "stale_signal", "sns_debate"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-10-10-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic community complaints of design fatigue and quality drop-off versus older purchases, contradicting price positioning.",
+    "signal_tags": ["design_criticism", "quality_complaint", "value_for_money"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-10-10-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade-press verdict that Gucci turnaround remains incomplete; substantive but outside freshness window so damped.",
+    "signal_tags": ["trade_press_verdict", "turnaround_narrative", "stale_signal"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-10-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press questions whether L'Oreal's multibillion-euro ambition for Gucci Beauty is realistic amid directional uncertainty under Demna.",
+    "signal_tags": ["trade_press_verdict", "brand_direction_uncertainty"],
+    "confidence": 0.55
+  }
+]

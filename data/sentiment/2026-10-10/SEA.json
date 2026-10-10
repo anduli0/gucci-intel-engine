@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-10-10-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit enforcement story creates mild brand-authenticity risk even though Gucci is the victim, not the perpetrator",
+    "signal_tags": ["counterfeit", "legal_enforcement", "brand_authenticity_risk"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-10-10-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent analyst critique of mixed-origin manufacturing and pricing-trust confusion, compounded by steep markdowns, is organic negative commentary on quality/value trust",
+    "signal_tags": ["manufacturing_origin", "pricing_transparency", "quality_trust", "discounting"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-10-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador lifestyle interview with no evaluative verdict on the brand itself; activation-adjacent coverage discounted to neutral",
+    "signal_tags": ["activation_coverage", "ambassador", "lifestyle_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-10-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom-driven SNS amplification of an ambassador activation with no retrievable engagement metrics; fandom trap damps to neutral per rubric",
+    "signal_tags": ["fandom_spike", "activation_coverage", "ambassador", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-10-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebratory activation write-up describing an ambassador appearance at a brand-staged event with no independent critical verdict; activation-coverage discount applies",
+    "signal_tags": ["activation_coverage", "ambassador", "lifestyle_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-10-007",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent consumer-press review judges the Demna-era collection as marking a positive new creative era, qualifying as favorable third-party critical judgment",
+    "signal_tags": ["collection_review", "creative_direction", "favorable_critique"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-10-10-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual earnings-calendar confirmation with no new figures yet; APAC softness is referenced as established prior-quarter context rather than new negative data in this item",
+    "signal_tags": ["earnings_calendar", "macro_context", "apac_softness"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-10-10-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic user-generated TikTok store-visit content with no evaluative framing or retrievable engagement counts; documents volume, not opinion polarity",
+    "signal_tags": ["ugc", "sns", "retail_visit"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-10-10-010",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual listing of ambassador's concurrent brand portfolio with no evaluative verdict on Gucci itself; supplementary activation context",
+    "signal_tags": ["activation_coverage", "ambassador", "brand_portfolio"],
+    "confidence": 0.65
+  }
+]
