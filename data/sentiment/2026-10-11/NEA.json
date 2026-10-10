@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-10-11-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of show attendees/staging with no independent evaluative verdict from the outlet",
+    "signal_tags": ["activation_coverage", "fandom_spike", "runway_show"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-11-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade reporting on Made-in-China labeling with brand/Kering clarifying statements, no outlet verdict",
+    "signal_tags": ["sourcing_origin", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-11-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press analysis judges the launch reinforced rather than resolved skepticism about Chinese-made luxury",
+    "signal_tags": ["sourcing_origin", "brand_perception", "independent_critique"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-11-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Price-hike report with mixed consumer response (buy-now urgency vs hesitation), no clear net polarity",
+    "signal_tags": ["price_hike", "mixed_reaction"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NEA-2026-10-11-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Overseas Chinese community derides the Made-in-China sneaker design as undercutting luxury positioning",
+    "signal_tags": ["sourcing_origin", "design_criticism", "community_backlash"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-11-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed roundup combining candid admission of China missteps with forward-looking brand initiatives, net neutral",
+    "signal_tags": ["executive_commentary", "mixed_reaction", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-11-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer authentication inquiry reflecting counterfeit-related trust uncertainty, mild negative per trap guidance",
+    "signal_tags": ["counterfeit", "trust_concern"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-11-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical feature cites Gucci among brands implicated in collapsing luxury resale trust and values",
+    "signal_tags": ["resale_value", "brand_perception", "independent_critique"],
+    "confidence": 0.7
+  }
+]

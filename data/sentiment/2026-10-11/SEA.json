@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-10-11-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit Gucci/Chanel goods seized and destroyed, reflecting brand-authenticity risk per counterfeit trap guidance",
+    "signal_tags": ["counterfeit", "brand_authenticity_risk", "enforcement"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-10-11-002",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "T1 regional editorial on FW2026 Demna collection carries mild evaluative framing ('sleek and sexy') but is activation-derived, so capped at 0.5",
+    "signal_tags": ["activation_coverage", "collection_review", "demna"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-10-11-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent regional business analysis of Gucci's China sales shock and price cuts rattling broader luxury demand, clear negative momentum coverage",
+    "signal_tags": ["earnings_momentum", "china_softness", "regional_retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-11-004",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Coordinated Thai fan/ambassador front-row amplification is fandom-driven volume, damped to mild positive per fandom trap",
+    "signal_tags": ["fandom_spike", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-11-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Genuine unpaid fashion-forum consensus calling the SS27 collection 'vulgar' and predicting Demna's 'final season', organic design criticism",
+    "signal_tags": ["design_criticism", "community_sentiment", "creative_direction_risk"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-11-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Criminal charges over counterfeit Gucci eyewear, part of ongoing enforcement drumbeat signaling counterfeit market scale",
+    "signal_tags": ["counterfeit", "brand_authenticity_risk", "enforcement"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-10-11-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic TikTok price-comparison and 'is it worth it' chatter at Central Phuket mall with no clear positive or negative consensus stated",
+    "signal_tags": ["price_sensitivity", "value_for_money", "community_sentiment"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-10-11-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual earnings-calendar watch-item confirming Q3 2026 release date, no new figures or verdict yet",
+    "signal_tags": ["earnings_schedule", "macro_watch"],
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "EU-2026-10-11-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Financial wire ties 'Made in China' sourcing shift to stock weakness and analyst execution-risk warnings",
+    "signal_tags": ["earnings_momentum", "sourcing_controversy", "stock_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-10-11-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "On-record analyst/consultant criticism of 'Made in China' sneakers as price-value risk amid steep two-year revenue drop",
+    "signal_tags": ["sourcing_controversy", "price_value_dispute", "analyst_criticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-11-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Negative momentum press: Kering stock falls, net income collapses 60%, price targets cut",
+    "signal_tags": ["earnings_momentum", "stock_press", "analyst_downgrade"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-11-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-dressing activation write-up with promotional framing but no independent critical verdict on the garment",
+    "signal_tags": ["activation_coverage", "celebrity_dressing"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-10-11-005",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent critic review praises Demna's SS2027 show staging and creative repositioning",
+    "signal_tags": ["critic_review", "runway", "creative_direction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-11-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed thread: quality praise offset by explicit price-hike/value-for-money pushback, no single verdict",
+    "signal_tags": ["quality_perception", "price_value_dispute", "mixed_sentiment"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-11-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum posters genuinely split between praising campaign styling and criticizing execution directly",
+    "signal_tags": ["mixed_sentiment", "campaign_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-11-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Incidental meme/sound-trend brand-name buzz with no evaluative opinion, volume signal only",
+    "signal_tags": ["meme_trend", "incidental_mention"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-10-11-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Discussion centers on Saint Laurent/Vaccarello exit, not Gucci directly; included only as Kering-wide context",
+    "signal_tags": ["peer_context", "kering_leadership", "low_relevance"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-10-11-010",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Favorable trade-press criticism of Demna's creative reset, caveated by pending commercial proof",
+    "signal_tags": ["trade_press", "creative_direction", "favorable_criticism"],
+    "confidence": 0.65
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-2026-10-11-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Gucci-dressed guests at a brand-sponsored gala, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "red_carpet", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-11-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst forecasts Gucci Q3 revenue decline and price-target cut, a clear negative momentum signal ahead of earnings.",
+    "signal_tags": ["earnings_outlook", "analyst_rating", "momentum_negative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-11-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock decline tied directly to Gucci comparable revenue drop and investor skepticism on the turnaround.",
+    "signal_tags": ["earnings_outlook", "stock_move", "momentum_negative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-11-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press questions feasibility of Gucci Beauty relaunch amid broader directional uncertainty under Demna.",
+    "signal_tags": ["strategy_uncertainty", "licensing", "creative_direction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-11-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Macro tariff research citing Gucci as an exposed category is factual economic reporting, not brand evaluation.",
+    "signal_tags": ["macro_tariffs", "cost_pressure"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-10-11-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community QC complaints about current-production durability versus vintage pieces reflect a value-for-money/quality gap.",
+    "signal_tags": ["quality_complaint", "value_for_money", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-11-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Meme-audio trend name-checking Gucci alongside other brands is aesthetic/meme-driven, not brand sentiment per source framing.",
+    "signal_tags": ["meme_trend", "sns", "sov_mention"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-10-11-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Tabloid framing of the same Albies gown is titillation-driven incidental coverage, no clear evaluative judgment on the brand.",
+    "signal_tags": ["activation_coverage", "red_carpet", "tabloid"],
+    "confidence": 0.55
+  }
+]
