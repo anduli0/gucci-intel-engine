@@ -1,0 +1,139 @@
+{
+  "brand_group": "LVMH",
+  "date": "2026-10-12",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "LVMH",
+      "event_type": "earnings",
+      "headline": "LVMH, 오늘 장 마감 후 3분기 매출 발표—증권가는 유기적 성장률 1% 전후 전망, 주가는 52주 저점 근접",
+      "summary": "LVMH가 10월 12일 파리 증시 마감 후 3분기 매출을 발표한다. RBC는 그룹 매출 약 183억 유로(유기적 성장률 +1%, 컨센서스 대비 2%p 하회)를 전망했으며, 주가는 지난 금요일 종가 381.20유로로 연초 대비 40% 하락, 52주 저점(377.35유로)에서 1% 남짓 떨어진 수준에서 발표를 맞이했다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/lvmh-braces-for-october-12-revenue-test-as-rbc-and-jefferies-trim-targets/70225347",
+      "source": "ad-hoc-news (RBC 추정치 집계)",
+      "tier": "T2",
+      "published_at": "2026-10-12",
+      "why_it_matters": "LVMH 3분기 발표는 럭셔리 업종 전반의 수요 회복 여부를 가늠하는 가장 중요한 단일 지표다. 주가가 연초 대비 40% 빠진 상태에서 나오는 숫자인 만큼, 구찌의 자체 턴어라운드 서사도 이 업종 전반의 냉각 분위기를 배경으로 평가될 수밖에 없다—긍정적 숫자가 나와도 '업종 반등'과 '구찌만의 회복'을 혼동해서는 안 된다.",
+      "why_it_matters_en": "LVMH's Q3 print is the single most important demand barometer for the whole luxury sector; it lands with the stock down 40% year-to-date, so Gucci's own turnaround narrative will inevitably be read against this sector-wide chill — a sector-wide beat should not be mistaken for Gucci-specific recovery.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH",
+      "event_type": "earnings",
+      "headline": "아르마니 지분 인수설까지 겹치며 LVMH 실적 발표 전야 분위기 복잡—애널리스트 목표가 잇달아 하향",
+      "summary": "LVMH의 3분기 실적 발표를 앞두고 아르마니 지분 인수 가능성에 대한 보도까지 겹치면서 시장의 관심이 분산됐다. RBC와 제프리스는 9월 각각 목표가를 575유로→475유로, 510유로→440유로로 낮췄고, 양사 모두 2027년까지 럭셔리 수요 부진이 이어질 것으로 전망했다.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/armani-stake-talk-and-analyst-downgrades-frame-lvmh-s-pre-earnings-moment/70226529",
+      "source": "ad-hoc-news",
+      "tier": "T2",
+      "published_at": "2026-10-10",
+      "why_it_matters": "LVMH가 실적 부진 국면에서도 M&A(아르마니 지분)를 검토한다는 보도는 몸집을 불려 위기를 넘기려는 전형적 대응이다. 구찌가 속한 케링은 이런 M&A 군비경쟁에서 상대적으로 소극적인데, 이 격차가 장기적으로 브랜드 포트폴리오 다양성 경쟁력 차이로 벌어질 수 있다.",
+      "why_it_matters_en": "Reports that LVMH is weighing an Armani stake even amid earnings softness is a classic 'scale through the downturn' move; Kering has been comparatively passive on M&A, and this gap could widen into a portfolio-diversity competitiveness gap over time.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Christian Dior",
+      "event_type": "executive",
+      "headline": "크리스찬 디올 이사회, 아게슈 합병 앞두고 사외이사 교체 완료—11월 2일 1차 전환 표결 예정",
+      "summary": "크리스찬 디올이 니콜라 바지르·마리아 루이사 로로피아나 이사를 토니 에스탕게(파리올림픽 조직위원장)·자비에 뮈스카(前 크레디아그리콜 임원)로 교체했다. 아르노 가문은 아게슈·피낭시에르 아게슈를 디올에 합병해 'Agache SCA'로 전환하는 지배구조 단순화를 추진 중이며, 11월 2일 첫 전환 표결, 12월 본 합병 표결, 2027년 1분기 소수주주 현금 공개매수가 예정돼 있다.",
+      "url": "https://wwd.com/business-news/financial/christian-dior-board-members-replacement-estanguet-musca-1239332791/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-10-08",
+      "why_it_matters": "아르노 가문이 LVMH 지배력을 단일 상장 지주사(Agache SCA, LVMH 지분 49.76%·의결권 65.55% 직접 보유)로 집중시키는 작업은 승계 리스크를 선제적으로 낮추려는 조치다. 피노 가문 지배구조를 가진 케링·구찌에도 가족 지주사 재편의 선례로 주시할 가치가 있다.",
+      "why_it_matters_en": "The Arnault family's move to consolidate LVMH control into a single listed holding entity (Agache SCA, directly holding 49.76% of capital and 65.55% of voting rights) is a pre-emptive de-risking of succession; a precedent worth watching for Kering/Gucci's own Pinault-family governance structure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Dior",
+      "event_type": "campaign",
+      "headline": "디올, 2027 크루즈 캠페인에 제니퍼 로렌스·그레타 리·테일러 러셀 캐스팅—LACMA 전관 활용",
+      "summary": "디올이 10월 22일 매장 입고에 맞춰 공개할 2027 크루즈 컬렉션 캠페인을 LA카운티미술관(LACMA)에서 촬영, 샘 록이 사진을 맡고 제니퍼 로렌스·그레타 리·테일러 러셀·드류 스타키가 출연했다. 캠페인 이미지는 10월 초 각 매체를 통해 선공개됐다.",
+      "url": "https://wwd.com/fashion-news/fashion-features/jennifer-lawrence-greta-lee-dior-cruise-2027-campaign-lacma-1239309199/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-10-06",
+      "why_it_matters": "디올의 할리우드 A급 캐스팅 전략은 브랜드 자체 캠페인 노출일 뿐 소비자 반응이나 매출 전환의 증거는 아니다—뎀나 체제 구찌의 캠페인 노출도 동일한 잣대(활동 보도 ≠ 여론 개선)로 봐야 한다.",
+      "why_it_matters_en": "Dior's A-list Hollywood casting is brand-generated activation exposure, not evidence of consumer reception or sales conversion — the same discount should be applied when reading Gucci's own Demna-era campaign coverage (activation coverage is not public sentiment).",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "trend",
+      "headline": "루이비통 '포쉐트 아세소아르', 미니백 트렌드 속 베스트셀러 1위 유지—2차 리포트 기준 주의 필요",
+      "summary": "업계 2차 집계에 따르면 루이비통 모노그램 포쉐트 아세소아르가 틱톡 주도 '미니백 부활' 흐름 속에서 스피디·네버풀을 제치고 글로벌 판매 1위 모델 자리를 유지 중인 것으로 보도됐다. 공식 매출 공시가 아닌 리셀러·업계 트래킹 리포트 기반 수치다.",
+      "url": "https://collectorscage.com/blogs/guides/the-10-most-popular-louis-vuitton-bags-in-2026-which-to-buy-first-and",
+      "source": "CollectorsCage (업계 트렌드 리포트)",
+      "tier": "T3",
+      "published_at": "2026-10-04",
+      "why_it_matters": "신뢰도가 제한적인 3차 소스이지만, 미니백·입문가 액세서리가 메가브랜드 판매량을 견인하는 흐름은 여러 리포트에서 반복 확인되고 있다. 구찌의 입문 라인(지지·호스빗 미니 등) 포지셔닝에 직접 참고할 카테고리 트렌드다.",
+      "why_it_matters_en": "Despite being a lower-confidence tertiary source, the pattern of mini-bags and entry-price accessories driving mega-brand volume keeps recurring across reports; directly relevant category-trend context for positioning Gucci's own entry-tier lines (mini Jackie, Horsebit mini, etc.).",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Fendi",
+      "event_type": "executive",
+      "headline": "펜디, 마리아 그라치아 키우리 체제 안착 지속—로마 유산 중심 캠페인 일관 전개",
+      "summary": "마리아 그라치아 키우리가 올해 2월 밀라노 기성복, 7월 로마 쿠튀르 데뷔를 마친 뒤 펜디의 '로마 유산' 중심 캠페인을 가을/겨울 2026-27 시즌까지 일관되게 전개하고 있다.",
+      "url": "https://theimpression.com/fendi-lets-its-fall-2026-campaign-unfold-one-image-at-a-time/",
+      "source": "The Impression",
+      "tier": "T2",
+      "published_at": "2026-10-06",
+      "why_it_matters": "키우리의 펜디 안착은 빠르게 '단일 서사'(이번엔 로마 유산)를 구축하는 그녀의 반복 가능한 CD 플레이북을 보여준다. 다만 이는 브랜드 자체 캠페인 노출일 뿐 소비자 반응이나 매출 전환 증거는 아직 없다—뎀나의 구찌 서사 구축 속도와 비교할 때 과대평가하지 않도록 유의해야 한다.",
+      "why_it_matters_en": "Chiuri's quick settling at Fendi shows a repeatable CD playbook of fast single-narrative construction (Roman heritage this time, as she did at Dior), but this remains brand-generated campaign exposure, not evidence of consumer reception — a caution against over-reading pace relative to Demna's Gucci narrative-building.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Berluti",
+      "event_type": "retail",
+      "headline": "베를루티, 10월 16~18일 '주르네 파르티큘리에르' 참가—파리 비스포크 슈즈 공방 공개",
+      "summary": "베를루티가 10월 16일부터 18일까지 열리는 LVMH 그룹 행사 '주르네 파르티큘리에르 2026'에서 파리 마르뵈프 거리 비스포크 슈즈 제작 공방을 일반에 공개한다. 예약은 9월 24일부터 시작됐다.",
+      "url": "https://www.sortiraparis.com/en/what-to-do-in-paris/shopping-fashion/articles/281518-berluti-unveils-its-bespoke-shoe-workshop-for-journees-particulieres-2026",
+      "source": "Sortiraparis",
+      "tier": "T2",
+      "published_at": "2026-10-09",
+      "why_it_matters": "LVMH 그룹 차원의 '장인정신 공개' 이벤트는 실적 둔화 국면에서도 헤리티지·크래프트맨십 서사로 가격 정당화를 지속하려는 그룹 공통 전략이다. 구찌도 로마·플로렌스 아틀리에 공개 행사의 빈도와 깊이를 벤치마킹할 만하다.",
+      "why_it_matters_en": "A group-wide 'craftsmanship open house' event is LVMH's common strategy to keep justifying price via heritage/craft storytelling even amid earnings softness; worth benchmarking the frequency and depth of Gucci's own atelier-access events in Rome/Florence.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Louis Vuitton",
+      "event_type": "show",
+      "headline": "루이비통, 니콜라스 게스키에르의 2027 봄/여름 컬렉션으로 파리 패션위크 폐막—K팝 앰버서더 동원",
+      "summary": "루이비통이 10월 6일 파리 루브르 쿠르 카레에서 니콜라스 게스키에르 디자인의 2027 봄/여름 여성 컬렉션을 선보이며 파리 패션위크를 마무리했다. 리사(블랙핑크)·필릭스(스트레이 키즈) 등 하우스 앰버서더가 참석해 소셜 미디어에서 큰 화제를 모았다.",
+      "url": "https://www.khaosodenglish.com/life/2026/10/09/lisa-turns-heads-at-louis-vuitton-show-in-paris-with-global-stars/",
+      "source": "Khaosod English",
+      "tier": "T2",
+      "published_at": "2026-10-09",
+      "why_it_matters": "루이비통은 K팝 앰버서더를 활용한 셀러브리티 동원력으로 쇼 노출을 극대화하고 있다. 구찌도 뎀나 체제에서 유사한 글로벌 앰버서더 전략의 ROI를 벤치마킹할 필요가 있다.",
+      "why_it_matters_en": "Louis Vuitton is maximizing show visibility via K-pop ambassador firepower; Gucci should benchmark the ROI of comparable global ambassador strategies under Demna.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Celine",
+      "event_type": "show",
+      "headline": "셀린느, 마이클 라이더의 2027 봄/여름 컬렉션 공개—'감성적 드레싱' 표방",
+      "summary": "마이클 라이더가 10월 3일 파리 아르시브 나시오날 정원에서 71개 룩의 셀린느 2027 봄/여름 컬렉션을 발표했다. 평론가들은 라이더 취임 이후 가장 확신에 찬 컬렉션이라고 평가했다.",
+      "url": "https://wwd.com/runway/spring-2027/paris/celine/review/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-10-03",
+      "why_it_matters": "셀린느가 라이더 체제에서 '세련되지만 과하지 않은' 여성상을 일관되게 구축하며 비평적 모멘텀을 쌓고 있다. 신임 크리에이티브 디렉터의 안착 속도는 구찌의 뎀나 체제와 비교 평가될 대상이다.",
+      "why_it_matters_en": "Celine under Michael Rider is building critical momentum with a consistent polished-but-restrained woman; the pace of a new CD settling in is a direct comparison point for Gucci's Demna era.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Loewe",
+      "event_type": "show",
+      "headline": "로에베, 맥컬러·에르난데스 2기 컬렉션 '2027 봄/여름' 공개—스페인 유산과 미국 스포츠웨어 혼합",
+      "summary": "잭 맥컬러와 라자로 에르난데스가 10월 2일 파리에서 로에베의 두 번째 정규 컬렉션을 발표했다. 평단은 대체로 긍정적이나 피날레 룩의 경직된 구조와 반복적인 스타일링은 지적받았다.",
+      "url": "https://www.highsnobiety.com/p/loewe-ss27/",
+      "source": "Highsnobiety",
+      "tier": "T2",
+      "published_at": "2026-10-02",
+      "why_it_matters": "로에베는 승계 초기 충격을 지나 두 번째 시즌에 자신들만의 언어를 찾아가는 단계로 평가받는다. 구찌 역시 뎀나 체제 2년차 전후 '자기 언어 확립' 단계의 평가 기준을 참고할 수 있다.",
+      "why_it_matters_en": "Loewe is assessed as moving past succession shock into finding its own design language in its second season; Gucci can reference this benchmark for evaluating Demna's own language-establishment phase.",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

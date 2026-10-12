@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-2026-10-12-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Goldman Sachs Neutral initiation and consensus Hold rating flag Gucci's turnaround as uncertain after >40% sales loss 2022-2025, clear negative momentum/earnings press.",
+    "signal_tags": ["earnings_momentum", "analyst_rating", "financial_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-12-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Pre-earnings volume spike coverage frames Gucci's still-negative comparable sales as the key risk factor ahead of Oct 22 print; hedged/conditional framing.",
+    "signal_tags": ["earnings_momentum", "financial_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-12-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of La Famiglia drop closing (what/where/who) without outlet evaluative verdict; brand-staged activation, not public opinion.",
+    "signal_tags": ["activation_coverage", "product_launch", "retail_strategy"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-12-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic celebrity repeat-wear of Gucci boots/GG pieces reads as favorable visibility, but is a fandom/ambassador-adjacent spike so magnitude damped per fandom trap.",
+    "signal_tags": ["celebrity_wear", "fandom_spike", "favorable_visibility"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-12-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Long-running US collector-forum thread alleging stitching separation, hardware tarnish, and disputed repair charges on current-production bags vs older Tom Ford-era quality.",
+    "signal_tags": ["quality_complaint", "organic_community", "durability"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-10-12-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregated consumer reviews cite straps separating, hardware tarnish, and Gucci customer service denying free repairs for apparent manufacturing defects.",
+    "signal_tags": ["quality_complaint", "customer_service", "organic_community"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-10-12-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified resale-market data shows Gucci bags holding only 55-80% (often 30-45%) of retail value with search interest weakening versus Chanel; organic value-for-money skepticism.",
+    "signal_tags": ["resale_value", "value_for_money", "third_party_data"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-12-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "US fashion-forum members organically describe Demna's runway debut pieces as 'cheap, dated' and comparable to Fashion Nova/parody, a clear negative creative-direction verdict.",
+    "signal_tags": ["design_criticism", "organic_community", "creative_direction"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-10-12-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic SNS backlash calling Gucci's AI-generated campaign imagery 'cheap' and 'lazy' for an Italian craftsmanship house; negative public reaction to activation is not subject to the promo discount cap.",
+    "signal_tags": ["ai_campaign_backlash", "organic_sns", "controversy"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-10-12-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Continued trade-press coverage of a discrimination/retaliation lawsuit against Gucci America; ongoing legal-reputational negative, no new escalation this week.",
+    "signal_tags": ["legal_controversy", "labor_reputational"],
+    "confidence": 0.6
+  }
+]
