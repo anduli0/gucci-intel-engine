@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NA-2026-10-13-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine after-hours stock-print with no driver cited; plain factual reporting.",
+    "signal_tags": ["stock_price", "factual"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-13-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 trade press carries sell-side analyst quote explicitly criticizing Gucci's lack of convincing creative direction and Kering's track record.",
+    "signal_tags": ["analyst_criticism", "creative_direction", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-13-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum debate centers on Vaccarello/Saint Laurent succession with no direct Gucci commentary; collector-inferred unease is not stated brand opinion.",
+    "signal_tags": ["community", "indirect", "succession_chatter"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-13-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic, sustained US consumer complaints about service, quality decline, and price-value mismatch across aggregate review platforms.",
+    "signal_tags": ["quality_complaint", "customer_service", "value_for_money", "organic"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-13-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed meme/parody and styling trend content with no clear evaluative verdict; ambiguous tone defaults to neutral per sarcasm trap.",
+    "signal_tags": ["sns", "meme", "fandom_spike", "ambiguous"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-10-13-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collector nostalgia explicitly frames current Demna-era output as derivative versus Tom Ford/Michele archives, a peer/era comparison trap against current Gucci; access was cache-indexed, moderating confidence.",
+    "signal_tags": ["peer_comparison", "nostalgia", "creative_direction", "community"],
+    "confidence": 0.55
+  }
+]

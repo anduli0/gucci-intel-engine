@@ -1,0 +1,324 @@
+{
+  "date": "2026-10-13",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "각 브랜드에 동일한 중립 질의 템플릿(\"<브랜드> 뉴스\"/\"<브랜드> ニュース\"/\"<브랜드> news\")을 지역별로 동일 횟수 실행했다 — Gucci를 포함한 8개 브랜드 모두 동일 횟수, 동일 스캔 깊이.",
+    "지역 언어 배정: NEA는 한국어+일본어 2라운드, SEA는 Tatler/Prestige 중심 영어 1라운드 + 일반 영어 뉴스 1라운드, NA는 일반 영어 뉴스(WWD/CNN/Yahoo Finance 등) 중심, EU는 프랑스/이탈리아어 질의 + 유럽 발 패션위크 영어 보도를 합산.",
+    "집계 대상은 패션/비즈니스 편집기사(뉴스, 리뷰, 피처)로 한정했고 쇼핑몰 상품 목록, 태그 아카이브 페이지, 동일 기사 재게재(중복)는 제외했다.",
+    "동일 기사가 여러 매체에 재배포된 경우 1건으로만 계산했다.",
+    "집계 가능한 근거(매체명, 대표 기사 URL 최대 2건)를 모든 브랜드×지역 조합에 대해 evidence 블록에 기록했다.",
+    "실제 커버리지가 적은 브랜드/지역은 0으로 정직하게 기록했으며 인위적으로 평탄화하지 않았다.",
+    "Gucci 전용 수집 풀이 아닌, 8개 브랜드 전부에 대한 대칭 수집 결과만 사용했다 (bias-control, gmai-formula §3.2d)."
+  ],
+  "criteria_en": [
+    "The same neutral query template (\"<brand> news\" / \"<brand> 뉴스\" / \"<brand> ニュース\") was run for every brand (Gucci + 7 competitors) with identical frequency and scan depth per region.",
+    "Regional language allocation: NEA used 2 rounds (Korean + Japanese); SEA used Tatler/Prestige-style English plus a general English news round; NA relied on general English news (WWD/CNN/Yahoo Finance etc.); EU combined French/Italian-language queries with European fashion-week English coverage.",
+    "Only fashion/business editorial articles (news, reviews, features) were counted; shopping listings, tag/archive pages, and reposted duplicates were excluded.",
+    "Identical articles syndicated across multiple outlets were counted once.",
+    "Evidence (outlet names, up to 2 example URLs) was recorded for every brand x region cell to make counts auditable.",
+    "Brands/regions with genuinely thin coverage were recorded as 0 rather than smoothed.",
+    "Counts come exclusively from symmetric per-brand collection, never from Gucci-targeted collection pools (bias-control, gmai-formula §3.2d)."
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 8,
+      "Louis Vuitton": 4,
+      "Dior": 2,
+      "Chanel": 5,
+      "Prada": 2,
+      "Bottega Veneta": 2,
+      "Saint Laurent": 0,
+      "Balenciaga": 1,
+      "Burberry": 3
+    },
+    "SEA": {
+      "Gucci": 3,
+      "Louis Vuitton": 2,
+      "Dior": 2,
+      "Chanel": 2,
+      "Prada": 2,
+      "Bottega Veneta": 1,
+      "Saint Laurent": 1,
+      "Balenciaga": 1,
+      "Burberry": 1
+    },
+    "NA": {
+      "Gucci": 4,
+      "Louis Vuitton": 3,
+      "Dior": 3,
+      "Chanel": 3,
+      "Prada": 3,
+      "Bottega Veneta": 3,
+      "Saint Laurent": 2,
+      "Balenciaga": 3,
+      "Burberry": 3
+    },
+    "EU": {
+      "Gucci": 2,
+      "Louis Vuitton": 3,
+      "Dior": 3,
+      "Chanel": 3,
+      "Prada": 2,
+      "Bottega Veneta": 2,
+      "Saint Laurent": 2,
+      "Balenciaga": 2,
+      "Burberry": 2
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": ["파이낸셜뉴스", "뉴스펭귄", "코리아데일리", "허프포스트코리아", "WWDJAPAN", "Yahoo!ニュース/WWDJAPAN", "Benzinga Japan", "AS-web"],
+        "examples": [
+          {"title": "140만원짜리 구찌 신발에 붙은 '메이드인 차이나'… '중국산 명품' 통할까", "url": "https://www.fnnews.com/news/202609280746109355"},
+          {"title": "「グッチ」のビューティライセンス喪失でコティに大打撃", "url": "https://www.wwdjapan.com/articles/2245390"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["PYMNTS", "Madame Figaro Japon", "Yahoo!ニュース", "Numero TOKYO"],
+        "examples": [
+          {"title": "Louis Vuitton Trademark Dispute Leads to Sales Slump in China", "url": "https://www.pymnts.com/news/retail/2026/louis-vuitton-trademark-dispute-leads-sales-slump-china/"},
+          {"title": "アクセサリー感覚で身につけたい、ルイ・ヴィトンの新作ウォッチ", "url": "https://madamefigaro.jp/fashion/261012-louis-vuitton-watch/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["마이데일리", "FASHIONSNAP"],
+        "examples": [
+          {"title": "디올, 조나단 앤더슨 첫 컬렉션 '디올 알프스' 공개", "url": "https://mydaily.co.kr/page/view/2026101213485762748"},
+          {"title": "「ディオール」が歴代13種のフレグランスを復刻", "url": "https://www.fashionsnap.com/article/2026-09-25/dior-13-revival/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["머니투데이", "보그코리아", "서울경제", "CNN/ABC17", "Numero TOKYO"],
+        "examples": [
+          {"title": "샤넬 패션쇼서 임신 공개…모델 최소라, 딸 품에 안고 '엄마 미소'", "url": "https://mt.co.kr/entertainment/2026/10/12/2026101213095216351"},
+          {"title": "After a re-energizing year, Chanel takes flight", "url": "https://www.cnn.com/2026/10/06/style/chanel-paris-fashion-week-spring-summer-2027"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["캠페인 인사이트", "Prada Group (ja)"],
+        "examples": [
+          {"title": "[해외 캠페인] 프라다(Prada), '2027년 봄 컬렉션' 첫 공개", "url": "https://campaigninsight.co.kr/news/articleView.html?idxno=6476"},
+          {"title": "「プラダ サンダー」プロジェクトがスタート", "url": "https://www.pradagroup.com/ja/news-media/news-section/prada-thunder.html"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["WWD", "Numero TOKYO"],
+        "examples": [
+          {"title": "EXCLUSIVE: Jodie Chan to Lead U.S. Communications and Marketing at Bottega Veneta", "url": "https://wwd.com/business-news/human-resources/jodie-chan-bottega-veneta-communications-marketing-us-1238928643/"},
+          {"title": "宮沢りえ、玉森裕太、RIIZEソンチャンら出席「ボッテガ・ヴェネタ」2027年サマーコレクション", "url": "https://numero.jp/news-20261008-bottegaveneta/"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": [],
+        "examples": []
+      },
+      "Balenciaga": {
+        "outlets": ["Madame Figaro Japon"],
+        "examples": [
+          {"title": "クチュールを日常へと落とし込む。ピエールパオロ・ピッチョーリによる2027年春夏バレンシアガ。", "url": "https://madamefigaro.jp/fashion/261009-balenciaga-2027ss-collection-report/"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["더구루", "日本経済新聞"],
+        "examples": [
+          {"title": "신라면세점, 홍콩공항서 '향수 마켓'", "url": "https://theguru.co.kr/news/article.html?no=107996"},
+          {"title": "バーバリーが黒字転換 スカーフとアウターがけん引", "url": "https://www.fashionsnap.com/article/2026-05-18/burberry-26fy/"}
+        ]
+      }
+    },
+    "SEA": {
+      "Gucci": {
+        "outlets": ["Tatler Asia", "AsiaOne", "Metro.style"],
+        "examples": [
+          {"title": "Singapore Artist Kelly Lim Talks Us Through Her Impressive Art Piece for Gucci's New Flagship", "url": "https://www.tatlerasia.com/lifestyle/arts/singapore-artist-kelly-lim-gucci-mbs-artwork"},
+          {"title": "Metro Just Met Tian Xiwei At Gucci In Singapore", "url": "https://metro.style/fashion/2026/5/22/pursuit-of-jade-chinese-actress-tian-xiwei-interview-with-metro-at-gucci-singapore-2130"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["Tatler Asia", "The Online Citizen"],
+        "examples": [
+          {"title": "Launch of Louis Vuitton City Guide Singapore", "url": "https://www.tatlerasia.com/the-scene/people-parties/launch-of-louis-vuitton-city-guide-singapore"},
+          {"title": "Louis Vuitton awarded S$900,000 in statutory damages in Singapore trademark infringement case", "url": "https://www.theonlinecitizen.com/2025/07/02/louis-vuitton-awarded-s900000-in-statutory-damages-in-singapore-trademark-infringement-case/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["Tatler Asia", "Abante (PH)"],
+        "examples": [
+          {"title": "Dior brings its Lady Dior House exhibition to Singapore", "url": "https://www.tatlerasia.com/style/fashion/dior-lady-dior-house-exhibition-singapore"},
+          {"title": "Anne flinex invitation ng Dior, LV sa Singapore Grand Prix", "url": "https://www.abante.com.ph/2026/10/11/anne-flinex-invitation-ng-dior-lv-sa-singapore-grand-prix/"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["Tatler Asia", "WWD"],
+        "examples": [
+          {"title": "Chanel Will Repeat Its Cruise 2026 Show in Singapore", "url": "https://wwd.com/fashion-news/fashion-scoops/chanel-replica-cruise-2026-show-singapore-1237692537/"},
+          {"title": "Chanel Debuts its New Online Fragrance and Beauty Boutique in Singapore", "url": "https://www.tatlerasia.com/style/beauty/chanel-new-online-fragrance-and-beauty-store-singapore"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["Tatler Asia"],
+        "examples": [
+          {"title": "Prada Beauty's first Singapore store opens at Raffles City", "url": "https://www.tatlerasia.com/style/beauty/prada-beauty-new-flagship-in-singapore-at-raffles-city"},
+          {"title": "Prada Beauty launches in Singapore", "url": "https://www.tatlerasia.com/style/beauty/prada-beauty-launches-in-singapore"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["Vogue Singapore"],
+        "examples": [
+          {"title": "Bottega Veneta's Corso tote gives the Intrecciato room to breathe", "url": "https://vogue.sg/bottega-venata-winter-2026"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": ["Tatler Asia"],
+        "examples": [
+          {"title": "Saint Laurent Brings the Stars Out for Its Ion Orchard Pop-Up", "url": "https://www.tatlerasia.com/style/fashion/saint-laurent-ion-orchard-pop-up-october-2022"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["Tatler Asia"],
+        "examples": [
+          {"title": "Balenciaga's New Couture Store Lets You Shop Its Rarest Pieces, Fresh From the Runway", "url": "https://www.tatlerasia.com/style/fashion/balenciaga-opens-couture-store-paris"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["Tatler Asia"],
+        "examples": [
+          {"title": "Tatler and Paragon present an exclusive showcase of Burberry's autumn-winter 2025 collection", "url": "https://www.tatlerasia.com/style/fashion/tatler-and-paragon-showcase-burberry-autumn-winter-2025-collection"}
+        ]
+      }
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": ["SCMP Style", "WWD", "CBS News", "Fashion Week Daily"],
+        "examples": [
+          {"title": "Style Edit: Gucci's cruise 2027 collection takes over Times Square in New York", "url": "https://scmp.com/magazines/style/fashion/fashion-news/article/3369756/style-edit-guccis-cruise-2027-collection-takes-over-times-square-new-york"},
+          {"title": "Gucci Cruise 2027 Ready-to-Wear Runway, Fashion Show & Collection Review", "url": "https://wwd.com/runway/resort-2027/new-york/gucci/review/"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["PYMNTS", "WWD"],
+        "examples": [
+          {"title": "Louis Vuitton Trademark Dispute Leads to Sales Slump in China", "url": "https://www.pymnts.com/news/retail/2026/louis-vuitton-trademark-dispute-leads-sales-slump-china/"},
+          {"title": "Keri Russell Is the Latest Star to Have a Mother-Daughter Moment During Paris Fashion Week", "url": "https://wwd.com/pop-culture/celebrity-news/keri-russell-daughter-louis-vuitton-paris-fashion-week-1239318686/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["WWD", "CBS News", "Manila Times/GlobeNewswire"],
+        "examples": [
+          {"title": "Dior and Venetian Heritage United Again for Venice Restoration", "url": "https://wwd.com/eye/lifestyle/dior-venetian-heritage-unite-venice-restoration-1238947336/"},
+          {"title": "Christian Dior: Continued growth in the third quarter of 2026", "url": "https://manilatimes.net/2026/10/13/tmt-newswire/globenewswire/christian-dior-continued-growth-in-the-third-quarter-of-2026/2444056"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["WWD", "CBS News", "CNN"],
+        "examples": [
+          {"title": "Stars Including Wes Anderson Came Out For the Paris Opera Ballet Gala", "url": "https://wwd.com/eye/parties/paris-opera-ballet-gala-chanel-rolex-1239342360/"},
+          {"title": "Chanel's Paris show: After a re-energizing year, the house takes flight", "url": "https://www.cnn.com/2026/10/06/style/chanel-paris-fashion-week-spring-summer-2027"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["TipRanks", "WWD"],
+        "examples": [
+          {"title": "Prada Sets Board Meeting to Approve Nine-Month Unaudited Revenues", "url": "https://tipranks.com/news/company-announcements/prada-sets-board-meeting-to-approve-nine-month-unaudited-revenues"},
+          {"title": "Prada Group Reports Strong Retail Sales Growth", "url": "https://www.tipranks.com/news/company-announcements/prada-group-reports-strong-retail-sales-growth"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["WWD", "FashionNetwork USA"],
+        "examples": [
+          {"title": "Bottega Veneta Unveils Boutique in New York's Meatpacking District", "url": "https://wwd.com/business-news/retail/bottega-veneta-boutique-meatpacking-district-1238358958/"},
+          {"title": "EXCLUSIVE: Jodie Chan to Lead U.S. Communications and Marketing at Bottega Veneta", "url": "https://wwd.com/business-news/human-resources/jodie-chan-bottega-veneta-communications-marketing-us-1238928643/"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": ["WWD", "FashionUnited UK"],
+        "examples": [
+          {"title": "Saint Laurent Has Confirmed the Departure of Anthony Vaccarello", "url": "https://wwd.com/fashion-news/designer-luxury/anthony-vaccarello-leaves-saint-laurent-exit-1239319050"},
+          {"title": "Saint Laurent Set for 'New Chapter'", "url": "https://wwd.com/fashion-news/designer-luxury/saint-laurent-new-chapter-chemena-kamali-vaccarello-1239335688"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["WWD"],
+        "examples": [
+          {"title": "Balenciaga and Manolo Blahnik Launch Three New Shoe Styles as Part of Their First Collaboration", "url": "https://wwd.com/footwear-news/shoe-industry-news/balenciaga-manolo-blahnik-launch-first-collaboration-1238973121/"},
+          {"title": "Balenciaga Smoothies and Fitness Bars Coincide with Techwear Launch", "url": "https://wwd.com/fashion-news/designer-luxury/balenciaga-wellness-smoothies-techwear-sport-1239011900/"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["Yahoo Finance", "The Street", "FashionNetwork"],
+        "examples": [
+          {"title": "170-year-old luxury fashion retailer quietly closes 21 stores", "url": "https://www.thestreet.com/retail/170-year-old-luxury-fashion-retailer-quietly-closes-21-stores-burberry"},
+          {"title": "Burberry good news continues, CEO upbeat but stays cautious", "url": "https://ww.fashionnetwork.com/news/Burberry-good-news-continues-ceo-upbeat-but-stays-cautious,1832087.html"}
+        ]
+      }
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": ["FashionNetwork India (EU show coverage)", "Numero"],
+        "examples": [
+          {"title": "Gucci's Demna blends aristocracy and pop culture at Milan Fashion Week", "url": "https://in.fashionnetwork.com/news/Gucci-s-demna-blends-aristocracy-and-pop-culture-at-milan-fashion-week,1870451.html"},
+          {"title": "Takeaways from Demna's first Gucci show", "url": "https://numero.com/en/fashion/fashion-week-en/demna-gucci-fall-winter-2026-2027-debut-show-milan/"}
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": ["SCMP Style (Paris)", "FashionUnited UK", "Le Bonbon"],
+        "examples": [
+          {"title": "Louis Vuitton unveils futuristic, minimalist SS27 collection at Paris Fashion Week", "url": "https://www.scmp.com/magazines/style/fashion/fashion-news/article/3369971/paris-fashion-week-louis-vuitton-ss27-louvre"},
+          {"title": "Ces rues parisiennes vont être rénovées par… Louis Vuitton !", "url": "https://www.lebonbon.fr/paris/news/rues-parisiennes-renovees-louis-vuitton/"}
+        ]
+      },
+      "Dior": {
+        "outlets": ["The National News", "Jing Daily (Paris coverage)", "Manila Times/GlobeNewswire"],
+        "examples": [
+          {"title": "Dior finds its voice as Saint Laurent goes for gold at Paris Fashion Week", "url": "https://www.thenationalnews.com/magazine/2026/09/30/dior-finds-its-voice-as-saint-laurent-goes-for-gold-at-paris-fashion-week/"},
+          {"title": "Christian Dior board replaces two members", "url": "https://manilatimes.net/2026/10/09/business/foreign-business/christian-dior-board-replaces-two-members/2442062"}
+        ]
+      },
+      "Chanel": {
+        "outlets": ["CNN Style (Paris)", "WWD"],
+        "examples": [
+          {"title": "Chanel's Paris show: After a re-energizing year, the house takes flight", "url": "https://www.cnn.com/2026/10/06/style/chanel-paris-fashion-week-spring-summer-2027"},
+          {"title": "Chanel Spring 2027 Ready-to-Wear Collection", "url": "https://wwd.com/fashion-news/shows-reviews/gallery/chanel-spring-2027-ready-to-wear-collection-1239314184/"}
+        ]
+      },
+      "Prada": {
+        "outlets": ["France24", "CNN Style (Milan)"],
+        "examples": [
+          {"title": "Prada's skirts take centre stage as Milan Fashion Week begins", "url": "https://www.france24.com/en/live-news/20260922-prada-s-skirts-take-centre-stage-as-milan-fashion-week-begins"},
+          {"title": "Miuccia Prada's radical dedication to the skirt", "url": "https://www.cnn.com/2026/09/24/style/miuccia-prada-skirt-milan-fashion-week"}
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": ["Artnet News (Milan)", "FashionNetwork USA (Milan)"],
+        "examples": [
+          {"title": "Bottega Veneta and Versace Deliver Art-Infused Debuts at Milan Fashion Week", "url": "https://news.artnet.com/art-world/bottega-veneta-and-versace-deliver-art-infused-debuts-at-milan-fashion-week-2693993"},
+          {"title": "Milan Fashion Week ends with Giorgio Armani, Bottega Veneta and Fila", "url": "https://us.fashionnetwork.com/news/Milan-fashion-week-ends-with-giorgio-armani-bottega-veneta-and-fila,1811629.html"}
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": ["Sortiraparis", "FashionUnited UK"],
+        "examples": [
+          {"title": "Paris Fashion Week: Saint Laurent electrifies the runway, Spring-Summer 2027 show in video", "url": "https://www.sortiraparis.com/en/what-to-do-in-paris/shopping-fashion/articles/271665-paris-fashion-week-saint-laurent-electrifies-the-runway-spring-summer-2027-show-in-video"},
+          {"title": "Saint Laurent confirms Anthony Vaccarello's departure after a decade", "url": "https://fashionunited.uk/news/people/saint-laurent-confirms-anthony-vaccarellos-departure-after-a-decade/2026100990793"}
+        ]
+      },
+      "Balenciaga": {
+        "outlets": ["Sortiraparis", "SCMP Style (Paris)"],
+        "examples": [
+          {"title": "Paris Fashion Week: Balenciaga Spring/Summer 2027, the show to revisit in images", "url": "https://www.sortiraparis.com/en/what-to-do-in-paris/shopping-fashion/articles/271706-paris-fashion-week-balenciaga-spring-summer-2027-the-show-to-revisit-in-images"},
+          {"title": "Balenciaga, Loewe and Maison Margiela unveil collections at Paris Fashion Week", "url": "https://www.scmp.com/magazines/style/fashion/fashion-news/article/3327950/paris-fashion-week-balenciagas-bold-hues-leather-loewe-and-no-nonsense-maison-margiela"}
+        ]
+      },
+      "Burberry": {
+        "outlets": ["WWD (Frasers stake)", "Hollandsworth/HL.co.uk"],
+        "examples": [
+          {"title": "Frasers Group Raises Its Stake in Burberry for the Second Time in a Week", "url": "https://wwd.com/business-news/financial/frasers-raises-stake-burberry-second-time-week-october-2026-1239342832"},
+          {"title": "Burberry axes CEO and dividend, warns on profit", "url": "https://www.hl.co.uk/news/burberry-axes-ceo-and-dividend-warns-on-profit"}
+        ]
+      }
+    }
+  }
+}

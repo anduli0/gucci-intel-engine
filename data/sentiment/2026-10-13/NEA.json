@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NEA-2026-10-13-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Neutral consumer budget-comparison framing, not an evaluative judgment of the brand",
+    "signal_tags": ["consumer_advice", "price_comparison"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-13-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Skeptical consumer-protection post on discounting cycle and staged scarcity marketing signals outlet/discount image damage",
+    "signal_tags": ["discount_image", "scarcity_marketing", "consumer_skepticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-13-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Collapsing price gap tied to durable markdowns and 10% APAC revenue decline reflects discount/outlet image and negative momentum",
+    "signal_tags": ["discount_image", "apac_decline", "resale_erosion"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-10-13-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press judgment finds Made in China sneaker exposes a persistent brand-origin prestige gap, a genuine controversy",
+    "signal_tags": ["manufacturing_provenance", "controversy", "independent_judgment"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-13-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-activation campaign write-up with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "collaboration", "music"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-13-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "High-engagement organic community thread sardonically circulating Gucci's business and design struggles",
+    "signal_tags": ["community_backlash", "design_criticism", "viral"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-13-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "T1 trade analyst scorecard is net critical of shoes, bags and silhouettes despite a passing numeric score",
+    "signal_tags": ["design_criticism", "trade_press", "runway_review"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-13-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregated headline recap of store closures, beauty license handover and continuing APAC sales declines signals unresolved brand struggle",
+    "signal_tags": ["store_closures", "earnings_decline", "licensing_change"],
+    "confidence": 0.75
+  }
+]
