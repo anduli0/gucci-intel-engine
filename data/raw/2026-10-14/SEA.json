@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "SEA-2026-10-14-001",
+      "region": "SEA",
+      "source": "Ad Hoc News (financial wire)",
+      "source_type": "news",
+      "tier": "T2_general",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/td-cowen-cuts-target-for-kering-stock-to-eur-235-00/70315303",
+      "published_at": "2026-10-13",
+      "title": "TD Cowen cuts Kering price target to EUR 235 amid Gucci recovery doubts",
+      "summary": "TD Cowen lowered its Kering price target from EUR 280 to EUR 235 on October 13, 2026, citing continued pressure on Gucci's turnaround. Kering shares fell about 2.4% intraday to EUR 207.90, well below their 52-week high. The note cites Asia-Pacific softness (alongside China) as a persistent drag on Gucci's recovery, directly bearing on the APAC/SEA growth outlook investors are watching.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "SEA-2026-10-14-002",
+      "region": "SEA",
+      "source": "BeautyVelle",
+      "source_type": "news",
+      "tier": "T3",
+      "url": "https://beautyvelle.com/2026/10/03/gucci-beauty-holiday-2026-limited-edition-collection/",
+      "published_at": "2026-10-03",
+      "title": "Gucci Beauty launches limited-edition Holiday 2026 makeup collection",
+      "summary": "Gucci Beauty released a Holiday 2026 limited-edition collection (two Blush De Beauté shades, three Rouge à Lèvres Mat lipsticks, one lip gloss) emphasizing shea butter and hyaluronic acid formulas in green-and-gold heritage packaging. The listed retailers (Macy's, Bloomingdale's, Sephora, Selfridges, Nordstrom, Saks) skew US/UK; no Southeast Asian retailer or regional launch date is mentioned, illustrating a recurring gap where Gucci Beauty global pushes do not explicitly localize for SEA markets.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 6,
+    "Louis Vuitton": 1,
+    "Dior": 1,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0
+  },
+  "collection_notes": "Freshness policy strictly applied (0-14 days from 2026-10-14; target 0-7 days). Extensive searches were run in English, Thai, Vietnamese, Indonesian, and Korean across news, SNS (X/Instagram/TikTok), and community (Pantip, Reddit, forums) channels using pool.json gucci_core keywords plus critical-angle terms (price hike/backlash, quality complaints, resale drop, boycott, 'overrated'/'lost its way', store closures, counterfeit/secondhand chatter). The public web did not yield any genuinely fresh (<=14 days) SEA-specific SNS or community item that could be verified with a working URL and a confirmed publish date; several promising leads failed verification: a Pantip (Thai forum) thread on NINGNING at the Gucci Primavera show was dated 2026-02-27 (229 days old) and the live page redirected to an inaccessible support page on refetch; an Indonesian fan-account X post about a Jin x Gucci Primavera billboard in Jakarta (Senayan City) was dated 2026-08-26 (49 days old); a Thai ambassador (Billkin/PP Krit) Milan Fashion Week SS27 X/Weibo moment was dated around 2026-09-25 (19 days old); a PTKOREA post on NINGNING's Gucci Primavera campaign dated 2026-10-08 (6 days old, within window) could not be verified because the source returned an HTTP 520 error on both the original and redirected URL. A VnExpress counterfeit-Gucci seizure story in Ho Chi Minh City (2026-05-26) and an Inside Retail Asia 'Made in China' sneaker critique (2026-09-29, 15 days old) were both excluded for exceeding the binding 14-day cutoff, even though they were the strongest critical-angle and community-adjacent (counterfeit/grey-market) items found for this region. Critical-angle searches on price hikes, quality complaints, resale drops, and boycotts surfaced mostly stale or China/global-market items with no fresh SEA-specific instance. Net result: this cycle's SEA pool is thin (2 items, both T2/T3 news, zero verified SNS or community items) -- this should be read as a genuine scarcity signal for today's run, not an artifact of under-searching."
+}

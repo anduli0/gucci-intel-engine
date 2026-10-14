@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SEA-2026-10-14-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst price-target cut citing Gucci turnaround doubts and APAC/SEA growth softness is negative momentum press from an independent third party.",
+    "signal_tags": ["negative_earnings_momentum", "analyst_commentary", "apac_softness"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-14-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned promo write-up of a holiday makeup collection with no SEA localization and no evaluative verdict; self-praise is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned_promo", "no_sea_localization"],
+    "confidence": 0.8
+  }
+]

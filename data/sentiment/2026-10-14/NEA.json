@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NEA-2026-10-14-001",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party Tmall demand data (70% new buyers, high-ticket purchases) shows genuine consumer purchase intent, not brand self-promo.",
+    "signal_tags": ["purchase_intent", "ecommerce", "demand_data"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-10-14-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual/informational price-gap breakdown with buying advice; no clear brand attitude expressed.",
+    "signal_tags": ["price_gap", "informational"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-14-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Industry debate piece explicitly split on China-made perception; no net polarity.",
+    "signal_tags": ["made_in_china", "industry_debate"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-14-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analysts quoted warn of image tension from China-made sneakers, set against 50% revenue decline and store closures.",
+    "signal_tags": ["made_in_china", "negative_momentum", "analyst_criticism"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-10-14-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade-press report of manufacturing disclosure plus Kering's own rebuttal; factual, not evaluative.",
+    "signal_tags": ["made_in_china", "factual_report"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-14-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuinely mixed trade reaction to Demna's runway debut (7.6/10 score, both praise and skepticism); no net polarity.",
+    "signal_tags": ["runway_review", "mixed_reaction", "trade_press"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-10-14-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit authentication request reflecting recurring community concern over fakes and quality perception.",
+    "signal_tags": ["counterfeit", "community_concern"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-10-14-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Mass store closures (125 globally) plus consumer mockery of dated store design ('grandma's house') and revenue decline context.",
+    "signal_tags": ["store_closures", "design_criticism", "negative_momentum"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-14-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Frames brand as in 'upheaval' with CEO change, steep price cuts, and ~75-100 store closures, questioning whether it's rational to buy.",
+    "signal_tags": ["negative_momentum", "price_cuts", "store_closures", "ceo_change"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-10-14-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Resale market collapse for Gucci items (5M won to 900K won) signals eroded resale value and trust.",
+    "signal_tags": ["resale_value_drop", "negative_momentum"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-10-14-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive new SLG product write-up with no evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-14-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Frames China manufacturing disclosure as a crack in the luxury provenance formula, questioning premium positioning.",
+    "signal_tags": ["made_in_china", "supply_chain", "premium_positioning_risk"],
+    "confidence": 0.55
+  }
+]
