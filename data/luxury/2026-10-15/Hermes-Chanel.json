@@ -1,0 +1,126 @@
+{
+  "brand_group": "Hermes-Chanel",
+  "date": "2026-10-15",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Chanel",
+      "event_type": "trend",
+      "headline": "샤넬, 마티외 블라지 효과로 중고 거래가가 정가를 웃도는 역전 현상 보도",
+      "summary": "WWD가 마티외 블라지 취임 이후 샤넬 수플리시모, 아키타입 토트 등 신작 백의 중고 거래가가 정가보다 13~15% 높게 거래되고 있다고 보도했다. 리얼리얼에서 '마티외 블라지' 검색량도 1년간 약 11,000% 폭증한 것으로 집계됐다.",
+      "url": "https://wwd.com/fashion-news/fashion-features/blazy-chanel-second-hand-prices-soaring-above-retail-1239345125/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-10-14",
+      "why_it_matters": "경쟁사 크리에이티브 디렉터 교체가 정가를 넘어서는 리세일 프리미엄으로 이어진 사례로, 이는 '블라지마니아'라는 신조어를 만든 실수요 현상이지만 생산량을 80~1,200개로 제한한 인위적 희소성 전략의 결과이기도 해 구찌의 뎀나 체제 수요 창출력과 직접 대비된다.",
+      "why_it_matters_en": "A rival CD transition driving resale premiums above retail (13-15%) and an 11,000% search-volume spike is a genuine demand signal dubbed 'Blazymania,' but it is also a function of deliberately constrained production runs (80-1,200 units per style) — a direct contrast point for evaluating demand-generation under Gucci's Demna era.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Chanel",
+      "event_type": "earnings",
+      "headline": "샤넬 파블로프스키, 블라지 취임 1년 매출 성장률과 중장기 목표 공개",
+      "summary": "샤넬 패션부문 회장 브루노 파블로프스키가 WWD 인터뷰에서 상반기 비교 매출이 16% 증가했다고 밝히며 블라지 취임 1년을 결산했다. 다만 그는 과열된 블라지마니아 열기를 연 5~7% 성장이라는 중기 목표로 관리하겠다고 선을 그었다.",
+      "url": "https://wwd.com/fashion-news/fashion-features/chanel-sales-growth-retail-strategy-matthieu-blazy-impact-1239312403/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-10-13",
+      "why_it_matters": "16% 매출 성장은 경쟁사 중 상위권 실적이며 Lyst 랭킹 연속 1위 등 모멘텀이 뚜렷하지만, 경영진이 스스로 '단기 열풍을 5~7% 장기 성장으로 희석하겠다'고 밝힌 것은 열풍이 지속 가능하지 않을 수 있다는 자체 인정이기도 하다. 구찌의 뎀나 체제 매출 반등 속도와 직접 비교 대상.",
+      "why_it_matters_en": "16% comparable revenue growth is a top-tier result and Chanel has topped Lyst rankings for two straight quarters, but management's own framing — intentionally diluting a short-term frenzy into a 5-7% medium-term target — is itself an admission that the current surge may not be sustainable at this pace. A direct benchmark for the pace of any Gucci revenue recovery under Demna.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "financial",
+      "headline": "UBS, 에르메스 등급을 '매도'로 하향 — 희소성 약화에 따른 순환적 수요 리스크 지적",
+      "summary": "UBS가 10월 5일 에르메스 등급을 중립에서 매도로 하향하고 목표가를 1,695유로에서 1,168유로로 낮췄다. 비할당(non-quota) 가방 비중 증가와 리세일 마진 정상화로 희소성 기반 가격결정력이 약화되고 있다는 분석이며, 주가는 52주 신저가를 기록했다.",
+      "url": "https://www.gurufocus.com/news/9108995/herms-faces-downgrades-from-goldman-sachs-and-ubs",
+      "source": "GuruFocus / Investing.com",
+      "tier": "T2_general",
+      "published_at": "2026-10-05",
+      "why_it_matters": "업계 최강 가격결정력을 가진 에르메스조차 '희소성 희석에 따른 순환적 수요화' 리스크를 투자은행으로부터 지적받은 것은, 희소성 전략에 의존하는 모든 하이엔드 하우스(구찌 포함)에 시사점을 준다. 10월 22일 Q3 실적 발표가 이 우려를 검증할 분수령이다.",
+      "why_it_matters_en": "Even the industry's strongest pricing-power house is being flagged by a major bank for scarcity dilution and more cyclical demand (stock hit a 52-week low) — a cautionary signal for any high-end house, Gucci included, that leans on scarcity narratives. The Oct 22 Q3 results will be the test of whether this concern is borne out.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "controversy",
+      "headline": "에르메스 버킨 반독점 소송, 9순회 항소법원에서 항소심 진행 중",
+      "summary": "에르메스가 버킨백 구매 시 다른 상품 구매를 강제했다는 반독점 소송에서, 1심 기각에 불복한 소비자 측이 항소했고 에르메스는 답변 서면에서 원고가 시장 경쟁 침해를 입증하지 못했다고 반박했다. 쟁점은 에르메스의 희소성 기반 할당 모델이 불법적 '타잉(tying)'에 해당하는지 여부다.",
+      "url": "https://www.thefashionlaw.com/hermes-urges-ninth-circuit-to-reject-appeal-over-birkin-antitrust-lawsuit/",
+      "source": "The Fashion Law",
+      "tier": "T2_trade",
+      "published_at": "2026-05-01",
+      "why_it_matters": "희소성 중심 영업 관행이 법적 리스크로 비화된 장기 사건으로 아직 최종 판결은 나오지 않았다. 구찌를 포함해 할당·대기 명단 방식을 쓰는 모든 하우스에 규제·소송 리스크의 선행 지표가 된다 — 배경 신호로서 계속 추적할 가치가 있다.",
+      "why_it_matters_en": "A long-running case testing whether scarcity-driven allocation practices constitute illegal tying remains unresolved before the Ninth Circuit; flagged here as background given no October ruling yet. It is a leading indicator of legal/regulatory risk for any house (including Gucci) using waitlist or allocation-based sales tactics.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Chanel",
+      "event_type": "campaign",
+      "headline": "샤넬, J12 워치 캠페인에 지젤 번천·클레망 샤베르노 캐스팅 — 옥스브리지 보트레이스 파트너십 연계",
+      "summary": "샤넬이 유니섹스 스포츠 워치 J12의 '물'이라는 기원 테마로 돌아간 신규 캠페인을 공개, 지젤 번천과 클레망 샤베르노를 기용했다. 옥스퍼드·케임브리지 보트레이스와의 신규 파트너십과 연계된 활동이다.",
+      "url": "https://fashionmagazine.com/style/chanel-j12-campaign/",
+      "source": "Fashion Magazine",
+      "tier": "T2_general",
+      "published_at": "2026-02-27",
+      "why_it_matters": "워치·주얼리 부문 앰버서더 캠페인 보도로, 이는 소비자 여론 개선 신호가 아니라 샤넬의 마케팅 활동 보도임을 분명히 해야 한다. 구찌 워치 부문의 셀러브리티 캐스팅 전략과 비교할 참고점.",
+      "why_it_matters_en": "Celebrity-casting campaign coverage for the watch/jewelry category — this is activation coverage, not a consumer-sentiment signal. Useful only as a reference point for Gucci's own watch-division ambassador strategy.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "retail",
+      "headline": "에르메스, 월밋(일리노이) 플라자 델 라고에 8,000평방피트 2층 부티크 오픈",
+      "summary": "에르메스가 일리노이주 윌밋 플라자 델 라고의 스페인 리바이벌 양식 건물에 8,000평방피트 규모 2층 부티크를 열었다. 시카고 골드코스트 외 일리노이 두 번째 매장이다.",
+      "url": "https://northshoreweekly.com/articles/herm-s-opens-two-story-boutique-at-plaza-del-lago-mspty08h",
+      "source": "North Shore Weekly",
+      "tier": "T2_general",
+      "published_at": "2026-10-01",
+      "why_it_matters": "미국 2선 교외 상권으로의 신규 매장 확장은 에르메스가 여전히 오프라인 매장망을 적극 확대하고 있음을 보여준다. 구찌의 매장 재편(축소) 전략과 대조적 방향성으로, 비교 지점이 된다.",
+      "why_it_matters_en": "A new boutique in a secondary US suburban market shows Hermès continuing to expand its physical retail footprint — a contrasting trajectory worth benchmarking against Gucci's own store-network rationalization.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Hermès",
+      "event_type": "executive",
+      "headline": "에르메스 신임 멘즈웨어 디렉터 그레이스 웨일스 보너 데뷔 예정 (2027년 1월) — 배경 신호",
+      "summary": "37년간 에르메스 남성복을 이끈 베로니크 니샤니앙의 후임으로 선임된 그레이스 웨일스 보너가 2027년 1월 파리 남성 패션위크에서 데뷔 컬렉션을 선보일 예정이다.",
+      "url": "https://www.businessoffashion.com/news/luxury/hermes-mens-artistic-director-veronique-nichanian-steps-down/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2025-10-20",
+      "why_it_matters": "메이저 하우스 CD 교체는 구찌의 뎀나 체제 평가와 비교할 레퍼런스가 되지만, 데뷔까지 아직 3개월 이상 남아 있어 당장의 시장 반응을 평가할 단계는 아니다. 1년 전 보도이므로 배경 맥락으로만 유지.",
+      "why_it_matters_en": "A major-house CD transition is a useful comparison point for Gucci's own Demna-era evaluation, but the debut is still 3+ months away so there is no fresh market reaction to assess yet. Carried only as background context given the original report is a year old.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Hermès",
+      "event_type": "controversy",
+      "headline": "PETA, 에르메스 악어가죽 농장 동물복지 논란 지속 제기",
+      "summary": "동물보호단체 PETA와 호주 Kindness Project 등이 에르메스 소유 악어 사육농장(PRI Farming)의 사육 환경을 비판하는 캠페인을 이어가고 있다. 에르메스 CEO 악셀 뒤마는 주주총회에서 농장이 생태계를 보호한다고 반박했으나 환경 전문가가 이를 반박했다.",
+      "url": "https://www.peta.org.uk/news/hermes-campaign/",
+      "source": "PETA UK",
+      "tier": "T3",
+      "published_at": "2025-11-01",
+      "why_it_matters": "악어가죽 공급망 윤리 논란은 에르메스 브랜드에 장기적 리스크로 남아있으며, 구찌를 포함한 하이엔드 가죽 하우스 전반의 ESG/소싱 투명성 요구 강화로 이어질 수 있는 업계 전반 리스크다.",
+      "why_it_matters_en": "The crocodile-leather supply-chain welfare controversy remains a persistent reputational risk for Hermès and signals industry-wide pressure on ESG/sourcing transparency that could extend to Gucci and other high-end leather houses.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Chanel",
+      "event_type": "show",
+      "headline": "샤넬, 마티외 블라지의 첫 메티에 다르 컬렉션을 서울에서 재연",
+      "summary": "샤넬이 마티외 블라지의 첫 메티에 다르 컬렉션(뉴욕 지하철 콘셉트)을 서울 퐁피두 한화 센터에서 아시아 최초로 재연했다. 제니, 지드래곤, 틸다 스윈튼 등이 참석했으며, 패션 president 브루노 파블로프스키는 서울을 "당연한" 선택이라 언급했다.",
+      "url": "https://wwd.com/fashion-news/designer-luxury/chanel-matthieu-blazys-metiers-d-art-collection-seoul-1238982708/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-10-10",
+      "why_it_matters": "샤넬이 2019년 이후 처음으로 메티에 다르를 서울에서 재연한 것은 한국 시장의 전략적 중요성을 재확인한다. 구찌 역시 한국 고객층에 대한 투자(이벤트, 리테일)를 경쟁사 대비 점검할 필요가 있다.",
+      "why_it_matters_en": "Chanel's first Seoul repeat of Métiers d'Art since 2019 underscores Korea's strategic weight for the house; Gucci should benchmark its own Korea-market investment against this scale of activation.",
+      "relevance": "benchmark opportunity"
+    }
+  ]
+}

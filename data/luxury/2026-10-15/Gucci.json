@@ -1,0 +1,139 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-10-15",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "NINGNING(aespa), 애틀랜타서 구찌 커스텀 룩 공개",
+      "summary": "구찌 글로벌 앰버서더인 에스파 NINGNING이 애틀랜타 현지 활동 중 커스텀 제작된 구찌 룩을 착용한 모습을 구찌 공식 채널이 10월 9일 공유했다. K팝 앰버서더 다수를 활용한 캠페인 활동의 연속선에 있는 사례다.",
+      "url": "https://www.fashiontimes.com/aespas-ningning-wears-custom-gucci-look-atlanta-global-brand-ambassador-15084",
+      "source": "Fashion Times",
+      "tier": "T2_general",
+      "published_at": "2026-10-09",
+      "why_it_matters": "앰버서더 노출은 브랜드 활동(activation) 보도이며 소비자 여론 개선의 증거로 해석해서는 안 됨 — 판매 전환 데이터가 뒤따르지 않으면 공허한 신호.",
+      "why_it_matters_en": "Ambassador exposure is activation coverage, not sentiment proof; without accompanying sales-conversion data this remains a marketing output, not evidence of consumer approval.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "CEO 프란체스카 벨레티니, 포브스 이탈리아 2026 톱매니저 100인 선정",
+      "summary": "구찌 CEO 프란체스카 벨레티니가 포브스 이탈리아가 발표한 2026년 이탈리아 톱 매니저 100인 명단에 포함됐다. 2025년 9월 취임 이후 턴어라운드 전략을 이끄는 인물로서의 위상이 외부 평가에서도 재확인된 사례다.",
+      "url": "https://forbes.it/2026/10/13/100-top-manager-forbes-italia-2026",
+      "source": "Forbes Italia",
+      "tier": "T2_general",
+      "published_at": "2026-10-13",
+      "why_it_matters": "경영진 외부 평판 지표는 참고 자료일 뿐 실적 개선의 증거는 아님 — 구찌의 매출 반등은 아직 분기 실적으로 입증되지 않았음.",
+      "why_it_matters_en": "External executive accolades are context, not proof of results — Gucci's sales rebound remains unproven in hard quarterly numbers.",
+      "relevance": "unrelated"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "trend",
+      "headline": "구찌 패들락백, 이베이 리셀 데이터서 530% 가치 급등 — 그러나 전반적 리세일 지표는 중위권",
+      "summary": "이베이 2026 리포트에 따르면 구찌 패들락백 리셀가가 530% 급등했고 재키백은 2016년 가격의 10배에 거래되는 등 특정 모델은 강세를 보였다. 다만 구찌의 12개월 리세일-인텐트 검색 점수는 100점 중 27점으로 샤넬(51점)에 크게 못 미쳐, 브랜드 전반의 희소성·재판매 매력은 경쟁사 대비 약한 것으로 나타났다.",
+      "url": "https://us.fashionnetwork.com/news/Louis-vuitton-gucci-burberry-maintain-resale-demand-ebay-report,1832314.html",
+      "source": "FashionNetwork",
+      "tier": "T2_general",
+      "published_at": "2026-05-15",
+      "why_it_matters": "일부 아이코닉 모델의 리셀 강세를 전체 브랜드 건전성과 혼동하면 안 됨 — 리세일-인텐트 점수 27점은 구찌의 희소성·브랜드 욕망도가 샤넬 대비 절반 수준에 그친다는 반대 신호임.",
+      "why_it_matters_en": "Resale strength in a handful of icon bags should not be read as overall brand health — a resale-intent score of 27 (vs Chanel's 51) is the counter-signal showing Gucci's desirability/scarcity still trails the category leader.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "구찌코리아, 국내 매장 효율화·축소 기조 지속",
+      "summary": "국내 매체 보도에 따르면 구찌코리아가 매출 둔화에 대응해 국내 매장 일부 철수 및 판매망 재편(백화점·공항 중심 전환)을 검토·추진 중이며, 이는 2030년까지 전 세계 매장 약 125곳을 닫는 케링의 'ReconKering' 구조조정 계획의 국내판 실행으로 풀이된다.",
+      "url": "https://www.hankyung.com/article/202604216866i",
+      "source": "Hankyung",
+      "tier": "T2_by_region",
+      "published_at": "2026-04-21",
+      "why_it_matters": "매장 축소는 비용 효율화이지 성장 신호가 아님 — 케링 CEO 스스로 일부 매장이 '할머니 집 같다'고 인정한 브랜드 노후화 문제가 구조조정의 배경임을 직시해야 함.",
+      "why_it_matters_en": "Store downsizing is cost efficiency, not a growth signal — Kering's own CEO conceded some Gucci stores 'look like grandmother's house,' underscoring the brand-dating problem driving this restructuring.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "구찌·로레알 뷰티 라이선스 전환, 2027년 중반으로 앞당겨 — 7월 체결 배경 재확인",
+      "summary": "구찌와 로레알이 체결한 50년 뷰티 라이선스 계약의 전환 시점이 당초 2028년 6월에서 2027년 중반으로 1년 앞당겨졌다. 기존 라이선스 보유사 코티는 조기 종료 대가로 약 4억 달러를 2026~2027년에 걸쳐 수령한다.",
+      "url": "https://www.globalcosmeticsnews.com/gucci-and-loreal-sign-50-year-exclusive-beauty-licensing-agreement/",
+      "source": "Global Cosmetics News",
+      "tier": "T2_trade",
+      "published_at": "2026-07-10",
+      "why_it_matters": "장기 라이선스 전환은 뷰티 사업 재건 의지를 보여주지만 실제 매출 기여는 2027년 중반 이후에나 가시화되므로, 단기 실적 반등 근거로 쓰기엔 시기상조.",
+      "why_it_matters_en": "The licensing switch signals beauty-rebuild intent, but revenue contribution will not materialize until mid-2027 at the earliest — premature to cite as near-term turnaround evidence.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "ambassador",
+      "headline": "중국 여배우 톈시웨이, 구찌 브랜드 앰버서더로 활동 지속",
+      "summary": "9월 공식 발표된 중국 여배우 톈시웨이(톈시)의 구찌 앰버서더 활동이 10월 들어서도 이어지고 있으며, 밀라노 행사 참석 등 중국 시장 겨냥 셀러브리티 전략의 연속성을 보여준다.",
+      "url": "https://jingdaily.com/intels/2026-09/21/gucci-names-chinese-actress-tian-xiwei-brand-ambassador",
+      "source": "Jing Daily",
+      "tier": "T2_by_region",
+      "published_at": "2026-09-22",
+      "why_it_matters": "중국 셀러브리티 앰버서더 확대는 중국 매출 둔화에 대한 마케팅 대응이지만, 구찌코리아의 매장 축소 사례처럼 아시아 전반의 근본적 수요 약화를 상쇄할지는 불확실.",
+      "why_it_matters_en": "Expanding Chinese celebrity ambassadors is a marketing response to China softness, but it remains unclear whether it offsets the broader Asia demand weakness reflected in store-reduction moves like Korea's.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "legal",
+      "headline": "구찌, 미국서 위조품 유통 업체 대상 상표권 소송 지속",
+      "summary": "구찌 아메리카는 2025~2026년에도 미국 내 위조품 유통 업체(LuxeBrands, IV Media, Stellar 등)를 상대로 상표권 침해·부정경쟁 소송을 제기해왔으며, 2026년 5월에는 일부 피고와 합의 및 영구 금지 명령이 성립됐다.",
+      "url": "https://www.law360.com/retail/articles/2481089",
+      "source": "Law360",
+      "tier": "T2_trade",
+      "published_at": "2026-05-01",
+      "why_it_matters": "지속적인 위조품 단속은 브랜드 가치 보호 활동이지만, 반복되는 소송 빈도 자체가 구찌 상품의 위조 타겟팅 규모를 보여주는 간접 지표이기도 함.",
+      "why_it_matters_en": "Ongoing counterfeit enforcement protects brand equity, but the sheer frequency of such suits is itself an indirect indicator of how heavily Gucci product lines are targeted for counterfeiting.",
+      "relevance": "unrelated"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "데므나의 구찌 크루즈 2027 타임스스퀘어 쇼 — 비평적 호평, 매출 전환은 미증명",
+      "summary": "2026년 5월 16일 뉴욕 타임스스퀘어 전체를 점거한 구찌 크루즈 2027 쇼는 데므나의 첫 메가 크루즈 컬렉션으로 비평가들의 폭넓은 호평을 받았으나, 케링 CEO 뤽 드 메오조차 '화제성을 매출로 전환할 수 있는가'라는 질문이 아직 미해결임을 인정했다.",
+      "url": "https://www.businessoffashion.com/articles/luxury/can-gucci-turn-attention-into-sales/",
+      "source": "Business of Fashion",
+      "tier": "T1",
+      "published_at": "2026-05-29",
+      "why_it_matters": "화제성과 비평적 호평은 매출 반등과 동일하지 않음 — 데므나 체제의 진짜 시험대는 2026년 하반기~2027년 분기 실적에서 판가름날 것.",
+      "why_it_matters_en": "Buzz and critical acclaim are not the same as a sales rebound — the true test of the Demna era will be decided in H2 2026/2027 quarterly results, not runway reviews.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "restructuring",
+      "headline": "케링 'ReconKering' 계획 — 2030년까지 구찌 매장 약 125곳 폐쇄",
+      "summary": "케링이 2026년 4월 발표한 ReconKering 구조조정 계획에 따라 2030년까지 전 세계 매장 250여 곳(이 중 절반이 구찌)을 폐쇄하고 매장 면적을 20% 축소하며 재고를 10억 유로 줄이는 다년 계획을 추진 중이다. 2022~2025년 사이 구찌는 45억 유로 이상의 매출을 상실, 60억 유로 선 밑으로 떨어졌다.",
+      "url": "https://retailboss.co/retailboss-co-luxury-kering-gucci-turnaround-2026/",
+      "source": "Retail Boss",
+      "tier": "verification_required",
+      "published_at": "2026-04-21",
+      "why_it_matters": "구조조정 규모(매장 125곳 폐쇄)는 구찌가 처한 매출 위기의 심각성을 수치로 보여주는 핵심 배경 지표로, 향후 모든 턴어라운드 서사를 평가하는 기준선이 됨.",
+      "why_it_matters_en": "The scale of restructuring (125 store closures) is the key baseline metric quantifying the severity of Gucci's sales crisis, against which every future turnaround claim should be measured.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "구찌 2025년 매출 22% 감소, 2026년 H1 들어 역성장 폭 축소 추세",
+      "summary": "구찌 2025년 전체 매출은 59억 9,200만 유로로 전년 대비 22% 감소했다. 2026년 1분기는 전년 동기 대비 -8%였으나 2분기엔 -2%로 역성장 폭이 좁혀지며 데므나 체제 초기 효과가 반영되고 있다는 해석이 나온다.",
+      "url": "https://us.fashionnetwork.com/news/Gucci-seemingly-on-cusp-of-turnaround,1857283.html",
+      "source": "FashionNetwork",
+      "tier": "T2_general",
+      "published_at": "2026-08-01",
+      "why_it_matters": "역성장 폭 축소는 바닥을 다지는 신호일 수 있으나 여전히 매출 감소가 지속 중이라는 사실 자체를 가릴 수 없음 — '턴어라운드 임박'은 경영진 프레이밍이며 아직 입증된 반등이 아님.",
+      "why_it_matters_en": "A narrowing decline may signal a bottoming-out, but it does not erase the fact that revenue is still falling — 'turnaround imminent' is management framing, not a proven rebound.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

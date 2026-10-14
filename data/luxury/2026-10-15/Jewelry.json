@@ -1,0 +1,152 @@
+{
+  "brand_group": "Jewelry",
+  "date": "2026-10-15",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gold market (Cartier/VCA/Tiffany/Bulgari cost base)",
+      "event_type": "trend",
+      "headline": "금 현물가, 10월 14일 트로이온스당 4,083달러로 1.9% 급락 후에도 연간 약 60% 급등세 유지",
+      "summary": "금 현물가가 10월 14일 전일 대비 1.88% 하락한 4,083.22달러를 기록했으나, 최근 1년간 약 60% 상승해 10월 중 한때 4,400달러 근접치를 찍었다. 세계금위원회 기준 1분기 주얼리 수요(물량)는 전년 대비 23% 감소했지만 수요 가치는 470억 달러로 역대 1분기 최고치를 기록했다.",
+      "url": "https://fortune.com/article/current-price-of-gold-10-13-2026/",
+      "source": "Fortune",
+      "tier": "T1",
+      "published_at": "2026-10-14",
+      "why_it_matters": "고급 주얼리 하우스 전체의 원가 구조가 금값 급등으로 눌리고 있으며 물량은 줄어도 객단가로 매출을 방어하는 패턴이 고착화 — 구찌가 주얼리 카테고리를 확장할 경우 동일한 '물량 감소·가격 상승' 압력에 직면할 것이라는 원가 리스크 시그널.",
+      "why_it_matters_en": "Gold at near-record levels is squeezing every fine-jewelry house's cost base, with volumes falling even as value holds up on higher price points — a direct cost-risk signal for any Gucci fine-jewelry expansion, not a comfortable tailwind.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "LVMH (Tiffany/Bulgari parent)",
+      "event_type": "retail",
+      "headline": "LVMH 'Les Journées Particulières' 6회차, 10월 16~18일 개막 — 뉴욕 티파니 주얼리 공방 공개 포함",
+      "summary": "LVMH가 13개국 71개 매장에서 45개 메종이 참여하는 대중 공개 행사 '레 주르네 파티큘리에르' 6회차를 10월 16일부터 18일까지 개최하며, 뉴욕에서는 티파니의 주얼리 디자인·제작 공방이 무료 일반 공개된다.",
+      "url": "https://hoodline.com/2026/09/lvmh-opens-tiffany-jewelry-workshop-doors-for-rare-free-peek/",
+      "source": "Hoodline",
+      "tier": "T2_general",
+      "published_at": "2026-10-13",
+      "why_it_matters": "LVMH가 공방 투명성을 체험 마케팅으로 전환해 '메이드인' 서사를 강화하는 행보 — 구찌가 플로렌스 공방 공개 등 유사 체험형 신뢰 구축 프로그램을 설계할 때 참고할 벤치마크이나, 이는 LVMH의 자체 기획 홍보 행사라는 점을 감안해야 한다.",
+      "why_it_matters_en": "LVMH is converting workshop transparency into experiential marketing to reinforce its craftsmanship narrative — a benchmark for any Gucci atelier-access program, though this is LVMH's own staged promotional event, not independent sentiment.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Van Cleef & Arpels",
+      "event_type": "retail",
+      "headline": "반클리프 아펠, 휴스턴에서 레거시 하이주얼리 비공개 전시 개최 — 집, 루도 등 아카이브 피스 공개",
+      "summary": "반클리프 아펠이 10월 13일 휴스턴의 한 역사적 저택에서 초청 전용 전시를 열어 집(Zip) 네크리스, 루도(Ludo) 브레이슬릿, 페어리·발레리나 클립 등 아카이브 하이주얼리 피스를 선보였다. 이는 리버오크스 지구 신규 매장 확장과 연계된 행보다.",
+      "url": "https://www.papercitymag.com/fashion/van-cleef-arpels-brings-legacy-jewels-houston-memorial-mansion/",
+      "source": "PaperCity Magazine",
+      "tier": "T2_general",
+      "published_at": "2026-10-13",
+      "why_it_matters": "반클리프가 2선 미국 상권(휴스턴)에 헤리티지 전시와 리테일 확장을 동시에 투입하는 것은 미국 고소득층 수요가 코스트 지역을 넘어 확산되고 있다는 신호 — 구찌의 미국 지역 리테일 전략에 지리적 참고점.",
+      "why_it_matters_en": "Van Cleef pairing a heritage exhibition with retail expansion in a secondary US market (Houston) signals affluent demand spreading beyond coastal hubs — a useful geographic data point for Gucci's own US retail strategy.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Van Cleef & Arpels",
+      "event_type": "campaign",
+      "headline": "반클리프 아펠, 제네바 전시 'The Story Continues' 진행 중 — 셀레스티얼 워치메이킹 테마 지속",
+      "summary": "반클리프 아펠이 제네바에서 진행 중인 전시 'The Story Continues'를 통해 워치 앤 원더스 2026에서 공개한 미드나이트 주르 뉘 페이즈 드 륀 등 셀레스티얼(천체) 테마 하이주얼리 워치 5종을 재조명하고 있다.",
+      "url": "https://www.watchadvisor.com/2026/10/vca-exhibition-geneva-2026/",
+      "source": "WatchAdvisor",
+      "tier": "T2_trade",
+      "published_at": "2026-10-12",
+      "why_it_matters": "반클리프가 신제품 출시 이후에도 몇 달간 동일 테마 전시를 순회시키며 스토리텔링 수명을 늘리는 전략 — 구찌가 컬렉션 출시 후 홍보 수명을 연장하는 콘텐츠 로드맵 설계에 참고할 포맷.",
+      "why_it_matters_en": "Van Cleef is extending a single product theme's storytelling life for months via touring exhibitions rather than one-off launches — a format worth studying for Gucci's post-launch content roadmap.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Boucheron",
+      "event_type": "campaign",
+      "headline": "부셰론, 뉴욕 크리스티에서 창립자 조명 회고전 'In Focus' 10월 18일까지 진행",
+      "summary": "부셰론이 뉴욕 크리스티에서 10월 9일부터 18일까지 약 80점의 역사·현대 작품을 전시하는 'Boucheron: In Focus — A Monograph of a Visionary'를 열고 있으며, 건축·자연·쿠튀르·혁신 4개 테마로 구성됐다.",
+      "url": "https://robbreport.com/style/jewelry/boucheron-christies-new-york-exhibition-1238753512/",
+      "source": "Robb Report",
+      "tier": "T2_general",
+      "published_at": "2026-10-09",
+      "why_it_matters": "케링 산하 부셰론이 경매 하우스와 손잡고 미국에서 헤리티지 서사를 강화하는 것은 같은 케링 지붕 아래 주얼리 사업부가 미국 시장 입지를 적극 넓히고 있다는 신호 — 구찌 경영진은 그룹 내 자원·마케팅 예산 배분 경쟁 구도로 인지해야 한다.",
+      "why_it_matters_en": "Kering-owned Boucheron partnering with an auction house to deepen its US heritage narrative signals the jewelry division actively expanding its American footprint — Gucci leadership should read this as an intra-group budget and attention rival, not just an external trend.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Patek Philippe",
+      "event_type": "trend",
+      "headline": "파텍 필립 밀라노 '워치 아트 그랑 엑스포지션', 10월 18일까지 500점 이상 전시 지속",
+      "summary": "파텍 필립이 밀라노 시티라이프 지구에서 7번째 그랑 엑스포지션을 10월 2일부터 18일까지 무료로 개최 중이며, 500점 이상의 시계와 희귀 공예 라이브 시연을 선보이고 있다. 이탈리아 한정판 7종도 함께 공개됐다.",
+      "url": "https://www.watchadvisor.com/2026/10/patek-philippe-watch-art-grand-exhibition-milan/",
+      "source": "WatchAdvisor",
+      "tier": "T2_trade",
+      "published_at": "2026-10-10",
+      "why_it_matters": "파텍이 역대 최대 규모 체험형 전시로 2주 이상 고객 체류를 유도하는 전략은 하이엔드 고객 몰입 경험의 표준을 계속 높이고 있음 — 구찌 플래그십/팝업이 경쟁해야 할 체험 기준선이 상향되고 있다는 뜻.",
+      "why_it_matters_en": "Patek's largest-ever immersive exhibition running over two weeks keeps raising the bar for high-end experiential retail — a rising baseline that Gucci's own flagship and pop-up experiences now have to compete against.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Tiffany & Co. (LVMH)",
+      "event_type": "launch",
+      "headline": "티파니, 하드웨어 컬렉션에 터쿼이즈·진주 추가한 신규 라인 10월 출시",
+      "summary": "티파니가 시그니처 '하드웨어' 컬렉션에 18캐럿 골드와 터쿼이즈, 아코야 진주를 결합한 9종의 신규 디자인을 2026년 10월부터 판매하기 시작했다.",
+      "url": "https://thedenizen.co.nz/coveted/tiffany-co-introduces-turquoise-and-pearls-to-its-iconic-hardwear-collection",
+      "source": "The Denizen",
+      "tier": "T2_general",
+      "published_at": "2026-10-08",
+      "why_it_matters": "티파니가 이미 검증된 아이콘 라인에 색채·소재 변주를 더해 신상품 사이클을 짧게 유지하는 전략은 카르티에 '러브 언리미티드'와 동일한 패턴 — 구찌 자체 아이코닉 라인(호스빗)의 변주 리듬이 경쟁사 대비 느린지 점검할 지점.",
+      "why_it_matters_en": "Tiffany iterating color/material variants on an already-proven icon mirrors Cartier's Love Unlimited pattern — worth checking whether Gucci's own icon (Horsebit) variation cadence is lagging rivals.",
+      "relevance": "benchmark opportunity"
+    },
+    {
+      "brand": "Rolex",
+      "event_type": "trend",
+      "headline": "롤렉스 셰익스피어 마스터스 등 스폰서십 행사 지속 — 브랜드 노출 채널로서 스포츠 마케팅 비중 재확인",
+      "summary": "롤렉스 상하이 마스터스(10월 7~18일)와 롤렉스 미들 시 레이스(10월 17일 출항)가 동시 진행되며, 롤렉스가 테니스·요트 등 다수의 글로벌 스포츠 타이틀 스폰서십을 통해 연중 상시 브랜드 노출을 유지하고 있음을 보여준다.",
+      "url": "https://www.atptour.com/en/news/shanghai-2026-atp-masters-1000-history-draw-schedule",
+      "source": "ATP Tour",
+      "tier": "T2_general",
+      "published_at": "2026-10-14",
+      "why_it_matters": "롤렉스가 스포츠 스폰서십을 통해 신제품 뉴스 없이도 상시적 브랜드 노출을 유지하는 모델은 구찌의 캠페인 의존적 노출 주기와 대비되는 벤치마크 — 다만 이는 롤렉스의 유료 스폰서십 활동으로, 유기적 소비자 반응과는 구분해야 한다.",
+      "why_it_matters_en": "Rolex sustaining year-round brand visibility through sports sponsorships independent of product news cycles contrasts with Gucci's campaign-dependent exposure pattern — though this is paid sponsorship activity, not organic consumer response, and should be read as such.",
+      "relevance": "benchmark opportunity"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Kering Jewelry (Boucheron/Pomellato)",
+      "event_type": "trend",
+      "headline": "케링 주얼리(부셰론·포멜라토·DoDo·킬린) 2026년 상반기 매출 14~20% 급성장, 2030년까지 두 배 목표",
+      "summary": "케링의 주얼리 사업부가 2026년 상반기 보고 기준 14%, 비교 기준 20% 성장했으며 2분기 매출은 전년 대비 15% 증가한 2억 5,200만 유로를 기록했다. 케링은 2030년까지 주얼리 매출 두 배 목표를 재확인했다.",
+      "url": "https://rapaport.com/news/kering-jewelry-sales-spike-amid-us-and-asia-demand/",
+      "source": "Rapaport",
+      "tier": "T2_trade",
+      "published_at": "2026-09-15",
+      "why_it_matters": "구찌와 같은 케링 지붕 아래 있는 부셰론·포멜라토가 패션 사업 부진 속에서도 두 자릿수 성장을 내는 것은 그룹 내 자원 배분 우선순위에 직접 영향 — 구찌 경영진은 그룹 내부에서 주얼리 사업부와의 투자 경쟁 구도를 상시 인지해야 한다.",
+      "why_it_matters_en": "Boucheron and Pomellato's double-digit growth inside the same Kering house as Gucci directly affects internal capital-allocation priorities — an ongoing intra-group investment rival for Gucci leadership to track.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Richemont",
+      "event_type": "earnings",
+      "headline": "리치몬트 FY2026 매출 11% 성장, 주얼리 부문이 성장 견인 — 다음 실적 발표는 11월 13일",
+      "summary": "리치몬트는 FY2026 전체 매출 224억 유로(불변환율 기준 +11%), 영업이익 +23%를 기록했으며 성장은 주로 주얼리 메종(반클리프 아펠, 카르티에)에서 나왔다. 차기 반기 실적은 11월 13일 발표된다.",
+      "url": "https://www.morningstar.com/stocks/richemont-earnings-strong-results-line-with-expectations-fairly-valued-overvalued-sector",
+      "source": "Morningstar",
+      "tier": "T2_trade",
+      "published_at": "2026-10-08",
+      "why_it_matters": "리치몬트 주얼리 부문의 견조한 성장은 워치·패션 부문 대비 주얼리가 럭셔리 내 상대적 안전자산임을 재확인 — 구찌(케링)의 패션 매출 부진과 대비되는 벤치마크로, 11월 13일 차기 실적 발표가 다음 체크포인트.",
+      "why_it_matters_en": "Richemont's jewelry-led growth versus softer watch/fashion segments reconfirms jewelry as luxury's relative safe haven versus Kering fashion softness — next checkpoint is the November 13 interim results.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Van Cleef & Arpels / Cartier / Tiffany / Bulgari",
+      "event_type": "controversy",
+      "headline": "반클리프·카르티에 등 최고급 주얼리 하우스, 랩그로운 다이아몬드 전면 거부 입장 재확인",
+      "summary": "반클리프 아펠 CEO 니콜라 보스가 랩그로운 다이아몬드는 자사 주얼리에 '전혀 고려하지 않는 선택'이라 밝혔으며, 카르티에·티파니·불가리·해리 윈스턴도 천연 다이아몬드만 사용하는 입장을 고수한다.",
+      "url": "https://us.fashionnetwork.com/news/Top-jewellery-ceos-say-lab-grown-diamonds-are-fashion-not-luxury,1090102.html",
+      "source": "FashionNetwork",
+      "tier": "T2_general",
+      "published_at": "2026-09-20",
+      "why_it_matters": "탑티어 메종들이 랩그로운을 '패션'으로 격하하며 희소성 서사를 강화하는 전략은 Z세대의 랩그로운 선호 확산과 정면 충돌하는 리스크 — 구찌 주얼리 확장 시 천연/합성 포지셔닝의 전략적 분기점.",
+      "why_it_matters_en": "Top houses doubling down on natural-only positioning collides with Gen Z's growing lab-grown appetite — a genuine strategic fork, not a clean win, if Gucci expands into fine jewelry.",
+      "relevance": "category trend"
+    }
+  ]
+}

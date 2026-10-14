@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SEA-2026-10-15-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press critique (Berenberg, Barclays, Milan consultant) flags Made-in-China sneaker provenance as damaging to luxury positioning, linked to price cuts.",
+    "signal_tags": ["manufacturing_controversy", "provenance", "analyst_criticism", "price_cuts"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-10-15-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic financial press on Kering stock drop, 60% net income decline and 5% Gucci revenue fall including APAC softness; analyst price-target cuts.",
+    "signal_tags": ["earnings_negative", "stock_decline", "apac_softness", "analyst_downgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-10-15-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own staged Milan Store Show post featuring Thai ambassadors; no independent evaluative verdict, so activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador_fandom", "brand_owned"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-15-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci priced and positioned in resale fair alongside mass-market designer peers rather than standing out as a value-holder, a mild softening signal versus hard-luxury houses.",
+    "signal_tags": ["resale_value", "peer_comparison", "secondary_market"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-10-15-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mixed organic TikTok reactions to Gucci pricing at a tourist-area mall, split between critical and sympathetic views with no clear consensus.",
+    "signal_tags": ["price_value_dispute", "organic_sns", "mixed_reaction"],
+    "confidence": 0.45
+  }
+]

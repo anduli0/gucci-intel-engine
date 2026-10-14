@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA-2026-10-15-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent sell-side price-target cut citing Gucci-specific turnaround doubts, not activation coverage.",
+    "signal_tags": ["analyst_rating", "earnings_momentum", "institutional"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-15-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consensus technically Neutral/Hold but commentary stresses persistent institutional skepticism specific to Gucci.",
+    "signal_tags": ["analyst_rating", "consensus_split"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-15-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Confirmed net store closures with Gucci taking the largest share, independent wire coverage, measurable retail-footprint negative.",
+    "signal_tags": ["store_closures", "retail_footprint", "earnings_momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-15-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent T1 trade-press praise for the collection but explicitly ranked below five peer houses, capping enthusiasm.",
+    "signal_tags": ["critic_review", "runway", "peer_comparison"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-15-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent editorial framing poses an open question on cultural resonance/conversion without a clear positive or negative verdict.",
+    "signal_tags": ["editorial_commentary", "commercial_conversion"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-10-15-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Genuine consumer community dispute over value-for-money and resale retention versus LV/Chanel; damped per community-volume rule.",
+    "signal_tags": ["value_for_money", "resale_value", "peer_comparison", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-15-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Creator sentiment genuinely split between nostalgia and disappointment with no clear net polarity or engagement metrics.",
+    "signal_tags": ["sns_sentiment_split", "creative_direction"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NA-2026-10-15-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent T1 trade-press criticism of strategy execution, explicitly noting failure to convert attention into sales.",
+    "signal_tags": ["critic_review", "strategy_criticism", "commercial_conversion"],
+    "confidence": 0.8
+  }
+]

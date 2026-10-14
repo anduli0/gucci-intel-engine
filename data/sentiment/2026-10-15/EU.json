@@ -1,0 +1,65 @@
+[
+  {
+    "id": "EU-2026-10-15-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock down 41% from high, Gucci cited as core weakness with -5% comp revenue and 60% net income drop",
+    "signal_tags": ["earnings", "stock_price", "momentum_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-10-15-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Analyst price-target cut framed around persistent caution on Gucci demand recovery, though revised target still implies upside",
+    "signal_tags": ["analyst_rating", "momentum_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-10-15-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering CEO praises Demna's shoppability but trade piece flags risk that broad-appeal collection excites no one in an emotion-led category",
+    "signal_tags": ["trade_press", "creative_direction_risk"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-10-15-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign cast/credits write-up with no evaluative verdict; brand-owned promo coverage",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-10-15-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive report of flagship window dressing tied to campaign, no quantitative traffic or evaluative judgment",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-10-15-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Third-party scraped view/engagement counts for official campaign reel; factual reach reporting with no expressed opinion",
+    "signal_tags": ["social_analytics", "verification_required"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-10-15-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector forum shows genuinely split sentiment, quality praise versus price/value complaints, with unconfirmed timestamps",
+    "signal_tags": ["community", "value_for_money", "quality"],
+    "confidence": 0.4
+  }
+]

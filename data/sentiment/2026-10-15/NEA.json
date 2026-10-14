@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NEA-2026-10-15-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Resale value data shows Dionysus and other classics dropping below 50% of retail, concluding Gucci is a poor investment versus Hermes/Chanel.",
+    "signal_tags": ["resale_value", "peer_comparison", "quantified_demand_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-15-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Explainer details 30% price cuts, planned ~130 China store closures, and eleven consecutive quarters of declining sales framed as a make-or-break turnaround.",
+    "signal_tags": ["negative_earnings", "store_closures", "restructuring"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-15-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer-forum post warns that genuine price cuts coexist with manufactured scarcity marketing tactics, undermining trust in Gucci's \"sold out\" claims.",
+    "signal_tags": ["scarcity_marketing", "consumer_trust", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-15-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 outlet reports Gucci closed two long-standing Shanghai stores amid an accelerating luxury retreat from China.",
+    "signal_tags": ["store_closures", "negative_momentum", "china_retreat"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-10-15-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reports deep global store-count cuts (1,700 to ~250) alongside a consumer quote likening Gucci stores to \"grandma's house,\" a clear design/image criticism.",
+    "signal_tags": ["store_closures", "design_criticism", "brand_image"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-10-15-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned activation coverage of the FW26 eyewear campaign with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-10-15-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity-ambassador promotion coverage with no independent brand verdict; falls under activation/fandom discount.",
+    "signal_tags": ["activation_coverage", "ambassador_appointment", "fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-15-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive photo write-up of the same ambassador promotion, no evaluative content.",
+    "signal_tags": ["activation_coverage", "ambassador_appointment", "fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-15-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-authenticity-check thread reflects ongoing consumer anxiety about fakes rather than brand-driven content; mild negative per counterfeit trap rule.",
+    "signal_tags": ["counterfeit_concern", "consumer_anxiety"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-15-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Frames up-to-40% price cuts as eroded brand pricing power and a forced repositioning away from \"cold luxury.\"",
+    "signal_tags": ["pricing_power", "brand_positioning", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-15-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reports an 18% quarterly revenue decline driven largely by weak Asia sales, continuing a multi-quarter downturn narrative.",
+    "signal_tags": ["negative_earnings", "asia_weakness"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-15-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reports softening domestic Korean sales for Gucci alongside Chanel as part of a broader luxury market slowdown.",
+    "signal_tags": ["negative_momentum", "market_slowdown"],
+    "confidence": 0.65
+  }
+]
