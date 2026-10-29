@@ -1,0 +1,141 @@
+[
+  {
+    "id": "EU-20261029-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press frames Gucci's ongoing sales decline as the group's persistent drag versus outperforming sister brands.",
+    "signal_tags": [
+      "earnings",
+      "momentum_press",
+      "peer_comparison"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261029-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "German financial wire: Kering shares hit yearly low on deepening Gucci decline; UBS cuts price target and earnings estimates.",
+    "signal_tags": [
+      "earnings",
+      "momentum_press",
+      "analyst_downgrade"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261029-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Citi cuts Kering target calling Q3 a 'real setback' for Gucci as sister-brand growth no longer offsets its shortfall.",
+    "signal_tags": [
+      "earnings",
+      "analyst_downgrade",
+      "momentum_press"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261029-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "French financial press reports Gucci Q3 sales fell 6%, dragging group revenue down, with analysts doubting a Q4 recovery.",
+    "signal_tags": [
+      "earnings",
+      "momentum_press",
+      "analyst_downgrade"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261029-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Forum members sharply criticize Demna's Spring 2027 collection as 'vulgar' and a 'pile of nothingness' with no positive counterpoint captured.",
+    "signal_tags": [
+      "design_criticism",
+      "fan_community"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261029-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Social reaction to the Milan show is explicitly polarized between admiring and mocking replies, not net positive or negative.",
+    "signal_tags": [
+      "social_reaction",
+      "polarized",
+      "fan_community"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261029-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting on de Meo's turnaround plan and price-cut strategy; informational, not public backlash sentiment.",
+    "signal_tags": [
+      "strategy",
+      "pricing",
+      "turnaround"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261029-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Italian consumer blog calls Gucci pricing 'insanely expensive' relative to perceived craftsmanship, citing a value-for-money backlash.",
+    "signal_tags": [
+      "value_for_money",
+      "price_criticism"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261029-011",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation coverage of a renovated Dubai flagship store with no independent evaluative verdict.",
+    "signal_tags": [
+      "activation_coverage",
+      "store_opening"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261029-012",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD interview on de Meo's structural reengineering plans is informational trade coverage without a clear evaluative verdict.",
+    "signal_tags": [
+      "strategy",
+      "trade_press",
+      "activation_coverage"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261029-013",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale guide reports weaker per-model retention bands (~55-70%, i.e. 30-45% value loss) for some Michele-era Gucci bag lines; not a verified blanket cross-brand figure, so magnitude capped.",
+    "signal_tags": [
+      "resale_value",
+      "per_model_data"
+    ],
+    "confidence": 0.75
+  }
+]

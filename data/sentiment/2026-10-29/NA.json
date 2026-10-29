@@ -1,0 +1,157 @@
+[
+  {
+    "id": "NA-2026-10-29-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 wire reports Q3 comp sales down 6%, worse than expected, undercutting turnaround narrative",
+    "signal_tags": [
+      "negative_earnings",
+      "momentum_press"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-29-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering ADRs slide 12% on Gucci sales decline; NA resilient-market framing tempered by depressed-base caveat",
+    "signal_tags": [
+      "negative_earnings",
+      "stock_reaction"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-10-29-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "NY flagship closure cited as context in footprint-rationalization narrative, older/contextual item",
+    "signal_tags": [
+      "store_closure",
+      "retail_footprint"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-10-29-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Kering raises store-closure target to 125+, offsetting NA resilient-market framing",
+    "signal_tags": [
+      "store_closure",
+      "retail_footprint"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-10-29-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual personnel/talent-flow story, explicitly non-evaluative",
+    "signal_tags": [
+      "personnel",
+      "factual"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-29-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive GucciCore campaign write-up with no independent evaluative verdict",
+    "signal_tags": [
+      "activation_coverage"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-29-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-dressing placement coverage, descriptive not evaluative of the brand",
+    "signal_tags": [
+      "activation_coverage",
+      "celebrity_dressing"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-10-29-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned X post promoting GucciCore campaign; self-praise is not public opinion",
+    "signal_tags": [
+      "activation_coverage",
+      "brand_owned"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-10-29-010",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic TikTok style-flex trend pairing Gucci with Nike; genuine but low-intensity fandom buzz, damped per fandom-trap",
+    "signal_tags": [
+      "fandom",
+      "organic_ugc"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-29-011",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent creator review gives mixed-to-cautiously-positive verdict on Demna-era reset; caveat tempers magnitude",
+    "signal_tags": [
+      "independent_review",
+      "creative_direction"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-29-012",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing organic community thread reflecting persistent frustration over unpredictable US price increases",
+    "signal_tags": [
+      "price_hike_backlash",
+      "organic_ugc"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-10-29-013",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit/authentication lawsuit against off-price sellers puts NA sourcing channels under scrutiny",
+    "signal_tags": [
+      "counterfeit",
+      "controversy"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-10-29-014",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critic argues Gucci under Demna has 'lost the plot' with sloppy, cheap-looking aesthetic, despite conceding commercial bet might work",
+    "signal_tags": [
+      "design_criticism",
+      "lost_its_way"
+    ],
+    "confidence": 0.75
+  }
+]

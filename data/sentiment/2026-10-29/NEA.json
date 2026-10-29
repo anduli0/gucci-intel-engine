@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NEA-2026-10-29-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering's record 16% stock drop tied directly to Gucci Q3 sales decline and store closures is negative momentum press.",
+    "signal_tags": ["earnings", "stock_decline", "store_closures", "china_slump"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-10-29-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Historic single-day stock drop plus CEO signaling pricing adjustments reflects negative brand/earnings momentum.",
+    "signal_tags": ["earnings", "stock_decline", "pricing_strategy", "china_slump"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-10-29-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst verdict that Gucci shows no convincing stabilization, amid a sharp stock sell-off, is clear negative trade-press criticism.",
+    "signal_tags": ["earnings", "stock_decline", "analyst_verdict", "china_slump"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-10-29-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Raised store-closure target and Gucci-led 9% direct-retail comp decline cited as main drag on group results.",
+    "signal_tags": ["store_closures", "earnings", "direct_retail_decline", "china_slump"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-10-29-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Shopper-community post on steep China price cuts framed around a denied price-protection complaint, a value-for-money/trust dispute, but low engagement and niche community limits intensity.",
+    "signal_tags": ["price_cut", "value_for_money", "trust_complaint", "china"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-10-29-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Incidental, low-engagement forum post merely noting surprise that Kering owns Gucci; no evaluative opinion on the brand.",
+    "signal_tags": ["incidental_mention", "low_engagement", "brand_awareness"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-10-29-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring counterfeit-authentication thread reflects ongoing counterfeit-market chatter, per rubric treated as mild negative.",
+    "signal_tags": ["counterfeit", "community_chatter"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-10-29-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of the GucciCore 2027 Cruise campaign with no independent editorial verdict; brand-owned activation discount applies.",
+    "signal_tags": ["activation_coverage", "campaign_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-29-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press recap of the Cruise collection's domestic retail rollout with no independent critical judgment; descriptive activation coverage.",
+    "signal_tags": ["activation_coverage", "campaign_launch", "retail_rollout"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-10-29-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan/entertainment coverage of ambassador Lino styled in Gucci during tour; fandom-spike coverage, not independent brand opinion, damped to neutral per fandom/activation trap.",
+    "signal_tags": ["fandom_trap", "ambassador_coverage", "activation_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-10-29-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Analysis piece on repeated Gucci store closures amid China weakness, framed as part of a broader slowdown yet still naming Gucci as the epicenter.",
+    "signal_tags": ["store_closures", "china_slump", "industry_context"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-10-29-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Confirms raised 125+ store-closure target and Gucci's 9% direct-retail comp decline as the single biggest drag on Kering's results.",
+    "signal_tags": ["store_closures", "earnings", "direct_retail_decline"],
+    "confidence": 0.9
+  }
+]

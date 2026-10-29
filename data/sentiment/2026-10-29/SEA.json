@@ -1,0 +1,158 @@
+[
+  {
+    "id": "SEA-2026-10-29-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Philippine business press covers sales drop, 11% Kering share slide, and management instability at sister brands.",
+    "signal_tags": [
+      "earnings",
+      "negative_momentum",
+      "corporate_instability"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-10-29-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Thai business media skeptical headline on continued sales decline, accelerating store closures, structural problems framing.",
+    "signal_tags": [
+      "earnings",
+      "negative_momentum",
+      "store_closures"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-10-29-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade press analytical piece on sector-wide Q3 traffic weakness; Gucci named with -9% own-store sales but framing is measured/structural rather than emotional.",
+    "signal_tags": [
+      "earnings",
+      "negative_momentum",
+      "sector_analysis"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-10-29-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Vietnamese media reports public backlash over 'Made in China' sneaker labeling, tied to brand image damage and revenue slide narrative.",
+    "signal_tags": [
+      "controversy",
+      "quality_image",
+      "made_in_china",
+      "organic_criticism"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-10-29-006",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Thai fan account enthusiasm over ambassadors Billkin and PP Krit at Milan show; genuine fan positivity but fandom volume, not independent brand judgment.",
+    "signal_tags": [
+      "fandom",
+      "ambassador",
+      "activation_coverage"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-10-29-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "National pride/soft-power story about Thai ambassadors' media impact; descriptive, no evaluative verdict on Gucci product.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador",
+      "fandom"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-10-29-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic Threads post names Gucci most overrated luxury brand, citing logos, poor leather quality, mass-market hype.",
+    "signal_tags": [
+      "design_criticism",
+      "quality_complaint",
+      "organic_criticism"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-10-29-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Vietnamese financial wire mirrors T1 sales-decline figures for local investor readership; plain factual tone, lower emotional charge.",
+    "signal_tags": [
+      "earnings",
+      "negative_momentum",
+      "wire_coverage"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-10-29-010",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Vietnamese fashion-business outlet frames turnaround trajectory as cautiously mixed, neither clearly positive nor negative.",
+    "signal_tags": [
+      "earnings",
+      "mixed_outlook"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-29-011",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "X trending-topic module surfacing recirculating fan chatter about ambassador PP Krit; fandom volume with no independent product judgment.",
+    "signal_tags": [
+      "fandom",
+      "ambassador",
+      "activation_coverage"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-10-29-012",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Weibo explainer on narrowing China/overseas price gap; practical buying-strategy discussion, not a sentiment statement about the brand.",
+    "signal_tags": [
+      "pricing",
+      "travel_retail",
+      "explainer"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-10-29-013",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector community thread shows mixed reactions to Demna's new bag drops, curiosity offset by pricing/design-novelty skepticism.",
+    "signal_tags": [
+      "community_opinion",
+      "mixed_reaction",
+      "pricing"
+    ],
+    "confidence": 0.6
+  }
+]
