@@ -32,7 +32,11 @@
 
 둘째, 2019년이다. 하모니 코린이 연출한 캠페인은 크루즈 선상의 열대 휴가를 무대로 삼았고, 산타클로스와 모래로 만든 눈사람이 등장했다[6][7]. 같은 해 11월 구찌는 '구찌 핀(Gucci Pin)'이라는 단기 팝업 포맷을 출범시켰는데, 첫 번째 테마가 기프트 기빙이었고 일본·미국·파리 등 다섯 곳에서 평균 5주간 운영됐다[8][6]. 즉, 캠페인·앱·팝업이 처음으로 한 세트가 된 해다.
 
+![2019 기프트 기빙 — 하모니 코린이 연출한 크루즈 선상의 열대 크리스마스. 미켈레식 복고와 GG 모노그램 리조트웨어](https://images-prod.anothermag.com/1200/0-0-1500-1000/azure/another-prod/390/2/392676.jpg "AnOther Magazine|https://www.anothermag.com/fashion-beauty/12078/gucci-gift-giving-campaign-2019-harmony-korine-christmas")
+
 셋째, 2020년이다. 팬데믹 한가운데서 미켈레는 1990년대 사무실 크리스마스 파티를 무대로 골랐다 — 마크 펙메지안이 촬영하고 아키놀라 데이비스 주니어가 연출했으며, 구찌 앱에는 콩가 라인 춤을 추는 아케이드 게임이 추가됐다[9][10]. 향수에 기대는 복고와 디지털 놀이의 결합이라는 미켈레의 공식이 가장 선명했던 해다.
+
+![2020 기프트 기빙 — 1990년대 사무실 파티 세트. 마크 펙메지안 촬영](https://www.russh.com/wp-content/uploads/2020/11/GUCCI-13.jpg "RUSSH|https://www.russh.com/gucci-2020-gift-giving-campaign/")
 
 넷째, 2021년이다. 이 해의 홀리데이 캠페인은 공개 아카이브에서 독립 보도가 확인되지 않는다(미확인). 구찌 100주년 '아리아(Aria)' 컬렉션과 발렌시아가와의 '해킹' 프로젝트가 그 해의 서사를 지배했고, 홀리데이는 그 연장선에서 소비됐을 개연성이 높다(가설).
 
@@ -46,7 +50,15 @@
 
 팝업부터 본다. 2019년 구찌 핀은 스마트폰 지도에 핀을 꽂는다는 개념에서 출발했고, 구찌 앱과 구글 지도에 위치 핀이 표시됐다[8]. 이후 2021년 마이애미 디자인 디스트릭트 팝업, 2022년 런던 사보이 호텔의 크리스마스 팝업이 이어졌고, 2024~2025년에는 파리·런던·선전·방콕에서 11~12월 내내 기프트 팝업이 운영됐다[12][13][3]. 이 팝업들의 공통 어휘가 지금 사이트 디자인의 원천이다 — 호스빗 모티프가 선물 상자의 봉인(seal)으로 변주되고, 레드와 그린이 벽면을 채우며, 웹 스트라이프가 리본 역할을 한다[3].
 
-윈도우는 더 넓게 퍼졌다. 기프트 테마의 쇼윈도는 청두·선전·로스앤젤레스·뉴욕·런던·밀라노의 플래그십을 동시에 바꿨고, 마이애미에서는 '마법에 걸린 스노 글로브'에서 영감을 얻은 설치물이 1월 7일까지 전시됐다[14][15]. 한국에서는 2023년 서울 가옥(Gucci Gaok)의 홀리데이 윈도우와 2024년 신세계 본점 외관 미디어 파사드가 같은 어휘를 썼다(미확인 — 공개 보도로 교차 확인되지 않음).
+![2019 구찌 핀 — 홍콩 하버시티 팝업. 레드·그린 벽면과 기프트 박스 진열](https://www.windowswear.com/wp-content/uploads/2019/11/Gucci-Pin-HK-Harbour-City_04.jpg "WindowsWear|https://www.windowswear.com/get-your-holiday-shopping-done-at-guccis-new-immersive-pop-up/")
+
+![2022 런던 사보이 호텔 크리스마스 팝업 — 발리제리아(여행 가방) 컬렉션 중심의 구성](https://hips.hearstapps.com/hmg-prod/images/gucci-valigeria-at-the-savoy-2-1668688322.jpg "Elle Decoration|https://www.elledecoration.co.uk/lifestyle-culture/a41990554/gucci-savoy/")
+
+![기프트 팝업의 포장 어휘 — 호스빗을 봉인으로 변주한 선물 상자와 웹 스트라이프 리본](https://assets.rain-mag.com/wp-backup/2023/11/IMG_7395-1-scaled.jpeg "Rain Magazine|https://rain-mag.com/gucci-unveils-holiday-elegance-with-new-gift-campaign")
+
+윈도우는 더 넓게 퍼졌다. 기프트 테마의 쇼윈도는 청두·선전·로스앤젤레스·뉴욕·런던·밀라노의 플래그십을 동시에 바꿨고, 마이애미에서는 '마법에 걸린 스노 글로브'에서 영감을 얻은 설치물이 1월 7일까지 전시됐다[14][15].
+
+![마이애미 디자인 디스트릭트 — 스노 글로브에서 영감을 얻은 홀리데이 설치물](https://luxferity.com/up/shop-news/gucci-festive-themed-installation-in-miami-holiday-season-2-1200x799.jpg "Luxferity|https://luxferity.com/brand/gucci/news/gucci-unveil-festive-themed-installation-miami-celebrate-holiday-season") 한국에서는 2023년 서울 가옥(Gucci Gaok)의 홀리데이 윈도우와 2024년 신세계 본점 외관 미디어 파사드가 같은 어휘를 썼다(미확인 — 공개 보도로 교차 확인되지 않음).
 
 정리하자면, 구찌의 크리스마스 공간 디자인은 미켈레 시대에 만들어진 팝업 어휘가 데 사르노 시대에도 그대로 승계된 드문 사례다. 크리에이티브 디렉터가 바뀌어도 홀리데이의 색과 기호는 바뀌지 않았다 — 이것이 '구찌 × 크리스마스'를 브랜드 자산으로 볼 수 있는 근거다.
 
@@ -54,11 +66,15 @@
 
 사바토 데 사르노의 세 번의 홀리데이는 미켈레의 공식을 버리지 않고 정리했다. 2023년 기프트 기빙은 앤서니 세클라우이가 촬영하고 마르셀 레브가 연출했으며, 미켈레식 복고 세트 대신 절제된 공간과 제품 중심 구도를 택했다[4]. 2024년에는 캠페인이 '챕터' 구조로 분할됐다 — 하나의 영화가 아니라 네 개의 챕터가 11~12월에 걸쳐 순차 공개되는 방식으로, 캠페인을 시즌 전체에 걸쳐 늘여 쓰는 전략이었다[16][17]. 2025년은 산·저택·미스터리 엘리베이터 등 네 개의 글로벌 목적지를 무대로 삼아 챕터 구조를 유지했다[18].
 
+![2025 홀리데이 캠페인 — 네 개의 글로벌 목적지, 데 사르노 시대의 절제된 제품 중심 구도](https://assets.mega-asia.com/wp-content/uploads/2024/12/mega-gucci-holiday-gift-campaign.jpg "MEGA Asia|https://mega-asia.com/fashion/the-gucci-holiday-campaign-2025-takes-us-to-four-global-destinations/")
+
 이 변화의 의미는 두 가지로 읽어야 한다. 첫째, 포맷은 승계됐다 — 영화·팝업·윈도우의 세 축은 그대로다. 둘째, 톤은 교체됐다 — 미켈레의 '세계관 초대'가 데 사르노의 '제품 전시'로 돌아갔다. 즉, 데 사르노 시대의 홀리데이는 미켈레 이전의 '제품 진열'과 미켈레의 '시즌 서사' 사이 어딘가에 있었다는 뜻이다. 다만 이 절제가 상업적으로 통했는지는 별개 문제다. 2024~2025년 케링 실적에서 구찌는 연말 분기에도 비교매출 감소를 이어갔고, 홀리데이 캠페인의 효과를 분리해 평가할 공개 데이터는 없다.
 
 ## 6. 뎀나의 첫 시즌(2026) — 아직은 뷰티와 포장만 보인다
 
-2026년 10월 30일 기준, 뎀나 체제의 첫 홀리데이에서 확인되는 것은 패션이 아니라 뷰티다. 구찌 뷰티는 10월 3일 미국에서 한정판 홀리데이 메이크업 컬렉션을 출시했고 — 블러셔·립스틱·글로스, 42~50달러 — 11월 4일 일본 출시가 예정돼 있다[19][20]. 패키징은 딥 그린 바탕에 골드·크림·레드의 '레오나르도 모티프'다[19]. 기프트 가이드는 "영국 컨트리 호텔의 온기"를 시즌의 분위기로 제시했다[21]. 뎀나의 데뷔 캠페인은 가을겨울 '프리마베라'였고, 홀리데이 전용 패션 캠페인은 이 시점까지 공개되지 않았다[22].
+2026년 10월 30일 기준, 뎀나 체제의 첫 홀리데이에서 확인되는 것은 패션이 아니라 뷰티다. 구찌 뷰티는 10월 3일 미국에서 한정판 홀리데이 메이크업 컬렉션을 출시했고 — 블러셔·립스틱·글로스, 42~50달러 — 11월 4일 일본 출시가 예정돼 있다[19][20]. 패키징은 딥 그린 바탕에 골드·크림·레드의 '레오나르도 모티프'다[19].
+
+![2026 구찌 뷰티 홀리데이 한정판 — 딥 그린 바탕의 레오나르도 모티프 패키징, 뎀나 체제의 첫 홀리데이 산출물](https://beautyvelle.com/wp-content/uploads/2026/10/Gucci-Beauty-Holiday-Collection-Banner-10.png "BeautyVelle|https://beautyvelle.com/2026/10/03/gucci-beauty-holiday-2026-limited-edition-collection/") 기프트 가이드는 "영국 컨트리 호텔의 온기"를 시즌의 분위기로 제시했다[21]. 뎀나의 데뷔 캠페인은 가을겨울 '프리마베라'였고, 홀리데이 전용 패션 캠페인은 이 시점까지 공개되지 않았다[22].
 
 이에 본 아카이브의 판단은, 뎀나의 크리스마스는 아직 평가할 대상이 없다는 것이다. 뷰티 컬렉션의 색채 — 딥 그린과 골드 — 는 미켈레·데 사르노 시대의 어휘를 잇고 있어 단절의 신호는 아니다. 하지만 2026년 3분기 실적 쇼크(구찌 비교매출 -6%)와 125개 이상 폐점 계획 속에서 홀리데이 캠페인에 얼마나 투자할지는 미지수이며, 11월 중순까지 패션 홀리데이 캠페인이 나오지 않는다면 그 자체가 신호다[23].
 
@@ -139,7 +155,11 @@ First, 2018. Michele paired a holiday film with digital features in the Gucci ap
 
 Second, 2019. Harmony Korine's campaign staged a tropical holiday aboard a cruise liner, complete with Santa Claus and a snowman made of sand[6][7]. That November Gucci launched "Gucci Pin", a short-lived pop-up format whose first theme was Gift Giving, running in five locations including Japan, the US and Paris for roughly five weeks each[8][6]. Put differently, this was the first year campaign, app and pop-up formed one set.
 
+![2019 Gift Giving — Harmony Korine's tropical Christmas aboard a cruise liner; Michele-era retro and GG-monogram resortwear](https://images-prod.anothermag.com/1200/0-0-1500-1000/azure/another-prod/390/2/392676.jpg "AnOther Magazine|https://www.anothermag.com/fashion-beauty/12078/gucci-gift-giving-campaign-2019-harmony-korine-christmas")
+
 Third, 2020. In the middle of the pandemic Michele chose a 1990s office Christmas party — photographed by Mark Peckmezian, filmed by Akinola Davies Jr., with a conga-line arcade game added to the Gucci app[9][10]. Michele's formula of nostalgic retro plus digital play was never sharper.
+
+![2020 Gift Giving — the 1990s office-party set, photographed by Mark Peckmezian](https://www.russh.com/wp-content/uploads/2020/11/GUCCI-13.jpg "RUSSH|https://www.russh.com/gucci-2020-gift-giving-campaign/")
 
 Fourth, 2021. No standalone coverage of that year's holiday campaign can be confirmed in public archives (unverified). Gucci's centenary "Aria" collection and the Balenciaga "hacking" project dominated the year's narrative, and holiday was most likely consumed as an extension of them (hypothesis).
 
@@ -153,7 +173,15 @@ Separately from the campaigns, physical Christmas ran on two layers: pop-ups and
 
 Pop-ups first. The 2019 Gucci Pin began from the idea of dropping a pin on a phone map, and pins appeared in the Gucci app and on Google Maps[8]. It was followed by the 2021 Miami Design District pop-up, the 2022 Christmas pop-up at London's Savoy, and in 2024–2025 gift pop-ups running through November and December in Paris, London, Shenzhen and Bangkok[12][13][3]. The shared vocabulary of these spaces is the source of this site's design — the Horsebit motif reworked as the seal on gift boxes, red and green filling the walls, the Web stripe doing the work of ribbon[3].
 
-Windows spread wider. Gift-themed displays changed flagships in Chengdu, Shenzhen, Los Angeles, New York, London and Milan at once, and in Miami an installation inspired by enchanted snow globes stayed up until January 7[14][15]. In Korea, the 2023 Gucci Gaok holiday windows in Seoul and the 2024 Shinsegae main-store media façade used the same vocabulary (unverified — not cross-confirmed in public coverage).
+![2019 Gucci Pin — Harbour City, Hong Kong: red-and-green walls and gift-box displays](https://www.windowswear.com/wp-content/uploads/2019/11/Gucci-Pin-HK-Harbour-City_04.jpg "WindowsWear|https://www.windowswear.com/get-your-holiday-shopping-done-at-guccis-new-immersive-pop-up/")
+
+![2022 Christmas pop-up at the Savoy, London — built around the Valigeria luggage collection](https://hips.hearstapps.com/hmg-prod/images/gucci-valigeria-at-the-savoy-2-1668688322.jpg "Elle Decoration|https://www.elledecoration.co.uk/lifestyle-culture/a41990554/gucci-savoy/")
+
+![The gift pop-ups' packaging vocabulary — Horsebit reworked as a seal, Web stripe as ribbon](https://assets.rain-mag.com/wp-backup/2023/11/IMG_7395-1-scaled.jpeg "Rain Magazine|https://rain-mag.com/gucci-unveils-holiday-elegance-with-new-gift-campaign")
+
+Windows spread wider. Gift-themed displays changed flagships in Chengdu, Shenzhen, Los Angeles, New York, London and Milan at once, and in Miami an installation inspired by enchanted snow globes stayed up until January 7[14][15].
+
+![Miami Design District — holiday installation inspired by snow globes](https://luxferity.com/up/shop-news/gucci-festive-themed-installation-in-miami-holiday-season-2-1200x799.jpg "Luxferity|https://luxferity.com/brand/gucci/news/gucci-unveil-festive-themed-installation-miami-celebrate-holiday-season") In Korea, the 2023 Gucci Gaok holiday windows in Seoul and the 2024 Shinsegae main-store media façade used the same vocabulary (unverified — not cross-confirmed in public coverage).
 
 To sum up, Gucci's Christmas spatial design is a rare case of a pop-up vocabulary created under Michele being inherited intact under De Sarno. The creative director changed; the holiday's colours and symbols did not — which is the ground for treating "Gucci × Christmas" as a brand asset.
 
@@ -161,11 +189,15 @@ To sum up, Gucci's Christmas spatial design is a rare case of a pop-up vocabular
 
 Sabato De Sarno's three holidays edited Michele's formula rather than discarding it. The 2023 Gift Giving, photographed by Anthony Seklaoui and filmed by Marcell Rev, swapped Michele's retro sets for restrained space and product-centred framing[4]. In 2024 the campaign was split into "chapters" — not one film but four, released sequentially across November and December, a strategy of stretching the campaign over the whole season[16][17]. 2025 kept the chapter structure, staged across four global destinations — mountains, mansions, a mystery elevator[18].
 
+![Holiday 2025 campaign — four global destinations; De Sarno-era restraint, product-centred framing](https://assets.mega-asia.com/wp-content/uploads/2024/12/mega-gucci-holiday-gift-campaign.jpg "MEGA Asia|https://mega-asia.com/fashion/the-gucci-holiday-campaign-2025-takes-us-to-four-global-destinations/")
+
 This shift is best read two ways. First, the format was inherited — film, pop-up and window remain the three axes. Second, the tone was replaced — Michele's "invitation into a world" reverted to De Sarno's "product display". In short, De Sarno-era holiday sat somewhere between pre-Michele product display and Michele's seasonal narrative. Whether that restraint worked commercially is a separate question: in Kering's 2024–2025 results Gucci's comparable sales kept falling through the year-end quarters, and no public data isolates the holiday campaigns' effect.
 
 ## 6. Demna's first season (2026) — so far, only beauty and packaging
 
-As of 30 October 2026, what can be confirmed of the first holiday under Demna is beauty, not fashion. Gucci Beauty released a limited-edition holiday makeup collection in the US on 3 October — blushes, lipsticks and a gloss at $42–50 — with a Japan launch set for 4 November[19][20]. The packaging is deep green with a gold, cream and red "Leonardo motif"[19]. The gift guide framed the season's mood as "the warmth of an English country hotel"[21]. Demna's debut campaign was the fall/winter "Primavera"; no dedicated holiday fashion campaign had been released at this point[22].
+As of 30 October 2026, what can be confirmed of the first holiday under Demna is beauty, not fashion. Gucci Beauty released a limited-edition holiday makeup collection in the US on 3 October — blushes, lipsticks and a gloss at $42–50 — with a Japan launch set for 4 November[19][20]. The packaging is deep green with a gold, cream and red "Leonardo motif"[19].
+
+![Gucci Beauty Holiday 2026 limited edition — deep-green Leonardo-motif packaging, the first holiday output under Demna](https://beautyvelle.com/wp-content/uploads/2026/10/Gucci-Beauty-Holiday-Collection-Banner-10.png "BeautyVelle|https://beautyvelle.com/2026/10/03/gucci-beauty-holiday-2026-limited-edition-collection/") The gift guide framed the season's mood as "the warmth of an English country hotel"[21]. Demna's debut campaign was the fall/winter "Primavera"; no dedicated holiday fashion campaign had been released at this point[22].
 
 Our read is that Demna's Christmas is not yet something that can be assessed. The beauty collection's palette — deep green and gold — continues the Michele and De Sarno vocabulary, so it is not a signal of rupture. Still, amid the Q3 2026 earnings shock (Gucci comparable sales -6%) and a plan to close more than 125 stores, how much will be invested in a holiday campaign is unknown; if no fashion holiday campaign appears by mid-November, that absence is itself a signal[23].
 
