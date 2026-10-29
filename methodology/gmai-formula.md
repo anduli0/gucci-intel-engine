@@ -112,6 +112,17 @@ w_i = tier_weight × recency_weight
   Snapshot fields: engagement_method (v2.3-eb-percentile | v2.1-ratio),
   engagement_n_eff, engagement_sources, owned_engagement. Without a collection
   file the v2.1 ratio over raw items applies (the §3.6 selftest path).
+- Instagram heat (global, optional; active when IG_ACCESS_TOKEN/IG_USER_ID
+  exist). Source: Meta Graph API Business Discovery on official accounts of
+  Gucci + competitor_set (no scraping). Per post x = likes + 2·comments,
+  n = account followers. Hidden like counts are imputed with a per-account
+  ratio estimator (likes ≈ comments × median likes/comments, pooled peer
+  median as fallback; imputed share is reported). Rates are EB-shrunk (Beta
+  prior over all peer posts in 30 days) and Gucci posts ranked by mid-rank
+  ECDF among peer posts; recency-weighted mean, shrunk toward 0.5 with k = 5.
+  heat = 0.5 means Gucci's posts draw a peer-typical reaction rate.
+  Engagement_r = 0.7·Engagement_r + 0.3·heat for every region (Instagram
+  exposes no regional split); snapshot field instagram_heat.
 
 (d) Share of Voice
 - Competitor set: data/sources/pool.json competitor_set (currently Louis Vuitton,

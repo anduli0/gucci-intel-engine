@@ -239,6 +239,69 @@ def eb_percentile(it, ref):
     return (lo + 0.5 * (hi - lo)) / len(post)
 
 
+IG_BLEND = 0.30        # share of the global Instagram heat in each region's Engagement
+IG_SHRINK_K = 5.0      # pseudo-posts at 0.5 for a thin Gucci sample
+
+
+def ig_heat(root, date_str):
+    """Global Instagram heat: where Gucci's recent posts rank among peer-brand
+    posts (§3.2c-ig). Per post x = likes + 2·comments, n = account followers.
+    Hidden likes are imputed by the ratio estimator likes ≈ comments × median
+    (likes/comments) of that account in the window (pooled peer median if the
+    account has none). Rates are EB-shrunk (Beta prior over all peer posts),
+    ranked by mid-rank ECDF, recency-weighted, then shrunk toward 0.5.
+    Returns (heat, n_eff, imputed_share) or None without data."""
+    end = date.fromisoformat(date_str)
+    posts, followers = {}, {}
+    for k in range(ENG_REF_DAYS - 1, -1, -1):
+        f = Path(root) / "data" / "engagement" / (end - timedelta(days=k)).isoformat() / "instagram.json"
+        if not f.exists():
+            continue
+        with open(f, "r", encoding="utf-8") as fh:
+            accounts = (json.load(fh) or {}).get("accounts", {})
+        for brand, a in accounts.items():
+            if a.get("followers"):
+                followers[brand] = a["followers"]
+            for m in a.get("posts", []):
+                posts[(brand, m["id"])] = m          # latest metrics win
+    if "Gucci" not in followers or len(followers) < 3:
+        return None
+    ratios = {}
+    for (brand, _), m in posts.items():
+        if m.get("likes") is not None and m.get("comments"):
+            ratios.setdefault(brand, []).append(m["likes"] / m["comments"])
+    pooled = sorted(r for rs in ratios.values() for r in rs)
+    rows, imputed = [], 0
+    for (brand, _), m in posts.items():
+        n, c = followers.get(brand), m.get("comments")
+        if not n or c is None:
+            continue
+        likes = m.get("likes")
+        if likes is None:
+            rs = sorted(ratios.get(brand) or pooled)
+            if not rs:
+                continue
+            likes, imputed = c * rs[len(rs) // 2], imputed + (brand == "Gucci")
+        rows.append((brand, m.get("published_at"), min(likes + 2.0 * c, n), n))
+    a, b = fit_beta([(x, n) for _, _, x, n in rows])
+    post = sorted((x + a) / (n + a + b) for _, _, x, n in rows)
+    us, ws = [], []
+    for brand, pub, x, n in rows:
+        if brand != "Gucci":
+            continue
+        r = (x + a) / (n + a + b)
+        lo, hi = bisect.bisect_left(post, r), bisect.bisect_right(post, r)
+        us.append((lo + 0.5 * (hi - lo)) / len(post))
+        ws.append(recency_weight(pub, end))
+    if not us:
+        return None
+    sw, sw2 = sum(ws), sum(w * w for w in ws)
+    n_eff = sw * sw / sw2 if sw2 > EPS else 0.0
+    s = sum(w * u for w, u in zip(ws, us)) / sw
+    heat = (n_eff * s + IG_SHRINK_K * 0.5) / (n_eff + IG_SHRINK_K)
+    return heat, n_eff, imputed / len(us)
+
+
 SOV_PRIOR = 10  # pseudo-mentions at the neutral share (small-sample shrinkage, §3.2d)
 
 
@@ -459,6 +522,7 @@ def run(date_str, root):
 
     baseline = load_baseline(baseline_path)
     eng_ref = build_eng_reference(root, date_str)
+    ig = ig_heat(root, date_str)
     results, missing = {}, []
     for region in REGIONS:
         raw_path = raw_dir / f"{region}.json"
@@ -486,6 +550,16 @@ def run(date_str, root):
                                          neutral=sov_neutral(root), eng_items=eng_items)
         results[region]["sov_source"] = "objective" if mention_counts else "missing-neutral"
         results[region]["owned_engagement"] = round(sum(owned_u) / len(owned_u), 4) if owned_u else None
+        if ig:
+            res = results[region]
+            e = (1 - IG_BLEND) * res["components"]["engagement"] + IG_BLEND * ig[0]
+            res["components"]["engagement"] = round(e, 4)
+            res["contrib"]["engagement"] = round(100.0 * W_ENG * e, 2)
+            res["GMAI"] = round(sum(res["contrib"].values()), 2)
+            res["band"] = band_of(res["GMAI"])
+            res["engagement_known"] = True
+            res["instagram_heat"] = {"heat": round(ig[0], 4), "n_eff": round(ig[1], 1),
+                                     "imputed_likes_share": round(ig[2], 3), "blend": IG_BLEND}
 
     if not results:
         print(f"ERROR: no region data found under {raw_dir}", file=sys.stderr)

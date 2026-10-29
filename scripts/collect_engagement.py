@@ -36,6 +36,11 @@ UA = {"User-Agent": "gucci-intel-engagement/1.0"}
 MASTODON_INSTANCES = ["mastodon.social", "mstdn.jp"]
 MASTODON_TAGS = ["gucci", "구찌", "グッチ"]
 YT_API = "https://www.googleapis.com/youtube/v3"
+GRAPH_API = "https://graph.facebook.com/v21.0"
+# Official Instagram accounts: Gucci + pool.json competitor_set (Business Discovery)
+IG_BRANDS = {"Gucci": "gucci", "Louis Vuitton": "louisvuitton", "Dior": "dior",
+             "Chanel": "chanelofficial", "Prada": "prada", "Bottega Veneta": "bottegaveneta",
+             "Saint Laurent": "ysl", "Balenciaga": "balenciaga", "Burberry": "burberry"}
 # (regionCode, relevanceLanguage, query) per GMAI region; ~11 searches x 100 units/day
 YT_REGION_QUERIES = {
     "NEA": [("KR", "ko", "구찌|gucci"), ("JP", "ja", "グッチ|gucci")],
@@ -207,6 +212,34 @@ def collect_youtube_search(region, ref_day, errors):
     return items
 
 
+def collect_instagram(errors):
+    """Brand-account Instagram metrics via Meta Graph API Business Discovery
+    (free; needs IG_ACCESS_TOKEN + IG_USER_ID of an Instagram professional
+    account; skipped without them). Global, not regional. like_count is absent
+    when a post hides likes; compute_gmai imputes it (ratio estimator)."""
+    token, uid = os.environ.get("IG_ACCESS_TOKEN"), os.environ.get("IG_USER_ID")
+    if not (token and uid):
+        return None
+    accounts = {}
+    for brand, handle in IG_BRANDS.items():
+        fields = (f"business_discovery.username({handle}){{followers_count,media_count,"
+                  f"media.limit(25){{id,timestamp,like_count,comments_count,media_type,permalink}}}}")
+        try:
+            bd = get_json(f"{GRAPH_API}/{uid}?" + urllib.parse.urlencode(
+                {"fields": fields, "access_token": token}))["business_discovery"]
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"instagram {handle}: {str(e).replace(token, '***')}")
+            continue
+        accounts[brand] = {
+            "handle": handle, "followers": bd.get("followers_count"),
+            "posts": [{"id": m["id"], "published_at": m.get("timestamp", "")[:10],
+                       "likes": m.get("like_count"), "comments": m.get("comments_count"),
+                       "media_type": m.get("media_type"), "url": m.get("permalink")}
+                      for m in (bd.get("media") or {}).get("data", [])],
+        }
+    return accounts
+
+
 def collect_youtube(ref_day, errors):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={YT_CHANNEL}"
     try:
@@ -246,6 +279,13 @@ def run(date_str, root):
     yt_items = collect_youtube(ref_day, shared_errors)
     masto_all = collect_mastodon(ref_day, shared_errors)
     lang_region = {lang: r for r, langs in REGION_LANGS.items() for lang in langs}
+    ig_errors = []
+    ig = collect_instagram(ig_errors)
+    if ig is not None:
+        with open(out_dir / "instagram.json", "w", encoding="utf-8") as f:
+            json.dump({"date": date_str, "errors": ig_errors, "accounts": ig},
+                      f, ensure_ascii=False, indent=2)
+        print(f"instagram: accounts={len(ig)} errors={len(ig_errors)}")
     for region in REGION_LANGS:
         errors = list(shared_errors)
         bsky_items = collect_bsky(region, ref_day, errors)
