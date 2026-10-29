@@ -1,0 +1,31 @@
+name: region-analysis
+
+# Manual empirical test of YouTube region-assignment rules
+# (scripts/analyze_region_assignment.py). Commits the result JSON.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Asia/Seoul
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install --quiet scipy
+      - run: python scripts/analyze_region_assignment.py
+      - name: Commit result
+        run: |
+          git config user.name "gucci-intel-bot"
+          git config user.email "minkyu494@gmail.com"
+          git add data/analysis
+          git commit -m "analysis: region assignment test $(date +%F)" || echo "no changes"
+          git pull --rebase && git push || echo "push skipped"

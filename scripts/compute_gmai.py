@@ -281,6 +281,7 @@ def source_weight(item, sources):
     return best if best is not None else BUZZ_UNLISTED
 
 
+IG_ENABLED = False     # OFF by the user's decision (2026-10-29) until they ask; needs a regional design first
 IG_BLEND = 0.30        # share of the global Instagram heat in each region's Engagement
 IG_SHRINK_K = 5.0      # pseudo-posts at 0.5 for a thin Gucci sample
 
@@ -413,6 +414,7 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
             continue
         seen.add(key)
         rel = 1.0 if it.get("title_match", True) else BUZZ_BODY_ONLY
+        rel *= float(it.get("alloc", 1.0))  # fractional region allocation (collect_buzz.allocate)
         sw = source_weight(it, buzz_sources) if buzz_sources is not None else 1.0
         v_today_w += CHANNEL_WEIGHTS[source_channel(it)] * sw * rel * recency_weight(it.get("published_at"), ref_day)
         buzz_scan_n += 1
@@ -595,7 +597,7 @@ def run(date_str, root):
     baseline = load_baseline(baseline_path)
     eng_ref = build_eng_reference(root, date_str)
     buzz_reg = load_buzz_registry(root)
-    ig = ig_heat(root, date_str)
+    ig = ig_heat(root, date_str) if IG_ENABLED else None
     results, missing = {}, []
     for region in REGIONS:
         raw_path = raw_dir / f"{region}.json"
