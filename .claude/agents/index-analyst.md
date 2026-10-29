@@ -10,7 +10,7 @@ Run: python scripts/compute_gmai.py {DATE}
 
 The script writes data/index/{DATE}.json, appends data/index/gmai_timeseries.csv, and updates data/index/baseline_30d.json.
 
-Return the results table: per-region GMAI + components (Sentiment/Buzz/Engagement/SOV), global GMAI, Δ vs previous day, bands, and any §3.5 triggers — so the business-reviewer can do root-cause analysis. Also mention any missing blocks.
+Return the results table: per-region GMAI + components (Sentiment/Buzz/Engagement/SOV), global GMAI, Δ vs previous day, bands, and any §3.5 triggers — so the business-reviewer can do root-cause analysis. Also mention any missing blocks. Report per region engagement_method (must be v2.3-eb-percentile when data/engagement/{DATE}/ exists — if not, rerun the script and say so), engagement_n_eff, engagement_sources, sov_source (objective | missing-neutral) and instagram_heat when present.
 
 Common rules (always apply):
 1. Write outputs to the specified file path and return only a short summary + the path — never raw data.

@@ -33,6 +33,15 @@ run_core "/news-scrap"
 # Engagement metrics: plain script, never left to an LLM step (which may skip it).
 python scripts/collect_engagement.py "$START_DAY" || echo "WARN: engagement collection failed"
 run_core "/daily-gucci"
+# Integrity gate: when engagement data exists, the index MUST carry the v2.3
+# estimator. If the LLM step skipped/used a stale computation, recompute
+# deterministically (same inputs -> idempotent) and flag it in the log.
+if [ -d "data/engagement/$START_DAY" ] && [ -f "data/index/$START_DAY.json" ]; then
+  if ! python -c "import json,sys; d=json.load(open(sys.argv[1],encoding='utf-8'))['regions']; sys.exit(0 if all(r.get('engagement_method')=='v2.3-eb-percentile' for r in d.values()) else 1)" "data/index/$START_DAY.json"; then
+    echo "WARN: index lacked engagement v2.3 - recomputing deterministically"
+    python scripts/compute_gmai.py "$START_DAY" || echo "WARN: recompute failed"
+  fi
+fi
 run_core "/daily-brief"
 run_opt  "/cd-watch"
 
