@@ -22,6 +22,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from datetime import date, datetime, timedelta, timezone
@@ -256,7 +257,8 @@ def split_english(items_by_region):
     fractional NA/EU split: NA keeps EN_SPLIT['NA'], EU gets a copy with the rest."""
     na_keep = []
     for it in items_by_region["NA"]:
-        if it.get("platform") in ("bluesky", "mastodon"):
+        global_reddit = it.get("platform") == "reddit" and it.get("subreddit") not in REDDIT_GEO_NA
+        if it.get("platform") in ("bluesky", "mastodon") or global_reddit:
             na_keep.append({**it, "alloc": EN_SPLIT["NA"], "region_rule": "en_split"})
             items_by_region["EU"].append({**it, "alloc": EN_SPLIT["EU"], "region_rule": "en_split"})
         else:
@@ -291,6 +293,73 @@ def collect_instagram(errors):
                       for m in (bd.get("media") or {}).get("data", [])],
         }
     return accounts
+
+
+REDDIT_OAUTH = "https://oauth.reddit.com"
+REDDIT_SUBS = {   # per-region subreddits for the engagement sample (official API; score + comments)
+    "NEA": ["korea", "hanguk", "japan", "japanlife", "china", "hongkong", "taiwan", "kpopfashion"],
+    "SEA": ["singapore", "thailand", "indonesia", "philippines", "malaysia", "vietnam"],
+    "NA": ["handbags", "fashion", "malefashionadvice", "femalefashionadvice", "luxury", "streetwear", "sneakers",
+           "nyc", "losangeles", "toronto"],
+    "EU": ["unitedkingdom", "london", "france", "italy", "germany", "spain", "europe", "femalefashion"],
+}
+REDDIT_GEO_NA = {"nyc", "losangeles", "toronto"}   # NA-filed subs that are truly NA (not split with EU)
+
+
+def collect_reddit(ref_day, errors):
+    """Earned Reddit posts about Gucci via the official API (free app credentials:
+    REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET; skipped without them). Per post:
+    reach = subreddit subscribers (the audience the post was shown to),
+    likes = score, comments = num_comments. Region = the subreddit's region in
+    REDDIT_SUBS; global fashion subs are NA-filed and then split NA/EU by
+    split_english(). ~60 req/min on the free tier -> 1.1 s pacing."""
+    cid, sec = os.environ.get("REDDIT_CLIENT_ID"), os.environ.get("REDDIT_CLIENT_SECRET")
+    out = {r: [] for r in REGION_LANGS}
+    if not (cid and sec):
+        return out
+    import base64
+    ua = {"User-Agent": "gucci-intel-engagement/1.0 (by u/anduli0)"}
+    try:
+        tok_req = urllib.request.Request(
+            "https://www.reddit.com/api/v1/access_token", data=b"grant_type=client_credentials",
+            headers={**ua, "Authorization": "Basic " + base64.b64encode(f"{cid}:{sec}".encode()).decode()})
+        with urllib.request.urlopen(tok_req, timeout=30) as r:
+            token = json.load(r)["access_token"]
+    except Exception as e:  # noqa: BLE001
+        errors.append(f"reddit auth: {str(e).replace(sec, '***')}")
+        return out
+    hdr = {**ua, "Authorization": "Bearer " + token}
+    since = (ref_day - timedelta(days=WINDOW_DAYS - 1)).isoformat()
+    subs_meta = {}
+    for region, subs in REDDIT_SUBS.items():
+        for sub in subs:
+            try:
+                q = urllib.parse.urlencode({"q": "gucci", "restrict_sr": 1, "sort": "new", "t": "week", "limit": 100})
+                with urllib.request.urlopen(urllib.request.Request(f"{REDDIT_OAUTH}/r/{sub}/search?{q}", headers=hdr), timeout=30) as r:
+                    posts = json.load(r).get("data", {}).get("children", [])
+                if sub not in subs_meta:
+                    with urllib.request.urlopen(urllib.request.Request(f"{REDDIT_OAUTH}/r/{sub}/about", headers=hdr), timeout=30) as r:
+                        subs_meta[sub] = json.load(r).get("data", {}).get("subscribers") or 0
+            except Exception as e:  # noqa: BLE001
+                errors.append(f"reddit r/{sub}: {e}")
+                continue
+            reach = subs_meta.get(sub, 0)
+            if reach < MIN_FOLLOWERS:
+                continue
+            for c in posts:
+                d = c.get("data", {})
+                day = date.fromtimestamp(d.get("created_utc", 0)).isoformat()
+                if day < since or d.get("stickied"):
+                    continue
+                out[region].append({
+                    "id": "rd:" + d.get("id", ""), "platform": "reddit", "source_type": "community", "tier": "T3",
+                    "media": "earned", "author": d.get("author"), "lang": "en", "subreddit": sub,
+                    "published_at": day, "url": "https://www.reddit.com" + d.get("permalink", ""),
+                    "title": (d.get("title") or "")[:300],
+                    "reach": reach, "likes": d.get("score"), "comments": d.get("num_comments"), "shares": None,
+                })
+            time.sleep(1.1)
+    return out
 
 
 def collect_youtube(ref_day, errors):
@@ -345,23 +414,27 @@ def run(date_str, root):
         region_errors[region] = []
         social[region] = (collect_bsky(region, ref_day, region_errors[region])
                           + [it for it in masto_all if lang_region.get(it["lang"][:2]) == region])
+    rd_by_region = collect_reddit(ref_day, shared_errors)
+    for region in REGION_LANGS:
+        social[region] += rd_by_region[region]
     social = split_english(social)
     for region in REGION_LANGS:
         errors = shared_errors + region_errors[region]
         bsky_items = [it for it in social[region] if it["platform"] == "bluesky"]
         masto_items = [it for it in social[region] if it["platform"] == "mastodon"]
+        rd_items = [it for it in social[region] if it["platform"] == "reddit"]
         yts_items = yts_by_region[region]
         doc = {
             "date": date_str, "region": region,
             "collected_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-            "sources": {"bluesky": len(bsky_items), "mastodon": len(masto_items),
+            "sources": {"bluesky": len(bsky_items), "mastodon": len(masto_items), "reddit": len(rd_items),
                         "youtube_search": len(yts_items), "youtube": len(yt_items)},
             "errors": errors,
-            "items": bsky_items + masto_items + yts_items + yt_items,
+            "items": bsky_items + masto_items + rd_items + yts_items + yt_items,
         }
         with open(out_dir / f"{region}.json", "w", encoding="utf-8") as f:
             json.dump(doc, f, ensure_ascii=False, indent=2)
-        print(f"{region}: bluesky={len(bsky_items)} mastodon={len(masto_items)} "
+        print(f"{region}: bluesky={len(bsky_items)} mastodon={len(masto_items)} reddit={len(rd_items)} "
               f"youtube_search={len(yts_items)} youtube_owned={len(yt_items)} errors={len(errors)}")
     return 0
 
