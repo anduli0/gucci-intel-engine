@@ -12,11 +12,12 @@ CLI:
 """
 
 import argparse
+import bisect
 import csv
 import json
 import math
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 REGIONS = ["NEA", "SEA", "NA", "EU"]
@@ -156,6 +157,88 @@ def sov_neutral(root=None):
     return 0.125
 
 
+# §3.2c v2.3 Engagement estimator for collected interaction metrics.
+ENG_REF_DAYS = 30                    # trailing reference window
+ENG_SIZE_EDGES = (100, 1000, 10000)  # follower-size bands (ER falls with audience size)
+ENG_MIN_GROUP = 20                   # smaller (platform, band) groups use the platform pool
+ENG_AUTHOR_CAP = 3                   # max posts per author per region (bot/spam control)
+ENG_SHRINK_K = 5.0                   # pseudo-items at 0.5 for thin regional samples
+
+
+def eng_counts(it):
+    """(effort-weighted interactions, exposure) or None. Same like/comment/share
+    weights (1/2/3) as the v2.1 ratio; exposure = reach (followers or views)."""
+    n = it.get("reach")
+    vals = (it.get("likes"), it.get("comments"), it.get("shares"))
+    if not n or all(v is None for v in vals):
+        return None
+    try:
+        x = float(vals[0] or 0) + 2.0 * float(vals[1] or 0) + 3.0 * float(vals[2] or 0)
+        return min(x, float(n)), float(n)
+    except (TypeError, ValueError):
+        return None
+
+
+def size_band(n):
+    return sum(n >= e for e in ENG_SIZE_EDGES)
+
+
+def fit_beta(pairs):
+    """Method-of-moments Beta prior on per-item rates (empirical Bayes)."""
+    rates = [x / n for x, n in pairs]
+    m = sum(rates) / len(rates)
+    v = sum((r - m) ** 2 for r in rates) / len(rates)
+    if m <= 0 or m >= 1 or v <= EPS or v >= m * (1 - m):
+        m = min(max(m, 1e-4), 1 - 1e-4)
+        return m * 2.0, (1 - m) * 2.0          # weak prior when moments degenerate
+    c = m * (1 - m) / v - 1.0
+    return m * c, (1 - m) * c
+
+
+def build_eng_reference(root, date_str):
+    """Pool every collected item of the trailing window (all regions; latest
+    metrics per id) into (platform, media, band) groups -> Beta prior + sorted
+    posterior rates for the empirical CDF."""
+    end = date.fromisoformat(date_str)
+    latest = {}
+    for k in range(ENG_REF_DAYS - 1, -1, -1):
+        day_dir = Path(root) / "data" / "engagement" / (end - timedelta(days=k)).isoformat()
+        for p in sorted(day_dir.glob("*.json")) if day_dir.exists() else []:
+            for it in load_raw(p)[0]:
+                if eng_counts(it):
+                    latest[it.get("id")] = it
+    groups = {}
+    for it in latest.values():
+        x, n = eng_counts(it)
+        key = (it.get("platform"), it.get("media", "earned"))
+        groups.setdefault(key + (size_band(n),), []).append((x, n))
+        groups.setdefault(key + (None,), []).append((x, n))
+    ref = {}
+    for key, pairs in groups.items():
+        a, b = fit_beta(pairs)
+        ref[key] = (a, b, sorted((x + a) / (n + a + b) for x, n in pairs))
+    return ref
+
+
+def eb_percentile(it, ref):
+    """Mid-rank empirical-CDF position of the item's shrunk rate within its
+    platform/band reference: 0.5 = typical, comparable across platforms."""
+    c = eng_counts(it)
+    if not c:
+        return None
+    x, n = c
+    key = (it.get("platform"), it.get("media", "earned"))
+    g = ref.get(key + (size_band(n),))
+    if not g or len(g[2]) < ENG_MIN_GROUP:
+        g = ref.get(key + (None,))
+    if not g or len(g[2]) < 2:
+        return None
+    a, b, post = g
+    r = (x + a) / (n + a + b)
+    lo, hi = bisect.bisect_left(post, r), bisect.bisect_right(post, r)
+    return (lo + 0.5 * (hi - lo)) / len(post)
+
+
 SOV_PRIOR = 10  # pseudo-mentions at the neutral share (small-sample shrinkage, §3.2d)
 
 
@@ -209,16 +292,26 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
         channel_mix[ch] += 1
         v_today += CHANNEL_WEIGHTS[ch] * recency_weight(it.get("published_at"), ref_day)
 
-    eng_sources = {}
-    for it in eng_items or []:
-        ratio = engagement_ratio(it)
-        if ratio is None:
-            continue
-        w = item_weight(it, ref_day)
-        weng_num += w * ratio
-        weng_den += w
-        src = it.get("platform", "other")
-        eng_sources[src] = eng_sources.get(src, 0) + 1
+    # v2.3 (§3.2c): earned-media items scored by eb_percentile() replace the
+    # v2.1 ratio whenever present; raw-pool ratios stay as the no-data fallback.
+    eng_sources, eng_method, eng_n_eff = {}, "v2.1-ratio", None
+    scored = [it for it in (eng_items or []) if it.get("u") is not None]
+    if scored:
+        by_author = {}
+        for it in sorted(scored, key=lambda x: str(x.get("published_at", "")), reverse=True):
+            by_author.setdefault(it.get("author") or it.get("id"), []).append(it)
+        kept = [it for posts in by_author.values() for it in posts[:ENG_AUTHOR_CAP]]
+        ws = [item_weight(it, ref_day) for it in kept]
+        sw, sw2 = sum(ws), sum(w * w for w in ws)
+        eng_n_eff = (sw * sw / sw2) if sw2 > EPS else 0.0
+        s = sum(w * it["u"] for w, it in zip(ws, kept)) / sw if sw > EPS else 0.5
+        # thin samples are pulled toward neutral 0.5 (k pseudo-items)
+        weng_num = eng_n_eff * s + ENG_SHRINK_K * 0.5
+        weng_den = eng_n_eff + ENG_SHRINK_K
+        eng_method = "v2.3-eb-percentile"
+        for it in kept:
+            src = it.get("platform", "other")
+            eng_sources[src] = eng_sources.get(src, 0) + 1
 
     total_w = sum(weights)
     if total_w <= EPS:
@@ -281,6 +374,8 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
         "sov_known": sov_known,
         "engagement_known": engagement_known,
         "engagement_sources": eng_sources,
+        "engagement_method": eng_method,
+        "engagement_n_eff": round(eng_n_eff, 1) if eng_n_eff is not None else None,
         "buzz_known": len(history) >= BASELINE_MIN_DAYS,
         "baseline_days": len(history),
         "sentiment_coverage": round(matched / len(items), 3) if items else None,
@@ -363,6 +458,7 @@ def run(date_str, root):
             sov_override = (json.load(f) or {}).get("regions", {})
 
     baseline = load_baseline(baseline_path)
+    eng_ref = build_eng_reference(root, date_str)
     results, missing = {}, []
     for region in REGIONS:
         raw_path = raw_dir / f"{region}.json"
@@ -379,9 +475,17 @@ def run(date_str, root):
         history = [(d, v) for d, v in baseline.get(region, []) if d < date_str][-BASELINE_WINDOW:]
         eng_path = root / "data" / "engagement" / date_str / f"{region}.json"
         eng_items = load_raw(eng_path)[0] if eng_path.exists() else []
+        owned_u = []
+        for it in eng_items:
+            u = eb_percentile(it, eng_ref)
+            if it.get("media", "earned") == "earned":
+                it["u"] = u
+            elif u is not None:
+                owned_u.append(u)   # brand-owned: diagnostic only, not regional reaction
         results[region] = compute_region(items, sent_by_id, mention_counts, ref_day, history,
                                          neutral=sov_neutral(root), eng_items=eng_items)
         results[region]["sov_source"] = "objective" if mention_counts else "missing-neutral"
+        results[region]["owned_engagement"] = round(sum(owned_u) / len(owned_u), 4) if owned_u else None
 
     if not results:
         print(f"ERROR: no region data found under {raw_dir}", file=sys.stderr)

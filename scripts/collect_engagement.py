@@ -32,6 +32,8 @@ WINDOW_DAYS = 7          # recency weight in compute_gmai (half-life 3d) handles
 YT_WINDOW_DAYS = 30
 MIN_FOLLOWERS = 1        # zero-follower accounts have no audience to react
 UA = {"User-Agent": "gucci-intel-engagement/1.0"}
+MASTODON_INSTANCES = ["mastodon.social", "mstdn.jp"]
+MASTODON_TAGS = ["gucci", "구찌", "グッチ"]
 
 # Region = post language. Local-script brand names catch posts that never write "gucci".
 REGION_LANGS = {
@@ -97,12 +99,55 @@ def collect_bsky(region, ref_day, errors):
             continue
         items.append({
             "id": uri, "platform": "bluesky", "source_type": "sns", "tier": "T3",
+            "media": "earned", "author": p["author"]["did"],
             "published_at": (p.get("record", {}).get("createdAt") or p.get("indexedAt", ""))[:10],
             "url": "https://bsky.app/profile/{}/post/{}".format(p["author"]["handle"], uri.rsplit("/", 1)[-1]),
             "reach": reach,
             "likes": p.get("likeCount") or 0,
             "comments": p.get("replyCount") or 0,
             "shares": (p.get("repostCount") or 0) + (p.get("quoteCount") or 0),
+        })
+    return items
+
+
+def collect_mastodon(ref_day, errors):
+    """Public #gucci tag timelines (no auth), all regions; routed by post language."""
+    oldest = ref_day - timedelta(days=WINDOW_DAYS - 1)
+    statuses = {}
+    for inst in MASTODON_INSTANCES:
+        for tag in MASTODON_TAGS:
+            url = f"https://{inst}/api/v1/timelines/tag/{urllib.parse.quote(tag)}?limit=40"
+            for _ in range(3):
+                try:
+                    page = get_json(url)
+                except Exception as e:  # noqa: BLE001
+                    errors.append(f"mastodon {inst}/#{tag}: {e}")
+                    break
+                if not page:
+                    break
+                for s in page:
+                    statuses[s.get("uri") or s["url"]] = s
+                if page[-1]["created_at"][:10] < oldest.isoformat():
+                    break
+                url = (f"https://{inst}/api/v1/timelines/tag/{urllib.parse.quote(tag)}"
+                       f"?limit=40&max_id={page[-1]['id']}")
+    items = []
+    for uri, s in statuses.items():
+        day = s["created_at"][:10]
+        reach = (s.get("account") or {}).get("followers_count") or 0
+        if not (oldest.isoformat() <= day <= ref_day.isoformat()) or reach < MIN_FOLLOWERS:
+            continue
+        if s.get("reblog"):
+            continue
+        items.append({
+            "id": uri, "platform": "mastodon", "source_type": "sns", "tier": "T3",
+            "media": "earned", "author": s["account"].get("acct") or s["account"].get("url"),
+            "lang": s.get("language") or "",
+            "published_at": day, "url": s.get("url") or uri,
+            "reach": reach,
+            "likes": s.get("favourites_count") or 0,
+            "comments": s.get("replies_count") or 0,
+            "shares": s.get("reblogs_count") or 0,
         })
     return items
 
@@ -128,6 +173,7 @@ def collect_youtube(ref_day, errors):
             continue
         items.append({
             "id": "yt:" + vid.group(1), "platform": "youtube", "source_type": "sns", "tier": "T2",
+            "media": "owned", "author": YT_CHANNEL,
             "published_at": pub.group(1),
             "url": "https://www.youtube.com/watch?v=" + vid.group(1),
             "reach": int(views.group(1)),
@@ -141,21 +187,25 @@ def run(date_str, root):
     ref_day = date.fromisoformat(date_str)
     out_dir = Path(root) / "data" / "engagement" / date_str
     out_dir.mkdir(parents=True, exist_ok=True)
-    yt_errors = []
-    yt_items = collect_youtube(ref_day, yt_errors)
+    shared_errors = []
+    yt_items = collect_youtube(ref_day, shared_errors)
+    masto_all = collect_mastodon(ref_day, shared_errors)
+    lang_region = {lang: r for r, langs in REGION_LANGS.items() for lang in langs}
     for region in REGION_LANGS:
-        errors = list(yt_errors)
+        errors = list(shared_errors)
         bsky_items = collect_bsky(region, ref_day, errors)
+        masto_items = [it for it in masto_all if lang_region.get(it["lang"][:2]) == region]
         doc = {
             "date": date_str, "region": region,
             "collected_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-            "sources": {"bluesky": len(bsky_items), "youtube": len(yt_items)},
+            "sources": {"bluesky": len(bsky_items), "mastodon": len(masto_items), "youtube": len(yt_items)},
             "errors": errors,
-            "items": bsky_items + yt_items,
+            "items": bsky_items + masto_items + yt_items,
         }
         with open(out_dir / f"{region}.json", "w", encoding="utf-8") as f:
             json.dump(doc, f, ensure_ascii=False, indent=2)
-        print(f"{region}: bluesky={len(bsky_items)} youtube={len(yt_items)} errors={len(errors)}")
+        print(f"{region}: bluesky={len(bsky_items)} mastodon={len(masto_items)} "
+              f"youtube={len(yt_items)} errors={len(errors)}")
     return 0
 
 

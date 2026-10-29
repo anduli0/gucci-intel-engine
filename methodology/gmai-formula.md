@@ -91,6 +91,27 @@ w_i = tier_weight × recency_weight
   followers, comments = replies, shares = reposts + quotes) plus the official
   Gucci YouTube RSS (all regions; tier T2; reach = views, likes). Same w_i and
   ratio_i as above. Fail-soft: no file -> previous behavior.
+- v2.3 estimator (2026-10-29) for collected items — replaces the ×50 ratio,
+  which saturated (≈30% of posts at 1.0, ≈40% at 0) and was not comparable
+  across platforms or audience sizes:
+  1. x_i = likes + 2·comments + 3·shares (effort hierarchy: affective <
+     cognitive < behavioral), n_i = exposure (followers; views for video).
+  2. Empirical-Bayes shrinkage of the rate: fit Beta(α, β) by method of
+     moments per (platform, media, follower band <100/<1k/<10k/≥10k) over the
+     trailing 30 days pooled across regions; r̃_i = (x_i + α)/(n_i + α + β).
+     Small accounts' noisy 0/1-like rates move toward their group mean.
+  3. u_i = mid-rank empirical CDF of r̃_i within that group (platform pool when
+     a band has <20 items). 0.5 = a typical post for that platform and audience
+     size, removing the platform and follower-size biases.
+  4. Earned media only (public posts: Bluesky, Mastodon #gucci tag timelines).
+     Brand-owned content (Gucci YouTube) is NOT regional audience reaction; it
+     is reported as owned_engagement (diagnostic, not in GMAI).
+  5. Max 3 most recent posts per author per region (bot/spam control).
+  6. S_r = Σ w_i·u_i / Σ w_i (w_i = tier × recency as §3.1);
+     n_eff = (Σw)²/Σw²; Engagement_r = (n_eff·S_r + 5·0.5)/(n_eff + 5).
+  Snapshot fields: engagement_method (v2.3-eb-percentile | v2.1-ratio),
+  engagement_n_eff, engagement_sources, owned_engagement. Without a collection
+  file the v2.1 ratio over raw items applies (the §3.6 selftest path).
 
 (d) Share of Voice
 - Competitor set: data/sources/pool.json competitor_set (currently Louis Vuitton,
