@@ -30,6 +30,8 @@ run_opt() {
 }
 
 run_core "/news-scrap"
+# Engagement metrics: plain script, never left to an LLM step (which may skip it).
+python scripts/collect_engagement.py "$START_DAY" || echo "WARN: engagement collection failed"
 run_core "/daily-gucci"
 run_core "/daily-brief"
 run_opt  "/cd-watch"

@@ -15,6 +15,7 @@ python -c "import json,datetime;open('logs/run.lock','w').write(json.dumps({'cmd
 echo [%date% %time%] 1/3 news-scrap >> %LOG%
 call claude -p "/news-scrap" --dangerously-skip-permissions >> %LOG% 2>&1
 
+python scripts\collect_engagement.py >> %LOG% 2>&1
 echo [%date% %time%] 2/3 daily-gucci >> %LOG%
 call claude -p "/daily-gucci" --dangerously-skip-permissions >> %LOG% 2>&1
 
