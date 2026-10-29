@@ -77,6 +77,16 @@ def main():
 
     clean_dated_files(DATA / "analysis", "*.md")
 
+    # index-only scan data lives in dated folders: buzz needs today only,
+    # engagement keeps a 30-day reference window (compute_gmai ENG_REF_DAYS)
+    for sub, keep in (("buzz", KEEP_DAYS), ("engagement", 45)):
+        base = DATA / sub
+        cut = (date.today() - timedelta(days=keep)).isoformat()
+        for d in sorted(base.iterdir()) if base.exists() else []:
+            if d.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", d.name) and d.name < cut:
+                shutil.rmtree(d, ignore_errors=True)
+                removed.append(str(d.relative_to(ROOT)))
+
     # product images: drop files the latest board no longer references
     img_dir = DATA / "products" / "images"
     boards = sorted((DATA / "products").glob("*.json"), key=file_date)

@@ -35,10 +35,11 @@ jobs:
         run: |
           D=$(date +%F)
           python scripts/collect_engagement.py "$D"
+          python scripts/collect_buzz.py "$D"
           python scripts/compute_gmai.py "$D"
           git config user.name "gucci-intel-bot"
           git config user.email "minkyu494@gmail.com"
-          git add data/engagement data/index
+          git add data/engagement data/buzz data/index
           git commit -m "data: $D index recompute (engagement v2.3)" || echo "no data changes"
           git pull --rebase && git push || echo "push skipped"
 

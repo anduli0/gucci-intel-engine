@@ -32,6 +32,7 @@ run_opt() {
 run_core "/news-scrap"
 # Engagement metrics: plain script, never left to an LLM step (which may skip it).
 python scripts/collect_engagement.py "$START_DAY" || echo "WARN: engagement collection failed"
+python scripts/collect_buzz.py "$START_DAY" || echo "WARN: buzz scan failed"
 run_core "/daily-gucci"
 # Integrity gate: when engagement data exists, the index MUST carry the v2.3
 # estimator. If the LLM step skipped/used a stale computation, recompute

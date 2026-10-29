@@ -17,6 +17,7 @@ import csv
 import json
 import math
 import sys
+import urllib.parse
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
@@ -239,6 +240,47 @@ def eb_percentile(it, ref):
     return (lo + 0.5 * (hi - lo)) / len(post)
 
 
+# §3.2b source influence (data/sources/buzz_registry.json): reach, parent scale,
+# heritage, accreditation -> per-source weight on Buzz volume.
+BUZZ_UNLISTED = 0.7
+BUZZ_BODY_ONLY = 0.3   # scan hit without the brand in its title (~90% of hits; noisy)
+
+
+def load_buzz_registry(root):
+    """region -> [(domains, lowercase name, weight)]; global outlets included
+    in every region. Empty dict when the registry file is absent."""
+    try:
+        with open(Path(root) / "data" / "sources" / "buzz_registry.json", "r", encoding="utf-8") as f:
+            reg = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+    def entries(lst):
+        out = []
+        for e in lst:
+            infl = 0.40 * e["R"] + 0.20 * e["S"] + 0.25 * e["H"] + 0.15 * e["A"]
+            out.append((tuple(d.lower() for d in e.get("domains", [])), e["name"].lower(),
+                        0.5 + (infl - 1.0) / 4.0))
+        return out
+    glob = entries(reg.get("global", []))
+    return {r: glob + entries(lst) for r, lst in reg.get("regions", {}).items()}
+
+
+def source_weight(item, sources):
+    """Influence weight of the item's source: URL domain match first, then
+    source-name match; unlisted sources get BUZZ_UNLISTED."""
+    host = urllib.parse.urlparse(str(item.get("url") or "")).netloc.lower()
+    host = host[4:] if host.startswith("www.") else host
+    name = str(item.get("source") or "").lower()
+    best = None
+    for domains, nm, w in sources:
+        if host and any(host == d or host.endswith("." + d) for d in domains):
+            return w
+        if best is None and nm and (nm == name or (len(nm) > 3 and nm in name)):
+            best = w
+    return best if best is not None else BUZZ_UNLISTED
+
+
 IG_BLEND = 0.30        # share of the global Instagram heat in each region's Engagement
 IG_SHRINK_K = 5.0      # pseudo-posts at 0.5 for a thin Gucci sample
 
@@ -322,14 +364,16 @@ def compute_sov(mention_counts, neutral=0.125):
 
 
 def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutral=0.125,
-                   eng_items=None):
+                   eng_items=None, buzz_sources=None, baseline_w=None, buzz_items=None):
     """Return the full component breakdown for one region (§3.1-3.3 v2).
     eng_items: metric-only items (collect_engagement.py) that feed Engagement
     and nothing else."""
     weights, wsm = [], 0.0
     weng_num, weng_den = 0.0, 0.0            # metric-bearing items only
     v_today = 0.0                            # multi-channel volume (Buzz input)
+    v_today_w = 0.0                          # same, source-influence weighted (§3.2b v2.4)
     channel_mix = {"news": 0, "sns": 0, "community": 0}
+    buzz_listed = 0                          # items matched in buzz_registry.json
     counts = {"pos": 0, "neu": 0, "neg": 0}
     matched = 0                              # items with a sentiment record
     tag_impact = {}                          # signal_tag -> Σ(w·s·mag)
@@ -353,7 +397,25 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
             weng_den += w
         ch = source_channel(it)
         channel_mix[ch] += 1
-        v_today += CHANNEL_WEIGHTS[ch] * recency_weight(it.get("published_at"), ref_day)
+        sw = source_weight(it, buzz_sources) if buzz_sources is not None else 1.0
+        buzz_listed += sw != BUZZ_UNLISTED
+        rw = CHANNEL_WEIGHTS[ch] * recency_weight(it.get("published_at"), ref_day)
+        v_today += rw
+        v_today_w += rw * sw
+
+    # §3.2b v2.4 broad scan: registry-wide news scan + earned SNS posts add to
+    # the weighted volume only (reports never read them).
+    seen = {str(it.get("title", "")).strip().lower() for it in items}
+    buzz_scan_n = 0
+    for it in buzz_items or []:
+        key = str(it.get("title", "")).strip().lower()
+        if key and key in seen:
+            continue
+        seen.add(key)
+        rel = 1.0 if it.get("title_match", True) else BUZZ_BODY_ONLY
+        sw = source_weight(it, buzz_sources) if buzz_sources is not None else 1.0
+        v_today_w += CHANNEL_WEIGHTS[source_channel(it)] * sw * rel * recency_weight(it.get("published_at"), ref_day)
+        buzz_scan_n += 1
 
     # v2.3 (§3.2c): earned-media items scored by eb_percentile() replace the
     # v2.1 ratio whenever present; raw-pool ratios stay as the no-data fallback.
@@ -390,14 +452,19 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
     engagement_known = weng_den > EPS
     engagement = (weng_num / weng_den) if engagement_known else 0.5
 
-    history = [v for _, v in baseline_v]
+    # The weighted series is compared only with its own history: switch to it
+    # once BASELINE_MIN_DAYS weighted days exist (no unweighted/weighted mixing).
+    hist_w = [v for _, v in (baseline_w or [])]
+    weighted = buzz_sources is not None and len(hist_w) >= BASELINE_MIN_DAYS
+    history = hist_w if weighted else [v for _, v in baseline_v]
+    v_cmp = v_today_w if weighted else v_today
     if len(history) < BASELINE_MIN_DAYS:
         buzz = 0.5
     else:
         mu = sum(history) / len(history)
         var = sum((v - mu) ** 2 for v in history) / len(history)
         sigma = math.sqrt(var)
-        buzz = sigmoid((v_today - mu) / (sigma + EPS))
+        buzz = sigmoid((v_cmp - mu) / (sigma + EPS))
 
     sov, sov_known = compute_sov(mention_counts, neutral)
     gmai = 100.0 * (W_SENT * sentiment + W_BUZZ * buzz + W_ENG * engagement + W_SOV * sov)
@@ -446,9 +513,14 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
         "low_evidence": eff_n < 3.0,
         "drivers": drivers,
         "channel_mix": channel_mix,
+        "buzz_registry_share": round(buzz_listed / len(items), 3) if (items and buzz_sources is not None) else None,
         "counts": counts,
         "n_items": len(items),
         "v_today": round(v_today, 4),
+        "v_today_w": round(v_today_w, 4),
+        "buzz_method": "v2.4-influence-weighted" if weighted else "v2.1-count",
+        "buzz_weighted_baseline_days": len(hist_w),
+        "buzz_scan_items": buzz_scan_n,
     }
 
 
@@ -522,6 +594,7 @@ def run(date_str, root):
 
     baseline = load_baseline(baseline_path)
     eng_ref = build_eng_reference(root, date_str)
+    buzz_reg = load_buzz_registry(root)
     ig = ig_heat(root, date_str)
     results, missing = {}, []
     for region in REGIONS:
@@ -539,6 +612,9 @@ def run(date_str, root):
         history = [(d, v) for d, v in baseline.get(region, []) if d < date_str][-BASELINE_WINDOW:]
         eng_path = root / "data" / "engagement" / date_str / f"{region}.json"
         eng_items = load_raw(eng_path)[0] if eng_path.exists() else []
+        buzz_path = root / "data" / "buzz" / date_str / f"{region}.json"
+        buzz_items = load_raw(buzz_path)[0] if buzz_path.exists() else []
+        buzz_items += [it for it in eng_items if it.get("media", "earned") == "earned"]
         owned_u = []
         for it in eng_items:
             u = eb_percentile(it, eng_ref)
@@ -547,7 +623,11 @@ def run(date_str, root):
             elif u is not None:
                 owned_u.append(u)   # brand-owned: diagnostic only, not regional reaction
         results[region] = compute_region(items, sent_by_id, mention_counts, ref_day, history,
-                                         neutral=sov_neutral(root), eng_items=eng_items)
+                                         neutral=sov_neutral(root), eng_items=eng_items,
+                                         buzz_sources=buzz_reg.get(region),
+                                         baseline_w=[(d, v) for d, v in baseline.get(region + "@w", [])
+                                                     if d < date_str][-BASELINE_WINDOW:],
+                                         buzz_items=buzz_items)
         results[region]["sov_source"] = "objective" if mention_counts else "missing-neutral"
         results[region]["owned_engagement"] = round(sum(owned_u) / len(owned_u), 4) if owned_u else None
         if ig:
@@ -642,6 +722,10 @@ def run(date_str, root):
         entries.append([date_str, res["v_today"]])
         entries.sort(key=lambda e: e[0])
         baseline[region] = entries[-(BASELINE_WINDOW * 2):]
+        if res.get("v_today_w") is not None and res.get("buzz_registry_share") is not None:
+            wk = region + "@w"
+            went = [e for e in baseline.get(wk, []) if e[0] != date_str] + [[date_str, res["v_today_w"]]]
+            baseline[wk] = sorted(went, key=lambda e: e[0])[-(BASELINE_WINDOW * 2):]
     with open(baseline_path, "w", encoding="utf-8") as f:
         json.dump(baseline, f, ensure_ascii=False, indent=2)
 

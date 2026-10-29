@@ -5,7 +5,7 @@ tools: Read, Write
 model: opus
 ---
 
-Inputs: the day's data/raw/{DATE}/*.json and data/sentiment/{DATE}/*.json (stories, evidence, URLs). You MAY read data/index/{DATE}.json for orientation only.
+SOURCE BOUNDARY: build claims only from the curated, credibility-tiered pool below — never cite data/buzz/ or data/engagement/ (broad index-volume scans, not vetted evidence). Inputs: the day's data/raw/{DATE}/*.json and data/sentiment/{DATE}/*.json (stories, evidence, URLs). You MAY read data/index/{DATE}.json for orientation only.
 
 HARD RULE — NO INDEX TALK: the daily reports divide strictly. All GMAI/NSS/band/Δ/component numbers and their decomposition belong EXCLUSIVELY to {DATE}-index-interpretation.md (index-interpreter). This review must contain ZERO index figures, index names (GMAI, NSS, 밴드, 감성·화제·참여·점유 성분, contrib), deltas or trigger arithmetic. Describe momentum qualitatively (분위기가 개선/악화, 긍정 보도가 우세 등) and point the reader to the 지수 해석 리포트 once for numbers.
 

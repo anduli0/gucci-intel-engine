@@ -1,0 +1,1391 @@
+{
+  "version": "1.0 (2026-10-29)",
+  "criteria": {
+    "R": "reach - audience size (monthly users / visits / circulation / views), 1-5",
+    "S": "scale of the parent company / platform owner, 1-5",
+    "H": "reputation and heritage (tradition, editorial standing), 1-5",
+    "A": "accreditation (audited circulation, press-council / regulator membership, verified platform), 1-5",
+    "influence": "I = 0.40R + 0.20S + 0.25H + 0.15A (1-5); weight = 0.5 + (I-1)/4 (0.5-1.5); unlisted source = 0.7",
+    "priority": "A (I >= 3.8): collector must check it every run; B: checked when time allows"
+  },
+  "global": [
+    {
+      "name": "Reuters",
+      "domains": [
+        "reuters.com"
+      ],
+      "channel": "news",
+      "R": 5,
+      "S": 5,
+      "H": 5,
+      "A": 5
+    },
+    {
+      "name": "Bloomberg",
+      "domains": [
+        "bloomberg.com"
+      ],
+      "channel": "news",
+      "R": 5,
+      "S": 5,
+      "H": 5,
+      "A": 5
+    },
+    {
+      "name": "Financial Times",
+      "domains": [
+        "ft.com"
+      ],
+      "channel": "news",
+      "R": 4,
+      "S": 5,
+      "H": 5,
+      "A": 5
+    },
+    {
+      "name": "Business of Fashion",
+      "domains": [
+        "businessoffashion.com"
+      ],
+      "channel": "news",
+      "R": 4,
+      "S": 3,
+      "H": 4,
+      "A": 4
+    },
+    {
+      "name": "Vogue Business",
+      "domains": [
+        "voguebusiness.com"
+      ],
+      "channel": "news",
+      "R": 3,
+      "S": 5,
+      "H": 4,
+      "A": 4
+    },
+    {
+      "name": "WWD",
+      "domains": [
+        "wwd.com"
+      ],
+      "channel": "news",
+      "R": 4,
+      "S": 4,
+      "H": 5,
+      "A": 4
+    },
+    {
+      "name": "Vogue (global)",
+      "domains": [
+        "vogue.com"
+      ],
+      "channel": "news",
+      "R": 5,
+      "S": 5,
+      "H": 5,
+      "A": 4
+    },
+    {
+      "name": "Instagram",
+      "domains": [
+        "instagram.com"
+      ],
+      "channel": "sns",
+      "R": 5,
+      "S": 5,
+      "H": 3,
+      "A": 3
+    },
+    {
+      "name": "TikTok",
+      "domains": [
+        "tiktok.com"
+      ],
+      "channel": "sns",
+      "R": 5,
+      "S": 5,
+      "H": 2,
+      "A": 3
+    },
+    {
+      "name": "YouTube",
+      "domains": [
+        "youtube.com",
+        "youtu.be"
+      ],
+      "channel": "sns",
+      "R": 5,
+      "S": 5,
+      "H": 3,
+      "A": 3
+    },
+    {
+      "name": "X (Twitter)",
+      "domains": [
+        "x.com",
+        "twitter.com"
+      ],
+      "channel": "sns",
+      "R": 4,
+      "S": 4,
+      "H": 3,
+      "A": 2
+    },
+    {
+      "name": "Threads",
+      "domains": [
+        "threads.net",
+        "threads.com"
+      ],
+      "channel": "sns",
+      "R": 3,
+      "S": 5,
+      "H": 2,
+      "A": 3
+    },
+    {
+      "name": "Reddit",
+      "domains": [
+        "reddit.com"
+      ],
+      "channel": "community",
+      "R": 5,
+      "S": 4,
+      "H": 3,
+      "A": 2
+    }
+  ],
+  "regions": {
+    "NEA": [
+      {
+        "name": "Chosun Ilbo",
+        "domains": [
+          "chosun.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "JoongAng Ilbo",
+        "domains": [
+          "joongang.co.kr"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Dong-A Ilbo",
+        "domains": [
+          "donga.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Yonhap News",
+        "domains": [
+          "yna.co.kr"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Maeil Business",
+        "domains": [
+          "mk.co.kr"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 4,
+        "H": 4,
+        "A": 5
+      },
+      {
+        "name": "Korea Economic Daily",
+        "domains": [
+          "hankyung.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 4,
+        "H": 4,
+        "A": 5
+      },
+      {
+        "name": "Vogue Korea",
+        "domains": [
+          "vogue.co.kr"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 5,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Harper's Bazaar Korea",
+        "domains": [
+          "harpersbazaar.co.kr"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 5,
+        "H": 4,
+        "A": 3
+      },
+      {
+        "name": "Fashionbiz Korea",
+        "domains": [
+          "fashionbiz.co.kr"
+        ],
+        "channel": "news",
+        "R": 2,
+        "S": 2,
+        "H": 4,
+        "A": 3
+      },
+      {
+        "name": "Nikkei",
+        "domains": [
+          "nikkei.com",
+          "asia.nikkei.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Asahi Shimbun",
+        "domains": [
+          "asahi.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Yomiuri Shimbun",
+        "domains": [
+          "yomiuri.co.jp"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "NHK",
+        "domains": [
+          "nhk.or.jp"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "WWD Japan",
+        "domains": [
+          "wwdjapan.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 3,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Fashionsnap",
+        "domains": [
+          "fashionsnap.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 2,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Vogue Japan",
+        "domains": [
+          "vogue.co.jp"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 5,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "South China Morning Post",
+        "domains": [
+          "scmp.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 5,
+        "A": 4
+      },
+      {
+        "name": "Jing Daily",
+        "domains": [
+          "jingdaily.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 2,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Caixin",
+        "domains": [
+          "caixin.com",
+          "caixinglobal.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 3,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Jiemian",
+        "domains": [
+          "jiemian.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 3,
+        "H": 3,
+        "A": 4
+      },
+      {
+        "name": "Vogue China",
+        "domains": [
+          "vogue.com.cn"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 5,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Weibo",
+        "domains": [
+          "weibo.com",
+          "weibo.cn"
+        ],
+        "channel": "sns",
+        "R": 5,
+        "S": 5,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Xiaohongshu (RED)",
+        "domains": [
+          "xiaohongshu.com",
+          "xhslink.com"
+        ],
+        "channel": "sns",
+        "R": 5,
+        "S": 4,
+        "H": 2,
+        "A": 3
+      },
+      {
+        "name": "Douyin",
+        "domains": [
+          "douyin.com"
+        ],
+        "channel": "sns",
+        "R": 5,
+        "S": 5,
+        "H": 2,
+        "A": 3
+      },
+      {
+        "name": "LINE",
+        "domains": [
+          "line.me"
+        ],
+        "channel": "sns",
+        "R": 4,
+        "S": 4,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Naver Blog",
+        "domains": [
+          "blog.naver.com"
+        ],
+        "channel": "community",
+        "R": 5,
+        "S": 5,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Naver Cafe",
+        "domains": [
+          "cafe.naver.com"
+        ],
+        "channel": "community",
+        "R": 5,
+        "S": 5,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "theqoo",
+        "domains": [
+          "theqoo.net"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 2,
+        "H": 2,
+        "A": 1
+      },
+      {
+        "name": "DC Inside",
+        "domains": [
+          "dcinside.com"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 2,
+        "H": 3,
+        "A": 1
+      },
+      {
+        "name": "FM Korea",
+        "domains": [
+          "fmkorea.com"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 2,
+        "H": 2,
+        "A": 1
+      },
+      {
+        "name": "Instiz",
+        "domains": [
+          "instiz.net"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 1,
+        "H": 2,
+        "A": 1
+      },
+      {
+        "name": "5channel",
+        "domains": [
+          "5ch.net"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 2,
+        "H": 3,
+        "A": 1
+      },
+      {
+        "name": "Girls Channel",
+        "domains": [
+          "girlschannel.net"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 2,
+        "H": 2,
+        "A": 1
+      },
+      {
+        "name": "Yahoo! Chiebukuro",
+        "domains": [
+          "chiebukuro.yahoo.co.jp"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 4,
+        "H": 3,
+        "A": 2
+      },
+      {
+        "name": "Zhihu",
+        "domains": [
+          "zhihu.com"
+        ],
+        "channel": "community",
+        "R": 5,
+        "S": 4,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Douban",
+        "domains": [
+          "douban.com"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 3,
+        "H": 4,
+        "A": 2
+      },
+      {
+        "name": "Baidu Tieba",
+        "domains": [
+          "tieba.baidu.com"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 5,
+        "H": 3,
+        "A": 2
+      }
+    ],
+    "SEA": [
+      {
+        "name": "The Straits Times",
+        "domains": [
+          "straitstimes.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "CNA",
+        "domains": [
+          "channelnewsasia.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 4,
+        "A": 5
+      },
+      {
+        "name": "Bangkok Post",
+        "domains": [
+          "bangkokpost.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 3,
+        "H": 5,
+        "A": 4
+      },
+      {
+        "name": "Thairath",
+        "domains": [
+          "thairath.co.th"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 3,
+        "H": 5,
+        "A": 4
+      },
+      {
+        "name": "Kompas",
+        "domains": [
+          "kompas.com",
+          "kompas.id"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 4
+      },
+      {
+        "name": "Detik",
+        "domains": [
+          "detik.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 3,
+        "A": 4
+      },
+      {
+        "name": "The Star Malaysia",
+        "domains": [
+          "thestar.com.my"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 3,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Philippine Daily Inquirer",
+        "domains": [
+          "inquirer.net"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 3,
+        "H": 5,
+        "A": 4
+      },
+      {
+        "name": "VnExpress",
+        "domains": [
+          "vnexpress.net"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 3,
+        "H": 3,
+        "A": 4
+      },
+      {
+        "name": "Tatler Asia",
+        "domains": [
+          "tatlerasia.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 3,
+        "H": 4,
+        "A": 3
+      },
+      {
+        "name": "Vogue Singapore",
+        "domains": [
+          "vogue.sg"
+        ],
+        "channel": "news",
+        "R": 2,
+        "S": 5,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Vogue Thailand",
+        "domains": [
+          "vogue.co.th"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 5,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Prestige Online",
+        "domains": [
+          "prestigeonline.com"
+        ],
+        "channel": "news",
+        "R": 2,
+        "S": 2,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Lifestyle Asia",
+        "domains": [
+          "lifestyleasia.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 2,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Harper's Bazaar Singapore",
+        "domains": [
+          "harpersbazaar.com.sg"
+        ],
+        "channel": "news",
+        "R": 2,
+        "S": 5,
+        "H": 4,
+        "A": 3
+      },
+      {
+        "name": "Facebook",
+        "domains": [
+          "facebook.com",
+          "fb.com"
+        ],
+        "channel": "sns",
+        "R": 5,
+        "S": 5,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "LINE",
+        "domains": [
+          "line.me"
+        ],
+        "channel": "sns",
+        "R": 4,
+        "S": 4,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Pantip",
+        "domains": [
+          "pantip.com"
+        ],
+        "channel": "community",
+        "R": 5,
+        "S": 2,
+        "H": 4,
+        "A": 2
+      },
+      {
+        "name": "Kaskus",
+        "domains": [
+          "kaskus.co.id"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 2,
+        "H": 4,
+        "A": 2
+      },
+      {
+        "name": "HardwareZone Forums",
+        "domains": [
+          "forums.hardwarezone.com.sg"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 4,
+        "H": 4,
+        "A": 2
+      },
+      {
+        "name": "Lowyat Forum",
+        "domains": [
+          "forum.lowyat.net"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 2,
+        "H": 3,
+        "A": 1
+      },
+      {
+        "name": "Webtretho",
+        "domains": [
+          "webtretho.com"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 2,
+        "H": 3,
+        "A": 1
+      }
+    ],
+    "NA": [
+      {
+        "name": "The New York Times",
+        "domains": [
+          "nytimes.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "The Wall Street Journal",
+        "domains": [
+          "wsj.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "The Washington Post",
+        "domains": [
+          "washingtonpost.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "CNBC",
+        "domains": [
+          "cnbc.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 4,
+        "A": 5
+      },
+      {
+        "name": "CNN Style",
+        "domains": [
+          "cnn.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 4,
+        "A": 5
+      },
+      {
+        "name": "Forbes",
+        "domains": [
+          "forbes.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 3,
+        "H": 4,
+        "A": 3
+      },
+      {
+        "name": "Fortune",
+        "domains": [
+          "fortune.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 3,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Los Angeles Times",
+        "domains": [
+          "latimes.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 3,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Harper's Bazaar US",
+        "domains": [
+          "harpersbazaar.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 5,
+        "A": 4
+      },
+      {
+        "name": "GQ",
+        "domains": [
+          "gq.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Elle US",
+        "domains": [
+          "elle.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "People",
+        "domains": [
+          "people.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Page Six",
+        "domains": [
+          "pagesix.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 2,
+        "A": 3
+      },
+      {
+        "name": "Hypebeast",
+        "domains": [
+          "hypebeast.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 3,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Highsnobiety",
+        "domains": [
+          "highsnobiety.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 2,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Robb Report",
+        "domains": [
+          "robbreport.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 4,
+        "H": 4,
+        "A": 3
+      },
+      {
+        "name": "Facebook",
+        "domains": [
+          "facebook.com",
+          "fb.com"
+        ],
+        "channel": "sns",
+        "R": 5,
+        "S": 5,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Pinterest",
+        "domains": [
+          "pinterest.com"
+        ],
+        "channel": "sns",
+        "R": 4,
+        "S": 4,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "Bluesky",
+        "domains": [
+          "bsky.app"
+        ],
+        "channel": "sns",
+        "R": 2,
+        "S": 2,
+        "H": 2,
+        "A": 2
+      },
+      {
+        "name": "PurseForum",
+        "domains": [
+          "forum.purseblog.com"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 2,
+        "H": 4,
+        "A": 1
+      },
+      {
+        "name": "PurseBlog",
+        "domains": [
+          "purseblog.com"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 2,
+        "H": 4,
+        "A": 2
+      },
+      {
+        "name": "The Fashion Spot",
+        "domains": [
+          "thefashionspot.com"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 2,
+        "H": 4,
+        "A": 1
+      },
+      {
+        "name": "Styleforum",
+        "domains": [
+          "styleforum.net"
+        ],
+        "channel": "community",
+        "R": 2,
+        "S": 1,
+        "H": 4,
+        "A": 1
+      }
+    ],
+    "EU": [
+      {
+        "name": "The Times",
+        "domains": [
+          "thetimes.co.uk",
+          "thetimes.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "The Guardian",
+        "domains": [
+          "theguardian.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "BBC",
+        "domains": [
+          "bbc.com",
+          "bbc.co.uk"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "The Telegraph",
+        "domains": [
+          "telegraph.co.uk"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Le Monde",
+        "domains": [
+          "lemonde.fr"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Le Figaro",
+        "domains": [
+          "lefigaro.fr"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Les Echos",
+        "domains": [
+          "lesechos.fr"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Corriere della Sera",
+        "domains": [
+          "corriere.it"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Il Sole 24 Ore",
+        "domains": [
+          "ilsole24ore.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "La Repubblica",
+        "domains": [
+          "repubblica.it"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "MF Fashion",
+        "domains": [
+          "milanofinanza.it",
+          "mffashion.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 3,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Pambianco",
+        "domains": [
+          "pambianconews.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 2,
+        "H": 4,
+        "A": 3
+      },
+      {
+        "name": "FashionNetwork",
+        "domains": [
+          "fashionnetwork.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 2,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "El Pais",
+        "domains": [
+          "elpais.com"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Expansion",
+        "domains": [
+          "expansion.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 4,
+        "H": 4,
+        "A": 4
+      },
+      {
+        "name": "Handelsblatt",
+        "domains": [
+          "handelsblatt.com"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "FAZ",
+        "domains": [
+          "faz.net"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Der Spiegel",
+        "domains": [
+          "spiegel.de"
+        ],
+        "channel": "news",
+        "R": 5,
+        "S": 4,
+        "H": 5,
+        "A": 5
+      },
+      {
+        "name": "Vogue UK",
+        "domains": [
+          "vogue.co.uk"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 5,
+        "A": 4
+      },
+      {
+        "name": "Vogue France",
+        "domains": [
+          "vogue.fr"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 5,
+        "A": 4
+      },
+      {
+        "name": "Vogue Italia",
+        "domains": [
+          "vogue.it"
+        ],
+        "channel": "news",
+        "R": 4,
+        "S": 5,
+        "H": 5,
+        "A": 4
+      },
+      {
+        "name": "Dazed",
+        "domains": [
+          "dazeddigital.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 2,
+        "H": 4,
+        "A": 3
+      },
+      {
+        "name": "i-D",
+        "domains": [
+          "i-d.co",
+          "i-d.vice.com"
+        ],
+        "channel": "news",
+        "R": 3,
+        "S": 3,
+        "H": 4,
+        "A": 3
+      },
+      {
+        "name": "Facebook",
+        "domains": [
+          "facebook.com",
+          "fb.com"
+        ],
+        "channel": "sns",
+        "R": 5,
+        "S": 5,
+        "H": 3,
+        "A": 3
+      },
+      {
+        "name": "The Fashion Spot",
+        "domains": [
+          "thefashionspot.com"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 2,
+        "H": 4,
+        "A": 1
+      },
+      {
+        "name": "PurseForum",
+        "domains": [
+          "forum.purseblog.com"
+        ],
+        "channel": "community",
+        "R": 3,
+        "S": 2,
+        "H": 4,
+        "A": 1
+      },
+      {
+        "name": "Mumsnet",
+        "domains": [
+          "mumsnet.com"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 2,
+        "H": 4,
+        "A": 2
+      },
+      {
+        "name": "Doctissimo",
+        "domains": [
+          "doctissimo.fr"
+        ],
+        "channel": "community",
+        "R": 4,
+        "S": 3,
+        "H": 3,
+        "A": 2
+      }
+    ]
+  }
+}

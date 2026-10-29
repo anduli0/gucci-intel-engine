@@ -75,6 +75,25 @@ w_i = tier_weight × recency_weight
 - If fewer than 5 baseline days exist: Buzz_r = 0.5 (withhold judgment)
 - The snapshot records channel_mix (item counts per channel) for transparency.
 
+- v2.4 (2026-10-29) source influence + broad scan:
+  * Source registry data/sources/buzz_registry.json scores every news / SNS /
+    community source per region on R reach, S parent scale, H heritage,
+    A accreditation (1-5); I = 0.40R + 0.20S + 0.25H + 0.15A; source weight
+    = 0.5 + (I-1)/4 (0.5-1.5), unlisted 0.7. Priority A (I >= 3.8) sources are
+    checked by the collectors every run.
+  * scripts/collect_buzz.py scans every registry news domain via Google News
+    RSS (7-day window); earned SNS posts from collect_engagement.py are added.
+    Scan hits feed Buzz volume ONLY; a hit without the brand in its title
+    counts 0.3 (≈90% of hits are body/sidebar mentions).
+  * V_w = Σ channel_w · source_w · relevance · recency over pool + scan items
+    (title-deduped). The weighted series is compared only with its own
+    history (baseline key REGION@w); until 5 weighted days exist Buzz keeps
+    the v2.1 count series (buzz_method v2.1-count -> v2.4-influence-weighted).
+  * Separation principle: reports (business review, luxury brief, special)
+    use only the curated, credibility-tiered pool (data/raw) — precision
+    matters for claims. Index volume uses the broad scan — recall and sample
+    size matter for measuring how widely Gucci is discussed.
+
 (c) Engagement depth — interaction per piece of content, metric-bearing items ONLY
 - An item is metric-bearing iff reach > 0 AND at least one of likes/comments/
   shares is reported by the source. All other items are EXCLUDED (v1 averaged
