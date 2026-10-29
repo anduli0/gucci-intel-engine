@@ -26,6 +26,22 @@ try {
     if ($daily.Count -gt 0) { L "cloud run in progress (id=$($daily[0].id)) - no-op"; exit 0 }
 } catch { L "actions check failed: $($_.Exception.Message) - continuing" }
 
+# Alarm (independent of GitHub): if the site is still stale at 11:00+ and no
+# cloud run is live, pop a desktop warning once a day with the latest cloud
+# result. GitHub's own failure mail can't fire when Actions itself is blocked.
+$marker = Join-Path $root "logs\stale-alert-$today.flag"
+if ((Get-Date).Hour -ge 11 -and -not (Test-Path $marker)) {
+    $last = "unknown"
+    try {
+        $r = (Invoke-RestMethod "https://api.github.com/repos/anduli0/gucci-intel-engine/actions/runs?per_page=1" -TimeoutSec 30).workflow_runs[0]
+        $last = "$($r.conclusion) ($($r.created_at))"
+    } catch {}
+    $msg = "Gucci Intel site is stale (site=$($s.date), today=$today).`nLast cloud run: $last`nstartup_failure = check GitHub account (email/billing). failure = check token/logs."
+    New-Item -ItemType File -Path $marker -Force | Out-Null
+    L "ALERT shown: $($msg -replace "`n", ' | ')"
+    Start-Process powershell -WindowStyle Hidden -ArgumentList "-NoProfile", "-Command", "(New-Object -ComObject WScript.Shell).Popup('$($msg -replace "'", "''")', 0, 'Gucci Intel - update stalled', 48)"
+}
+
 # Gate 3: is claude logged in on this PC? (otherwise every step prints
 # "Not logged in" and the run only republishes old data)
 $auth = (& claude -p "Reply with exactly: AUTH_OK" 2>&1 | Out-String)
