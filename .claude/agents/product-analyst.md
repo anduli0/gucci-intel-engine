@@ -22,8 +22,10 @@ Per product record:
 - image_url — a REAL image URL you actually observed (official gucci.com product image, press photo, or retailer product image; prefer official). Must be a direct image URL (jpg/png/webp) seen in fetched content or search results. If none found, null — NEVER guess a URL.
 - image_local — MANDATORY for every item: download the image to data/products/images/{category}-{NN}-{slug}.{ext} (use curl.exe or python urllib with a browser User-Agent via Bash) and record the FILENAME here. Validate the download: file starts with image magic bytes (JPEG FFD8 / PNG 8950 / WebP RIFF) and is > 5 KB — otherwise find another image and retry. The app serves these at /product-images/{filename}; external hotlinks get blocked, local files always render. Only if every attempt fails may image_local be null (report which items).
 - image_note — one line: what the image shows (제품 단독 / 모델 착용 / 앰배서더 착용 누구).
+- image_note_en — the same in English (the app has a KO/EN toggle; never leave Korean in it).
 - why_ko — 2-3 sentences of MARKETING analysis in Korean: target customer, price positioning, demand signal, and the marketing angle (채널·메시지 제안 포함 가능). why_en — English 1-2 sentences.
 - evidence_ko — one line: the demand/heat evidence with its source name.
+- evidence_en — the same in English.
 - product_url (official page if found), source, source_url (article backing the label), published_at.
 
 Per category also write: insight_ko (3-4 sentence category-level marketing read: 카테고리 모멘텀, 경쟁 대비 위치, 마케팅 우선순위), insight_en (1-2 sentences).
