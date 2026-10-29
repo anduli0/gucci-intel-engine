@@ -1,4 +1,4 @@
-# 유럽의 경보음: 케링 실적 쇼크가 지수에 남긴 흔적 — 2026-10-29 GMAI 지수 해석
+# 오른 것은 점수이지 호감이 아니다 — GMAI 34.91점(2주 전 10월 15일 대비 +0.82), 유럽만 12.49점 빠져 경고 구간, 세 권역의 상승은 언급량과 점유의 몫 — 2026-10-29 GMAI 지수 해석
 
 2026-10-29 / 일간 / GUCCI INTELLIGENCE
 
@@ -135,7 +135,7 @@ GMAI는 구찌가 지금 시장에서 얼마나 매력적으로 비치는지를 
 
 <!-- ===== ENGLISH EDITION ===== -->
 
-# Europe's Alarm Bell: How the Kering Earnings Shock Marked the Index — GMAI Index Interpretation, 2026-10-29
+# What Rose Was the Score, Not Sentiment — GMAI 34.91 (+0.82 vs. Two Weeks Earlier, October 15), Europe Alone Down 12.49 Points into the "Alert" Band, Three Regions Lifted by Volume and Share — GMAI Index Interpretation, 2026-10-29
 
 2026-10-29 / Daily / GUCCI INTELLIGENCE
 

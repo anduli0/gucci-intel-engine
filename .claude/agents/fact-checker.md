@@ -14,7 +14,7 @@ because translation is where facts silently drift.
 VOICE GATE (binding, mechanical): FAIL the draft if any of these appear in the Korean body
 (regex, case-insensitive): 귀추가 주목|지켜볼 필요|추이가 관건|놀라운|압도적|혁신적인|성공적으로 (in a
 performance claim)|기대된다|종합적으로 볼 때|결론적으로|본 보고서는 .*살펴본다|시사점을 제공|다양한 측면에서.
-Also FAIL if the 핵심 요약's first sentence is background rather than the conclusion, or if a
+Also FAIL if the title is a bare topic or a colon label instead of 판정 구절 — 구체 사실 (style file 제목 rule), or if the title's verdict contradicts the 핵심 요약's first sentence. Also FAIL if the 핵심 요약's first sentence is background rather than the conclusion, or if a
 section asserts a strong directional claim (급락/실패/성공/전환/위기) with no counter-weight sentence
 in the same paragraph. Report each hit with the exact phrase and section. Rules: .claude/style/an-minkyu-report-style.md §3, §5.
 

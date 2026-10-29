@@ -1,4 +1,4 @@
-# 구찌 비즈니스 리뷰 — 케링 3분기 실적 쇼크와 '턴어라운드 서사'의 균열
+# 구찌 비즈니스 리뷰 — 숫자가 반박한 턴어라운드 서사, 활성화가 상쇄하지 못한 신뢰 훼손 — 10월 22~23일 케링 3분기 구찌 매출 감소와 사상 최대 단일일 급락, 125개 이상 폐점, 12~24개월 뒤로 밀린 중국 회복
 
 2026-10-29 / 분석기간 2026-10-22~10-29 / GUCCI INTELLIGENCE
 
@@ -120,7 +120,7 @@
 
 <!-- ===== ENGLISH EDITION ===== -->
 
-# Gucci Business Review — The Kering Q3 Earnings Shock and Cracks in the "Turnaround" Narrative
+# Gucci Business Review — A Turnaround Narrative Refuted by the Numbers, a Trust Deficit Activations Could Not Offset — Kering Q3 on October 22–23: Gucci Sales Down, a Record Single-Day Stock Plunge, 125+ Store Closures, and a China Recovery Pushed 12–24 Months Out
 
 2026-10-29 / Analysis period 2026-10-22 to 10-29 / GUCCI INTELLIGENCE
 

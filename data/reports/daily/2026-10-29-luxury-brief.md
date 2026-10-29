@@ -1,4 +1,4 @@
-# 3분기 실적이 그린 분열 지도 — 중국發 소프트럭셔리 한파와 주얼리·향수의 각자도생
+# 하나의 럭셔리가 아니라 두 개의 럭셔리 — LVMH 패션·레더굿즈 -5%와 에르메스 6년래 최저 성장 뒤 8~9% 급락, 반대편의 리슈몽 주얼리 +14%·케링 주얼리 +11%·로레알 럭스 향수 +12%, 다만 에르메스는 둔화이지 역성장은 아니다
 
 2026-10-29 / 분석 대상 기간: 2026-10-01 ~ 2026-10-29 (3분기 실적 시즌 집중) / GUCCI INTELLIGENCE — Luxury Watch Daily Brief
 
@@ -130,7 +130,7 @@
 
 <!-- ===== ENGLISH EDITION ===== -->
 
-# The Map of Division Drawn by Q3 Earnings — China's Soft-Luxury Chill, and Jewelry and Fragrance Going Their Own Way
+# Not One Luxury Industry but Two — LVMH Fashion and Leather Goods -5% and Hermes' Slowest Growth in Six Years Followed by an 8-9% Share Drop, Against Richemont Jewelry +14%, Kering Jewelry +11% and L'Oreal Luxe Fragrance +12%; Hermes Is Slowing, Not Shrinking
 
 2026-10-29 / Analysis period: 2026-10-01 to 2026-10-29 (focused on Q3 earnings season) / GUCCI INTELLIGENCE — Luxury Watch Daily Brief
 

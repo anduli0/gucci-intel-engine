@@ -61,7 +61,7 @@ def checkpoint_date(p):
 
 
 ALLOWED_CMDS = {"daily-gucci", "daily-brief", "weekly-luxury", "event-response", "news-scrap", "gucci-special", "gucci-products"}
-REPORT_CATEGORIES = ("special", "cd", "daily", "weekly", "events")
+REPORT_CATEGORIES = ("special", "cd", "daily", "weekly", "events", "archive")  # archive = permanent, never pruned
 
 RUN_LOCK = threading.Lock()
 RUN_STATE = {"proc": None, "cmd": None, "arg": "", "started": None, "log": None, "exit": None}
