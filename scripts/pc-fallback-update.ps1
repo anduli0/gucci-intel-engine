@@ -26,6 +26,20 @@ try {
     if ($daily.Count -gt 0) { L "cloud run in progress (id=$($daily[0].id)) - no-op"; exit 0 }
 } catch { L "actions check failed: $($_.Exception.Message) - continuing" }
 
+# Gate 3: is claude logged in on this PC? (otherwise every step prints
+# "Not logged in" and the run only republishes old data)
+$auth = (& claude -p "Reply with exactly: AUTH_OK" 2>&1 | Out-String)
+if ($auth -notmatch "AUTH_OK") { L "claude not logged in on PC - skip local pipeline (cloud owns the update)"; exit 0 }
+
+# Sync: start from the cloud's latest data so a local publish can never
+# overwrite fresher cloud data with a stale clone. Local leftovers are stashed.
+Push-Location $root
+git stash push -u -m "pc-fallback autostash $today" 2>&1 | Out-Null
+git pull --ff-only origin main 2>&1 | Out-Null
+$synced = ($LASTEXITCODE -eq 0)
+Pop-Location
+if (-not $synced) { L "git pull --ff-only failed - skip local pipeline to avoid a stale publish"; exit 0 }
+
 # Last resort: run the local pipeline (news -> gucci -> brief [-> monday extras] -> publish)
 L "LAST RESORT: launching local daily-update.bat"
 cmd /c "`"$root\scripts\daily-update.bat`"" >> $log 2>&1

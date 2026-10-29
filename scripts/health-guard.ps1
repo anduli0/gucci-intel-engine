@@ -23,8 +23,9 @@ if (-not (Probe 'http://127.0.0.1:8791/api/status')) {
     Note 'restarted read-only viewer (8791)'
 }
 
-# Site sync: export + push the fixed viewer URL when anything changed
-# (commit no-ops when the export is identical, so this is cheap every 30 min).
-try {
-    & cmd /c "$root\scripts\publish-site.bat" | Out-Null
-} catch { Note "publish-site failed: $_" }
+# Site sync: RETIRED 2026-07-30. The cloud CI (anduli0/gucci-intel-engine
+# daily.yml) is the sole publisher of the live site, so routine local
+# publishing was removed here to stop the PC from clobbering fresh cloud data
+# with a stale local export. The genuine last-resort local publish still runs
+# via pc-fallback-update.ps1 (gated: only when all cloud paths have failed).
+# To re-enable local auto-publish, restore the publish-site.bat call below.
