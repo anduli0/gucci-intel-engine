@@ -1,0 +1,5225 @@
+{
+  "date": "2026-10-29",
+  "region": "EU",
+  "collected_at": "2026-10-29T14:33:26+00:00",
+  "domains_scanned": 34,
+  "errors": [],
+  "items": [
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Gucci owner Kering drops 16% as luxury braces for tough winter - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Fashion's AI era: face swaps and digital clones - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "El Salvador to send over 2,000 soldiers to Haiti for rescue while elections postponed - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "US sways more countries to oppose UN resolution condemning its Cuba embargo - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Shackled, shaved and in uniform: first inmates arrive at Costa Rica mega-prison - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Flavio Bolsonaro and family board flight bound for Ecuador, Argentina says - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "German climber dies on Nepal's Ama Dablam mountain - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "UK economic growth downgraded to 1% in 2027, Healey says in first budget - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Mexico, US assess viability of trade deal before midterms - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Rio Tinto doubles down in Argentina with new lithium plants - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Argentina sees EU soymeal opportunity as deforestation rules threaten Brazil trade - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "El Salvador rushes some 1,000 troops to Haiti after gang ambush, source says - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Brazil’s Lula wins historic fourth term, Flavio Bolsonaro refuses to concede - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Flavio Bolsonaro leaves Brazil for US after election defeat, source, media say - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Gold smuggling funds Islamic State-linked insurgency in eastern Congo, report says - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Two men charged in UK over RAF Fairford incident allegedly linked to Iran - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Hungary carries out dawn raids over COVID-era purchase of 17,000 ventilators - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Nigeria's president seeks parliament approval for about $21.7 billion borrowing - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Thailand sets new rules for data centres as applications surge - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Sri Lanka rescues 40 Iranian sailors, spokesman says - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Gucci sales slip again in latest blow to Kering recovery plan - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "European stocks post weekly loss as France turmoil, oil prices dent earnings optimism - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "VIDEO: Drone rescue: A Ukrainian soldier's survival story - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Myanmar's Aung San Suu Kyi speaks to son for first time in over five years - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Mexico's Bimbo lifts lower end of full-year EBITDA outlook - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Articles sitemap of 2026-10-22 - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Articles sitemap of 2026-10-23 - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Couche-Tard proposes up to $8 billion offer for Cumberland Farms, The Times reports - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Five economic challenges facing Brazil's re-elected President Lula - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Sobering quarter for Jose Cuervo distiller as profit slumps - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Colombia's lower house rejects changes to pension reform articles - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Brazil's Itau agrees to buy AI startup NeoSpace for $589 million - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Global leaders congratulate Brazil President Lula on reelection - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Poorer Brazilians devote four times more income to credit card debt, central bank says - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Toyota supplier Denso posts fall in second-quarter profit - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Thailand welcomes US-Myanmar engagement, expects ASEAN talks on country's future - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Carney dismisses US accusations of Canadian election interference - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Libya summons US envoy to protest at Trump remarks - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Costa Rica drops bid to join Pacific trade pact, sacks trade minister - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Cuauhtemoc Cardenas, elder statesman of Mexican left, dies at 92 - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Foreign diplomats in Brazil discuss quick recognition of runoff winner - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Hundreds of Ethiopians flee into Kenya after border town fighting - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Citi, BCA downgrade Brazilian assets after Lula comeback - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Head of Mexico's electoral authority resigns amid corruption allegations - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "VIDEO: AI boom creates jobs but threatens others, dividing Nevada unions - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Ohio man convicted in US of lying about role in Rwandan genocide - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Danantara bids for stake in Indonesian stock exchange, bourse chief says - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-01-29",
+      "title": "Celebrity tattoos - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "European Stocks Fall as China Woes Hit Volvo Car and Gucci - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Gucci’s Parent Is Risking the Patience of Shoppers and Investors - Bloomberg",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Hermès and Cartier’s Last Reliable Shoppers Are Retreating in China - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Higher Airfares Are Here to Stay. That’s Not a Bad Thing - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "EU Plans to Hit China With More Import Curbs in Early 2027 - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Volvo CEO Says China’s Market Is Gone for Western Automakers - Bloomberg",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Merz Pitches Closer EU-Asia Ties, Warns of China Pressure - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Lula’s Win Shocked the World, Especially Markets - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "France Plans Military Presence, Gucci Sales Disappoint, More - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Gucci Sales Disappoint on China Slump as Turnaround Falters - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Europe’s Luxury Giants Trade at Lowest Valuations in a Decade - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "US Election Angst Looms for Stocks and the AI Boom - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Watch Decker Outdoor Tumbles on Guidance; Amex to Cut Workforce | Stock Movers - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "France Plans Military Presence to Contain Weekend Protests - Bloomberg",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Stock Movers: DECK, KER, AXP, MRNA(Podcast) - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Stock Movers: Kering, L'Oreal, Volvo Car - Bloomberg",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "French Protests: Out Goes the Art Fair, in Come the Riot Police - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Coca-Cola’s Costa Coffee Purchase Joins List of Troubled Consumer Deals - Bloomberg",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "GM Analysts Say Buy the Dip as Stock Eyes Worst Week Since 2025 - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Lula Wins Record Fourth Term in Surprise Brazil Comeback - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Lula Wins Brazil Presidential Election in Surprise Comeback - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Nasdaq 100 Drops as Oil Rise Fuels Risk-Off Mood - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "L’Oreal Sales Beat Expectations as Premium Products Surge - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "India’s Activity See Mild Pick Up in October, Flash PMIs Show - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Watch Hyperscalers Capex to Be Big 2027 Theme, UBS' Baweja Says - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-02-27",
+      "title": "LVMH Moet Hennessy Louis Vuitton SE - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-05-16",
+      "title": "Marc-Antoine Jamet, LVMH Moet Hennessy Louis Vuitton SE: Profile and Biography - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-02-27",
+      "title": "Tiffany & Co - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "China’s luxury brands are ready to elbow western rivals aside - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kering shares slide 10% after drop in sales at flagship brand Gucci - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Seven of the best new hotel restaurants - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "FirstFT: How Lula pulled off a stunning victory - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Thom Browne takes a trip – with Globe-Trotter - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "FirstFT: AI doubts fuel tech sell-off - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-01-13",
+      "title": "News Feed - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "REVOLVE Opens New Store at Aventura Mall, Expanding Its Physical Retail Presence – Company Announcement - Financial Times",
+      "url": "https://markets.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Here’s What We Learned From Last Week’s Luxury Results Bonanza - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Fashion Magazines Find New Momentum in Eastern Europe - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering Sales Down 1% as China Weighs on Gucci Revamp - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kering Drops 12% as Luxury Braces for Tough Winter - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Gucci Gloom - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Gucci - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-12-20",
+      "title": "merchandising - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Discounting - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-26",
+      "title": "Chinese New Year - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "fine-jewellery - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Trends - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "Millennials - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "People - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "red-carpet - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "met-gala - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Hong Kong - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-25",
+      "title": "accessible-luxury - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-30",
+      "title": "Collaboration - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Consumer Psychology - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-25",
+      "title": "Gaming - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "How AI Is Reshaping the Modelling Industry - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Moscow, Russia - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Beyond Hype: Scarcity Shoppers Can Believe In - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "London Fashion Week - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "How High Can Adidas Climb? | BoF - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "How AI Is Transforming Personalisation Into Individualisation - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-09-13",
+      "title": "Workplace & Talent / Leadership - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "Heritage - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Read articles by Reuters - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-09-13",
+      "title": "Workplace & Talent / The Future of Work - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Le Mill - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Mumbai, India - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Jobs in Switzerland - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": " - Vogue",
+      "url": "https://www.vogue.co.uk",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Mckenna Grace's 'Hunger Games' Method Dressing Journey - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Ralph Lauren Names Ryan Lally Chief Brand Communications Officer - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "EXCLUSIVE: Versace Confirms a Couture Debut for Pieter Mulier - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "EXCLUSIVE: Lemaire Appoints Clarisse Godbillon as Managing Director - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Prada Reclaims Lyst’s Hottest Brands Ranking Top Spot, Celine Cracks Top 10 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Charlize Theron Plays With Extreme Proportions in Givenchy’s Spring 2027 Collection at AmfAR Dallas - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Bernard Arnault’s Legacy Is ‘Transforming Creativity Into Profitability’ - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "How Fashion Should Think About AI - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "L Catterton Backs Glance, the AI Personal Shopper Vying for Future of Commerce - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Behind the Passion That Drives Bernard Arnault - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "EXCLUSIVE: Sadie Sink, Maya Hawke Interact With Cartoons in Prada’s Fantasy Campaign - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Michael Rider on Bringing Flair — and ‘Bite’ — to Menswear - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Marc Jacobs Expands Greater China Presence With I.T Group Partnership - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Retailers in France and Italy Tally the Cost of Lost Business After Second Round of Protests - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Dame Helen Mirren is Pretty in Pink Martin Grant Gown & Bottega Veneta Mules at 29th SCAD Savannah Film Festival - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Frasers Group Takes Control of Hugo Boss, With More Than 50% of Shares - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Stella McCartney Taps Kylie Jenner, Gia Coppola for Short Film, ‘Wild Horses,’ Focused on Animals, Nature - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Kim Kardashian’s Fashion Moments Through the Years, Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kim Kardashian Pulls Rare Louboutin Platforms From the Archive for Birthday Week Outing in Rome - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Borbonese Appoints Marie-Laure Lequain as Chief Executive Officer - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Mckenna Grace Coordinates in Gold, Pairing Simple Heels with Geometric-Patterned Archival Gucci Dress - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Angel Reese Pairs Gucci With Chanel for WNBA Finals Game Three Tunnel Look - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering Revenues Flat in Q3 as Gucci Misses Forecasts - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-11-09",
+      "title": "Gucci RTW Fall 2008 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-09-24",
+      "title": "Looking Back at Gucci Spring 2016 Runway Show – Alessandro Michele’s Second RTW Collection for Gucci - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2017-09-20",
+      "title": "Gucci RTW Spring 2018 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-09-22",
+      "title": "Gucci Spring 2026 Ready-to-Wear Collection - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-12-29",
+      "title": "Gucci Resort 2013 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-04-15",
+      "title": "Gucci RTW Fall 2021 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-15",
+      "title": "Gucci Pre-Fall 2011 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-01-18",
+      "title": "Gucci Men’s Fall 2016 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2017-05-29",
+      "title": "All the Looks from the Gucci Resort 2018 Show in Florence - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-03-06",
+      "title": "Gucci Pre-Fall 2014 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-18",
+      "title": "Gucci RTW Spring 2009 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-05-16",
+      "title": "Gucci Cruise 2024 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-01-14",
+      "title": "Gucci Men's Fall 2020 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-13",
+      "title": "Gucci RTW Spring 2010 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-12-17",
+      "title": "Gucci Men’s RTW Fall 2012 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-03-01",
+      "title": "Gucci RTW Fall 2016 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-11-10",
+      "title": "Gucci Men’s RTW Fall 2014 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-28",
+      "title": "Gucci Resort 2015 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-14",
+      "title": "Gucci RTW Fall 2011 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-02-19",
+      "title": "Gucci RTW Fall 2020 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-06-17",
+      "title": "Gucci Men's Spring 2024[PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-02-25",
+      "title": "Gucci Fall 2025 Ready-to-Wear Collection Runway, Fashion Show & Collection Review [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-05-28",
+      "title": "Gucci Cruise 2020 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-05-30",
+      "title": "Gucci Cruise 2019 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-06-09",
+      "title": "Gucci RTW Fall 2013 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-06-20",
+      "title": "All the Looks From Gucci X Harry Styles Ha Ha Ha Collection, Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-10-12",
+      "title": "Gucci Men’s RTW Spring 2015 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-12-17",
+      "title": "Gucci Men’s RTW Spring 2010 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-03",
+      "title": "All the Looks from Gucci Love Parade Show in L. A. [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-27",
+      "title": "Gucci RTW Spring 2012 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-09-16",
+      "title": "Gucci RTW Spring 2014 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-02-25",
+      "title": "Gucci RTW Fall 2022[PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-11-16",
+      "title": "Gucci Pre-Fall 2012 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-09-23",
+      "title": "Gucci RTW Spring 2023[PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-05-17",
+      "title": "Gucci Cruise 2023 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-12-09",
+      "title": "Gucci Men’s RTW Fall 2010 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-01-12",
+      "title": "Gucci Men's Fall 2024 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-05-17",
+      "title": "Gucci Cruise 2027 Collection - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-09-20",
+      "title": "Gucci Spring 2025 Ready-To-Wear Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-04-17",
+      "title": "Gucci RTW Fall 2010 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-07-17",
+      "title": "Gucci Epilogue Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2017-11-02",
+      "title": "Gucci Men’s RTW Fall 2009 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-12-10",
+      "title": "Gucci Pre-Fall 2020 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-02-20",
+      "title": "Gucci RTW Fall 2019 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-15",
+      "title": "Gucci RTW Fall 2014 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-09-28",
+      "title": "Gucci RTW Spring 2019 [ PHOTOS ] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-11",
+      "title": "Gucci RTW Spring 2015 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-12-09",
+      "title": "Gucci Men’s RTW Spring 2012 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-06-17",
+      "title": "Gucci Spring 2025 Men’s Ready-To-Wear Collection Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-05-14",
+      "title": "Gucci Cruise 2025 Collection - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-13",
+      "title": "Gucci RTW Spring 2011 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-02-27",
+      "title": "Gucci Fall 2026 Ready-to-Wear Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-12-12",
+      "title": "Gucci Pre-Fall 2016 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-12-16",
+      "title": "Gucci Pre-Fall 2025 Ready-to-Wear Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering’s Creative Shake-up Puts Its Turnaround to the Test - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Drake Kicks Off His 40s in Cowboy Boots and Python Loafers for His Birthday Parties in NYC - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Spring 2027 Trends: Pencil Skirts [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "La Perla’s Former Owner Alberto Masotti Dies at 90 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Featured Videos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Ralph Lauren’s PoloFest Lands in Tokyo Serving Up a Bonanza for Collectors - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Character Study: Classic Men’s Looks with Modern Updates - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Gap Inc. Gets an AI Assist for Seasonal Hiring - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-02-24",
+      "title": "Features - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Thom Browne and Teyana Taylor: Designer and Muse - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Paris Art Week Highlights: Exhibits, Events and a Record-Breaking Sale - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "David Moin – Page 476 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "2027 Resort - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-06-24",
+      "title": "First Impressions: Paris Men’s Spring 2023 | Day 1 | John Elliott, EgonLab - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-06-20",
+      "title": "First Impressions: Milan Men’s Spring 2023 | Day 2 | Versace, Fendi, Armani, MSGM - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Adidas Terminates Yeezy Partnership With Ye With Immediate Effect - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-07-08",
+      "title": "These Inclusive Face Masks Provide Functional PPE to All Frontline Workers - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Ferran Torres Talks World Cup and That Hat - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-06-02",
+      "title": "Netflix’s ‘Halston’ Costume Designer Talks Working with Ewan McGregor - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-06-28",
+      "title": "First Impressions: Paris Men’s Spring 2023 | Day 4 | Junya Watanabe, Dior, Officine Generale - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Eben Nicastro - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-06-21",
+      "title": "First Impressions: Milan Men’s Spring 2023 | Day 3 | Etro, Prada, JW Anderson - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "The Grown-Up Guide to Wearing Loafers and a Skirt - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Kim Kardashian Is Nothing if Not Committed to a Cutout - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "18 of the Best, Most Transporting Movies of the ’90s - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Watch Out, Penny Lane! Fall Has a Groovy New It Coat - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "The Best Dressed Stars of the Week Chose Skin-Flashing Silhouettes - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "We Shop For a Living—Here’s What Vogue Editors Are Actually Buying From the Early Black Friday Sales - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering Sales Fall 1% in Q3 - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-10-29",
+      "title": "Boo! 84 Halloween Costume Ideas From the Vogue Runway Archive - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "This Handbag Trend Is Back for Another Season - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "The Vogue Business People Moves Tracker - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Zoë! Jennifer! Dakota! Shop Our Favorite Celebrity Looks of the Week - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "How to Wear Bootcut Jeans the Street Style-Approved Way - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Heels Are So Back—But Do You Remember How to Wear Them? - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "You've Booked the Trip—Now, Shop the Best Handbags for Travel - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Katie Holmes’s Fall Wardrobe Includes a Double Whammy of Trending Accessories - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Spooky-Scary Chic: 9 Death-Inspired Collections for the Glamour Goths - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Feast Your Eyes on These Iconic Movie Sweaters - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Lauren Santo Domingo Brought a Stylish Crowd to Colombia to Fete the Four Seasons Cartagena - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "The Vogue Business Funding Tracker - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Kith Spring 2027 Menswear Collection - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Fashion Is Betting on Spooky Season - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "‘Klara and the Sun’ Stars Jenna Ortega and Amy Adams Face Off in the Latest ‘Off the Cuff’ - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "28 Entertaining Book Adaptations to Watch (or Revisit) Now - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "I Tried the First BEMT Sunscreens to Launch in the US—Here’s How They Wear - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Byredo’s Havana Tonka Is a Gourmand With a Dark Side - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "This New Orleans Wig Shop Brings Halloween Transformations to the Next Level - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "The Ultimate Travel Guide to Jackson, Wyoming - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Nine ideas for your wedding afterparty dress - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "The super-rich Brits who are living it up in Monaco’s tax haven - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "The best luxury Christmas gifts for children - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "The best luxury gifts for Christmas 2026 - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-02",
+      "title": "Untitled - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Bold make-up is back. Here’s how to turn up the glamour - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "US News, sport and opinion - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Europe - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "The best luxury skiwear for children - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Which is the best P&O Cruises ship? Here’s how to choose - The Times",
+      "url": "https://www.thetimes.com",
+      "source": "The Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "The life and death of Jaysley Beck: how her mother turned detective – and took on the military - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "I thought testing bread makers would be easy. 36 loaves later, I may have lost the plot - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "From five-fingered trainers to the shoeless shoe: what’s with all the freaky footwear? - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "NFL shutters Paris fan experience as protests overshadow first France game - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-05-09",
+      "title": "Music + News - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "US politics - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Music | Page 2 of 7090 - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "US Congress + US politics - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Barbican exhibition delves into 'vulgar' fashion - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "US Senate - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Culture + News - The Guardian",
+      "url": "https://www.theguardian.com",
+      "source": "The Guardian",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally - BBC",
+      "url": "https://www.bbc.co.uk",
+      "source": "BBC",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "25 October 2026 - BBC",
+      "url": "https://www.bbc.com",
+      "source": "BBC",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Nicki Minaj has ‘one hell of a beautiful ass’, says Trump - The Telegraph",
+      "url": "https://www.telegraph.co.uk",
+      "source": "The Telegraph",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "The ultimate winter coat guide – from £75 - The Telegraph",
+      "url": "https://www.telegraph.co.uk",
+      "source": "The Telegraph",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "La maquilleuse Pat McGrath, indétrônable star des défilés de mode - Le Monde.fr",
+      "url": "https://www.lemonde.fr",
+      "source": "Le Monde.fr",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Les envies du Monde - Le Monde.fr",
+      "url": "https://www.lemonde.fr",
+      "source": "Le Monde.fr",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-12-28",
+      "title": "Code promo Farfetch : 15% de remise en Octobre 2026 - Le Monde.fr",
+      "url": "https://www.lemonde.fr",
+      "source": "Le Monde.fr",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Playboi Carti - IN HERMES Lyrics & traduction - Paroles2Chansons",
+      "url": "https://paroles2chansons.lemonde.fr",
+      "source": "Paroles2Chansons",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Champagne en canette DELUXE (Album) - Absolem - Lyrics et traductions - Paroles2Chansons",
+      "url": "https://paroles2chansons.lemonde.fr",
+      "source": "Paroles2Chansons",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Anderson .Paak & Cordae - Crown Lyrics & traduction - Paroles2Chansons",
+      "url": "https://paroles2chansons.lemonde.fr",
+      "source": "Paroles2Chansons",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Te Complazco Lyrics & traduction (letras) - Paroles2Chansons",
+      "url": "https://paroles2chansons.lemonde.fr",
+      "source": "Paroles2Chansons",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Bello&Dallas - Prohibé Lyrics & traduction - Paroles2Chansons",
+      "url": "https://paroles2chansons.lemonde.fr",
+      "source": "Paroles2Chansons",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Heuss L'enfoiré - Vis ma vie Lyrics & traduction - Paroles2Chansons",
+      "url": "https://paroles2chansons.lemonde.fr",
+      "source": "Paroles2Chansons",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Les ventes de Kering restent stables au troisième trimestre à 3,34 milliards d'euros, mais Gucci pèse - Le Figaro",
+      "url": "https://www.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Valentina Pinault : ses plus beaux looks - Le Figaro",
+      "url": "https://photo-madame.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kering plonge de plus de 10 % à l'ouverture de la Bourse de Paris après ses résultats - Le Figaro",
+      "url": "https://www.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "À 19 ans, Valentina Pinault occupe la première place du classement des 200 célibataires les plus convoités du magazine Tatler - Madame Figaro",
+      "url": "https://madame.lefigaro.fr",
+      "source": "Madame Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Tennis: «Mon corps, le seul adversaire que je ne peux pas battre», admet Jannik Sinner - Le Figaro",
+      "url": "https://www.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Les 10 plus beaux looks de Valentina Pinault, fan de mode depuis l’enfance - Madame Figaro",
+      "url": "https://madame.lefigaro.fr",
+      "source": "Madame Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Vente Appartement / Penthouse de Luxe Paris 1ᵉʳ | 860 000 € | 58 m² - Propriétés Le Figaro",
+      "url": "https://proprietes.lefigaro.fr",
+      "source": "Propriétés Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "François, Mathilde, Augustin et Valentina : qui sont les quatre enfants de François-Henri Pinault ? - Madame Figaro",
+      "url": "https://madame.lefigaro.fr",
+      "source": "Madame Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Valentina Pinault, 19 ans, la fille très en vue de Salma Hayek et François-Henri Pinault - Madame Figaro",
+      "url": "https://madame.lefigaro.fr",
+      "source": "Madame Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Les bracelets en tous genres, l’accessoire fétiche de la crise de la cinquantaine ? - Le Figaro",
+      "url": "https://www.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Le tennis devient le sport national en Italie et devance le football au nombre de licenciés - Le Figaro",
+      "url": "https://www.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Monaco : un membre de la famille princière retrouvé mort dans un parc, un homme en garde à vue - Le Figaro",
+      "url": "https://www.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Monaco-Lille : «Le plan n’a fonctionné qu’à 50 %», reconnaît Davide Ancelotti après le nul des Dogues - Le Figaro",
+      "url": "https://www.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Monaco-Lille : Diop intenable, Mbappé décisif, Lille leader sans convaincre… Les tops et flops - Le Figaro",
+      "url": "https://www.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Le Figaro édition numérique du 24 octobre 2026 - Kiosque Figaro",
+      "url": "https://kiosque.lefigaro.fr",
+      "source": "Kiosque Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "L'Oréal: les ventes bondissent au 3e trimestre, tirées par l'ensemble des divisions - Le Figaro",
+      "url": "https://www.lefigaro.fr",
+      "source": "Le Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Madame Figaro édition numérique du 23 octobre 2026 - Kiosque Figaro",
+      "url": "https://kiosque.lefigaro.fr",
+      "source": "Kiosque Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Défilé - Gucci - Prêt à porter Printemps-Eté 2027 - Madame Figaro",
+      "url": "https://madame.lefigaro.fr",
+      "source": "Madame Figaro",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Lire Madame Figaro en ligne - Kiosque Figaro",
+      "url": "https://kiosque.lefigaro.fr",
+      "source": "Kiosque Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Défilé - Adidas - Prêt à porter Automne-Hiver 26-27 - Madame Figaro",
+      "url": "https://madame.lefigaro.fr",
+      "source": "Madame Figaro",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Interparfums doit retrouver en 2027 la vélocité qui a fait sa réputation, Coty va perdre la licence Gucci - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kering: Gucci met la patience des investisseurs à rude épreuve - Plus - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kering voit la relance de Gucci contrariée par la baisse du trafic dans les magasins - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering-Le recul des ventes de Gucci au T3 pèse sur les espoirs de relance - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering : revenus en léger recul en comparable au 3e trimestre, Gucci baisse de 6% - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "« On a déjà subi un pillage » : sur les Champs-Elysées et l'avenue Montaigne, les boutiques de luxe se barricadent - Les Echos",
+      "url": "https://www.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "L'Oréal et TotalEnergies n'empêchent pas la baisse du Cac 40, plombé par Kering et Safran, l'économie française déçoit aussi avant le verdict de Moody's - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kering, Safran, Valeo… les déceptions trimestrielles ne manquent pas, L'Oréal grand gagnant, l'action TotalEnergies surfe sur les cours du pétrole pour battre un record - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Kering, une « recovery story » plus ardue que prévu - Les Echos",
+      "url": "https://www.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Chez L'Oréal, parfums et cosmétiques ont confirmé leur profil anticrise au troisième trimestre - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Sandoz est particulièrement bien placé pour profiter du boom du marché des médicaments biologiques - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "L'Oréal dépasse les attentes de ventes, Accor relève ses objectifs, Kering déçoit encore et la France attend le jugement de Moody's sur sa dette - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kering en panne sèche, L'Oréal en forme et Moody's en embuscade sur la note souveraine de la France - Investir Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Investir Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "France: l'activité du secteur privé a reculé en octobre - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "S&P relève la note de crédit d'EssilorLuxottica à \"A+\", la perspective est stable - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "L'Oréal dépasse les attentes avec le rebond de la demande en Chine - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Ipsen relève ses objectifs 2026 malgré le lancement d'un générique du Somatuline en fin d'année - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "CAC 40: La Bourse de Paris se replie sous une salve de résultats d'entreprises - Investir Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Investir Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Bastide a affiché une solide performance annuelle et veut continuer à conforter ses positions - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Roche Bobois : la distribution au coeur de la tourmente - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Cours Actions Pine Tree Acqn Rights 2026-31.12.2031 - For Shares - PAXGR KYG7111J1105 - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Wall Street ouvre en hausse à la veille de la décision de la Fed - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Procédés Hallier, filiale de Lucibel, est placée à son tour en redressement judiciaire - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Lectra : faible sur la top line, meilleur sur la rentabilité - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Cours Obligations 2 BMCLFR 47 ABS - 4951559 FR001401AVG0 - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Cours Obligations 0 CACIB 38 Bds -S - 0 CACIB 38 Bds -S FR6CIBFS2831 - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "TotalEnergies atteint un record sur un Cac 40 en légère baisse - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Boiron, dans une situation qui interroge mais n'est pas figée - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Serge Ferrari : dans l'attente d'une franche reprise de la croissance - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Des résultats prometteurs pour Nanobiotix, qui nous confortent dans notre opinion positive sur la biotech - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Tikehau Capital recule après un T3 qui remet en question ses objectifs - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Siemens ou le potentiel de la numérisation à prix raisonnable, contre un ABB trop cher - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "L'Oréal grimpe, la croissance au T3 illustre la résilience des cosmétiques - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Tant sur ses résultats que sur ses ambitions, OVHcloud a surpris positivement le marché - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Wall Street ouvre en hausse, optimiste avant une série de résultats et la Fed - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Verizon relève ses prévisions annuelles et signe un contrat de plus de $2 mds avec AWS dans l’IA - Investir Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Investir Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Les investissements dans l'IA précipitent le flux de trésorerie disponible de Meta Platforms en territoire négatif pour la première fois depuis son introduction en Bourse - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "L'Oréal dépasse les attentes au T3 avec le rebond de la demande en Chine - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "La France, ce caillou dans la chaussure de SMCP - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "OpenAI valorisé à 1.250 milliards de dollars à l'issue d'un nouveau tour de table - Investir Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Investir Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Moody's épargne la France, maintient sa note inchangée et croit à une réduction du déficit - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Conseils actions - Les Echos",
+      "url": "https://investir.lesechos.fr",
+      "source": "Les Echos",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Ferrari, Gucci e Prada tra i top 100 marchi al mondo, lo sprint di Nvidia, la corsa del B2B: i brand più preziosi al mondo - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Gucci - Fine dei giochi, per la serie di Gabriele Muccino Torino diventa la «Milano da bere». L'ennesima reincarnazione della città buona per ogni set - Corriere Torino",
+      "url": "https://torino.corriere.it",
+      "source": "Corriere Torino",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Gucci, il mito discusso e la crescita aggressiva: dove va il marchio del lusso che venne bocciato da Benetton - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "A Roma, sulla Camilluccia, si svuota Villa Gucci: arredi e abiti in vendita al mercatino dell'usato - Corriere della Sera",
+      "url": "https://video.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Villa Gucci, ecco il video della villa venduta a Roma. Arredi e abiti al mercatino dell'usato - Corriere della Sera",
+      "url": "https://video.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Gucci, si svuota la villa sulla Camilluccia a Roma: arredi e abiti in vendita al mercatino dell'usato - Corriere Roma",
+      "url": "https://roma.corriere.it",
+      "source": "Corriere Roma",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Proteste, a Bari allerta in centro: Prada blinda le vetrine, Gucci svuota il punto vendita. Ma molti negozi oggi resteranno aperti - Corriere Bari",
+      "url": "https://bari.corriere.it",
+      "source": "Corriere Bari",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "I 100 brand che valgono di più al mondo: da Apple e Nvidia fino ai tre italiani, la classifica - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Le sneakers bordeaux sono la scelta di stile per il guardaroba maschile - Style Magazine",
+      "url": "https://style.corriere.it",
+      "source": "Style Magazine",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": " - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "«Pechino Express 2027», svelati cast e rotta del talent (Sud America). Ci sono anche Elisabetta Gregoraci con la sorella; Rocco Siffredi con la moglie - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Joel Kaculi muore nel sonno a Torino dopo la sera in discoteca. La tragedia del 24enne di Boves, forse per un colpo epilettico - Corriere Torino",
+      "url": "https://torino.corriere.it",
+      "source": "Corriere Torino",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "«Domenica In», un curioso esercizio di archeologia televisiva - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Massimo Perla e il set con i Dalmata per Kim Kardashian: «Non sono cani facili: sbaglia chi li sceglie per moda, non si adotta mai con leggerezza» - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Torino, sciopero generale del 30 ottobre: i trasporti, i servizi a rischio e il percorso del corteo in città - Corriere Torino",
+      "url": "https://torino.corriere.it",
+      "source": "Corriere Torino",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Saccheggi a Milano, il 19enne finito in camera di sicurezza: «Ma stavo solo manifestando, non avevo preso nulla dai negozi» - Corriere Milano",
+      "url": "https://milano.corriere.it",
+      "source": "Corriere Milano",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Riapre la chiesa di Sant'Ivo alla Sapienza dopo un lungo restauro - Corriere Roma",
+      "url": "https://roma.corriere.it",
+      "source": "Corriere Roma",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Cinema, a Roma il nuovo «International student film festival» con cortometraggi da tutto il mondo - Corriere Roma",
+      "url": "https://roma.corriere.it",
+      "source": "Corriere Roma",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Francesco Baccini: «Il mio primo successo dava fastidio. Il pop italiano di oggi? Che noia. Quella sera a New York con Bowie. De André arrossiva, timidissimo» - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Scontri a Milano, Youssef Siher non risponde al gip. I legali: «Nessuna istigazione né terrorismo, torni libero». Svolte circa 150 perquisizioni, le chat: «Rubiamo le armi alla polizia» - Corriere Milano",
+      "url": "https://milano.corriere.it",
+      "source": "Corriere Milano",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Villa Pamphili, per Kaufmann chiesto l'ergastolo: «Un manipolatore e un narcisista, lucido e razionale» - Corriere Roma",
+      "url": "https://roma.corriere.it",
+      "source": "Corriere Roma",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "La storia di Ludwig, il sodalizio criminale neonazista di Marco Furlan e Wolgang Abel: dall'incendio della discoteca Liverpool alle indagini (riaperte) sul cinema Eros - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Dehors troppo larghi e cartelli abusivi: otto locali multati in piazza della Signoria a Firenze - Corriere Fiorentino",
+      "url": "https://corrierefiorentino.corriere.it",
+      "source": "Corriere Fiorentino",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Cortei, gli scontri al Colosseo non fermano lo shopping in Centro - Corriere Roma",
+      "url": "https://roma.corriere.it",
+      "source": "Corriere Roma",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Isabel Allende, narratrice delle narratrici: focus nell'App de «la Lettura» - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Manifestazioni a Napoli, cresce la tensione: boutique del lusso proteggono le vetrine. Si temono i «cortei flash» - Corriere Del Mezzogiorno",
+      "url": "https://napoli.corriere.it",
+      "source": "Corriere Del Mezzogiorno",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "ChatGPT resta in testa, ma Gemini incalza: in due anni moltiplica per 11 i suoi utenti. Come gli italiani usano l'AI - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "«Capisco la vostra rabbia, ma non sia una scusa». Kaprio ai ragazzi in piazza: «Costruite il vostro futuro» - Corriere Torino",
+      "url": "https://torino.corriere.it",
+      "source": "Corriere Torino",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Cosmo e gli scontri a Milano: «La violenza? Non mi piace, ma non la condanno: ascoltiamo i ragazzi. C'è qualcosa di rotto in questo mondo, questi scontri non nascono dal nulla» - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "La figlia di Jorge Amado: «In esilio papà intuì le bugie di Stalin. A casa ospitavamo anche Ungaretti, mi battezzarono Neruda e Guillén» - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "«Amélie, il Musical» al Brancaccio: la favola parigina tratta dal film del 2001 tra sogni, ricordi e incontri imprevisti - Corriere della Sera",
+      "url": "https://video.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Elisa alla Festa del Cinema per il docufilm «Kintsugi… e sono la mia opera» - Corriere della Sera",
+      "url": "https://video.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "È uscito il nuovo Lyst Index: Prada prima, Celine fa il salto in avanti - Style Magazine",
+      "url": "https://style.corriere.it",
+      "source": "Style Magazine",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "L'italiana Olimpia è il campione del mondo dei gatti. Al FiFe World Show hanno gareggiato più di 1.500 felini - Corriere della Sera",
+      "url": "https://www.corriere.it",
+      "source": "Corriere della Sera",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Sala dopo gli scontri a Milano: «Sì ai militari in città. Ma serve un piano nazionale per l'adolescenza» - Corriere Milano",
+      "url": "https://milano.corriere.it",
+      "source": "Corriere Milano",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "«Iconico» da Moscova District Market - vivimilano.corriere.it",
+      "url": "https://vivimilano.corriere.it",
+      "source": "vivimilano.corriere.it",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering: Gucci’s Q3 revenue down 4 per cent to 1.29bn, down 6 per cent on a like-for-like basis - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Luxury: a mixed picture in the first nine months – Zegna posts growth, whilst China weighs on Hermès - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kering in freefall in Paris; analysts are concerned about Gucci’s performance - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Revenues in the luxury sector are growing again, but the sharp fall in share prices has yet to be recouped - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Stock market: Uncertainty in Europe; Eni surges in Milan, Kering plummets in Paris - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Stock market: Europe weak at midday; Milan (-0.5 per cent) limits the fall thanks to a surge in Eni shares - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Apple, Microsoft and Google top the Interbrand rankings: the value of the top 100 brands has risen by 8.1 per cent to 3.8 trillion dollars - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "European stock markets end the week in the red: Milan brings up the rear (-2.6 per cent) - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Jannik Sinner set for a change of coach: farewell to Darren Cahill, Magnus Norman takes over. Return to the court at the Six Kings Slam - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "From indie films to TV series: actress Alia Shawkat - Il Sole 24 ORE",
+      "url": "https://en.ilsole24ore.com",
+      "source": "Il Sole 24 ORE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Villa Gucci, boom al mercatino di Roma: migliaia di persone in fila per mobili e vestiti vintage - la Repubblica",
+      "url": "https://roma.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Gucci, si svuota la villa alla Camilluccia: oggetti e arredi in vendita al mercatino dell’usato - la Repubblica",
+      "url": "https://roma.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering, ricavi stabili nel trimestre. Frena Gucci, mentre gioielli e occhiali trainano i numeri - la Repubblica",
+      "url": "https://www.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Il tonfo di Kering (a causa di Gucci) trascina al ribasso l'intero settore lusso - la Repubblica",
+      "url": "https://finanza.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Prada blinda le vetrine a Bari, Gucci le svuota: l’allarme nei negozi per le manifestazioni - la Repubblica",
+      "url": "https://bari.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "PICCOLO MONDO NUOVO - 24/10/2026 - d la Repubblica",
+      "url": "https://d.repubblica.it",
+      "source": "d la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Napoli, le boutique di lusso coprono le vetrine in vista delle proteste contro il carovita - la Repubblica",
+      "url": "https://napoli.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Jannik Sinner: “Il corpo è l’unico avversario che non puoi battere. Se dice stop devi accettarlo” - d la Repubblica",
+      "url": "https://d.repubblica.it",
+      "source": "d la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "La pouch in seta di Prada è il prodotto più desiderato del momento - d la Repubblica",
+      "url": "https://d.repubblica.it",
+      "source": "d la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Kering punta su tre donne per rilanciare i suoi marchi: chi sono le manager in campo - la Repubblica",
+      "url": "https://www.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "“Portate molotov e petardi”: rivolta a Bari pianificata online, tra i sette indagati anche un 16enne - la Repubblica",
+      "url": "https://bari.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Bari, in centro con passamontagna e fuochi d’artificio: bloccato un gruppo di ragazzini - la Repubblica",
+      "url": "https://bari.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Dehors in piazza Signoria, raffica di multe del Comune - la Repubblica",
+      "url": "https://firenze.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Corteo a Roma, centro blindato: vetrine coperte con il legno in via Condotti. “Paura degli scontri” - la Repubblica",
+      "url": "https://roma.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Le cover di U n.22 - d la Repubblica",
+      "url": "https://d.repubblica.it",
+      "source": "d la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Nel pallone da portare in carcere nell’ora d’aria nascosti droga e telefoni: arrestati due ragazzi - la Repubblica",
+      "url": "https://bari.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Anche i ricchi piangono: il lusso perde 250 milioni di euro, causa fuga dei cinesi - la Repubblica",
+      "url": "https://www.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Il ritorno di Bottega Veneta su Instagram e il valore degli archivi social per i brand - d la Repubblica",
+      "url": "https://d.repubblica.it",
+      "source": "d la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Un francobollo celebra i 60 anni di Bottega Veneta - d la Repubblica",
+      "url": "https://d.repubblica.it",
+      "source": "d la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Moda e nostalgia: quando le passerelle preferiscono il passato al futuro - d la Repubblica",
+      "url": "https://d.repubblica.it",
+      "source": "d la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Dallo sport al lavoro, la rivoluzione sneaker tra moda e cultura di massa - la Repubblica",
+      "url": "https://firenze.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Alessandro Pattume - la Repubblica",
+      "url": "https://www.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "La crisi climatica svuota i campi e impone turni di notte: la fotografia della Puglia è impietosa - la Repubblica",
+      "url": "https://bari.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Bari, in piazza la protesta dei giovani: la polizia evita lo scontro con un gruppo di destra - la Repubblica",
+      "url": "https://bari.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "La protesta dei giovani romani continua: “Ci vediamo venerdì, bloccheremo tutto” - la Repubblica",
+      "url": "https://roma.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Corteo in centro a Firenze: “Togliete le transenne”. Oggi vertice in prefettura - la Repubblica",
+      "url": "https://firenze.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Centro storico, il bilancio dei negozianti dopo il corteo: “I romani spaventati sono rimasti a casa” - la Repubblica",
+      "url": "https://roma.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Manifestazione a Bari, i grandi marchi non chiudono ma si blindano: “Protocollo contro gli assalti” - la Repubblica",
+      "url": "https://bari.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Livorno, la giunta difende i corsi d’arabo per la polizia dalle accuse della destra: “Isteria” - la Repubblica",
+      "url": "https://firenze.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Carovita, verso lo sciopero di venerdì: “Bloccare senza rompere le vetrine” - la Repubblica",
+      "url": "https://napoli.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Caro vita, l’imprenditore D’Alterio: “Appoggio la protesta ma condanno i violenti” - la Repubblica",
+      "url": "https://napoli.repubblica.it",
+      "source": "la Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "…A Toys Orchestra, ecco “More than I Need” - XL Repubblica",
+      "url": "https://xl.repubblica.it",
+      "source": "XL Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "\"The Unknown Saint\", di ladri e malattie immaginarie - XL Repubblica",
+      "url": "https://xl.repubblica.it",
+      "source": "XL Repubblica",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Interbrand, Hermès supera Louis Vuitton nel lusso. Gucci scende del 30% - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Kering affonda in borsa con Gucci, il lusso europeo paga il conto del rallentamento - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "MARKET DRIVER: Kering -11%, retail Gucci sotto attese (Equita) - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering stabile nel terzo trimestre con ricavi a 3,34 miliardi, ancora sottotono Gucci (-4%) - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Borbonese chiama Marie-Laure Lequain come nuova ceo - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "A Milano Unica la metamorfosi della materia incontra il talento delle nuove generazioni - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Il Mimit celebra le eccellenze della moda con 3 francobolli tematici - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Trading Room. Mercati in calo, tensioni nel tech e automotive, Eni positivo - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Strategie di acquisto prudenti per titoli azionari incerte - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Analisi Tecnica. Focus su FIB, DAX e segnali di forza - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Adidas, ricavi record a 7,25 miliardi di euro - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Notizie e Analisi su Mercati ed Economia - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Mercati, come muoversi mezzo alla tempesta di bond e azionario? La strategia di Banor - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Ultim'ora news 22 ottobre ore 19.30 - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Tensioni geopolitiche e mercati: petrolio in crescita, borse in calo - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Analisi tecnica. Maire e Inuit: segnali di rimbalzo e supporti - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Francia a rischio declassamento: in arrivo l’atteso giudizio di Moody’s sul rating - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "MARKET DRIVER: Kering, DB conferma hold - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "MARKET DRIVER: Kering, Oddo BHF abbassa target price - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "MARKET DRIVER: Kering, Jpm abbassa target price - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Louis Vuitton continua a sostenere il calcio, due nuovi trophy trunk - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "L'Oréal corre nei primi 9M del 2026, ricavi per 35,3 MLD€ a +7,7% - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Il fascino della vendemmia notturna in Monferrato - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Cresce il mercato del lusso tax free: +5% nei primi 6 mesi del 2026 - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "269 anni, tra gusto, arte e bellezza, nel cuore di Torino - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "La dolce vita tra i vigneti di Barolo e Barbaresco - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Con Radis l’arte invade gli spazi pubblici e racconta a modo suo il territorio - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Banche sotto pressione tra rialzo rendimenti e contributo chiesto dal Governo - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Sell-off del tech sui mercati. Meta e Tesla penalizzate dopo i conti - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Siena, la banca e il Palio: grandezza e miseria di una città senza eguali - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Zegna sceglie Pechino per la SS2028 - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Age of agents. L'Italia adotta l'AI Act europeo per regolare l'intelligenza artificiale - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Ultim'ora news 23 ottobre ore 11.30 - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Ultim'ora news 23 ottobre ore 13.30 - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Torna Fashion Graduate Italia 2026, la voce dei nuovi talenti - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "FederlegnoArredo, la presidenza di Vismara parte dalla sfida dell'export - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Bhv Marais fa domanda per l’amministrazione controllata - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Victoria’s secret, secondo BofA il fashion show sosterrà le vendite - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Cnmi, Milano ospita il 2° Fashion cities coalition. La prossima tappa sarà Singapore - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Adidas, ricavi record a 7,25 miliardi di euro. Confermato il rialzo della guidance - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "La Francia vince sul fast fashion. I pacchi extra-Ue in frenata del 48% - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Lyst Index 2026, Prada torna a essere il brand più hot nel terzo trimestre - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Da Nike a On, la «Sneaker revolution» va in scena al Museo del tessuto di Prato - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Analisi mercati: focus su FIB, DAX e segnali di forza - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Scarano analizza mercati finanziari e strategie di trading - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "La volatilità nei mercati finanziari secondo marco medici ed emeric - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "L’oro del Bosforo, il mercato del lusso in Turchia fa rotta su 4 miliardi - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Analisi del mercato valutario: yen stabile, euro in difficoltà - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Volume Trading. Salvatore Scarano analizza mercati finanziari e strategie di trading - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Asia in rosso, la Cina fa perdere 250 miliardi ai colossi del lusso: arriva la nuova tassa sui super ricchi - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Blocco tir rimosso, Arena (Federdistribuzione Sicilia): problema rimane senza coordinamento tra Regioni - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Versace conferma il debutto di Pieter Mulier alla couture di gennaio a Parigi - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Fashion graduate Italia al via con 29 scuole - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Ralph Lauren lancia il Polofest a Tokyo in vista del 60esimo anniversario - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Da Louis Vuitton a Dolce&Gabbana fino a Chanel, ecco chi ha vestito i protagonisti del Pallone d’oro - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Ovs acquista azioni proprie per oltre 2 milioni di euro - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "MARKET DRIVER: Kering, Ubs abbassa target price - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Piazza Affari limita i danni con il rally di Eni, Btp valore: collocati 16,6 mld € - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Michael Kors rinnova la partnership con il World food programme delle Nazioni unite - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Beni rifugio: il mercato punta su Treasury e Franco svizzero - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Blauer al fianco della Fondazione libellule in una serata di fundraising a sostegno del tumore al seno - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Borse europee in calo, Eni cresce grazie ai risultati - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Tour in Asia per Brunello Cucinelli che apre un flagship a Shanghai e lancia il suo film nel continente - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Apertura poco sopra la parità a Piazza Affari - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Ultim'ora news 23 ottobre ore 9.00 - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Borse oggi: Eni annuncia dividendo straordinario, ultimo giorno Btp Valore e le altre storie - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Ultim'ora news 23 ottobre ore 6.30 - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Ultim'ora news 23 ottobre ore 16.30 - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Meta scatena il sell-off sul tech, l’AI di Microsoft che fa diagnosi mediche e altre storie dal mondo AI - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Piazza Affari chiude in calo, Eni in crescita positiva - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "BTP Valore: record di incassi e ricchezza dei cittadini - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Bill Ackman: il 2027 sarà un anno straordinario per l'azionario. Ecco perché - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Eni proroga il tetto ai prezzi di carburanti fino a dicembre - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Rassegna stampa di oggi 23 ottobre: borse ko con tech e bond, governo vuole una manovra da 28-29 mld - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Rinascente a Milano chiuderà alle 15 domani per cautelarsi da nuovi scontri - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Il successo del Btp Valore e la ricchezza degli italiani rispetto allo Stato. Di Roberto Sommella - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Prada scommette sulla circolarità con le iniziative Re-cashmere e Re-wool - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Lusso, spesa globale tax free in crescita nel semestre (+5%). Gli Stati Uniti trainano l’Europa - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Deckers brands, la controllante di Hoka e Ugg, cresce meno del previsto (+3,5%). Tagliata la guidance - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Marco Tronchetti Provera: «Lascerò scritto che è proibito fare calendari con l’AI» - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Gilmar, al via la composizione negoziata: debiti per 37,2 milioni e piano di risanamento - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Schiaparelli debutta in Giappone con una boutique nel department store Hankyu a Osaka - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Gildo Zegna: «Corriamo negli Usa e in Cina, soddisfatti di Tom Ford» - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Campus, nuova guida al futuro della creatività - Milano Finanza",
+      "url": "https://www.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Gruppo Zegna ricavi a 1,4 MLD nei 9M DEL 2026, a fare da traino è DTC - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Puig in positivo, ricavi per 3,7 MLD € a +4,8% nei primi 9M del 2026 - Milano Finanza",
+      "url": "https://video.milanofinanza.it",
+      "source": "Milano Finanza",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "FashionNetwork United Kingdom - The World's Fashion Business News - FashionNetwork France",
+      "url": "https://uk.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Gucci’s parent is risking the patience of shoppers and investors - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Borbonese names Marie-Laure Lequain as new CEO - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Kering stabilises business in third quarter amid period of creative turbulence - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Luxury groups remain reliant on a recovery in China - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "P&G flags bigger hit to annual profit from higher commodity costs, beats revenue estimates - FashionNetwork Canada",
+      "url": "https://ca.fashionnetwork.com",
+      "source": "FashionNetwork Canada",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "News - Page 1085 - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "CVC, Cinven, Puig eye luxury fragrance maker Parfums de Marly, sources say - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Picasso Institute Of Arts & Design - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Brunello Cucinelli unveils his new 'Casa' in Shanghai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Palantir’s fast-selling $170 windbreaker shows its Korea appeal - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "The latest news - FashionNetwork France",
+      "url": "https://dk.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "WSG Brands acquires Sanctuary - FashionNetwork France",
+      "url": "https://au.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "The latest news - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Fast-fashion group Shein agrees to pay $100 million to settle US FTC probe - FashionNetwork France",
+      "url": "https://bd.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Gap apparel supplier Gokaldas eyes doubling Europe exports share to cut US reliance - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Hugo Boss to be Frasers Group subsidiary as stake tops 50% - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Basicnet's revenue rises 21.6% in first nine months, boosted by Woolrich and Sundek - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Boohoo/Debenhams to create 1,200+ jobs with return to Burnley hub via GXO - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Marc Jacobs partners with I.T Group to expand in Greater China - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Luxury packaging: merger between TNT and PM Studio, with Damon Kennish at the helm - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "UK's Equip sells Lowe Alpine to China's ATG as it focuses on Rab label - FashionNetwork France",
+      "url": "https://bh.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "We're back! Revolution Beauty bosses hail promised half-year results turnaround - FashionNetwork India",
+      "url": "https://in.fashionnetwork.com",
+      "source": "FashionNetwork India",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "KIKO KOSTADINOV - WOMEN SS 2027 - PARIS - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Aritzia targets up to $10.5 billion in revenue by fiscal 2032 - FashionNetwork Canada",
+      "url": "https://ca.fashionnetwork.com",
+      "source": "FashionNetwork Canada",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Beiersdorf under pressure with Nivea and Tesa - FashionNetwork Canada",
+      "url": "https://ca.fashionnetwork.com",
+      "source": "FashionNetwork Canada",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "WSG Brands acquires Sanctuary - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Emile et Ida makes the US its number one market - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "ZIMMERMANN - WOMEN SS 2027 - PARIS - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Results Dior - FashionNetwork France",
+      "url": "https://uk.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Agentic commerce: L Catterton takes a stake in AI-assisted shopping platform Glance - FashionNetwork France",
+      "url": "https://uk.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "L'Oreal Q3 sales beat forecasts as China demand picks up - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Very Group reports record annual profit but fashion struggles - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "LOEWE - WOMEN SS 2027 - PARIS - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "J Lindeberg names Henrik Bunge new CEO - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Agentic commerce: L Catterton takes stake in AI-assisted shopping platform Glance - FashionNetwork France",
+      "url": "https://hk.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "How Chinese beauty brands are competing for a foothold in the global market - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "L Scarlett - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Athleisure's becoming more sustainable, driven by consumers, says sector specialist - FashionNetwork France",
+      "url": "https://uk.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Onori - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Lili Blanc - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Nif Global London School Of Trends - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "LVMH watchmaker Zenith is cutting around 100 jobs - FashionNetwork India",
+      "url": "https://in.fashionnetwork.com",
+      "source": "FashionNetwork India",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Bibencia - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Barcelona - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Boltad - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Barcelona - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "WSG Brands acquires Sanctuary - FashionNetwork India",
+      "url": "https://in.fashionnetwork.com",
+      "source": "FashionNetwork India",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Pallavi Puri - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Search News - Page 688 - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "LVMH watchmaker Zenith is cutting around 100 jobs - FashionNetwork France",
+      "url": "https://uk.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Kuni - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Nafsika Skourti - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Shoma - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "LVMH watchmaker Zenith is cutting around 100 jobs - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Weinsanto - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Monica Schuster - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Tang Chi Couture - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - New York - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Nif Global London School Of Trends - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Gnl Couture - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Fashion in the age of AI: from face swapping to digital twins - FashionNetwork France",
+      "url": "https://za.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Zegna Group's revenue rises 7.2% in the first nine months driven by DTC and the Americas, but Thom Browne declines - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Kel - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Pat Equilux - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Barcelona - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Adriana Capasso - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Benavente - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Barcelona - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Weinsanto - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Shoma - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Gau - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Barcelona - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Fashion in the age of AI: from face swapping to digital twins - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Picasso Institute Of Arts & Design - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Acceptance Letter Studio - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Barcelona - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Oda - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-14",
+      "title": "Expo Laundry - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Yousef Aljasmi - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Gnl Couture - Fashion Week - Details - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-17",
+      "title": "The Royal Agricultural Winter Fair - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Kuni - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Rafaela Pestritu - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Bucharest - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Lgn Louis Gabriel Nouchi - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Barcelona - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Adriana Capasso - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "L Amar - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Barcelona - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Laura Aparicio - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Dubai - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Fashion in the age of AI: from face swapping to digital twins - FashionNetwork India",
+      "url": "https://in.fashionnetwork.com",
+      "source": "FashionNetwork India",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "ExpoDetergo International - FashionNetwork France",
+      "url": "https://tw.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Prada back on top, hits number one in new Lyst Index; Celine, Dries Van Noten also riding high - FashionNetwork France",
+      "url": "https://se.fashionnetwork.com",
+      "source": "FashionNetwork France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Prada back on top, hits number one in new Lyst Index; Celine, Dries Van Noten also riding high - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Prada back on top, hits number one in new Lyst Index; Celine, Dries Van Noten also riding high - FashionNetwork India",
+      "url": "https://in.fashionnetwork.com",
+      "source": "FashionNetwork India",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "Xander Zhou - Fashion Week - Details - Menswear - Fall-Winter 2020/2021 - London - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Daizy Shely - Fashion Week - Details - Womenswear - Fall-Winter 2017/2018 - Milan - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "FashionNetwork USA - The World's Fashion Business News - FashionNetwork USA",
+      "url": "https://us.fashionnetwork.com",
+      "source": "FashionNetwork USA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Journey to ground zero of the unrest in France - EL PAÍS English",
+      "url": "https://english.elpais.com",
+      "source": "EL PAÍS English",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-10-23",
+      "title": "Ahorra con el cupón FARFETCH ᐅ 10% en octubre 2026 - EL PAÍS",
+      "url": "https://descuentos.elpais.com",
+      "source": "EL PAÍS",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Tenzing - Spiegel",
+      "url": "https://streaming-guide.spiegel.de",
+      "source": "Spiegel",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Katie Holmes’s Autumn Wardrobe Includes A Double Whammy Of Trending Accessories - Vogue",
+      "url": "https://www.vogue.co.uk",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "6 Ways To Wear A Shirt Now, According To The Spring 2027 Runways - Vogue",
+      "url": "https://www.vogue.co.uk",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "The Nordic Philosophy For Avoiding Exhaustion As The Seasons Change - Vogue",
+      "url": "https://www.vogue.co.uk",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "This Trend Costs Nothing And Has Heaps Of Attitude - Vogue",
+      "url": "https://www.vogue.co.uk",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "7 Street Style-Approved Ways To Wear Boots And Jeans Right Now - Vogue",
+      "url": "https://www.vogue.co.uk",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "8 Black Leggings Outfits That Prove They’re Not Just For The Gym - Vogue",
+      "url": "https://www.vogue.co.uk",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-29",
+      "title": "The Winning Winter Colour Combinations To Wear This Festive Season - Vogue",
+      "url": "https://www.vogue.co.uk",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "18 Of The Best ’90s Movies To Get Lost Inside - Vogue",
+      "url": "https://www.vogue.co.uk",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "D’une paire d'escarpins Amina Muaddi à un jean bien coupé… Voici les nouveautés mode de la semaine - Vogue France",
+      "url": "https://www.vogue.fr",
+      "source": "Vogue France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "4 tendances manteaux noirs repérées dans les collections automne-hiver 2026-2027 - Vogue France",
+      "url": "https://www.vogue.fr",
+      "source": "Vogue France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "6 looks vus dans les collections automne-hiver 2026-2027 à reproduire au bureau - Vogue France",
+      "url": "https://www.vogue.fr",
+      "source": "Vogue France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Angeli di Firenze : la pharmacie Santa Maria Novella dévoile un nouveau parfum - Vogue France",
+      "url": "https://www.vogue.fr",
+      "source": "Vogue France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "La Pleine Lune du chasseur du 26 octobre 2026 invite à se poser une question (surtout pour quatre signes astro) - Vogue France",
+      "url": "https://www.vogue.fr",
+      "source": "Vogue France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Rencontre avec Annie Horth, la styliste qui a réinventé le look de Céline Dion à Paris - Vogue France",
+      "url": "https://www.vogue.fr",
+      "source": "Vogue France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Les 10 tendances mode de l'automne-hiver 2026-2027 décryptées - Vogue France",
+      "url": "https://www.vogue.fr",
+      "source": "Vogue France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Les 21 sacs dans lesquels les Françaises vont investir cet automne - Vogue France",
+      "url": "https://www.vogue.fr",
+      "source": "Vogue France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Meilleurs highlighters : notre guide ultime pour un teint lumineux - Vogue France",
+      "url": "https://www.vogue.fr",
+      "source": "Vogue France",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "La borsa Gucci Paparazzo è la nuova it-bag da giorno, morbida e capiente. E dai dettagli iconici - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Chi è Sonia Ammar, l'attrice e modella francese che alla Festa del Cinema di Roma 2026 ha indossato l'iconico abito scivolato Gucci by Tom Ford 1996 - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-22",
+      "title": "Come indossare i mocassini con la gonna, la combo più forte dell'autunno in 5 idee outfit easy classy - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "I jeans color caffè sono la nuova alternativa chic al denim blu nell'autunno inverno 2026 2027 (+ 5 idee su come abbinarli) - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Julia Roberts in 10 (+1) look che l'hanno resa un'icona di stile contemporanea. Senza mai dimenticare il power dressing - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "L'intervista ad Alicia Keys per la cover di Vogue Italia di Novembre 2026: «Lascio sempre spazio alla magia. Se sei troppo specifico nei desideri, rischi di perderti la parte migliore» - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Buon Compleanno Lola Tung! Guida allo stile fun (e sincero) dell'attrice che con The summer I turned pretty ha raccontato le turbolenze dell'adolescenza - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-28",
+      "title": "Matita nera occhi “sbavata”, come ricreare il make-up volutamente imperfetto visto alle sfilate - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Le camicie di flanella più iconiche di film e serie tv, simbolo di stile americano e “dad shirt” definitive - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "La Luna Piena del Cacciatore, 26 ottobre 2026, pone una domanda cruciale (soprattutto per 4 segni) - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Claudia Pandolfi dark lady alla Festa del Cinema di Roma 2026 con l'abito monospalla in cady e i guanti couture in pizzo - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Angeli di Firenze: il profumo con cui Officina Profumo - Farmaceutica di Santa Maria Novella rende omaggio alla sua storia - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Smalto ametista, il colore-talismano per la tua manicure gioiello autunnale 2026: elegante, dona serenità e “combatte” la negatività - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Rossetto scuro, per un beauty look Drama: 7 colori di tendenza nell'autunno inverno 2026 (e i consigli per sceglierlo giusto) - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Kasia Smutniak in Armani Archivio 1984 alla Festa del Cinema di Roma 2026: la tunica liquida stellata per ritirare il Premio del Pubblico - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Naomi Watts con l'acconciatura Pouf primi anni 2000 e l'abito scultura illumina la Festa del Cinema di Roma 2026 - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Kris Jenner alla Festa del Cinema di Roma 2026 con la cappa “scorpio” di Liz Taylor - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Chi è Rosa Barbolini: intervista all'attrice che nella serie Nord Sud Ovest Est interpreta la Caterina di Aeroplano e cambia il destino degli 883 - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "I 30 maglioni più iconici del cinema, da quello con le renne de Il diario di Bridget Jones a quello ceruleo de Il diavolo veste Prada - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Laura Biagiotti, un francobollo celebra tre generazioni di donne e il Made in Italy - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "6 look da campagna (rivisitati per la città) per l'autunno 2026, quando l'estetica country diventa irresistibilmente chic - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-24",
+      "title": "Tecla Bossi, chi è l'attrice che in Se domani non torno interpreta Elena Cecchettin - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Tutte le campagne pubblicitarie moda 2026 che più amiamo, a partire dall'autunno inverno 2026 di Balenciaga Eyewear - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "11 vestiti dell'autunno inverno 2026 2027 che sono di tendenza, dalle sfilate al tuo guardaroba - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-26",
+      "title": "Festa del Cinema di Roma 2026, il red carpet e i look più belli indossati dalle star alla kermesse: vota il tuo preferito - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Ecco i mercatini vintage da non perdere in questi week-end d'autunno, tra cui Iconico a Milano - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-25",
+      "title": "Festa del Cinema di Roma 2026 ai titoli di coda: il programma dell'ultimo giorno con Ricordati ragazza, il film di Claudia Gerini - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-27",
+      "title": "Tutti gli opening del 2026 da non perdere, a partire da Stone Island che ha aperto a Roma - Vogue",
+      "url": "https://www.vogue.it",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-23",
+      "title": "Armani Exchange and Amnesia Ibiza toast a summer of fashion and music - Dazed",
+      "url": "https://www.dazeddigital.com",
+      "source": "Dazed",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-06-04",
+      "title": "Search - Dazed",
+      "url": "https://www.dazeddigital.com",
+      "source": "Dazed",
+      "title_match": false
+    }
+  ]
+}
