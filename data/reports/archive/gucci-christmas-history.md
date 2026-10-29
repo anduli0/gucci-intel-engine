@@ -50,7 +50,7 @@
 
 팝업부터 본다. 2019년 구찌 핀은 스마트폰 지도에 핀을 꽂는다는 개념에서 출발했고, 구찌 앱과 구글 지도에 위치 핀이 표시됐다[8]. 이후 2021년 마이애미 디자인 디스트릭트 팝업, 2022년 런던 사보이 호텔의 크리스마스 팝업이 이어졌고, 2024~2025년에는 파리·런던·선전·방콕에서 11~12월 내내 기프트 팝업이 운영됐다[12][13][3]. 이 팝업들의 공통 어휘가 지금 사이트 디자인의 원천이다 — 호스빗 모티프가 선물 상자의 봉인(seal)으로 변주되고, 레드와 그린이 벽면을 채우며, 웹 스트라이프가 리본 역할을 한다[3].
 
-![2019 구찌 핀 — 홍콩 하버시티 팝업. 레드·그린 벽면과 기프트 박스 진열](https://www.windowswear.com/wp-content/uploads/2019/11/Gucci-Pin-HK-Harbour-City_04.jpg "WindowsWear|https://www.windowswear.com/get-your-holiday-shopping-done-at-guccis-new-immersive-pop-up/")
+![2019 구찌 핀 — 홍콩 하버시티 팝업. 플로럴 프린트 진열장과 산타 피규어, 크롬 바닥 위의 GUCCI 마키](https://www.windowswear.com/wp-content/uploads/2019/11/Gucci-Pin-HK-Harbour-City_04.jpg "WindowsWear|https://www.windowswear.com/get-your-holiday-shopping-done-at-guccis-new-immersive-pop-up/")
 
 ![2022 런던 사보이 호텔 크리스마스 팝업 — 발리제리아(여행 가방) 컬렉션 중심의 구성](https://hips.hearstapps.com/hmg-prod/images/gucci-valigeria-at-the-savoy-2-1668688322.jpg "Elle Decoration|https://www.elledecoration.co.uk/lifestyle-culture/a41990554/gucci-savoy/")
 
@@ -173,7 +173,7 @@ Separately from the campaigns, physical Christmas ran on two layers: pop-ups and
 
 Pop-ups first. The 2019 Gucci Pin began from the idea of dropping a pin on a phone map, and pins appeared in the Gucci app and on Google Maps[8]. It was followed by the 2021 Miami Design District pop-up, the 2022 Christmas pop-up at London's Savoy, and in 2024–2025 gift pop-ups running through November and December in Paris, London, Shenzhen and Bangkok[12][13][3]. The shared vocabulary of these spaces is the source of this site's design — the Horsebit motif reworked as the seal on gift boxes, red and green filling the walls, the Web stripe doing the work of ribbon[3].
 
-![2019 Gucci Pin — Harbour City, Hong Kong: red-and-green walls and gift-box displays](https://www.windowswear.com/wp-content/uploads/2019/11/Gucci-Pin-HK-Harbour-City_04.jpg "WindowsWear|https://www.windowswear.com/get-your-holiday-shopping-done-at-guccis-new-immersive-pop-up/")
+![2019 Gucci Pin — Harbour City, Hong Kong: floral-print display grid, a Santa figure and the GUCCI marquee over a chrome floor](https://www.windowswear.com/wp-content/uploads/2019/11/Gucci-Pin-HK-Harbour-City_04.jpg "WindowsWear|https://www.windowswear.com/get-your-holiday-shopping-done-at-guccis-new-immersive-pop-up/")
 
 ![2022 Christmas pop-up at the Savoy, London — built around the Valigeria luggage collection](https://hips.hearstapps.com/hmg-prod/images/gucci-valigeria-at-the-savoy-2-1668688322.jpg "Elle Decoration|https://www.elledecoration.co.uk/lifestyle-culture/a41990554/gucci-savoy/")
 
