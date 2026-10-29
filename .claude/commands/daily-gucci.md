@@ -9,6 +9,8 @@ DATE = $1 or today (YYYY-MM-DD). Execute strictly in order; every stage persists
 
 1.5 SOV (parallel with step 2): use the sov-auditor subagent once, passing DATE. It measures symmetric per-brand counts into data/sov/{DATE}.json — the index script prefers this over collection-derived counts (bias control per §3.2d).
 
+1.6 ENGAGEMENT (parallel with step 2): run `python scripts/collect_engagement.py {DATE}` (Bash, no subagent). It writes interaction metrics to data/engagement/{DATE}/{REGION}.json for the Engagement component (§3.2c). It never fails the pipeline; just note its one-line-per-region output.
+
 2. SENTIMENT (parallel ×4): after step 1 completes, use the sentiment-classifier subagent per block in parallel (NEA, SEA, NA, EU), passing REGION and DATE. Each writes data/sentiment/{DATE}/{REGION}.json.
 
 3. INDEX: use the index-analyst subagent once, passing DATE. It runs `python scripts/compute_gmai.py {DATE}` — script-computed GMAI, deltas, bands, triggers, component breakdowns. Never compute the index by LLM arithmetic.

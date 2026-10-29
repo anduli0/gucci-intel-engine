@@ -83,6 +83,14 @@ w_i = tier_weight × recency_weight
 - Engagement_r = Σ(w_i · ratio_i) / Σ(w_i) over metric-bearing items only
 - If no metric-bearing items exist: Engagement_r = 0.5 (withhold judgment) and
   the snapshot flags engagement_known = false.
+- Metric source (v2.2, 2026-10-29): news collection carries no interaction
+  metrics, so scripts/collect_engagement.py writes metric-only items to
+  data/engagement/{DATE}/{REGION}.json, fed into Engagement ONLY (never
+  Sentiment/Buzz/SOV). Bluesky public search by post language (NEA ko/ja/zh,
+  SEA th/id/vi/ms/tl, NA en, EU fr/de/it/es/nl; tier T3; reach = author
+  followers, comments = replies, shares = reposts + quotes) plus the official
+  Gucci YouTube RSS (all regions; tier T2; reach = views, likes). Same w_i and
+  ratio_i as above. Fail-soft: no file -> previous behavior.
 
 (d) Share of Voice
 - Competitor set: data/sources/pool.json competitor_set (currently Louis Vuitton,

@@ -169,8 +169,11 @@ def compute_sov(mention_counts, neutral=0.125):
     return gucci / total, True
 
 
-def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutral=0.125):
-    """Return the full component breakdown for one region (§3.1-3.3 v2)."""
+def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutral=0.125,
+                   eng_items=None):
+    """Return the full component breakdown for one region (§3.1-3.3 v2).
+    eng_items: metric-only items (collect_engagement.py) that feed Engagement
+    and nothing else."""
     weights, wsm = [], 0.0
     weng_num, weng_den = 0.0, 0.0            # metric-bearing items only
     v_today = 0.0                            # multi-channel volume (Buzz input)
@@ -199,6 +202,17 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
         ch = source_channel(it)
         channel_mix[ch] += 1
         v_today += CHANNEL_WEIGHTS[ch] * recency_weight(it.get("published_at"), ref_day)
+
+    eng_sources = {}
+    for it in eng_items or []:
+        ratio = engagement_ratio(it)
+        if ratio is None:
+            continue
+        w = item_weight(it, ref_day)
+        weng_num += w * ratio
+        weng_den += w
+        src = it.get("platform", "other")
+        eng_sources[src] = eng_sources.get(src, 0) + 1
 
     total_w = sum(weights)
     if total_w <= EPS:
@@ -260,6 +274,7 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
         },
         "sov_known": sov_known,
         "engagement_known": engagement_known,
+        "engagement_sources": eng_sources,
         "buzz_known": len(history) >= BASELINE_MIN_DAYS,
         "baseline_days": len(history),
         "sentiment_coverage": round(matched / len(items), 3) if items else None,
@@ -354,8 +369,10 @@ def run(date_str, root):
         sent_path = sent_dir / f"{region}.json"
         sent_by_id = load_sentiment(sent_path) if sent_path.exists() else {}
         history = [(d, v) for d, v in baseline.get(region, []) if d < date_str][-BASELINE_WINDOW:]
+        eng_path = root / "data" / "engagement" / date_str / f"{region}.json"
+        eng_items = load_raw(eng_path)[0] if eng_path.exists() else []
         results[region] = compute_region(items, sent_by_id, mention_counts, ref_day, history,
-                                         neutral=sov_neutral(root))
+                                         neutral=sov_neutral(root), eng_items=eng_items)
         results[region]["sov_source"] = "objective" if region in sov_override and sov_override[region] else "collection-derived"
 
     if not results:
