@@ -990,7 +990,7 @@ async function loadCal(){
       return `<div class="calitem">
         <div class="cd">${esc(it.date||'')}<small>D${dday(it.date)}</small></div>
         <div class="ct">
-          <div class="ce">${esc(it.brand?it.brand+' — ':'')}${esc(it.event||'')}<span class="typeb ty-${ty}">${t().calTypes[ty]||ty}</span></div>
+          <div class="ce">${esc(it.brand?it.brand+' — ':'')}${esc(LANG==='en'?(it.event_en||it.event||''):(it.event||it.event_en||''))}<span class="typeb ty-${ty}">${t().calTypes[ty]||ty}</span></div>
           <div class="cw">${esc(why)}</div>
           ${it.action_ko&&LANG==='ko'?`<div class="ca">${t().calAct}${esc(it.action_ko)}</div>`:''}
           ${it.action_ko&&LANG==='en'?`<div class="ca">${t().calAct}${esc(it.action_en||it.action_ko)}</div>`:''}
@@ -1148,7 +1148,7 @@ function renderLux(){
       <div class="top"><span class="brand">${esc(it.brand||'')}</span>
         <span class="etype">${esc(it.event_type||'')}</span>
         <span class="tag ${cls}">${esc(ko)}</span></div>
-      <div class="hd">${esc(it.headline||'')}${updB(it.published_at)}</div>
+      <div class="hd">${esc(LANG==='en'?(it.headline_en||it.headline||''):(it.headline||it.headline_en||''))}${updB(it.published_at)}</div>
       ${why?`<div class="why">${t().gucciView}${esc(why)}</div>`:''}
       <div class="src">${esc(it.source||'')} ${it.tier?'· '+esc(it.tier):''} ${it.published_at?'· '+esc(it.published_at):''}
         ${it.url?` · <a href="${esc(it.url)}" target="_blank">${t().orig}</a>`:''}</div>
@@ -1160,7 +1160,7 @@ function renderLux(){
       + kp.map(it=>{
         const why = LANG==='en' ? (it.why_it_matters_en||it.why_it_matters||'') : (it.why_it_matters||it.why_it_matters_en||'');
         return `<div class="luxitem" style="opacity:.85"><div class="top"><span class="brand">${esc(it.brand||'')}</span><span class="etype">${esc(it.published_at||'')}</span></div>
-          <div class="hd">${esc(it.headline||'')}</div>
+          <div class="hd">${esc(LANG==='en'?(it.headline_en||it.headline||''):(it.headline||it.headline_en||''))}</div>
           ${why?`<div class="why">${t().gucciView}${esc(why)}</div>`:''}
           <div class="src">${esc(it.source||'')}${it.url?` · <a href="${esc(it.url)}" target="_blank">${t().orig}</a>`:''}</div></div>`;}).join('');
   }
