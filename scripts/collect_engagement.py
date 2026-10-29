@@ -19,6 +19,7 @@ Usage: python scripts/collect_engagement.py [YYYY-MM-DD] [--root ROOT]
 """
 import argparse
 import json
+import os
 import re
 import sys
 import urllib.parse
@@ -34,6 +35,14 @@ MIN_FOLLOWERS = 1        # zero-follower accounts have no audience to react
 UA = {"User-Agent": "gucci-intel-engagement/1.0"}
 MASTODON_INSTANCES = ["mastodon.social", "mstdn.jp"]
 MASTODON_TAGS = ["gucci", "구찌", "グッチ"]
+YT_API = "https://www.googleapis.com/youtube/v3"
+# (regionCode, relevanceLanguage, query) per GMAI region; ~11 searches x 100 units/day
+YT_REGION_QUERIES = {
+    "NEA": [("KR", "ko", "구찌|gucci"), ("JP", "ja", "グッチ|gucci")],
+    "SEA": [("TH", "th", "กุชชี่|gucci"), ("ID", "id", "gucci"), ("PH", "en", "gucci")],
+    "NA": [("US", "en", "gucci"), ("CA", "en", "gucci")],
+    "EU": [("FR", "fr", "gucci"), ("IT", "it", "gucci"), ("DE", "de", "gucci"), ("GB", "en", "gucci")],
+}
 
 # Region = post language. Local-script brand names catch posts that never write "gucci".
 REGION_LANGS = {
@@ -152,6 +161,52 @@ def collect_mastodon(ref_day, errors):
     return items
 
 
+def collect_youtube_search(region, ref_day, errors):
+    """Earned YouTube videos about Gucci per region (YouTube Data API v3, free
+    quota; needs YOUTUBE_API_KEY, skipped without it). order=date samples by
+    recency, not by YouTube's relevance ranking, which favors already-popular
+    videos (selection bias). reach = views. Brand-owned uploads are excluded."""
+    key = os.environ.get("YOUTUBE_API_KEY")
+    if not key:
+        return []
+    after = (ref_day - timedelta(days=WINDOW_DAYS - 1)).isoformat() + "T00:00:00Z"
+    before = (ref_day + timedelta(days=1)).isoformat() + "T00:00:00Z"
+    ids = []
+    for code, lang, q in YT_REGION_QUERIES[region]:
+        params = {"part": "id", "type": "video", "q": q, "regionCode": code,
+                  "relevanceLanguage": lang, "order": "date", "maxResults": 50,
+                  "publishedAfter": after, "publishedBefore": before, "key": key}
+        try:
+            res = get_json(f"{YT_API}/search?" + urllib.parse.urlencode(params))
+            ids += [r["id"]["videoId"] for r in res.get("items", []) if r.get("id", {}).get("videoId")]
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"youtube search {code}: {str(e).replace(key, '***')}")
+    items, seen = [], set()
+    ids = [i for i in ids if not (i in seen or seen.add(i))]
+    for i in range(0, len(ids), 50):
+        params = {"part": "snippet,statistics", "id": ",".join(ids[i:i + 50]), "key": key}
+        try:
+            res = get_json(f"{YT_API}/videos?" + urllib.parse.urlencode(params))
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"youtube videos: {str(e).replace(key, '***')}")
+            continue
+        for v in res.get("items", []):
+            sn, st = v.get("snippet", {}), v.get("statistics", {})
+            if sn.get("channelId") == YT_CHANNEL or "viewCount" not in st:
+                continue
+            items.append({
+                "id": "yt:" + v["id"], "platform": "youtube", "source_type": "sns", "tier": "T3",
+                "media": "earned", "author": sn.get("channelId"),
+                "published_at": (sn.get("publishedAt") or "")[:10],
+                "url": "https://www.youtube.com/watch?v=" + v["id"],
+                "reach": int(st["viewCount"]),
+                "likes": int(st["likeCount"]) if "likeCount" in st else None,
+                "comments": int(st["commentCount"]) if "commentCount" in st else None,
+                "shares": None,
+            })
+    return items
+
+
 def collect_youtube(ref_day, errors):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={YT_CHANNEL}"
     try:
@@ -195,17 +250,19 @@ def run(date_str, root):
         errors = list(shared_errors)
         bsky_items = collect_bsky(region, ref_day, errors)
         masto_items = [it for it in masto_all if lang_region.get(it["lang"][:2]) == region]
+        yts_items = collect_youtube_search(region, ref_day, errors)
         doc = {
             "date": date_str, "region": region,
             "collected_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-            "sources": {"bluesky": len(bsky_items), "mastodon": len(masto_items), "youtube": len(yt_items)},
+            "sources": {"bluesky": len(bsky_items), "mastodon": len(masto_items),
+                        "youtube_search": len(yts_items), "youtube": len(yt_items)},
             "errors": errors,
-            "items": bsky_items + masto_items + yt_items,
+            "items": bsky_items + masto_items + yts_items + yt_items,
         }
         with open(out_dir / f"{region}.json", "w", encoding="utf-8") as f:
             json.dump(doc, f, ensure_ascii=False, indent=2)
         print(f"{region}: bluesky={len(bsky_items)} mastodon={len(masto_items)} "
-              f"youtube={len(yt_items)} errors={len(errors)}")
+              f"youtube_search={len(yts_items)} youtube_owned={len(yt_items)} errors={len(errors)}")
     return 0
 
 
