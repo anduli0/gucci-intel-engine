@@ -2,23 +2,30 @@
   "date": "2026-10-29",
   "regions": {
     "NEA": {
-      "GMAI": 40.45,
+      "GMAI": 40.89,
       "band": "주의",
       "NSS": -0.4896,
       "components": {
         "sentiment": 0.2552,
         "buzz": 0.8751,
-        "engagement": 0.431,
-        "sov": 0.25
+        "engagement": 0.5316,
+        "sov": 0.1966
       },
       "contrib": {
         "sentiment": 11.48,
         "buzz": 17.5,
-        "engagement": 6.47,
-        "sov": 5.0
+        "engagement": 7.97,
+        "sov": 3.93
       },
       "sov_known": true,
       "engagement_known": true,
+      "engagement_sources": {
+        "bluesky": 36,
+        "youtube": 75,
+        "mastodon": 2
+      },
+      "engagement_method": "v2.3-eb-percentile",
+      "engagement_n_eff": 103.3,
       "buzz_known": true,
       "baseline_days": 30,
       "sentiment_coverage": 1.0,
@@ -57,32 +64,39 @@
       },
       "n_items": 12,
       "sov_source": "objective",
+      "owned_engagement": 0.5,
       "delta_attrib": {
         "sentiment": 2.05,
         "buzz": 4.44,
-        "engagement": -1.04,
-        "sov": 2.5
+        "engagement": 0.47,
+        "sov": 1.43
       },
-      "delta": 7.95
+      "delta": 8.39
     },
     "SEA": {
-      "GMAI": 36.82,
+      "GMAI": 36.98,
       "band": "주의",
       "NSS": -0.4103,
       "components": {
         "sentiment": 0.2948,
         "buzz": 0.6915,
-        "engagement": 0.5,
+        "engagement": 0.5109,
         "sov": 0.1111
       },
       "contrib": {
         "sentiment": 13.27,
         "buzz": 13.83,
-        "engagement": 7.5,
+        "engagement": 7.66,
         "sov": 2.22
       },
       "sov_known": false,
-      "engagement_known": false,
+      "engagement_known": true,
+      "engagement_sources": {
+        "bluesky": 18,
+        "youtube": 69
+      },
+      "engagement_method": "v2.3-eb-percentile",
+      "engagement_n_eff": 83.6,
       "buzz_known": true,
       "baseline_days": 30,
       "sentiment_coverage": 1.0,
@@ -121,32 +135,40 @@
       },
       "n_items": 12,
       "sov_source": "objective",
+      "owned_engagement": 0.5,
       "delta_attrib": {
         "sentiment": 1.34,
         "buzz": 9.54,
-        "engagement": 0.0,
+        "engagement": 0.16,
         "sov": 1.11
       },
-      "delta": 12.0
+      "delta": 12.16
     },
     "NA": {
-      "GMAI": 39.94,
+      "GMAI": 39.24,
       "band": "주의",
       "NSS": -0.1817,
       "components": {
         "sentiment": 0.4092,
         "buzz": 0.5513,
-        "engagement": 0.5,
-        "sov": 0.15
+        "engagement": 0.4707,
+        "sov": 0.137
       },
       "contrib": {
         "sentiment": 18.41,
         "buzz": 11.03,
-        "engagement": 7.5,
-        "sov": 3.0
+        "engagement": 7.06,
+        "sov": 2.74
       },
       "sov_known": true,
-      "engagement_known": false,
+      "engagement_known": true,
+      "engagement_sources": {
+        "bluesky": 94,
+        "youtube": 49,
+        "mastodon": 6
+      },
+      "engagement_method": "v2.3-eb-percentile",
+      "engagement_n_eff": 144.1,
       "buzz_known": true,
       "baseline_days": 30,
       "sentiment_coverage": 1.0,
@@ -202,32 +224,40 @@
       },
       "n_items": 13,
       "sov_source": "objective",
+      "owned_engagement": 0.5,
       "delta_attrib": {
         "sentiment": 3.01,
         "buzz": -3.97,
-        "engagement": 0.0,
-        "sov": 1.95
+        "engagement": -0.44,
+        "sov": 1.69
       },
-      "delta": 0.99
+      "delta": 0.29
     },
     "EU": {
-      "GMAI": 22.81,
+      "GMAI": 22.83,
       "band": "경고",
       "NSS": -0.6164,
       "components": {
         "sentiment": 0.1918,
         "buzz": 0.2286,
-        "engagement": 0.5,
-        "sov": 0.1053
+        "engagement": 0.4987,
+        "sov": 0.1073
       },
       "contrib": {
         "sentiment": 8.63,
         "buzz": 4.57,
-        "engagement": 7.5,
-        "sov": 2.11
+        "engagement": 7.48,
+        "sov": 2.15
       },
       "sov_known": true,
-      "engagement_known": false,
+      "engagement_known": true,
+      "engagement_sources": {
+        "bluesky": 36,
+        "youtube": 65,
+        "mastodon": 1
+      },
+      "engagement_method": "v2.3-eb-percentile",
+      "engagement_n_eff": 91.8,
       "buzz_known": true,
       "baseline_days": 30,
       "sentiment_coverage": 1.0,
@@ -266,13 +296,14 @@
       },
       "n_items": 11,
       "sov_source": "objective",
+      "owned_engagement": 0.5,
       "delta_attrib": {
         "sentiment": -7.33,
         "buzz": -7.67,
-        "engagement": 0.0,
-        "sov": 2.11
+        "engagement": -0.02,
+        "sov": 2.15
       },
-      "delta": -12.89
+      "delta": -12.87
     }
   },
   "global": {
@@ -282,26 +313,26 @@
     "delta_attrib": {
       "sentiment": -0.42,
       "buzz": -0.44,
-      "engagement": -0.36,
-      "sov": 2.09
+      "engagement": 0.07,
+      "sov": 1.66
     },
     "sentiment_weighted": 0.2807
   },
   "missing_blocks": [],
   "triggers": [
-    "EU dropped ≥ 10pt (Δ=-12.89)",
-    "EU in 경고 band (GMAI=22.81)"
+    "EU dropped ≥ 10pt (Δ=-12.87)",
+    "EU in 경고 band (GMAI=22.83)"
   ],
   "triggers_v2": [
     {
       "code": "region_drop",
       "region": "EU",
-      "delta": -12.89
+      "delta": -12.87
     },
     {
       "code": "band_alert",
       "region": "EU",
-      "gmai": 22.81
+      "gmai": 22.83
     }
   ],
   "region_weights_used": {
