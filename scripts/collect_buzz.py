@@ -137,6 +137,34 @@ def edition(domain, region):
     return DEFAULT_EDITION[region]
 
 
+BING_EXTRA = {"blog.naver.com", "cafe.naver.com", "theqoo.net", "dcinside.com", "fmkorea.com", "instiz.net"}
+
+
+def scan_bing(domain, region):
+    """Bing web-search RSS, site-scoped (no key). Used only for Korean community
+    domains that Google News indexes thinly. Dates are absent -> treated as
+    'today' by recency weight only if title matches; otherwise dropped."""
+    q = f"site:{domain} " + " OR ".join(TERMS[region][:2])
+    url = "https://www.bing.com/search?" + urllib.parse.urlencode({"q": q, "format": "rss"})
+    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+        xml = r.read().decode("utf-8", "replace")
+    pat = re.compile("|".join(re.escape(t) for t in TERMS[region]), re.I)
+    out = []
+    for it in xml.split("<item>")[1:]:
+        title = unescape(re.search(r"<title>(.*?)</title>", it, re.S).group(1)) if "<title>" in it else ""
+        link = re.search(r"<link>(.*?)</link>", it)
+        pub = re.search(r"<pubDate>(.*?)</pubDate>", it)
+        try:
+            day = parsedate_to_datetime(pub.group(1)).date().isoformat() if pub else None
+        except (TypeError, ValueError):
+            day = None
+        if not pat.search(title):
+            continue
+        out.append({"source_type": "community", "published_at": day, "title": title[:300],
+                    "url": link.group(1) if link else f"https://{domain}", "source": domain, "title_match": True})
+    return out
+
+
 def scan(domain, region):
     gl, hl = edition(domain, region)
     q = "(" + " OR ".join(TERMS[region]) + f") site:{domain} when:7d"
@@ -174,15 +202,24 @@ def run(date_str, root):
     for region, sources in reg["regions"].items():
         items, errors, scanned = {}, [], 0
         for e in reg["global"] + sources:
-            if e["channel"] != "news":
-                continue
+            if e["channel"] not in ("news", "community"):
+                continue   # sns platforms have no site-search surface via RSS
             for domain in e["domains"]:
                 scanned += 1
                 try:
                     for it in scan(domain, region):
+                        it["source_type"] = e["channel"]
+                        it["source"] = e["name"] if e["channel"] == "community" else it["source"]
                         items[(it["title"], it["source"])] = it
                 except Exception as ex:  # noqa: BLE001 - fail-soft by design
                     errors.append(f"{domain}: {ex}")
+                if domain in BING_EXTRA:
+                    try:
+                        for it in scan_bing(domain, region):
+                            it["source"] = e["name"]
+                            items.setdefault((it["title"], it["source"]), it)
+                    except Exception as ex:  # noqa: BLE001
+                        errors.append(f"bing {domain}: {ex}")
                 time.sleep(PAUSE)
         doc = {"date": date_str, "region": region,
                "collected_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
