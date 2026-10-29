@@ -10,6 +10,16 @@ cd "$(dirname "$0")/.."
 # time — otherwise the honesty gate below false-fails and aborts a good cycle.
 START_DAY=$(date +%F)
 
+# methodology/ is NOT in the repository (trade secret). The agent prompts read
+# it at runtime, so restore it from the METHODOLOGY_B64 secret (base64 tgz).
+if [ -n "${METHODOLOGY_B64:-}" ] && [ ! -d methodology ]; then
+  echo "$METHODOLOGY_B64" | base64 -d | tar -xzf - && echo "methodology/ restored from secret"
+fi
+if [ ! -f methodology/gmai-formula.md ]; then
+  echo "ERROR: methodology/ missing and METHODOLOGY_B64 not set - the labeling/fact-check contracts would be silently skipped" >&2
+  exit 1
+fi
+
 # CORE steps must succeed. A failure here (e.g. a revoked/expired auth token
 # returning "401 OAuth access token has been revoked") is fatal: we mark the
 # run FAILED so the job goes red and the owner is alerted, instead of silently

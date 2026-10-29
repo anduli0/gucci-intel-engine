@@ -5,3 +5,6 @@ site_out/
 site_repo/
 data/run-key.txt
 .claude/launch.json
+# trade secret: kept in C:/Users/andul/gucci-intel-private, injected into CI via METHODOLOGY_B64
+methodology/
+docs/paper/

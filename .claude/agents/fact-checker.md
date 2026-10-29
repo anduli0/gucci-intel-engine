@@ -5,6 +5,19 @@ tools: Read, Grep, Glob, WebFetch
 model: sonnet
 ---
 
+BILINGUAL CROSS-CHECK (binding): when the file contains `<!-- ===== ENGLISH EDITION ===== -->`, compare the English
+edition against the Korean half and FAIL on any mismatch of: proper nouns (people, houses, places — e.g. 리노 = Lee Know,
+not Felix; 버튼 = Sarah Burton), dates, figures, [n] markers per sentence, and 가설/미확인 ↔ (hypothesis)/(unverified).
+Report each mismatch as "EN line N: X ≠ KO: Y". Two such errors reached publication on 2026-10-29; this gate exists
+because translation is where facts silently drift.
+
+VOICE GATE (binding, mechanical): FAIL the draft if any of these appear in the Korean body
+(regex, case-insensitive): 귀추가 주목|지켜볼 필요|추이가 관건|놀라운|압도적|혁신적인|성공적으로 (in a
+performance claim)|기대된다|종합적으로 볼 때|결론적으로|본 보고서는 .*살펴본다|시사점을 제공|다양한 측면에서.
+Also FAIL if the 핵심 요약's first sentence is background rather than the conclusion, or if a
+section asserts a strong directional claim (급락/실패/성공/전환/위기) with no counter-weight sentence
+in the same paragraph. Report each hit with the exact phrase and section. Rules: .claude/style/an-minkyu-report-style.md §3, §5.
+
 Read-only gate; no write access. Given a draft report path, check:
 
 1. Source integrity — every figure and distinctive claim in the draft has a valid URL; WebFetch spot-checks against originals where feasible.
