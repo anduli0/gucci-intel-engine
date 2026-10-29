@@ -166,50 +166,103 @@ def collect_mastodon(ref_day, errors):
     return items
 
 
-def collect_youtube_search(region, ref_day, errors):
-    """Earned YouTube videos about Gucci per region (YouTube Data API v3, free
-    quota; needs YOUTUBE_API_KEY, skipped without it). order=date samples by
-    recency, not by YouTube's relevance ranking, which favors already-popular
-    videos (selection bias). reach = views. Brand-owned uploads are excluded."""
+COUNTRY_REGION = {c: r for r, cs in {
+    "NEA": "KR JP CN HK TW MO MN", "SEA": "SG TH ID PH MY VN KH MM BN LA", "NA": "US CA",
+    "EU": "GB IE FR DE IT ES PT NL BE LU AT CH SE NO DK FI PL CZ GR HU RO BG HR SK SI EE LV LT",
+}.items() for c in cs.split()}
+SCRIPT_RULES = [(re.compile("[가-힣぀-ヿ一-鿿]"), "NEA"),
+                (re.compile("[฀-๿]"), "SEA")]
+# English posts carry no geography: split NA/EU by a Beta-prior share (Reddit /
+# English-social traffic geography: NA ~0.73 within NA+EU) instead of en -> NA.
+EN_SPLIT = {"NA": 0.73, "EU": 0.27}
+
+
+def collect_youtube_search(ref_day, errors):
+    """Earned YouTube videos about Gucci, region-assigned by rule E (validated
+    2026-10-29 in data/analysis/region-assignment-*.json: est. precision 0.64
+    vs 0.31 for search regionCode+language, zero duplication):
+      1. uploader channel country (channels.list) -> its region
+      2. else title script: Hangul/Kana/Han -> NEA, Thai -> SEA
+      3. else split 1/k over the k regions whose search returned the video.
+    Each item carries "alloc" (its weight in that region). order=date samples by
+    recency, not by relevance (popularity selection bias). reach = views.
+    Needs YOUTUBE_API_KEY (skipped without it). Returns region -> items."""
     key = os.environ.get("YOUTUBE_API_KEY")
+    out = {r: [] for r in YT_REGION_QUERIES}
     if not key:
-        return []
+        return out
     after = (ref_day - timedelta(days=WINDOW_DAYS - 1)).isoformat() + "T00:00:00Z"
     before = (ref_day + timedelta(days=1)).isoformat() + "T00:00:00Z"
-    ids = []
-    for code, lang, q in YT_REGION_QUERIES[region]:
-        params = {"part": "id", "type": "video", "q": q, "regionCode": code,
-                  "relevanceLanguage": lang, "order": "date", "maxResults": 50,
-                  "publishedAfter": after, "publishedBefore": before, "key": key}
-        try:
-            res = get_json(f"{YT_API}/search?" + urllib.parse.urlencode(params))
-            ids += [r["id"]["videoId"] for r in res.get("items", []) if r.get("id", {}).get("videoId")]
-        except Exception as e:  # noqa: BLE001
-            errors.append(f"youtube search {code}: {str(e).replace(key, '***')}")
-    items, seen = [], set()
-    ids = [i for i in ids if not (i in seen or seen.add(i))]
+    found_in = {}
+    for region, queries in YT_REGION_QUERIES.items():
+        for code, lang, q in queries:
+            params = {"part": "id", "type": "video", "q": q, "regionCode": code,
+                      "relevanceLanguage": lang, "order": "date", "maxResults": 50,
+                      "publishedAfter": after, "publishedBefore": before, "key": key}
+            try:
+                res = get_json(f"{YT_API}/search?" + urllib.parse.urlencode(params))
+            except Exception as e:  # noqa: BLE001
+                errors.append(f"youtube search {code}: {str(e).replace(key, '***')}")
+                continue
+            for r in res.get("items", []):
+                vid = r.get("id", {}).get("videoId")
+                if vid and region not in found_in.setdefault(vid, []):
+                    found_in[vid].append(region)
+    ids, videos = list(found_in), {}
     for i in range(0, len(ids), 50):
         params = {"part": "snippet,statistics", "id": ",".join(ids[i:i + 50]), "key": key}
         try:
-            res = get_json(f"{YT_API}/videos?" + urllib.parse.urlencode(params))
+            for v in get_json(f"{YT_API}/videos?" + urllib.parse.urlencode(params)).get("items", []):
+                videos[v["id"]] = v
         except Exception as e:  # noqa: BLE001
             errors.append(f"youtube videos: {str(e).replace(key, '***')}")
+    chans = sorted({v["snippet"].get("channelId") for v in videos.values() if v["snippet"].get("channelId")})
+    country = {}
+    for i in range(0, len(chans), 50):
+        params = {"part": "snippet", "id": ",".join(chans[i:i + 50]), "key": key}
+        try:
+            for c in get_json(f"{YT_API}/channels?" + urllib.parse.urlencode(params)).get("items", []):
+                country[c["id"]] = c["snippet"].get("country")
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"youtube channels: {str(e).replace(key, '***')}")
+    for vid, v in videos.items():
+        sn, st = v.get("snippet", {}), v.get("statistics", {})
+        if sn.get("channelId") == YT_CHANNEL or "viewCount" not in st:
             continue
-        for v in res.get("items", []):
-            sn, st = v.get("snippet", {}), v.get("statistics", {})
-            if sn.get("channelId") == YT_CHANNEL or "viewCount" not in st:
-                continue
-            items.append({
-                "id": "yt:" + v["id"], "platform": "youtube", "source_type": "sns", "tier": "T3",
-                "media": "earned", "author": sn.get("channelId"),
-                "published_at": (sn.get("publishedAt") or "")[:10],
-                "url": "https://www.youtube.com/watch?v=" + v["id"],
-                "reach": int(st["viewCount"]),
-                "likes": int(st["likeCount"]) if "likeCount" in st else None,
-                "comments": int(st["commentCount"]) if "commentCount" in st else None,
-                "shares": None,
-            })
-    return items
+        base = {
+            "id": "yt:" + vid, "platform": "youtube", "source_type": "sns", "tier": "T3",
+            "media": "earned", "author": sn.get("channelId"),
+            "published_at": (sn.get("publishedAt") or "")[:10],
+            "url": "https://www.youtube.com/watch?v=" + vid, "title": sn.get("title", "")[:300],
+            "reach": int(st["viewCount"]),
+            "likes": int(st["likeCount"]) if "likeCount" in st else None,
+            "comments": int(st["commentCount"]) if "commentCount" in st else None,
+            "shares": None,
+        }
+        true_r = COUNTRY_REGION.get(country.get(sn.get("channelId")) or "")
+        script_r = next((r for rx, r in SCRIPT_RULES if rx.search(sn.get("title", ""))), None)
+        if true_r or script_r:
+            out[true_r or script_r].append({**base, "alloc": 1.0,
+                                            "region_rule": "channel_country" if true_r else "title_script"})
+        else:
+            regs = found_in[vid]
+            for r in regs:
+                out[r].append({**base, "alloc": round(1.0 / len(regs), 4), "region_rule": "split"})
+    return out
+
+
+def split_english(items_by_region):
+    """Move geo-less English posts (Bluesky/Mastodon 'en', filed under NA) to a
+    fractional NA/EU split: NA keeps EN_SPLIT['NA'], EU gets a copy with the rest."""
+    na_keep = []
+    for it in items_by_region["NA"]:
+        if it.get("platform") in ("bluesky", "mastodon"):
+            na_keep.append({**it, "alloc": EN_SPLIT["NA"], "region_rule": "en_split"})
+            items_by_region["EU"].append({**it, "alloc": EN_SPLIT["EU"], "region_rule": "en_split"})
+        else:
+            na_keep.append(it)
+    items_by_region["NA"] = na_keep
+    return items_by_region
 
 
 def collect_instagram(errors):
@@ -286,11 +339,18 @@ def run(date_str, root):
             json.dump({"date": date_str, "errors": ig_errors, "accounts": ig},
                       f, ensure_ascii=False, indent=2)
         print(f"instagram: accounts={len(ig)} errors={len(ig_errors)}")
+    yts_by_region = collect_youtube_search(ref_day, shared_errors)
+    social, region_errors = {}, {}
     for region in REGION_LANGS:
-        errors = list(shared_errors)
-        bsky_items = collect_bsky(region, ref_day, errors)
-        masto_items = [it for it in masto_all if lang_region.get(it["lang"][:2]) == region]
-        yts_items = collect_youtube_search(region, ref_day, errors)
+        region_errors[region] = []
+        social[region] = (collect_bsky(region, ref_day, region_errors[region])
+                          + [it for it in masto_all if lang_region.get(it["lang"][:2]) == region])
+    social = split_english(social)
+    for region in REGION_LANGS:
+        errors = shared_errors + region_errors[region]
+        bsky_items = [it for it in social[region] if it["platform"] == "bluesky"]
+        masto_items = [it for it in social[region] if it["platform"] == "mastodon"]
+        yts_items = yts_by_region[region]
         doc = {
             "date": date_str, "region": region,
             "collected_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),

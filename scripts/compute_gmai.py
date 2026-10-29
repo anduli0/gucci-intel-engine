@@ -428,7 +428,7 @@ def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutr
         for it in sorted(scored, key=lambda x: str(x.get("published_at", "")), reverse=True):
             by_author.setdefault(it.get("author") or it.get("id"), []).append(it)
         kept = [it for posts in by_author.values() for it in posts[:ENG_AUTHOR_CAP]]
-        ws = [item_weight(it, ref_day) for it in kept]
+        ws = [item_weight(it, ref_day) * float(it.get("alloc", 1.0)) for it in kept]  # alloc: region share
         sw, sw2 = sum(ws), sum(w * w for w in ws)
         eng_n_eff = (sw * sw / sw2) if sw2 > EPS else 0.0
         s = sum(w * it["u"] for w, it in zip(ws, kept)) / sw if sw > EPS else 0.5

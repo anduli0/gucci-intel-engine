@@ -131,6 +131,20 @@ w_i = tier_weight × recency_weight
   Snapshot fields: engagement_method (v2.3-eb-percentile | v2.1-ratio),
   engagement_n_eff, engagement_sources, owned_engagement. Without a collection
   file the v2.1 ratio over raw items applies (the §3.6 selftest path).
+- Region assignment (v2.5, 2026-10-29), chosen by an empirical test
+  (scripts/analyze_region_assignment.py; ground truth = uploader channel
+  country; data/analysis/region-assignment-2026-10-29.json). For YouTube
+  search the old rule (regionCode + relevanceLanguage) had precision 0.31
+  (chance 0.25), 66% of videos duplicated across regions, chi-square p = 0.066,
+  Cramér's V 0.25: regional differences were largely artificial. Adopted rule E:
+  channel country -> its region; else title script (Hangul/Kana/Han -> NEA,
+  Thai -> SEA; 7/7 correct on known-country videos); else split 1/k over the
+  k regions whose search returned it. Estimated precision 0.64, duplication 0.
+  Geo-less English posts (Bluesky/Mastodon 'en', Reddit, Lemmy) are split
+  NA/EU by a Beta prior (NA 0.73, strength 10; English-social traffic
+  geography), updated by geo-identified posts where available. Every item
+  carries alloc = its weight in that region, applied to Engagement and Buzz.
+  Instagram blend is OFF (IG_ENABLED = False) until the user asks.
 - Instagram heat (global, optional; active when IG_ACCESS_TOKEN/IG_USER_ID
   exist). Source: Meta Graph API Business Discovery on official accounts of
   Gucci + competitor_set (no scraping). Per post x = likes + 2·comments,
