@@ -1,23 +1,23 @@
 {
   "date": "2026-10-29",
-  "videos": 109,
-  "channel_country_known": 0.349,
+  "videos": 114,
+  "channel_country_known": 0.377,
   "A_regioncode_only": {
     "per_region": {
       "NEA": {
-        "n": 66,
-        "known": 22,
-        "precision": 0.273
+        "n": 65,
+        "known": 24,
+        "precision": 0.208
       },
       "SEA": {
-        "n": 64,
-        "known": 19,
-        "precision": 0.105
+        "n": 67,
+        "known": 24,
+        "precision": 0.083
       },
       "NA": {
-        "n": 50,
-        "known": 17,
-        "precision": 0.353
+        "n": 65,
+        "known": 24,
+        "precision": 0.5
       },
       "EU": {
         "n": 58,
@@ -25,24 +25,24 @@
         "precision": 0.304
       }
     },
-    "precision_known": 0.259,
-    "known_share": 0.34,
-    "duplication_rate": 0.765,
-    "chi2": 3.14,
-    "p_value": 0.9584541678771934,
-    "cramers_v": 0.114
+    "precision_known": 0.274,
+    "known_share": 0.373,
+    "duplication_rate": 0.795,
+    "chi2": 2.71,
+    "p_value": 0.9748087068439811,
+    "cramers_v": 0.097
   },
   "B_regioncode_language": {
     "per_region": {
       "NEA": {
         "n": 69,
-        "known": 25,
-        "precision": 0.32
+        "known": 24,
+        "precision": 0.292
       },
       "SEA": {
-        "n": 74,
-        "known": 23,
-        "precision": 0.13
+        "n": 73,
+        "known": 26,
+        "precision": 0.154
       },
       "NA": {
         "n": 52,
@@ -50,47 +50,65 @@
         "precision": 0.562
       },
       "EU": {
-        "n": 63,
-        "known": 23,
-        "precision": 0.304
+        "n": 60,
+        "known": 21,
+        "precision": 0.286
       }
     },
-    "precision_known": 0.31,
-    "known_share": 0.337,
-    "duplication_rate": 0.663,
-    "chi2": 16.03,
-    "p_value": 0.06619409280208419,
-    "cramers_v": 0.248
+    "precision_known": 0.299,
+    "known_share": 0.343,
+    "duplication_rate": 0.644,
+    "chi2": 15.38,
+    "p_value": 0.08108879877093278,
+    "cramers_v": 0.243
   },
   "D_reassign_by_channel_country": {
     "per_region": {
       "NEA": {
         "n": 52,
-        "known": 8,
+        "known": 7,
         "precision": 1.0
       },
       "SEA": {
-        "n": 54,
-        "known": 3,
+        "n": 51,
+        "known": 4,
         "precision": 1.0
       },
       "NA": {
-        "n": 55,
-        "known": 19,
+        "n": 57,
+        "known": 21,
         "precision": 1.0
       },
       "EU": {
         "n": 48,
-        "known": 8,
+        "known": 9,
         "precision": 1.0
       }
     },
     "precision_known": 1.0,
-    "known_share": 0.182,
-    "duplication_rate": 0.452,
-    "chi2": 114.0,
-    "p_value": 2.2497928045312042e-20,
+    "known_share": 0.197,
+    "duplication_rate": 0.442,
+    "chi2": 123.0,
+    "p_value": 3.2457805371077243e-22,
     "cramers_v": 1.0
   },
-  "D_estimated_overall_precision": 0.543
+  "E_country_script_fractional": {
+    "effective_n_per_region": {
+      "NEA": 30.6,
+      "SEA": 20.6,
+      "NA": 30.9,
+      "EU": 21.9
+    },
+    "mass_share": {
+      "country": 0.394,
+      "script": 0.077,
+      "split": 0.529
+    },
+    "script_rule_precision_on_known": 1.0,
+    "script_rule_n_known": 7,
+    "split_rule_expected_accuracy_on_known": 0.319,
+    "estimated_overall_precision": 0.64,
+    "duplication_rate": 0.0
+  },
+  "D_estimated_overall_precision": 0.539
 }
