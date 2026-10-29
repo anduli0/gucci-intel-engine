@@ -16,19 +16,19 @@
 
 ## 핵심 요약
 
-오늘 구찌의 세계 종합 성적표(GMAI)는 100점 만점에 34.95점으로, 직전 기록보다 0.86점 올랐지만 그 직전 기록은 어제가 아니라 2주 전(10월 15일)입니다. 네 권역 가운데 세 곳(동북아·동남아·북미)은 올랐고 유럽만 홀로 12.87점 무너지며 가장 낮은 위험 구간(경고)으로 떨어졌습니다. 이 움직임의 공통 배경은 케링 3분기 실적 발표에서 구찌 매출이 6% 빠지고 주가가 폭락한 사건[1][2]이며, 그 충격은 유럽에서 가장 크게 나타났습니다. 동남아·동북아의 상승은 "사람들이 구찌를 좋게 말해서"가 아니라 주로 "말이 많아져서" 생긴 것이고, 세계 점수의 소폭 상승도 호감이 아니라 경쟁사 대비 언급 비중(점유)에서 나왔으므로 겉보기 반등을 호감 개선으로 읽으면 안 됩니다.
+오늘 구찌의 세계 종합 성적표(GMAI)는 100점 만점에 34.91점으로, 직전 기록보다 0.82점 올랐지만 그 직전 기록은 어제가 아니라 2주 전(10월 15일)입니다. 네 권역 가운데 세 곳(동북아·동남아·북미)은 올랐고 유럽만 홀로 12.49점 무너지며 가장 낮은 위험 구간(경고)으로 떨어졌습니다. 이 움직임의 공통 배경은 케링 3분기 실적 발표에서 구찌 매출이 6% 빠지고 주가가 폭락한 사건[1][2]이며, 그 충격은 유럽에서 가장 크게 나타났습니다. 동남아·동북아의 상승은 "사람들이 구찌를 좋게 말해서"가 아니라 주로 "말이 많아져서" 생긴 것이고, 세계 점수의 소폭 상승도 호감이 아니라 경쟁사 대비 언급 비중(점유)에서 나왔으므로 겉보기 반등을 호감 개선으로 읽으면 안 됩니다.
 
 ## 1. 오늘의 결론
 
-오늘 구찌의 세계 성적표는 100점 만점에 34.95점입니다. 중간(50점)에 한참 못 미치는, 아래에서 두 번째 단계인 "주의" 구간입니다. 숫자상으로는 직전 기록보다 0.86점 올랐지만, 비교 대상이 어제가 아니라 2주 전(10월 15일)이라는 점을 반드시 기억해야 합니다.
+오늘 구찌의 세계 성적표는 100점 만점에 34.91점입니다. 중간(50점)에 한참 못 미치는, 아래에서 두 번째 단계인 "주의" 구간입니다. 숫자상으로는 직전 기록보다 0.82점 올랐지만, 비교 대상이 어제가 아니라 2주 전(10월 15일)이라는 점을 반드시 기억해야 합니다.
 
-가장 높은 곳은 동북아(40.89점)와 북미(39.24점)이고, 가장 낮은 곳은 유럽(22.83점)입니다. 유럽은 혼자서 12.87점 떨어져 네 권역 중 유일하게 가장 위험한 "경고" 구간에 들어갔습니다.
+가장 높은 곳은 동북아(40.30점)와 북미(39.30점)이고, 가장 낮은 곳은 유럽(23.21점)입니다. 유럽은 혼자서 12.49점 떨어져 네 권역 중 유일하게 가장 위험한 "경고" 구간에 들어갔습니다.
 
 오늘 꼭 유의할 점은 이것입니다. 세 권역이 오른 것은 상당 부분 케링 실적 뉴스로 "구찌가 많이 언급된" 효과이거나 2주간의 누적 변화가 하루처럼 보이는 착시입니다. 네 권역 모두 긍정 의견보다 부정 의견이 많고, 사람들의 실제 호감이 전반적으로 좋아졌다는 증거는 없습니다.
 
 ## 2. 지수를 읽는 법
 
-처음 보시는 분을 위해 GMAI를 한마디로 설명하면, 구찌가 지금 시장에서 얼마나 매력적으로 비치는지를 0~100점으로 환산한 성적표이자 체온계입니다. 50점이 보통이고, 높을수록 좋습니다. 구간은 다섯 단계로, 75점 이상이 "강한 매력", 60~74점이 "우호", 45~59점이 "중립", 30~44점이 "주의", 29점 이하가 "경고"입니다. 오늘 세계 점수 34.95점은 "주의" 구간, 유럽 22.83점은 가장 낮은 "경고" 구간입니다.
+처음 보시는 분을 위해 GMAI를 한마디로 설명하면, 구찌가 지금 시장에서 얼마나 매력적으로 비치는지를 0~100점으로 환산한 성적표이자 체온계입니다. 50점이 보통이고, 높을수록 좋습니다. 구간은 다섯 단계로, 75점 이상이 "강한 매력", 60~74점이 "우호", 45~59점이 "중립", 30~44점이 "주의", 29점 이하가 "경고"입니다. 오늘 세계 점수 34.91점은 "주의" 구간, 유럽 23.21점은 가장 낮은 "경고" 구간입니다.
 
 이 성적표는 네 가지 재료(컴포넌트)를 섞어 만듭니다. 각각을 일상어로 풀면 이렇습니다.
 
@@ -45,13 +45,13 @@
 
 | 권역 | GMAI(점) | 구간 | NSS | 감성 | 화제 | 참여 | 점유 | 긍/중/부(건) | 변화 폭 |
 |---|---|---|---|---|---|---|---|---|---|
-| 동북아 NEA | 40.89 | 주의 | -0.49 | 0.26 | 0.88 | 0.53 | 0.20 | 0 / 4 / 8 | +8.39 |
-| 동남아 SEA | 36.98 | 주의 | -0.41 | 0.29 | 0.69 | 0.51 | 0.11* | 1 / 5 / 6 | +12.16 |
-| 북미 NA | 39.24 | 주의 | -0.18 | 0.41 | 0.55 | 0.47 | 0.14 | 2 / 4 / 7 | +0.29 |
-| 유럽 EU | 22.83 | 경고 | -0.62 | 0.19 | 0.23 | 0.50 | 0.11 | 0 / 4 / 7 | -12.87 |
-| 세계 GLOBAL | 34.95 | 주의 | — | — | — | — | — | — | +0.86 |
+| 동북아 NEA | 40.30 | 주의 | -0.49 | 0.26 | 0.88 | 0.49 | 0.20 | 0 / 4 / 8 | +7.80 |
+| 동남아 SEA | 37.37 | 주의 | -0.41 | 0.29 | 0.69 | 0.54 | 0.11* | 1 / 5 / 6 | +12.55 |
+| 북미 NA | 39.30 | 주의 | -0.18 | 0.41 | 0.55 | 0.48 | 0.14 | 2 / 4 / 7 | +0.35 |
+| 유럽 EU | 23.21 | 경고 | -0.62 | 0.19 | 0.23 | 0.52 | 0.11 | 0 / 4 / 7 | -12.49 |
+| 세계 GLOBAL | 34.91 | 주의 | — | — | — | — | — | — | +0.82 |
 
-\* 동남아의 점유 0.11에는 별표를 붙였습니다. 대칭 수집 자료가 없어(sov_known=false) 9개 브랜드가 똑같이 나눠 갖는다고 가정한 중립값(1/9)으로 채운 것이며, 실제 측정값이 아닙니다. 오늘부터 참여는 네 권역 모두 실제 반응 데이터로 계산되었습니다. 유럽의 참여 0.50도 "데이터 없음" 표시가 아니라 실측 결과가 우연히 보통 수준에 놓인 값입니다(6절 참조).
+\* 동남아의 점유 0.11에는 별표를 붙였습니다. 대칭 수집 자료가 없어(sov_known=false) 9개 브랜드가 똑같이 나눠 갖는다고 가정한 중립값(1/9)으로 채운 것이며, 실제 측정값이 아닙니다. 오늘부터 참여는 네 권역 모두 실제 반응 데이터로 계산되었습니다. 네 권역의 참여(0.48~0.54)가 모두 0.5 근처인 것은 "보통 수준의 반응"이라는 실측 결과이지 "데이터 없음" 표시가 아닙니다(6절 참조).
 
 표의 각 칸을 한 줄씩 설명합니다.
 
@@ -66,35 +66,35 @@
 
 경영진이 가장 먼저 알아야 할 사실은, 오늘 네 권역이 서로 다른 방향으로 움직였지만 배경에는 하나의 사건이 있다는 점입니다. 2026년 10월 22~23일 발표된 케링 3분기 실적에서 구찌의 동일점포 매출이 6% 빠졌습니다. 이는 시장이 예상한 3.3% 하락보다 나쁜 수치였습니다. 직영 동일점포 매출은 9% 감소했고, 연내 순폐점 목표는 최소 125개로 상향되었으며, 경영진은 12~24개월에 걸친 중국 회복 계획을 내놓았고, 주가는 하루 16.57% 떨어졌습니다[1][2][3][6]. 이 단일 사건이 네 권역의 지수를 동시에 흔들었습니다.
 
-유럽의 하락은 "감성과 화제가 함께 무너진" 이중 붕괴입니다. 유럽의 12.87점 하락을 재료별로 쪼개 보면, 감성에서 7.33점, 화제에서 7.67점이 거의 비슷하게 빠졌습니다. 참여는 0.02점 감소로 사실상 변화가 없었고, 점유는 2.15점 더해졌습니다(이 점유 상승의 성격은 6절에서 설명합니다). 다시 말해 유럽에서는 사람들이 구찌를 더 나쁘게 말하게 된 것(감성)과, 구찌 이야기 자체가 줄어든 것(화제)이 겹쳐 일어났습니다. 유럽은 실적 발표의 본진(케링의 유럽 상장 주식, 유럽 금융·패션 매체)이라 애널리스트 하향(UBS·Citi의 목표주가 인하[4][5])과 매출 쇼크 기사가 집중되었고, 긍정 의견은 한 건도 수집되지 않았습니다. 유럽의 감성 0.19, 화제 0.23은 네 권역 중 가장 낮습니다.
+유럽의 하락은 "감성과 화제가 함께 무너진" 이중 붕괴입니다. 유럽의 12.49점 하락을 재료별로 쪼개 보면, 감성에서 7.33점, 화제에서 7.67점이 거의 비슷하게 빠졌습니다. 참여는 0.36점, 점유는 2.15점 더해졌습니다(이 점유 상승의 성격은 6절에서 설명합니다). 다시 말해 유럽에서는 사람들이 구찌를 더 나쁘게 말하게 된 것(감성)과, 구찌 이야기 자체가 줄어든 것(화제)이 겹쳐 일어났습니다. 유럽은 실적 발표의 본진(케링의 유럽 상장 주식, 유럽 금융·패션 매체)이라 애널리스트 하향(UBS·Citi의 목표주가 인하[4][5])과 매출 쇼크 기사가 집중되었고, 긍정 의견은 한 건도 수집되지 않았습니다. 유럽의 감성 0.19, 화제 0.23은 네 권역 중 가장 낮습니다.
 
-동남아의 상승은 전혀 다른 성격입니다. 동남아는 12.16점 올랐지만, 그 가운데 9.54점이 화제, 즉 "말이 많아진 것"에서 나왔습니다. 감성 기여는 1.34점에 그쳤고, 순감성점수(NSS)는 -0.41로 여전히 뚜렷한 부정입니다. 동남아에서 구찌가 많이 언급된 것은 맞지만, 그 언급은 실적 악화 기사와 태국 앰배서더 팬덤 화제가 섞인 것이지 호감이 좋아진 신호가 아닙니다. 화제 주도 상승과 감성 주도 상승은 전혀 다른 것이며, 동남아의 반등은 앞엣것에 해당합니다.
+동남아의 상승은 전혀 다른 성격입니다. 동남아는 12.55점 올랐지만, 그 가운데 9.54점이 화제, 즉 "말이 많아진 것"에서 나왔습니다. 감성 기여는 1.34점에 그쳤고, 순감성점수(NSS)는 -0.41로 여전히 뚜렷한 부정입니다. 동남아에서 구찌가 많이 언급된 것은 맞지만, 그 언급은 실적 악화 기사와 태국 앰배서더 팬덤 화제가 섞인 것이지 호감이 좋아진 신호가 아닙니다. 화제 주도 상승과 감성 주도 상승은 전혀 다른 것이며, 동남아의 반등은 앞엣것에 해당합니다.
 
-동북아의 상승(+8.39)도 성격이 비슷합니다. 변화의 절반 이상(4.44점)이 화제에서 왔고, 감성 2.05점, 점유 1.43점, 참여 0.47점이 뒤를 이었습니다. 동북아 역시 긍정 의견은 0건, 부정은 8건으로 바닥 정서는 부정적입니다.
+동북아의 상승(+7.80)도 성격이 비슷합니다. 변화의 절반 이상(4.44점)이 화제에서 왔고, 감성 2.05점, 점유 1.43점이 뒤를 이었으며, 참여는 0.12점 뺐습니다. 동북아 역시 긍정 의견은 0건, 부정은 8건으로 바닥 정서는 부정적입니다.
 
-북미는 +0.29로 숫자상 정체이지만 속은 엇갈립니다. 감성이 3.01점을 더한 반면 화제가 3.97점을 깎았고, 점유가 1.69점 더하고 참여가 0.44점 뺐습니다. 북미는 네 권역 가운데 유일하게 긍정 동력(팬덤 +0.58, 자발적 UGC +0.35, 크리에이티브 디렉션 +0.23, 독립 리뷰 +0.23)이 조금이라도 잡힌 권역입니다. 다만 그 플러스는 작고, 순감성점수는 여전히 -0.18로 부정 우위이며(긍정 2건 대 부정 7건), 실효 표본이 5.0으로 얇아 감성 개선을 추세로 단정할 수 없습니다. 같은 시기 미국 모멘텀 둔화를 지적한 보도[2]도 반대 신호로 함께 보아야 합니다.
+북미는 +0.35로 숫자상 정체이지만 속은 엇갈립니다. 감성이 3.01점을 더한 반면 화제가 3.97점을 깎았고, 점유가 1.69점 더하고 참여가 0.38점 뺐습니다. 북미는 네 권역 가운데 유일하게 긍정 동력(팬덤 +0.58, 자발적 UGC +0.35, 크리에이티브 디렉션 +0.23, 독립 리뷰 +0.23)이 조금이라도 잡힌 권역입니다. 다만 그 플러스는 작고, 순감성점수는 여전히 -0.18로 부정 우위이며(긍정 2건 대 부정 7건), 실효 표본이 5.0으로 얇아 감성 개선을 추세로 단정할 수 없습니다. 같은 시기 미국 모멘텀 둔화를 지적한 보도[2]도 반대 신호로 함께 보아야 합니다.
 
-세계 종합 점수의 변화 폭 +0.86은 ±7점 경보 기준을 건드리지 않습니다. 그런데 이 0.86점을 재료별로 쪼개면 감성(-0.42)과 화제(-0.44)는 오히려 세계 점수를 깎았고, 점유(+1.66)가 이를 메웠으며, 참여는 +0.07에 그쳤습니다. 즉 세계 점수의 소폭 상승은 호감이나 화제가 아니라 점유에서 나왔고, 그 점유 상승의 상당 부분은 산출 방식 변경의 영향일 수 있습니다(6절, 가설). 겉보기 평온 아래에 유럽 붕괴와 나머지 권역의 화제 상승이 서로 상쇄되어 있다는 점이 더 중요합니다.
+세계 종합 점수의 변화 폭 +0.82은 ±7점 경보 기준을 건드리지 않습니다. 그런데 이 0.82점을 재료별로 쪼개면 감성(-0.42)과 화제(-0.44)는 오히려 세계 점수를 깎았고, 점유(+1.66)가 이를 메웠으며, 참여는 +0.03에 그쳤습니다. 즉 세계 점수의 소폭 상승은 호감이나 화제가 아니라 점유에서 나왔고, 그 점유 상승의 상당 부분은 산출 방식 변경의 영향일 수 있습니다(6절, 가설). 겉보기 평온 아래에 유럽 붕괴와 나머지 권역의 화제 상승이 서로 상쇄되어 있다는 점이 더 중요합니다.
 
 ## 5. 권역 격차 뜯어보기
 
-오늘 가장 큰 격차는 동북아(40.89)와 유럽(22.83) 사이의 18.06점입니다. 이 격차를 재료별 기여로 쪼개 보면 대부분이 화제에서 나옵니다. 동북아의 화제 기여는 17.50점, 유럽은 4.57점으로, 이 하나에서만 12.93점이 벌어집니다. 감성 격차(동북아 11.48 대 유럽 8.63)는 2.85점, 점유 격차(3.93 대 2.15)는 1.78점, 참여 격차(7.97 대 7.48)는 0.49점입니다. 한마디로 "동북아가 유럽보다 18.06점 높은데, 그 차이의 대부분은 구찌 이야기가 훨씬 많다는 점(화제)에서 나왔지, 사람들이 더 좋게 말해서가 아니다"입니다. 두 권역 모두 긍정 의견은 0건으로 바닥 정서는 똑같이 나쁩니다. 동북아의 화제 증가는 케링 폭락·구찌 폐점·중국 가격 인하 관련 기사가 한국·중국 매체와 커뮤니티에 대량으로 나온 결과입니다[1][6][7].
+오늘 가장 큰 격차는 동북아(40.30)와 유럽(23.21) 사이의 17.09점입니다. 이 격차를 재료별 기여로 쪼개 보면 대부분이 화제에서 나옵니다. 동북아의 화제 기여는 17.50점, 유럽은 4.57점으로, 이 하나에서만 12.93점이 벌어집니다. 감성 격차(동북아 11.48 대 유럽 8.63)는 2.85점, 점유 격차(3.93 대 2.15)는 1.78점, 참여는 오히려 유럽이 0.48점 앞섭니다(동북아 7.38 대 유럽 7.86). 한마디로 "동북아가 유럽보다 17.09점 높은데, 그 차이의 대부분은 구찌 이야기가 훨씬 많다는 점(화제)에서 나왔지, 사람들이 더 좋게 말해서가 아니다"입니다. 두 권역 모두 긍정 의견은 0건으로 바닥 정서는 똑같이 나쁩니다. 동북아의 화제 증가는 케링 폭락·구찌 폐점·중국 가격 인하 관련 기사가 한국·중국 매체와 커뮤니티에 대량으로 나온 결과입니다[1][6][7].
 
-두 번째로 북미(39.24)와 유럽(22.83)의 격차는 16.41점입니다. 여기서는 성격이 다릅니다. 이 격차의 절반 이상(9.78점)이 감성에서 나옵니다. 북미의 감성 기여는 18.41점으로 유럽(8.63점)보다 크게 높습니다. 화제에서도 북미(11.03)가 유럽(4.57)보다 6.46점 앞서고, 점유에서 0.59점이 더해지며, 참여는 오히려 유럽이 0.42점 앞섭니다(북미 7.06 대 유럽 7.48). 즉 "북미가 유럽보다 16.41점 높은 이유의 절반 이상은 사람들이 덜 나쁘게 말한다는 데 있다"입니다. 다만 북미 역시 부정이 긍정보다 많아 "덜 나쁜" 것이지 "좋은" 것은 아닙니다.
+두 번째로 북미(39.30)와 유럽(23.21)의 격차는 16.09점입니다. 여기서는 성격이 다릅니다. 이 격차의 절반 이상(9.78점)이 감성에서 나옵니다. 북미의 감성 기여는 18.41점으로 유럽(8.63점)보다 크게 높습니다. 화제에서도 북미(11.03)가 유럽(4.57)보다 6.46점 앞서고, 점유에서 0.59점이 더해지며, 참여는 오히려 유럽이 0.73점 앞섭니다(북미 7.13 대 유럽 7.86). 즉 "북미가 유럽보다 16.09점 높은 이유의 절반 이상은 사람들이 덜 나쁘게 말한다는 데 있다"입니다. 다만 북미 역시 부정이 긍정보다 많아 "덜 나쁜" 것이지 "좋은" 것은 아닙니다.
 
-동남아(36.98)와 유럽(22.83)의 14.15점 격차는 화제가 9.26점(13.83 대 4.57), 감성이 4.64점(13.27 대 8.63)을 설명하고, 참여(0.18점)와 점유(0.07점)는 거의 기여하지 않습니다. 동남아의 감성 우위는 이번에 크게 개선된 것이 아니라 원래부터 유럽보다 덜 나빴던 수준이 이어진 것입니다. 그 바탕에는 실적 쇼크 기사[8][9]와 함께 태국 앰배서더 팬덤 화제가 깔려 있습니다. 이는 공중 여론이 아닌 활성화·팬덤 성격의 화제이므로 호감 개선으로 읽어서는 안 됩니다.
+동남아(37.37)와 유럽(23.21)의 14.16점 격차는 화제가 9.26점(13.83 대 4.57), 감성이 4.64점(13.27 대 8.63)을 설명하고, 참여(0.19점)와 점유(0.07점)는 거의 기여하지 않습니다. 동남아의 감성 우위는 이번에 크게 개선된 것이 아니라 원래부터 유럽보다 덜 나빴던 수준이 이어진 것입니다. 그 바탕에는 실적 쇼크 기사[8][9]와 함께 태국 앰배서더 팬덤 화제가 깔려 있습니다. 이는 공중 여론이 아닌 활성화·팬덤 성격의 화제이므로 호감 개선으로 읽어서는 안 됩니다.
 
 ## 6. 지금 숫자에서 조심할 것
 
-첫째, 가장 중요한 경고입니다. 세계 변화 폭 +0.86과 권역별 변화 폭은 모두 "하루치 변화"가 아니라 "2주치 누적 변화"입니다. 이 스냅샷의 직전 계산일은 어제가 아니라 10월 15일이고, 그 사이 케링 실적이라는 대형 사건이 통째로 들어왔습니다. 따라서 동남아 +12.16이나 동북아 +8.39를 "하루 만에 급등"으로 읽으면 과대 해석입니다. 2주치 변화가 하루치처럼 보이는 착시(아티팩트)로 받아들여야 합니다.
+첫째, 가장 중요한 경고입니다. 세계 변화 폭 +0.82과 권역별 변화 폭은 모두 "하루치 변화"가 아니라 "2주치 누적 변화"입니다. 이 스냅샷의 직전 계산일은 어제가 아니라 10월 15일이고, 그 사이 케링 실적이라는 대형 사건이 통째로 들어왔습니다. 따라서 동남아 +12.55이나 동북아 +7.80를 "하루 만에 급등"으로 읽으면 과대 해석입니다. 2주치 변화가 하루치처럼 보이는 착시(아티팩트)로 받아들여야 합니다.
 
-둘째, §3.5 경보가 두 개 발동했습니다. 유럽이 10점 이상 하락(-12.87)했고, 유럽이 "경고" 구간(22.83)에 진입했습니다. 규칙상 이 경우 근본 원인 분석이 필수입니다. 근본 원인은 10월 22~23일 케링 3분기 실적 쇼크(구찌 동일점포 -6%, 직영 -9%, 순폐점 목표 최소 125개로 상향, 주가 급락, 애널리스트 목표주가 동반 인하)이며[1][2][4][5][6], 유럽이 그 진앙에 가장 가깝기 때문에 유럽 지수가 가장 크게 반응했습니다. 유럽 지수의 부정 동력 상위도 실적(-13.71), 부정적 모멘텀 보도(-13.71), 애널리스트 하향(-10.24), 경쟁사 비교(-3.46) 순입니다. 감성과 화제가 동시에 무너진 이중 붕괴라 단일 요인보다 회복이 더딜 수 있습니다(가설). 두 트리거가 동시에 켜진 만큼, 유럽 권역에 대한 /event-response 실행을 검토할 것을 권고합니다(아직 실행된 것은 아닙니다).
+둘째, §3.5 경보가 두 개 발동했습니다. 유럽이 10점 이상 하락(-12.49)했고, 유럽이 "경고" 구간(23.21)에 진입했습니다. 규칙상 이 경우 근본 원인 분석이 필수입니다. 근본 원인은 10월 22~23일 케링 3분기 실적 쇼크(구찌 동일점포 -6%, 직영 -9%, 순폐점 목표 최소 125개로 상향, 주가 급락, 애널리스트 목표주가 동반 인하)이며[1][2][4][5][6], 유럽이 그 진앙에 가장 가깝기 때문에 유럽 지수가 가장 크게 반응했습니다. 유럽 지수의 부정 동력 상위도 실적(-13.71), 부정적 모멘텀 보도(-13.71), 애널리스트 하향(-10.24), 경쟁사 비교(-3.46) 순입니다. 감성과 화제가 동시에 무너진 이중 붕괴라 단일 요인보다 회복이 더딜 수 있습니다(가설). 두 트리거가 동시에 켜진 만큼, 유럽 권역에 대한 /event-response 실행을 검토할 것을 권고합니다(아직 실행된 것은 아닙니다).
 
-셋째, 오늘부터 참여와 점유의 계산 방식이 바뀌었습니다. 참여는 그동안 실제 데이터가 없어 대부분 중립값 0.5로 비워두었습니다. 이번 재계산부터는 YouTube Data API 검색, Bluesky, Mastodon에서 모은 제3자 공개 게시물·영상의 실제 반응 수치로 계산합니다(v2.3 방식). 방식은 세 가지 보정을 거칩니다. 팔로워가 적은 계정의 들쭉날쭉한 반응률은 같은 집단 평균 쪽으로 당기고(경험적 베이즈 축소), 각 게시물을 같은 플랫폼·같은 팔로워 규모 게시물 사이에서 순위로 바꾸며, 한 작성자의 게시물은 최대 3건까지만 셉니다. 표본이 작으면 전체 값을 0.5 쪽으로 더 당깁니다. 오늘 반응 표본은 동북아 113건(YouTube 75, Bluesky 36, Mastodon 2), 동남아 87건(YouTube 69, Bluesky 18), 북미 149건(Bluesky 94, YouTube 49, Mastodon 6), 유럽 102건(YouTube 65, Bluesky 36, Mastodon 1)이고, 실효 표본은 각각 103.3, 83.6, 144.1, 91.8입니다. 구찌 공식 채널이 직접 올린 콘텐츠는 지역 소비자 반응이 아니므로 참여 계산에서 제외됩니다. 점유는 표본이 작을 때 한 기사로 값이 0과 1 사이를 오가지 않도록 중립값 쪽으로 당기는 보정(K=10)을 새로 적용했고, 구찌 위주로 모은 기사 풀을 대신 쓰는 방식은 더 이상 쓰지 않습니다. 자세한 내용은 산출 규정(methodology/gmai-formula.md §3.2c, §3.2d)에 있습니다.
+셋째, 오늘부터 참여와 점유의 계산 방식이 바뀌었습니다. 참여는 그동안 실제 데이터가 없어 대부분 중립값 0.5로 비워두었습니다. 이번 재계산부터는 YouTube Data API 검색, Bluesky, Mastodon에서 모은 제3자 공개 게시물·영상의 실제 반응 수치로 계산합니다(v2.3 방식). 방식은 세 가지 보정을 거칩니다. 팔로워가 적은 계정의 들쭉날쭉한 반응률은 같은 집단 평균 쪽으로 당기고(경험적 베이즈 축소), 각 게시물을 같은 플랫폼·같은 팔로워 규모 게시물 사이에서 순위로 바꾸며, 한 작성자의 게시물은 최대 3건까지만 셉니다. 표본이 작으면 전체 값을 0.5 쪽으로 더 당깁니다. 오늘 반응 표본은 동북아 105건(YouTube 67, Bluesky 36, Mastodon 2), 동남아 87건(YouTube 69, Bluesky 18), 북미 158건(Bluesky 93, YouTube 59, Mastodon 6), 유럽 104건(YouTube 58, Bluesky 45, Mastodon 1)이고, 실효 표본은 각각 95.3, 82.8, 152.8, 90.6입니다. 구찌 공식 채널이 직접 올린 콘텐츠는 지역 소비자 반응이 아니므로 참여 계산에서 제외됩니다. 점유는 표본이 작을 때 한 기사로 값이 0과 1 사이를 오가지 않도록 중립값 쪽으로 당기는 보정(K=10)을 새로 적용했고, 구찌 위주로 모은 기사 풀을 대신 쓰는 방식은 더 이상 쓰지 않습니다. 화제는 오늘도 기존 건수 방식(buzz_method v2.1-count)으로 계산되었습니다. 매체 영향력 가중 화제(v2.4: 도달·모회사 규모·역사·공신력 등록부와 등록 매체 전체 뉴스 스캔)는 자체 기준선을 쌓는 중이며, 가중 기준일이 5일 쌓이면 적용됩니다. 자세한 내용은 산출 규정(methodology/gmai-formula.md §3.2b, §3.2c, §3.2d)에 있습니다.
 
-넷째, 이 방식 변경이 오늘의 변화 폭에 섞여 있습니다. 비교 대상인 10월 15일 값은 옛 방식으로 계산되었습니다. 그날 참여는 네 권역 모두 중립값 0.50이었고, 점유는 0.00~0.13 사이의 보정 전 값이었습니다. 따라서 오늘 참여의 변화 기여(동북아 +0.47, 동남아 +0.16, 북미 -0.44, 유럽 -0.02)는 반응이 실제로 변했다기보다 "빈칸이 실측으로 채워진 효과"입니다. 네 권역 모두에서 점유가 1.11~2.15점 더해진 것과 세계 점수 상승분의 대부분(점유 +1.66)도, 보정으로 낮은 값이 중립값(약 0.11) 쪽으로 당겨진 영향이 클 수 있습니다(가설). 특히 동남아의 점유는 오늘 측정값이 아닌 중립값이므로, 그 +1.11점은 실제 변화가 아닙니다.
+넷째, 이 방식 변경이 오늘의 변화 폭에 섞여 있습니다. 비교 대상인 10월 15일 값은 옛 방식으로 계산되었습니다. 그날 참여는 네 권역 모두 중립값 0.50이었고, 점유는 0.00~0.13 사이의 보정 전 값이었습니다. 따라서 오늘 참여의 변화 기여(동북아 -0.12, 동남아 +0.55, 북미 -0.38, 유럽 +0.36)는 반응이 실제로 변했다기보다 "빈칸이 실측으로 채워진 효과"입니다. 네 권역 모두에서 점유가 1.11~2.15점 더해진 것과 세계 점수 상승분의 대부분(점유 +1.66)도, 보정으로 낮은 값이 중립값(약 0.11) 쪽으로 당겨진 영향이 클 수 있습니다(가설). 특히 동남아의 점유는 오늘 측정값이 아닌 중립값이므로, 그 +1.11점은 실제 변화가 아닙니다.
 
-다섯째, 참여 값은 의도적으로 0.5 근처에 모이게 설계되어 있습니다. 오늘 참여는 동북아 0.53, 동남아 0.51, 북미 0.47, 유럽 0.50으로 모두 "보통 수준의 반응" 근처입니다. 이는 실측이 이루어졌다는 뜻이지 반응이 뜨겁거나 차갑다는 뜻이 아닙니다. 북미가 다소 낮고 동북아가 다소 높지만 그 차이가 권역 점수에 주는 영향은 1점 미만입니다. 또한 인스타그램 반응 지표는 이번 스냅샷에 반영되지 않았습니다.
+다섯째, 참여 값은 의도적으로 0.5 근처에 모이게 설계되어 있습니다. 오늘 참여는 동북아 0.49, 동남아 0.54, 북미 0.48, 유럽 0.52로 모두 "보통 수준의 반응" 근처입니다. 이는 실측이 이루어졌다는 뜻이지 반응이 뜨겁거나 차갑다는 뜻이 아닙니다. 동남아가 다소 높고 북미가 다소 낮지만 그 차이가 권역 점수에 주는 영향은 1점 미만입니다. 또한 인스타그램 반응 지표는 이번 스냅샷에 반영되지 않았습니다.
 
 여섯째, 점유(SOV) 해석에 주의가 필요합니다. 동남아·동북아에서는 케링 실적 기사에 구찌 이름이 반복 등장했습니다. 점유가 오르더라도 "경쟁사 대비 선호"가 아니라 "나쁜 뉴스로 인한 언급 증가"일 수 있으므로, 점유 상승을 긍정 신호로 읽어서는 안 됩니다.
 
@@ -102,7 +102,7 @@
 
 ## 7. 그래서 무엇을 볼 것인가
 
-첫째, 다음 계산이 하루 간격으로 이어지는지 보십시오. 그래야 유럽의 -12.87이 "실적 쇼크의 일회성 반응"인지 이어지는 하락 추세인지 하루 단위로 확인할 수 있습니다. 이번 누적 착시를 걷어내는 첫 관측이라 가장 중요합니다.
+첫째, 다음 계산이 하루 간격으로 이어지는지 보십시오. 그래야 유럽의 -12.49이 "실적 쇼크의 일회성 반응"인지 이어지는 하락 추세인지 하루 단위로 확인할 수 있습니다. 이번 누적 착시를 걷어내는 첫 관측이라 가장 중요합니다.
 
 둘째, 동남아·동북아의 화제 거품이 빠지는지 보십시오. 실적 뉴스가 식으면 언급량이 줄면서 두 권역 점수가 다시 내려올 수 있습니다. 화제 주도 상승은 지속성이 약하기 때문입니다.
 
@@ -114,13 +114,13 @@
 
 ## 주석
 
-- GMAI (Gucci Market Attractiveness Index): 구찌가 시장에서 얼마나 매력적으로 보이는지를 0~100점으로 환산한 종합 성적표. 50점이 보통이고 높을수록 좋음. 네 가지 재료(감성 45%·화제 20%·참여 15%·점유 20%)를 가중 합산하고, 세계 점수는 권역 가중치(동북아 0.35, 유럽 0.28, 북미 0.25, 동남아 0.12)로 합친다. 오늘 세계 34.95점은 중간 아래 "주의" 수준.
+- GMAI (Gucci Market Attractiveness Index): 구찌가 시장에서 얼마나 매력적으로 보이는지를 0~100점으로 환산한 종합 성적표. 50점이 보통이고 높을수록 좋음. 네 가지 재료(감성 45%·화제 20%·참여 15%·점유 20%)를 가중 합산하고, 세계 점수는 권역 가중치(동북아 0.35, 유럽 0.28, 북미 0.25, 동남아 0.12)로 합친다. 오늘 세계 34.91점은 중간 아래 "주의" 수준.
 - 구간(밴드): 점수대를 다섯 단계로 나눈 등급. 75+ 강한 매력, 60~74 우호, 45~59 중립, 30~44 주의, 0~29 경고. 오늘 유럽만 "경고".
 - NSS (순감성점수, Net Sentiment Score): 사람들이 좋게 말하는 정도를 -1(최악)~+1(최상)로 나타낸 값. 0이 중립. 오늘 네 권역 모두 마이너스로, 부정이 긍정보다 많다는 뜻.
 - 감성(Sentiment): 사람들이 구찌를 좋게/나쁘게 말하는가를 0~1로 환산한 재료((NSS+1)/2). 높을수록 호감.
 - 화제(Buzz): 뉴스·SNS·커뮤니티를 합쳐 구찌가 얼마나 많이 언급되는가를 지난 30일 평소 수준과 비교해 0~1로 환산한 재료. 언급 "건수"만 센다. 나쁜 뉴스로도 올라갈 수 있어 호감과 무관.
 - 참여(Engagement): 제3자 공개 게시물·영상 한 건당 반응(좋아요·댓글·공유)이 같은 플랫폼·같은 팔로워 규모의 게시물 대비 얼마나 뜨거운가를 0~1로 나타낸 재료. 0.5가 보통. 오늘부터 v2.3 방식(engagement_method)으로 실측.
-- 참여 실효 표본(engagement_n_eff): 참여 값을 실제로 떠받친 반응 표본 수의 체감치. 클수록 참여 값이 덜 0.5 쪽으로 당겨진다. 오늘 83.6~144.1.
+- 참여 실효 표본(engagement_n_eff): 참여 값을 실제로 떠받친 반응 표본 수의 체감치. 클수록 참여 값이 덜 0.5 쪽으로 당겨진다. 오늘 82.8~152.8.
 - 점유(SOV, Share of Voice): 같은 조건으로 모은 기사에서 경쟁 8개 브랜드 대비 구찌 언급이 차지하는 비중. 9개 브랜드가 똑같이 나누면 약 0.11. 표본이 작을 때 이 중립값 쪽으로 당기는 보정(K=10)을 적용. 동남아는 실측이 아닌 중립값.
 - 변화 폭(델타, Δ): 직전 계산일 대비 점수가 몇 점 움직였는지. 오늘은 2주 전(10월 15일, 옛 산출 방식) 대비라 하루치가 아닌 누적 변화이며 방식 변경 효과가 섞여 있음.
 - 재료별 기여(contrib): 그 권역 점수를 네 재료가 각각 몇 점씩 만들었는지 나눈 값. 네 값을 더하면 권역 점수. 권역 간 격차의 원인을 찾을 때 쓴다.
@@ -161,19 +161,19 @@
 
 ## Key Summary
 
-Today Gucci's global composite scorecard (GMAI) stands at 34.95 out of 100, up 0.86 points from the previous reading — but that previous reading is not yesterday, it is two weeks ago (October 15). Three of the four regions (NEA, SEA, NA) rose while Europe alone fell 12.87 points, dropping into the lowest risk band, "Alert." The common backdrop to these moves is Kering's Q3 earnings release, in which Gucci's sales fell 6% and the share price plunged[1][2], with the shock landing hardest in Europe. The rises in SEA and NEA come mainly from "more people talking about Gucci," not "more people speaking well of Gucci," and the small global gain came from share of voice rather than favorability, so the apparent rebound should not be read as improved sentiment.
+Today Gucci's global composite scorecard (GMAI) stands at 34.91 out of 100, up 0.82 points from the previous reading — but that previous reading is not yesterday, it is two weeks ago (October 15). Three of the four regions (NEA, SEA, NA) rose while Europe alone fell 12.49 points, dropping into the lowest risk band, "Alert." The common backdrop to these moves is Kering's Q3 earnings release, in which Gucci's sales fell 6% and the share price plunged[1][2], with the shock landing hardest in Europe. The rises in SEA and NEA come mainly from "more people talking about Gucci," not "more people speaking well of Gucci," and the small global gain came from share of voice rather than favorability, so the apparent rebound should not be read as improved sentiment.
 
 ## 1. Today's Bottom Line
 
-Today Gucci's global scorecard reads 34.95 out of 100 — well below the midpoint of 50, in the second-lowest band, "Caution." Numerically this is up 0.86 points from the previous reading, but the comparison point is not yesterday — it is two weeks ago (October 15), and this must be kept firmly in mind.
+Today Gucci's global scorecard reads 34.91 out of 100 — well below the midpoint of 50, in the second-lowest band, "Caution." Numerically this is up 0.82 points from the previous reading, but the comparison point is not yesterday — it is two weeks ago (October 15), and this must be kept firmly in mind.
 
-The highest regions are NEA (40.89) and NA (39.24); the lowest is Europe (22.83). Europe alone fell 12.87 points, making it the only region in the lowest, riskiest "Alert" band.
+The highest regions are NEA (40.30) and NA (39.30); the lowest is Europe (23.21). Europe alone fell 12.49 points, making it the only region in the lowest, riskiest "Alert" band.
 
 The one thing to flag today: much of the rise in three regions reflects either a "Gucci got mentioned a lot" effect tied to the Kering earnings news, or an illusion in which two weeks of cumulative change looks like a single day's move. All four regions show more negative than positive opinion, and there is no evidence of a broad improvement in public favorability.
 
 ## 2. How to Read the Index
 
-For first-time readers, GMAI in one line is a 0-100 scorecard and thermometer for how attractive Gucci currently looks in the market. 50 is average; higher is better. There are five bands: 75+ is "Strong," 60-74 is "Favorable," 45-59 is "Neutral," 30-44 is "Caution," and 29 or below is "Alert." Today's global score of 34.95 sits in "Caution," while Europe's 22.83 sits in the lowest "Alert" band.
+For first-time readers, GMAI in one line is a 0-100 scorecard and thermometer for how attractive Gucci currently looks in the market. 50 is average; higher is better. There are five bands: 75+ is "Strong," 60-74 is "Favorable," 45-59 is "Neutral," 30-44 is "Caution," and 29 or below is "Alert." Today's global score of 34.91 sits in "Caution," while Europe's 23.21 sits in the lowest "Alert" band.
 
 The scorecard blends four ingredients, explained here in plain language.
 
@@ -190,13 +190,13 @@ Finally, a few recurring terms: Delta is how many points the score moved versus 
 
 | Region | GMAI (pts) | Band | NSS | Sentiment | Buzz | Engagement | SOV | Pos/Neu/Neg (items) | Delta |
 |---|---|---|---|---|---|---|---|---|---|
-| NEA | 40.89 | Caution | -0.49 | 0.26 | 0.88 | 0.53 | 0.20 | 0 / 4 / 8 | +8.39 |
-| SEA | 36.98 | Caution | -0.41 | 0.29 | 0.69 | 0.51 | 0.11* | 1 / 5 / 6 | +12.16 |
-| NA | 39.24 | Caution | -0.18 | 0.41 | 0.55 | 0.47 | 0.14 | 2 / 4 / 7 | +0.29 |
-| EU | 22.83 | Alert | -0.62 | 0.19 | 0.23 | 0.50 | 0.11 | 0 / 4 / 7 | -12.87 |
-| GLOBAL | 34.95 | Caution | — | — | — | — | — | — | +0.86 |
+| NEA | 40.30 | Caution | -0.49 | 0.26 | 0.88 | 0.49 | 0.20 | 0 / 4 / 8 | +7.80 |
+| SEA | 37.37 | Caution | -0.41 | 0.29 | 0.69 | 0.54 | 0.11* | 1 / 5 / 6 | +12.55 |
+| NA | 39.30 | Caution | -0.18 | 0.41 | 0.55 | 0.48 | 0.14 | 2 / 4 / 7 | +0.35 |
+| EU | 23.21 | Alert | -0.62 | 0.19 | 0.23 | 0.52 | 0.11 | 0 / 4 / 7 | -12.49 |
+| GLOBAL | 34.91 | Caution | — | — | — | — | — | — | +0.82 |
 
-\* SEA's SOV of 0.11 carries an asterisk. With no symmetric collection data (sov_known=false), it is filled with the neutral value of 1/9 — nine brands sharing equally — not a measurement. From today, Engagement is computed from real reaction data in all four regions. Europe's 0.50 is not a "no data" marker; it is a measured result that happens to sit at the typical level (see Section 6).
+\* SEA's SOV of 0.11 carries an asterisk. With no symmetric collection data (sov_known=false), it is filled with the neutral value of 1/9 — nine brands sharing equally — not a measurement. From today, Engagement is computed from real reaction data in all four regions. That all four Engagement readings (0.48-0.54) sit near 0.5 is a measured "typical reaction" result, not a "no data" marker (see Section 6).
 
 A line-by-line explanation of the table:
 
@@ -211,35 +211,35 @@ A line-by-line explanation of the table:
 
 The first thing executives should understand is that the four regions moved in different directions today, but one event sits behind all of them. Kering's Q3 2026 earnings, released October 22-23, showed Gucci's same-store sales down 6% — worse than the 3.3% decline the market expected. Direct-retail comparable sales fell 9%, the year-end net store-closure target was raised to at least 125, management laid out a 12-24 month China recovery plan, and the share price fell 16.57% in a single day[1][2][3][6]. This single event shook all four regional indices at once.
 
-Europe's decline is a "double collapse" of sentiment and buzz together. Breaking down Europe's 12.87-point drop by ingredient, sentiment lost 7.33 points and buzz lost 7.67 points — almost evenly. Engagement moved by -0.02, essentially unchanged, and SOV added 2.15 points (Section 6 explains the nature of that SOV gain). In other words, people in Europe began speaking worse of Gucci (sentiment) at the same time as the volume of talk about Gucci contracted (buzz). Europe is the epicenter of the earnings story — home to Kering's European-listed stock and the European financial and fashion press — so it absorbed the heaviest concentration of analyst downgrades (UBS and Citi price-target cuts[4][5]) and sales-shock coverage, and not a single positive item was collected. Europe's sentiment of 0.19 and buzz of 0.23 are the lowest of the four regions.
+Europe's decline is a "double collapse" of sentiment and buzz together. Breaking down Europe's 12.49-point drop by ingredient, sentiment lost 7.33 points and buzz lost 7.67 points — almost evenly. Engagement added 0.36 points and SOV added 2.15 points (Section 6 explains the nature of that SOV gain). In other words, people in Europe began speaking worse of Gucci (sentiment) at the same time as the volume of talk about Gucci contracted (buzz). Europe is the epicenter of the earnings story — home to Kering's European-listed stock and the European financial and fashion press — so it absorbed the heaviest concentration of analyst downgrades (UBS and Citi price-target cuts[4][5]) and sales-shock coverage, and not a single positive item was collected. Europe's sentiment of 0.19 and buzz of 0.23 are the lowest of the four regions.
 
-SEA's rise is entirely different in nature. SEA climbed 12.16 points, but 9.54 of those points came from buzz — that is, "more talk." The sentiment contribution was only 1.34 points, and the net sentiment score (NSS) remains clearly negative at -0.41. Gucci was indeed mentioned more in SEA, but that volume mixed earnings-decline coverage with Thai-ambassador fandom buzz — not a signal that favorability improved. Buzz-driven gains and sentiment-driven gains are fundamentally different, and SEA's rebound belongs to the former.
+SEA's rise is entirely different in nature. SEA climbed 12.55 points, but 9.54 of those points came from buzz — that is, "more talk." The sentiment contribution was only 1.34 points, and the net sentiment score (NSS) remains clearly negative at -0.41. Gucci was indeed mentioned more in SEA, but that volume mixed earnings-decline coverage with Thai-ambassador fandom buzz — not a signal that favorability improved. Buzz-driven gains and sentiment-driven gains are fundamentally different, and SEA's rebound belongs to the former.
 
-NEA's rise (+8.39) is similar in character. More than half of the change (4.44 points) came from buzz, followed by sentiment at 2.05, SOV at 1.43, and engagement at 0.47. NEA, too, recorded zero positive items against eight negative ones, so underlying sentiment remains negative.
+NEA's rise (+7.80) is similar in character. More than half of the change (4.44 points) came from buzz, followed by sentiment at 2.05 and SOV at 1.43, while engagement subtracted 0.12. NEA, too, recorded zero positive items against eight negative ones, so underlying sentiment remains negative.
 
-NA, at +0.29, looks flat but is mixed underneath. Sentiment added 3.01 points while buzz subtracted 3.97; SOV added 1.69 and engagement subtracted 0.44. NA is the only region where any positive drivers were captured at all (fandom +0.58, organic UGC +0.35, creative direction +0.23, independent reviews +0.23). That positive signal is small, however: net sentiment is still negative at -0.18 (2 positive vs. 7 negative items), and with an effective sample of only 5.0 the sentiment improvement cannot be called a trend. Coverage pointing to slowing US momentum[2] should be weighed as the counter-signal.
+NA, at +0.35, looks flat but is mixed underneath. Sentiment added 3.01 points while buzz subtracted 3.97; SOV added 1.69 and engagement subtracted 0.38. NA is the only region where any positive drivers were captured at all (fandom +0.58, organic UGC +0.35, creative direction +0.23, independent reviews +0.23). That positive signal is small, however: net sentiment is still negative at -0.18 (2 positive vs. 7 negative items), and with an effective sample of only 5.0 the sentiment improvement cannot be called a trend. Coverage pointing to slowing US momentum[2] should be weighed as the counter-signal.
 
-The global delta of +0.86 does not trip the ±7-point alert threshold. Broken down by ingredient, however, sentiment (-0.42) and buzz (-0.44) actually pulled the global score down, SOV (+1.66) made up the difference, and engagement added only +0.07. The small global gain thus came from SOV, not from favorability or buzz, and much of that SOV gain may reflect the change in calculation method (Section 6, hypothesis). More important is what lies beneath the apparent calm: Europe's collapse and the other regions' buzz gains are offsetting each other.
+The global delta of +0.82 does not trip the ±7-point alert threshold. Broken down by ingredient, however, sentiment (-0.42) and buzz (-0.44) actually pulled the global score down, SOV (+1.66) made up the difference, and engagement added only +0.03. The small global gain thus came from SOV, not from favorability or buzz, and much of that SOV gain may reflect the change in calculation method (Section 6, hypothesis). More important is what lies beneath the apparent calm: Europe's collapse and the other regions' buzz gains are offsetting each other.
 
 ## 5. Breaking Down the Regional Gap
 
-Today's widest gap is 18.06 points, between NEA (40.89) and Europe (22.83). Decomposed by ingredient contribution, most of it comes from buzz. NEA's buzz contribution is 17.50 points versus Europe's 4.57 — this single ingredient accounts for 12.93 points. The sentiment gap (NEA 11.48 vs. Europe 8.63) is 2.85 points, the SOV gap (3.93 vs. 2.15) is 1.78 points, and the engagement gap (7.97 vs. 7.48) is 0.49 points. In short: "NEA scores 18.06 points higher than Europe, but most of that difference comes from much greater volume of Gucci conversation (buzz), not from people speaking more favorably." Both regions recorded zero positive items, so underlying sentiment is equally poor. NEA's buzz increase reflects a large volume of coverage in Korean and Chinese media and communities about Kering's stock plunge, Gucci store closures, and China price cuts[1][6][7].
+Today's widest gap is 17.09 points, between NEA (40.30) and Europe (23.21). Decomposed by ingredient contribution, most of it comes from buzz. NEA's buzz contribution is 17.50 points versus Europe's 4.57 — this single ingredient accounts for 12.93 points. The sentiment gap (NEA 11.48 vs. Europe 8.63) is 2.85 points, the SOV gap (3.93 vs. 2.15) is 1.78 points, and engagement actually favors Europe by 0.48 points (NEA 7.38 vs. Europe 7.86). In short: "NEA scores 17.09 points higher than Europe, but most of that difference comes from much greater volume of Gucci conversation (buzz), not from people speaking more favorably." Both regions recorded zero positive items, so underlying sentiment is equally poor. NEA's buzz increase reflects a large volume of coverage in Korean and Chinese media and communities about Kering's stock plunge, Gucci store closures, and China price cuts[1][6][7].
 
-The second gap, 16.41 points between NA (39.24) and Europe (22.83), has a different character. More than half of it (9.78 points) comes from sentiment: NA's sentiment contribution is 18.41 versus Europe's 8.63. NA also leads in buzz by 6.46 points (11.03 vs. 4.57) and in SOV by 0.59 points, while engagement actually favors Europe by 0.42 points (NA 7.06 vs. Europe 7.48). In other words, "more than half of the reason NA scores 16.41 points above Europe is that people speak less negatively." NA still has more negative than positive items, though, so it is "less bad," not "good."
+The second gap, 16.09 points between NA (39.30) and Europe (23.21), has a different character. More than half of it (9.78 points) comes from sentiment: NA's sentiment contribution is 18.41 versus Europe's 8.63. NA also leads in buzz by 6.46 points (11.03 vs. 4.57) and in SOV by 0.59 points, while engagement actually favors Europe by 0.73 points (NA 7.13 vs. Europe 7.86). In other words, "more than half of the reason NA scores 16.09 points above Europe is that people speak less negatively." NA still has more negative than positive items, though, so it is "less bad," not "good."
 
-SEA's 14.15-point gap over Europe (36.98 vs. 22.83) is explained by buzz (9.26 points; 13.83 vs. 4.57) and sentiment (4.64 points; 13.27 vs. 8.63), with engagement (0.18) and SOV (0.07) contributing almost nothing. SEA's sentiment edge was not a major improvement this period; it continues a level that was already less bad than Europe's. Beneath it lie earnings-shock coverage[8][9] and Thai-ambassador fandom buzz. That buzz is activation/fandom chatter, not public opinion, and should not be read as improving favorability.
+SEA's 14.16-point gap over Europe (37.37 vs. 23.21) is explained by buzz (9.26 points; 13.83 vs. 4.57) and sentiment (4.64 points; 13.27 vs. 8.63), with engagement (0.19) and SOV (0.07) contributing almost nothing. SEA's sentiment edge was not a major improvement this period; it continues a level that was already less bad than Europe's. Beneath it lie earnings-shock coverage[8][9] and Thai-ambassador fandom buzz. That buzz is activation/fandom chatter, not public opinion, and should not be read as improving favorability.
 
 ## 6. What to Be Careful About in Today's Numbers
 
-First and most important: the global delta of +0.86 and all regional deltas are two-week cumulative changes, not one-day changes. The previous calculation date for this snapshot is October 15, not yesterday, and the entire Kering-earnings event landed in between. Reading SEA's +12.16 or NEA's +8.39 as "a surge in a single day" is an overinterpretation; it is an artifact in which two weeks of change looks like one day's move.
+First and most important: the global delta of +0.82 and all regional deltas are two-week cumulative changes, not one-day changes. The previous calculation date for this snapshot is October 15, not yesterday, and the entire Kering-earnings event landed in between. Reading SEA's +12.55 or NEA's +7.80 as "a surge in a single day" is an overinterpretation; it is an artifact in which two weeks of change looks like one day's move.
 
-Second, two Section 3.5 alerts fired. Europe fell more than 10 points (-12.87), and Europe entered the "Alert" band (22.83). Per protocol, root-cause analysis is mandatory. The root cause is the October 22-23 Kering Q3 earnings shock (Gucci same-store sales -6%, direct retail -9%, net store-closure target raised to at least 125, share-price plunge, accompanying analyst price-target cuts)[1][2][4][5][6], with Europe reacting most strongly because it sits closest to the epicenter. Europe's top negative drivers are earnings (-13.71), negative momentum coverage (-13.71), analyst downgrades (-10.24), and peer comparison (-3.46). Because sentiment and buzz collapsed together, recovery may be slower than for a single-factor shock (hypothesis). With two triggers firing at once, we recommend considering an /event-response run for the European region (it has not yet been executed).
+Second, two Section 3.5 alerts fired. Europe fell more than 10 points (-12.49), and Europe entered the "Alert" band (23.21). Per protocol, root-cause analysis is mandatory. The root cause is the October 22-23 Kering Q3 earnings shock (Gucci same-store sales -6%, direct retail -9%, net store-closure target raised to at least 125, share-price plunge, accompanying analyst price-target cuts)[1][2][4][5][6], with Europe reacting most strongly because it sits closest to the epicenter. Europe's top negative drivers are earnings (-13.71), negative momentum coverage (-13.71), analyst downgrades (-10.24), and peer comparison (-3.46). Because sentiment and buzz collapsed together, recovery may be slower than for a single-factor shock (hypothesis). With two triggers firing at once, we recommend considering an /event-response run for the European region (it has not yet been executed).
 
-Third, the calculation of Engagement and SOV changed as of today. Engagement had mostly been left at the neutral 0.5 placeholder for lack of real data. From this recompute, it is calculated from actual reaction metrics on third-party public posts and videos collected via YouTube Data API search, Bluesky, and Mastodon (the v2.3 method). The method applies three corrections: noisy reaction rates from small accounts are pulled toward their group average (empirical-Bayes shrinkage); each post is converted to a rank among posts on the same platform with a similar follower size; and at most 3 posts per author are counted. When the sample is small, the overall value is pulled further toward 0.5. Today's reaction samples are NEA 113 (YouTube 75, Bluesky 36, Mastodon 2), SEA 87 (YouTube 69, Bluesky 18), NA 149 (Bluesky 94, YouTube 49, Mastodon 6), and EU 102 (YouTube 65, Bluesky 36, Mastodon 1), with effective sample sizes of 103.3, 83.6, 144.1, and 91.8 respectively. Content posted by Gucci's own official channels is excluded from Engagement, since it is not regional consumer reaction. For SOV, a new small-sample shrinkage toward the neutral value (K=10) keeps a single article from swinging the value between 0 and 1, and the Gucci-focused article pool is no longer used as a fallback. Details are in the methodology (methodology/gmai-formula.md §3.2c, §3.2d).
+Third, the calculation of Engagement and SOV changed as of today. Engagement had mostly been left at the neutral 0.5 placeholder for lack of real data. From this recompute, it is calculated from actual reaction metrics on third-party public posts and videos collected via YouTube Data API search, Bluesky, and Mastodon (the v2.3 method). The method applies three corrections: noisy reaction rates from small accounts are pulled toward their group average (empirical-Bayes shrinkage); each post is converted to a rank among posts on the same platform with a similar follower size; and at most 3 posts per author are counted. When the sample is small, the overall value is pulled further toward 0.5. Today's reaction samples are NEA 105 (YouTube 67, Bluesky 36, Mastodon 2), SEA 87 (YouTube 69, Bluesky 18), NA 158 (Bluesky 93, YouTube 59, Mastodon 6), and EU 104 (YouTube 58, Bluesky 45, Mastodon 1), with effective sample sizes of 95.3, 82.8, 152.8, and 90.6 respectively. Content posted by Gucci's own official channels is excluded from Engagement, since it is not regional consumer reaction. For SOV, a new small-sample shrinkage toward the neutral value (K=10) keeps a single article from swinging the value between 0 and 1, and the Gucci-focused article pool is no longer used as a fallback. Buzz is still calculated with the existing count method today (buzz_method v2.1-count); source-influence-weighted Buzz (v2.4: a reach/parent-scale/heritage/accreditation registry plus a registry-wide news scan) is accumulating its own baseline and switches on once 5 weighted baseline days exist. Details are in the methodology (methodology/gmai-formula.md §3.2b, §3.2c, §3.2d).
 
-Fourth, this method change is mixed into today's deltas. The comparison values from October 15 were calculated under the old method: Engagement was the neutral 0.50 in all four regions, and SOV was an unshrunk value between 0.00 and 0.13. Today's engagement delta contributions (NEA +0.47, SEA +0.16, NA -0.44, EU -0.02) therefore reflect "blanks being filled with measurements" rather than real changes in reaction. The SOV gains of 1.11-2.15 points across all four regions, and most of the global gain (SOV +1.66), may also be largely due to shrinkage pulling low values toward the neutral level of about 0.11 (hypothesis). SEA's SOV today is the neutral value rather than a measurement, so its +1.11 is not a real change.
+Fourth, this method change is mixed into today's deltas. The comparison values from October 15 were calculated under the old method: Engagement was the neutral 0.50 in all four regions, and SOV was an unshrunk value between 0.00 and 0.13. Today's engagement delta contributions (NEA -0.12, SEA +0.55, NA -0.38, EU +0.36) therefore reflect "blanks being filled with measurements" rather than real changes in reaction. The SOV gains of 1.11-2.15 points across all four regions, and most of the global gain (SOV +1.66), may also be largely due to shrinkage pulling low values toward the neutral level of about 0.11 (hypothesis). SEA's SOV today is the neutral value rather than a measurement, so its +1.11 is not a real change.
 
-Fifth, Engagement values are designed to cluster near 0.5. Today's readings — NEA 0.53, SEA 0.51, NA 0.47, EU 0.50 — are all near "a typical reaction." This shows that measurement took place, not that reaction was hot or cold. NA is slightly lower and NEA slightly higher, but the effect on regional scores is under one point. Instagram reaction metrics are also not reflected in this snapshot.
+Fifth, Engagement values are designed to cluster near 0.5. Today's readings — NEA 0.49, SEA 0.54, NA 0.48, EU 0.52 — are all near "a typical reaction." This shows that measurement took place, not that reaction was hot or cold. SEA is slightly higher and NA slightly lower, but the effect on regional scores is under one point. Instagram reaction metrics are also not reflected in this snapshot.
 
 Sixth, SOV requires careful interpretation. In SEA and NEA, Gucci's name appeared repeatedly in Kering-earnings coverage. A rise in SOV may reflect "more mentions due to bad news" rather than "preference over competitors," so it should not be read as a positive signal.
 
@@ -247,7 +247,7 @@ Seventh, evidence thickness for sentiment and buzz is adequate overall but relat
 
 ## 7. What to Watch Next
 
-First, watch whether the next calculations follow at daily intervals. Only then can we see, day by day, whether Europe's -12.87 was a one-off reaction to the earnings shock or a continuing decline. This is the most important check, since it clears away the current cumulative-change illusion.
+First, watch whether the next calculations follow at daily intervals. Only then can we see, day by day, whether Europe's -12.49 was a one-off reaction to the earnings shock or a continuing decline. This is the most important check, since it clears away the current cumulative-change illusion.
 
 Second, watch whether the buzz bubble in SEA and NEA deflates. As earnings coverage cools, mention volume may fall and both regions' scores could come back down, since buzz-driven gains tend to lack staying power.
 
@@ -259,13 +259,13 @@ Fifth, watch how the new-method Engagement and SOV move when compared like for l
 
 ## Notes on Terms
 
-- GMAI (Gucci Market Attractiveness Index): a composite 0-100 scorecard for how attractive Gucci appears in the market. 50 is average; higher is better. It is a weighted blend of four ingredients (sentiment 45%, buzz 20%, engagement 15%, SOV 20%), and the global score combines regions with weights NEA 0.35, EU 0.28, NA 0.25, SEA 0.12. Today's global 34.95 sits below the midpoint, in "Caution."
+- GMAI (Gucci Market Attractiveness Index): a composite 0-100 scorecard for how attractive Gucci appears in the market. 50 is average; higher is better. It is a weighted blend of four ingredients (sentiment 45%, buzz 20%, engagement 15%, SOV 20%), and the global score combines regions with weights NEA 0.35, EU 0.28, NA 0.25, SEA 0.12. Today's global 34.91 sits below the midpoint, in "Caution."
 - Band: the five-tier scale. 75+ Strong, 60-74 Favorable, 45-59 Neutral, 30-44 Caution, 0-29 Alert. Only Europe is in "Alert" today.
 - NSS (Net Sentiment Score): how favorably people speak, from -1 (worst) to +1 (best), with 0 neutral. All four regions are negative today, meaning negative opinion outweighs positive.
 - Sentiment: how favorably or unfavorably people speak of Gucci, scaled 0-1 ((NSS+1)/2). Higher means more favorable.
 - Buzz: how much Gucci is mentioned across news, social media, and communities, compared with the usual level of the past 30 days and scaled 0-1. Counts mention volume only; it can rise from bad news and is independent of favorability.
 - Engagement: how strong the reaction (likes, comments, shares) to each third-party public post or video is, relative to posts on the same platform with a similar follower size, scaled 0-1. 0.5 is typical. Measured with the v2.3 method (engagement_method) from today.
-- Engagement effective sample (engagement_n_eff): a felt measure of how many reaction samples underpin the Engagement value. The larger it is, the less the value is pulled toward 0.5. Today 83.6-144.1.
+- Engagement effective sample (engagement_n_eff): a felt measure of how many reaction samples underpin the Engagement value. The larger it is, the less the value is pulled toward 0.5. Today 82.8-152.8.
 - SOV (Share of Voice): Gucci's share of mentions versus eight competing brands in articles collected under identical conditions. An equal split among nine brands is about 0.11. A shrinkage toward that neutral value (K=10) is applied when samples are small. SEA's figure is the neutral value, not a measurement.
 - Delta (Δ): how many points the score moved versus the previous calculation date. Today's figure compares against two weeks ago (October 15, old calculation method), so it is cumulative and mixes in the method-change effect.
 - Contribution (contrib): how many points of a region's score each of the four ingredients produced. The four values add up to the region's score. Used to trace the source of regional gaps.
