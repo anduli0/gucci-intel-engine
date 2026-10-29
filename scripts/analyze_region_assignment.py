@@ -7,6 +7,9 @@ Rules compared (same 7-day window, same queries as collect_engagement.py):
   B  regionCode + relevanceLanguage            (production rule until now)
   D  B, then reassign every video whose channel country is known to the
      region of that country; unknown-country videos keep their B region
+  E  channel country if known; else title script (Hangul/Kana/Han -> NEA,
+     Thai -> SEA); else split 1/k over the k regions whose search returned it
+     (fractional; no video counted more than once in total)
 Metrics per rule: n per region, known-country share, precision (assigned
 region == true region among known), cross-region duplication, chi-square test
 of independence assigned x true region with Cramér's V. D's precision on
@@ -16,6 +19,7 @@ Needs YOUTUBE_API_KEY. Writes data/analysis/region-assignment-{DATE}.json.
 Usage: python scripts/analyze_region_assignment.py [YYYY-MM-DD]
 """
 import json
+import re
 import os
 import sys
 import urllib.parse
@@ -62,6 +66,14 @@ def search(ref, with_lang):
     return out
 
 
+def script_region(text):
+    if re.search("[가-힣぀-ヿ一-鿿]", text):
+        return "NEA"
+    if re.search("[฀-๿]", text):
+        return "SEA"
+    return None
+
+
 def batched(ids, n=50):
     ids = list(ids)
     for i in range(0, len(ids), n):
@@ -102,10 +114,11 @@ def main():
     ref = date.fromisoformat(sys.argv[1]) if len(sys.argv) > 1 else date.today()
     rule_a, rule_b = search(ref, False), search(ref, True)
     vids = set().union(*rule_a.values(), *rule_b.values())
-    chan = {}
+    chan, title = {}, {}
     for chunk in batched(vids):
         for v in get("videos", part="snippet", id=",".join(chunk)).get("items", []):
             chan[v["id"]] = v["snippet"].get("channelId")
+            title[v["id"]] = v["snippet"].get("title", "")
     country = {}
     for chunk in batched({c for c in chan.values() if c}):
         for c in get("channels", part="snippet", id=",".join(chunk)).get("items", []):
@@ -116,11 +129,47 @@ def main():
     for r, s in rule_b.items():
         for v in s:
             rule_d[truth.get(v) or r].add(v)
+    # Rule E (fractional): evaluate script-rule accuracy on known-country videos
+    script = {v: script_region(title.get(v, "")) for v in vids}
+    sk = [v for v in vids if truth.get(v) and script[v]]
+    script_precision = round(sum(script[v] == truth[v] for v in sk) / len(sk), 3) if sk else None
+    found_in = defaultdict(list)
+    for r, s in rule_b.items():
+        for v in s:
+            found_in[v].append(r)
+    alloc = defaultdict(float)          # (region, video) -> weight
+    for v, regs in found_in.items():
+        if truth.get(v):
+            alloc[(truth[v], v)] += 1.0
+        elif script[v]:
+            alloc[(script[v], v)] += 1.0
+        else:
+            for r in regs:
+                alloc[(r, v)] += 1.0 / len(regs)
+    # expected precision of E on unknown-country fractional mass, using the
+    # observed accuracy of each step on known-country videos (MAR assumption)
+    kn = [v for v in found_in if truth.get(v)]
+    frac_acc = (sum(sum(1.0 / len(found_in[v]) for r in found_in[v] if r == truth[v]) for v in kn)
+                / len(kn)) if kn else None
+    mass = {"country": 0.0, "script": 0.0, "split": 0.0}
+    for v in found_in:
+        mass["country" if truth.get(v) else ("script" if script[v] else "split")] += 1
+    tot = sum(mass.values()) or 1
+    e_prec = None
+    if frac_acc is not None:
+        e_prec = round((mass["country"] + mass["script"] * (script_precision or 0)
+                        + mass["split"] * frac_acc) / tot, 3)
+    per_e = {r: round(sum(w for (rr, _), w in alloc.items() if rr == r), 1) for r in YT_REGION_QUERIES}
+    res_e = {"effective_n_per_region": per_e, "mass_share": {k: round(v / tot, 3) for k, v in mass.items()},
+             "script_rule_precision_on_known": script_precision, "script_rule_n_known": len(sk),
+             "split_rule_expected_accuracy_on_known": round(frac_acc, 3) if frac_acc is not None else None,
+             "estimated_overall_precision": e_prec, "duplication_rate": 0.0}
     res = {"date": ref.isoformat(), "videos": len(vids),
            "channel_country_known": round(sum(1 for v in vids if truth.get(v)) / len(vids), 3) if vids else 0,
            "A_regioncode_only": metrics(rule_a, truth),
            "B_regioncode_language": metrics(rule_b, truth),
-           "D_reassign_by_channel_country": metrics(rule_d, truth)}
+           "D_reassign_by_channel_country": metrics(rule_d, truth),
+           "E_country_script_fractional": res_e}
     b = res["B_regioncode_language"]
     if b["precision_known"] is not None and b["known_share"] is not None:
         res["D_estimated_overall_precision"] = round(
