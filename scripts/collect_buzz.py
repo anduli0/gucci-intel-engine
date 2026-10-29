@@ -226,9 +226,12 @@ def run(date_str, root):
                "domains_scanned": scanned, "community_allocation": alloc_info,
                "errors": errors + comm_errors, "items": list(items.values()) + comm[region]}
         (out_dir / f"{region}.json").write_text(json.dumps(doc, ensure_ascii=False, indent=2), encoding="utf-8")
-        tm = sum(i["title_match"] for i in items.values())
-        print(f"{region}: domains={scanned} news={len(items)} title_match={tm} "
-              f"community={len(comm[region])} errors={len(errors) + len(comm_errors)}")
+        allit = list(items.values()) + comm[region]
+        news_n = sum(1 for i in allit if i["source_type"] == "news")
+        comm_n = len(allit) - news_n
+        tm = sum(1 for i in allit if i.get("title_match"))
+        print(f"{region}: domains={scanned} news={news_n} community={comm_n} "
+              f"(reddit/lemmy {len(comm[region])}) title_match={tm} errors={len(errors) + len(comm_errors)}")
     return 0
 
 
