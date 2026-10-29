@@ -7,6 +7,7 @@ model: sonnet
 
 Read data/raw/{DATE}/{REGION}.json. Label each item strictly per methodology/sentiment-rubric.md:
 - sentiment (+1/0/−1), magnitude (0.5/1.0), rationale (one line), signal_tags, confidence.
+- Mixed items: apply the dominant-thesis rule (rubric v1.2) — headline+lede+conclusion decide polarity; two-sided with no verdict → 0 + tag `mixed`; mixed-but-decided → magnitude ≤ 0.5; rationale as "thesis: … / counter: …".
 - Handle traps: sarcasm, fandom spikes, peer comparisons ("X is better than Gucci" → −1 for Gucci), counterfeits.
 - Demote low-confidence polarity to neutral (confidence < 0.5 and polarity ±1 → 0).
 - When in doubt, neutral. Never force polarity.

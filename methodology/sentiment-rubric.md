@@ -50,6 +50,28 @@ brand. The index must not rise merely because Gucci ran more marketing.
 - Negative items are NOT subject to this cap (backlash against an activation
   is organic opinion).
 
+## Mixed items — dominant-thesis rule (v1.2, 2026-10-29)
+
+Most real articles mix praise and criticism. Polarity is decided by the
+item's DOMINANT THESIS toward the brand, not by counting sentences:
+1. Thesis test — what does the headline + lede + conclusion assert about
+   Gucci? Label that. Body-level concessions ("although the bags remain
+   well-made…") do not flip it.
+2. If headline/lede and conclusion disagree, or the piece is a genuine
+   two-sided weigh-up with no verdict → 0 (neutral) with tag `mixed`.
+3. Magnitude for a mixed-but-decided item is capped at 0.5 (the signal is
+   diluted); 1.0 only when the thesis is unambiguous and emotionally charged.
+4. Negative facts reported neutrally (earnings miss stated without framing)
+   → 0 for framing, BUT tag `negative_earnings`; sustained negative framing
+   ("plunge", "crisis", "keeps receding") → −1.
+5. Confidence must reflect mixedness: ≥0.8 only for one-sided items.
+6. Record the thesis in `rationale` as "thesis: … / counter: …" so the
+   fact-checker can audit the call.
+This formalises the standard content-analysis practice of coding the unit's
+overall evaluative direction (Krippendorff) rather than sentence polarity
+averaging, which systematically pushes mixed professional journalism toward
+spurious neutrality or toward whichever side is wordier.
+
 ## Balance sanity check
 
 A region where positives outnumber negatives ≥4:1 is a red flag for
