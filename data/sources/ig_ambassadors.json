@@ -1,0 +1,17 @@
+{
+  "_doc": "Gucci ambassador / campaign-talent Instagram accounts used for REGIONAL Instagram heat (methodology §3.2c-ig, method 1). region = the GMAI block the person's audience sits in; 'global' accounts contribute only through caption-based assignment (method 2). verified=false means the handle was taken from press sources, not from the account itself — the collector drops any account under min_followers or whose returned name does not resemble the roster name, and logs it. Add aliases in every script the person is written in.",
+  "min_followers": 200000,
+  "accounts": [
+    {"name": "BTS Jin", "handle": "jin", "region": "NEA", "aliases": ["jin", "김석진", "석진", "seokjin", "bts"], "verified": false},
+    {"name": "aespa Ningning", "handle": "imnotningning", "region": "NEA", "aliases": ["ningning", "닝닝", "宁艺卓", "aespa"], "verified": false},
+    {"name": "Lee Know (Stray Kids)", "handle": "t.leeknowsaurus", "region": "NEA", "aliases": ["lee know", "leeknow", "리노", "이민호", "stray kids"], "verified": false},
+    {"name": "Tian Xiwei", "handle": "vv.tian", "region": "NEA", "aliases": ["tian xiwei", "田曦薇"], "verified": false},
+    {"name": "PP Krit", "handle": "pp.kritt", "region": "SEA", "aliases": ["pp krit", "krit amnuaydechkorn", "พีพี", "ppkritt"], "verified": false},
+    {"name": "Billkin", "handle": "bbillkin", "region": "SEA", "aliases": ["billkin", "putthipong", "บิวกิ้น"], "verified": false},
+    {"name": "Jannik Sinner", "handle": "janniksin", "region": "EU", "aliases": ["jannik sinner", "sinner"], "verified": false},
+    {"name": "Aryna Sabalenka", "handle": "sabalenka_aryna", "region": "global", "aliases": ["sabalenka", "aryna"], "verified": false},
+    {"name": "Tom Brady", "handle": "tombrady", "region": "NA", "aliases": ["tom brady", "brady"], "verified": false},
+    {"name": "Shawn Mendes", "handle": "shawnmendes", "region": "NA", "aliases": ["shawn mendes"], "verified": false}
+  ],
+  "_not_on_instagram": ["Xiao Zhan (Weibo only)", "Lee Young-ae"]
+}

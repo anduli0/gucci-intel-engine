@@ -267,33 +267,77 @@ def split_english(items_by_region):
     return items_by_region
 
 
-def collect_instagram(errors):
-    """Brand-account Instagram metrics via Meta Graph API Business Discovery
-    (free; needs IG_ACCESS_TOKEN + IG_USER_ID of an Instagram professional
-    account; skipped without them). Global, not regional. like_count is absent
-    when a post hides likes; compute_gmai imputes it (ratio estimator)."""
+def _ig_host(token):
+    # Facebook-Login tokens start with "EAA" and use graph.facebook.com; Instagram-Login
+    # tokens start with "IG" and use graph.instagram.com (Business Discovery is only
+    # documented for the Facebook-Login flavour, so the latter is tried but flagged).
+    return "https://graph.instagram.com/v21.0" if token.startswith("IG") else GRAPH_API
+
+
+def _ig_discover(uid, token, handle, media_limit, errors):
+    fields = (f"business_discovery.username({handle}){{username,name,followers_count,media_count,"
+              f"media.limit({media_limit}){{id,caption,timestamp,like_count,comments_count,media_type,permalink}}}}")
+    try:
+        return get_json(f"{_ig_host(token)}/{uid}?" + urllib.parse.urlencode(
+            {"fields": fields, "access_token": token}))["business_discovery"]
+    except Exception as e:  # noqa: BLE001
+        msg = str(e).replace(token, "***")
+        if token.startswith("IG"):
+            msg += " (Instagram-Login token: Business Discovery needs the Facebook-Login setup - IG professional account linked to a Facebook Page)"
+        errors.append(f"instagram {handle}: {msg}")
+        return None
+
+
+def _ig_posts(bd):
+    return [{"id": m["id"], "published_at": m.get("timestamp", "")[:10],
+             "likes": m.get("like_count"), "comments": m.get("comments_count"),
+             "media_type": m.get("media_type"), "url": m.get("permalink"),
+             "caption": (m.get("caption") or "")[:300]}
+            for m in (bd.get("media") or {}).get("data", [])]
+
+
+def _name_matches(roster_name, returned_name, handle):
+    """Loose guard against a wrong handle resolving to some unrelated account."""
+    r = (returned_name or "").lower()
+    toks = [w for w in re.split(r"[^a-z0-9가-힣぀-ヿ一-鿿]+", roster_name.lower()) if len(w) >= 3]
+    return (not r) or any(w in r for w in toks) or handle.replace(".", "").replace("_", "") in r.replace(" ", "")
+
+
+def collect_instagram(errors, root="."):
+    """Instagram via Meta Graph API Business Discovery (free, official; needs
+    IG_ACCESS_TOKEN + IG_USER_ID of the user's professional account; skipped
+    without them). Two account sets, both with captions so compute_gmai can
+    assign posts to regions (methodology §3.2c-ig):
+      accounts    - Gucci + peer brands (method 2: caption -> region)
+      ambassadors - data/sources/ig_ambassadors.json (method 1: the person's
+                    own audience region; Gucci posts vs their own baseline)
+    like_count is absent when a post hides likes; compute_gmai imputes it."""
     token, uid = os.environ.get("IG_ACCESS_TOKEN"), os.environ.get("IG_USER_ID")
     if not (token and uid):
         return None
     accounts = {}
     for brand, handle in IG_BRANDS.items():
-        fields = (f"business_discovery.username({handle}){{followers_count,media_count,"
-                  f"media.limit(25){{id,timestamp,like_count,comments_count,media_type,permalink}}}}")
-        try:
-            bd = get_json(f"{GRAPH_API}/{uid}?" + urllib.parse.urlencode(
-                {"fields": fields, "access_token": token}))["business_discovery"]
-        except Exception as e:  # noqa: BLE001
-            errors.append(f"instagram {handle}: {str(e).replace(token, '***')}")
-            continue
-        accounts[brand] = {
-            "handle": handle, "followers": bd.get("followers_count"),
-            "posts": [{"id": m["id"], "published_at": m.get("timestamp", "")[:10],
-                       "likes": m.get("like_count"), "comments": m.get("comments_count"),
-                       "media_type": m.get("media_type"), "url": m.get("permalink")}
-                      for m in (bd.get("media") or {}).get("data", [])],
-        }
-    return accounts
-
+        bd = _ig_discover(uid, token, handle, 25, errors)
+        if bd:
+            accounts[brand] = {"handle": handle, "followers": bd.get("followers_count"),
+                               "posts": _ig_posts(bd)}
+    ambassadors = []
+    roster_path = Path(root) / "data" / "sources" / "ig_ambassadors.json"
+    if roster_path.exists():
+        with open(roster_path, "r", encoding="utf-8") as f:
+            roster = json.load(f)
+        min_f = roster.get("min_followers", 200000)
+        for a in roster.get("accounts", []):
+            bd = _ig_discover(uid, token, a["handle"], 30, errors)
+            if not bd:
+                continue
+            fol = bd.get("followers_count") or 0
+            if fol < min_f or not _name_matches(a["name"], bd.get("name"), a["handle"]):
+                errors.append(f"instagram ambassador {a['handle']}: dropped (followers={fol}, name={bd.get('name')!r}) - handle looks wrong")
+                continue
+            ambassadors.append({"name": a["name"], "handle": a["handle"], "region": a["region"],
+                                "returned_name": bd.get("name"), "followers": fol, "posts": _ig_posts(bd)})
+    return {"accounts": accounts, "ambassadors": ambassadors}
 
 REDDIT_OAUTH = "https://oauth.reddit.com"
 REDDIT_SUBS = {   # per-region subreddits for the engagement sample (official API; score + comments)
@@ -402,12 +446,13 @@ def run(date_str, root):
     masto_all = collect_mastodon(ref_day, shared_errors)
     lang_region = {lang: r for r, langs in REGION_LANGS.items() for lang in langs}
     ig_errors = []
-    ig = collect_instagram(ig_errors)
+    ig = collect_instagram(ig_errors, root)
     if ig is not None:
         with open(out_dir / "instagram.json", "w", encoding="utf-8") as f:
-            json.dump({"date": date_str, "errors": ig_errors, "accounts": ig},
-                      f, ensure_ascii=False, indent=2)
-        print(f"instagram: accounts={len(ig)} errors={len(ig_errors)}")
+            json.dump({"date": date_str, "errors": ig_errors, **ig}, f, ensure_ascii=False, indent=2)
+        print(f"instagram: brands={len(ig['accounts'])} ambassadors={len(ig['ambassadors'])} errors={len(ig_errors)}")
+        for e in ig_errors:
+            print("  ", e)
     yts_by_region = collect_youtube_search(ref_day, shared_errors)
     social, region_errors = {}, {}
     for region in REGION_LANGS:

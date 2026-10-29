@@ -15,6 +15,7 @@ import argparse
 import bisect
 import csv
 import json
+import re
 import math
 import sys
 import urllib.parse
@@ -281,69 +282,172 @@ def source_weight(item, sources):
     return best if best is not None else BUZZ_UNLISTED
 
 
-IG_ENABLED = False     # OFF by the user's decision (2026-10-29) until they ask; needs a regional design first
-IG_BLEND = 0.30        # share of the global Instagram heat in each region's Engagement
+IG_ENABLED = True      # regional design (methods 1+2+3) live 2026-10-30; inert until instagram.json exists
+IG_BLEND = 0.30        # share of THAT region's Instagram heat in its Engagement (regions without a signal: no blend)
 IG_SHRINK_K = 5.0      # pseudo-posts at 0.5 for a thin Gucci sample
 
 
+IG_GUCCI_RE = re.compile(r"gucci|구찌|グッチ|古驰|古馳|กุชชี่", re.I)
+IG_CITY_REGION = {   # method 2: caption place/market words -> GMAI block (lower-cased substring match)
+    "NEA": ["seoul", "서울", "tokyo", "東京", "도쿄", "osaka", "kyoto", "shanghai", "上海", "beijing", "北京",
+            "hong kong", "香港", "taipei", "台北", "chengdu", "shenzhen", "macau", "korea", "japan", "china",
+            "taiwan", "한국", "일본", "중국"],
+    "SEA": ["bangkok", "กรุงเทพ", "singapore", "jakarta", "manila", "kuala lumpur", "hanoi", "ho chi minh",
+            "thailand", "indonesia", "philippines", "vietnam", "malaysia", "bali"],
+    "NA": ["new york", "nyc", "los angeles", "beverly hills", "rodeo drive", "miami", "las vegas", "chicago",
+           "toronto", "san francisco", "wooster"],
+    "EU": ["milan", "milano", "paris", "london", "rome", "roma", "florence", "firenze", "venice", "venezia",
+           "berlin", "munich", "madrid", "cannes", "amsterdam", "zurich", "montenapoleone", "bond street"],
+}
+IG_SCRIPT_REGION = [(re.compile(r"[가-힣぀-ヿ一-鿿]"), "NEA"), (re.compile(r"[฀-๿]"), "SEA")]
+
+
+def ig_caption_regions(caption, amb_aliases):
+    """Method 2 assignment of one caption. Priority: ambassador name -> city/market
+    word -> title script. Several hits split 1/k (rule E); none -> {} (global,
+    diagnostic only - method 3: never borrowed by a region)."""
+    c = (caption or "").lower()
+    hit = {r for alias, r in amb_aliases if alias in c}
+    if not hit:
+        hit = {r for r, words in IG_CITY_REGION.items() if any(w in c for w in words)}
+    if not hit:
+        hit = {r for rx, r in IG_SCRIPT_REGION if rx.search(c)}
+    return {r: 1.0 / len(hit) for r in hit}
+
+
+def _ig_rate(m, n, ratios, pooled):
+    """x = min(likes + 2*comments, n) with hidden likes imputed by the ratio estimator."""
+    c = m.get("comments")
+    if not n or c is None:
+        return None, False
+    likes, imputed = m.get("likes"), False
+    if likes is None:
+        rs = ratios or pooled
+        if not rs:
+            return None, False
+        likes, imputed = c * rs[len(rs) // 2], True
+    return min(likes + 2.0 * c, n), imputed
+
+
+def _ig_pool(us_ws):
+    sw = sum(w for _, w in us_ws)
+    sw2 = sum(w * w for _, w in us_ws)
+    n_eff = sw * sw / sw2 if sw2 > EPS else 0.0
+    s = sum(w * u for u, w in us_ws) / sw
+    return (n_eff * s + IG_SHRINK_K * 0.5) / (n_eff + IG_SHRINK_K), n_eff
+
+
+def ig_heat_from(brands, ambassadors, end):
+    """Regional Instagram heat (§3.2c-ig, v2.6) from the parsed 30-day window.
+    brands: {brand: {followers, posts{id: post}}}; ambassadors: [{region, followers, posts{id: post}, aliases}].
+    Method 1 - ambassador: each Gucci post's mid-rank percentile among ALL of that
+      account's posts in the window (same account => follower size controlled);
+      region = the person's audience block ('global' -> caption).
+    Method 2 - brand: Gucci's official posts ranked among peer-brand posts (EB-shrunk
+      rates), assigned to blocks by caption; unassigned posts are not used.
+    Method 3 - a block with no pair gets no entry (caller blends nothing).
+    Returns {region: {heat, n_eff, amb_posts, brand_posts, imputed_share}}."""
+    amb_aliases = [(al.lower(), a["region"]) for a in ambassadors for al in a.get("aliases", [])
+                   if a.get("region") in REGION_WEIGHTS]
+    pairs = {r: [] for r in REGION_WEIGHTS}
+    cnt = {r: [0, 0, 0] for r in REGION_WEIGHTS}   # amb, brand, imputed
+
+    def add(regions, u, w, kind, imputed):
+        for r, share in regions.items():
+            if r in pairs:
+                pairs[r].append((u, w * share))
+                cnt[r][kind] += 1
+                cnt[r][2] += int(imputed)
+
+    # ---- method 1: ambassadors
+    for a in ambassadors:
+        n = a.get("followers")
+        posts = list(a.get("posts", {}).values())
+        ratios = sorted(m["likes"] / m["comments"] for m in posts if m.get("likes") is not None and m.get("comments"))
+        rates = []
+        for m in posts:
+            x, imp = _ig_rate(m, n, ratios, ratios)
+            if x is not None:
+                rates.append((x / n, m, imp))
+        if len(rates) < 5 or not any(IG_GUCCI_RE.search(m.get("caption", "")) for _, m, _ in rates):
+            continue
+        allr = sorted(r for r, _, _ in rates)
+        if all(IG_GUCCI_RE.search(m.get("caption", "")) for _, m, _ in rates):
+            continue   # no own baseline to compare against
+        for r, m, imp in rates:
+            if not IG_GUCCI_RE.search(m.get("caption", "")):
+                continue
+            lo, hi = bisect.bisect_left(allr, r), bisect.bisect_right(allr, r)
+            u = (lo + 0.5 * (hi - lo)) / len(allr)
+            regions = {a["region"]: 1.0} if a.get("region") in REGION_WEIGHTS else ig_caption_regions(m.get("caption"), amb_aliases)
+            add(regions, u, recency_weight(m.get("published_at"), end), 0, imp)
+
+    # ---- method 2: official brand posts
+    if "Gucci" in brands and len(brands) >= 3:
+        ratios = {b: sorted(m["likes"] / m["comments"] for m in a["posts"].values()
+                            if m.get("likes") is not None and m.get("comments")) for b, a in brands.items()}
+        pooled = sorted(r for rs in ratios.values() for r in rs)
+        rows = []
+        for b, a in brands.items():
+            for m in a["posts"].values():
+                x, imp = _ig_rate(m, a.get("followers"), ratios.get(b), pooled)
+                if x is not None:
+                    rows.append((b, m, x, a["followers"], imp))
+        if rows:
+            al, be = fit_beta([(x, n) for _, _, x, n, _ in rows])
+            post = sorted((x + al) / (n + al + be) for _, _, x, n, _ in rows)
+            for b, m, x, n, imp in rows:
+                if b != "Gucci":
+                    continue
+                regions = ig_caption_regions(m.get("caption"), amb_aliases)
+                if not regions:
+                    continue
+                r = (x + al) / (n + al + be)
+                lo, hi = bisect.bisect_left(post, r), bisect.bisect_right(post, r)
+                add(regions, (lo + 0.5 * (hi - lo)) / len(post), recency_weight(m.get("published_at"), end), 1, imp)
+
+    out = {}
+    for r, pr in pairs.items():
+        if not pr:
+            continue   # method 3
+        heat, n_eff = _ig_pool(pr)
+        k = cnt[r][0] + cnt[r][1]
+        out[r] = {"heat": round(heat, 4), "n_eff": round(n_eff, 1), "amb_posts": cnt[r][0],
+                  "brand_posts": cnt[r][1], "imputed_share": round(cnt[r][2] / k, 3)}
+    return out
+
+
 def ig_heat(root, date_str):
-    """Global Instagram heat: where Gucci's recent posts rank among peer-brand
-    posts (§3.2c-ig). Per post x = likes + 2·comments, n = account followers.
-    Hidden likes are imputed by the ratio estimator likes ≈ comments × median
-    (likes/comments) of that account in the window (pooled peer median if the
-    account has none). Rates are EB-shrunk (Beta prior over all peer posts),
-    ranked by mid-rank ECDF, recency-weighted, then shrunk toward 0.5.
-    Returns (heat, n_eff, imputed_share) or None without data."""
+    """Load the 30-day instagram.json window (latest metrics per post win) and
+    compute regional heat. None when no Instagram data exists at all."""
     end = date.fromisoformat(date_str)
-    posts, followers = {}, {}
+    brands, ambs, seen_amb = {}, {}, False
+    roster_aliases = {}
+    rp = Path(root) / "data" / "sources" / "ig_ambassadors.json"
+    if rp.exists():
+        with open(rp, "r", encoding="utf-8") as fh:
+            roster_aliases = {a["handle"]: a.get("aliases", []) for a in json.load(fh).get("accounts", [])}
     for k in range(ENG_REF_DAYS - 1, -1, -1):
         f = Path(root) / "data" / "engagement" / (end - timedelta(days=k)).isoformat() / "instagram.json"
         if not f.exists():
             continue
         with open(f, "r", encoding="utf-8") as fh:
-            accounts = (json.load(fh) or {}).get("accounts", {})
-        for brand, a in accounts.items():
-            if a.get("followers"):
-                followers[brand] = a["followers"]
+            d = json.load(fh) or {}
+        for brand, a in (d.get("accounts") or {}).items():
+            b = brands.setdefault(brand, {"followers": None, "posts": {}})
+            b["followers"] = a.get("followers") or b["followers"]
             for m in a.get("posts", []):
-                posts[(brand, m["id"])] = m          # latest metrics win
-    if "Gucci" not in followers or len(followers) < 3:
+                b["posts"][m["id"]] = m
+        for a in d.get("ambassadors") or []:
+            seen_amb = True
+            e = ambs.setdefault(a["handle"], {"region": a.get("region"), "followers": None, "posts": {},
+                                              "aliases": roster_aliases.get(a["handle"], [])})
+            e["followers"] = a.get("followers") or e["followers"]
+            for m in a.get("posts", []):
+                e["posts"][m["id"]] = m
+    if not brands and not seen_amb:
         return None
-    ratios = {}
-    for (brand, _), m in posts.items():
-        if m.get("likes") is not None and m.get("comments"):
-            ratios.setdefault(brand, []).append(m["likes"] / m["comments"])
-    pooled = sorted(r for rs in ratios.values() for r in rs)
-    rows, imputed = [], 0
-    for (brand, _), m in posts.items():
-        n, c = followers.get(brand), m.get("comments")
-        if not n or c is None:
-            continue
-        likes = m.get("likes")
-        if likes is None:
-            rs = sorted(ratios.get(brand) or pooled)
-            if not rs:
-                continue
-            likes, imputed = c * rs[len(rs) // 2], imputed + (brand == "Gucci")
-        rows.append((brand, m.get("published_at"), min(likes + 2.0 * c, n), n))
-    a, b = fit_beta([(x, n) for _, _, x, n in rows])
-    post = sorted((x + a) / (n + a + b) for _, _, x, n in rows)
-    us, ws = [], []
-    for brand, pub, x, n in rows:
-        if brand != "Gucci":
-            continue
-        r = (x + a) / (n + a + b)
-        lo, hi = bisect.bisect_left(post, r), bisect.bisect_right(post, r)
-        us.append((lo + 0.5 * (hi - lo)) / len(post))
-        ws.append(recency_weight(pub, end))
-    if not us:
-        return None
-    sw, sw2 = sum(ws), sum(w * w for w in ws)
-    n_eff = sw * sw / sw2 if sw2 > EPS else 0.0
-    s = sum(w * u for w, u in zip(ws, us)) / sw
-    heat = (n_eff * s + IG_SHRINK_K * 0.5) / (n_eff + IG_SHRINK_K)
-    return heat, n_eff, imputed / len(us)
-
+    return ig_heat_from(brands, list(ambs.values()), end)
 
 SOV_PRIOR = 10  # pseudo-mentions at the neutral share (small-sample shrinkage, §3.2d)
 
@@ -632,16 +736,15 @@ def run(date_str, root):
                                          buzz_items=buzz_items)
         results[region]["sov_source"] = "objective" if mention_counts else "missing-neutral"
         results[region]["owned_engagement"] = round(sum(owned_u) / len(owned_u), 4) if owned_u else None
-        if ig:
+        if ig and region in ig:          # method 3: blend only where THIS block has an Instagram signal
             res = results[region]
-            e = (1 - IG_BLEND) * res["components"]["engagement"] + IG_BLEND * ig[0]
+            e = (1 - IG_BLEND) * res["components"]["engagement"] + IG_BLEND * ig[region]["heat"]
             res["components"]["engagement"] = round(e, 4)
             res["contrib"]["engagement"] = round(100.0 * W_ENG * e, 2)
             res["GMAI"] = round(sum(res["contrib"].values()), 2)
             res["band"] = band_of(res["GMAI"])
             res["engagement_known"] = True
-            res["instagram_heat"] = {"heat": round(ig[0], 4), "n_eff": round(ig[1], 1),
-                                     "imputed_likes_share": round(ig[2], 3), "blend": IG_BLEND}
+            res["instagram_heat"] = {**ig[region], "blend": IG_BLEND, "method": "v2.6-regional"}
 
     if not results:
         print(f"ERROR: no region data found under {raw_dir}", file=sys.stderr)
@@ -821,6 +924,22 @@ def selftest():
         ok = abs(got - target) <= tol
         ok_all = ok_all and ok
         print(f"selftest §3.6 v2.1: {name}={got:.4f} (target {target}±{tol}) {'ok' if ok else 'MISMATCH'}")
+    # §3.2c-ig regional Instagram fixture: a Korean ambassador whose Gucci post out-performs
+    # her own baseline (NEA up), @gucci posts captioned Milan vs Seoul, nothing for SEA/NA.
+    end = date(2026, 1, 2)
+    mk = lambda i, likes, c, cap, d="2026-01-01": {"id": i, "likes": likes, "comments": c, "caption": cap, "published_at": d}
+    amb = [{"region": "NEA", "followers": 1_000_000, "aliases": ["ningning"], "posts": {f"a{i}": mk(f"a{i}", 20000 + 1000 * i, 500, "daily") for i in range(6)}}]
+    amb[0]["posts"]["g1"] = mk("g1", 60000, 2000, "with #Gucci in Seoul")
+    brands = {b: {"followers": 50_000_000, "posts": {f"{b}{i}": mk(f"{b}{i}", 200000, 3000, "look") for i in range(5)}}
+              for b in ("Louis Vuitton", "Prada")}
+    brands["Gucci"] = {"followers": 50_000_000, "posts": {"m1": mk("m1", 400000, 9000, "Milano show"),
+                                                          "s1": mk("s1", 350000, 6000, "Seoul pop-up"),
+                                                          "x1": mk("x1", 300000, 5000, "new campaign")}}
+    ig = ig_heat_from(brands, amb, end)
+    ig_ok = (set(ig) == {"NEA", "EU"} and ig["NEA"]["heat"] > 0.5 and ig["EU"]["heat"] > 0.5
+             and ig["NEA"]["amb_posts"] == 1 and ig["NEA"]["brand_posts"] == 1 and ig["EU"]["brand_posts"] == 1)
+    ok_all = ok_all and ig_ok
+    print(f"selftest §3.2c-ig regional: {ig} {'ok' if ig_ok else 'MISMATCH'}")
     print("PASS" if ok_all else "FAIL")
     return 0 if ok_all else 2
 
