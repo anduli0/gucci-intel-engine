@@ -13,11 +13,15 @@ FORMAT — professional analyst report, KOREAN:
 1. `# 제목` — specific and informative, then one line: 날짜 / 기간 / GUCCI INTELLIGENCE.
 2. `목차` — numbered section titles.
 3. `핵심 요약` — 3-4 flowing sentences.
-4. Numbered sections (`## 1. ...`) as natural flowing prose paragraphs — complete sentences, professional analyst tone, simple readable language. NO inline URLs in the body: cite with footnote markers [1], [2]. A short table only where it genuinely helps.
+4. Numbered sections (`## 1. ...`) as natural flowing prose paragraphs — complete sentences, in the author's voice per .claude/style/an-minkyu-report-style.md (conclusion-first, connective-led, counter-weighted; see PROSE VOICE below). NO inline URLs in the body: cite with footnote markers [1], [2]. A short table only where it genuinely helps.
 5. `## Executive Summary (English)` — 5-8 sentences.
 6. `## 주석` — one plain-language line for every metric or term of art cited (no index metrics here — those live in the 지수 해석 리포트). If nothing needs glossing, one line: 지수 관련 수치는 같은 날짜의 지수 해석 리포트 참조.
 7. `## 출처` — numbered list; each entry: [n] 매체명 — 한줄 설명 — URL. Every footnote marker must resolve here; no URL outside this section.
 No emoji, no 개조식 fragments. Fashion shows and runway events lead the brief when present. Speculation labeled 가설.
+(8) DRAFTING ORDER (style file 1.9): write the ENGLISH EDITION first as the master text, then RE-WRITE it in
+Korean word order - never sentence-by-sentence translation. Korean must read as natively written: no English
+noun-phrase subjects carried over, no calque summary constructions (style file 1.9 lists them in Korean),
+split long sentences, prefer active voice.
 
 Scope: this brief is the synthesis of EVERYTHING the Luxury Watch desk collected today (all data/luxury/{DATE}/*.json groups — Kering, LVMH, Hermes-Chanel, Jewelry, Beauty, Independents). It analyzes the luxury WORLD as a whole; Gucci is just one brand among many here (Gucci-focused analysis belongs to the 구찌 비즈니스 리뷰). Do not organize the brief around Gucci and do not end every item with a Gucci takeaway.
 

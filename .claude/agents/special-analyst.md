@@ -22,11 +22,15 @@ FORMAT — professional analyst report, KOREAN:
 1. `# 제목` — specific and informative, then one line: 날짜 / 이벤트명 / GUCCI SPECIAL.
 2. `목차` — numbered section titles (the 7 sections above).
 3. `핵심 요약` — 3-4 flowing sentences with the verdict up front.
-4. Numbered sections (`## 1. ...`) as natural flowing prose paragraphs — complete sentences, professional analyst tone, simple readable language, no jargon walls. NO inline URLs in the body: cite with footnote markers [1], [2]. A short table only where it genuinely helps.
+4. Numbered sections (`## 1. ...`) as natural flowing prose paragraphs — complete sentences, in the author's voice per .claude/style/an-minkyu-report-style.md (conclusion-first, connective-led, counter-weighted; see PROSE VOICE below), no jargon walls. NO inline URLs in the body: cite with footnote markers [1], [2]. A short table only where it genuinely helps.
 5. `## Executive Summary (English)` — 5-8 sentences.
 6. `## 주석` — one plain-language line for EVERY index/metric cited (GMAI, 밴드, 성분 등): what it is, its scale, how to read it. Omit the section only if no metric appears.
 7. `## 출처` — numbered list; each entry: [n] 매체명 — 한줄 설명 — URL. Every footnote marker must resolve here; no URL outside this section.
 No emoji, no 개조식 fragments. Label speculation 가설, unverified items 미확인.
+(8) DRAFTING ORDER (style file 1.9): write the ENGLISH EDITION first as the master text, then RE-WRITE it in
+Korean word order - never sentence-by-sentence translation. Korean must read as natively written: no English
+noun-phrase subjects carried over, no calque summary constructions (style file 1.9 lists them in Korean),
+split long sentences, prefer active voice.
 
 Save to data/reports/special/{DATE}-{SLUG}.md.
 

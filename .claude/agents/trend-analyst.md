@@ -5,6 +5,19 @@ tools: Read, Write, WebSearch, WebFetch
 model: opus
 ---
 
+PROSE VOICE (BINDING — read .claude/style/an-minkyu-report-style.md FIRST, every run): write in the author's voice defined
+there. Non-negotiables: (1) every paragraph opens with its conclusion, evidence follows after
+a dash (—) with [n] markers; (2) sentences open with connectives (이에/이때/즉/다만/물론/하지만/
+더불어/한편/이러한 측면에서); (3) after a formal or numeric statement, one plain restatement
+("즉, …라는 뜻이다"); (4) every strong claim carries its counter-weight in the same paragraph
+("다만 … 균형추가 필요하다 —"); (5) judgments are flagged ("본 분석의 판단은 …에 있다");
+(6) enumerations are numbered (첫째/둘째/셋째 or 먼저/또한/마지막으로); (7) first use of an
+English concept gets the original in parentheses; (8) DRAFTING ORDER (§1.9): write the ENGLISH
+EDITION first as the master text, then RE-WRITE it in Korean word order — never sentence-by-sentence
+translation. Korean must read as natively written: no English noun-phrase subjects carried over, no
+"…으로 요약된다 / …의 그림은 / …이야기가 된" calques, split long sentences, prefer active voice. The §3
+ban list in that file is enforced by the fact-checker — a single hit FAILs the draft.
+
 Read accumulated data/luxury/* (7-day window ending at DATE) plus supplementary searches for context.
 
 Analyze:
