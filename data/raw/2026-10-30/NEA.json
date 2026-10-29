@@ -1,0 +1,122 @@
+{
+ "items": [
+  {
+   "id": "NEA-2026-10-30-001",
+   "region": "NEA",
+   "source": "Wallstreetcn (华尔街见闻)",
+   "source_type": "news",
+   "tier": "T2",
+   "url": "https://wallstreetcn.com/articles/3784242",
+   "published_at": "2026-10-22",
+   "title": "中国客流不振，开云王牌复苏遇冷：Gucci Q3销售下滑6%",
+   "summary": "Gucci Q3 revenue EUR1.291bn, comparable sales down 6% versus roughly 3.3% expected; directly operated retail down 9%. Management blames falling footfall in mainland China, Japan and wider APAC rather than weaker conversion. Kering has netted 105 closures in nine months and now targets at least 125 for the year; CFO would not confirm group growth.",
+   "reach": null,
+   "likes": null,
+   "comments": null,
+   "shares": null
+  },
+  {
+   "id": "NEA-2026-10-30-002",
+   "region": "NEA",
+   "source": "FashionUnited",
+   "source_type": "news",
+   "tier": "T2",
+   "url": "https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016",
+   "published_at": "2026-10-23",
+   "title": "Kering: Q3 revenue remains stable as jewelry and eyewear offset Gucci contraction",
+   "summary": "Gucci retail fell 9% comparable on lower traffic in mainland China and Japan, while wholesale rose 45% to EUR120m off a low base. Jewelry grew 11% and eyewear 4% comparable. 105 net closures YTD (128 closed, 23 opened).",
+   "reach": null,
+   "likes": null,
+   "comments": null,
+   "shares": null
+  },
+  {
+   "id": "NEA-2026-10-30-003",
+   "region": "NEA",
+   "source": "Yonhap News (via Korean Center)",
+   "source_type": "news",
+   "tier": "T1",
+   "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1429048",
+   "published_at": "2026-10-24",
+   "title": "중동전쟁에 유럽시위 유탄까지…유럽 명품업계 주가 급락",
+   "summary": "Yonhap London report: European luxury stocks at decade-plus lows; Kering fell 16% in Paris on Oct 23 after Gucci Q3 sales fell 6%. LVMH, Hermes and Kering are each down about 40% this year, with weak Chinese demand and war-driven inflation worries cited.",
+   "reach": null,
+   "likes": null,
+   "comments": null,
+   "shares": null
+  },
+  {
+   "id": "NEA-2026-10-30-004",
+   "region": "NEA",
+   "source": "Global Economic (g-enews)",
+   "source_type": "news",
+   "tier": "T2",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610242206511009fda4f5ab74_1",
+   "published_at": "2026-10-25",
+   "title": "구찌 모기업 케링 주가 16% 폭락으로 열린 명품 업계의 겨울",
+   "summary": "Reports the record one-day Kering drop and the 125-store closure goal. Contrasts the global slump with Korean department stores, where weak won and foreign-tourist spending point to record results, a decoupling from Gucci's Asia traffic problem.",
+   "reach": null,
+   "likes": null,
+   "comments": null,
+   "shares": null
+  }
+ ],
+ "mention_counts": {
+  "Gucci": 4,
+  "Kering": 4,
+  "Louis Vuitton": 1,
+  "Dior": 0,
+  "Chanel": 0,
+  "Prada": 0,
+  "Bottega Veneta": 0,
+  "Saint Laurent": 0,
+  "Balenciaga": 0,
+  "Burberry": 0,
+  "Hermes": 3,
+  "LVMH": 3
+ },
+ "coverage": {
+  "checked": [
+   "Wallstreetcn",
+   "Jiemian",
+   "Yonhap",
+   "Chosun/JoongAng/Hankyung (via search)",
+   "WWD Japan",
+   "Business Insider Japan",
+   "Naver Cafe",
+   "Naver Blog",
+   "DC Inside/theqoo/FM Korea",
+   "5channel/Girls Channel/Chiebukuro",
+   "Weibo",
+   "Xiaohongshu",
+   "Douyin",
+   "Zhihu",
+   "YouTube",
+   "Instagram/X"
+  ],
+  "with_hits": [
+   "Wallstreetcn",
+   "Yonhap",
+   "FashionUnited",
+   "Global Economic"
+  ],
+  "dry": [
+   "Naver Cafe",
+   "Naver Blog (domain blocked for search)",
+   "DC Inside",
+   "theqoo",
+   "FM Korea",
+   "5channel",
+   "Girls Channel",
+   "Chiebukuro",
+   "Xiaohongshu",
+   "Douyin",
+   "Zhihu",
+   "Instagram",
+   "X",
+   "Weibo (only undated SEO-style long posts, rejected)",
+   "YouTube (titles only, no verifiable date/metrics, rejected)"
+  ]
+ },
+ "notes": "Search tool does not index SNS/community posts; sns/community items = 0, not padded. Critical searches (store closures, price cuts, resale, boycott) ran and surfaced the Q3 miss/closures; Jiemian Sep 8 China price-cut story (30-40% cuts) is >14 days old, excluded; no fresh Oct 28-30 NEA items found. No activation coverage pooled."
+}

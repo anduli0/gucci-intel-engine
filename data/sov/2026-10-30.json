@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-30",
+  "method": "symmetric-neutral-queries-7d",
+  "window": "최근 7일",
+  "material": "패션·비즈니스 편집 기사(뉴스·리뷰·피처), T1/T2 매체 중심",
+  "criteria": [
+    "브랜드 9곳(Gucci + pool.json competitor_set 8곳)에 동일한 중립 쿼리 템플릿을 지역당 1회씩 동일 깊이로 실행",
+    "7일 창(2026-10-23~10-30, 경계 1일 허용)에 날짜가 확인되는 편집 기사만 집계; 날짜 미확인·쇼핑·태그 페이지는 제외",
+    "검색 도구가 날짜 필터를 지원하지 않아 NEA(한국어 쿼리), SEA, NA는 7일 창 내 기사를 한 건도 확인하지 못함 — 측정 불가로 지역 키를 생략",
+    "EU(프랑스어 쿼리)만 날짜 확인 가능한 기사가 있어 기록; 표본이 매우 작아 저신뢰"
+  ],
+  "criteria_en": [
+    "Same neutral query template, one search per brand per region, identical depth, for 9 brands (Gucci + the 8 competitor_set brands in pool.json)",
+    "Only editorial articles with a verifiable date inside the 7-day window (2026-10-23 to 10-30, one boundary day tolerated); undated items, shopping and tag pages excluded",
+    "The search tool has no date filter; NEA (Korean queries), SEA and NA returned no verifiable in-window article for any brand, so those region keys are omitted as not measurable",
+    "EU (French queries) is recorded because dated articles were found; sample is very small, low confidence"
+  ],
+  "regions": {
+    "EU": {
+      "Gucci": 0,
+      "Louis Vuitton": 0,
+      "Dior": 0,
+      "Chanel": 0,
+      "Prada": 2,
+      "Bottega Veneta": 0,
+      "Saint Laurent": 0,
+      "Balenciaga": 0,
+      "Burberry": 0
+    }
+  },
+  "evidence": {
+    "EU": {
+      "Gucci": {"outlets": [], "examples": []},
+      "Louis Vuitton": {"outlets": [], "examples": []},
+      "Dior": {"outlets": [], "examples": []},
+      "Chanel": {"outlets": [], "examples": []},
+      "Prada": {
+        "outlets": ["FashionUnited FR", "Journal du Luxe"],
+        "examples": [
+          {"title": "Chiffre d'affaires net en hausse de 15 % pour le groupe Prada sur les neuf premiers mois de 2026", "url": "https://fashionunited.fr/actualite/business/chiffre-daffaires-net-en-hausse-de-15-pour-le-groupe-prada-sur-les-neuf-premiers-mois-de-2026/2026102243361"},
+          {"title": "Prada Group maintient le cap malgre un environnement difficile (neuf premiers mois 2026)", "url": "https://www.journalduluxe.fr/fr/business/prada-group-maintient-cap-malgre-environnement-difficile-neuf-premiers-mois-2026"}
+        ]
+      },
+      "Bottega Veneta": {"outlets": [], "examples": []},
+      "Saint Laurent": {"outlets": [], "examples": []},
+      "Balenciaga": {"outlets": [], "examples": []},
+      "Burberry": {"outlets": [], "examples": []}
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-10-30",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "케링 3분기 구찌 비교매출 -6%, 직영 -9% — 컨센서스(-3.3%)보다 나쁨, 중국·일본 트래픽이 원인",
+      "headline_en": "Kering Q3: Gucci comparable sales -6%, retail -9%, worse than the -3.3% consensus on weak China and Japan traffic",
+      "summary": "구찌 3분기 매출은 12.9억 유로로 보고 기준 -4%, 비교 기준 -6%였고 블룸버그가 인용한 애널리스트 예상(-3.3%)을 밑돌았다. 직영 리테일은 -9%였으며 도매만 +45%(1.2억 유로)로 부진한 전년 기저의 주문 회복 덕을 봤다. 케링은 트래픽이 주요 제약이고 객단가·전환율은 개선됐다고 설명했다. 발표일은 10월 22일이며, 지시문의 10월 29일과 다르다(원문 기준 확인).",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/gucci-sales-trail-estimates-on-china-slump-as-turnaround-falters",
+      "source": "Bloomberg (cross-checked with FashionUnited, 2026-10-22)",
+      "tier": "T1",
+      "published_at": "2026-10-22",
+      "why_it_matters": "실적 미달의 원인은 가격이 아니라 트래픽이다 — 객단가·전환율 개선이 신상품 효과라는 케링 설명은 가설이며, 도매 +45%는 낮은 기저 효과가 커서 회복 신호로 보기 어렵다. 신규 트래픽 회복이 확인되기 전까지 턴어라운드는 미검증이다.",
+      "why_it_matters_en": "The miss is a traffic problem, not a price problem — Kering's claim that better ticket and conversion reflect new-collection pull is a hypothesis, and the +45% wholesale rebound mostly reflects a weak base. Until traffic recovers, the turnaround stays unproven.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "market",
+      "headline": "케링, 2026년 매출 성장 복귀 목표 철회 — 주가 장중 11.5% 급락",
+      "headline_en": "Kering drops its 2026 return-to-growth goal; shares fall 11.5% in morning trading",
+      "summary": "AJ Bell의 대니 휴슨은 드메오 턴어라운드가 '심각한 방지턱'을 만났다고 평가했다. 케링은 마진 개선 목표는 유지했으나 올해 매출 성장 복귀 목표는 반복하지 않았다. 10월 23일 오전 주가는 11.5% 하락했다.",
+      "url": "https://www.hl.co.uk/shares/stock-market-news/company--news/kering-shares-slide-as-third-quarter-gucci-sales-fall",
+      "source": "Hargreaves Lansdown (Sharecast)",
+      "tier": "T2",
+      "published_at": "2026-10-23",
+      "why_it_matters": "투자자 신뢰가 한 분기 만에 크게 꺾였다 — 2분기 첫 매출 증가가 추세 전환이 아니었을 가능성을 시장이 가격에 반영했고, 비용 절감 중심 마진 방어는 브랜드 투자 여력을 제약할 수 있다(가설).",
+      "why_it_matters_en": "Investor confidence broke within one quarter — the market is pricing in that Q2's first sales gain was not a trend change, and a cost-led margin defense could limit brand investment (hypothesis).",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "market",
+      "headline": "블룸버그 칼럼: 케링, 소비자와 주주의 인내심 시험 — 중국 회복 정체, 보완하던 미국도 둔화",
+      "headline_en": "Bloomberg Opinion: Kering testing patience of shoppers and shareholders as China recovery stalls and US slows",
+      "summary": "10월 26일 블룸버그 오피니언은 케링이 중국 회복 정체를 확인했고, 그동안 이를 상쇄하던 미국 매출도 둔화됐다고 짚었다. 본문 전체는 미확인이며 검색 요약 기준이다.",
+      "url": "https://bloomberg.com/opinion/articles/2026-10-26/gucci-owner-kering-testing-patience-of-shoppers-and-shareholders",
+      "source": "Bloomberg Opinion",
+      "tier": "T1",
+      "published_at": "2026-10-26",
+      "why_it_matters": "북미가 그나마 가장 견조한 시장이라는 케링 설명과 달리 미국도 둔화 조짐이라는 비판적 시각이다 — 구찌에는 중국 대안 시장이 부재하다는 뜻일 수 있다(오피니언, 가설).",
+      "why_it_matters_en": "A critical counterpoint to Kering's framing of North America as the most resilient market — if the US is also slowing, Gucci has no clear offset to China (opinion, hypothesis).",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "케링 그룹 9개월간 128개 폐점·23개 신규, 연간 순폐점 목표 125개 이상",
+      "headline_en": "Kering closed 128 and opened 23 stores in nine months; full-year net closure target now 125+",
+      "summary": "FashionUnited에 따르면 그룹 전체 순폐점은 9월까지 105개이고 연간 목표는 최소 125개다. 구찌별 폐점 수치는 공개되지 않았다.",
+      "url": "https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016",
+      "source": "FashionUnited",
+      "tier": "T2",
+      "published_at": "2026-10-22",
+      "why_it_matters": "구찌 몫은 미공개다 — 어제 파일의 '구찌가 최대 비중'은 2차 출처(Retail Boss) 주장이므로 원 공시로 확인될 때까지 미확인으로 취급한다.",
+      "why_it_matters_en": "Gucci's share is undisclosed — yesterday's 'Gucci bears the largest share' came from a secondary source and stays unverified until confirmed by a primary disclosure.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "구찌 FW26 백 캠페인 공개 — 비토리아 체레티 출연",
+      "headline_en": "Gucci releases Fall 2026 bag campaign featuring Vittoria Ceretti",
+      "summary": "구찌는 10월 중순 FW26 백 캠페인을 선보였다. 구찌 자체 마케팅 산출물이며 상세 내용은 검색 요약 기준으로만 확인했다.",
+      "url": "https://www.fashiongonerogue.com/story/gucci-bag-fall-2026-campaign/",
+      "source": "Fashion Gone Rogue",
+      "tier": "T3",
+      "published_at": "2026-10-15",
+      "why_it_matters": "구찌 자체 활동 보도이며 여론 개선의 증거가 아니다 — 트래픽이 약한 국면에서 백 중심 메시지로 객단가 개선 주장을 뒷받침하려는 시도로 읽을 수 있다(가설). 발행일은 페이지 미확인으로 근사치.",
+      "why_it_matters_en": "Brand-generated activation coverage, not evidence of sentiment gain — it may support the ticket-improvement narrative with a bag-led message while traffic is weak (hypothesis). Publication date approximate, not verified on page.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "'GucciCore' 뉴욕 캠페인 추가 매체 보도 (10월 21일 공개)",
+      "headline_en": "Further coverage of the 'GucciCore' New York campaign (released Oct 21)",
+      "summary": "사진가 Peter Funch가 뉴욕에서 촬영한 GucciCore 캠페인이 여러 매체에서 재보도되고 있다. 신규 정보는 없고 어제 파일 항목의 후속 노출이다.",
+      "url": "https://www.thefashionisto.com/story/gucci-guccicore-campaign-2026/",
+      "source": "The Fashionisto",
+      "tier": "T3",
+      "published_at": "2026-10-22",
+      "why_it_matters": "재보도는 활동 노출의 연장이지 수요 신호가 아니다 — 판매 지표와 연결된 근거는 아직 없다.",
+      "why_it_matters_en": "Repeat coverage extends activation reach, not demand — no sales-linked evidence yet.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "legal",
+      "headline": "코티, 구찌 뷰티 라이선스 조기 이전 두고 케링·구찌 상대 영국 소송 — 진행 중",
+      "headline_en": "Coty sues Kering and Gucci in UK court over Gucci beauty license early transfer — ongoing",
+      "summary": "코티 자회사 HFC Prestige가 영국 상업법원에 소송을 제기했다. 10월 29일 파일은 이를 2026년 건으로 적었으나 FashionUnited 등 URL 기준 제소는 2025년 10월 20일이며 판결·합의는 확인되지 않는다. 정정 후 보관한다.",
+      "url": "https://www.thefashionlaw.com/kering-beauty-deal-prompts-lawsuit-from-gucci-licensee-coty/",
+      "source": "The Fashion Law",
+      "tier": "T2_trade",
+      "published_at": "2025-10-20",
+      "why_it_matters": "소송이 1년 넘게 이어지고 있어 로레알 이전 일정의 법적 불확실성이 해소되지 않았다 — 최신 진행 상황은 미확인이다.",
+      "why_it_matters_en": "The suit has run over a year with no confirmed ruling or settlement, so legal uncertainty over the L'Oréal handover persists — latest status unverified.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "뎀나 S/S27 '스토어 쇼' — 실적 발표 주에 열린 쇼, 비평 호평과 매출은 별개",
+      "headline_en": "Demna's S/S27 'Store Show' landed in results week; critical praise is separate from sales",
+      "summary": "밀라노에서 매장을 통째로 세운 형식으로 공개됐다. 쇼 효과는 3분기 수치에 반영되지 않았다.",
+      "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
+      "source": "Wallpaper",
+      "tier": "T2",
+      "published_at": "2026-10-24",
+      "why_it_matters": "S/S27이 4분기 트래픽에 미치는 영향이 다음 검증 지점이다 — 호평만으로는 회복을 판단할 수 없다.",
+      "why_it_matters_en": "Q4 traffic is the next test of S/S27 — critical praise alone cannot establish recovery.",
+      "relevance": "competitive threat"
+    }
+  ],
+  "_note": "Coverage gap: web search returned no Gucci item verifiably published on 2026-10-30; the hard same-day minimum is NOT met. Items are the freshest verifiable (10-15 to 10-26). Kering Q3 release date is 2026-10-22 per Bloomberg/FashionUnited/HL, not 10-29."
+}
