@@ -97,6 +97,11 @@ w_i = tier_weight × recency_weight
   Dior, Chanel, Prada, Bottega Veneta, Saint Laurent, Balenciaga, Burberry)
 - SOV_r = Gucci_mentions / (Gucci + Σ peers)
 - If no counts available → neutral 1/(1 + |competitor_set|)
+- v2.2 (2026-10-29): small-sample shrinkage SOV_r = (Gucci + K·neutral) /
+  (total + K), K = 10, because symmetric counts are typically 5-20 per region
+  and one article swung the raw ratio 0↔1. Raw-pool mention_counts are NO
+  LONGER used as a fallback (they read ~1.0 and inflated GMAI by up to 18 pts);
+  a region without data/sov counts gets neutral and sov_source=missing-neutral.
 - COUNTING RULE (bias control): SOV counts MUST come from SYMMETRIC collection —
   the same neutral query template run once per brand ("<brand> news/coverage",
   same period, same outlet universe), counting distinct relevant articles per

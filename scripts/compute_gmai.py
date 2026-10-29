@@ -156,7 +156,13 @@ def sov_neutral(root=None):
     return 0.125
 
 
+SOV_PRIOR = 10  # pseudo-mentions at the neutral share (small-sample shrinkage, §3.2d)
+
+
 def compute_sov(mention_counts, neutral=0.125):
+    """Shrunk share: (gucci + K·neutral) / (total + K). With the typical 5-20
+    symmetric mentions per region, a raw ratio swings 0↔1 on one article; the
+    prior pulls thin days toward neutral and lets real volume dominate."""
     if not mention_counts:
         return neutral, False
     gucci = mention_counts.get("Gucci")
@@ -166,7 +172,7 @@ def compute_sov(mention_counts, neutral=0.125):
     total = (gucci or 0) + peers
     if total <= 0:
         return neutral, False
-    return gucci / total, True
+    return ((gucci or 0) + SOV_PRIOR * neutral) / (total + SOV_PRIOR), True
 
 
 def compute_region(items, sent_by_id, mention_counts, ref_day, baseline_v, neutral=0.125,
@@ -363,9 +369,11 @@ def run(date_str, root):
         if not raw_path.exists():
             missing.append(region)
             continue
-        items, mention_counts = load_raw(raw_path)
-        if region in sov_override and sov_override[region]:
-            mention_counts = sov_override[region]
+        items, _ = load_raw(raw_path)
+        # Only symmetric counts are valid SOV input. Raw-pool mention_counts come
+        # from Gucci-targeted collection and read ~1.0 (Gucci always "wins"), so
+        # a region without a symmetric count gets neutral SOV, not that fallback.
+        mention_counts = sov_override.get(region) or {}
         sent_path = sent_dir / f"{region}.json"
         sent_by_id = load_sentiment(sent_path) if sent_path.exists() else {}
         history = [(d, v) for d, v in baseline.get(region, []) if d < date_str][-BASELINE_WINDOW:]
@@ -373,7 +381,7 @@ def run(date_str, root):
         eng_items = load_raw(eng_path)[0] if eng_path.exists() else []
         results[region] = compute_region(items, sent_by_id, mention_counts, ref_day, history,
                                          neutral=sov_neutral(root), eng_items=eng_items)
-        results[region]["sov_source"] = "objective" if region in sov_override and sov_override[region] else "collection-derived"
+        results[region]["sov_source"] = "objective" if mention_counts else "missing-neutral"
 
     if not results:
         print(f"ERROR: no region data found under {raw_dir}", file=sys.stderr)
