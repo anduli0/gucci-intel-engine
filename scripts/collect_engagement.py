@@ -41,7 +41,11 @@ GRAPH_API = "https://graph.facebook.com/v21.0"
 # Official Instagram accounts: Gucci + pool.json competitor_set (Business Discovery)
 IG_BRANDS = {"Gucci": "gucci", "Louis Vuitton": "louisvuitton", "Dior": "dior",
              "Chanel": "chanelofficial", "Prada": "prada", "Bottega Veneta": "bottegaveneta",
-             "Saint Laurent": "ysl", "Balenciaga": "balenciaga", "Burberry": "burberry"}
+             "Saint Laurent": "ysl", "Balenciaga": "balenciaga", "Burberry": "burberry",
+             # competitor_set widened 2026-10-31
+             "Hermès": "hermes", "Loewe": "loewe", "Miu Miu": "miumiu", "Celine": "celine",
+             "Fendi": "fendi", "Valentino": "maisonvalentino", "Givenchy": "givenchyofficial",
+             "Versace": "versace", "Armani": "giorgioarmani", "Dolce & Gabbana": "dolcegabbana"}
 # (regionCode, relevanceLanguage, query) per GMAI region; ~11 searches x 100 units/day
 YT_REGION_QUERIES = {
     "NEA": [("KR", "ko", "구찌|gucci"), ("JP", "ja", "グッチ|gucci")],

@@ -8,7 +8,17 @@
     "Bottega Veneta",
     "Saint Laurent",
     "Balenciaga",
-    "Burberry"
+    "Burberry",
+    "Hermès",
+    "Loewe",
+    "Miu Miu",
+    "Celine",
+    "Fendi",
+    "Valentino",
+    "Givenchy",
+    "Versace",
+    "Armani",
+    "Dolce & Gabbana"
   ],
   "brand_watch_set": [
     "Kering",
@@ -161,5 +171,130 @@
         "it"
       ]
     }
+  },
+  "competitor_set_note": "Widened 2026-10-31 from 8 to 18 houses (user request: major luxury peers incl. Hermès). SOV series breaks here: v0 = 1/(1+18); compare pre/post days only via Gucci rank or share relative to v0.",
+  "brand_aliases": {
+    "Gucci": [
+      "구찌",
+      "グッチ",
+      "古驰",
+      "古馳",
+      "กุชชี่"
+    ],
+    "Louis Vuitton": [
+      "루이비통",
+      "ルイ・ヴィトン",
+      "路易威登",
+      "หลุยส์ วิตตอง",
+      "LV"
+    ],
+    "Dior": [
+      "디올",
+      "ディオール",
+      "迪奥",
+      "ดิออร์"
+    ],
+    "Chanel": [
+      "샤넬",
+      "シャネル",
+      "香奈儿",
+      "ชาแนล"
+    ],
+    "Prada": [
+      "프라다",
+      "プラダ",
+      "普拉达",
+      "ปราด้า"
+    ],
+    "Bottega Veneta": [
+      "보테가 베네타",
+      "ボッテガ・ヴェネタ",
+      "葆蝶家",
+      "โบเตก้า เวเนต้า"
+    ],
+    "Saint Laurent": [
+      "생로랑",
+      "サンローラン",
+      "圣罗兰",
+      "แซงต์ โลรองต์",
+      "YSL"
+    ],
+    "Balenciaga": [
+      "발렌시아가",
+      "バレンシアガ",
+      "巴黎世家",
+      "บาเลนเซียก้า"
+    ],
+    "Burberry": [
+      "버버리",
+      "バーバリー",
+      "博柏利",
+      "เบอร์เบอรี่"
+    ],
+    "Hermès": [
+      "Hermes",
+      "에르메스",
+      "エルメス",
+      "爱马仕",
+      "愛馬仕",
+      "แอร์เมส"
+    ],
+    "Loewe": [
+      "로에베",
+      "ロエベ",
+      "罗意威",
+      "โลเอเว่"
+    ],
+    "Miu Miu": [
+      "미우미우",
+      "ミュウミュウ",
+      "缪缪",
+      "มิวมิว"
+    ],
+    "Celine": [
+      "셀린느",
+      "セリーヌ",
+      "思琳",
+      "เซลีน"
+    ],
+    "Fendi": [
+      "펜디",
+      "フェンディ",
+      "芬迪",
+      "เฟนดิ"
+    ],
+    "Valentino": [
+      "발렌티노",
+      "ヴァレンティノ",
+      "华伦天奴",
+      "วาเลนติโน"
+    ],
+    "Givenchy": [
+      "지방시",
+      "ジバンシィ",
+      "纪梵希",
+      "จีวองชี่"
+    ],
+    "Versace": [
+      "베르사체",
+      "ヴェルサーチェ",
+      "范思哲",
+      "เวอร์ซาเช่"
+    ],
+    "Armani": [
+      "Giorgio Armani",
+      "아르마니",
+      "アルマーニ",
+      "阿玛尼",
+      "อาร์มานี่"
+    ],
+    "Dolce & Gabbana": [
+      "Dolce&Gabbana",
+      "D&G",
+      "돌체앤가바나",
+      "ドルチェ&ガッバーナ",
+      "杜嘉班纳",
+      "ดอลเช่ แอนด์ กับบาน่า"
+    ]
   }
 }
