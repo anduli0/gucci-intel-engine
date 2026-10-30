@@ -7,7 +7,7 @@ DATE = $1 or today (YYYY-MM-DD). Execute strictly in order; every stage persists
 
 1. COLLECT (parallel ×4): Use the regional-collector subagent four times IN PARALLEL (one message, four invocations), one per REGION (NEA, SEA, NA, EU), passing REGION and DATE. Each writes data/raw/{DATE}/{REGION}.json.
 
-1.5 SOV (parallel with step 2): use the sov-auditor subagent once, passing DATE. It measures symmetric per-brand counts into data/sov/{DATE}.json — the index script prefers this over collection-derived counts (bias control per §3.2d).
+1.5 SOV (parallel with step 2): use the sov-auditor subagent once, passing DATE. The counts come from `scripts/collect_sov.py` (already run by the pipeline before this command; the auditor runs it if data/sov/{DATE}.json is missing) — the auditor only verifies and spot-checks; the index script prefers this file over collection-derived counts (bias control per §3.2d).
 
 1.6 ENGAGEMENT (parallel with step 2): if data/engagement/{DATE}/ does not exist yet (cloud-daily.sh normally collects it before this command), run `python scripts/collect_engagement.py {DATE}` (Bash, no subagent). It writes interaction metrics to data/engagement/{DATE}/{REGION}.json for the Engagement component (§3.2c). It never fails the pipeline; just note its one-line-per-region output.
 

@@ -1,14 +1,14 @@
-# 급락은 표본이 만들었고, 바닥은 여론이 만들었다 — GMAI 30.18점(전일 대비 -4.73), 동북아 -15.34점은 기사 4건 위의 낙폭이고 긍정 의견은 네 권역 40건 중 1건 — 2026-10-30 GMAI 지수 해석
+# 급락은 표본이 만들었고, 바닥은 여론이 만들었다 — GMAI 30.18점(전일 대비 -4.73), 동북아 -15.34점은 기사 4건 위의 낙폭, 긍정 의견은 40건 중 1건 — 2026-10-30 GMAI 지수 해석
 
 2026-10-30 / 일간 / GUCCI INTELLIGENCE
 
 ## 핵심 요약
 
-오늘 지수의 결론은 급락은 표본이 만들었고 바닥은 여론이 만들었다는 것이다 — 구찌의 세계 성적표(GMAI)는 100점 만점에 30.18점으로 어제보다 4.73점 내려갔고, 하락분은 거의 전부 동북아 화제(언급량)에서 나왔는데 동북아 수집 기사는 어제 12건에서 오늘 4건으로 줄었다. 다만 네 권역 의견 40건 가운데 긍정은 1건뿐이고, 바탕에는 구찌 3분기 비교매출 -6%와 케링 주가 급락이라는 같은 사건이 깔려 있다[1][2]. 본 분석의 판단은, 동북아의 낙폭은 실제보다 크게 잡힌 값이지만 '구찌를 좋게 말하는 사람이 거의 없다'는 사실은 수집량과 상관없이 네 권역 모두에서 확인된다는 것이다.
+오늘 지수의 결론은 급락은 표본이 만들었고 바닥은 여론이 만들었다는 것이다 — 구찌의 세계 성적표(GMAI)는 30.18점으로 어제보다 4.73점 내려갔고, 하락분은 거의 전부 동북아 화제(언급량)에서 나왔는데 동북아 수집 기사는 12건에서 4건으로 줄었다. 다만 네 권역 의견 40건 가운데 긍정은 1건뿐이고 바탕에는 구찌 3분기 비교매출 -6%와 케링 주가 급락이 깔려 있으므로[1][2], 동북아 낙폭은 실제보다 크게 잡혔어도 '구찌를 좋게 말하는 사람이 거의 없다'는 사실은 네 권역 모두에서 확인된다고 보는 것이 정확하다.
 
 ## 1. 오늘의 숫자
 
-오늘 §3.5 경보가 세 건 켜졌다 — 동북아가 하루 만에 15.34점 떨어져 '10점 이상 하락' 기준을 넘었고, 동북아(24.96점)와 유럽(27.16점, 이틀째)이 가장 낮은 '경고' 구간에 있다. 다만 동북아 경보는 기사 4건 위에 선 숫자다.
+오늘 §3.5 경보가 세 건 켜졌다 — 동북아가 하루 만에 15.34점 떨어져 '10점 이상 하락' 기준을 넘었고, 동북아(24.96점)와 유럽(27.16점, 이틀째)이 '경고' 구간이며, 동북아 경보는 기사 4건 위에 선 숫자다.
 
 |권역|GMAI(점)|변화 폭(10-29 대비)|구간|표본 n(긍/중/부)|실효 표본|
 |---|---|---|---|---|---|
@@ -18,17 +18,13 @@
 |북미 NA|35.65|-3.65|주의|14(1/7/6)|6.9|
 |유럽 EU|27.16|+3.95|경고|10(0/3/7)|6.7|
 
-## 2. 왜 움직였나
+## 2. 왜 움직였나, 그리고 주의점
 
-오늘 점수를 움직인 재료는 둘, 동북아의 화제와 권역마다 엇갈린 감성이다 — 세계 변화 폭 -4.73을 나누면 화제 -4.74, 점유 -0.81이고 감성(+0.65)과 참여(+0.16)는 오히려 점수를 올렸다. 동북아 화제는 수집 기사가 12건에서 4건으로 줄면서 0.88에서 0.14로 떨어졌지만, 순감성점수는 -0.49에서 -0.48로 거의 움직이지 않았고 남은 4건 중 3건이 부정이었다[1][2]. 감성은 방향이 갈렸다. 유럽은 실적 충격의 여진이 이어지는 가운데서도 10건(부정 7, 긍정 0) 위에서 -0.62에서 -0.50으로 덜 나빠졌다[7][8][9][10]. 북미는 14건 위에서 -0.18에서 -0.27로 나빠졌고, 미국 모멘텀 둔화와 가격 인상 불만이 눌렀다[17][19]. 물론 세계 감성 0.30은 중립 0.5에 한참 못 미친다. 즉 하락이 착시에 가깝다고 해서 바닥까지 착시라는 뜻은 아니다.
+오늘 점수를 움직인 재료는 둘, 동북아의 화제와 권역마다 엇갈린 감성이다 — 세계 -4.73 가운데 화제가 -4.74이고, 동북아 화제는 수집 기사가 12건에서 4건으로 줄면서 0.88에서 0.14로 떨어졌지만 순감성점수는 -0.49에서 -0.48로 거의 움직이지 않았으며 4건 중 3건이 부정이었다[1][2]. 감성은 유럽이 10건 위에서 -0.62에서 -0.50으로 덜 나빠졌고[7][8][9][10], 북미는 14건 위에서 -0.18에서 -0.27로 나빠졌다[17][19]. 다만 나머지 변화는 시장이 아니라 표본과 방법의 변화라고 읽어야 한다. 동북아 4건(실효 표본 3.6)은 증거 부족 기준(3)을 간신히 넘겼을 뿐이고, 점유 하락은 동북아·동남아·북미의 측정값 자리에 중립 대체값이 들어간 효과이고, 참여 변화는 소스가 바뀐 효과일 개연성이 높다(가설). 즉 하락은 착시에 가깝지만 세계 감성 0.30은 중립 0.5에 한참 못 미치므로, 바닥까지 착시는 아니다.
 
-## 3. 읽을 때 주의할 점
+## 3. 내일 볼 것
 
-오늘 숫자는 '수집의 변화'와 '여론의 변화'를 갈라 읽어야 한다 — 동북아 4건(실효 표본 3.6)은 증거 부족 기준(3)을 간신히 넘겼고, 아직 지수에 쓰지 않는 영향력 가중 언급량은 101.74에서 77.27로 완만하게 줄었으므로 실제 대화량은 소폭 줄었을 뿐일 개연성이 있다(가설). 점유는 동북아·동남아·북미가 중립 대체값(sov_source missing-neutral)이고 유럽 0.09는 기사 2건[3][4] 위의 값이라, 변화 폭 속의 점유 하락(동북아 -1.71, 세계 -0.81)은 측정값 자리에 대체값이 들어간 효과이지 점유를 빼앗긴 것이 아니다. 참여는 어제의 유튜브 소스가 빠져 실효 표본이 동북아 95.3에서 27.3으로, 동남아 82.8에서 15.7로 줄었으니, 오늘 참여의 변화는 소스가 바뀐 효과일 개연성이 높다(가설). 더불어 동남아 12건 중 10건은 어제 기사를 다시 쓴 것이고, 캠페인·앰배서더 기사[13][16][23]는 활성화(activation) 커버리지라 중립 처리했다.
-
-## 4. 내일 볼 것
-
-오늘의 방향은 표본과 소스가 정상으로 돌아온 뒤에도 남아야 의미가 있다 — 점검 순서는 세 가지다. 먼저 동북아다. 기사가 10건 안팎으로 돌아오고 화제가 0.5 근처로 회복되면 오늘의 -15.34는 착시로 확정되고, 표본이 회복됐는데도 30점 아래면 실제 악화로 보고 /event-response를 검토한다. 또한 유럽이다. 10월에만 일곱 번째 경고 기록(4·5·7·8·9·29·30일)이므로 지금 /event-response 실행 검토를 권고하며(아직 실행되지 않았다), 바닥 확인 기준은 순감성점수가 -0.50보다 나아지는지와 10월 29·30일 이틀간 한 건도 없던 긍정 의견이 다시 나오는지다. 마지막으로 동남아의 -0.27이 새로 수집한 기사 위에서도 유지되는지, 참여의 소스 구성이 다시 바뀌는지 확인한다.
+오늘의 방향은 표본과 소스가 정상으로 돌아온 뒤에도 남아야 의미가 있다 — 먼저 동북아 기사가 10건 안팎으로 돌아오고 화제가 0.5 근처로 회복되면 오늘의 -15.34는 착시로 확정되고, 표본이 회복됐는데도 30점 아래면 실제 악화로 보고 /event-response를 검토한다. 또한 유럽은 10월 들어 일곱 번째 경고 기록이므로 지금 /event-response 실행 검토를 권고하며(아직 실행되지 않았다), 바닥 확인 기준은 순감성점수가 -0.50보다 나아지는지와 10월 29·30일 한 건도 없던 긍정 의견이 다시 나오는지다. 마지막으로 동남아의 -0.27이 새 기사 위에서도 유지되는지, 참여의 소스 구성이 다시 바뀌는지 확인한다.
 
 ## 부록 — 성분별 상세
 
@@ -49,6 +45,10 @@
 15. 변화 폭 속 점유 하락은 동북아 -1.71, 북미 -0.52, 세계 -0.81이다.
 16. 동북아 부정 동력은 실적 -10.8, 주가 하락 -7.36, 폐점 -6.89이며 같은 기사에서 겹쳐 나온 값이라 순서로만 읽는다.
 17. 유럽의 10월 경고 구간 기록은 4·5·7·8·9·29·30일로 일곱 번째이며, 동북아는 다음 계산일 수집량이 10건 안팎으로 회복된 뒤에도 30점 아래일 때 같은 조치를 검토한다.
+18. 점유는 동북아·동남아·북미가 중립 대체값(sov_source missing-neutral)이고 유럽 0.09는 기사 2건[3][4] 위의 측정값이라, 변화 폭 속의 점유 하락은 측정값 자리에 대체값이 들어간 효과이지 점유를 빼앗긴 것이 아니다.
+19. 참여 실효 표본은 어제의 유튜브 소스가 빠지면서 동북아 95.3에서 27.3으로, 동남아 82.8에서 15.7로 줄었다.
+20. 동남아 12건 중 10건은 어제 기사를 다시 쓴 것이고, 캠페인·앰배서더 기사[13][16][23]는 활성화(activation) 커버리지라 중립 처리했다.
+21. 아직 지수에 쓰지 않는 영향력 가중 언급량은 101.74에서 77.27로 완만하게 줄었으므로, 동북아의 실제 대화량은 소폭 줄었을 뿐일 개연성이 있다(가설).
 
 ## 주석
 
@@ -98,17 +98,17 @@
 
 <!-- ===== ENGLISH EDITION ===== -->
 
-# The Drop Came From the Sample, the Floor From Opinion — GMAI 30.18 (-4.73 Day on Day), NEA's -15.34 Rests on Four Articles, and Only 1 of 40 Items Across Four Regions Is Positive — GMAI Index Interpretation, 2026-10-30
+# The Drop Came From the Sample, the Floor From Opinion — GMAI 30.18 (-4.73), NEA -15.34 on Four Articles, 1 Positive in 40 — GMAI Index Interpretation, 2026-10-30
 
 2026-10-30 / Daily / GUCCI INTELLIGENCE
 
 ## Key Summary
 
-The drop came from the sample, the floor from opinion — global GMAI fell 4.73 to 30.18, almost all of it from NEA Buzz, where items fell from 12 to 4. Only 1 of 40 opinion items is positive, against Gucci's Q3 comparable sales at -6% and Kering's share plunge[1][2]. Our read: NEA's fall is overstated, but the absence of goodwill holds in every region.
+The drop came from the sample, the floor from opinion — GMAI fell 4.73 to 30.18, almost all NEA Buzz as items fell from 12 to 4. Yet 1 of 40 opinion items is positive, against Q3 comparable sales at -6% and Kering's share plunge[1][2]: NEA's fall is overstated, the absence of goodwill is not.
 
 ## 1. Today's Numbers
 
-Three Section 3.5 alerts fired — NEA's -15.34 breached the 10-point drop line and NEA and Europe (second day) are in "Alert", though the NEA alert rests on four articles.
+Three §3.5 alerts fired — NEA's -15.34 crossed the 10-point drop line, NEA and Europe (second day) sit in "Alert", and NEA's rests on four articles.
 
 |Region|GMAI|Δ(10-29)|Band|n(pos/neu/neg)|Eff.n|
 |---|---|---|---|---|---|
@@ -118,17 +118,13 @@ Three Section 3.5 alerts fired — NEA's -15.34 breached the 10-point drop line 
 |NA|35.65|-3.65|Caution|14(1/7/6)|6.9|
 |EU|27.16|+3.95|Alert|10(0/3/7)|6.7|
 
-## 2. Why It Moved
+## 2. Why It Moved, and the Caveats
 
-NEA Buzz and region-split Sentiment moved the score — the global -4.73 is Buzz -4.74 and SOV -0.81, offset by Sentiment +0.65 and Engagement +0.16. NEA Buzz fell from 0.88 to 0.14 as items dropped from 12 to 4; its net sentiment barely moved (-0.49 to -0.48) and 3 of 4 were negative[1][2]. Europe's sentiment improved from -0.62 to -0.50 on 10 items (7 negative, 0 positive) on the earnings aftershock[7][8][9][10]; NA's worsened from -0.18 to -0.27 on 14 items on US momentum and price complaints[17][19]. Still, global Sentiment of 0.30 sits far below neutral 0.5: the drop is an artifact, the floor is not.
+NEA Buzz and split Sentiment moved the score — Buzz is -4.74 of the global -4.73, and NEA Buzz fell 0.88 to 0.14 on items down from 12 to 4 while its NSS held near -0.48 (from -0.49) with 3 of 4 negative[1][2]. Sentiment split: Europe -0.62 to -0.50 on 10 items[7][8][9][10], NA -0.18 to -0.27 on 14[17][19]. The rest is sample and method, not market: NEA's 4 items (effective 3.6) barely clear the low-evidence line of 3; SOV's declines are placeholder substitution in NEA, SEA and NA; the Engagement delta is likely source mix (hypothesis). The drop is artifact; the floor, at global Sentiment 0.30 against neutral 0.5, is not.
 
-## 3. Reading Caveats
+## 3. What to Watch Tomorrow
 
-Separate collection change from opinion change — NEA's 4 items (effective 3.6) barely clear the low-evidence line (3), and the influence-weighted volume (not yet in the index) fell only from 101.74 to 77.27, so conversation dipped modestly (hypothesis). SOV is a neutral placeholder in NEA, SEA and NA (sov_source missing-neutral) and a two-article value in Europe (0.09)[3][4], so its declines in the deltas (NEA -1.71, global -0.81) are substitution, not lost share. Engagement lost yesterday's YouTube sources (effective n NEA 95.3 to 27.3, SEA 82.8 to 15.7); its delta is likely a source-mix effect (hypothesis). Ten of SEA's 12 items were carried over; campaign and ambassador pieces[13][16][23] scored neutral as activation.
-
-## 4. What to Watch Tomorrow
-
-Today's direction counts only once sample and sources normalize. First, NEA: if items return to around 10 and Buzz recovers toward 0.5, the -15.34 is an artifact; if it stays below 30 on a recovered sample, weigh /event-response. Second, Europe: its seventh October "Alert" reading (4, 5, 7, 8, 9, 29, 30), so we recommend weighing an /event-response run now (not yet executed); the floor test is net sentiment above -0.50 and a positive item after none on October 29-30. Third, whether SEA's -0.27 holds on fresh items and Engagement's source mix stays put.
+Today's direction counts only once sample and sources normalize — first, NEA: items back near 10 and Buzz near 0.5 would mark the -15.34 an artifact; below 30 on a recovered sample is real deterioration, so weigh /event-response. Second, Europe: a seventh October "Alert" reading warrants an /event-response review now (not yet executed); the floor test is NSS above -0.50 and a positive item after none on October 29-30. Third, whether SEA's -0.27 holds on fresh items and Engagement's source mix holds.
 
 ## Appendix — component detail
 
@@ -149,6 +145,10 @@ Today's direction counts only once sample and sources normalize. First, NEA: if 
 15. SOV declines inside the deltas: NEA -1.71, NA -0.52, global -0.81.
 16. NEA negative drivers: earnings -10.8, stock drop -7.36, store closures -6.89, overlapping across the same articles, a ranking only.
 17. Europe's October Alert readings: 4, 5, 7, 8, 9, 29, 30; for NEA the trigger for the same action is a score below 30 after collection recovers to around 10 items.
+18. SOV is a neutral placeholder in NEA, SEA and NA (sov_source missing-neutral) and a two-article measurement in Europe (0.09)[3][4], so its declines inside the deltas are substitution replacing measurement, not lost share.
+19. Engagement's effective sample fell with yesterday's YouTube sources gone, NEA 95.3 to 27.3 and SEA 82.8 to 15.7.
+20. Ten of SEA's 12 items were carried over from yesterday, and campaign and ambassador pieces[13][16][23] scored neutral as activation coverage.
+21. The influence-weighted volume, not yet in the index, fell only from 101.74 to 77.27, so NEA's actual conversation likely dipped only modestly (hypothesis).
 
 ## Notes on Terms
 

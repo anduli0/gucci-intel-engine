@@ -4,23 +4,19 @@
 
 ## 핵심 요약
 
-이번 사안의 결론은 실적 충격의 뉴스는 식었지만 회복 신호는 오지 않았고, 시장의 질문이 '얼마나 나빴나'에서 '뎀나가 무엇을 보여줄 것인가'로 옮겨 갔다는 것이다 — 실적 발표 일주일 뒤인 10월 29일에도 케링 주가는 178.73유로 안팎으로 250거래일 저점 부근에 머물렀고[9], 블룸버그 오피니언은 뎀나가 아직 설득력 있는 비전을 내놓지 못했다고 썼으며[8], 번스타인은 이번 분기를 구찌 핵심 제품의 매력이 약하다는 신호로 읽었다[13]. 지수 관련 수치는 같은 날짜의 지수 해석 리포트에 있다.
+이번 사안의 결론은 실적 충격의 뉴스는 식었지만 회복 신호는 오지 않았고, 시장의 질문이 '얼마나 나빴나'에서 '뎀나가 무엇을 보여줄 것인가'로 옮겨 갔다는 것이다 — 실적 발표 일주일 뒤인 10월 29일에도 케링 주가는 178.73유로 안팎으로 250거래일 저점 부근에 머물렀고[9], 블룸버그 오피니언은 뎀나가 아직 설득력 있는 비전을 내놓지 못했다고 썼다[8]. 지금 구찌에 부족한 것은 시간이 아니라 증거다.
 
 ## 1. 오늘의 판정
 
-오늘 새로 터진 사건은 없다. 네 권역 모두 3분기 실적의 여진이 하루를 채웠다. 본 분석의 판단은 시장이 실패를 결론 내린 것이 아니라 외상을 더는 주지 않기로 했다는 것이다 — 지금 구찌에 부족한 것은 시간이 아니라 증거다. 가장 날 선 목소리는 유럽에서 나왔다. 베렌베르크는 매도 의견을 유지한 채 목표주가를 175유로에서 165유로로 내렸다[12]. 북미는 가장 견조한 시장으로 불렸고[14], 동북아는 뉴스 네 건이 전부이고 유럽과 마찬가지로 소셜 항목이 없어, 두 시장의 소비자 여론은 사실상 보이지 않는다[2][3].
+오늘 새로 터진 사건은 없고, 네 권역 모두 3분기 실적의 여진이 하루를 채웠다. 바탕의 사실은 그대로다 — 구찌 3분기 매출은 12억 9,100만 유로, 비교가능 매출은 시장 예상(약 -3.3%)보다 나쁜 -6%였고, 직영 매장은 -9%를 기록했으며, 케링은 9개월간 순 105개 매장을 닫고 연내 최소 125개를 목표로 잡았다[2]. 본 분석의 판단은 시장이 실패를 결론 내린 것이 아니라 외상을 더는 주지 않기로 했다는 것이다. 가장 날 선 목소리는 유럽에서 나왔고, 베렌베르크는 매도 의견을 유지한 채 목표주가를 175유로에서 165유로로 내렸다[12].
 
-## 2. 무엇이 있었나
+## 2. 근거와 반론
 
-바탕의 사실은 그대로다 — 구찌 3분기 매출은 12억 9,100만 유로, 비교가능 매출은 시장 예상(약 -3.3%)보다 나쁜 -6%였고, 직영 매장은 중국 본토와 일본의 방문객 감소로 -9%를 기록했으며, 케링은 9개월간 순 105개 매장을 닫고 연내 최소 125개를 목표로 잡았다[2]. 10월 23일 케링 주가는 집계에 따라 약 11%~16% 빠졌고[4][5][10], CFO는 연간 매출 가이던스를 내놓지 않았으며[35], 블룸버그는 케링이 '2026년 성장 복귀' 문구를 재확인하지 않았다고 전했다[1]. 물론 경영진은 전환율과 객단가가 버텼다고 했고 4분기 신제품 확대도 예고했다[15][4].
+문제는 전환이 아니라 방문이고, 그래서 매장 운영이 아니라 브랜드를 찾아가고 싶게 만드는 힘의 문제다 — 경영진은 매장 방문객을 핵심 제약으로 지목했고[15][2], 번스타인은 이번 분기를 핵심 제품의 근본적 매력이 약하다는 신호로 읽었다[13]. 가격도 돌아올 이유를 만들어 주지 못해, 동남아에서는 가격을 조정했는데도 매출이 떨어지고[16] 중국의 최대 40% 인하는 해외와의 가격 차를 10% 미만으로 좁혔다[30]. 다만 이 해석에도 균형추가 필요하다. '뎀나 체제가 상업적으로 실패한다'는 결론은 아직 미확인이며, 경영진은 전환율과 객단가가 버텼다고 했고[15][4] 실적 콜에서 초기 턴어라운드 신호를 거론했다[33].
 
-## 3. 왜 중요한가와 반론
+## 3. 내일 볼 것
 
-문제는 전환이 아니라 방문이고, 그래서 매장 운영이 아니라 브랜드를 찾아가고 싶게 만드는 힘의 문제다 — 경영진은 매장 방문객을 핵심 제약으로 지목했고[15][2], 번스타인은 이번 분기를 핵심 제품의 근본적 매력이 약하다는 신호로 읽었다[13]. 가격도 돌아올 이유를 만들어 주지 못한다. 동남아에서는 가격을 조정했는데도 매출이 떨어지고[16], 중국의 최대 40% 인하는 해외와의 가격 차를 10% 미만으로 좁혀 여행객의 구매 이유를 지웠으며[30], 미국에서는 거꾸로 가격 인상 피로가 쌓인다[25]. 다만 이 해석에도 균형추가 필요하다. '뎀나 체제가 상업적으로 실패한다'는 결론은 아직 미확인이다. 한 크리에이터 리뷰는 엇갈리지만 조심스럽게 긍정 쪽에 섰고[24], 경영진은 실적 콜에서 초기 턴어라운드 신호를 거론했다[33].
-
-## 4. 내일 볼 것
-
-기본 시나리오는 정체에서 소폭 악화 사이다 — 구찌발 새 소식이 없으면 뉴스 사이클은 가라앉겠지만, 주가가 저점 부근에 머무는 동안 비판적 프레임은 그대로 남는다. 상방의 판단 기준은 4분기 신제품[4]을 앞두고 브랜드가 아닌 제3자 리뷰에서 핵심 제품 호평이 나오는지이고, 하방의 기준은 다음 주 케링 주가가 250거래일 저점을 뚫는지, 베렌베르크에 이어 다른 증권사가 목표주가를 내리는지다[9][12]. 이번 주 안에 확인할 것은 둘이다. 첫째, 한국 백화점의 외국인 관광객 호황을 구찌가 실제로 잡고 있는지인데[6], 이는 가설이며 구찌의 한국 인바운드 실적은 미확인이다. 둘째, 광군제(작성자의 달력 기준 11월 11일) 전에 중국과 유럽의 소셜 리스닝 공백을 메우는 일이다[30].
+기본 시나리오는 정체에서 소폭 악화 사이다 — 구찌발 새 소식이 없으면 뉴스 사이클은 가라앉겠지만, 주가가 저점 부근에 머무는 동안 비판적 프레임은 그대로 남는다. 상방의 판단 기준은 4분기 신제품[4]을 앞두고 브랜드가 아닌 제3자 리뷰에서 핵심 제품 호평이 나오는지이고, 하방의 기준은 다음 주 케링 주가가 250거래일 저점을 뚫는지, 베렌베르크에 이어 다른 증권사가 목표주가를 내리는지다[9][12]. 이번 주 안에는 한국 백화점의 외국인 관광객 호황을 구찌가 실제로 잡고 있는지를 확인하되[6], 이는 가설이며 구찌의 한국 인바운드 실적은 미확인이다.
 
 ## 부록 — 오늘의 기타 신호
 
@@ -51,6 +47,10 @@
 25. 넘긴 권고: 서울 주요 백화점 매장의 외국인 고객 매출을 점포 단위로 뽑아 백화점 호황과 함께 움직이는지 점검하고, 연동이 확인되면 중국어·일본어 클라이언텔링 자원을 서울로 옮기는 안을 검토한다[6][2].
 26. 넘긴 권고: 유료 리스닝 도구를 확보해 웨이보·샤오홍슈와 유럽 커뮤니티의 가격·품질 언급을 매일 추적하고, 침묵을 평온으로 읽지 않는다[30].
 27. 권고의 하방 위험: 독립 리뷰가 계속 부정적이거나 클라이언텔링·예약 조치가 실제 매장 방문을 늘리지 못하면, 제품 증거 전략은 또 하나의 자체 홍보로 읽히며 비용만 남긴다.
+28. 10월 23일 케링 주가는 집계에 따라 약 11%~16% 빠졌고[4][5][10], CFO는 연간 매출 가이던스를 내놓지 않았으며[35], 블룸버그는 케링이 '2026년 성장 복귀' 문구를 재확인하지 않았다고 전했다[1].
+29. 북미는 가장 견조한 시장으로 불렸고[14], 동북아는 뉴스 네 건이 전부이고 유럽과 마찬가지로 소셜 항목이 없어 두 시장의 소비자 여론은 사실상 보이지 않는다[2][3].
+30. 미국에서는 거꾸로 가격 인상 피로가 쌓이고[25], 한 크리에이터 리뷰는 엇갈리지만 조심스럽게 긍정 쪽에 섰다[24].
+31. 이번 주 안에 확인할 또 하나는 광군제(작성자의 달력 기준 11월 11일) 전에 중국과 유럽의 소셜 리스닝 공백을 메우는 일이다[30].
 
 ## 주석
 
@@ -103,29 +103,25 @@
 
 <!-- ===== ENGLISH EDITION ===== -->
 
-# Gucci Business Review — The Shock Has Passed, the Recovery Has Not Come — A Week After Q3, Kering Still Trades Near Its 250-Session Low (October 29), and the Market's Question Has Moved from the Numbers to Demna's Vision
+# Gucci Business Review — The Shock Has Passed, the Recovery Has Not — Kering Near Its 250-Session Low a Week After Q3 (October 29) as the Question Shifts to Demna's Vision
 
 2026-10-30 / Analysis period 2026-10-22 to 10-30 / GUCCI INTELLIGENCE
 
 ## Key Summary
 
-Our conclusion is that the Q3 shock has faded but no recovery signal has replaced it, and the market's question has moved from the numbers to Demna's vision — on October 29 Kering still traded around EUR 178.73, near its 250-session low[9], Bloomberg Opinion said Demna has yet to set out a compelling vision[8], and Bernstein read the quarter as weak appeal in Gucci's core products[13]. Index figures: same-date index interpretation report.
+Our conclusion is that the Q3 shock has faded, no recovery signal has replaced it, and the market's question has moved to Demna's vision — Kering still traded near its 250-session low on October 29, around EUR 178.73[9], and Bloomberg Opinion says Demna has yet to set out a compelling vision[8]. What Gucci lacks is not time but evidence.
 
 ## 1. Today's Verdict
 
-Nothing new broke today; all four regions ran on the Q3 aftershock. Our read is that the market has not concluded failure but has stopped extending credit — what Gucci lacks is not time but evidence. Europe is harshest, with Berenberg cutting its target to EUR 165 from 175 on a sell rating[12]; North America was called the most resilient market[14]; Northeast Asia offers four news items and, like Europe, no social items, so consumer opinion there is invisible[2][3].
+Nothing new broke today; the Q3 aftershock filled all four regions. The facts stand — revenue of EUR 1.291 billion, comparable sales down 6% against roughly 3.3% expected, directly operated stores down 9%, and a net 105 closures with at least 125 targeted[2]. Our read is that the market has not concluded failure, only stopped extending credit. Europe is harshest: Berenberg kept its sell rating and cut its target to EUR 165 from 175[12].
 
-## 2. What Happened
+## 2. Evidence and the Counterweight
 
-The facts stand — Q3 revenue was EUR 1.291 billion, comparable sales fell 6% against roughly 3.3% expected, directly operated stores fell 9% on lower traffic in mainland China and Japan, and Kering netted 105 closures with at least 125 targeted[2]. Kering fell roughly 11% to 16% on October 23[4][5][10], the CFO gave no annual revenue guidance[35], and Bloomberg noted the 2026 return-to-growth language was not reiterated[1]. Management says conversion and ticket held and flagged Q4 launches[15][4].
+The problem is desire, not store execution: visits fell, not conversion — management named traffic the main constraint[15][2], and Bernstein read the quarter as weak appeal in the core products[13]. Price is no help: Southeast Asian sales fall despite adjustments[16], and China's cuts of up to 40% left the overseas gap under 10%[30]. That said, the Demna era's commercial failure remains unverified: management says conversion and ticket held[15][4] and cites early turnaround signals[33].
 
-## 3. Why It Matters, and the Counterweight
+## 3. What to Watch Tomorrow
 
-The problem is visits, not conversion, so it is about desire rather than store execution — management named traffic the main constraint[15][2], and Bernstein read the quarter as weak underlying appeal of the core products[13]. Price is no help: Southeast Asian sales fall despite adjustments[16], China cuts of up to 40% narrowed the overseas gap to under 10%[30], and US price-hike fatigue builds[25]. That said, the Demna era's commercial failure remains unverified: a creator review landed mixed but cautiously positive[24], and management cited early turnaround signals[33].
-
-## 4. What to Watch Tomorrow
-
-Our base case is flat to slightly worse — the critical frame persists while the stock sits near its low, even as the news cycle quiets. The upside test is third-party, not brand, reviews praising the core products ahead of the Q4 launches[4]; the downside test is Kering breaking its 250-session low next week or further broker cuts[9][12]. Two checks this week: whether Gucci captures Korea's department-store tourist boom[6] (hypothesis; unverified), and closing the China and Europe listening gap before Singles' Day (November 11 by the writer's calendar)[30].
+Our base case is flat to slightly worse — the critical frame persists while the stock sits near its low, even as news quiets. The upside test is third-party, not brand, praise for the core products before the Q4 launches[4]; the downside is Kering breaking its 250-session low next week or further broker cuts[9][12]. This week's check is whether Gucci captures Korea's department-store tourist boom[6] (hypothesis; Gucci's Korean inbound sales are unverified).
 
 ## Appendix — other signals today
 
@@ -156,6 +152,10 @@ Our base case is flat to slightly worse — the critical frame persists while th
 25. Recommendation held over: pull store-level foreign-customer sales at major Seoul department-store doors and, if they move with the department-store boom, consider shifting Chinese- and Japanese-language clienteling resources to Seoul[6][2].
 26. Recommendation held over: secure paid listening tools, track price and quality mentions on Weibo, Xiaohongshu and European communities daily, and do not read silence as calm[30].
 27. Risk to the recommendations: if independent reviews stay negative or clienteling and booking measures do not lift store visits, the product-evidence push will read as more self-promotion and leave only its cost.
+28. Kering fell roughly 11% to 16% on October 23[4][5][10], the CFO gave no annual revenue guidance[35], and Bloomberg noted the 2026 return-to-growth language was not reiterated[1].
+29. North America was called the most resilient market[14], while Northeast Asia offers four news items and, like Europe, no social items, so consumer opinion in both is effectively invisible[2][3].
+30. In the US, price-hike fatigue builds in the other direction[25], and a creator review landed mixed but cautiously positive[24].
+31. The other check this week is closing the China and Europe social-listening gap before Singles' Day (November 11 by the writer's calendar)[30].
 
 ## Notes on Terms
 

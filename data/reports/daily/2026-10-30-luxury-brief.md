@@ -3,23 +3,20 @@
 2026-10-30 / 분석 대상 기간: 2026-10-12 ~ 2026-10-30 (당일 신규 보도는 소수, 대부분 10-22~10-29 실적 시즌 자료의 재검증) / GUCCI INTELLIGENCE — Luxury Watch Daily Brief
 
 ## 핵심 요약
-오늘 데이터의 결론은 '화제가 되면 팔린다'와 '희소하면 버틴다'는 럭셔리의 두 보증서가 동시에 할인되고 있다는 것이다. 프라다는 라이스트 3분기 1위에 올랐지만 유기적 성장은 1%에 그쳤고, 중국에서는 버킨 리세일 프리미엄이 줄고 있다[1][2][3]. 주얼리는 같은 분기에도 성장했지만, 몽클레르 EMEA -8%와 파리·밀라노 매장 보안 문제(미확인)는 중국 다음의 약한 고리가 유럽일 수 있다는 경고로 읽힌다(가설)[6][7][9][10].
+오늘 데이터의 결론은 화제와 희소성에 붙던 할증이 함께 걷히고 있다는 것이다 — 프라다는 라이스트 3분기 1위에 올랐지만 유기적 성장은 1%에 그쳤고, 중국에서는 버킨 리세일 프리미엄이 줄고 있다[1][2][3]. 주얼리만 같은 분기에도 성장했고, 중국 다음의 약한 고리는 유럽일 개연성이 높다(가설)[6][7][9][10].
 
 ## 1. 오늘의 한 줄
-시장은 화제와 희소성에 붙여 주던 할증을 거둬들이고 유기적 매출과 소재 가치만 계산하기 시작했다 — 관심 1위 프라다의 유기적 +1%, 중국 버킨 리세일 프리미엄의 축소, 그리고 같은 분기에도 성장한 주얼리가 그 근거다[1][2][3][6][7].
+시장은 화제와 희소성에 붙여 주던 할증을 거둬들이고 유기적 매출과 소재 가치만 계산하기 시작했다. 관심 1위 프라다의 유기적 +1%, 중국 버킨 리세일 프리미엄의 축소, 그리고 같은 분기에도 성장한 주얼리가 그 근거다[1][2][3][6][7].
 
 ## 2. 핵심 3건
-첫째, 관심 지표는 매출의 대리변수(proxy)가 아니다. 프라다는 라이스트 3분기 인덱스에서 수요가 55% 늘며 1위를 되찾았지만 그룹 유기적 성장은 1%에 머물렀다. 9개월 +15%도 대부분 새로 편입된 베르사체의 4억 4,100만 유로에서 나왔고, 라이스트 3위 미우미우의 3분기 소매 매출은 -3%였다[1][2]. 어제 브리프의 로레알 럭스 3분기 12.3%도 7%로 바로잡는다[5]. 순위를 성과로 보고하던 하우스는 잃고, 화제 없이 꾸준히 크는 하우스가 상대적으로 재평가받을 개연성이 높다(가설).
+첫째, 관심 지표는 매출의 대리변수(proxy)가 아니다 — 프라다는 라이스트 3분기 인덱스에서 수요가 55% 늘며 1위를 되찾았지만 그룹 유기적 성장은 1%에 머물렀다[1][2]. 순위를 성과로 보고하던 하우스는 잃고, 화제 없이 꾸준히 크는 하우스가 재평가받을 개연성이 높다(가설).
 
-둘째, 희소성은 이제 브랜드마다 따로 값이 매겨진다. 징데일리는 중국에서 중고 버킨 공급이 늘며 리세일 프리미엄이 줄고 있다고 보도했고(수치·발행일 미확인), 에르메스 3분기 성장률 4.3%는 예상 5.2%에 못 미쳤으며, 한 종합 기사는 주가수익비율(PER)이 54배 이상에서 약 27배로 내려왔다고 정리했다[3][4]. 샤넬은 반대다. 블라지 취임 뒤 일부 백의 중고가가 정가를 13~15% 웃돌고 상반기 매출은 16% 늘었다[12]. 다만 에르메스는 둔화했을 뿐 여전히 성장 중이다. 리세일이 웃돈을 주는 대상이 희소성 자체에서 디자인 모멘텀과 소재 가치로 옮겨 갔다고 보는 것이 정확하다.
+둘째, 희소성은 이제 브랜드마다 따로 값이 매겨진다 — 징데일리는 중국에서 중고 버킨 공급이 늘며 리세일 프리미엄이 줄고 있다고 보도했고(수치·발행일 미확인), 에르메스 3분기 성장률 4.3%는 예상 5.2%에 못 미쳤다[3][4]. 샤넬은 반대로, 블라지 취임 뒤 일부 백의 중고가가 정가를 13~15% 웃돈다[12]. 다만 에르메스는 둔화했을 뿐 여전히 성장 중이며, 리세일이 웃돈을 주는 대상이 희소성 자체에서 디자인 모멘텀과 소재 가치로 옮겨 갔다고 보는 것이 정확하다.
 
-셋째, 주얼리는 성장축을 지켰고 유럽이 다음 약한 고리로 떠올랐다. LVMH 시계·주얼리는 유기적 6% 성장해 패션·레더굿즈 -5%와 정반대로 움직였고, 케링 쥬얼리는 12% 늘었다[6][7][36]. 반대편에서 몽클레르 그룹은 보합, EMEA는 관광객 소비 약세로 -8%였다. 방돔 광장의 루이비통·디올·불가리 매장은 시위를 앞두고 출입구를 보강했고 밀라노 매장은 일찍 문을 닫았다(두 건 모두 미확인)[9][10][4]. 관광객 비중이 높은 유럽 플래그십과 로고 가죽에 기대는 하우스가 먼저 압박받고(가설), 자산성 있는 카테고리를 가진 그룹은 버틸 여지가 크다.
+셋째, 주얼리는 성장축을 지켰고 유럽이 다음 약한 고리로 떠올랐다 — LVMH 시계·주얼리는 유기적 6% 성장해 패션·레더굿즈 -5%와 정반대로 움직였다[6][36]. 반대편에서 몽클레르 그룹은 보합, EMEA는 관광객 소비 약세로 -8%였고, 방돔 광장 매장은 시위를 앞두고 출입구를 보강했으며 밀라노 매장은 일찍 문을 닫았다(두 건 모두 미확인)[9][10][4]. 관광객 비중이 높은 유럽 플래그십과 로고 가죽에 기대는 하우스가 먼저 압박받고(가설), 자산성 있는 카테고리를 가진 그룹은 버틸 여지가 크다.
 
-## 3. 떠오르는 플레이어
-오늘 숫자로 뒷받침되는 상승 신호는 부쉐론과 브루넬로 쿠치넬리 두 곳이다. 케링 쥬얼리는 3분기 비교 기준 11%, 리테일 네트워크 기준 18% 늘었고 회사는 한국·일본의 부쉐론을 동력으로 꼽았지만, 브랜드별 수치는 없다(미확인)[7]. 쿠치넬리는 9개월 매출이 불변환율 기준 13.3% 늘어 연간 전망을 약 12%로 올렸다. 다만 환율 반영 시 10.2%이고 좁은 고객층 탓에 복제가 어렵다[8]. 어제 꼽은 프라다는 '관심 상승, 매출 정체'로 재분류한다[1][2]. 뷰티 라인이나 단일 제품의 급증 신호는 오늘 파일에 없었고, 이는 워치 데스크의 공백으로 남긴다.
-
-## 4. 워치리스트
-앞으로 2주는 오늘의 가설을 날짜가 정해진 숫자로 검증하는 기간이다. 11월 5일 샤넬의 첫 호주 쇼(시드니)는 블라지 체제의 할증이 순회 쇼에서도 이어지는지 보여 주고[51], 11월 2일 CFDA 어워드는 크리에이티브 교체가 몰린 해의 첫 시상식이다[52]. 11월 2일 에스티로더와 11월 5일 태피스트리는 중국 뷰티 수요와 미국 접근 가능 럭셔리를[44][53], 11월 11일 광군제는 로고 가죽과 뷰티·주얼리의 격차가 중국 온라인에서도 나타나는지를[54], 11월 12일(미확정) 버버리와 11월 13일 리슈몽은 유럽 약세와 주얼리·시계 격차를 확인하는 첫 창이다[55][56]. 발렌시아가 피치올리 퇴임의 공식 발표(11월 중순 예상), 생로랑 후임, 11월 10일 크리스티 불가리 핑크 다이아몬드, 12월 2일 로마 샤넬 메티에 다르는 상시 추적 항목이다[24][25][43][57].
+## 3. 떠오르는 플레이어와 워치리스트
+오늘 숫자로 뒷받침되는 상승 신호는 부쉐론과 브루넬로 쿠치넬리 두 곳이다 — 케링은 쥬얼리 성장의 동력으로 한국·일본의 부쉐론을 꼽았고(브랜드별 수치 미확인), 쿠치넬리는 9개월 매출이 불변환율 기준 13.3% 늘어 연간 전망을 약 12%로 올렸다[7][8]. 앞으로 2주는 이 가설을 날짜가 정해진 숫자로 검증하는 기간이다. 11월 5일 샤넬의 첫 호주 쇼(시드니)는 블라지 체제의 할증이 순회 쇼에서도 이어지는지를 보여 주고[51], 11월 12일(미확정) 버버리와 11월 13일 리슈몽은 유럽 약세와 주얼리·시계 격차를 확인하는 첫 창이다[55][56].
 
 ## 부록 — 오늘의 기타 신호
 1. 셀린느 — 리복 협업과 파리 남성 쇼의 화제로 라이스트 톱10에 처음 들었지만, 셀린느가 속한 LVMH 패션·레더굿즈는 3분기 -5%였고 브랜드 자체 실적은 미확인이다 — [11][6]
@@ -67,6 +64,17 @@
 43. 시세이도 — 상반기 핵심 영업이익 +90%, 비교 기준 매출 보합, 이익 개선은 비용 구조조정에서 나왔다 — [48]
 44. 발렌티노 뷰티 — 10월 28일부터 상하이 신톈디에서 중국 전용 '오트 뷰테' 쿠션을 100개 한정 넘버링으로 팔기 시작했고, 매출보다 VIP 화제성을 노린 설계로 보인다 — [49]
 45. 샤넬 뷰티 — 10월 30일 코코 네쥬 2026 홀리데이 메이크업 컬렉션을 내놓았다 — [50]
+46. 미우미우 — 3분기 소매 매출은 -3%였다 — [1][2]
+47. 프라다 — 9개월 +15%는 대부분 새로 편입된 베르사체의 4억 4,100만 유로에서 나왔다 — [2]
+48. 프라다 — 어제 꼽은 떠오르는 플레이어에서 '관심 상승, 매출 정체'로 재분류한다 — [1][2]
+49. 로레알 럭스 — 어제 브리프의 3분기 성장률 12.3%는 7%로 바로잡는다 — [5]
+50. 에르메스 — 한 종합 기사는 주가수익비율(PER)이 54배 이상에서 약 27배로 내려왔다고 정리했다 — [4]
+51. 샤넬 — 블라지 취임 뒤 상반기 매출은 16% 늘었다 — [12]
+52. 케링 쥬얼리 — 3분기 비교 기준 11%, 리테일 네트워크 기준 18% 늘었다 — [7]
+53. 브루넬로 쿠치넬리 — 환율 반영 시 9개월 성장은 10.2%이고, 좁은 고객층 탓에 복제가 어렵다 — [8]
+54. CFDA 어워드 — 11월 2일 개최, 크리에이티브 교체가 몰린 해의 첫 시상식이다 — [52]
+55. 상시 추적 — 발렌시아가 피치올리 퇴임의 공식 발표(11월 중순 예상), 생로랑 후임, 11월 10일 크리스티 불가리 핑크 다이아몬드, 12월 2일 로마 샤넬 메티에 다르 — [24][25][43][57]
+56. 워치리스트 — 11월 2일 에스티로더와 11월 5일 태피스트리는 중국 뷰티 수요와 미국 접근 가능 럭셔리를, 11월 11일 광군제는 로고 가죽과 뷰티·주얼리의 격차가 중국 온라인에서도 나타나는지를 확인하는 창이다 — [44][53][54]
 
 ## 주석
 - 라이스트(Lyst) 인덱스: 온라인 쇼핑 플랫폼 라이스트가 검색·조회·판매 데이터를 묶어 분기마다 매기는 브랜드·제품 인기 순위. 관심의 방향을 보여 주지만 매출 자체는 아니다.
@@ -148,23 +156,20 @@
 2026-10-30 / Period: 2026-10-12 to 2026-10-30 (few same-day reports; mostly re-verified earnings material) / GUCCI INTELLIGENCE — Luxury Watch Daily Brief
 
 ## Key Summary
-Today's conclusion is that luxury's two guarantees — buzz sells, scarcity holds — are being discounted together. Prada topped Lyst's Q3 index yet grew 1% organically; China's Birkin resale premium is shrinking [1][2][3]. Jewelry still grew; Moncler's EMEA -8% and unverified Paris/Milan security reports make Europe the next weak link (hypothesis) [6][7][9][10].
+Buzz and scarcity are losing their premium together — Prada topped Lyst's Q3 index yet grew only 1% organically, and China's Birkin premium is shrinking [1][2][3]. Only jewelry kept growing, and Europe looks like the next weak link (hypothesis) [6][7][9][10].
 
 ## 1. Today in One Line
-The market now prices organic sales and material value, not buzz or scarcity — Prada's organic +1% at No. 1 on Lyst, a narrowing Birkin premium in China, and jewelry still growing prove it [1][2][3][6][7].
+The market now prices organic sales and material value, not buzz or scarcity. Prada's organic +1% at No. 1 on Lyst, China's narrowing Birkin premium and jewelry still growing prove it [1][2][3][6][7].
 
 ## 2. Three Key Stories
-First, interest indices are not a proxy for sales. Prada retook No. 1 on Lyst with demand up 55%, yet organic growth was 1%; the 15% nine-month headline is mostly consolidated Versace (EUR 441 million), and Miu Miu's Q3 retail fell 3% [1][2]. Yesterday's L'Oréal Luxe 12.3% is corrected to 7% [5]. Houses reporting rankings as results lose; quiet steady growers gain (hypothesis).
+First, interest indices are not a proxy for sales — Prada retook No. 1 on Lyst with demand up 55%, yet grew only 1% organically [1][2]. Houses that report rankings as results lose; steady growers without buzz gain (hypothesis).
 
-Second, scarcity is priced brand by brand. Jing Daily reports more second-hand Birkins in China and a shrinking premium (figures and date unverified); Hermès grew 4.3% in Q3 against 5.2% expected, and its P/E is put near 27x, from 54x-plus [3][4]. Chanel runs the other way — some bags trade 13-15% above retail under Blazy and first-half sales rose 16% [12]. Still, Hermès is slowing, not shrinking: resale now pays for design momentum and material value, not scarcity.
+Second, scarcity is priced brand by brand — Jing Daily reports more second-hand Birkins in China and a shrinking premium (figures, date unverified), and Hermès grew 4.3% in Q3 against 5.2% expected [3][4]. Chanel runs the other way, with some bags 13-15% above retail under Blazy [12]. Hermès is slowing, not shrinking; resale now pays for design momentum and material value, not scarcity.
 
-Third, jewelry held while Europe emerged as the next weak link. LVMH Watches & Jewelry grew 6% organically against -5% for Fashion & Leather Goods; Kering Jewelry rose 12% [6][7][36]. Moncler Group was flat, EMEA -8% on weak tourist spending; Place Vendôme stores reinforced entrances before protests and Milan stores closed early (both unverified) [9][10][4]. Tourist-heavy European flagships and logo leather feel it first (hypothesis); asset-like categories hold.
+Third, jewelry held and Europe is the next weak link — LVMH Watches & Jewelry grew 6% organically while Fashion & Leather Goods fell 5% [6][36]. Moncler was flat, EMEA -8% on weak tourist spending; Place Vendôme stores reinforced entrances before protests and Milan stores closed early (both unverified) [9][10][4]. Tourist-heavy flagships and logo leather feel it first (hypothesis); asset-like categories hold.
 
-## 3. Rising Players
-Two names carry numbers today, Boucheron and Brunello Cucinelli. Kering Jewelry grew 11% comparable and 18% in retail, citing Boucheron in Korea and Japan; brand figures are undisclosed (unverified) [7]. Cucinelli grew 13.3% at constant currency over nine months (10.2% reported) and raised guidance to about 12%; a narrow client base limits replication [8]. Prada moves to "interest up, sales flat" [1][2]; no beauty or product surge appeared today, a watch-desk gap.
-
-## 4. Watchlist
-The next two weeks test today's hypotheses. Chanel's first Australian show (Sydney, Nov 5) shows whether the Blazy premium travels [51]; the CFDA Awards (Nov 2) open awards season amid creative turnover [52]. Estée Lauder (Nov 2) and Tapestry (Nov 5) test China beauty and US accessible luxury [44][53]; Singles' Day (Nov 11) tests whether the logo-leather/beauty-jewelry gap appears online in China [54]; Burberry (Nov 12, unconfirmed) and Richemont (Nov 13) read European weakness and the jewelry-watch gap [55][56]. Also pending: Piccioli's official Balenciaga exit (mid-November), Saint Laurent's successor, the Bulgari pink diamond at Christie's (Nov 10), and Chanel Métiers d'art in Rome (Dec 2) [24][25][43][57].
+## 3. Rising Players and Watchlist
+Two names carry numbers today, Boucheron and Brunello Cucinelli — Kering credits Boucheron in Korea and Japan for jewelry growth (brand figures unverified), and Cucinelli grew 13.3% at constant currency over nine months, lifting guidance to about 12% [7][8]. The next two weeks bring dated tests. Chanel's Sydney show (Nov 5) shows whether the Blazy premium travels [51]; Burberry (Nov 12, unconfirmed) and Richemont (Nov 13) give the first read on European weakness and the jewelry-watch gap [55][56].
 
 ## Appendix — other signals today
 1. Celine — entered the Lyst top 10 for the first time on the Reebok collaboration and the Paris men's show, but LVMH Fashion & Leather Goods, its division, fell 5% in Q3 and brand-level results are unverified — [11][6]
@@ -212,6 +217,17 @@ The next two weeks test today's hypotheses. Chanel's first Australian show (Sydn
 43. Shiseido — first-half core operating profit +90% with like-for-like sales flat; the profit gain came from cost restructuring — [48]
 44. Valentino Beauty — began selling a China-only "Haute Beauté" cushion in a numbered run of 100 at its Shanghai Xintiandi store on Oct 28, designed for VIP buzz rather than sales — [49]
 45. Chanel Beauty — launched the Coco Neige 2026 holiday makeup collection on Oct 30 — [50]
+46. Miu Miu — Q3 retail sales fell 3% — [1][2]
+47. Prada — the 15% nine-month headline is mostly consolidated Versace (EUR 441 million) — [2]
+48. Prada — moves from yesterday's rising-player list to "interest up, sales flat" — [1][2]
+49. L'Oréal Luxe — yesterday's brief gave Q3 growth as 12.3%; the correct figure is 7% — [5]
+50. Hermès — a roundup puts the P/E ratio near 27x, down from 54x-plus — [4]
+51. Chanel — first-half sales rose 16% under Blazy — [12]
+52. Kering Jewelry — Q3 growth of 11% comparable and 18% in the retail network — [7]
+53. Brunello Cucinelli — nine-month growth is 10.2% on a reported basis, and a narrow client base limits replication — [8]
+54. CFDA Awards — held on Nov 2, the first awards night of a year of heavy creative turnover — [52]
+55. Standing watch — Piccioli's official Balenciaga exit (expected mid-November), Saint Laurent's successor, the Bulgari pink diamond at Christie's on Nov 10 and Chanel Métiers d'art in Rome on Dec 2 — [24][25][43][57]
+56. Watchlist — Estée Lauder (Nov 2) and Tapestry (Nov 5) test China beauty demand and US accessible luxury; Singles' Day (Nov 11) tests whether the logo-leather versus beauty-jewelry gap appears online in China — [44][53][54]
 
 ## Notes
 - Lyst Index: a quarterly ranking of brand and product popularity compiled by the shopping platform Lyst from search, view and sales data. It shows the direction of interest, not sales themselves.

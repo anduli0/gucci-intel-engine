@@ -38,6 +38,7 @@ jobs:
           D=$(date +%F)
           python scripts/collect_engagement.py "$D"
           python scripts/collect_buzz.py "$D"
+          python scripts/collect_sov.py "$D"
           python scripts/compute_gmai.py "$D"
           git config user.name "gucci-intel-bot"
           git config user.email "minkyu494@gmail.com"

@@ -43,6 +43,7 @@ run_core "/news-scrap"
 # Engagement metrics: plain script, never left to an LLM step (which may skip it).
 python scripts/collect_engagement.py "$START_DAY" || echo "WARN: engagement collection failed"
 python scripts/collect_buzz.py "$START_DAY" || echo "WARN: buzz scan failed"
+python scripts/collect_sov.py "$START_DAY" || echo "WARN: sov scan failed"
 # Methodology monitoring (writes data/analysis, never touches the index)
 pip install --quiet scipy >/dev/null 2>&1 || true
 python scripts/analyze_interaction_weights.py "$START_DAY" >/dev/null || echo "WARN: interaction-weight analysis failed"
