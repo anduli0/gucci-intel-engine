@@ -59,6 +59,11 @@ fi
 run_core "/daily-brief"
 run_opt  "/cd-watch"
 
+# Fridays (KST): the full WEEKLY REVIEW — the dailies are short reads since 2026-10-31.
+if [ "$(date +%u)" = "5" ]; then
+  run_opt "/weekly-review"
+fi
+
 # Special/Event desk cadence guard: a fresh deep-dive at least every 3 days.
 # Content dates (see special_age.py), NOT os.path.getmtime — a fresh checkout
 # resets every mtime, so an mtime-based age would always read ~0 and never fire.

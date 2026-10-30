@@ -16,6 +16,7 @@ only append the English edition with Edit (anchor on the file's final line).
 Enforce the analyst-report format:
 - `# 제목` (specific) + one meta line (날짜/기간), then `목차`, then `핵심 요약` (3-4 prose sentences).
 - Numbered sections (`## 1. ...`) in natural flowing prose in the AUTHOR'S VOICE (.claude/style/an-minkyu-report-style.md). NOT 개조식 fragments (□ ○ -).
+- LENGTH (daily reports): after the voice pass run `python scripts/report_len.py <file>`; if OVER, move whole paragraphs to `## 부록 — 오늘의 기타 신호` (as numbered one-sentence entries) rather than trimming words, keep [n] markers with the moved text, and re-run until OK.
 - VOICE PASS (binding, run the §5 checklist of .claude/style/an-minkyu-report-style.md): every `##` section and the 핵심 요약 must OPEN with its conclusion (if the first sentence is background, move the conclusion up with Edit); each strong claim must carry its counter-weight in the same paragraph (if absent, add one sentence beginning "다만 …" ONLY when the counter-signal already exists in the draft or its sources — never invent one); judgment sentences get a marker ("본 분석의 판단은 …"); replace §3 banned phrases on sight (귀추가 주목된다 → state what will be checked and when; 종합적으로 볼 때/결론적으로 → delete; 살펴본다 → state the finding). Do not alter numbers, [n] markers, 가설/미확인 flags.
 - NO inline URLs in the body: replace them with footnote markers [1], [2] and collect every URL in the closing `## 출처` section (numbered: [n] 매체명 — 한줄 설명 — URL). Every marker must resolve; no URL outside 출처.
 - Short tables kept only where they genuinely help. No emoji.

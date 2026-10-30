@@ -35,8 +35,14 @@ if errorlevel 1 (
   call claude -p "/gucci-special auto" --dangerously-skip-permissions >> %LOG% 2>&1
 )
 
-rem Mondays: refresh the product board and publish the weekly report
 for /f %%D in ('powershell -NoProfile -Command "(Get-Date).DayOfWeek.value__"') do set DOW=%%D
+rem Fridays: the full weekly review (dailies are short reads since 2026-10-31)
+if "%DOW%"=="5" (
+  echo [%date% %time%] friday: weekly-review >> %LOG%
+  call claude -p "/weekly-review" --dangerously-skip-permissions >> %LOG% 2>&1
+)
+
+rem Mondays: refresh the product board and publish the weekly report
 if "%DOW%"=="1" (
   echo [%date% %time%] monday: gucci-products >> %LOG%
   call claude -p "/gucci-products" --dangerously-skip-permissions >> %LOG% 2>&1
