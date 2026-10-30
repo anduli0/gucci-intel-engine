@@ -61,6 +61,10 @@ def main():
     shutil.copy2(ui / "index.html", OUT / "index.html")
     for name in ("icon-180.png", "icon-192.png", "icon-512.png", "manifest.webmanifest"):
         shutil.copy2(ui / name, OUT / name)
+    # Christmas edition bundle (inert when the switch in index.html is off)
+    if (ui / "xmas").exists():
+        shutil.copytree(ui / "xmas", OUT / "xmas", dirs_exist_ok=True,
+                        ignore=shutil.ignore_patterns("README.md", "icons"))
 
     # 5. Product images — shrink at export time (UI renders them at ~118-480px;
     # originals stay untouched in data/products/images). Falls back to a plain
