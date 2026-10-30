@@ -17,9 +17,9 @@ KO_STOP = re.compile(r"^## (주석|출처|부록)", re.M)
 EN_STOP = re.compile(r"^## (Notes|Sources|Appendix)", re.M)
 # Korean reading text in characters (spaces included), English in words.
 BUDGET = {
-    "gucci-business-review": (2600, 480),
-    "index-interpretation": (2600, 480),
-    "luxury-brief": (2900, 540),
+    "gucci-business-review": (1800, 340),
+    "index-interpretation": (1800, 340),
+    "luxury-brief": (2000, 380),
 }
 
 

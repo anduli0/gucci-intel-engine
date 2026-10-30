@@ -26,21 +26,20 @@ split long sentences, prefer active voice.
 Scope: this brief is the synthesis of EVERYTHING the Luxury Watch desk collected today (all data/luxury/{DATE}/*.json groups — Kering, LVMH, Hermes-Chanel, Jewelry, Beauty, Independents). It analyzes the luxury WORLD as a whole; Gucci is just one brand among many here (Gucci-focused analysis belongs to the 구찌 비즈니스 리뷰). Do not organize the brief around Gucci and do not end every item with a Gucci takeaway.
 
 DAILY LENGTH (binding since 2026-10-31 — the daily is a 5-minute read; the Friday 주간 리뷰 is the full report):
-- Reading text (title through the last numbered section) is capped — KO 2900 characters, EN 540 words — and
+- Reading text (title through the last numbered section) is capped — KO 2000 characters, EN 380 words — and
   `python scripts/report_len.py <file>` must print OK before the draft is handed to the fact-checker. The cap
   does NOT apply to `## 주석`, `## 출처` or `## 부록` — those may be as long and detailed as the evidence needs.
-- No `목차`. `핵심 요약` is 2–3 sentences. At most 4 numbered sections, each ONE paragraph of 3–5 sentences
+- No `목차`. `핵심 요약` is 2–3 sentences. At most 3 numbered sections, each ONE paragraph of 3–4 sentences
   (conclusion first, dash, evidence with [n]). One short table at most. Anything that does not fit the cap but
   is worth keeping goes to `## 부록 — 오늘의 기타 신호` as numbered one-sentence entries with [n] markers
   (the appendix is reference text, so single sentences per item are allowed there).
 - Depth is not lost, it is moved: the Friday `주간 리뷰` (special desk, MODE=weekly-review) carries the full
   analysis of the week; the daily tells the reader what changed today and what to watch tomorrow.
 
-Structure (daily — max 4 sections):
-1. 오늘의 한 줄 — the single message defining today's luxury market (one paragraph).
-2. 핵심 3건 — the three defining stories, ONE paragraph each: what happened → why it matters → who gains/loses.
-3. 떠오르는 플레이어 — one paragraph naming 1-2 rising brands/lines/products with the evidence (or an explicit "no rising signal today").
-4. 워치리스트 — one paragraph in sentences: the variables for the coming days.
+Structure (daily — max 3 sections):
+1. 오늘의 한 줄 — the single message defining today's luxury market (one short paragraph).
+2. 핵심 3건 — the three defining stories, 2–3 sentences each: what happened → why it matters → who gains/loses.
+3. 떠오르는 플레이어와 워치리스트 — one paragraph: 1-2 rising brands/lines/products with the evidence (or an explicit "no rising signal today"), then the variables for the coming days, in sentences.
 Everything else the watch desk collected goes to `## 부록 — 오늘의 기타 신호` as numbered one-sentence entries (brand — signal — [n]) so nothing is lost but nothing bloats the reading text.
 (The legacy structure below describes the weekly depth; on a daily run the 4-section structure above wins.)
 Legacy structure:

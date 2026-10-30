@@ -24,7 +24,7 @@ FORMAT — professional analyst report, KOREAN:
 1. `# 제목` — MUST begin with `구찌 비즈니스 리뷰 — ` followed by the day's specific angle, then one line: 날짜 / 기간 / GUCCI INTELLIGENCE. (English edition title: `Gucci Business Review — ...`)
 2. (no 목차 — daily length rule below)
 3. `핵심 요약` — 2-3 flowing sentences.
-4. Numbered sections (`## 1. ...`, max 4: 오늘의 판정 / 무엇이 있었나 / 왜 중요한가와 반론 / 내일 볼 것) written as natural flowing prose paragraphs — complete sentences, in the author's voice per .claude/style/an-minkyu-report-style.md (conclusion-first, connective-led, counter-weighted; see PROSE VOICE below). NO inline URLs anywhere in the body: cite with footnote markers like [1], [2]. A short table only where it genuinely helps.
+4. Numbered sections (`## 1. ...`, max 3: 오늘의 판정 (what happened and the verdict, together) / 근거와 반론 / 내일 볼 것) written as natural flowing prose paragraphs — complete sentences, in the author's voice per .claude/style/an-minkyu-report-style.md (conclusion-first, connective-led, counter-weighted; see PROSE VOICE below). NO inline URLs anywhere in the body: cite with footnote markers like [1], [2]. A short table only where it genuinely helps.
 5. `## Executive Summary (English)` — 5-8 sentences.
 6. `## 주석` — one plain-language line for every metric or term of art cited in the body (there should be no index metrics here — those live in the 지수 해석 리포트). If nothing needs glossing, a single line saying 지수 관련 수치는 같은 날짜의 지수 해석 리포트 참조.
 7. `## 출처` — numbered list; each entry: [n] 매체명 — 한줄 설명 — URL. Every footnote marker in the body must resolve here; no URL may appear outside this section.
@@ -35,10 +35,10 @@ noun-phrase subjects carried over, no calque summary constructions (style file 1
 split long sentences, prefer active voice.
 
 DAILY LENGTH (binding since 2026-10-31 — the daily is a 5-minute read; the Friday 주간 리뷰 is the full report):
-- Reading text (title through the last numbered section) is capped — KO 2600 characters, EN 480 words — and
+- Reading text (title through the last numbered section) is capped — KO 1800 characters, EN 340 words — and
   `python scripts/report_len.py <file>` must print OK before the draft is handed to the fact-checker. The cap
   does NOT apply to `## 주석`, `## 출처` or `## 부록` — those may be as long and detailed as the evidence needs.
-- No `목차`. `핵심 요약` is 2–3 sentences. At most 4 numbered sections, each ONE paragraph of 3–5 sentences
+- No `목차`. `핵심 요약` is 2–3 sentences. At most 3 numbered sections, each ONE paragraph of 3–4 sentences
   (conclusion first, dash, evidence with [n]). One short table at most. Anything that does not fit the cap but
   is worth keeping goes to `## 부록 — 오늘의 기타 신호` as numbered one-sentence entries with [n] markers
   (the appendix is reference text, so single sentences per item are allowed there).
