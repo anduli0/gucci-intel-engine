@@ -23,6 +23,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import date, datetime, timedelta, timezone
@@ -347,8 +348,8 @@ REDDIT_OAUTH = "https://oauth.reddit.com"
 REDDIT_SUBS = {   # per-region subreddits for the engagement sample (official API; score + comments)
     "NEA": ["korea", "hanguk", "japan", "japanlife", "china", "hongkong", "taiwan", "kpopfashion"],
     "SEA": ["singapore", "thailand", "indonesia", "philippines", "malaysia", "vietnam"],
-    "NA": ["handbags", "fashion", "malefashionadvice", "femalefashionadvice", "luxury", "streetwear", "sneakers",
-           "nyc", "losangeles", "toronto"],
+    "NA": ["gucci", "handbags", "fashion", "malefashionadvice", "femalefashionadvice", "luxury", "streetwear",
+           "sneakers", "nyc", "losangeles", "toronto"],
     "EU": ["unitedkingdom", "london", "france", "italy", "germany", "spain", "europe", "femalefashion"],
 }
 REDDIT_GEO_NA = {"nyc", "losangeles", "toronto"}   # NA-filed subs that are truly NA (not split with EU)
@@ -364,7 +365,7 @@ def collect_reddit(ref_day, errors):
     cid, sec = os.environ.get("REDDIT_CLIENT_ID"), os.environ.get("REDDIT_CLIENT_SECRET")
     out = {r: [] for r in REGION_LANGS}
     if not (cid and sec):
-        return out
+        return collect_reddit_archive(ref_day, errors)   # official API not granted (2026-10-30)
     import base64
     ua = {"User-Agent": "gucci-intel-engagement/1.0 (by u/anduli0)"}
     try:
@@ -407,6 +408,79 @@ def collect_reddit(ref_day, errors):
                     "reach": reach, "likes": d.get("score"), "comments": d.get("num_comments"), "shares": None,
                 })
             time.sleep(1.1)
+    return out
+
+
+ARCTIC = "https://arctic-shift.photon-reddit.com/api"
+ARCTIC_UA = {"User-Agent": "gucci-intel/1.0 (non-commercial research index; contact: minkyu494@gmail.com)"}
+ARCTIC_MATURITY = "36h"   # the archive's own caveat: score/num_comments are unreliable for ~36 h after posting
+ARCTIC_PAGES = 3          # 100 posts per page per subreddit, newest first
+REDDIT_PAT = re.compile(r"gucci|구찌|グッチ|古驰|古馳|กุชชี่", re.I)
+
+
+def _arctic(path, params, errors, label):
+    url = f"{ARCTIC}/{path}?" + urllib.parse.urlencode(params)
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=ARCTIC_UA), timeout=60) as r:
+                return (json.load(r) or {}).get("data") or []
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 422) and attempt < 2:
+                time.sleep(20 * (attempt + 1))      # dynamic rate limit / timeout: slow down
+                continue
+            errors.append(f"reddit-archive {label}: HTTP {e.code}")
+            return None
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"reddit-archive {label}: {e}")
+            return None
+    return None
+
+
+def collect_reddit_archive(ref_day, errors):
+    """Reddit posts about Gucci from the Arctic Shift research archive (public mirror of
+    Reddit used by academics; no auth). Same item shape and region rule as the OAuth
+    path. Only posts older than ARCTIC_MATURITY are taken, because the archive's
+    score/num_comments for younger posts are placeholders. Per subreddit: newest
+    ARCTIC_PAGES x 100 posts inside the window, filtered locally on the brand terms
+    (the archive's keyword search is slow and times out)."""
+    out = {r: [] for r in REGION_LANGS}
+    since = (ref_day - timedelta(days=WINDOW_DAYS - 1)).isoformat()
+    subs_meta = {}
+    for region, subs in REDDIT_SUBS.items():
+        for sub in subs:
+            meta = _arctic("subreddits/search", {"subreddit": sub, "fields": "subscribers"}, errors, f"r/{sub} meta")
+            reach = (meta[0].get("subscribers") if meta else 0) or 0
+            subs_meta[sub] = reach
+            if reach < MIN_FOLLOWERS:
+                continue
+            before, got = ARCTIC_MATURITY, []
+            for _ in range(ARCTIC_PAGES):
+                page = _arctic("posts/search", {"subreddit": sub, "after": f"{WINDOW_DAYS + 2}d", "before": before,
+                                                "limit": 100, "sort": "desc",
+                                                "fields": "id,title,selftext,author,score,num_comments,created_utc,subreddit"},
+                               errors, f"r/{sub}")
+                if not page:
+                    break
+                got += page
+                if len(page) < 100:
+                    break
+                before = int(min(x.get("created_utc", 0) for x in page))
+                time.sleep(2)
+            for d in got:
+                if d.get("stickied") or not REDDIT_PAT.search((d.get("title") or "") + " " + (d.get("selftext") or "")[:2000]):
+                    continue
+                day = date.fromtimestamp(d.get("created_utc", 0)).isoformat()
+                if day < since:
+                    continue
+                out[region].append({
+                    "id": "rd:" + d.get("id", ""), "platform": "reddit", "source_type": "community", "tier": "T3",
+                    "media": "earned", "author": d.get("author"), "lang": "en", "subreddit": sub,
+                    "published_at": day, "url": f"https://www.reddit.com/r/{sub}/comments/{d.get('id', '')}/",
+                    "title": (d.get("title") or "")[:300],
+                    "reach": reach, "likes": d.get("score"), "comments": d.get("num_comments"), "shares": None,
+                    "source_note": "arctic-shift archive; metrics as of >=36h after posting",
+                })
+            time.sleep(2)
     return out
 
 

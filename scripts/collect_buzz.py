@@ -41,7 +41,7 @@ PAUSE = 0.6  # seconds between requests
 # Communities (free, no key): Reddit search RSS (descriptive UA, paced) and Lemmy.
 REDDIT_UA = {"User-Agent": "gucci-intel-buzz/1.0 (research; by u/anduli0)"}
 REDDIT_TERMS = ["gucci", "구찌", "グッチ", "古驰", "กุชชี่"]
-REDDIT_PAUSE = 10.0   # unauthenticated RSS: ~6/min before 429s
+REDDIT_PAUSE = 15.0   # unauthenticated RSS: 429s above ~4/min
 # Beta prior for splitting geo-unidentified posts between NA and EU: Reddit's
 # desktop+mobile traffic is roughly US+CA ~55% vs Europe ~20% (public traffic
 # estimates, 2025-26) -> NA share 0.73 within NA+EU, prior strength 10 posts.
@@ -78,21 +78,22 @@ def community_scan(errors):
     pat = re.compile("|".join(re.escape(x) for x in REDDIT_TERMS), re.I)
     queries = [(term, None, "https://www.reddit.com/search.rss?" + urllib.parse.urlencode(
         {"q": term, "sort": "new", "t": "week", "limit": 100})) for term in REDDIT_TERMS]
-    queries += [(f"r/{sub}", region, f"https://www.reddit.com/r/{sub}/search.rss?" + urllib.parse.urlencode(
+    # one multireddit query per block (r/a+b+c) - 4 requests instead of 34; unauthenticated RSS 429s fast
+    queries += [(f"r/{'+'.join(subs)}", region, f"https://www.reddit.com/r/{'+'.join(subs)}/search.rss?" + urllib.parse.urlencode(
         {"q": "gucci", "restrict_sr": 1, "sort": "new", "t": "week", "limit": 100}))
-        for region, subs in REDDIT_REGION_SUBS.items() for sub in subs]
+        for region, subs in REDDIT_REGION_SUBS.items()]
     for term, fixed_region, url in queries:
         xml = None
-        for attempt in range(2):
+        for attempt in range(3):
             try:
                 with urllib.request.urlopen(urllib.request.Request(url, headers=REDDIT_UA), timeout=30) as r:
                     xml = r.read().decode("utf-8", "replace")
                 break
             except Exception as ex:  # noqa: BLE001
-                if attempt == 1 or "429" not in str(ex):
+                if attempt == 2 or "429" not in str(ex):
                     errors.append(f"reddit {term}: {ex}")
                     break
-                time.sleep(40)              # rate-limited: back off once
+                time.sleep(60 * (attempt + 1))   # rate-limited: back off 60s, then 120s
         if xml is None:
             time.sleep(REDDIT_PAUSE)
             continue
@@ -103,6 +104,8 @@ def community_scan(errors):
             seen.add(link.group(1))
             title = unescape(re.search(r"<title>(.*?)</title>", e, re.S).group(1)) if "<title>" in e else ""
             sub = (re.search(r'<category term="(.*?)"', e) or [None, ""])[1].lower()
+            if sub in ("", "multi"):   # multireddit feeds label every entry 'multi' - take the sub from the link
+                sub = (re.search(r"reddit\.com/r/([^/]+)/", link.group(1)) or [None, ""])[1].lower()
             day = (re.search(r"<updated>(.*?)</updated>", e) or [None, ""])[1][:10] or None
             region = fixed_region or next((r for r, subs in GEO_SUBS.items() if sub in subs), None)
             if region is None:
