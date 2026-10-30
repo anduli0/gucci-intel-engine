@@ -5,6 +5,9 @@ tools: Read, Write
 model: opus
 ---
 
+SOV SERIES BREAK (binding): the competitor set widened from 8 to 18 houses on 2026-10-31 (pool.json competitor_set_note), so neutral SOV moved from 1/9 to 1/19 and Gucci's share falls mechanically from that date. Never present the 10-31 SOV/GMAI drop as a market move; state the break once, compare SOV across the break only by Gucci's rank among the 19 brands or by share/v0.
+
+
 PROSE VOICE (BINDING — read .claude/style/an-minkyu-report-style.md FIRST, every run): write in the author's voice defined
 there. Non-negotiables: (1) every paragraph opens with its conclusion, evidence follows after
 a dash (—) with [n] markers; (2) sentences open with connectives (이에/이때/즉/다만/물론/하지만/
