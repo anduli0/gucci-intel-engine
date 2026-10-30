@@ -41,7 +41,7 @@ PAUSE = 0.6  # seconds between requests
 # Communities (free, no key): Reddit search RSS (descriptive UA, paced) and Lemmy.
 REDDIT_UA = {"User-Agent": "gucci-intel-buzz/1.0 (research; by u/anduli0)"}
 REDDIT_TERMS = ["gucci", "구찌", "グッチ", "古驰", "กุชชี่"]
-REDDIT_PAUSE = 8.0
+REDDIT_PAUSE = 10.0   # unauthenticated RSS: ~6/min before 429s
 # Beta prior for splitting geo-unidentified posts between NA and EU: Reddit's
 # desktop+mobile traffic is roughly US+CA ~55% vs Europe ~20% (public traffic
 # estimates, 2025-26) -> NA share 0.73 within NA+EU, prior strength 10 posts.
@@ -60,13 +60,28 @@ SCRIPT_REGION = [(re.compile("[가-힣぀-ヿ一-鿿]"), "NEA"),
                  (re.compile("[฀-๿]"), "SEA")]
 
 
+# Regional subreddits scanned one by one (search RSS, no auth, no scores). Reddit's official API
+# application was declined (2026-10-30) and the public .json endpoints answer 403, so RSS is the
+# only open path: it gives discovery/volume (Buzz), not reactions (Engagement).
+REDDIT_REGION_SUBS = {
+    "NEA": ["korea", "hanguk", "japan", "japanlife", "china", "hongkong", "taiwan", "kpopfashion"],
+    "SEA": ["singapore", "thailand", "indonesia", "philippines", "malaysia", "vietnam"],
+    "NA": ["handbags", "fashion", "malefashionadvice", "femalefashionadvice", "luxury", "streetwear", "sneakers",
+           "nyc", "losangeles", "toronto"],
+    "EU": ["unitedkingdom", "london", "france", "italy", "germany", "spain", "europe", "femalefashion"],
+}
+
+
 def community_scan(errors):
-    """[(item, region or None)] from Reddit search RSS + Lemmy (last 7 days)."""
+    """[(item, region or None)] from Reddit search RSS (site-wide per term + per regional subreddit) + Lemmy (last 7 days)."""
     out, seen = [], set()
     pat = re.compile("|".join(re.escape(x) for x in REDDIT_TERMS), re.I)
-    for term in REDDIT_TERMS:
-        url = "https://www.reddit.com/search.rss?" + urllib.parse.urlencode(
-            {"q": term, "sort": "new", "t": "week", "limit": 100})
+    queries = [(term, None, "https://www.reddit.com/search.rss?" + urllib.parse.urlencode(
+        {"q": term, "sort": "new", "t": "week", "limit": 100})) for term in REDDIT_TERMS]
+    queries += [(f"r/{sub}", region, f"https://www.reddit.com/r/{sub}/search.rss?" + urllib.parse.urlencode(
+        {"q": "gucci", "restrict_sr": 1, "sort": "new", "t": "week", "limit": 100}))
+        for region, subs in REDDIT_REGION_SUBS.items() for sub in subs]
+    for term, fixed_region, url in queries:
         xml = None
         for attempt in range(2):
             try:
@@ -77,7 +92,7 @@ def community_scan(errors):
                 if attempt == 1 or "429" not in str(ex):
                     errors.append(f"reddit {term}: {ex}")
                     break
-                time.sleep(20)              # rate-limited: back off once
+                time.sleep(40)              # rate-limited: back off once
         if xml is None:
             time.sleep(REDDIT_PAUSE)
             continue
@@ -89,7 +104,7 @@ def community_scan(errors):
             title = unescape(re.search(r"<title>(.*?)</title>", e, re.S).group(1)) if "<title>" in e else ""
             sub = (re.search(r'<category term="(.*?)"', e) or [None, ""])[1].lower()
             day = (re.search(r"<updated>(.*?)</updated>", e) or [None, ""])[1][:10] or None
-            region = next((r for r, subs in GEO_SUBS.items() if sub in subs), None)
+            region = fixed_region or next((r for r, subs in GEO_SUBS.items() if sub in subs), None)
             if region is None:
                 region = next((r for rx, r in SCRIPT_REGION if rx.search(title)), None)
             out.append(({"source_type": "community", "source": f"Reddit r/{sub}", "url": link.group(1),

@@ -41,7 +41,7 @@ Structure (daily — max 3 sections):
 2. 핵심 3건 — the three defining stories, 2–3 sentences each: what happened → why it matters → who gains/loses.
 3. 떠오르는 플레이어와 워치리스트 — one paragraph: 1-2 rising brands/lines/products with the evidence (or an explicit "no rising signal today"), then the variables for the coming days, in sentences.
 Everything else the watch desk collected goes to `## 부록 — 오늘의 기타 신호` as numbered one-sentence entries (brand — signal — [n]) so nothing is lost but nothing bloats the reading text.
-(The legacy structure below describes the weekly depth; on a daily run the 4-section structure above wins.)
+(WEEKLY RUN — when /weekly-luxury calls this role with MODE=weekly: NO length cap, NO 3-section rule; use the full legacy structure below plus 주간 요약 / 브랜드별 핵심 움직임 / 카테고리 온도 / 권역 변화 / 트렌드 변곡 / 구찌 위협·기회·제언, and save to data/reports/weekly/{WEEK_END}-luxury-weekly.md. On a daily run the 3-section structure above wins.)
 Legacy structure:
 1. 오늘의 한 줄 — the single message defining today's luxury market.
 2. 핵심 3–6건 심층 해석 — the day's defining industry stories: what happened → why it matters → ripple effects (who gains/loses, category and regional knock-ons). Weight on WHY and SO WHAT; plain summarizing is failure.
