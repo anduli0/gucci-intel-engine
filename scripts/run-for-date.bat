@@ -27,7 +27,7 @@ call claude -p "/daily-gucci %D%" --dangerously-skip-permissions >> %LOG% 2>&1
 echo [%date% %time%] 3/3 daily-brief %D% >> %LOG%
 call claude -p "/daily-brief %D%" --dangerously-skip-permissions >> %LOG% 2>&1
 
-for /f %%W in ('powershell -NoProfile -Command "([datetime]'%D%').DayOfWeek.value__"') do set DOW=%%W
+for /f %%W in ('python scripts\dow.py %D%') do set DOW=%%W
 if "%DOW%"=="5" (
   echo [%date% %time%] friday: weekly-review %D% >> %LOG%
   call claude -p "/weekly-review %D%" --dangerously-skip-permissions >> %LOG% 2>&1
