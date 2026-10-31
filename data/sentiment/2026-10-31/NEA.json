@@ -1,0 +1,7 @@
+[
+{"id":"NEA-2026-10-31-001","region":"NEA","sentiment":-1,"magnitude":1.0,"rationale":"thesis: Q3 -6% missed -3.3% consensus, flagship recovery 'cools' on China footfall / counter: none","signal_tags":["negative_earnings","china_footfall","store_closures"],"confidence":0.9},
+{"id":"NEA-2026-10-31-002","region":"NEA","sentiment":-1,"magnitude":1.0,"rationale":"thesis: Reuters frames Gucci China revenue fall as setback with outlook doubt / counter: none","signal_tags":["negative_earnings","china_footfall","leadership_doubt"],"confidence":0.85},
+{"id":"NEA-2026-10-31-003","region":"NEA","sentiment":-1,"magnitude":1.0,"rationale":"thesis: turnaround hopes hit, three-plus years of China decline, Demna under pressure / counter: none","signal_tags":["negative_earnings","turnaround_doubt","china_footfall"],"confidence":0.85},
+{"id":"NEA-2026-10-31-004","region":"NEA","sentiment":-1,"magnitude":0.5,"rationale":"thesis: Gucci APAC traffic slump contrasted with Hermes/Korea strength / counter: conversion and prices held; piece is industry-wide","signal_tags":["mixed","china_footfall","peer_comparison"],"confidence":0.6},
+{"id":"NEA-2026-10-31-005","region":"NEA","sentiment":0,"magnitude":0.5,"rationale":"thesis: neutral financial-wire recap of Q3 figures / counter: negative figure stated without framing","signal_tags":["negative_earnings"],"confidence":0.8}
+]

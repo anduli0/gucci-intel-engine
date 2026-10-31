@@ -1,0 +1,129 @@
+{
+ "items": [
+  {
+   "id": "NEA-2026-10-31-001",
+   "region": "NEA",
+   "source": "Wallstreetcn (华尔街见闻)",
+   "source_type": "news",
+   "tier": "T2",
+   "url": "https://wallstreetcn.com/articles/3784242",
+   "published_at": "2026-10-22",
+   "title": "中国客流不振，开云王牌复苏遇冷：Gucci Q3销售下滑6%",
+   "summary": "Gucci Q3 comparable sales fell 6% to EUR1.291bn versus about 3.3% decline expected; directly operated stores down 9%. Kering blames lower footfall in mainland China and Japan; 105 net store closures in nine months, at least 125 targeted for the year.",
+   "reach": null,
+   "likes": null,
+   "comments": null,
+   "shares": null
+  },
+  {
+   "id": "NEA-2026-10-31-002",
+   "region": "NEA",
+   "source": "Business Day (Reuters)",
+   "source_type": "news",
+   "tier": "T1",
+   "url": "https://www.businessday.co.za/world/international-companies/2026-10-22-kering-faces-setback-as-gucci-revenue-falls-in-china/",
+   "published_at": "2026-10-22",
+   "title": "Kering faces setback as Gucci revenue falls in China",
+   "summary": "Reuters report: Gucci Q3 sales fell to EUR1.29bn on weak China traffic; Gucci is about half of Kering group profit; leadership shake-ups add outlook doubt.",
+   "reach": null,
+   "likes": null,
+   "comments": null,
+   "shares": null
+  },
+  {
+   "id": "NEA-2026-10-31-003",
+   "region": "NEA",
+   "source": "Manila Times (Reuters)",
+   "source_type": "news",
+   "tier": "T1",
+   "url": "https://www.manilatimes.net/2026/10/24/business/foreign-business/kering-turnaround-hopes-hit-by-drop-in-gucci-sales/2452753",
+   "published_at": "2026-10-24",
+   "title": "Kering turnaround hopes hit by drop in Gucci sales",
+   "summary": "Gucci down 6% in Q3 as shoppers stayed away; China traffic is the main problem after three-plus years of decline. Demna nears first full year under pressure; first sneakers reportedly produced in China.",
+   "reach": null,
+   "likes": null,
+   "comments": null,
+   "shares": null
+  },
+  {
+   "id": "NEA-2026-10-31-004",
+   "region": "NEA",
+   "source": "Inside Retail Asia",
+   "source_type": "news",
+   "tier": "T2",
+   "url": "http://insideretail.asia/2026/10/27/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore/",
+   "published_at": "2026-10-27",
+   "title": "How the third quarter shows luxury industry can't rely on walk-ins anymore",
+   "summary": "Gucci traffic is the constraint in APAC (China, Japan) while conversion and prices held; Hermes grew 9.6% in Japan and Korea was a bright spot, contrasting Gucci's slump.",
+   "reach": null,
+   "likes": null,
+   "comments": null,
+   "shares": null
+  },
+  {
+   "id": "NEA-2026-10-31-005",
+   "region": "NEA",
+   "source": "Ad-hoc-news",
+   "source_type": "news",
+   "tier": "T2",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-stock-gucci-sales-fall-6-as-q3-revenue-stays-flat/70433933",
+   "published_at": "2026-10-23",
+   "title": "Kering stock: Gucci sales fall 6% as Q3 revenue stays flat",
+   "summary": "Financial wire recap of Kering Q3: Gucci comparable -6%, group revenue flat; footfall in Asia Pacific cited.",
+   "reach": null,
+   "likes": null,
+   "comments": null,
+   "shares": null
+  }
+ ],
+ "mention_counts": {
+  "Gucci": 5,
+  "Kering": 5,
+  "Louis Vuitton": 0,
+  "Dior": 0,
+  "Chanel": 0,
+  "Prada": 0,
+  "Bottega Veneta": 0,
+  "Saint Laurent": 0,
+  "Balenciaga": 0,
+  "Burberry": 0,
+  "Hermes": 1,
+  "LVMH": 0
+ },
+ "coverage": {
+  "checked": [
+   "Wallstreetcn",
+   "Reuters (syndicated)",
+   "Inside Retail Asia",
+   "Vogue Korea (search)",
+   "FashionSnap/WWD Japan (search)",
+   "Naver Cafe/Blog",
+   "DC Inside/theqoo",
+   "5channel/Chiebukuro",
+   "Weibo",
+   "Xiaohongshu",
+   "Douyin",
+   "YouTube",
+   "Instagram/X",
+   "Reddit (search blocked)"
+  ],
+  "with_hits": [
+   "Wallstreetcn",
+   "Reuters (syndicated)",
+   "Inside Retail Asia",
+   "Ad-hoc-news"
+  ],
+  "dry": [
+   "Naver Cafe/Blog",
+   "DC Inside/theqoo",
+   "5channel/Chiebukuro",
+   "Weibo",
+   "Xiaohongshu",
+   "Douyin",
+   "YouTube",
+   "Instagram/X",
+   "Reddit"
+  ]
+ },
+ "note": "Thin day: only Kering Q3 (Oct 22) coverage within 14 days; no verifiable fresh sns/community items found via search; critical searches surfaced only earnings-miss coverage and older (>14d) items, excluded."
+}
