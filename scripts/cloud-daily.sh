@@ -10,13 +10,9 @@ cd "$(dirname "$0")/.."
 # time — otherwise the honesty gate below false-fails and aborts a good cycle.
 START_DAY=$(date +%F)
 
-# methodology/ is NOT in the repository (trade secret). The agent prompts read
-# it at runtime, so restore it from the METHODOLOGY_B64 secret (base64 tgz).
-if [ -n "${METHODOLOGY_B64:-}" ] && [ ! -d methodology ]; then
-  echo "$METHODOLOGY_B64" | base64 -d | tar -xzf - && echo "methodology/ restored from secret"
-fi
+# methodology/ ships in the repository (public, as originally). Fail loudly if a checkout lacks it.
 if [ ! -f methodology/gmai-formula.md ]; then
-  echo "ERROR: methodology/ missing and METHODOLOGY_B64 not set - the labeling/fact-check contracts would be silently skipped" >&2
+  echo "ERROR: methodology/gmai-formula.md missing from the checkout" >&2
   exit 1
 fi
 
