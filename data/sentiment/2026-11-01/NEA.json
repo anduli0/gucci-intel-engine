@@ -1,0 +1,170 @@
+[
+  {
+    "id": "NEA-2026-11-01-001",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering's worst-ever single-day stock drop tied directly to Gucci's 6% Q3 sales decline; headline frames Gucci as cause of industry 'winter'.",
+    "signal_tags": ["negative_earnings", "stock_selloff"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-01-002",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reports 16% Kering share plunge attributed to weak Gucci Q3, with investor anxiety over turnaround timeline and China exposure.",
+    "signal_tags": ["negative_earnings", "stock_selloff"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-01-003",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Covers 16%+ intraday Kering share collapse driven by continued Gucci weakness and turnaround uncertainty, with Asia traffic as persistent drag.",
+    "signal_tags": ["negative_earnings", "stock_selloff"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-01-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: smaller-than-feared decline plus early signs of Demna-led recovery / counter: Gucci sales still falling overall; two-sided weigh-up without a clean verdict.",
+    "signal_tags": ["mixed", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-01-005",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade report on Kering's 10% Q3 revenue decline citing Gucci's continued underperformance as primary drag; factual framing but clearly negative attribution.",
+    "signal_tags": ["negative_earnings"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-01-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci's brand recognition has become a liability, lacking distinctive narrative to pull back shoppers; 9% DOS sales decline cited as evidence.",
+    "signal_tags": ["design_criticism", "negative_earnings", "china"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-01-007",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent analyst (Bernstein's Solca) scored Demna's debut show 7.6/10 as 'not a home run', calling shoes/handbags boring and leggings cheap-looking; unfavorable independent trade-press critique.",
+    "signal_tags": ["design_criticism", "critic_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-01-008",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: break from Italian-manufacturing identity framed via brand's own defense / counter: industry watchers warn it could erode high-end image; mixed but decided toward risk to brand positioning.",
+    "signal_tags": ["mixed", "quality_perception"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-01-009",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Korean trade coverage frames Kering's 16% Q3 sales decline as part of an open-ended luxury downturn, citing Gucci as central drag.",
+    "signal_tags": ["negative_earnings"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-01-010",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares fall over 10% to lowest since June 2025, directly attributed to Gucci weakness and investor skepticism about recovery plan.",
+    "signal_tags": ["negative_earnings", "stock_selloff"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-01-011",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Follow-up on Kering share rout framing Gucci's struggles as emblematic of sector-wide slowdown, somewhat diluting brand-specific blame.",
+    "signal_tags": ["negative_earnings", "stock_selloff"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-01-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive pop-up/product write-up (Isetan Shinjuku exclusive accessories) with no independent evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-01-013",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Templated FAQ-style Weibo account summarizing known facts (Demna debut, store closures, China-made sneakers) with no clear evaluative stance; farmed-content format damped.",
+    "signal_tags": ["mixed", "farmed_content"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-01-014",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Consumer-advice post discussing narrowed China/overseas price gap after cuts; informational framing, no clear brand verdict either way.",
+    "signal_tags": ["mixed", "pricing"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-01-015",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Peer comparison post (Gucci vs Prada positioning) citing price cuts as context; no decisive verdict favoring either brand in the summary, treated as informational/mixed.",
+    "signal_tags": ["mixed", "peer_comparison", "pricing"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NEA-2026-11-01-016",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Weibo thread claims Gucci raised popular handbag prices 10%+ (Horsebit 1955), part of consumer backlash narrative on price hikes; conflicting with other threads so magnitude capped.",
+    "signal_tags": ["price_hike_backlash", "mixed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-01-017",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregator digest merely lists Gucci among trending fashion topics for the day with no evaluative content.",
+    "signal_tags": ["incidental_mention"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-01-018",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community repost reviving critical piece questioning Gucci's choice of Gyeongbokgung Palace, reopening cultural-appropriateness debate; undated so magnitude damped.",
+    "signal_tags": ["controversy", "cultural_sensitivity"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-01-019",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Background 2023 article on Gyeongbokgung after-party noise controversy; outside freshness window, retained only as context, so magnitude damped despite negative content.",
+    "signal_tags": ["controversy", "stale_context"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-01-020",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consumer-angle piece amplifying criticism that luxury houses including Gucci practice 'arrogant markup' price hikes specifically in Korea without transparency.",
+    "signal_tags": ["price_hike_backlash"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-01-021",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Made-in-China sneaker move divides opinion / counter: some see pragmatic supply-chain logic, others see heritage dilution; genuine two-sided piece with no verdict.",
+    "signal_tags": ["mixed"],
+    "confidence": 0.6
+  }
+]

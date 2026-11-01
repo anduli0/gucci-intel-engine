@@ -1,0 +1,82 @@
+[
+  {
+    "id": "SEA-2026-11-01-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press coverage of Q3 Gucci sales decline (-6% ccy-adj), weak China footfall, and accelerating store closures; sustained negative earnings/momentum framing.",
+    "signal_tags": [
+      "negative_earnings",
+      "china_weakness",
+      "store_closures"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-01-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of brand-staged Gucci Visions pop-up at EMSPHERE Bangkok with no outlet evaluative verdict.",
+    "signal_tags": [
+      "activation_coverage",
+      "pop_up"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-01-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Direct retail comps fell 9%; Kering extends China adjustment period to 12-24 months and raises store-closure target — sustained negative earnings/momentum framing.",
+    "signal_tags": [
+      "negative_earnings",
+      "china_weakness",
+      "store_closures"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-01-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Thai ambassador fan-account livestream post outside freshness window with thin engagement (71 likes); fandom-spike trap and low confidence demote polarity to neutral.",
+    "signal_tags": [
+      "fandom",
+      "ambassador",
+      "stale",
+      "low_confidence"
+    ],
+    "confidence": 0.35
+  },
+  {
+    "id": "SEA-2026-11-01-006",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Grassroots (non-brand-run) TikTok shopping/haul clips at new Phuket boutique reflect organic consumer purchase-intent/retail-tourism buzz, though per-post metrics unverifiable.",
+    "signal_tags": [
+      "purchase_intent",
+      "ugc",
+      "retail_tourism"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-01-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Recurring Indonesian boycott-controversy narrative over unverified pro-Israel claim; stale (2024) and unverified, so confidence < 0.5 demotes polarity from -1 to neutral per rubric.",
+    "signal_tags": [
+      "boycott_risk",
+      "controversy",
+      "unverified",
+      "stale",
+      "low_confidence"
+    ],
+    "confidence": 0.4
+  }
+]

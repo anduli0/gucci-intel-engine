@@ -1,0 +1,204 @@
+[
+  {
+    "id": "NA-20261101-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Q3 comps fell 6%, worse than expected, turnaround faltering / counter: none -- sustained negative framing of momentum and investor confidence",
+    "signal_tags": [
+      "negative_earnings",
+      "momentum"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261101-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci's sales slide cited as evidence of broad sector red flag amid falling US luxury spend / counter: none -- clear negative momentum framing",
+    "signal_tags": [
+      "negative_earnings",
+      "sector_comparison"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20261101-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering shares drop sharply on Gucci sales miss / counter: CEO reaffirms turnaround plan -- reassurance doesn't flip the dominant negative-earnings thesis",
+    "signal_tags": [
+      "negative_earnings",
+      "stock_reaction"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20261101-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci's US/China exposure compounds Kering's slump / counter: JPMorgan analyst says brand-desirability progress is early-stage but real -- mixed-but-decided negative, magnitude capped",
+    "signal_tags": [
+      "negative_earnings",
+      "mixed"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20261101-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Primavera campaign roster with no independent critical verdict -- activation coverage discount applies",
+    "signal_tags": [
+      "activation_coverage"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20261101-006",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: trade experts score Demna's debut 7.6/10, 'more good than bad', improvement on predecessor / counter: still far from a home run -- mixed-but-decided positive, independent critic judgment, magnitude capped",
+    "signal_tags": [
+      "critic_review",
+      "mixed"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20261101-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci posts steepest brand-value decline (-30.7%) of any luxury house, dropping 24 places -- independent quantified third-party ranking, unambiguous negative",
+    "signal_tags": [
+      "brand_value",
+      "quantified_data"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261101-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: US shoppers pulling back on Gucci amid aggressive price hikes without Hermes-level exclusivity / counter: none decisive -- value-for-money criticism, moderate specificity",
+    "signal_tags": [
+      "price_backlash",
+      "value_for_money"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20261101-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: posters mix excitement over archival Flora print with durability skepticism / counter: both sides present, no clear verdict -- genuine two-sided community discussion",
+    "signal_tags": [
+      "mixed",
+      "quality_concern"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261101-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: long-running thread airs contrarian takes on design direction and value, explicitly mixed between loyalists and critics with no resolution -- genuine two-sided, no verdict",
+    "signal_tags": [
+      "mixed"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261101-011",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: organic community QC criticism -- canvas wear/ripping, belt-bag durability doubts, handle peeling and color transfer -- independent of any news hook, clear and specific",
+    "signal_tags": [
+      "quality_concern",
+      "organic"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20261101-012",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "No fresh thread surfaced; dry search result, nothing to label -- neutral placeholder, no content signal",
+    "signal_tags": [
+      "no_signal"
+    ],
+    "confidence": 0.3
+  },
+  {
+    "id": "NA-20261101-013",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: celebratory repost of runway moment still circulating / counter: comments split between fans and critics of styling -- mixed reaction, no clear dominant verdict, damped per fandom-spike trap",
+    "signal_tags": [
+      "mixed",
+      "fandom",
+      "activation_coverage"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-20261101-014",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo post (Jin portrait); self-praise/engagement metrics are not public opinion -- activation coverage, neutral per rubric",
+    "signal_tags": [
+      "activation_coverage",
+      "brand_owned"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20261101-015",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: critic questions whether Demna's direction is substantively new vs. a Tom Ford retread / counter: no firm verdict either way -- genuine two-sided independent review, no decision",
+    "signal_tags": [
+      "mixed",
+      "critic_review"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20261101-016",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-news account post on ambassador campaign imagery; positive reply sentiment is ambassador/fandom enthusiasm toward Mendes, not a brand-quality judgment -- fandom trap, damped to neutral",
+    "signal_tags": [
+      "fandom",
+      "activation_coverage"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20261101-018",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: sales fell 6%, store-closure target raised to 125+, ~40% of 2025 closures are Gucci outlet/discount doors -- sustained negative framing of earnings and retail footprint retreat",
+    "signal_tags": [
+      "negative_earnings",
+      "store_closures"
+    ],
+    "confidence": 0.75
+  }
+]

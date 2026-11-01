@@ -1,0 +1,119 @@
+[
+  {
+    "id": "EU-20261101-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: new flagship is the blueprint for a global retail overhaul / counter: BoF frames it as an unproven bet that design alone can reverse the sales slump, no verdict reached",
+    "signal_tags": ["activation_coverage", "mixed", "store_opening"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261101-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of flagship store concept; notes planned 30% global store-count reduction as neutral factual context",
+    "signal_tags": ["activation_coverage", "negative_earnings", "store_strategy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261101-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering/Gucci has no clear growth market left as China stalls and US slows / counter: none offered, unambiguous negative verdict from independent trade press",
+    "signal_tags": ["negative_earnings", "momentum", "trade_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261101-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares fell 16.5% after Gucci DTC sales missed consensus, multiple banks cut price targets; clear negative momentum press with market contagion",
+    "signal_tags": ["negative_earnings", "stock_reaction", "analyst_downgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261101-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci revenue nearly halved amid quality concerns, logo oversaturation and mass store closures / counter: none, sustained crisis framing throughout",
+    "signal_tags": ["negative_earnings", "quality_complaint", "store_closures", "design_criticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261101-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: De Meo admits prices were pushed too high and is reversing course / counter: framed as proactive strategy fix, but underlying admission confirms years of overpricing backlash and antitrust fine",
+    "signal_tags": ["price_hike_backlash", "mixed", "value_for_money"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261101-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Legal/trade recap of year-old EUR157m EU antitrust fine, still cited today as evidence of Gucci's ongoing pricing credibility problem in Europe",
+    "signal_tags": ["controversy", "pricing_credibility", "legacy_story"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261101-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade write-up of the Paris flagship rollout and future Place Vendome mega-flagship; no independent evaluative verdict, positions it within brand's own reinvention narrative",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261101-09",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned SNS promo thread for Gucci Memoria exhibition; self-praise is not public opinion per rubric, regardless of recirculation",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261101-10",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Demna's Gucci direction is 'idiotic' / counter: others call it a smart archive-referencing rescue; explicitly split aggregated reaction content, no net verdict",
+    "signal_tags": ["mixed", "design_criticism", "fandom"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261101-11",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community thread dissecting SS27 runway show comparatively across eras; descriptive discussion activity, no stated collective verdict surfaced",
+    "signal_tags": ["community_discussion"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-20261101-12",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum recap ties new campaign to Tom Ford-era aesthetic / counter: recurring community critique calls prior installments in the same series 'uninspired' and 'trash', signaling fatigue with archive-recycling; organic negative reaction not subject to activation cap",
+    "signal_tags": ["design_criticism", "activation_coverage", "mixed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261101-13",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "No dated thread activity within freshness window; source checked but yielded no signal, retained only as coverage evidence",
+    "signal_tags": ["no_signal", "coverage_check"],
+    "confidence": 0.3
+  }
+]
