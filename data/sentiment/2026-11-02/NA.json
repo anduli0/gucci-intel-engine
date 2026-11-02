@@ -1,0 +1,128 @@
+[
+  {
+    "id": "NA-20261102-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 earnings report: organic sales -6%, NA growth decelerated sharply to -10% QoQ swing; sustained negative framing of a miss.",
+    "signal_tags": ["negative_earnings", "financial_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261102-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock tumble (worst single-day move) directly tied to Gucci comparable-sales miss; headline-level negative momentum press.",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261102-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregator (verification_required tier) coverage of raised store-closure target and sales decline; negative but lower source reliability caps magnitude.",
+    "signal_tags": ["negative_earnings", "store_closures", "low_tier_source"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20261102-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent legal-trade coverage of Gucci's counterfeit lawsuit against off-price retailers; authentication/counterfeit trust-damage trap, not brand promo.",
+    "signal_tags": ["counterfeit", "legal", "retail_channel_trust"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261102-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci's sales slide is the lead example of a broad US luxury demand red flag / counter: none, unambiguous sector-negative framing.",
+    "signal_tags": ["negative_earnings", "sector_demand", "independent_analysis"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20261102-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive partnership announcement write-up with no independent evaluative verdict; activation coverage discount applies.",
+    "signal_tags": ["activation_coverage", "product_partnership"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20261102-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive campaign write-up (what/who/where) explicitly tagged activation_coverage; no independent verdict rendered.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20261102-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade reporting on managerial restructuring/appointments; descriptive organizational news without an independent positive/negative verdict.",
+    "signal_tags": ["management_change", "factual_reporting"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261102-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: some find SS27 a confident coherent statement / counter: others call it repetitive and under-designed -- genuine two-sided community split with no verdict.",
+    "signal_tags": ["mixed", "runway_reaction", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261102-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: recurring canvas/leather wear issues raise doubt on repair-vs-resale value / counter: divided opinions on whether repair is worth it -- quality complaint dominates.",
+    "signal_tags": ["mixed", "quality_complaint", "resale_value"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20261102-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: SS27 reaction thread debates whether Demna has 'found his groove' / counter: no, genuine two-sided social reaction with no settled verdict.",
+    "signal_tags": ["mixed", "runway_reaction", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20261102-012",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador's own post drawing enthusiastic fan replies; fandom-trap discount caps magnitude despite viral-scale likes.",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261102-013",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: US shoppers defecting from Gucci due to aggressive post-pandemic price hikes without Hermes-level exclusivity / counter: none offered -- unambiguous independent critical verdict.",
+    "signal_tags": ["price_hike_backlash", "value_for_money", "independent_analysis"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20261102-014",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Dry check recorded -- no fresh indexable content surfaced, no polarity to assign.",
+    "signal_tags": ["dry_check", "no_content"],
+    "confidence": 0.5
+  }
+]

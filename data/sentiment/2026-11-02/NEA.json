@@ -1,0 +1,137 @@
+[
+  {
+    "id": "nea-2026-11-02-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline-level panic framing: Kering's worst-ever single-session drop (-16.57%) and ~50% one-year decline tied directly to Gucci's Q3 sales miss.",
+    "signal_tags": ["negative_earnings", "stock_crash"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-11-02-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained negative framing ('cooling', 'fatigue') naming Gucci's 6% sales decline and Kering's ~40% stock drop as the sharpest case in a sector-wide pricing-power unwind.",
+    "signal_tags": ["price_hike_backlash", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-11-02-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Thesis: >16% intraday stock plunge deepens doubts about Demna-era turnaround, with China weakness as central drag; no countervailing verdict.",
+    "signal_tags": ["negative_earnings", "stock_crash", "china_weakness"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-11-02-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Concrete price cuts, 125 planned store closures, and severe resale depreciation (21,000 yuan bag reselling for 2,800-4,500 yuan) with explicit advice to abandon value-retention expectations.",
+    "signal_tags": ["price_cut", "resale_depreciation", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-11-02-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual price-gap explainer advising where to buy cheaper; no evaluative stance toward the brand itself.",
+    "signal_tags": ["price_gap"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-11-02-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: runway reinvention under Demna / counter: 105 net store closures and manufacturing shift to China framed as retrenchment -- genuine two-sided summary with no verdict.",
+    "signal_tags": ["store_closures", "made_in_china", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-11-02-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: show deliberately stages tension/provocation as artistic strategy / counter: reading stays analytical rather than endorsing or condemning the collection -- independent critique without clear verdict.",
+    "signal_tags": ["mixed", "critic_review"],
+    "confidence": 0.55
+  },
+  {
+    "id": "nea-2026-11-02-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Thesis: Demna's approach is derivative Balenciaga tactics imported wholesale rather than a genuine new direction, framed skeptically.",
+    "signal_tags": ["design_criticism"],
+    "confidence": 0.65
+  },
+  {
+    "id": "nea-2026-11-02-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade-press roundup reporting Kering/Gucci among all major groups struggling in China amid weakening consumer sentiment.",
+    "signal_tags": ["negative_earnings", "china_weakness"],
+    "confidence": 0.7
+  },
+  {
+    "id": "nea-2026-11-02-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reports Korean consumers' former willingness to queue despite price hikes is breaking down, including for Gucci, as sector sales growth decelerates.",
+    "signal_tags": ["price_hike_backlash"],
+    "confidence": 0.65
+  },
+  {
+    "id": "nea-2026-11-02-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive weekly trend digest with incidental Gucci mention; no evaluative verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.75
+  },
+  {
+    "id": "nea-2026-11-02-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-issued press release announcing a pop-up and Japan-exclusive tote; self-praise is not public opinion per activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-11-02-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign write-up listing wardrobe items with no critical framing; brand-owned promo discounted to neutral.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-11-02-014",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive celebrity-business coverage of ambassador's multiple deals; no evaluative verdict on Gucci itself, and fandom-driven coverage damped to neutral.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.7
+  },
+  {
+    "id": "nea-2026-11-02-015",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual show-scheduling announcement (LA show date) with no independent evaluative content; activation coverage discounted to neutral.",
+    "signal_tags": ["activation_coverage", "show_announcement"],
+    "confidence": 0.8
+  }
+]

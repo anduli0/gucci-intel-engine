@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SEA-2026-11-02-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Q3 Gucci sales drop undercuts Kering turnaround hopes amid store closures / counter: CEO pressing margin plan — headline+lede framing is negative momentum, independent earnings-critical coverage",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-02-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci's footfall-dependent retail model is structurally failing in APAC / counter: none, peers like Hermes outperform by contrast — independent analytical trade press",
+    "signal_tags": ["negative_earnings", "peer_comparison", "structural_weakness"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-02-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: headline 'sales plunge/free-fall' frames Gucci revenue miss and Kering share drop as crisis / counter: jewelry and eyewear offsetting — sustained negative framing overrides neutral-analytical body",
+    "signal_tags": ["negative_earnings", "stock_drop"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-02-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of brand-staged Gucci Visions pop-up with no outlet evaluative verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-02-005",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: review praises Demna's SS27 show as hitting commercial/creative sweet spot with 'expensive swagger' / counter: none offered — one-sided celebratory tone capped under activation-adjacent discount",
+    "signal_tags": ["activation_coverage", "runway_review"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-02-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Social amplification of Q3 earnings miss framed as undercutting CEO's hoped-for rapid turnaround; negative but low-intensity single-line social post",
+    "signal_tags": ["negative_earnings", "social_amplification"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-02-007",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan account enthusiasm for ambassador Gulf Kanawut at reopened Bangkok flagship; fandom trap + activation_coverage damp to mild positive",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-02-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Grassroots TikTok retail-tourism/haul content around limited-edition Phuket tote; descriptive interest without explicit praise or purchase-intent statement captured",
+    "signal_tags": ["grassroots", "scarcity_mention"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-11-02-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: liked attitude/styling, one piece seen as memorable / counter: no standout pieces, pricing questioned on a blazer — genuine two-sided community read with no clear verdict",
+    "signal_tags": ["mixed", "community_opinion", "runway_review"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-02-010",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Background counterfeit crackdown coverage ties Gucci name to large-scale fake goods networks in Vietnam; mild-negative per counterfeit trap, excluded from fresh-item scoring",
+    "signal_tags": ["counterfeit", "background_only"],
+    "confidence": 0.55
+  }
+]

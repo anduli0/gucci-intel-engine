@@ -1,0 +1,119 @@
+[
+  {
+    "id": "EU-20261102-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual recap of a management appointment (recirculated year-old news); no evaluative framing either way.",
+    "signal_tags": ["leadership", "organizational", "stale_recirculation"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-20261102-02",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci revenue fell 4% (-6% LFL) and missed consensus, retail down 9% y/y, worse than estimates / counter: none offered — unambiguous negative earnings framing.",
+    "signal_tags": ["negative_earnings", "retail_decline"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261102-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares fell >11% explicitly attributed to Gucci's weak results, dragging the European luxury sector down; sustained negative framing, clear single-direction verdict.",
+    "signal_tags": ["negative_earnings", "market_reaction", "sector_contagion"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261102-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Analyst Hold/Underweight ratings and price-target cuts citing continued Gucci softness as the primary drag; factual wire note rather than emotionally charged, so moderate magnitude.",
+    "signal_tags": ["negative_earnings", "analyst_rating"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261102-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Bernstein analyst calls Demna debut 'more good than bad' (7.6/10) / counter: still fails to convincingly link to Gucci's historic identity — genuine two-sided professional verdict with no clean winner.",
+    "signal_tags": ["mixed", "creative_direction", "analyst_commentary"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261102-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: independent critic argues Demna's AW26 Gucci replaced historic romanticism with a flattened, hyper-sexualized aesthetic / counter: none — unambiguous, emotionally charged critical verdict from third-party reviewer.",
+    "signal_tags": ["creative_direction", "critic_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261102-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of brand-staged Paris flagship opening, no independent verdict offered; neutral per activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "retail_expansion"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261102-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo content on store opening; self-promotion is not public opinion per rubric, excluded from earned sentiment.",
+    "signal_tags": ["activation_coverage", "owned_channel"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261102-09",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent fan/consumer commentary favorable toward campaign execution ('Kate is selling the heck out of these bags'); fandom-adjacent and ambassador-driven so capped at moderate magnitude.",
+    "signal_tags": ["ambassador", "campaign_reaction", "fandom"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261102-10",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: genuine two-sided forum debate on Demna debut — some call it 'a caricature' with 'vulgar' styling / counter: others say it's an improvement over De Sarno era — no single verdict, coded neutral/mixed.",
+    "signal_tags": ["mixed", "creative_direction", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261102-11",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregated TikTok tag spanning enthusiastic unboxings to skeptical 'is it worth it' takes with no verifiable engagement metrics; genuinely mixed volume with no dominant thesis.",
+    "signal_tags": ["mixed", "sns_volume", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-20261102-12",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual summary of leadership overhaul for trade-watching audience; descriptive recirculation of stale appointment news, no evaluative stance.",
+    "signal_tags": ["leadership", "organizational", "stale_recirculation"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261102-13",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "No new activity within freshness window; included only as evidence the source was checked, not a dated signal — neutral by default.",
+    "signal_tags": ["dry_source", "no_signal"],
+    "confidence": 0.3
+  }
+]
