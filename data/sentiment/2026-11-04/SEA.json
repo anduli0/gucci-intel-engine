@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SEA-2026-11-04-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own holiday campaign (who stars, what it contains); no independent evaluative verdict from the outlet.",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-04-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Localized descriptive coverage of the same holiday campaign (gifting edit, festive tone); no critical or evaluative judgment offered.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-04-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive campaign write-up noting the Butterfly collection/album tie-in; press-kit-derived framing, no independent verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-04-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual cataloguing of ambassador Gulf Kanawut's brand ties including Gucci; descriptive roundup, not a demand or praise signal.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-04-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: headline/lede foreground Gucci organic sales down 6% and APAC retail down 8% with China as principal weakness / counter: South Korea shows continued momentum, but this is a minor qualifier not the dominant thesis.",
+    "signal_tags": ["negative_earnings", "trade_press", "business_risk"],
+    "confidence": 0.85
+  }
+]

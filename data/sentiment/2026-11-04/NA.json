@@ -1,0 +1,119 @@
+[
+  {
+    "id": "NA-20261104-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive writeup of Gucci's own holiday campaign launch (Mariah Carey/Korine); press-kit derived, no independent verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261104-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Straight event/party reporting on brand-staged cocktail activation; purely descriptive, no evaluative framing.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261104-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity press amplifies campaign and price-extravagance framing but offers no independent evaluative verdict on the brand.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20261104-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Gucci North America comps swing to roughly -10%, CFO concedes performance 'not where we want it to be', net store closures; clear negative earnings narrative.",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261104-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares tumble on Gucci miss vs consensus; analysts (Deutsche Bank, JPMorgan) explicitly state no convincing stabilisation yet.",
+    "signal_tags": ["negative_earnings", "investor_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261104-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sober trade-press earnings recap of Gucci's 6% organic decline and expanded store-closure count; factual but clearly negative-framed miss.",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20261104-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: critics split on Demna debut, mid-pack score vs peers / counter: defenders praise storytelling and concept — genuine two-sided weigh-up with no verdict.",
+    "signal_tags": ["mixed", "creative_direction", "critic_review"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20261104-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum poster liked attitude/styling, called it very commercial / counter: felt no standout pieces — two-sided community take, no clear verdict.",
+    "signal_tags": ["mixed", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261104-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Street-style bag roundup is descriptive/enthusiast community content, not a critical evaluation.",
+    "signal_tags": ["activation_coverage", "community"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20261104-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Third-party analytics show Gucci Instagram engagement rate below category average; quantified independent signal of demand softness.",
+    "signal_tags": ["sns_metrics", "engagement_underperformance"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261104-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregator reports directional buzz-volume figures with no evaluative framing attached; purely descriptive metrics.",
+    "signal_tags": ["sns_metrics"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20261104-012",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci under Demna 'has lost the plot' and feels cheap to insiders / counter: may be commercially working with broader audience — dominant headline thesis is critical, so decided negative with diluted magnitude.",
+    "signal_tags": ["mixed", "creative_direction", "critic_review"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20261104-013",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade coverage of new store-concept rollout to Avenue Montaigne; no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "retail_strategy"],
+    "confidence": 0.8
+  }
+]

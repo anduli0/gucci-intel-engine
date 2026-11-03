@@ -1,0 +1,128 @@
+[
+  {
+    "id": "NEA-20261104-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci-staged holiday campaign (Mariah Carey/Harmony Korine) — activation coverage, no independent verdict",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20261104-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive product-launch announcement for Gucci Beauty holiday line, no evaluative stance",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20261104-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade press confirms product lineup and launch date with no critical judgment — descriptive activation coverage",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20261104-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: luxury demand cooling sharply on price-hike fatigue, explicitly citing Gucci's own 6% YoY revenue decline / counter: none, framing is unambiguously negative momentum",
+    "signal_tags": ["negative_earnings", "price_fatigue", "momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20261104-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: department-store luxury growth collapse tied directly to Kering/Gucci's deteriorating equity story, including a 16% single-day share price drop / counter: none, sustained negative framing",
+    "signal_tags": ["negative_earnings", "stock_decline", "price_fatigue"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20261104-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Made-in-China sneaker risks weakening Gucci's luxury brand image per analyst warning amid falling sales / counter: Gucci says Italy stays core, but headline and analyst verdict dominate",
+    "signal_tags": ["brand_image_risk", "manufacturing_origin", "negative_earnings"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-20261104-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Made-in-China sneaker generates discussion / counter: analyst downplays stigma as normal practice, pricing framed as unchanged — genuine two-sided piece with no clear verdict",
+    "signal_tags": ["mixed", "manufacturing_origin", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20261104-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: contradiction between steep bag discounts and flat sneaker pricing fuels wait-and-see consumer skepticism / counter: none, reflects value-for-money distrust rather than enthusiasm",
+    "signal_tags": ["value_for_money", "mixed", "discount_image"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-20261104-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: China-made sneaker priced on par with overseas tags despite local manufacturing, cited by commenters as Gucci not passing on cost savings / counter: none, value-for-money grievance",
+    "signal_tags": ["value_for_money", "price_fatigue"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-20261104-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual resale-value breakdown by model (one style strong, others 40-60%) framed as practical buyer/seller guidance rather than brand praise or criticism",
+    "signal_tags": ["resale_value", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20261104-011",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: genuine organic consumer demand for a specific Gucci lipstick shade (hard to find in stock) / counter: none, mild authentic purchase-intent buzz, not brand-seeded",
+    "signal_tags": ["purchase_intent", "organic_buzz", "scarcity"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20261104-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: community mocks Gucci China Qixi campaign's production quality as cheap/beneath a luxury house / counter: none, mild derision toward creative output",
+    "signal_tags": ["creative_criticism", "campaign"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20261104-013",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci/Kering China demand merely flat-to-slightly-improving, comparatively underperforming Hermès' strong China growth / counter: none, peer comparison unfavorable to Gucci",
+    "signal_tags": ["peer_comparison", "negative_earnings", "momentum"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-20261104-014",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: social-media backlash over Gucci charging same luxury price despite perceived cost-cutting on Made-in-China production / counter: none, organic negative consumer reaction, exempt from activation discount",
+    "signal_tags": ["price_fatigue", "manufacturing_origin", "value_for_money", "backlash"],
+    "confidence": 0.8
+  }
+]

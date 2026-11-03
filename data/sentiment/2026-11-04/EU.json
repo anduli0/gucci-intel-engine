@@ -1,0 +1,200 @@
+[
+  {
+    "id": "EU-2026-11-04-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade write-up describing new store concept opening; descriptive activation coverage, no independent verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-04-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade coverage of flagship opening framed within Kering's turnaround push; no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-04-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade write-up of store design/merchandise reveal, no verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-04-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: weak quarter is 'bereitet Sorgen' (causing worries) for parent Kering, turnaround will take longer / counter: none, sustained negative framing of momentum",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-04-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Kering stock recovers somewhat despite Citi downgrade / counter: caution persists on turnaround pace - genuine two-sided market read, no clear verdict on Gucci itself",
+    "signal_tags": ["mixed", "analyst_commentary"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-04-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Citi cuts target calling it 'end of the Gucci upturn', no meaningful Q4 traffic recovery / counter: none substantive, unambiguous negative analyst verdict",
+    "signal_tags": ["negative_earnings", "analyst_commentary", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-04-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: 'Gucci keeps shrinking', store closures, inventory cuts, traffic not returning / counter: Demna gets 'one more season' bet - concession doesn't flip dominant decline narrative",
+    "signal_tags": ["negative_earnings", "momentum_press", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-04-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci recovery 'remains a priority' / Gucci fell further while peers resilient / counter: group revenue held flat overall - mixed-but-decided toward Gucci as the drag",
+    "signal_tags": ["mixed", "negative_earnings"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-04-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive campaign write-up (who stars, what capsule) with no outlet evaluative verdict; brand-owned promo syndicated",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-04-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive event write-up of brand-staged party celebrating campaign; press-kit derived, no independent verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-04-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering shares plunge 12.67% after Gucci sales fell 6%, Q4 return to growth unlikely / counter: none, unambiguous and emotionally charged market reaction",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-04-012",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Low TrustScore (~2/5) with recurring complaints of poor customer service, payment failures, and price/service mismatch - organic consumer opinion, quality/QC complaint",
+    "signal_tags": ["quality_complaint", "value_for_money", "community"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-04-013",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: genuine two-sided forum debate on Store Show concept and pricing / counter: no verdict reached, members split - neutral per mixed rule",
+    "signal_tags": ["mixed", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-04-014",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: members divided between praising styling and skepticism buzz converts to store visits / counter: no clear resolution - genuine two-sided community debate",
+    "signal_tags": ["mixed", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-04-015",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned heritage content on official account; self-promo is not public opinion per rubric",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-04-016",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Critic commentary described as skeptical/mixed running thread with no clear resolved verdict surfaced; treated as two-sided chatter",
+    "signal_tags": ["mixed", "critic_commentary"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-04-017",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: creator reactions split between appreciation of staging irony and complaints runway disconnected from retail product / counter: no dominant verdict - mixed",
+    "signal_tags": ["mixed", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-04-018",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: enthusiast press gives outlet's own clear positive verdict ('won Christmas') on holiday campaign / counter: none - activation coverage with evaluative verdict, capped per discount rule",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-04-019",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: poster seeks to be talked out of purchase on price/quality/resale-value grounds, others suggest Bottega Veneta or secondhand instead / counter: some mixed responses - peer-comparison and value-for-money dispute skew negative for Gucci",
+    "signal_tags": ["value_for_money", "peer_comparison", "community", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-04-020",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade confirmation of ambassador appointment tied to coordinated holiday push, no independent verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-04-021",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade coverage of campaign reveal and capsule details, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-04-022",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci organic sales fell 6%, weak store traffic cited as primary drag / counter: improved conversion/basket size among existing customers - concession doesn't flip the miss-driven dominant thesis",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.85
+  }
+]
