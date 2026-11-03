@@ -192,11 +192,13 @@ The turning point was Bottega Veneta. He joined as ready-to-wear design director
 
 ![Blazy out, Trotter in: Bottega debut praise, orders exceeding Lee era, transition context](https://img.businessoffashion.com/resizer/v2/HIVJPSAWT5FP7MZSGL4IALXNRE.jpg?smart=true&auth=99ab4e53efff72c3f52bf4968ae02daa09093f6fb9b1654ef67fb5001885579d&width=1200&height=630 "BoF|https://www.businessoffashion.com/articles/luxury/matthieu-blazy-louise-trotter-bottega-veneta-creative-director/")
 
+
 ## 3. Style and Aesthetic
 
 Blazy's signature codes compress into density of the hand. He believes in the authenticity of logoless luxury, reading Bottega Veneta's no-logo history—"the chance we have at Bottega is that we don't have a logo," with initials being enough—as very pop and very modern.[9] This philosophy materializes in objects like trompe-l'œil leather, where materiality itself creates the twist, a craft in which appearance and substance diverge.[3]
 
 ![Blazy interview: logoless luxury, initials are enough, very pop and very modern mood](https://wwd.com/wp-content/uploads/2023/06/lbovi_10a.jpg?w=1200 "WWD|https://wwd.com/fashion-news/designer-luxury/bottega-veneta-matthieu-blazy-art-culture-surprises-1235679778/")
+
 
 His staging grammar starts not from grand narrative but from small detail. He describes beginning "from a very small scrap of fabric or a finishing" and extending outward to silhouette, seeing the tiny traces in handmade work not as errors but as part of the process.[2] On the balance of technology and craft, he holds that it cannot all come from the machine.[2] At Chanel this grammar appears as a reduction of codes. He says the codes of Chanel can be reduced and still read as Chanel, and pushed his debut toward a restraint he described as almost poor without being poor.[8] The anecdote of repeatedly urging his team to make things ever lighter shows his obsession with tactile finish.[8] In the debut he reinterpreted Chanel craft through bouclé, tweed, frayed hems, and supple leather, handled camellia, pearl, and wheat-sheaf motifs with a sculptural sensibility, and rebuilt iconic bags with softened silhouettes and minimal branding.[4]
 
@@ -212,9 +214,10 @@ His view of brand identity starts from the recognition that everybody thinks the
 
 The timeline was decisive. Chanel announced Blazy as creative director on December 12, 2024, and the same day Bottega Veneta immediately named Louise Trotter as his successor.[3][7] Blazy staged his Chanel Spring/Summer 2026 debut on the evening of October 6, 2025, at the Grand Palais with a solar-system set read as a metaphor for a realigned fashion landscape.[4][10] The show drew a standing ovation, though some reviews noted certain looks felt like exploratory mood-boarding for future collections.[4]
 
-![Chanel debut (Grand Palais solar-system set), bouclé/tweed/camellia, standing ovation, mood-board reservation](https://monocle.com/wp-content/uploads/2025/10/GettyImages-2239639166_CROP_8bbc56.jpg?fit=1280%2C960 "Monocle|https://monocle.com/fashion/matthieu-blazy-chanel-debut-paris-fashion-week/")
 
 Conversion was fast. Debut merchandise reportedly reached stores on March 5, 2026, generating queues and early sell-outs of coveted items in a near-cultural-phenomenon reception.[6][10] His second ready-to-wear collection at the Grand Palais on March 9, 2026, ran 78 looks around a caterpillar-and-butterfly day-to-night dichotomy, reinventing Chanel's suit codes with Chanel tweeds recut in oversized proportions and shimmering tinsel-like fabric.[6] Chanel SAS fashion president Bruno Pavlovsky, in a separate interview, said of the Blazy chapter that "the brand is back," with boutiques packed and ready-to-wear selling strongly.[13] In July 2026 he presented his first haute couture collection, a fairytale-themed show that transformed the Grand Palais into a fairytale garden with a narrative drawn from motifs such as "Goldilocks and the Three Bears" and "Jack and the Beanstalk," alongside Perrault's old tales.[12]
+
+![Chanel A/W 2026: 78 looks, caterpillar and butterfly, tweeds recut oversized and shimmering tinsel-like fabric, function... fiction, March 5 store arrival](https://cdn.mos.cms.futurecdn.net/5YWa88JJVDCCQ8DN3wLDcn-1800-80.jpg "Wallpaper|https://www.wallpaper.com/fashion-beauty/chanel-aw-2026-review-matthieu-blazy")
 
 The critical reception of that couture collection, however, differed in texture from the near-unanimous praise of his ready-to-wear debuts. Reviews landed closer to mixed-to-positive; in particular, the staging—dotted with colored cranes—was noted as less transporting than the previous season's planetarium, a data point showing that CD buzz does not automatically stay unanimous season over season.[19] Where the debut's reservation was that some looks read like an exploratory mood-board, couture added a new question of balancing narrative completeness against staging spectacle.
 

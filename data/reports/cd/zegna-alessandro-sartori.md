@@ -72,6 +72,7 @@
 
 ![제냐 2026 가을·겨울 남성복 리뷰('buy less but better'·ABITO N.1·장인정신 10점)](https://theimpression.com/wp-content/uploads/2026/01/zegna-atm-m-f26-044-1.jpg "The Impression|https://theimpression.com/zegna-fall-2026-mens-fashion-show-review/")
 
+
 다만 이 전망에도 유보가 필요하다 — 본 도시는 제냐 전용 커버리지의 1차 발행이며, 제냐 브랜드 단독의 중화권 본토 수요·리세일 지표·개별 상품 판매 데이터 같은 세부 지표는 미확인으로 남는다. 즉, 위 세 관전 포인트는 그룹 공개 실적과 평단 반응이라는 두 축으로만 추적 가능한 범위라는 뜻이다.
 
 ## 주석
@@ -139,6 +140,7 @@ Sartori's signature compresses to "the fluidization of tailoring" — he redefin
 
 ![Sartori's quiet revolution, the Zegna recipe, vertical integration as secret weapon, we're going deeper, redefining the suit, sportswear quality, cashmere-and-paper new material interview](https://www.thenationalnews.com/resizer/v2/KDBR7DE6RRHQHNC5MMH6AYYRVA.jpg?auth=11c7c0bdfcd7372375192dc784d3510905a914a89aaaca5823720e9f175dc37e&focal=2977%2C1639&width=1200&height=630 "The National|https://www.thenationalnews.com/magazine/2025/10/10/alessandro-sartori-zegna-dubai/")
 
+
 His stage is not plain minimalism but carries Zegna's manufacturing narrative — Fall/Winter 2026 took the "family closet" as its concept, displaying in a glass case "ABITO N.1," the first suit built in the 1930s for Count Ermenegildo Zegna, wrapping four generations of clothing around the runway, and centering the Trofeo worsted wool developed in 1965[10][11][12]. He also experiments with fabric itself — for winter he tried a new material blending cashmere and paper, saying "It might not work, but we are trying"[3]. Still, this fabric-centered aesthetic needs a counterweight — Spring/Summer 2026, for the first time in the house's 115-year history, was staged abroad, transforming the Dubai Opera into "Villa Zegna," but whether that buzz translated into product sales is unverified[9]. In the Fall/Winter 2026 review, The Impression awarded a perfect score for craftsmanship and retail-readiness, a signal that critics have repeatedly endorsed his execution[11].
 
 ## 4. Vision and Philosophy
@@ -153,7 +155,8 @@ In this respect, Sartori's philosophy should be read as "quiet luxury underpinne
 
 Sartori's decade back at Zegna sums up as "consistency of line, and a belated ratification by the numbers." On the creative axis, he has consolidated Z Zegna into the single main "ZEGNA" line and put tailoring and fabric innovation front and center, building a consistent quiet-luxury identity[1][5]. In addition, show after show — Dubai's "Villa Zegna" for Spring/Summer 2026, the "family closet" for Fall/Winter 2026 — has drawn on Zegna's manufacturing heritage as a narrative device, cementing critical trust[9][10][11].
 
-![Zegna Fall/Winter 2026 — a wardrobe-style runway set displaying the 1930s "ABITO N.1"](https://theimpression.com/wp-content/uploads/2026/01/ale01040-11807208-1.jpg "The Impression|https://theimpression.com/zegna-fall-2026-mens-fashion-show-review/")
+![Sartori as the Artistic Director who has all the right ingredients at Zegna (scope of authority, line)](https://wwd.com/wp-content/uploads/2022/10/WWD-Honors-2022-Inside-Getty-03.jpg?w=1200 "WWD|https://wwd.com/menswear-news/mens-designer-luxury/alessandro-sartori-right-ingredients-zegna-1235407209/")
+
 
 And Q3 revenue, disclosed 2026-11-02, has begun to ratify this line in numbers — group-wide €433.8M (+8.9% reported, +8.2% organic), the Zegna brand €283.8M (+13.8% reported, +12.7% organic), and nine-month group cumulative revenue of €1,421.1M (+7.2%, +8.9% organic)[6][7]. Breaking down by channel and region, DTC drove growth at €335.3M, +13.0%, while the Americas rose +14.0%, Greater China +8.7% (+5.7% organic) and EMEA +6.9%, with every region positive[6][7]. That is, "the Zegna brand and the direct channel drove growth across every region" is the accurate description of this quarter.
 
@@ -170,6 +173,7 @@ The second implication is the opposite aesthetic axis — Sartori's "quiet luxur
 There are three things to watch over the next twelve months. First, in Zegna's FY2026 full-year results (expected early 2027), the test is whether the Q3 Zegna brand growth rate of +13.8% holds — it is enough to check whether the nine-month cumulative +7.2% (+8.9% organic) accelerates or decelerates from this quarter's peak[6][7]. Second, whether Thom Browne's -5.9% is a temporary trough from Greater China and wholesale adjustments or a trend decline is a variable — whether the group's "cautious confidence" guidance is revised upward or held steady next quarter becomes a leading indicator of portfolio diversification risk[6][7]. Third, for Sartori's coming seasons (Spring/Summer 2027 onward), the benchmark is whether the "don't change it" line continues to translate beyond the narrative of buzz-generating shows like Dubai and the "family closet" into direct-sales velocity — it is enough to check whether fabric experiments like the cashmere-paper blend settle into the product lineup[3][11].
 
 ![Zegna Fall/Winter 2026 menswear review (buy less but better, ABITO N.1, perfect craftsmanship score)](https://theimpression.com/wp-content/uploads/2026/01/zegna-atm-m-f26-044-1.jpg "The Impression|https://theimpression.com/zegna-fall-2026-mens-fashion-show-review/")
+
 
 This outlook needs a reservation, too — this dossier is the first edition of dedicated Zegna coverage, and granular metrics such as the Zegna brand's standalone mainland-China demand, resale indices and item-level sales data remain unverified. That is, the three watch points above are trackable only along the two axes of public group results and critical reception.
 

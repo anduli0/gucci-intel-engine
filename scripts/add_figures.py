@@ -50,24 +50,38 @@ def fetch(url, limit):
         return r.read(limit)
 
 
+def _og(url):
+    m = None
+    try:
+        head = fetch(url, 600_000).decode("utf-8", "ignore")
+        m = META_RE.search(head) or META_RE2.search(head)
+    except Exception as e:  # cached as none too; delete the cache entry to retry
+        print(f"  skip {url[:80]} ({type(e).__name__})")
+    if not m:
+        return None
+    cand = html.unescape(m.group(1)).strip().replace(" ", "%20")
+    # WordPress og:images are often hard-cropped (?w=..&h=..&crop=1): ask for the uncropped width instead
+    if "wp-content/uploads" in cand and "crop=" in cand:
+        cand = cand.split("?")[0] + "?w=1200"
+    return cand if cand.startswith("http") else None
+
+
+def site_default(url, cache):
+    """The homepage og:image of the article's host: the logo card a site returns for every article."""
+    host = url.split("/")[2]
+    key = "home:" + host
+    if key not in cache:
+        cache[key] = _og(f"https://{host}/")
+    return cache[key]
+
+
 def og_image(url, cache):
     if url in cache:
         return cache[url]
-    try:
-        head = fetch(url, 600_000).decode("utf-8", "ignore")
-    except Exception as e:  # cached as none too; delete the cache entry to retry
-        print(f"  skip {url[:80]} ({type(e).__name__})")
-        cache[url] = None
-        return None
-    img = None
-    m = META_RE.search(head) or META_RE2.search(head)
-    if m:
-        cand = html.unescape(m.group(1)).strip().replace(" ", "%20")
-        # WordPress og:images are often hard-cropped (?w=..&h=..&crop=1): ask for the uncropped width instead
-        if "wp-content/uploads" in cand and "crop=" in cand:
-            cand = cand.split("?")[0] + "?w=1200"
-        if cand.startswith("http") and not any(b in cand.lower() for b in BAD):
-            img = cand
+    img = _og(url)
+    home = img and site_default(url, cache)
+    if img and (any(b in img.lower() for b in BAD) or (home and (img == home or same_photo(thumb(img), thumb(home))))):
+        img = None
     cache[url] = img
     return img
 
@@ -123,6 +137,22 @@ def same_photo(a, b):
     return a is not None and b is not None and max(contains(a, b), contains(b, a)) >= SAME
 
 
+def bigrams(cap):
+    t = re.sub(r"[^0-9a-zA-Z가-힣]", "", cap.lower())
+    return {t[i:i + 2] for i in range(len(t) - 1)}
+
+
+def same_subject(cap, caps, ignore=frozenset()):
+    """Caption overlap (character-bigram Jaccard) high enough to be the same person/story.
+    `ignore` = bigrams of the report title, so a dossier's own subject does not count."""
+    a = bigrams(cap) - ignore
+    for c in caps:
+        b = bigrams(c) - ignore
+        if len(a & b) / max(1, len(a | b)) >= 0.3:
+            return True
+    return False
+
+
 def near_hash(h, pool):
     if not h:
         return False
@@ -133,8 +163,9 @@ def near_hash(h, pool):
 class Dedupe:
     """Within-report (NCC, absolute) and across-report (hash, avoided) duplicate checks."""
 
-    def __init__(self, hashes):
+    def __init__(self, hashes, site_defaults=None):
         self.hashes = hashes
+        self.site_defaults = site_defaults or {}
         self.taken_urls, self.taken_hashes = set(), set()
 
     def h(self, url):
@@ -145,11 +176,12 @@ class Dedupe:
     def used_elsewhere(self, url):
         return url in self.taken_urls or near_hash(self.h(url), self.taken_hashes)
 
-    def dup_in_edition(self, url, edition_urls):
-        if url in edition_urls:
+    def dup_in_edition(self, url, cap, kept, title=""):
+        """kept = [(url, caption)] already in this edition."""
+        if any(url == u for u, _ in kept) or same_subject(cap, [c for _, c in kept], bigrams(title)):
             return True
         t = thumb(url)
-        return any(same_photo(t, thumb(u)) for u in edition_urls)
+        return any(same_photo(t, thumb(u)) for u, _ in kept)
 
     def commit(self, urls):
         for u in urls:
@@ -168,20 +200,21 @@ def sources(lines):
 
 def add_figures(text, cache, dd):
     lines, kept, n = [], [], 0
+    title = next((l[2:] for l in text.split("\n") if l.startswith("# ")), "")
     for ln in text.split("\n"):
         m = FIG_RE.match(ln)
         if m:
-            u = m.group(1)
-            if any(b in u.lower() for b in BAD):  # generic/stock image inserted by an earlier run
+            u, cap = m.group(1), m.group(0)[2:m.group(0).index("](")]
+            if any(b in u.lower() for b in BAD) or u in {v for k, v in dd.site_defaults.items() if v}:  # generic/stock/logo card
                 n -= 1
                 continue
             if "wp-content/uploads" in u and "crop=" in u:  # un-crop (same rule as og_image)
                 u2 = u.split("?")[0] + "?w=1200"
                 ln, u = ln.replace(u, u2), u2
-            if dd.dup_in_edition(u, kept) or dd.used_elsewhere(u):
+            if dd.dup_in_edition(u, cap, kept, title) or dd.used_elsewhere(u):
                 n -= 1
                 continue
-            kept.append(u)
+            kept.append((u, cap))
         lines.append(ln)
     srcs = sources(lines)
     if not srcs:
@@ -203,8 +236,9 @@ def add_figures(text, cache, dd):
                     if num in srcs and num not in used:
                         pub, desc, url = srcs[num]
                         img = og_image(url, cache)
-                        if img and not dd.used_elsewhere(img) and not dd.dup_in_edition(img, kept):
-                            kept.append(img)
+                        cap = re.sub(r"[\[\]\"]", "", desc)
+                        if img and not dd.used_elsewhere(img) and not dd.dup_in_edition(img, cap, kept, title):
+                            kept.append((img, cap))
                             fig = (k, num, pub, desc, url, img)
                             break
                 if fig:
@@ -212,7 +246,6 @@ def add_figures(text, cache, dd):
             if fig:
                 k, num, pub, desc, url, img = fig
                 used.add(num)
-                cap = re.sub(r"[\[\]\"]", "", desc)
                 pub = pub.replace('"', "").replace("|", "/")
                 body = body[: k + 1] + ["", f'![{cap}]({img} "{pub}|{url}")'] + body[k + 1 :]
                 n += 1
@@ -230,7 +263,11 @@ def main():
             cache[k] = None
         elif v and "wp-content/uploads" in v and "crop=" in v:
             cache[k] = v.split("?")[0] + "?w=1200"
-    dd = Dedupe(json.loads(HASHES.read_text(encoding="utf-8")) if HASHES.exists() else {})
+    for k, v in list(cache.items()):  # re-check cached article images against their site's logo card
+        if v and not k.startswith("home:") and v == site_default(k, cache):
+            cache[k] = None
+    dd = Dedupe(json.loads(HASHES.read_text(encoding="utf-8")) if HASHES.exists() else {},
+                {k: v for k, v in cache.items() if k.startswith("home:")})
     total = 0
     for d in DIRS:  # evergreen CD dossiers first, so they keep their photos
         for p in sorted((ROOT / "data" / "reports" / d).glob("*.md")):
@@ -262,8 +299,8 @@ if __name__ == "__main__":
         def __init__(self):
             super().__init__({})
 
-        def dup_in_edition(self, url, kept):
-            return url in kept
+        def dup_in_edition(self, url, cap, kept, title=""):
+            return any(url == u for u, _ in kept)
 
         def h(self, url):
             return None
@@ -276,6 +313,9 @@ if __name__ == "__main__":
     assert add_figures(_r, _c, _dd)[1] == 0
     _d = _r + "\n## 2. B\n\nz [2] w\n\n## 출처\n\n[2] Pub — d2 — https://example.invalid/b\n"
     assert add_figures(_d, _c, _dd)[0].count("![") == 1  # same image again -> omitted
+    assert same_subject("머라이어 캐리의 '버터플라이' 캡슐 공개, 구찌 홀리데이 캠페인", ["머라이어 캐리가 전면에 선 구찌 2026 홀리데이 캠페인"])
+    assert not same_subject("세금 추징에 루이비통·구찌 사던 중국 부자들의 이탈", ["머라이어 캐리가 전면에 선 구찌 2026 홀리데이 캠페인"])
+    assert not same_subject("조너선 앤더슨 디올 SS26 여성 데뷔 리뷰", ["조너선 앤더슨 디올 AW26 남성 데뷔 쇼 리뷰, 폴 푸아레"], bigrams("조너선 앤더슨 — Dior"))
     _dd.taken_urls.add("https://img/x.jpg")
     assert add_figures(_t, _c, _dd)[0].count("![") == 0  # used by another report -> omitted
     main()

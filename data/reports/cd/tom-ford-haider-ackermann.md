@@ -148,11 +148,12 @@ Taken together, Ackermann is the first figure to connect the critical capital he
 
 After gaining internship experience under John Galliano and Bernhard Willhelm, among others, Ackermann launched his own eponymous womenswear label at Paris Fashion Week in 2001[6]. From his debut collection he drew attention for intricate tailoring and draped silhouettes, and in 2005 he signed with the Belgian group BVBA 32 to secure financial backing[6]. He accumulated critical prestige with the Swiss Textile Award in 2004 and the Fashion Group International Award (presented by Karl Lagerfeld) in 2012[8]. However, the label never scaled significantly in commercial terms and effectively closed during the pandemic period[6].
 
-![Timeline of Ackermann's career (Lagerfeld succession mention, awards, Canada Goose)](https://upload.wikimedia.org/wikipedia/commons/e/ed/Guests_at_the_2026_Met_Gala_505_%28Haider_Ackermann_and_Teyana_Taylor%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled "Wikipedia|https://en.wikipedia.org/wiki/Haider_Ackermann")
 
 His reputation has always stood out more in peer tributes than in commercial results. Lagerfeld declared him his "ideal successor" at Chanel in 2010[8], and Ackermann is known to have turned down the role of successor to Martin Margiela in 2009 as well as a later approach from Dior[8]. In other words, he was repeatedly floated as a leading candidate for major houses while maintaining an unusually long independent streak — an atypical "history of declining offers."
 
 His only prior experience at a major heritage house was Berluti. He joined the Kering-owned menswear luxury house as Creative Director in September 2016, presented his first collection in January 2017, and departed after just three seasons in March 2018[2][3]. Though brief, his tenure is widely credited with introducing a more languid, feminine edge to menswear compared to predecessor Alessandro Sartori, and the white Berluti tuxedo worn by Timothée Chalamet at the 2018 Oscars remains the moment that publicly cemented this new mood[2][3]. Because the split came amid generally positive reception, his exit was seen at the time as somewhat unexpected within the industry[3]. Separately, he was named Creative Director of Canada Goose simultaneously with his Tom Ford appointment in 2024, and continues to work in parallel across both outerwear and Tom Ford categories[8].
+
+![Report on Ackermann's departure from Berluti](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F03%2Fhaider-ackermann-leaves-berluti-TW.jpg?w=1080&cbr=1&q=90&fit=max "Hypebeast|https://hypebeast.com/2018/3/haider-ackermann-leaves-berluti")
 
 ## 3. Style and Aesthetic
 
@@ -167,6 +168,8 @@ His third season, Fall/Winter 2026 (March 4, 2026, at Place Vendôme in Paris), 
 ## 4. Vision and Philosophy
 
 Ackermann's design philosophy can be summarized as an attitude toward the relationship between clothing and emotion. He has repeatedly stated his view that a wearer becomes more sensual and captivating only once they feel at ease with the clothing they wear[8]. Reading this attitude, critic Pedro Vasconcelos characterized his Tom Ford in Document Journal using the term "intellectual tantrism" — the core reading being that the clothing aims not merely for a sensation that stays on the body, but for a seduction that lingers in the mind[9].
+
+![Timeline of Ackermann's career (Lagerfeld succession mention, awards, Canada Goose)](https://upload.wikimedia.org/wikipedia/commons/e/ed/Guests_at_the_2026_Met_Gala_505_%28Haider_Ackermann_and_Teyana_Taylor%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled "Wikipedia|https://en.wikipedia.org/wiki/Haider_Ackermann")
 
 In particular, his Tom Ford redesigns the very grammar of seduction. Vasconcelos, writing in Document Journal, characterized his debut as pursuing "a different kind of queerness," analyzing that within an industry still defined by the male gaze, Ackermann draws in a feminine gaze that rejects conventional femininity[9]. The thesis this criticism draws out is clear: sensuality need not shout, and is in fact more powerful when it simmers beneath the surface[9]. Where Tom Ford constructed desire through exposure and excess, Ackermann turns desire into an act of "addition" through strategic restraint and layering[9].
 
@@ -195,6 +198,7 @@ Here, Ackermann's presence functions as a dual benchmark. First, he is the sitti
 The strategic implication is clear (hypothesis). As long as Gucci continues to use the Tom Ford era as a reference axis, critics will inevitably summon Ackermann's Tom Ford as the "authentic control group." From a Gucci intelligence standpoint, Ackermann's collections function as a de facto external baseline for measuring how close Gucci comes to the original in the eveningwear and sensuality category, and are worth monitoring as a direct threat factor especially in red-carpet and eveningwear share-of-voice (SOV) competition. Meanwhile, Tom Ford Beauty's entry into the "billion-dollar brand" club should be read separately from Ackermann's fashion performance and not mis-attributed to his creative record (beauty is an Estée Lauder licensed business)[16].
 
 ![Fiscal 2026 results (Tom Ford Beauty enters billion-dollar brand club, full-year fragrance net sales up 10%)](https://media.elcompanies.com/images/e/estee-lauder-companies/global/news-and-media/2026-newsroom/press-releases/aug/elco-fy26-q4-700x400.jpg "The Estée Lauder Companies|https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/08-19-2026-110037466")
+
 
 ## 7. Outlook
 

@@ -199,6 +199,7 @@ Vaccarello's career began under the lineage of haute couture masters. Immediatel
 
 ![BoF 500 profile, Vaccarello's career and Versace tenure](https://img.businessoffashion.com/resizer/v2/https%3A%2F%2Fprod-bof-media.s3.eu-west-1.amazonaws.com%2Fimport%2Fprofiles%2Fasset%2F1546646384829058%2Fanthony-vaccarello_courtesy-1546646630321380.jpg?auth=5f2f8fe26991408161b0503683a54b0cb4626efdf66e7b38072596f88a866f5f&width=1200&height=675&smart=true "Business of Fashion|https://www.businessoffashion.com/people/anthony-vaccarello-1/")
 
+
 In September 2014 he took on a capsule collection for Versus Versace, starting as a consultant before becoming creative director for roughly three years from 2015[1][3]. This chapter tested his sensual, glamorous design language at mass scale.
 
 His results at Saint Laurent showed up in commercial metrics from the start. In 2017 — his first full year as creative director — house revenue rose 25.3% versus 2016[3]. Saint Laurent subsequently became one of Kering's most consistently strong-performing brands, with his handbags and boots ranking among its bestsellers[9]. At its 2022 Capital Markets Day Kering publicly targeted doubling Saint Laurent's revenue to €5 billion over the medium term, though that trajectory entered an adjustment phase amid the 2024-2025 luxury downturn (see Section 5 for recent figures).
@@ -254,6 +255,7 @@ On winding up the tenure, careful reading is warranted. The frequently recycled 
 First, Vaccarello was not a rival creative director but an internal Kering benchmark. Because Gucci and Saint Laurent sit under the same roof, Saint Laurent's 20.0% operating margin becomes the internal baseline against which Demna-era Gucci will be measured during its rebuilding phase[2][6]. Saint Laurent's ability to defend margin through the downturn continues to cast a shadow over the question of how fast — and how profitably — Gucci's reset can deliver.
 
 ![2025 full-year results, Saint Laurent €2.6bn, -8%/-6%, €529m recurring operating income, 20.0% margin](https://s.yimg.com/lo/mysterio/api/d01d15cc82084a29740e775e69c6a3de9754a2b1384bc5ab5f72eff1bca9f824/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fd5932c4baf63e61fc474323f7d74ffbe "Kering (Yahoo Finance/GlobeNewswire)|https://finance.yahoo.com/news/kering-2025-results-sequential-improvement-060000551.html")
+
 
 Second, the two houses offer an instructive positioning contrast. Saint Laurent repeated a narrow, disciplined glamour code — black, sharp shoulders, femme fatale — for a decade, proving that consistency itself is an asset[5][9]. Demna-era Gucci, by contrast, is in a phase of maximalist reset and code reinterpretation. For Gucci, Saint Laurent is a living case study in the commercial compounding effect of narrowly fixing and repeating brand codes.
 

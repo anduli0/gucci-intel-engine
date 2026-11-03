@@ -152,6 +152,7 @@ In October 2018, she joined Lacoste as its first female creative director, a pos
 
 ![Trotter's departure from Lacoste (announced 2023.01), comments from president Thierry Guibert, note on consistency](https://www.theindustry.fashion/wp-content/uploads/2021/07/Louise-Trotter.jpg "TheIndustry.fashion|https://www.theindustry.fashion/louise-trotter-steps-down-as-lacoste-creative-director/")
 
+
 In February 2023, she moved to Carven as creative director, returning the French house to the Paris Fashion Week calendar, and she left Carven when her move to Bottega was announced in December 2024.[2][4] The trajectory from Lacoste to Joseph to Carven cemented her brand identity as a "commercially disciplined craft minimalist."
 
 ## 3. Style and Aesthetic
@@ -172,6 +173,7 @@ Trotter's philosophy is captured clearly in a few short statements. Her belief i
 
 ![Trotter interview: technique is the logo, purpose of design, Milan brutalism/sensuality](https://theimpression.com/wp-content/uploads/2026/02/louise-trotter-header-scaled.jpg "The Impression|https://theimpression.com/louise-trotter-refines-the-code-at-bottega-veneta/")
 
+
 Her debut collection was built around an imagined trajectory of an Italian woman who had been part of Andy Warhol's Factory, framed by her statement that she "wanted to capture a sense of liberation" — both a homage to Laura Braggion, Bottega's first female creative leader, and a metaphor for the introduction of a woman's perspective.[10] She has also described Bottega's atelier capabilities, after her debut, as feeling like being placed inside a box of candy, expressing satisfaction with the house's material and leather-innovation resources.[10]
 
 ## 5. Tenure at the Current House
@@ -182,6 +184,7 @@ Trotter's debut show was unveiled as SS26 at Milan Fashion Week on September 27,
 Her third collection, SS27, unveiled in Milan on September 26, 2026, reads as a decisive inflection point of the Trotter era. The collection departed from the structured tailoring of the previous two seasons to broaden the house's visual vocabulary around "lightness" — with summer silhouettes, open-knit intrecciato, enlarged tote bags, an expanded color palette (yellow, red, purple), and floral prints.[17][18] Reviewers read the show as the stage where Trotter is simultaneously solidifying commercial viability and a distinct house signature — noting that she is "settling into" both the city and the house and understands that moving forward is about knowing what to "let go," awarding an overall 8.6/10 with top marks in craftsmanship and styling.[17] With that, the question raised at her debut — whether the "liberation" narrative would settle into a repeatable house code — appears provisionally resolved, by the third season, into a "lightness" signature direction (hypothesis). Whether this creative crystallization translates into commercial results — the emergence of a campaign-tied Trotter "it bag" or demonstrated retail sales — remains, however, unconfirmed.
 
 ![Review of Trotter's SS27 (third collection) show (unveiled 2026-09-26): lightness direction, open-knit intrecciato, overall score 8.6/10, top marks in craftsmanship and styling, settling into the house verdict](https://theimpression.com/wp-content/uploads/2026/09/Bottega-Veneta-atm-S27-012-2.jpg "The Impression|https://theimpression.com/bottega-veneta-spring-2027-fashion-show-review/")
+
 
 Commercial signals have also been favorable. Bottega Veneta posted 2025 revenue of 1.7 billion euros — flat in nominal terms but up 3% on a comparable basis — making it effectively the only house in the Kering portfolio to post positive growth.[7] Recurring operating income reached 267 million euros, with a margin of 15.6%, up 0.7 points year-on-year, driven by new handbag lines such as Campana and Veneta along with double-digit growth in ready-to-wear and footwear.[7] That momentum continued into the first half of 2026. In results released by Kering on July 28, 2026, Bottega Veneta posted revenue of 836 million euros — flat in nominal terms but up 3% on a comparable basis — which Kering singled out as a "record-breaking first half," noting that all regions delivered a strong sequential acceleration supported by leather goods.[16] Notably, retail sales in its own network grew 8% on a comparable basis for the semester, confirming demand traction in full-price retail channels rather than wholesale or outlet.[16] Still, a substantial share of both 2025 and H1 2026 revenue reflects the product pipeline designed under Blazy, so a full read on Trotter's commercial transition will require results from the second half onward, once SS26 and AW26 merchandise fully reaches stores (hypothesis).
 
@@ -195,13 +198,13 @@ There are three benchmark points for Gucci to draw from. First, the monetization
 
 ![Intrecciato 50th-anniversary heritage campaign under Trotter (first teased June 2026) featuring Tyler, the Creator and Julianne Moore](https://culted.com/cdn-cgi/image/width=1200,height=630,fit=cover,format=auto/https://cms.culted.com/api/media/file/GettyImages-2237364075.jpg "Culted|https://culted.com/bottega-veneta-ss26-louise-trotter/")
 
+
 In particular, Bottega's trajectory of converging on a clear "lightness" signature by its third season is a direct pace benchmark for how quickly Demna's Gucci should be expected to land its own recognizable identity (hypothesis). That Milan season-wrap coverage cited Bottega's steady creative trajectory alongside Gucci's more contested reception this season suggests this contrast is already operating as an industry narrative.[18]
 
 ## 7. Outlook
 
 Key points to watch over the next 12 months are as follows. First (hypothesis), commercial conversion verification: the +8% retail growth in H1 2026 is a favorable signal, but it still mixes in residual contribution from the Blazy pipeline, so whether that growth is sustained or accelerates in Kering's disclosures from late 2026 through early 2027 — once SS26 and AW26 merchandise designed by Trotter is fully reflected — will be the litmus test of her commercial power.[16] Second (hypothesis), handbag iconics: whether Trotter creates her own "it bag" beyond Campana and Veneta will serve as commercial evidence of her creative success — and whether the enlarged tote introduced at SS27 emerges as a candidate is one to watch.[18] Third (hypothesis), durability of the "lightness" code: whether the house-code question provisionally resolved by SS27 was a single-season judgment call, so whether the next one or two seasons repeat and deepen the same direction will be the ultimate evidence for whether it settles into a "code" rather than a passing "trend." Fourth (hypothesis), collaboration with new CEO Spitzer: the commercial-transition model that emerges from the specialist commercial executive who took office on September 1, 2026 working alongside Trotter's creative line will be a variable in the durability of the house's growth. Fifth (hypothesis), Kering's resource allocation: signals on investment and store-expansion the group extends to Bottega, relative to a Gucci still in decline on a half-year basis, will reveal internal priorities.
 
-![Milan Fashion Week season-wrap coverage (2026-09-27): Trotter's SS27 enlarged tote bags, expanded color palette (yellow, red, purple), floral prints; Bottega's steady creative trajectory contrasted with Gucci's more contested reception](https://www.malaymail.com/malaymail/uploads/images/2026/09/27/364928.jpg "Malay Mail (AFP)|https://www.malaymail.com/news/life/2026/09/27/louise-trotter-expands-bottega-veneta-palette-as-milan-fashion-week-highlights-dolce-gabbana-scervino-and-msgm/236740")
 
 ## Glossary
 

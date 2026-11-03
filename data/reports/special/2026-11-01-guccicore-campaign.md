@@ -39,7 +39,6 @@
 
 다만 이 호의적 평가에는 균형추가 필요하다 — 전략의 방향이 옳다는 것과 그것이 작동한다는 것은 전혀 다른 문제이기 때문이다. 첫째, 뎀나 체제의 상업화 전환은 이미 7월 프리마베라 컬렉션으로 매장에 투입됐음에도 3분기 매출은 오히려 -6%로 더 빠졌다[4][13]. 즉 "처방은 했는데 아직 안 듣는다"가 현재 상태의 정확한 묘사다. 둘째, 독립 비평 쪽에서는 뎀나의 구찌가 미켈레의 낭만적 맥시멀리즘을 버리고 "인플루언서 코드의 평평한 스트리트웨어"로, 심지어 "일부러 허술한 테일러링과 싸구려로 보이는 소재"로 내려앉았다는 신랄한 평가도 존재한다 — 이 관점에서 '다원성'은 미학의 포용이 아니라 미학의 부재로 읽힐 수 있다(비평가 견해)[14]. 정리하자면, 구찌코어의 크리에이티브는 전략으로서는 설득력이 있으나, 그것이 소비자에게 "제값 하는 상품"으로 가 닿았는지는 아직 입증되지 않았다.
 
-![구찌가 길을 잃었다 독립 비평, 평평한 스트리트웨어·허술한 테일러링](https://substackcdn.com/image/fetch/$s_!4s55!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F198a4b7e-cd36-4960-b3a9-6fd4a0f31b6f_1200x675.avif "Substack(fashionchitchat)|https://fashionchitchat.substack.com/p/gucci-has-lost-the-plot-but-what")
 
 ## 3. 반응 종합 — 활성화 커버리지와 독립 비평, 그리고 지역차
 
@@ -199,7 +198,6 @@ Placed against the turnaround, the logic sharpens. Gucci's core problem is traff
 
 Still, that favorable read needs a counterweight, because a right direction and a working one are different things. First, the commercial shift was already in stores via the July Primavera collection, yet Q3 sales fell further to -6%[4][13]. The prescription has been written and is not yet working. Second, independent criticism is harsher: some read Demna's Gucci as having abandoned Michele's romance for a flattened, influencer-coded streetwear aesthetic with deliberately sloppy tailoring and cheap-looking materials — on which view "plurality" reads not as embrace but as absence of a point of view (critic opinion)[14]. In short, the creative is persuasive as strategy, but whether it has landed with shoppers as product that justifies its price is unproven.
 
-![Gucci has lost the plot independent criticism, flattened streetwear and sloppy tailoring](https://substackcdn.com/image/fetch/$s_!4s55!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F198a4b7e-cd36-4960-b3a9-6fd4a0f31b6f_1200x675.avif "Substack (fashionchitchat)|https://fashionchitchat.substack.com/p/gucci-has-lost-the-plot-but-what")
 
 ## 3. Reaction Round-Up — activation coverage, independent criticism, regional differences
 

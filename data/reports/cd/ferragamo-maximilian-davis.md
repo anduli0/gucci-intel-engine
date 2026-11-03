@@ -45,7 +45,6 @@
 
 데이비스가 밝힌 지향점의 핵심은 '유산과 현대성의 중개'다 — 그는 페라가모를 오랜 고객과 새 세대가 함께 원하는 하우스로 만들겠다고 했고, 취임 당시 "a dedication to timeless elegance"(시대를 초월한 우아함에 대한 헌신)를 하우스의 정체성으로 규정했다[11][7]. 즉, 창업자 살바토레 페라가모의 할리우드 장인 유산을 지우지 않되 자신의 관능 코드로 다시 쓰겠다는 뜻이다. 또한 그는 자신의 디자인 언어를 카리브적 생활 감각과 연결한다 — "an effortlessness that feels very Caribbean"(매우 카리브적으로 느껴지는 무심함)을 이탈리아식 옷차림에서 발견했다고 말한다[11].
 
-![데이비스의 비전·철학·'카리브적 무심함'·취임 발언](https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/db2fae06-1b67-4726-9122-e7f80b1042a3/id-preview-d82c5f8b--5eda686a-2395-4f7a-91b6-7b5e2274ab93.lovable.app-1780250944701.png "The Fashionography / i-D|https://thefashionography.com/fashion/the-visionary/maximilian-davis-from-manchester-roots-to-ferragamos-reinvention/")
 
 이러한 측면에서 데이비스의 철학은 '트렌드 비의존'과 '지속되는 옷'에 방점이 찍힌다 — 압도하기보다 오래 남는 피스를 지향하며, 과노출과 일회성 과잉의 시대에 드문 결을 겨냥한다는 평가를 받는다[11]. 다만 본 분석의 판단은, 이 철학이 페라가모의 상업적 숙제와 긴장 관계에 있다는 것이다 — '조용한 럭셔리(quiet luxury)'의 절제는 비평 언어로는 강점이지만, 아이코닉 상품의 화제성과 회전율이 필요한 턴어라운드 국면에서는 오히려 성장의 속도를 늦추는 요인으로 작동할 개연성이 높다.
 
@@ -121,7 +120,8 @@ The conclusion of this dossier converges on one point — Maximilian Davis was r
 
 Davis's current position reduces to one line — "fourth-year incumbent CD." Announced 14 March 2022 and effective 16 March, he succeeded Paul Andrew and became the first Black creative director in the house's 95-year history[1][2]. He was twenty-seven at recruitment and had run his eponymous label, Maximilian, for only two years — put differently, a major house bet on a rising young sensibility rather than a proven master[2]. That bet needs a counterweight, though — with Gobbetti, the CEO who hired him, gone in March 2025, Davis's work is now judged apart from the management that brought him in[4][5].
 
-![Family stands firm on Davis and strategy despite the CEO exit](https://wwd.com/wp-content/uploads/2025/03/ferragamo-fw25-rtw-bsb-da-0127.jpg?w=1200 "WWD|https://wwd.com/business-news/financial/ferragamo-family-stands-strategy-supports-creative-director-maximilian-davis-despite-sales-dip-exit-of-ceo-1237027041/")
+![Ferragamo taps Maximilian Davis as new creative director](https://robbreport.com/wp-content/uploads/2022/03/maximilian-davis-salvatore-ferragamo.jpg?w=1200 "Robb Report|https://robbreport.com/style/menswear/salvatore-ferragamo-maximilian-davis-new-creative-director-1234668589/")
+
 
 
 Ferragamo is a Florence-rooted Italian leather-and-footwear heritage house — footwear was 45 percent and leather goods 41 percent of nine-month 2026 revenue, so the accessory-led structure holds[3]. Meanwhile, as a listed company where the founding family (chairman Leonardo Ferragamo) keeps managerial control, the accurate description is that Davis's tenure stability is tied more to the family's will than to any professional CEO[4].
@@ -136,15 +136,17 @@ His own label, Maximilian, debuted in 2020 through the London incubator Fashion 
 
 Davis's signature compresses to "whispered sensuality" — at his debut he defined the collection as "ease and sensuality"[7], and critics have since repeatedly described his work as "polished simplicity" and urban refinement[8]. Put differently, it is not Tom Ford-style overt sex but a grammar that hides sensuality inside restrained cut and material. His signature codes, enumerated: first, slim, sliding silhouettes; second, a palette narrowed to fleshy pink, bone, viscera red and black; third, archive reinterpretation that folds handbag forms into garment detail; fourth, staging that uses color as a single block, as with the debut show's graphic red sand[7][9].
 
-![Davis's Ferragamo SS23 debut review and ease and sensuality](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F09%2Fferragamo-ss23-debut-collection-tw.jpg?w=1080&cbr=1&q=90&fit=max "Hypebeast|https://hypebeast.com/2022/9/ferragamo-x-maximilian-davis-debut-for-ss23")
 
 His sets are not plain minimalism but carry narrative devices — Autumn/Winter 2025 referenced Pina Bausch's choreography, Dario Argento's Suspiria and Dalí's surrealism, aiming at "creating a sense of discomfort in the expected"[9]. Still, that narrative bent needs a counterweight — Spring/Summer 2026 drew on 1920s women's liberation, Harlem Renaissance dandyism and the status politics of Caribbean and African textiles, yet whether the story Davis himself framed as "a celebration of freedom, a reclaiming of self" translated into sales is unverified[10]. The Fall 2026 review noted he "got a little carried away with buttons and paneling," recording a point where the aesthetic of restraint wobbled into excess[8].
+
+![Ferragamo S/S26 whispered twenties, women's liberation narrative](https://images-prod.anothermag.com/1200/0-127-1626-1084/azure/another-prod/460/4/464614.jpg "AnOther Magazine|https://www.anothermag.com/fashion-beauty/16651/ferragamo-spring-summer-2026-show-review-maximilian-davis")
 
 ## 4. Vision and Philosophy
 
 The core of Davis's stated aim is brokering heritage and modernity — he has said he wants a Ferragamo that longtime clients and a new generation both desire, and at appointment defined the house identity as "a dedication to timeless elegance"[11][7]. That is, he will not erase founder Salvatore Ferragamo's Hollywood artisan legacy but rewrite it through his own sensual codes. He also links his design language to a Caribbean sense of living — he says he found "an effortlessness that feels very Caribbean" in the Italian way of dressing[11].
 
-![Davis's vision, philosophy, Caribbean effortlessness, appointment remarks](https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/db2fae06-1b67-4726-9122-e7f80b1042a3/id-preview-d82c5f8b--5eda686a-2395-4f7a-91b6-7b5e2274ab93.lovable.app-1780250944701.png "The Fashionography / i-D|https://thefashionography.com/fashion/the-visionary/maximilian-davis-from-manchester-roots-to-ferragamos-reinvention/")
+![Davis's Ferragamo SS23 debut review and ease and sensuality](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F09%2Fferragamo-ss23-debut-collection-tw.jpg?w=1080&cbr=1&q=90&fit=max "Hypebeast|https://hypebeast.com/2022/9/ferragamo-x-maximilian-davis-debut-for-ss23")
+
 
 In this respect his philosophy stresses trend-agnosticism and clothes that last — pieces that endure rather than overwhelm, a texture called rare in an age of overexposure and disposable excess[11]. Our read, though, is that this philosophy sits in tension with Ferragamo's commercial homework — the restraint of "quiet luxury" is a strength in critical language, but in a turnaround that needs icon-product buzz and velocity it is likely to act as a brake on the pace of growth.
 
@@ -152,7 +154,8 @@ In this respect his philosophy stresses trend-agnosticism and clothes that last 
 
 Davis's Ferragamo run sorts into three axes — critical landing, commercial lag, and a management vacuum. First, the debut made a strong impression — on 24 September 2022 he showed a 65-look Spring 2023 collection in the courtyard of Milan's Portrait Milano seminary, declaring a "new era" with graphic red sand and suede dresses to broadly favorable reviews[7]. Later seasons built critical trust — from the ballet-inspired Spring/Summer 2025 to the "whispered twenties" of Spring/Summer 2026 to the surrealism of Autumn/Winter 2025, critics repeatedly credited his "clarity of mind" and refined silhouettes[8][10].
 
-![Ferragamo Spring/Summer 2026 — Davis's "whispered twenties," Milan](https://images-prod.anothermag.com/1600/azure/another-prod/460/4/464601.jpg "AnOther Magazine|https://www.anothermag.com/fashion-beauty/16651/ferragamo-spring-summer-2026-show-review-maximilian-davis")
+![Ferragamo Fall 2026 collection review, polished simplicity, excess note](https://wwd.com/wp-content/uploads/2026/02/ferragamo-fall-26-rtw-r-ctsy-001.jpeg?w=1200 "WWD|https://wwd.com/runway/fall-2026/milan/salvatore-ferragamo/review/")
+
 
 But the numbers have not yet ratified that critical story — nine-month 2026 revenue was €674.8 million, down 2.8 percent reported (up 0.2 percent constant currency), and Q3 alone bent back to -3.5 percent constant currency (-6.2 percent reported)[3]. By channel and region, direct retail held at +4 percent constant over nine months while wholesale collapsed -13.4 percent; North America was strong at +11.2 percent, but Asia-Pacific (-5.3 percent) and EMEA (-7.4 percent) pulled it down[3]. The accurate description, then, is a mixed picture: direct and North America improving, wholesale and Asia deteriorating.
 
@@ -163,6 +166,7 @@ On the management axis, the vacuum is the variable — with Gobbetti, the CEO wh
 Ferragamo is a direct comparative case for the Gucci–Demna reset — our read is that the two houses share almost the same turnaround grammar: externally recruited designer, heritage reinterpretation, and a lag between critical praise and commercial payoff. First, on pacing — four years after his September 2022 debut, Davis still has nine-month comparable sales hovering around flat in 2026, without settling onto a stable positive track[3]. That is a precedent in which an external CD's critical landing may show no commercial confirmation even after four years, implying Demna's Gucci (appointed July 2025) must likewise be judged on a longer window.
 
 ![Ferragamo Q3 and nine-month 2026 results (revenue, channel, region, category)](https://theimpression.com/wp-content/uploads/2026/10/Ferragamo-Sales-Fall-as-Retail-Growth-Stalls.jpg "The Impression|https://theimpression.com/ferragamo-q3-2026-results/")
+
 
 Second, on the two-sidedness of governance stability — Ferragamo kept CD continuity by reaffirming Davis, yet the CEO who hired him is already gone and his successor is undecided[4][5]. From this it is confirmed that owner-family patience, even if it secures CD tenure, is not itself evidence of turnaround — the same structure as this desk's standing read that "Demna stability" at Gucci is a defensive plus while also being the party to the re-deterioration. Third, on the contrast of aesthetic lines — Davis's "quiet polish, whispered sensuality" sits opposite Demna's maximalist, history-mining vocabulary. Still, since neither "less loud" nor "more loud" has been settled by the numbers, Ferragamo is best read as the control group showing that even had Gucci chosen restraint, the result would not have been guaranteed.
 

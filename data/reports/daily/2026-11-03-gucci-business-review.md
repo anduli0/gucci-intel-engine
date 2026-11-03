@@ -16,14 +16,16 @@
 
 권역을 나눠 보면 체온이 확연히 다르다 — 북동아시아가 가장 차갑다. 중국의 '누구나 알아본다는 사실 자체가 문제'라는 분석[3], 고소득층 세무 추징·국산 럭셔리 이탈[15][16], 에르메스·샤넬·루이비통보다 낮은 리셀 잔존가치[17]가 겹쳐 로고 피로가 데이터로 드러났다. 리노(스트레이 키즈) 화보[18][19]와 이세탄 구찌코어 팝업[20]은 활성화 콘텐츠여서 여론 개선으로 읽지 않는다. 동남아는 빌킨의 태국 앰배서더 선임[21]과 팬덤 환호[22]가 온기를 더했지만, 중국 수요 이탈 분석[23]과 KLCC 폐점을 둘러싼 냉소적 반응[24]이 그 온기를 눌렀다. 유럽은 활성화가 뚜렷했으나 뎀나 선임에 미온적인 애널리스트 평가[25], 품질 불만[12], GG 마르몽 가격 인하 논쟁[26]이 나란히 존재했다. 다만 1차 판매가 꺾이는 와중에도 중고 수요는 오른다는 역설[27]은 욕망이 완전히 꺼지지 않았다는 반론 재료다.
 
-![세금 추징에 루이비통·구찌 사던 중국 부자들의 이탈](https://static.heraldcorp.com/wbazic/biz/www/image/heraldsns.png "Heraldk|https://www.heraldk.com/article/2026101716292298592")
+![중국 명품 소비가 수입 브랜드에서 국산으로 이동, 구찌 매출 급락](https://image.zdnet.co.kr/2025/11/17/c36e9e0b1ffa0a6bf94434109ca8214f.jpg "ZDNet Korea|https://zdnet.co.kr/view/?no=20251117090636")
+
 
 
 ## 3. 내일 볼 것 — 캠페인 열기의 진위와 실수요
 
 앞으로 1~2주는 '만들어진 화제'가 '진짜 수요'로 전환되는지를 봐야 한다 — 상방은 활성화가 구매로 이어지는 경우, 하방은 실적 쇼크 잔상과 품질 담론이 구매 심리를 눌러 열기가 SNS 안에서만 맴도는 경우다. 긍정 활성화와 부정 구조 신호가 상쇄되는 횡보가 가장 유력하다. 권고는 다섯 가지다. 첫째, 캐리 캠페인은 유명인 화제가 아니라 '버터플라이 캡슐의 선물 가치'로 메시지를 좁힌다[4][5]. 둘째, 파리 '스토어 쇼' 경험을 짧은 영상으로 재활용하되 과장된 수사는 피한다[6][7]. 셋째, 중국·프랑스의 품질 불만[11][12]에 수선·보증 메시지를 선제 대응한다. 넷째, 1955 호스빗·재키 1961 등 잔존가치 높은 클래식[17]을 홀리데이 전면에 배치해 로고 피로를 상쇄한다. 다섯째, 태국 앰배서더 모멘텀[21][22]은 매장 트래픽·예약으로 연결한다.
 
-![머라이어 캐리의 '버터플라이' 캡슐 공개, 구찌 홀리데이 캠페인](https://www.rollingstone.com/wp-content/uploads/2026/11/mariah-carey-gucci-2026.png?w=1200 "Rolling Stone|https://www.rollingstone.com/product-recommendations/lifestyle/mariah-carey-christmas-gucci-holiday-campaign-2026-video-1235651280/")
+![구찌, 파리 아브뉴 몽테뉴 대형 플래그십 개관](https://www.pambianconews.com/wp-content/uploads/2026/11/26-10-28-Montaigne-Gucci0520_FACCIATA-e1793611096590.jpg "Pambianco News|https://www.pambianconews.com/2026/11/02/gucci-taglia-il-nastro-del-maxi-flagship-parigino-in-avenue-montaigne-499203/")
+
 
 ## 주석
 

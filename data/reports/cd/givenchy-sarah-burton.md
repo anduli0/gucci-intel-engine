@@ -44,9 +44,10 @@
 ## 4. 지향점과 철학
 버튼의 지향점은 "출발점으로의 회귀"다. 그녀는 여러 차례 재창조를 거친 지방시라는 하우스의 탄생 지점을 다시 살피고 싶었다고 밝히며, 재단·실루엣·비율이라는 기본기로 돌아가는 전략을 택했다. 그녀는 하우스의 토대를 실루엣의 문제로 규정하고, "모든 하우스는 토대에서 시작한다"고 말한다.[7] 위베르 드 지방시의 1952년 데뷔 컬렉션을 되짚어보는 작업이 이 회귀의 출발점이 되었는데, 그녀는 그 초기 컬렉션을 "매우 절제되고 매우 깔끔했다—어떤 면에선 히치콕적이었다"고 회고한다.[6]
 
-![Sarah Burton 지방시 인터뷰(1952 아카이브·실생활을 위한 옷·데뷔 시즌 콘셉트)](https://imgix.bustle.com/uploads/image/2025/11/24/d45e1dcf/wmag0625featuresarahburtonhrrgb-1.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4794&fp-y=0.3763 "W Magazine|https://www.wmagazine.com/fashion/givenchy-sarah-burton-interview-kaia-gerber-2025")
 
 두 번째 축은 "실제 여성을 위한 옷"이라는 실용주의다. 그녀는 자신의 옷이 인스타그램이 아니라 실생활을 위해 만들어진다는 점, 그리고 그 작업이 실제 사람들을 위한 것임을 잊지 않는 것이 중요하다고 강조한다.[6] 여성성에 대한 그녀의 접근은 남성 코드의 구조 안에 여성을 가두는 대신, 신체를 특정한 방식으로 드러내며 섹슈얼리티와 센슈얼리티를 함께 탐구하는 쪽이다.[7] 이 관점은 2026 가을 캠페인에서도 이어졌는데, 보도에 따르면 캠페인은 친밀함과 함께 "여럿으로 갈라지며 스스로 정의되는" 여성성을 전면에 두고 다양한 세대·유형의 여성을 담았다.[19] 2026년 6월 첫 남성복을 계기로 이 철학은 성별을 초월한 인간 중심 관점으로도 확장됐다. 그녀는 "옷을 입히는 것은 매우 개인적이고 사적이며 친밀한 경험"이라고 말하며, "솔직히 남녀를 구분하지 않는다—사람과 인간에 관한 것"이라고 밝혔다.[15] 재단은 이 관점의 상수로, 그녀는 "모든 컬렉션의 핵심에는 재단이 있다"고 단언한다.[15]
+
+![Givenchy 2026 가을·겨울 광고 캠페인(위르겐 텔러·크로아티아 해안·카이아 거버·류원·에바 헤르지고바·친밀함과 복수(複數)·자기정의적 여성성·텔러 날것 스타일과 버튼 재단의 긴장)](https://theimpression.com/wp-content/uploads/2026/08/givenchy-fall-2026-ad-campaign-the-impression-header.jpg "The Impression|https://theimpression.com/givenchy-winter-2026-ad-campaign-review/")
 
 세 번째는 아틀리에에 대한 존중이다. 그녀는 디자인 작업을 디자이너와 아틀리에 사이의 일종의 춤에 비유하며, 원단이 어떻게 드레이프되고 움직이는지를 눈으로 확인하는 3D적·촉각적 방법론을 견지한다고 설명한다.[7] 팀에 대한 태도 역시 철학의 일부로, "내 팀을 포함한 모든 여성의 아름다움이 나에게 영감을 준다"는 언급은 캠페인의 다세대 여성성 콘셉트로 이어졌다.[8] 남성복 출범 과정에서 그녀는 남녀 팀 사이의 스튜디오 벽을 없애 협업적 디자인을 유도했다고 알려졌으며, 이는 하나의 아틀리에가 성별을 가로질러 작동하는 그녀의 통합적 방법론을 뒷받침한다.[15]
 
@@ -152,6 +153,7 @@ Burton's guiding direction is "a return to the starting point." She has said she
 
 ![Sarah Burton Givenchy interview (1952 archive, clothes for real life, debut season concept)](https://imgix.bustle.com/uploads/image/2025/11/24/d45e1dcf/wmag0625featuresarahburtonhrrgb-1.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4794&fp-y=0.3763 "W Magazine|https://www.wmagazine.com/fashion/givenchy-sarah-burton-interview-kaia-gerber-2025")
 
+
 A second pillar is a pragmatism centered on "clothes for real women." She emphasizes that her clothes are made for real life rather than Instagram, and that it matters to remember the work is for actual people.[6] Her approach to femininity is not to confine women within menswear codes but to reveal the body in specific ways, exploring sexuality and sensuality together.[7] This view carried into the Fall 2026 campaign, which per reporting foregrounded intimacy and a femininity that becomes "multiple" and self-defined, capturing women of varied generations and types.[19] Her June 2026 menswear debut extended the view into a gender-transcending, human-centered stance. She said dressing people is "a very personal, private, intimate experience," and added, "I don't really differentiate between men and women… it's about people and human beings."[15] Tailoring is the constant: "At the core of every collection is tailoring," she insists.[15]
 
 The third pillar is respect for the atelier. She describes the design process as a dance between designer and atelier, maintaining a tactile, three-dimensional method of observing how fabric drapes and moves.[7] Her attitude toward her team is part of this philosophy — her remark that "the beauty of all women, including my own team, inspires me" carried through into her campaigns' multigenerational femininity.[8] In building out menswear she reportedly removed studio walls between the men's and women's teams to encourage collaborative design, underscoring an integrated single-atelier method that works across gender.[15]
@@ -170,7 +172,8 @@ The execution phase continued into the second half. In early October 2026, in Pa
 ## 6. Gucci Perspective
 For Gucci, Sarah Burton matters less as a direct category competitor than as a benchmark for turnaround methodology. Gucci (under Demna) and Givenchy (under Burton) share the trait of undergoing simultaneous creative resets under different parents (Kering vs. LVMH), but their approaches contrast sharply. Where Demna redefines the house through strong authorial vision and cultural provocation, Burton accumulates trust through a restrained, orthodox approach of "returning to first principles and craftsmanship."[3][7] The Spring/Summer 2027 show sharpened the contrast: Burton's choice to juxtapose multiple versions of womanhood as a "female-gaze" answer to bodycon display sits at the opposite axis from Demna's authorial provocation, which foregrounds a single strong authorial viewpoint.[18] Burton's 2026 trajectory shows this orthodoxy can move beyond credibility into commercial execution: a signature bag (Snatch), a best-reviewed show, a menswear category launch, and a CEO change compressed into a single year enact the textbook sequence of "codes first, then signature item, then category and organizational expansion" in real time. For Gucci, navigating pressure to rebound commercially while rebuilding creative identity, the Burton case is a control group for gauging that sequence and its pace.[12][13][15]
 
-![Givenchy AW2025 debut review (first principles, house codes)](https://img.businessoffashion.com/resizer/v2/22UAR3TBAZBHTCA3DBBY3INTYQ.jpg?smart=true&auth=6a95971b7c04c04ffedc3aca58f712d23650914b35dea9a1610c307641d719f0&width=1200&height=630 "Business of Fashion|https://www.businessoffashion.com/reviews/fashion-week/givenchy-paris-fashion-week-autumn-winter-2025-review/")
+![Givenchy Fall 2026 review (Old Masters, Les Invalides, show note)](https://imgix.bustle.com/uploads/image/2026/3/7/e5bab3dd/givenchy_fw26_woman_show_look_46.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5033&fp-y=0.1793 "W Magazine|https://www.wmagazine.com/fashion/givenchy-fall-2026-sarah-burton-runway-photos")
+
 
 Three points of competitive threat stand out. First, Burton's romantic tailoring and women's-wardrobe narrative could overlap with the core luxury female segment Gucci targets. Second, if the Snatch becomes a genuine hit, it adds a new iconic-bag candidate competing head-on with Gucci's handbag category (success unverified). Third, with menswear returning Givenchy to a full-wardrobe house, increased LVMH investment (hypothesis) could convert creative momentum into commercial growth, intensifying competition. Worthwhile benchmark points: (1) the speed at which the Snatch establishes itself as a signature hit; (2) the commercial traction of menswear and the efficiency of the integrated men's-and-women's atelier; (3) the execution power of the Ohayon-Burton management-and-creative dual structure; and (4) whether the compressed shirt-suit-dress vocabulary from a "cohesive" and "assertive" third womenswear collection hardens into a recognizable Givenchy code over the fourth and fifth seasons.[17][18]
 
@@ -179,10 +182,12 @@ The following 12-month watch points carry hypothesis labels. [Hypothesis] First,
 
 ![Amandine Ohayon named Givenchy CEO, succeeding Alessandro Valenti who moves to Christian Dior Couture (effective 2026-01-09)](https://iol-prod.appspot.com/image/6624f7348b296ecbf6c8870788192071479fc4af/1000/jpeg "Fast Company|https://fastcompany.co.za/co-design/2026-01-09-amandine-ohayon-appointed-ceo-of-givenchy-marking-a-strategic-shift-for-lvmh/")
 
+
 ## 8. Notes
 - CCO/Creative Director: the chief creative officer overseeing a house's entire collection direction. Burton oversees all of Givenchy's womenswear and menswear collections.[15]
 
 ![Sarah Burton's first menswear collection (2026-06-24, human-centered philosophy, tailoring quotes)](https://theimpression.com/wp-content/uploads/2026/06/Givenchy-Menswear.jpg "The Impression|https://theimpression.com/sarah-burton-givenchy-menswear-humanity-tailoring-craft/")
+
 - First principles: this report's shorthand for an approach that rebuilds design by returning to fundamental elements such as cut, silhouette, and proportion.
 - The Snatch: Burton's first signature handbag for Givenchy, defined by an inside-out construction and curves referencing a cinched jacket, waistline, or bra.[12]
 - Female gaze: this report's shorthand for representing femininity by juxtaposing multiple versions and perspectives of women rather than displaying the body as bodycon.[18]
@@ -194,13 +199,14 @@ The following 12-month watch points carry hypothesis labels. [Hypothesis] First,
 
 [2] Wikipedia — Sarah Burton (career, appointment, and departure timeline) — https://en.wikipedia.org/wiki/Sarah_Burton
 [3] Business of Fashion — Givenchy AW2025 debut review (first principles, house codes) — https://www.businessoffashion.com/reviews/fashion-week/givenchy-paris-fashion-week-autumn-winter-2025-review/
+
+![Givenchy AW2025 debut review (first principles, house codes)](https://img.businessoffashion.com/resizer/v2/22UAR3TBAZBHTCA3DBBY3INTYQ.jpg?smart=true&auth=6a95971b7c04c04ffedc3aca58f712d23650914b35dea9a1610c307641d719f0&width=1200&height=630 "Business of Fashion|https://www.businessoffashion.com/reviews/fashion-week/givenchy-paris-fashion-week-autumn-winter-2025-review/")
 [4] Wikipedia — Wedding dress of Catherine Middleton (dress details, 29% sales increase) — https://en.wikipedia.org/wiki/Wedding_dress_of_Catherine_Middleton
 [5] The Conversation — Analysis of McQueen-era signature works, craft and legacy — https://theconversation.com/as-sarah-burton-leaves-alexander-mcqueen-an-expert-explores-her-legacy-through-five-iconic-designs-213579
 [6] W Magazine — Sarah Burton Givenchy interview (1952 archive, clothes for real life, debut season concept) — https://www.wmagazine.com/fashion/givenchy-sarah-burton-interview-kaia-gerber-2025
 [7] Vogue Adria — Analysis of Burton's remarks (philosophy, femininity, atelier) — https://vogueadria.com/sarah-burton-givenchy-intervju/
 [8] WWD — Givenchy Fall 2025 campaign (multigenerational female casting) — https://wwd.com/fashion-news/designer-luxury/givenchy-fall-2025-campaign-kaia-1238066700/
 
-![Givenchy Fall 2025 campaign (multigenerational female casting)](https://wwd.com/wp-content/uploads/2025/08/givenchy-fall-2025-campaign-csty-01.jpg?w=1200 "WWD|https://wwd.com/fashion-news/designer-luxury/givenchy-fall-2025-campaign-kaia-1238066700/")
 [9] The Impression — Givenchy Spring 2026 review (powerful femininity, sophisticated tailoring) — https://theimpression.com/givenchy-spring-2026-fashion-show-review/
 [10] Business of Fashion — Williams's Givenchy departure, turnaround context, Luca Solca — https://www.businessoffashion.com/articles/luxury/matthew-williams-to-exit-givenchy/
 [11] Fast Company — Amandine Ohayon named Givenchy CEO, succeeding Alessandro Valenti who moves to Christian Dior Couture (effective 2026-01-09) — https://fastcompany.co.za/co-design/2026-01-09-amandine-ohayon-appointed-ceo-of-givenchy-marking-a-strategic-shift-for-lvmh/
