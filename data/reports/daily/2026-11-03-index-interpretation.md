@@ -73,8 +73,6 @@ Today reads as broad softness, an NA rebound, and an NEA plunge — global 36.98
 
 Conversation volume in two regions moved the numbers, not a turn in opinion — 10.67 of NEA's fall came from Buzz (0.970→0.436), Sentiment shaved 1.74 more, and NA's +6.03 was also Buzz-driven [4][5]. NEA's drop looks like a revert from an abnormal spike on a thin base of 13 items (effective n 6.2) — a two-day swing reading as one. Still, this benign reading needs a counterweight: NEA logged zero positive drivers, stacked negatives (controversy, design criticism, resale decline), and a floor of Kering Q3 comparable sales −6%, directly-operated retail −9%, and roughly 42% resale retention [1][2][6]. Our read: the 12-point fall is an illusion, but the block beneath is genuinely weakest of the four, so a §3.5 trigger fired and we recommend an /event-response pass; NA's gain, against 10 negative items, likewise isn't improving opinion [3].
 
-![Kering shares down ~16% intraday on weak Gucci Q3 sales](https://www.seventietwo.com/uploads/2026/10/600-SVT-12.jpg "Seventietwo (Japan)|https://www.seventietwo.com/ja/business/Kering_2026Q3_20261023")
-
 ## 3. What to watch tomorrow
 
 Three things: whether NEA Buzz falls further from 0.436 or rebounds, settling the illusion question [4]; whether any positive NEA driver appears, signaling a fundamentals shift; and whether NA's gain holds a day later, telling rebound apart from momentum [5].

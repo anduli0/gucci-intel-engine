@@ -10,7 +10,8 @@
 
 10월 22~23일 케링 3분기에서 구찌 비교매출이 다시 깊게 빠지자 모기업 주가가 장중 약 16% 폭락해 상장 이후 최악의 하루를 기록했고[1][4], 그 충격이 네 권역 톤을 눌렀다. 북미는 럭셔리 카드지출 둔화와 겹쳐 '섹터 전체의 적신호'로 읽혔고[3][7], 인터브랜드는 구찌를 올해 럭셔리 최대 브랜드가치 하락 브랜드로 지목했다[9]. 유럽은 '성장 시장이 없다'는 해부를 내놨고[12][14], 동북아에서는 "인지도는 있는데 전환이 없다"는 비판에 인하·인상이 뒤섞인 웨이보 혼선이 겹쳤다[6][18]. 결을 달리한 건 아브뉘 몽테뉴뿐이다 — 벨레티니는 이 매장을 글로벌 리테일 개편의 첫 템플릿으로 규정했다[5][11]. 시장이 묻는 것은 디자인이 아니라 그 처방이 매출로 돌아오느냐이고, 증거는 아직 없다.
 
-![케링 주가 16% 폭락과 한국 면세·여행객 럭셔리 '디커플링' 호황 대비](https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102422125408096fda4f5ab7439122247205.jpg "g-enews (글로벌이코노믹)|https://www.g-enews.com/article/Global-Biz/2026/10/202610242206511009fda4f5ab74_1")
+![구찌의 중국 문제가 케링을 럭셔리 침체로 더 끌고 들어간다](https://s.yimg.com/lo/mysterio/api/3cc7e743311e08145a4eb501865b29dd46eac4583fdc2ec193ea4f37a006cdbf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F59716dfcceef195a50ae2e185189640c.jpg "Fortune|https://finance.yahoo.com/markets/stocks/articles/gucci-china-problem-drags-kering-171429534.html")
+
 
 ## 2. 근거와 반론 — 디자인 혹평·품질 불만은 실재하나, 실패로 못 박기엔 이르다
 

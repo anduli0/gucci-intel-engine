@@ -30,7 +30,6 @@
 
 상업적으로 미우미우는 2020년대 들어 업계에서 가장 극적인 성장 곡선을 그렸다. 2023년 매출은 약 7억 5,300만 유로였고, 그해 전년비 성장률은 82%에 이르렀다.[10] 2024년에는 상반기 매출이 전년비 93% 급증하고 3분기 매출이 105% 늘어나는 초고성장을 기록하며 프라다 그룹 성장의 주 엔진으로 자리 잡았다.[10] 이 폭발의 배경에는 SS22 바이럴 마이크로 미니스커트, AW23의 안경 쓴 사서(librarian) 룩, 팬츠리스 트렌드 선도 같은 문화적 순간들이 있었고, 이들은 다리오 비탈레가 디자인 디렉터로서 설계에 깊이 관여한 산출물로 지목된다 — 단 브랜드 성과 수치는 비탈레 개인 기여분을 분리 계량한 것이 아니라 하우스 전체 성과다.[13]
 
-![Dario Vitale 미우미우 디자인 디렉터 역할·SS22 마이크로미니·AW23 사서·팬츠리스·뉴발란스 모멘텀·베르사체 이력](https://images-prod.dazeddigital.com/1200/0-669-2250-1500/azure/dazed-prod/1400/6/1406356.jpg "Dazed / FashionNetwork|https://www.dazeddigital.com/fashion/article/66351/1/who-is-dario-vitale-versace-new-creative-director-donatella-miu-miu")
 
 2026년 들어 이 곡선은 평탄화됐다. 프라다 그룹이 2026년 8월 3일 발표한 상반기 실적에서 그룹 순매출은 고정환율 기준 16% 증가한 30억 4,800만 유로였으나, 미우미우 브랜드의 상반기 리테일 성장률은 약 2.5%(1분기 2.6%·2분기 2.5%)로 급감하며 2025년 40%대 초고성장 국면을 사실상 종료했다.[8][16] 비즈니스 오브 패션은 이를 성장의 꺾임이라기보다 극도로 높아진 비교 기준선과 중동 여파(상반기 중동 매출 -24%)가 겹친 '연착륙(soft landing)'으로 규정했다.[8][9] 일부 이차 매체가 2026년 미우미우 성장률로 재인용한 35%·49% 류 수치는 과거 회계연도 총매출 성장률의 오인용으로, 당기 상반기 리테일 동일점포 지표가 아니다(미확인 수치는 본 리포트에서 배제).
 
@@ -136,7 +135,6 @@ It is difficult to discuss Miuccia's "prior house" separately, since her entire 
 
 Commercially, Miu Miu traced one of the industry's most dramatic growth curves in the 2020s. Its 2023 revenue was about €753 million, with year-over-year growth that year reaching 82%.[10] In 2024 it posted hyper-growth, with first-half revenue up 93% and third-quarter revenue up 105% year-over-year, establishing itself as the Prada Group's main growth engine.[10] Behind this explosion were cultural moments such as the viral SS22 micro-mini skirts, the bespectacled "librarian" look of AW23, and the pioneering of the pantless trend — output in which Dario Vitale, as design director, was deeply involved, though the brand figures are house-wide performance, not an isolation of his individual contribution.[13]
 
-![Dario Vitale's Miu Miu design-director role, SS22 micro-mini, AW23 librarian, pantless, New Balance momentum, Versace history](https://images-prod.dazeddigital.com/1200/0-669-2250-1500/azure/dazed-prod/1400/6/1406356.jpg "Dazed / FashionNetwork|https://www.dazeddigital.com/fashion/article/66351/1/who-is-dario-vitale-versace-new-creative-director-donatella-miu-miu")
 
 In 2026 the curve flattened. In the half-year results released on August 3, 2026, the Prada Group's net revenue rose 16% at constant currency to €3,048 million, but the Miu Miu brand's first-half retail growth decelerated sharply to roughly 2.5% (2.6% in Q1, 2.5% in Q2), effectively ending the 40%+ hyper-growth phase of 2025.[8][16] Business of Fashion characterized this not as a reversal but as a "soft landing" shaped by an extraordinarily elevated comparison base and the drag from the Middle East (Middle East sales down 24% for the half).[8][9] Figures such as 35% or 49% recycled by some secondary outlets as 2026 Miu Miu growth are misattributions of past fiscal-year net-sales growth, not a current-period H1 retail like-for-like metric (unverified figures are excluded from this report).
 

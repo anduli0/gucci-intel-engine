@@ -59,14 +59,15 @@ def sources(lines):
     return out
 
 
-def add_figures(text, cache):
+def add_figures(text, cache, taken=frozenset()):
+    """taken = images already used by OTHER reports: a photo appears on the site once.
+    Within this edition no repeats either; a section whose only candidate is already
+    used gets no figure at all (omit rather than repeat)."""
     lines, seen, n = [], set(), 0
-    # NO duplicate photos in one edition: a repeated figure line (same image) is dropped,
-    # and a section whose only candidate image is already used gets no figure at all.
     for ln in text.split("\n"):
         m = re.match(r"^!\[[^\]]*\]\((\S+)", ln)
         if m:
-            if m.group(1) in seen:
+            if m.group(1) in seen or m.group(1) in taken:
                 n -= 1
                 continue
             seen.add(m.group(1))
@@ -91,7 +92,7 @@ def add_figures(text, cache):
                     if num in srcs and num not in used:
                         pub, desc, url = srcs[num]
                         img = og_image(url, cache)
-                        if img and img not in seen:
+                        if img and img not in seen and img not in taken:
                             seen.add(img)
                             fig = (k, num, pub, desc, url, img)
                             break
@@ -113,12 +114,20 @@ def main():
     dry = "--dry" in sys.argv
     CACHE.parent.mkdir(parents=True, exist_ok=True)
     cache = json.loads(CACHE.read_text(encoding="utf-8")) if CACHE.exists() else {}
-    total = 0
+    total, taken = 0, set()  # evergreen CD dossiers first, so they keep their photos
     for d in DIRS:
         for p in sorted((ROOT / "data" / "reports" / d).glob("*.md")):
             text = p.read_text(encoding="utf-8")
+            if p.name.endswith("-index-interpretation.md"):  # the index report stays plain: no photos
+                clean = re.sub(r"^!\[[^\]]*\]\(\S+[^\n]*\n\n?", "", text, flags=re.M)
+                if clean != text and not dry:
+                    p.write_text(clean, encoding="utf-8")
+                    print(f"{p.relative_to(ROOT)}: photos removed")
+                continue
             halves = text.split(MARK)
-            done = [add_figures(h, cache) for h in halves]
+            done = [add_figures(h, cache, taken) for h in halves]
+            for t, _ in done:
+                taken.update(re.findall(r"^!\[[^\]]*\]\((\S+)", t, re.M))
             n = sum(c for _, c in done)
             if n or MARK.join(t for t, _ in done) != text:
                 total += n
@@ -139,4 +148,5 @@ if __name__ == "__main__":
     _d = _r + "\n## 2. B\n\nz [2] w\n\n## 출처\n\n[2] Pub — d2 — https://example.invalid/b\n"
     _r2, _n2 = add_figures(_d, {"https://example.invalid/a": "https://img/x.jpg", "https://example.invalid/b": "https://img/x.jpg"})
     assert _n2 == 0 and _r2.count("![") == 1, _r2  # same image again -> omitted
+    assert add_figures(_t, {"https://example.invalid/a": "https://img/x.jpg"}, {"https://img/x.jpg"})[0].count("![") == 0  # used elsewhere -> omitted
     main()

@@ -16,7 +16,8 @@
 
 이번 사안의 결론은 10월 6일 직전 특집이 "시장이 7월의 희망을 되판다"고 경고했던 바로 그 시나리오가 10월 22일 실적으로 현실화됐다는 것이다 — 구찌 비교매출은 2분기 -2%에서 3분기 -6%로 다시 악화됐고, 직영 리테일은 -9%였으며, 다음 날 케링 주가는 장중 최대 16%까지 빠져 로이터·유로넥스트 기준 상장 이후 최악의 하루를 기록했다[1][2][3][4]. 즉 "2분기가 일회성이었다"는 최악의 해석이 데이터로 굳어졌고, 시장이 7월에 걸었던 신뢰는 이번에 숫자로 반박당했다. 다만 본 분석의 판단은, 이 하락이 구찌 고유의 실행 실패만으로 설명되지 않는다는 데 있다 — 같은 분기 LVMH 패션·가죽 부문이 -5%였고 에르메스 성장은 4.3%로 둔화됐으며, 리얼리얼의 빈티지 수요가 2020년 대비 432% 늘고 소비자 47%가 신품 구매 전 리세일 가치를 따진다는 데이터는 신품 가격 저항이 경기 순환이 아니라 구조로 자리잡고 있음을 시사한다[5][6][7]. 동시에, 케링은 생로랑(바카렐로 10년 만에 퇴진)·발렌시아가(피치올리 1년여 만에 퇴진)·맥퀸(맥거 3년 만에 퇴진, 매출은 8.5억→2억 유로 미만으로 붕괴 추정)에서 디렉터가 동시에 교체되는 가운데, 구찌만 뎀나 체제로 1년을 넘긴 유일한 '연속성' 하우스가 됐다[8][9][10][11]. 그러나 이 '안정성'을 투자 서사로 포장하려는 유혹은 경계해야 한다 — 연속성이 있는 구찌가 바로 -6%를 찍은 당사자이므로, 안정성 자체는 매출 문제를 해결하지 못하며 자칫 같은 문제를 가리는 수사가 될 수 있다(가설). 마틴 로즈의 발렌시아가 선임설은 10월 29일 기준 회사 공식 확인이 없어 미확인으로 둔다[12].
 
-![케링 3분기 매출 정체, 주얼리·아이웨어가 구찌 수축을 일부 상쇄, 생로랑·보테가 견조](https://r.fashionunited.com/biqV-V4jT7Mgter1Pd_CrS2SCFwvL0fTGrxpvnFRgeY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMjkva2VyaW5nLWd1Y2NpLXZ5MGk3cXdmLTIwMjMtMDQtMjUtczJqa2FwOGUtMjAyMy0xMi0xNS1rbWxreW04dy0yMDIzLTEyLTE1LW1la2g1dXVwLTIwMjMtMTItMTktcmE3cTBuOGEtMjAyNC0wMi0wOC0xanF5aGRveS0yMDI0LTEwLTIzLWVkYmh3bThrLTIwMjYtMDctMjkuanBlZw.jpeg "FashionUnited|https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016")
+![숀 맥거 3년 만에 맥퀸 사임](https://img.businessoffashion.com/resizer/v2/NM7NKTJ6WFFPVFXORDRMYN7NIM.png?smart=true&auth=a398ff8e55d6f15d48c307a648cd5a504a5216292e17667902b5a51654485e6b&width=1200&height=630 "Business of Fashion|https://www.businessoffashion.com/articles/luxury/sean-mcgirr-exits-mcqueen/")
+
 
 ## 1. 이벤트 개요 — 10월 22일 실적과 10월 23일 주가, 사실 관계
 
@@ -28,7 +29,8 @@
 
 셋째, 시간적 맥락이다. 이 발표는 10월 12일 LVMH 패션·가죽 -5%, 10월 22일 같은 날 에르메스·프라다 실적과 겹쳐 나왔고, 이 묶음이 "구찌만의 문제냐, 업종의 문제냐"라는 해석 틀을 함께 세팅했다[5][14][15]. 10월 6일 특집이 "10월 12일 LVMH가 10월 22일 구찌 해석을 미리 세팅한다"고 예측한 구도가 그대로 작동한 셈이다.
 
-![LVMH 3분기 패션·가죽제품 부문 -5%, 중국 수요 둔화 반영](https://wwd.com/wp-content/uploads/2026/10/louis-vuitton-spring-2027-rtw-r-gg-1772.jpg?crop=0px%2C62px%2C1365px%2C763px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/lvmh-q3-sales-fashion-leather-goods-down-5-percent-1239342984/")
+![프라다 그룹 9개월 매출 +15%, 미우미우 3분기 소매 -3%로 4년 만 첫 감소](https://www.pradagroup.com/content/dam/pradagroup/immagini/investors/2026/9M-26/news/cover-news.jpg "Prada Group / nss magazine|https://www.pradagroup.com/en/news-media/news-section/26-10-22-prada-group-9m-revenue.html")
+
 
 ## 2. 왜 구찌가 그룹의 발목인가 — de Meo·경영진이 실제로 한 말
 
@@ -46,9 +48,10 @@
 
 핵심 수치는 세 가지다. 첫째, 리세일 플랫폼 리얼리얼에서 빈티지 수요가 2020년 대비 432% 증가했고, 리세일이 신품 럭셔리보다 2~3배 빠르게 성장하고 있다[6]. 둘째, 리얼리얼의 2026년 리포트에 따르면 소비자의 47%가 신품을 사기 전에 그 제품의 리세일 가치를 확인한다[6]. 셋째, 케링 주가는 연초 대비 약 28% 하락했다[6]. 이 묶음이 가리키는 바는 명확하다 — "핸드백 하나에 몇 달 치 월급을 쓰는 것"에 대한 소비자 저항이 특정 분기의 중국 트래픽 문제가 아니라, 신품 가격 전반에 대한 구조적 심리로 굳어지고 있다는 것이다[6].
 
-!['럭셔리 인내심 소진': 리얼리얼 빈티지 수요 2020년 대비 +432%, 소비자 47% 신품 전 리세일 가치 확인, 케링 주가 연초 대비 -28%, 리세일이 신품보다 2~3배 빠른 성장](https://r.fashionunited.com/k3y_1Qd0AdTHKDg73wGUJVhPMAOgGakwwX62vYSJjSY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDkvMzAvc2FpbnQtbGF1cmVudC1hdG0tczI3LTAwNS0xc2M1a2dzeC0yMDI2LTA5LTMwLmpwZWc.jpeg "FashionUnited|https://fashionunited.in/news/fashion/patience-with-luxury-is-wearing-thin/2026102856724")
 
 이 해석이 구찌에 던지는 함의는 무겁다. 만약 부진의 원인이 "중국 부동산·과세發 일시적 트래픽 위축"이라면 거시가 회복되면 수요도 돌아온다. 그러나 원인이 "신품 대비 리세일로 가치가 이동하는 구조적 전환"이라면, 가격 인하(구찌가 중국에서 최대 약 30% 단행)로도 쉽게 되돌릴 수 없고 오히려 브랜드 가치 희석 리스크만 커진다[17]. 실제로 구찌는 비인가 채널을 통한 위조품 유통(Gilt 소송)과 중국 가격 유턴이라는, 리세일·가격 신뢰를 동시에 흔드는 이슈를 안고 있다[17][18]. 다만 이 구조적 해석에도 균형추가 필요하다 — 리세일 급증은 럭셔리 수요가 소멸한다는 뜻이 아니라 "가치 대비 가격"에 대한 소비자 민감도가 높아졌다는 뜻이며, 같은 분기 브루넬로 쿠치넬리가 가이던스를 재상향하고 제냐 본 브랜드가 +13% 성장한 사실은 "제값을 하는 상품"에는 여전히 수요가 있음을 보여준다[19][20]. 문제는 구찌가 지금 그 "제값" 인식을 잃어가고 있다는 쪽에 가깝다.
+
+![구찌 vs Gilt Groupe, 비인가 채널 위조품 유통 소송 진행](https://www.thefashionlaw.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-11.18.07-AM-1024x729.png "The Fashion Law|https://www.thefashionlaw.com/gucci-v-gilt-puts-luxury-sourcing-authentication-in-focus/")
 
 ## 4. 크로스-하우스 디렉터 물갈이 — 뎀나 안정성은 자산인가, 같은 문제의 가림막인가
 
@@ -166,11 +169,12 @@ This event is best summarized by two dates. Kering reported Q3 revenue after mar
 
 First, the earnings. Kering's group Q3 revenue was EUR 3.35 billion, essentially flat on a reported basis and down roughly 1% on a comparable basis[1][3]. Gucci is the crux of the story. Gucci's revenue came to EUR 1.29 billion, down 4% reported and down 6% on a comparable basis, while directly-operated retail sales fell 9% on a comparable basis[1][3]. Given that comparable sales were -2% in Q2, the -6% print in Q3 is a clear re-deterioration, and the -9% retail figure shows the weakness in traffic-driven channels runs even deeper. By region, soft store traffic in Asia-Pacific — particularly mainland China and Japan — was named as the primary driver[1][2]. Relative strength in jewelry, eyewear, and, within the group, Saint Laurent and Bottega Veneta offset some of the decline, but not enough to close Gucci's gap[3].
 
-![Kering Q3 revenue flat, jewelry and eyewear partly offset Gucci's contraction, Saint Laurent and Bottega resilient](https://r.fashionunited.com/biqV-V4jT7Mgter1Pd_CrS2SCFwvL0fTGrxpvnFRgeY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMjkva2VyaW5nLWd1Y2NpLXZ5MGk3cXdmLTIwMjMtMDQtMjUtczJqa2FwOGUtMjAyMy0xMi0xNS1rbWxreW04dy0yMDIzLTEyLTE1LW1la2g1dXVwLTIwMjMtMTItMTktcmE3cTBuOGEtMjAyNC0wMi0wOC0xanF5aGRveS0yMDI0LTEwLTIzLWVkYmh3bThrLTIwMjYtMDctMjkuanBlZw.jpeg "FashionUnited|https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016")
 
 Second, the stock. On October 23, Kering shares fell as much as roughly 16% intraday, with multiple outlets including Reuters and Euronext recording it as the worst single trading day since the company's listing; on a closing basis the decline was tallied at roughly 11-12%, so figures of "11%," "12%," and "16%" appear across different reports — reflecting the gap between the intraday low and the closing price, though either way the fact of a double-digit single-day plunge is consistent[2][4]. The stock was pushed to just above its 52-week low[2]. Importantly, the market did not respond even though Kering reaffirmed CEO de Meo's turnaround plan in the same release and raised its target for net store closures this year to 125 while accelerating the "ReconKering" restructuring program[2][13]. In short, restating restructuring resolve no longer defended the share price.
 
 Third, timing matters. This release landed alongside LVMH's Fashion & Leather Goods -5% on October 12 and overlapped with Hermès and Prada's results on the same day, October 22 — a cluster that itself framed the interpretive question of whether this is "Gucci's problem alone" or "an industry-wide problem"[5][14][15]. The structure our October 6 special anticipated — that "LVMH on October 12 would pre-set the interpretation of Gucci on October 22" — played out exactly as forecast.
+
+![Hermès Q3 growth deceleration and French unrest store damage](https://image.cnbcfm.com/api/v1/image/108455226-1792836757278-gettyimages-2301140741-AA_23102026_3006894.jpeg?v=1792836775&w=1920&h=1080 "Reuters (via CNBC)|https://www.cnbc.com/2026/10/24/frances-luxury-stores-board-up-windows-ahead-of-fresh-protests.html")
 
 ## 2. Why Gucci Is the Group's Anchor Drag — What de Meo and Management Actually Said
 
@@ -188,9 +192,10 @@ This is the point where this special diverges most from the October 6 edition. W
 
 Three figures matter. First, on resale platform The RealReal, vintage demand is up 432% versus 2020, and resale is growing two to three times faster than new luxury goods[6]. Second, according to The RealReal's 2026 report, 47% of consumers check a product's resale value before buying it new[6]. Third, Kering's share price is down roughly 28% year to date[6]. Together these point to something clear: resistance to "spending months of salary on one handbag" is no longer a single quarter's China-traffic problem but is hardening into a structural psychology around new-goods pricing in general[6].
 
-![Patience with luxury is wearing thin: The RealReal vintage demand +432% versus 2020, 47% of consumers check resale value before buying new, Kering shares down -28% year to date, resale growing 2-3x faster than new goods](https://r.fashionunited.com/k3y_1Qd0AdTHKDg73wGUJVhPMAOgGakwwX62vYSJjSY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDkvMzAvc2FpbnQtbGF1cmVudC1hdG0tczI3LTAwNS0xc2M1a2dzeC0yMDI2LTA5LTMwLmpwZWc.jpeg "FashionUnited|https://fashionunited.in/news/fashion/patience-with-luxury-is-wearing-thin/2026102856724")
 
 The implication for Gucci is heavy. If the underlying cause were "temporary traffic weakness driven by China's property market and tax policy," demand would return once the macro backdrop recovers. But if the cause is "a structural shift in value from new goods to resale," then price cuts — Gucci has cut prices in China by as much as roughly 30% — cannot easily reverse the trend and instead risk only diluting brand value further[17]. Indeed, Gucci is dealing with issues that simultaneously undermine trust in both resale and pricing — counterfeit distribution through unauthorized channels (the Gilt lawsuit) and the China price reversal[17][18]. Still, this structural reading needs balance: a resale surge does not mean luxury demand has vanished, but rather that consumer sensitivity to "price versus value" has risen, and the fact that Brunello Cucinelli raised guidance again and Zegna's namesake brand grew 13% in the same quarter shows that demand persists for goods that are perceived to be "worth the price"[19][20]. The more accurate description is that Gucci is currently losing that "worth it" perception.
+
+![Gucci v. Gilt Groupe lawsuit over counterfeit distribution through unauthorized channels](https://www.thefashionlaw.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-11.18.07-AM-1024x729.png "The Fashion Law|https://www.thefashionlaw.com/gucci-v-gilt-puts-luxury-sourcing-authentication-in-focus/")
 
 ## 4. The Cross-House Director Reshuffle — Is Demna Stability an Asset or a Smokescreen for the Same Problem
 
@@ -210,7 +215,8 @@ The competitive landscape should be read on two levels: outside the sector and i
 
 At the outside level, this quarter lends some support to the defense that "this is not Gucci's problem alone." LVMH's Fashion & Leather Goods division fell -5% in Q3, reflecting slowdowns at Louis Vuitton and Dior in China — pointing to the same macro headwind facing Gucci[5]. Even Hermès saw growth decelerate to 4.3% in Q3, missing market expectations[14]. In short, demand weakness is sector-wide. Still, this defense is double-edged — if LVMH is at -5% and Hermès is at +4.3% in the same quarter while Gucci is at -6%, a less favorable comparison emerges: "the macro backdrop is unfavorable for everyone, but Gucci's decline is relatively deeper." Operational risk compounded this in Europe, where unrest in France led luxury stores to board up windows, adding short-term traffic pressure across the group, including Gucci[24].
 
-![LVMH Q3 Fashion & Leather Goods division down -5%, reflecting China demand slowdown](https://wwd.com/wp-content/uploads/2026/10/louis-vuitton-spring-2027-rtw-r-gg-1772.jpg?crop=0px%2C62px%2C1365px%2C763px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/lvmh-q3-sales-fashion-leather-goods-down-5-percent-1239342984/")
+![Luxury stores tighten security amid French unrest, operational risk for Kering brand stores](https://www.glossy.co/wp-content/uploads/sites/4/2026/10/Screenshot-2026-10-22-at-22.46.31.png?w=2928 "Glossy|https://www.glossy.co/fashion/luxury/luxury-briefing-prada-kering-hermes-store-strategy/")
+
 
 The internal contrast within the group is sharper still. Within Kering, Bottega Veneta — with its logo-free "quiet luxury" aesthetic — maintained relative resilience and was cited as a positive factor this quarter, while also resuming official Instagram activity after a five-year hiatus, marking a pivot toward expanded digital visibility[3][25]. Saint Laurent was also classified as resilient even amid its director transition[3]. This contrast raises a sharp question: between the Gucci/Balenciaga-style bet on flamboyance, logos, and speed, and the Bottega/Hermès-style bet on restraint, craftsmanship, and discipline, current investor sentiment is rewarding the latter. The same signal repeats outside the group. Brunello Cucinelli raised guidance again on nine-month revenue growth of +10%, with the Americas up +20% at constant exchange rates[19]. By contrast, Prada Group's "hot brand" Miu Miu saw Q3 retail sales decline -3%, its first drop in four years — showing that even momentum built on buzz is not permanent once it faces a high base[26]. This serves as a cautionary signal for whether buzz under the Demna era can keep converting into sales.
 

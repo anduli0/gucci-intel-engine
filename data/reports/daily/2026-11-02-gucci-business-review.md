@@ -6,13 +6,15 @@
 
 오늘의 결론은 하나다. 네 권역 모두의 하루를 케링 3분기 실적 한 건이 지배했고, '뎀나 체제 턴어라운드' 서사가 그 숫자 앞에서 설 자리를 잃었다[1][5][11]. 구찌코어 캠페인, 도쿄·방콕 팝업, 내일(11월 3일) LA 쇼 같은 활성화(activation) 콘텐츠가 같은 날 흘러나왔지만 자사 홍보일 뿐 공론이 아니어서 분위기를 돌려세우지 못했다[12][4][14]. 다만 북미가 여전히 상대적 버팀목이고 비평의 칼끝이 제품이 아니라 창의 방향과 가격에 걸려 있다는 점은 처방의 여지를 남긴다.
 
-![케링 3분기 구찌 매출 -6%·직영 -9%, 폐점 가속 보도](https://manilatimes.net/manilatimes/uploads/images/2026/10/23/1273982.jpg "Manila Times|https://www.manilatimes.net/2026/10/24/business/foreign-business/kering-turnaround-hopes-hit-by-drop-in-gucci-sales/2452753")
+![번스타인, 뎀나 데뷔 나쁘기보단 좋다(7.6/10) 유보적 평가](https://wwd.com/wp-content/uploads/2026/02/Gucci-fall-2026-3.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/fashion-news/designer-luxury/gucci-show-demna-reaction-bernstein-1238640197/")
+
 
 ## 1. 오늘의 판정
 
 오늘 구찌의 상태는 '처방은 했는데 아직 안 듣는다'로 읽는 것이 정확하다 — 3분기 비교매출 -6%, 직영 리테일 -9%가 네 권역 매체를 관통했고, 케링 주가는 상장 이후 최악의 하루를 겪었다[1][3][11]. 트래픽에 기대온 채널일수록 더 깊게 무너졌다는 뜻이다. 북미는 가장 덜 빠진 상대적 버팀목이며, 경영진은 벨레티니 체제 아래 가르줄로를 최고고객·마케팅 책임자로 앉혀 고객 중심 재편을 걸었다[1][8]. 유럽은 가장 차가웠다 — 제퍼리스·JP모건의 목표가 하향에 더해, 에나더는 뎀나의 가을·겨울 컬렉션이 구찌 낭만성을 지웠다고 평했고 번스타인조차 "나쁘기보단 좋다"면서 역사적 정체성 연결 실패를 지적했다[4][6][5]. 동북아는 중국 가격 인하·리세일 급락이 겹쳤고, 한국 백화점 명품 성장률도 가격 인상 피로감 속에 식었다[13][2]. 같은 날 이세탄 구찌코어 팝업, 방콕 구찌 비전스, 내일 LA 쇼가 흘러나왔지만 활성화 커버리지로 공론과 구분해 읽어야 한다[12][4][14].
 
-![케링 3분기 실적, 구찌 미스](https://wwd.com/wp-content/uploads/2026/09/P108EVBS.jpg?crop=0px%2C61px%2C1333px%2C746px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/kering-q3-revenues-flat-gucci-organic-sales-down-6-percent-1239380710/")
+![벨레티니 체제 조직 개편, 가르줄로 최고고객·마케팅 책임자](https://wwd.com/wp-content/uploads/2025/09/Francesca-Bellettini-Credits-Marco-Cella-1.jpg?crop=0px%2C597px%2C2000px%2C1119px&resize=1000%2C563 "WWD|https://wwd.com/business-news/human-resources/gucci-new-managerial-organization-help-turnaround-1238432212/")
+
 
 ## 2. 근거와 반론
 

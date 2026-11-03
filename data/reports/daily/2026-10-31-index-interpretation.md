@@ -22,8 +22,6 @@
 
 오늘을 움직인 재료는 화제와 감성이었고, 둘 다 시장보다 표본의 영향이 컸다 — 글로벌 변화 폭에 화제가 +1.99점을 보탰고 감성이 −0.77점을 깎았다. 먼저 북미는 레딧 글 20건이 새로 들어와 표본이 38건이 됐고, 화제가 상한(1.00)에 닿았다[1]. 또한 북미 감성 상승(0.36→0.49)은 38건 중 33건이 중립인 데서 온 희석이지 호전이 아니다. 반면 동북아 감성 0.16은 3분기 비교매출 −6% 보도를 담았고[2][3], 점유의 −0.76점은 비교 대상 확대에 따른 기계적 하락이다.
 
-![중국 매출 감소로 케링이 차질을 겪는다는 보도](https://www.businessday.co.za/resizer/v2/O2OK66A7QZHTLGPTBFHMPMIXAI.jpg?smart=true&auth=3a0cc5a56fcebb0fbad947544d846e59510ef9e5edf3d725f6310140dfa0a378&width=1200&height=630 "Business Day(Reuters 전재)|https://www.businessday.co.za/world/international-companies/2026-10-22-kering-faces-setback-as-gucci-revenue-falls-in-china/")
-
 ## 3. 내일 볼 것
 
 내일은 세 가지를 본다 — 첫째, 북미 감성이 비슷한 표본에서 0.40 아래로 돌아가면 오늘 상승은 표본 착시였을 가능성이 크다. 둘째, 동북아·유럽 표본이 10건을 넘어야 경고 판정에 무게가 실린다. 셋째, 점유는 19개 브랜드 중 순위로 비교한다(동북아 7위, 동남아 5위, 북미 공동 6위, 유럽 2위).
@@ -113,8 +111,6 @@ The average held while the floor sank — 30.87 is well below the neutral 50, an
 ## 2. What moved, and what to discount
 
 Buzz and Sentiment drove the day, both more sample than market — Buzz added +1.99, Sentiment −0.77. Twenty new Reddit posts lifted NA to 38 items and Buzz to its 1.00 ceiling [1]. NA Sentiment's rise (0.36 to 0.49) is dilution, not improvement: 33 of 38 items are neutral. NEA Sentiment of 0.16 restates the Q3 comparable −6% [2][3], and SOV's −0.76 is the mechanical peer-set effect.
-
-![Kering faces setback as Gucci revenue falls in China](https://www.businessday.co.za/resizer/v2/O2OK66A7QZHTLGPTBFHMPMIXAI.jpg?smart=true&auth=3a0cc5a56fcebb0fbad947544d846e59510ef9e5edf3d725f6310140dfa0a378&width=1200&height=630 "Business Day (Reuters)|https://www.businessday.co.za/world/international-companies/2026-10-22-kering-faces-setback-as-gucci-revenue-falls-in-china/")
 
 ## 3. Tomorrow's checks
 

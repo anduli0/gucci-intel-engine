@@ -16,7 +16,6 @@
 
 이번 주의 결론은 케링 3분기 실적이 확인한 구찌의 수요 문제가 한 주 내내 풀리지 않았고, 주말에 나온 몽테뉴가 신매장은 그 문제에 대한 답이라기보다 답의 방향을 보여 주는 활성화(activation) 소식에 머문다는 것이다 — 구찌 비교가능 매출은 -6%, 직영 매장은 -9%였고, 지수는 측정이 가능했던 사흘 내내 '주의' 구간 아래쪽(30.18~34.91)에 있었다[1][2]. 다만 지수의 일별 등락은 대부분 표본 크기와 계산 방식의 변화에서 나왔으므로 시장이 하루하루 달라졌다고 읽어서는 안 된다. 의견이 모이는 방향은 일관되게 부정적이었고, 그 반대편에는 리스트 순위 상승과 한국 시장의 밝은 대목 정도가 있을 뿐이다. 이 글은 이번 주 일간 리포트를 읽지 않은 독자도 상황을 파악할 수 있도록 사실, 해석, 한계를 한 편에 모았다.
 
-![케링 3분기, 구찌 매출 12억 9,000만 유로·보고 -4%·비교가능 -6%·직영 -9%·도매 +45%, 9개월 순 105개 폐점·연내 최소 125개 계획, 주얼리 보고 +12%](https://r.fashionunited.com/biqV-V4jT7Mgter1Pd_CrS2SCFwvL0fTGrxpvnFRgeY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMjkva2VyaW5nLWd1Y2NpLXZ5MGk3cXdmLTIwMjMtMDQtMjUtczJqa2FwOGUtMjAyMy0xMi0xNS1rbWxreW04dy0yMDIzLTEyLTE1LW1la2g1dXVwLTIwMjMtMTItMTktcmE3cTBuOGEtMjAyNC0wMi0wOC0xanF5aGRveS0yMDI0LTEwLTIzLWVkYmh3bThrLTIwMjYtMDctMjkuanBlZw.jpeg "FashionUnited|https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016")
 
 ## 1. 이번 주의 판정
 
@@ -24,7 +23,8 @@
 
 사실 관계부터 정리한다. 케링은 10월 22일 3분기 실적을 냈고, 구찌 매출은 12억 9,100만 유로로 보고 기준 -4%, 비교가능 기준 -6%였다[1][2]. 직영 매장은 -9%, 도매는 +45%였지만 도매는 매출의 약 9%에 불과하다[1][8]. 시장 예상치는 출처마다 다르다 — 블룸버그 인용은 약 -3.3%, WWD와 야후 인용은 -5.4%여서 미달 폭은 약 0.6~2.7%포인트 사이에서 갈린다[2][3]. 다음 날 케링 주가는 장중 최대 12.3%에서 16%까지 빠졌고 매체별 집계가 다르다[4][5][50]. 이어 10월 29일에도 주가는 178.73유로 안팎으로 250거래일 저점 부근에 있었다[11].
 
-![케링 3분기 매출 보합, 구찌 -6%, 중국 회복 12~24개월, 컨센서스 인용 차이](https://wwd.com/wp-content/uploads/2026/09/P108EVBS.jpg?crop=0px%2C61px%2C1333px%2C746px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/kering-q3-revenues-flat-gucci-organic-sales-down-6-percent-1239380710/")
+![중국 부유층 소비 위축, 케링 10월 23일 약 16% 하락, 3사 연초 대비 약 40% 하락](https://wimg.sedaily.com/news/cms/2026/10/24/news-p.v1.20261024.cf541344462f403eae27b9f7d61a5ce1_P1.png "Seoul Economic Daily|https://en.sedaily.com/finance/2026/10/24/chinas-rich-close-their-wallets-sinking-european-luxury")
+
 
 물론 이 판정에도 균형추가 있다. 경영진은 전환율과 객단가가 버텼고 제약은 방문객이라고 설명했고, 실적 콜에서는 초기 턴어라운드 신호도 거론했으며[7][47], 리스트(Lyst) 3분기 순위에서 구찌는 한 계단 올라 4위가 됐다[18]. 그러나 방문객 부족은 캠페인 한두 건으로 풀리는 문제가 아니고, 리스트는 관심의 지표이지 매출이 아니다. 요컨대 이번 주에 나온 긍정 신호는 모두 '관심'이나 '진단의 방향'에 관한 것이었고, '수요의 회복'에 관한 것은 하나도 없었다.
 
@@ -85,7 +85,6 @@ LVMH 진영에서는 패션·가죽이 -5%, 유통(세포라 등 셀렉티브 �
 
 가장 큰 반론은 '구찌만의 문제가 아니다'라는 방어 논리다. 같은 분기 LVMH 패션·가죽은 -5%였고 에르메스도 둔화했으며 케링뿐 아니라 업종 전체가 낮은 밸류에이션에 있다[27][29][26]. 이 논리에는 근거가 있다. 하지만 거시가 모두에게 불리한데 구찌의 감소 폭이 전 분기 -2%에서 -6%로 오히려 깊어졌다면, 비교는 더 불리하게 성립한다. 즉 업종 탓으로는 구찌의 낙폭 중 일부만 설명된다.
 
-![에르메스 3분기 41억 유로, 가죽 +10.8%, 의류 감소, 중국 부진(T3)](https://i0.wp.com/www.pursebop.com/wp-content/uploads/2026/10/Can-Hermes-Maintain-its-Status-in-2027-Q3-Results-are-Here.png?fit=1080%2C1080&ssl=1 "PurseBop|https://www.pursebop.com/hermes-holds-the-reins-in-q3-2026-as-leather-goods-lead/")
 
 강세 쪽 시나리오도 따로 둔다. 기대치가 이미 낮고 뎀나 체제의 연속성이 그룹 안의 다른 하우스보다 안정적이므로, 4분기 신제품이나 광군제 결과가 조금만 좋아도 심리가 돌 여지가 있다(가설). 다만 이 가설을 뒷받침할 이번 주 데이터는 없다.
 
@@ -97,7 +96,8 @@ LVMH 진영에서는 패션·가죽이 -5%, 유통(세포라 등 셀렉티브 �
 
 다음 주에 확인할 것은 날짜가 정해진 것부터 적는다. 11월 1일에는 뮤엘라스가 루이비통에서 부임한다[56]. 11월 2일(월)은 다음 거래일이어서, 씨티·베렌베르크에 이어 추가 목표주가 하향이 나오는지가 첫 확인점이다. 같은 날 CFDA 패션 어워즈가 뉴욕에서 열리고[40], 에스티 로더가 FY27 1분기 실적을 낸다[57]. 11월 5일에는 샤넬이 시드니에서 크루즈 2027을 재연한다[59]. 11월 10일에는 크리스티에서 불가리 핑크 다이아몬드 반지(추정가 1,200만~1,800만 달러)가 경매에 오른다[60]. 11월 11일은 광군제이며 종료일(11월 13일)은 단일 출처라 미확정이다[41]. 11월 12일 전후로 버버리 중간 실적이 예상되지만 날짜는 미확정이고[38], 11월 13일에는 리슈몽 FY27 중간 실적이 있다[39]. 발렌시아가 피치올리의 공식 발표는 11월 중순으로 예상된다[24]. 11월 30일 런던 더 패션 어워즈[61], 12월 2일 샤넬 로마 메티에 다르[43], 12월 4일 디올 더블린 프리폴 쇼[42]가 그 뒤를 잇는다.
 
-![루이비통, 헥터 뮤엘라스를 최고 브랜드 크리에이티브 책임자로 선임(11월 1일 부임)](https://r.fashionunited.com/PllBZaS5ruaM1_O-h67B4OXxScHEaeDNVsmY4-goB0c/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMTAvMTUva2FjcGVyLWJyZXpkZW4tMnpybGNmbHFtNmctdW5zcGxhc2gtdWxtaW54c3AtMjAyNi0xMC0xNS5qcGVn.jpeg "FashionUnited|https://fashionunited.com/news/people/louis-vuitton-names-hector-muelas-chief-brand-creative-officer/2026102675372")
+![2026 CFDA 패션 어워즈 11월 2일 개최](https://r.fashionunited.com/WpWS4Nn3XPFHQnZOg9YABf4ZudmsACyAQi0nwRuKFGI/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMDgvaW1nLTA0NzgtMTAyNHgxNTM2LWpjZzhuMGZzLTIwMjYtMDctMDguanBlZw.jpeg "FashionUnited|https://fashionunited.com/news/fashion/the-2026-cfda-fashion-awards-to-take-place-november-2/2026070873372")
+
 
 지수에서는 세 가지를 본다. 첫째, 동북아와 유럽 표본이 10건을 넘어서도 경고 구간이 이어지는지다 — 그래야 경고 판정에 무게가 실린다. 둘째, 북미 감성이 비슷한 표본에서 0.40 아래로 돌아가는지다 — 돌아가면 10월 31일 상승은 표본 착시였을 가능성이 크다. 셋째, 화제 가중 방식(v2.4)으로의 전환일이다 — 그날의 변화 폭은 방법 변경분과 나눠 읽어야 한다. 구찌 쪽에서는 구찌가 몽테뉴가 콘셉트를 어느 도시에 언제 옮기는지 밝히는지, 그 일정이 폐점 지도와 겹치는지가 판단 기준이다.
 
@@ -223,7 +223,6 @@ This week's conclusion is that Kering's Q3 results confirmed a demand problem at
 
 Our conclusion is that the demand problem Kering's Q3 results confirmed at Gucci did not ease at any point this week, and the Avenue Montaigne store that surfaced at the end of it is brand-staged activation that shows the direction of an answer, not the answer itself — comparable sales fell 6% and directly operated stores 9%, and on the three days the index could be computed it sat in the lower caution band (30.18 to 34.91)[1][2]. That said, most day-to-day index moves came from sample size and calculation changes, so they should not be read as the market changing daily. Opinion pointed one way throughout, and the only offsets were a one-place rise in the Lyst ranking and a bright spot in Korea. This piece collects the facts, the readings and the limits so that someone who read none of the week's dailies can follow the situation.
 
-![Kering Q3: Gucci revenue EUR 1.29bn, -4% reported, -6% comparable, DOS -9%, wholesale +45%, 105 net closures over nine months and at least 125 planned for the year, jewelry +12% reported](https://r.fashionunited.com/biqV-V4jT7Mgter1Pd_CrS2SCFwvL0fTGrxpvnFRgeY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMjkva2VyaW5nLWd1Y2NpLXZ5MGk3cXdmLTIwMjMtMDQtMjUtczJqa2FwOGUtMjAyMy0xMi0xNS1rbWxreW04dy0yMDIzLTEyLTE1LW1la2g1dXVwLTIwMjMtMTItMTktcmE3cTBuOGEtMjAyNC0wMi0wOC0xanF5aGRveS0yMDI0LTEwLTIzLWVkYmh3bThrLTIwMjYtMDctMjkuanBlZw.jpeg "FashionUnited|https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016")
 
 ## 1. The Verdict of the Week
 
@@ -231,7 +230,8 @@ The verdict is that the turnaround narrative retreated in front of the numbers, 
 
 The facts first. Kering reported Q3 on October 22; Gucci revenue was EUR 1.291 billion, down 4% reported and 6% comparable[1][2]. Directly operated stores were down 9% and wholesale up 45%, but wholesale is only about 9% of sales[1][8]. Consensus differs by source — Bloomberg's figure is about -3.3% and the figure cited by WWD and Yahoo is -5.4%, so the miss ranges from about 0.6 to 2.7 points[2][3]. The next day Kering shares fell by as much as 12.3% to 16% intraday, depending on the outlet[4][5][50], and on October 29 they were still near EUR 178.73, close to a 250-day low[11].
 
-![Kering Q3 flat, Gucci -6%, China recovery 12-24 months out, differing consensus citations](https://wwd.com/wp-content/uploads/2026/09/P108EVBS.jpg?crop=0px%2C61px%2C1333px%2C746px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/kering-q3-revenues-flat-gucci-organic-sales-down-6-percent-1239380710/")
+![China's rich close their wallets; Kering down about 16% on October 23; three groups down about 40% year to date](https://wimg.sedaily.com/news/cms/2026/10/24/news-p.v1.20261024.cf541344462f403eae27b9f7d61a5ce1_P1.png "Seoul Economic Daily|https://en.sedaily.com/finance/2026/10/24/chinas-rich-close-their-wallets-sinking-european-luxury")
+
 
 The verdict has a counterweight. Management said conversion and average ticket held and that the constraint was footfall, and cited early turnaround signs on the earnings call[7][47], and Gucci rose one place to fourth in the Lyst Q3 ranking[18]. But a footfall shortfall is not fixed by a campaign or two, and Lyst measures interest, not sales. Put differently, every positive signal this week concerned interest or the direction of the diagnosis; none concerned a recovery in demand.
 
@@ -292,7 +292,6 @@ Among independents and jewelry, the numbers split. Prada Group grew 1% organical
 
 The largest counter-argument is that this is not only Gucci's problem. Over the same quarter LVMH fashion and leather fell 5%, Hermes slowed, and the sector as a whole trades on low valuations, with Kering shares down about 28%[27][29][26]. The argument has merit. But if the macro backdrop hurts everyone and Gucci's decline still deepened from -2% last quarter to -6%, the comparison is worse, not better. The sector explains only part of Gucci's drop.
 
-![Hermes Q3 EUR 4.1bn, leather +10.8%, apparel down, China weak (T3)](https://i0.wp.com/www.pursebop.com/wp-content/uploads/2026/10/Can-Hermes-Maintain-its-Status-in-2027-Q3-Results-are-Here.png?fit=1080%2C1080&ssl=1 "PurseBop|https://www.pursebop.com/hermes-holds-the-reins-in-q3-2026-as-leather-goods-lead/")
 
 We also set out a bull case. With expectations already low and Demna's continuity steadier than leadership at other group houses, even a small improvement from Q4 launches or Singles' Day could turn sentiment (hypothesis). This week's data gives no support for it yet.
 
@@ -304,7 +303,8 @@ The remedy carries risks too. If 125 closures and a showpiece store are reported
 
 The dated checks for next week come first. On November 1, Muelas starts at Louis Vuitton[56]. November 2 (Monday) is the next trading day, so the first check is whether further target cuts follow Citi and Berenberg. The same day the CFDA Fashion Awards take place in New York[40] and Estee Lauder reports FY27 Q1[57]. On November 5, Chanel restages Cruise 2027 in Sydney[59]. On November 10, Bulgari's pink diamond ring (estimate USD 12 to 18 million) goes to auction at Christie's[60]. November 11 is Singles' Day, and its end date (November 13) rests on a single source[41]. Burberry's interim results are expected around November 12 but the date is unconfirmed[38], and Richemont reports FY27 interim results on November 13[39]. Balenciaga's formal announcement on Piccioli is expected in mid-November[24]. The Fashion Awards in London follow on November 30[61], Chanel's Metiers d'art in Rome on December 2[43], and Dior's pre-fall show in Dublin on December 4[42].
 
-![Louis Vuitton names Hector Muelas chief brand creative officer (starts November 1)](https://r.fashionunited.com/PllBZaS5ruaM1_O-h67B4OXxScHEaeDNVsmY4-goB0c/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMTAvMTUva2FjcGVyLWJyZXpkZW4tMnpybGNmbHFtNmctdW5zcGxhc2gtdWxtaW54c3AtMjAyNi0xMC0xNS5qcGVn.jpeg "FashionUnited|https://fashionunited.com/news/people/louis-vuitton-names-hector-muelas-chief-brand-creative-officer/2026102675372")
+![2026 CFDA Fashion Awards on November 2](https://r.fashionunited.com/WpWS4Nn3XPFHQnZOg9YABf4ZudmsACyAQi0nwRuKFGI/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMDgvaW1nLTA0NzgtMTAyNHgxNTM2LWpjZzhuMGZzLTIwMjYtMDctMDguanBlZw.jpeg "FashionUnited|https://fashionunited.com/news/fashion/the-2026-cfda-fashion-awards-to-take-place-november-2/2026070873372")
+
 
 On the index we watch three things. First, whether NEA and EU samples exceed 10 items and the warning persists — only then does the warning carry weight. Second, whether North American sentiment falls back below 0.40 on a similar sample, which would make October 31's rise a sample illusion. Third, the day Buzz switches to the weighted method (v2.4), when the change must be separated from the method change. On Gucci's side, the test is whether Gucci says where and when the Montaigne concept goes next, and whether that schedule overlaps the closure map.
 

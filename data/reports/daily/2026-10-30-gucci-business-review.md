@@ -16,7 +16,8 @@
 
 문제는 전환이 아니라 방문이고, 그래서 매장 운영이 아니라 브랜드를 찾아가고 싶게 만드는 힘의 문제다 — 경영진은 매장 방문객을 핵심 제약으로 지목했고[15][2], 번스타인은 이번 분기를 핵심 제품의 근본적 매력이 약하다는 신호로 읽었다[13]. 가격도 돌아올 이유를 만들어 주지 못해, 동남아에서는 가격을 조정했는데도 매출이 떨어지고[16] 중국의 최대 40% 인하는 해외와의 가격 차를 10% 미만으로 좁혔다[30]. 다만 이 해석에도 균형추가 필요하다. '뎀나 체제가 상업적으로 실패한다'는 결론은 아직 미확인이며, 경영진은 전환율과 객단가가 버텼다고 했고[15][4] 실적 콜에서 초기 턴어라운드 신호를 거론했다[33].
 
-![방문객이 핵심 제약, 전환율·객단가는 유지, 워크인 의존의 한계](https://insideretail.com.au/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Australia|https://insideretail.com.au/business/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore-202610")
+![직영 -9%로 컨센서스 대비 약 3%포인트 부진, 번스타인 솔카의 핵심 제품 매력 약화 해석](https://ehj4gaypy53.exactdn.com/wp-content/uploads/2026/10/gucci-.jpg "LaConceria|https://www.laconceria.it/en/luxury/kering-struggles-through-another-quarter-as-gucci-sales-fall-6/")
+
 
 ## 3. 내일 볼 것
 
@@ -127,7 +128,8 @@ Nothing new broke today; the Q3 aftershock filled all four regions. The facts st
 
 The problem is desire, not store execution: visits fell, not conversion — management named traffic the main constraint[15][2], and Bernstein read the quarter as weak appeal in the core products[13]. Price is no help: Southeast Asian sales fall despite adjustments[16], and China's cuts of up to 40% left the overseas gap under 10%[30]. That said, the Demna era's commercial failure remains unverified: management says conversion and ticket held[15][4] and cites early turnaround signals[33].
 
-![Traffic the main constraint, conversion and ticket held; limits of walk-in dependence](https://insideretail.com.au/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Australia|https://insideretail.com.au/business/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore-202610")
+![DOS -9%, about three points below consensus; Bernstein's Solca reads weak core-product appeal](https://ehj4gaypy53.exactdn.com/wp-content/uploads/2026/10/gucci-.jpg "LaConceria|https://www.laconceria.it/en/luxury/kering-struggles-through-another-quarter-as-gucci-sales-fall-6/")
+
 
 ## 3. What to Watch Tomorrow
 

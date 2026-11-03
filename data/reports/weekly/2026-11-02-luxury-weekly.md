@@ -16,7 +16,8 @@
 ## 1. 이번 주의 결론 — 수요가 피라미드 꼭대기까지 식었고, 돈은 경성자산으로 옮겨갔다
 이번 주의 결론은 수요 약세가 피라미드 꼭대기까지 올라왔다는 것이다 — 에르메스 3분기 매출은 환산 기준 4.3% 성장에 그쳐 시장 기대치(약 5.2%)를 밑돌았고, 매출의 약 40%를 책임지는 일본 제외 아태 성장률이 사실상 0%로 멈췄으며, 레디투웨어·액세서리는 2% 감소했다[1]. 발표 직후 주가는 5~9% 빠져 연초 대비 약 36% 내렸고, 버킨백 2차 시장 프리미엄도 2022년 정점에서 뚜렷하게 꺾였다[1][2]. 즉 '한정 공급은 곧 가치 보존'이라는 럭셔리 전반의 내러티브가 바로 그 대표 주자에게서 흔들린다는 뜻이다.
 
-![에르메스 3분기 아태 성장 정체 및 주가 급락](https://theimpression.com/wp-content/uploads/2026/10/Hermes-Q3-2026-Results-Axel-Dumas-scaled.jpeg "The Impression / Investing.com|https://theimpression.com/hermes-q3-2026-sales-growth-asia-leather-goods/")
+![버킨 리세일 프리미엄 2022년 정점 대비 하락](https://data2.nssmag.com/images/galleries/50110/cover-hermes-results-wide.webp "nss magazine / Bernstein|https://www.nssmag.com/en/fashion/47391/is-the-luxury-crisis-hitting-hermes-too")
+
 
 같은 주 반대쪽 신호는 자본이 보석으로 쏠린다는 것이다 — 리치몬드 4개 주얼리 메종이 상반기 매출 9%(고정환율 14%) 성장에 영업이익률 32.8%를 지켰고, LVMH 워치·주얼리가 3분기 6% 성장으로 그룹 내 유일하게 두드러졌으며, 케링 주얼리마저 3분기 11% 성장했다[3][4][5]. 더불어 까르띠에 트리니티는 2차 시장 거래량이 전년 대비 155% 급증해 '투자재' 서사를 굳혔고, 금값이 온스당 한때 5,595달러까지 치솟았는데도 주얼러의 70%가 매출 증가를 보고했다[6][7]. 다시 말해 가방과 옷의 수요가 식는 국면에서 소비자는 가치 보존이 명확한 품목으로 지갑을 옮기고 있다.
 
@@ -32,7 +33,8 @@ LVMH 진영에서는 그룹 전체가 3분기 유기적 1% 성장에 그쳤고 �
 ## 3. 카테고리 온도 — 주얼리·향수는 뜨겁고, 가죽·RTW는 식었으며, 시계는 2차 시장에서 뜨겁다
 카테고리별 온도차는 이번 주 어느 때보다 선명하다 — 먼저 주얼리는 전 진영에서 가장 뜨겁다. 리치몬드 주얼리 9%, LVMH 워치·주얼리 6%, 케링 주얼리 11%, 불가리 신규 하이주얼리 라인 '에클레티카'의 기록적 매출이 한 주에 몰렸기 때문이다[3][4][5][23]. 또한 향수는 뷰티 안에서 독립 엔진으로 부상했다. 에스티로더 향수가 13% 성장하는 동안 메이크업은 2%, 헤어케어는 7% 감소해 같은 뷰티 안에서도 양극화가 뚜렷했고, 로레알 럭스는 아르마니 신규 남성 향수 '아이 윌'에 힘입어 7% 회복했다[24][25]. 반대로 가죽과 레디투웨어는 식었다 — LVMH 패션·가죽이 5% 감소했고, 에르메스 레디투웨어·액세서리가 2% 줄었으며, 몽클레르 브랜드 매출이 이례적 고온 탓에 1% 역성장해 '최근 첫 분기 역성장'을 기록했다[4][1][20].
 
-![LVMH 3분기 패션·가죽 5% 감소, 워치·주얼리 6% 성장](https://wwd.com/wp-content/uploads/2026/10/louis-vuitton-spring-2027-rtw-r-gg-1772.jpg?crop=0px%2C62px%2C1365px%2C763px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/lvmh-q3-sales-fashion-leather-goods-down-5-percent-1239342984/")
+![케링 주얼리 3분기 12% 성장](https://uploads.nationaljeweler.com/uploads/34dc398b7209c05916594cd9c2b95915.jpg "National Jeweler / Kering|https://nationaljeweler.com/articles/15441-kering-s-jewelry-sales-up-double-digits-in-q3")
+
 
 마지막으로 시계는 1차와 2차 시장이 갈렸다 — 스위스 시계 수출이 9월까지 5개월 연속 늘었지만 미국향이 86% 급증한 데는 관세 선제 재고 효과가 끼어 '회복'으로 단정하기 어렵고, 오히려 중고 시계 2차 시장이 상반기 37% 성장하며 롤렉스 공인중고 매출이 두 배로 뛴 것이 더 구조적인 신호다[26][27]. 다만 카테고리 온도를 하나의 그림으로 단순화하면 균형추를 놓친다 — 같은 주얼리 진영에서도 제니스는 감원을 협의 중이고, 해리 윈스턴은 중국에서 상반기 약 20% 성장해 중국 리스크가 하이엔드 전반에 균일하지 않다는 사실을 보여줬다[16][28]. 즉 그룹 평균 수치가 브랜드별 체질 차이를 가린다는 뜻이며, 본 분석의 판단은 카테고리 온도를 브랜드 단위까지 세분해 읽어야 한다는 것이다.
 
@@ -147,7 +149,8 @@ The dominant structural fact of the week is that demand weakness is no longer co
 ## 1. The week's conclusion — demand cooled at the apex, money rotated into hard assets
 The conclusion of the week is that demand weakness has reached the top of the pyramid — Hermès grew only 4.3% in Q3, below the ~5.2% expected, with Asia-Pacific ex-Japan growth stalling to effectively zero and RTW/accessories down 2% [1]. Shares fell 5-9% to about 36% below the year's start, and Birkin resale premiums have come off their 2022 peak [1][2]. That is, the industry-wide narrative of "limited supply equals value preservation" is wobbling at its own flagship.
 
-![Hermès Q3 Asia-Pacific growth stall and share drop](https://theimpression.com/wp-content/uploads/2026/10/Hermes-Q3-2026-Results-Axel-Dumas-scaled.jpeg "The Impression / Investing.com|https://theimpression.com/hermes-q3-2026-sales-growth-asia-leather-goods/")
+![Birkin resale premiums down from 2022 peak](https://data2.nssmag.com/images/galleries/50110/cover-hermes-results-wide.webp "nss magazine / Bernstein|https://www.nssmag.com/en/fashion/47391/is-the-luxury-crisis-hitting-hermes-too")
+
 
 The opposite signal the same week is capital rotating into jewels — Richemont's four jewellery Maisons held 9% H1 growth (14% at constant FX) on a 32.8% margin, LVMH watches & jewellery grew 6% as the one standout division, and even Kering jewellery grew 11% in Q3 [3][4][5]. On top of that, Cartier Trinity resale volume jumped 155% year on year, cementing an "investment asset" story, and 70% of jewellers reported revenue growth even as gold briefly hit $5,595/oz [6][7]. Put differently, as apparel and bag demand cools, shoppers are moving toward items with clearer value retention.
 
@@ -163,7 +166,8 @@ In the LVMH camp, the group managed only 1% organic growth in Q3 and LV-led fash
 ## 3. Category temperature — jewellery and fragrance hot, leather and RTW cold, watches hot in resale
 Category divergence was sharper than usual this week — first, jewellery is the hottest across every camp, with Richemont jewellery +9%, LVMH watches & jewellery +6%, Kering jewellery +11%, and Bulgari's new high-jewellery line Eclettica posting record revenue all landing in one week [3][4][5][23]. Fragrance also emerged as an independent engine inside beauty: Estée Lauder fragrance grew 13% while makeup fell 2% and haircare 7%, and L'Oréal Luxe recovered 7% on Armani's new men's scent "I Will" [24][25]. By contrast, leather and RTW cooled — LVMH fashion & leather fell 5%, Hermès RTW/accessories fell 2%, and Moncler's brand revenue fell 1% on unusual warmth, its first quarterly contraction in recent memory [4][1][20].
 
-![LVMH Q3 fashion & leather -5%, watches & jewellery +6%](https://wwd.com/wp-content/uploads/2026/10/louis-vuitton-spring-2027-rtw-r-gg-1772.jpg?crop=0px%2C62px%2C1365px%2C763px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/lvmh-q3-sales-fashion-leather-goods-down-5-percent-1239342984/")
+![Kering jewellery Q3 +12%](https://uploads.nationaljeweler.com/uploads/34dc398b7209c05916594cd9c2b95915.jpg "National Jeweler / Kering|https://nationaljeweler.com/articles/15441-kering-s-jewelry-sales-up-double-digits-in-q3")
+
 
 Lastly, watches split between primary and resale — Swiss exports rose for a fifth straight month through September, but the 86% surge in US shipments carries a tariff-driven pre-stocking effect that makes "recovery" hard to assert, whereas the pre-owned resale market growing 37% in H1 with certified-pre-owned Rolex sales doubling is the more structural signal [26][27]. Still, flattening category temperature into one picture would miss the counterweight — within the same jewellery camp, Zenith is negotiating cuts while Harry Winston grew ~20% in China in H1, showing China risk is not uniform across the high end [16][28]. Group averages mask brand-level divergence, and we judge that category temperature must be read down to the brand level.
 

@@ -46,7 +46,6 @@
 
 T1급 무역지의 독자적 평가는 캠페인 자체보다 실적에 쏠려 있다. WWD·블룸버그·로이터가 같은 창에서 쏟아낸 기사는 구찌 -6%, 매장 폐쇄 최소 125개, 중국 회복에 12~24개월이라는 숫자였고, 블룸버그 오피니언은 "뎀나가 아직 설득력 있는 비전을 제시하지 못했다"는 비판적 틀을 달았다[4][15][16][25]. 즉 캠페인에 대한 T1의 평가는 대체로 부재하고, 그 자리를 실적 서사가 차지했다. 캠페인 자체를 평가한 것은 주로 패션 전문 온라인 매체였는데, 이 중 가장 날카로운 지적은 디 임프레션(The Impression)에서 나왔다 — 거리의 자발성을 표방하지만 "모델들의 완벽한 스타일링과 의도된 배치가 주변 군중과의 차이를 즉시 드러내", 결국 "뉴욕 스타일의 다큐멘터리 관찰이 아니라 이상화된 판타지"라는 것이다[11]. 다만 같은 매체는 이 캠페인이 "단일하고 통제된 럭셔리 광고 미학에 대한 신선한 대안"이라는 양면적 평가도 함께 달았다[11].
 
-![케링 3분기 매출 보합, 구찌 비교매출 -6%, 데 메오 중국 12~24개월](https://wwd.com/wp-content/uploads/2026/09/P108EVBS.jpg?crop=0px%2C61px%2C1333px%2C746px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/kering-q3-revenues-flat-gucci-organic-sales-down-6-percent-1239380710/")
 
 소셜·셀러브리티 증폭은 구조적으로 제한적이다. 10월 30일 EU 수집에서 인스타그램·틱톡·유튜브·레딧·페이스북·X·퍼스포럼을 포함한 9개 소셜·커뮤니티 채널이 모두 '건조'로 기록돼, 14일 내 검증 가능한 자발적 게시물이 나오지 않았다[7]. 더불어 11월 1일 지수에서 구찌 온드 참여 비중은 0.3으로 제한 처리됐는데, 이는 하우스 공식 계정의 자기 홍보를 여론으로 과대평가하지 않기 위한 조치다[8]. 즉 구찌코어는 공식 채널 바깥에서 자생적 모멘텀을 만들지 못했다고 보는 것이 정확하다. 앰버서더 효과도 이 캠페인에는 직접 묶이지 않는다 — 구찌의 가장 강력한 전환 사례인 BTS 진의 프리마베라 재킷 24시간 완판은 별개 캠페인 소속이고, 사발렌카·리노 등 글로벌 앰버서더의 구찌코어 연계 성과는 소스에 보고되지 않아 미확인이다[17].
 
@@ -58,7 +57,8 @@ T1급 무역지의 독자적 평가는 캠페인 자체보다 실적에 쏠려 �
 
 수요 신호를 보면 간접 지표마저 엇갈린다. 리스트 지수 3분기에서 구찌는 한 계단 오른 4위를 기록했지만, 프라다가 수요 55% 증가로 1위를 되찾았고 샤넬·미우미우가 모두 구찌를 앞섰다 — 즉 온라인 관심도는 바닥에서 미세하게 올랐으나 여전히 세 경쟁사에 뒤처진다[21]. 더불어 리세일 시장에서는 재키 1961·호스빗 1955가 가치 보존 선두를, GG 마몬트가 리테일 대비 55~80%의 재판매가를 유지하는 반면, 이 강세는 구찌코어가 미는 '신상 와드로브'가 아니라 기존 아이코닉 라인에 쏠려 있다[22]. 다시 말해, 2차 시장이 보상하는 것과 캠페인이 미는 것이 어긋나 있다.
 
-![리스트 지수 3분기, 프라다 1위 복귀·구찌 4위](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+![재키·호스빗·마몬트 가치 보존력, 마몬트 리테일 대비 55~80%](https://cdn.shopify.com/s/files/1/0133/9195/3977/articles/mygemma-WPD-Top-Blog-Image-49_cbc6d126-3a49-4f6b-b37a-8ba635671501.png?v=1782487650 "myGemma(럭셔리 리세일 인덱스)|https://mygemma.com/blogs/news/best-gucci-bags")
+
 
 히어로 상품의 성격도 양가적이다. 구찌코어의 핵심은 피코트·트렌치·오피스 테일러링·펜슬스커트인데, 이는 의도적으로 "가방이 아니라 옷", "쇼룩이 아니라 일상복"이다[1]. 긍정적으로 읽으면 이는 중산층 재공략과 객단가·전환율 개선 서사에 들어맞고, 케링이 3분기에 "객단가·전환율은 개선됐으나 트래픽이 발목"이라 설명한 것과도 궤를 같이한다[13][23]. 하지만 비판적으로 읽으면, 리세일 가치와 브랜드 프리미엄을 지탱해 온 것은 가방 프랜차이즈이지 코트·스커트가 아니므로, 와드로브 중심 전환이 단기 객단가를 희생하면서 브랜드의 핵심 수익원을 비켜갈 위험도 있다(가설).
 
@@ -90,9 +90,10 @@ T1급 무역지의 독자적 평가는 캠페인 자체보다 실적에 쏠려 �
 
 첫째, 광군제를 "코어 상품이 제값으로 팔리는가"를 판별하는 1차 실측 창으로 설계한다(대상: 디지털커머스·중국팀, 시점: 11월 13일 결과 리뷰). 티몰·JD에서 구찌코어 코어 상품(피코트·트렌치·테일러링)의 거래액을 경쟁 브랜드와 비교하되, 반드시 할인 의존도와 객단가를 함께 추적해 "제값인가, 인하가 조건인가"를 데이터로 확정한다 — 이 판별이 내년 초 실적 커뮤니케이션의 사실 기반이 된다[23].
 
-![케링 Q3 상세(구찌 DOS -9%, 홀세일 +45%, APAC -14%, 객단가 개선 주장)](https://forbes.it/wp-content/uploads/2026/10/GettyImages-1441424997-1200x801.jpg "Forbes Italia|https://forbes.it/2026/10/23/kering-affonda-parigi-calo-vendite-gucci")
 
 둘째, 캠페인 메시지와 중국 가격 메시지의 톤 충돌을 해소한다(대상: 브랜드·중국 마케팅 공동, 시점: 광군제 이전 착수). '스타일 다원성'이라는 상승 서사를 유지하려면 중국 인하 커뮤니케이션을 '가치 접근성'이 아니라 '한정·전환'의 언어로 재설계해, 에르메스식 규율 서사가 보상받는 국면에서 포지셔닝 일관성을 지킨다[6][24].
+
+![에르메스, 인터브랜드 2026 럭셔리 부문 1위(전체 15위, LVMH 추월, 희소성·가격 규율)](https://img.worthbury.com/2026/10/hermes-louis-vuitton-interbrand-2026-brand-value-f04d97f4-16x9-1600.jpg "Interbrand/Worthbury|https://worthbury.com/magazine/briefing/hermes-louis-vuitton-interbrand-2026-brand-value")
 
 셋째, 구찌코어 와드로브를 리세일 가치가 검증된 헤리티지 라인과 묶어 "가치를 지킨다"는 신품 명분을 제시한다(대상: 브랜드·CRM, 시점: 홀리데이 캠페인). 재키·호스빗·마몬트의 리세일 보존력 데이터를 코어 와드로브 스토리에 결합해, 리세일 가치를 중시하는 소비자에게 가격 인하 대신 가치 증명으로 신품 구매 명분을 주는 쪽으로 메시지 축을 옮긴다[22].
 
@@ -200,7 +201,6 @@ The first fact to fix is that the vast majority of "buzz" around GucciCore is ac
 
 Independent T1 trade judgment is tilted toward results, not the campaign. WWD, Bloomberg and Reuters poured out the numbers in the same window — Gucci -6%, at least 125 store closures, a 12-24 month China recovery — and Bloomberg Opinion framed it critically, arguing Demna has yet to set out a compelling vision[4][15][16][25]. Evaluation of the campaign itself came mostly from fashion-trade digital outlets, where the sharpest point was The Impression's: for all the claimed spontaneity, "the models' immaculate styling and deliberate positioning" set them apart from the crowd, making the result "an idealized fantasy" rather than documentary observation — though the same outlet also called it "a refreshing alternative" to monolithic luxury advertising[11].
 
-![Kering Q3 revenue flat, Gucci comparable -6%, de Meo 12-24 months for China](https://wwd.com/wp-content/uploads/2026/09/P108EVBS.jpg?crop=0px%2C61px%2C1333px%2C746px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/kering-q3-revenues-flat-gucci-organic-sales-down-6-percent-1239380710/")
 
 Social and celebrity amplification is structurally thin. In the October 30 EU sweep, nine social and community channels including Instagram, TikTok, YouTube, Reddit, Facebook, X and PurseForum all logged "dry," with no verifiable organic posts inside 14 days[7]. Owned engagement is capped at 0.3 in the November 1 index precisely so that official-account self-promotion is not overweighted as opinion[8]. GucciCore, accurately described, generated no self-sustaining momentum outside official channels. Ambassador pull is not tied to this campaign either — Gucci's strongest conversion case, Jin's 24-hour Primavera-jacket sellout, belongs to a different campaign, and any GucciCore-linked result from Sabalenka or Lino is unreported, hence unverified[17].
 
@@ -212,7 +212,8 @@ The commercial bottom line first: as of November 1 there is no direct evidence G
 
 Even the indirect demand signals are mixed. In the Lyst Q3 index Gucci rose one place to No. 4, but Prada reclaimed No. 1 on a 55% demand rise, with Chanel and Miu Miu both ahead — online interest ticked up off the floor yet still trails three rivals[21]. In resale, the Jackie 1961 and Horsebit 1955 lead value retention and the GG Marmont holds 55-80% of retail, but that strength clusters on existing icons, not the new wardrobe GucciCore is pushing[22]. What the secondary market rewards and what the campaign promotes are misaligned.
 
-![Lyst Index Q3, Prada returns to No. 1, Gucci No. 4](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+![Jackie/Horsebit/Marmont value retention, Marmont 55-80% of retail](https://cdn.shopify.com/s/files/1/0133/9195/3977/articles/mygemma-WPD-Top-Blog-Image-49_cbc6d126-3a49-4f6b-b37a-8ba635671501.png?v=1782487650 "myGemma (Luxury Resale Index)|https://mygemma.com/blogs/news/best-gucci-bags")
+
 
 The hero products are themselves ambivalent. The core is peacoats, trenches, office tailoring and pencil skirts — deliberately "clothes, not bags" and "daily wear, not show pieces"[1]. Read positively, this fits the middle-class re-courting and the ticket/conversion-improvement story, consistent with Kering's Q3 account of "better ticket and conversion, traffic the drag"[13][23]. Read critically, bags, not coats and skirts, underpin Gucci's resale value and brand premium, so a wardrobe-led pivot risks sacrificing near-term ticket while sidestepping the house's core profit engine (hypothesis).
 
@@ -244,9 +245,10 @@ The common principle here is one: do not promote GucciCore as proof of recovery;
 
 First, design Singles' Day as the first hard window to test "does core product sell at full price" (owner: digital commerce / China team; timing: Nov 13 results review). Compare GucciCore core-product GMV (peacoats, trenches, tailoring) against rivals on Tmall/JD, but always track discount dependency and ticket together to settle "full price or cut-conditioned" with data — that read becomes the factual base for the next full-year earnings communication[23].
 
-![Kering Q3 detail (Gucci DOS -9%, wholesale +45%, APAC -14%, ticket gain claimed)](https://forbes.it/wp-content/uploads/2026/10/GettyImages-1441424997-1200x801.jpg "Forbes Italia|https://forbes.it/2026/10/23/kering-affonda-parigi-calo-vendite-gucci")
 
 Second, resolve the tone collision between the campaign message and the China pricing message (owner: brand / China marketing; timing: before Singles' Day). To keep the upbeat "style plurality" story, recast the China-cut communication in the language of "limited / transition" rather than "value accessibility," holding positioning consistency while Hermès-style discipline is being rewarded[6][24].
+
+![Hermès becomes Interbrand 2026's top-ranked luxury brand (No. 15 overall, overtaking LVMH; scarcity, pricing discipline)](https://img.worthbury.com/2026/10/hermes-louis-vuitton-interbrand-2026-brand-value-f04d97f4-16x9-1600.jpg "Interbrand / Worthbury|https://worthbury.com/magazine/briefing/hermes-louis-vuitton-interbrand-2026-brand-value")
 
 Third, pair the GucciCore wardrobe with resale-proven heritage lines to offer a "value-holding" full-price justification (owner: brand / CRM; timing: holiday campaign). Fold Jackie/Horsebit/Marmont resale-retention data into the core-wardrobe story, shifting the axis from price cuts to value proof for shoppers who weigh resale value[22].
 

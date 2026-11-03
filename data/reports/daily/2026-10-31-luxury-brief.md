@@ -10,7 +10,8 @@
 
 오늘 럭셔리 시장의 결론은 관심과 매출이 서로 다른 곳을 향했다는 것이다 — 관심은 프라다와 셀린느로 모였고, LVMH와 케링 그룹 안에서는 성장이 패션·가죽이 아니라 주얼리와 유통에서 나왔다[5][7][9]. 다만 그룹 밖에서는 에르메스 가죽(+10.8%), 쿠치넬리(9개월 +13.3%), 제냐(+8.9%, 미주 +14%)가 가죽·의류로 성장했으므로 업계 전체의 법칙으로 볼 수는 없다[19][62][55]. 오늘 새로 나온 기사는 케링 관련 두 건(TD 코웬의 보유 의견 개시, 바닐라 이슈의 리더십 공백 정리)뿐이고 둘 다 하위 등급 매체여서, 근거 대부분은 10월 12~30일의 배경 자료다.
 
-![리스트 3분기 지수, 프라다 1위 탈환(수요 +55%), 셀린느 10위권, 미우미우 3위](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+![에르메스 3분기 41억 유로, 가죽 +10.8%, 의류 감소, 중국 부진(T3)](https://i0.wp.com/www.pursebop.com/wp-content/uploads/2026/10/Can-Hermes-Maintain-its-Status-in-2027-Q3-Results-are-Here.png?fit=1080%2C1080&ssl=1 "PurseBop|https://www.pursebop.com/hermes-holds-the-reins-in-q3-2026-as-leather-goods-lead/")
+
 
 ## 1. 오늘의 한 줄
 
@@ -22,7 +23,8 @@
 
 세 건은 모두 돈이 어디서 나오는지를 묻는다 — 첫째, 케링의 빈자리는 상업적 무게가 크다. 생로랑조차 50억 유로 목표와 달리 2025년 매출이 26.4억 유로에 그쳤고(10월 28일 보도)[3], 발렌시아가의 피치올리 퇴임도 11월 중순 공식 발표가 예상된다[4]. 둘째, 10월 28일 나온 리스트 3분기 순위에서 프라다는 수요 55% 증가로 1위를 되찾았고 셀린느는 10위권에 들었다[5]. 하지만 10월 23일 발표된 프라다 그룹의 3분기 유기적 성장은 1%, 미우미우는 -3%였다[6]. 즉 인기가 곧 성장은 아니다. 셋째, LVMH와 케링 안에서 매출은 주얼리와 유통으로 갔다. 10월 12일 LVMH 발표에서 패션·가죽이 5% 줄어드는 동안 세포라가 속한 유통 부문은 8% 늘었고[7], 시계·주얼리는 6%[8], 케링 주얼리는 보고 기준 12% 성장했다(10월 22일 발표)[9].
 
-![럭셔리에 대한 인내심 약화, 생로랑 2025년 매출 26.4억 유로로 50억 유로 목표 미달](https://r.fashionunited.com/k3y_1Qd0AdTHKDg73wGUJVhPMAOgGakwwX62vYSJjSY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDkvMzAvc2FpbnQtbGF1cmVudC1hdG0tczI3LTAwNS0xc2M1a2dzeC0yMDI2LTA5LTMwLmpwZWc.jpeg "FashionUnited|https://fashionunited.uk/news/fashion/patience-with-luxury-is-wearing-thin/2026102891045")
+![LVMH 시계·주얼리 3분기 약 25억 유로, 유기적 +6%](https://uploads.nationaljeweler.com/uploads/a8f16911f2a7d04d7f28ac92593c5429.jpg "National Jeweler|https://nationaljeweler.com/articles/15411-lvmh-s-jewelry-brands-turn-in-very-good-performance-in-q3")
+
 
 ## 3. 떠오르는 플레이어와 워치리스트
 
@@ -168,7 +170,8 @@
 
 Attention and revenue have parted ways — attention went to Prada and Celine, while within LVMH and Kering growth came from jewelry and retail rather than fashion and leather[5][7][9]. Outside those groups, Hermès leather (+10.8%), Cucinelli (+13.3% over nine months) and Zegna (+8.9%, Americas +14%) grew in leather and apparel, so this is not an industry-wide rule[19][62][55]. Only two low-tier same-day items surfaced, both on Kering; the rest is background.
 
-![Lyst Q3: Prada back at No. 1 (demand +55%), Celine top ten, Miu Miu third](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+![Hermès Q3 EUR 4.1bn, leather +10.8%, RTW down, China weak (T3)](https://i0.wp.com/www.pursebop.com/wp-content/uploads/2026/10/Can-Hermes-Maintain-its-Status-in-2027-Q3-Results-are-Here.png?fit=1080%2C1080&ssl=1 "PurseBop|https://www.pursebop.com/hermes-holds-the-reins-in-q3-2026-as-leather-goods-lead/")
+
 
 ## 1. Today in One Line
 
@@ -180,7 +183,8 @@ Both of today's fresh items belong to one thread, Kering's creative vacuum, stil
 
 All three ask where the money comes from. First, Kering's open seats: even Saint Laurent made EUR 2.64bn in 2025 against a EUR 5bn goal (reported 28 October)[3], and Balenciaga's Piccioli exit should become official mid-November[4]. Second, Lyst's Q3 index (28 October) put Prada back at No. 1 on demand up 55% and Celine in the top ten[5]. Yet Prada Group grew only 1% organically in Q3 and Miu Miu fell 3% (23 October)[6]; popularity is not growth. Third, within LVMH and Kering, revenue went to jewelry and retail: LVMH Fashion & Leather fell 5% while the Sephora division rose 8% (12 October)[7], Watches & Jewelry grew 6%[8] and Kering Jewelry 12% reported (22 October)[9].
 
-![Patience with luxury wearing thin; Saint Laurent 2025 revenue EUR 2.64bn vs EUR 5bn goal](https://r.fashionunited.com/k3y_1Qd0AdTHKDg73wGUJVhPMAOgGakwwX62vYSJjSY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDkvMzAvc2FpbnQtbGF1cmVudC1hdG0tczI3LTAwNS0xc2M1a2dzeC0yMDI2LTA5LTMwLmpwZWc.jpeg "FashionUnited|https://fashionunited.uk/news/fashion/patience-with-luxury-is-wearing-thin/2026102891045")
+![LVMH Watches & Jewelry Q3 about EUR 2.5bn, +6% organic](https://uploads.nationaljeweler.com/uploads/a8f16911f2a7d04d7f28ac92593c5429.jpg "National Jeweler|https://nationaljeweler.com/articles/15411-lvmh-s-jewelry-brands-turn-in-very-good-performance-in-q3")
+
 
 ## 3. Rising Players and Watchlist
 

@@ -14,13 +14,10 @@
 
 오늘 동북아 +8.49점을 '회복'으로 읽으면 안 된다 — 올라간 힘이 "좋게 말해서"(감성 기여 +4.85점)와 "이야기가 많아져서"(화제 기여 +3.58점)로 비등했는데, 정작 감성 원점수는 NSS -0.265로 여전히 부정 우위이고 15건 중 긍정 0건·부정 7건에 그 부정 동력은 전부 실적 부진·가격 인상 반발·가격 인하·리세일 가치 하락이기 때문이다[3]. 즉 화제의 양이 커졌을 뿐 내용은 우호적이지 않다 — 그 양도 11/2 당일 아이웨어 캠페인과 11/3 LA 쇼 예고 보도가 스캔량(509건)을 띄운, 구찌가 스스로 만든 활성화(activation) 커버리지이지 여론 개선의 증거가 아니다[1][2]. 반대로 북미 -4.16점은 거의 전부(화제 기여 -3.47점) 어제 몰렸던 화제가 식은 데서 나왔고[5], 감성 자체는 오히려 소폭(+0.59점) 나아졌다. 권역 격차도 양의 문제다 — 동북아가 동남아보다 12.65점 높은 것은 화제 기여 19.39점 대 8.02점의 차이에서 거의 전부 나왔고 감성 기여(16.54 대 15.33)는 큰 차이가 없다.
 
-![구찌 3Q 매출 -6%, 케링 주가 급락](https://wwd.com/wp-content/uploads/2026/09/P108EVBS.jpg?crop=0px%2C61px%2C1333px%2C746px&resize=1000%2C563 "WWD/Reuters|https://wwd.com/business-news/financial/kering-q3-revenues-flat-gucci-organic-sales-down-6-percent-1239380710/")
 
 ## 3. 내일 볼 것
 
 내일 지수의 분기점은 11/3 LA 쇼다 — 쇼 당일·직후 동북아·북미 화제가 더 커지는지, 그리고 오늘까지 부정 우위였던 그 화제에 긍정 감성이 처음으로 붙는지를 함께 봐야 한다[2][4]. 또한 북미 화제가 오늘처럼 계속 식는지 아니면 쇼를 계기로 반등하는지가 북미 점수의 방향을 가른다. 마지막으로 화제 가중 기준선이 5일을 채우는 시점(며칠 뒤)에 동북아 화제 지수가 정상 수준으로 내려앉는지를 보면, 오늘의 급등이 실제 신호였는지 기준선 착시였는지 가려진다.
-
-![구찌 11/3 LA 쇼 개최 예고 보도(당일 11/2)](http://www.ktnews.com/news/thumbnail/202602/144279_121990_5354_v150.jpg "한국섬유신문 계열|https://www.ktnews.com/news/articleView.html?idxno=144279")
 
 ## 주석
 
@@ -72,13 +69,10 @@ Over half of the global +2.22 came from sentiment (+1.86), the rest from buzz (+
 
 NEA's +8.49 is not a recovery — sentiment (+4.85) and buzz (+3.58) contributed almost evenly, yet NSS stayed net-negative (-0.265), the 15 items ran 0 positive to 7 negative, and every driver was weak earnings, price backlash, price cuts or resale depreciation[3]. Volume grew, tone did not — that volume (509 scanned items) was lifted by Gucci's own eyewear campaign and the 11-03 LA show preview: activation coverage, not opinion[1][2]. NA's -4.16 was almost all buzz cooling (-3.47) after a spike[5], even as sentiment edged up. The regional gap is also a volume story: NEA's 12.65-point lead over SEA is mostly buzz (19.39 vs 8.02), not sentiment (16.54 vs 15.33).
 
-![Gucci Q3 revenue -6%, Kering shares slide](https://wwd.com/wp-content/uploads/2026/09/P108EVBS.jpg?crop=0px%2C61px%2C1333px%2C746px&resize=1000%2C563 "WWD/Reuters|https://wwd.com/business-news/financial/kering-q3-revenues-flat-gucci-organic-sales-down-6-percent-1239380710/")
 
 ## 3. What to Watch Tomorrow
 
 The pivot is the 11-03 LA show — whether NEA and NA buzz grows, and whether positive sentiment finally attaches to buzz that has stayed net-negative[2][4]. Whether NA buzz keeps cooling or rebounds sets NA's direction. Once the weighted buzz baseline reaches five days, whether NEA's buzz settles to normal shows if today's jump was signal or baseline artifact.
-
-![Gucci to hold 11/3 LA show, preview coverage (same-day 11/2)](http://www.ktnews.com/news/thumbnail/202602/144279_121990_5354_v150.jpg "Korea Fashion News affiliate|https://www.ktnews.com/news/articleView.html?idxno=144279")
 
 ## Notes
 
