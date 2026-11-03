@@ -5,18 +5,26 @@
 ## 핵심 요약
 오늘 데이터의 결론은 화제와 희소성에 붙던 할증이 함께 걷히고 있다는 것이다 — 프라다는 라이스트 3분기 1위에 올랐지만 유기적 성장은 1%에 그쳤고, 중국에서는 버킨 리세일 프리미엄이 줄고 있다[1][2][3]. 주얼리만 같은 분기에도 성장했고, 중국 다음의 약한 고리는 유럽일 개연성이 높다(가설)[6][7][9][10].
 
+![프라다 라이스트 3분기 1위 탈환, 미우미우 3위·버버리 톱10](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+
 ## 1. 오늘의 한 줄
 시장은 화제와 희소성에 붙여 주던 할증을 거둬들이고 유기적 매출과 소재 가치만 계산하기 시작했다. 관심 1위 프라다의 유기적 +1%, 중국 버킨 리세일 프리미엄의 축소, 그리고 같은 분기에도 성장한 주얼리가 그 근거다[1][2][3][6][7].
+
+![프라다 그룹 3분기 유기적 +1%, 베르사체 편입 효과, 미우미우 둔화](https://content.luxurytribune.com/app/uploads/2026/10/Behind-the-scenes-at-the-Prada-Spring-Summer-2027-Womenswear-Fashion-Show.-Here-there-is-inhere.jpg "Luxury Tribune|https://www.luxurytribune.com/en/prada-group-11-growth-in-q3-2026-miu-miu-is-slowing-down")
 
 ## 2. 핵심 3건
 첫째, 관심 지표는 매출의 대리변수(proxy)가 아니다 — 프라다는 라이스트 3분기 인덱스에서 수요가 55% 늘며 1위를 되찾았지만 그룹 유기적 성장은 1%에 머물렀다[1][2]. 순위를 성과로 보고하던 하우스는 잃고, 화제 없이 꾸준히 크는 하우스가 재평가받을 개연성이 높다(가설).
 
 둘째, 희소성은 이제 브랜드마다 따로 값이 매겨진다 — 징데일리는 중국에서 중고 버킨 공급이 늘며 리세일 프리미엄이 줄고 있다고 보도했고(수치·발행일 미확인), 에르메스 3분기 성장률 4.3%는 예상 5.2%에 못 미쳤다[3][4]. 샤넬은 반대로, 블라지 취임 뒤 일부 백의 중고가가 정가를 13~15% 웃돈다[12]. 다만 에르메스는 둔화했을 뿐 여전히 성장 중이며, 리세일이 웃돈을 주는 대상이 희소성 자체에서 디자인 모멘텀과 소재 가치로 옮겨 갔다고 보는 것이 정확하다.
 
+![중국 중고 버킨 공급 증가와 리세일 프리미엄 축소(발행일·수치 미확인)](https://cdn.sanity.io/images/f8lauh0h/production/e30b8f64bbf63c05a0a822bb83306db34f7b84dc-1920x1266.jpg "Jing Daily|https://jingdaily.com/posts/has-china-broken-the-birkin")
+
 셋째, 주얼리는 성장축을 지켰고 유럽이 다음 약한 고리로 떠올랐다 — LVMH 시계·주얼리는 유기적 6% 성장해 패션·레더굿즈 -5%와 정반대로 움직였다[6][36]. 반대편에서 몽클레르 그룹은 보합, EMEA는 관광객 소비 약세로 -8%였고, 방돔 광장 매장은 시위를 앞두고 출입구를 보강했으며 밀라노 매장은 일찍 문을 닫았다(두 건 모두 미확인)[9][10][4]. 관광객 비중이 높은 유럽 플래그십과 로고 가죽에 기대는 하우스가 먼저 압박받고(가설), 자산성 있는 카테고리를 가진 그룹은 버틸 여지가 크다.
 
 ## 3. 떠오르는 플레이어와 워치리스트
 오늘 숫자로 뒷받침되는 상승 신호는 부쉐론과 브루넬로 쿠치넬리 두 곳이다 — 케링은 쥬얼리 성장의 동력으로 한국·일본의 부쉐론을 꼽았고(브랜드별 수치 미확인), 쿠치넬리는 9개월 매출이 불변환율 기준 13.3% 늘어 연간 전망을 약 12%로 올렸다[7][8]. 앞으로 2주는 이 가설을 날짜가 정해진 숫자로 검증하는 기간이다. 11월 5일 샤넬의 첫 호주 쇼(시드니)는 블라지 체제의 할증이 순회 쇼에서도 이어지는지를 보여 주고[51], 11월 12일(미확정) 버버리와 11월 13일 리슈몽은 유럽 약세와 주얼리·시계 격차를 확인하는 첫 창이다[55][56].
+
+![케링 3분기, 쥬얼리 +12%·하우스별 동향·매장 순폐점](https://r.fashionunited.com/biqV-V4jT7Mgter1Pd_CrS2SCFwvL0fTGrxpvnFRgeY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMjkva2VyaW5nLWd1Y2NpLXZ5MGk3cXdmLTIwMjMtMDQtMjUtczJqa2FwOGUtMjAyMy0xMi0xNS1rbWxreW04dy0yMDIzLTEyLTE1LW1la2g1dXVwLTIwMjMtMTItMTktcmE3cTBuOGEtMjAyNC0wMi0wOC0xanF5aGRveS0yMDI0LTEwLTIzLWVkYmh3bThrLTIwMjYtMDctMjkuanBlZw.jpeg "FashionUnited|https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016")
 
 ## 부록 — 오늘의 기타 신호
 1. 셀린느 — 리복 협업과 파리 남성 쇼의 화제로 라이스트 톱10에 처음 들었지만, 셀린느가 속한 LVMH 패션·레더굿즈는 3분기 -5%였고 브랜드 자체 실적은 미확인이다 — [11][6]
@@ -158,18 +166,26 @@
 ## Key Summary
 Buzz and scarcity are losing their premium together — Prada topped Lyst's Q3 index yet grew only 1% organically, and China's Birkin premium is shrinking [1][2][3]. Only jewelry kept growing, and Europe looks like the next weak link (hypothesis) [6][7][9][10].
 
+![Prada retakes No. 1 on the Lyst Q3 index, Miu Miu third, Burberry in the top 10](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+
 ## 1. Today in One Line
 The market now prices organic sales and material value, not buzz or scarcity. Prada's organic +1% at No. 1 on Lyst, China's narrowing Birkin premium and jewelry still growing prove it [1][2][3][6][7].
+
+![Prada Group Q3 organic +1%, Versace consolidation effect, Miu Miu slowing](https://content.luxurytribune.com/app/uploads/2026/10/Behind-the-scenes-at-the-Prada-Spring-Summer-2027-Womenswear-Fashion-Show.-Here-there-is-inhere.jpg "Luxury Tribune|https://www.luxurytribune.com/en/prada-group-11-growth-in-q3-2026-miu-miu-is-slowing-down")
 
 ## 2. Three Key Stories
 First, interest indices are not a proxy for sales — Prada retook No. 1 on Lyst with demand up 55%, yet grew only 1% organically [1][2]. Houses that report rankings as results lose; steady growers without buzz gain (hypothesis).
 
 Second, scarcity is priced brand by brand — Jing Daily reports more second-hand Birkins in China and a shrinking premium (figures, date unverified), and Hermès grew 4.3% in Q3 against 5.2% expected [3][4]. Chanel runs the other way, with some bags 13-15% above retail under Blazy [12]. Hermès is slowing, not shrinking; resale now pays for design momentum and material value, not scarcity.
 
+![rising second-hand Birkin supply in China and a shrinking resale premium (date and figures unverified)](https://cdn.sanity.io/images/f8lauh0h/production/e30b8f64bbf63c05a0a822bb83306db34f7b84dc-1920x1266.jpg "Jing Daily|https://jingdaily.com/posts/has-china-broken-the-birkin")
+
 Third, jewelry held and Europe is the next weak link — LVMH Watches & Jewelry grew 6% organically while Fashion & Leather Goods fell 5% [6][36]. Moncler was flat, EMEA -8% on weak tourist spending; Place Vendôme stores reinforced entrances before protests and Milan stores closed early (both unverified) [9][10][4]. Tourist-heavy flagships and logo leather feel it first (hypothesis); asset-like categories hold.
 
 ## 3. Rising Players and Watchlist
 Two names carry numbers today, Boucheron and Brunello Cucinelli — Kering credits Boucheron in Korea and Japan for jewelry growth (brand figures unverified), and Cucinelli grew 13.3% at constant currency over nine months, lifting guidance to about 12% [7][8]. The next two weeks bring dated tests. Chanel's Sydney show (Nov 5) shows whether the Blazy premium travels [51]; Burberry (Nov 12, unconfirmed) and Richemont (Nov 13) give the first read on European weakness and the jewelry-watch gap [55][56].
+
+![Kering Q3: jewelry +12%, house-by-house trends, net store closures](https://r.fashionunited.com/biqV-V4jT7Mgter1Pd_CrS2SCFwvL0fTGrxpvnFRgeY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMjkva2VyaW5nLWd1Y2NpLXZ5MGk3cXdmLTIwMjMtMDQtMjUtczJqa2FwOGUtMjAyMy0xMi0xNS1rbWxreW04dy0yMDIzLTEyLTE1LW1la2g1dXVwLTIwMjMtMTItMTktcmE3cTBuOGEtMjAyNC0wMi0wOC0xanF5aGRveS0yMDI0LTEwLTIzLWVkYmh3bThrLTIwMjYtMDctMjkuanBlZw.jpeg "FashionUnited|https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016")
 
 ## Appendix — other signals today
 1. Celine — entered the Lyst top 10 for the first time on the Reebok collaboration and the Paris men's show, but LVMH Fashion & Leather Goods, its division, fell 5% in Q3 and brand-level results are unverified — [11][6]

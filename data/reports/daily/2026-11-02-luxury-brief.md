@@ -7,11 +7,17 @@
 ## 1. 에르메스의 아시아 0%가 깨뜨린 '최상단은 안전하다'는 가정
 오늘의 결론은 수요 약세가 피라미드 꼭대기까지 올라왔다는 것이다 — 에르메스 3분기 매출은 환산 기준 4.3% 성장에 그쳐 시장 기대치를 밑돌았고, 매출의 약 40%를 책임지는 일본 제외 아태 성장률이 사실상 0%로 멈췄다[1]. 발표 직후 주가는 52주 신저가로 빠졌고, 버킨백 2차 시장 프리미엄도 2022년 정점에서 뚜렷하게 내려왔다[1][2]. 즉 '한정 공급은 곧 가치 보존'이라는 럭셔리 전반의 내러티브가 바로 그 대표 주자에게서 흔들린다는 뜻이다. 다만 균형추가 필요한데, 에르메스는 여전히 플러스 성장이고 홍콩 헤리티지 전시로 지역 수요를 방어하고 있어 붕괴가 아닌 정체의 신호로 읽는 것이 정확하다[3].
 
+![에르메스 3분기 매출 아태 성장 정체 및 주가 급락](https://theimpression.com/wp-content/uploads/2026/10/Hermes-Q3-2026-Results-Axel-Dumas-scaled.jpeg "The Impression / Investing.com|https://theimpression.com/hermes-q3-2026-sales-growth-asia-leather-goods/")
+
 ## 2. 소프트 럭셔리가 흔들릴수록 돈은 보석으로
 가장 뚜렷한 구조적 이동은 경성자산으로의 자본 쏠림이다 — 리치몬드 주얼리 4개 메종이 상반기 매출 9% 성장에 영업이익률 32.8%를 지킨 반면, LVMH·에르메스의 패션·가죽은 중국 부진으로 정체했다[4][1]. LVMH 안에서도 시계·주얼리만 3분기 6% 성장하며 불가리·티파니가 방어선이 됐고, 카르티에 트리니티는 2차 시장 거래량이 전년 대비 155% 급증해 '투자재' 서사를 굳혔다[5][6]. 즉 의류·가방 수요가 식는 국면에서 소비자는 가치 보존이 명확한 품목으로 지갑을 옮기고 있다. 다만 리치몬드조차 환율과 신규 미국 관세로 마진이 190bp 깎였다는 점에서, 하드 럭셔리의 방어력도 비용 측면에서는 무한하지 않다[4].
 
+![리치몬드 보석 부문 상반기 9% 성장, 32.8% 영업이익률](https://www.theindustry.fashion/wp-content/uploads/2023/02/Richemont.jpg "TheIndustry.fashion|https://www.theindustry.fashion/cartier-and-van-cleef-lead-richemonts-double-digit-sales-rebound/")
+
 ## 3. 떠오르는 플레이어와 워치리스트
 오늘 가장 분명한 상승 신호는 조용한 럭셔리의 브루넬로 쿠치넬리다 — 1~9월 매출이 고정환율 13.3% 늘며 연간 전망을 올해 두 번째로 약 12%까지 상향해, 로고 중심 브랜드들이 중국 과세 단속에 두 자릿수로 밀리는 국면과 정반대 궤적을 그렸다[7][8]. 뷰티에서는 로레알 라이선스 브랜드 프라다 뷰티가 그룹 라이선싱 매출 73% 급증의 동력으로 재확인됐다[9]. 앞으로의 변수는 11월 13일 리치몬드 상반기 실적(하드 럭셔리 독주의 지속 여부), 케링의 생로랑·발렌시아가·맥퀸 동시 디렉터 교체가 디올의 '교체≠수요 회복' 선례를 반복할지, 그리고 LVMH·로레알·에실로룩소티카를 끌어들인 아르마니 유족의 지분 15% 매각 논의다[10][11][12][13].
+
+![중국 과세 단속으로 과시형 명품 매출 두 자릿수 감소](https://wimg.heraldcorp.com/news/cms/2026/10/18/news-p.v1.20250928.30e52194de5c43beb65c434e7e7b4130_P1.jpg "Herald Business / Bloomberg|https://biz.heraldcorp.com/article/10905952")
 
 ## 부록 — 오늘의 기타 신호
 1. 루이비통 — 티파니 출신 엑토르 무엘라스가 신설 수석 브랜드 크리에이티브 오피서로 11월 1일 취임, 그룹 내부 수평 이동으로 브랜드 조직 보강 — [14]
@@ -75,11 +81,17 @@ Today's tape confirmed that demand weakness is no longer confined to a few logo-
 ## 1. Hermès's zero in Asia breaks the "the top tier is safe" assumption
 The conclusion today is that demand weakness has reached the apex of the pyramid — Hermès grew just 4.3% in Q3, with Asia-Pacific ex-Japan growth stalling to effectively zero [1]. Shares fell to a 52-week low and Birkin resale premiums have come off their 2022 high [1][2]. The whole "limited supply equals value preservation" narrative is wobbling at its flagship. Still, Hermès is still growing and defending demand with a Hong Kong show, so this reads as stagnation, not collapse [3].
 
+![Hermès Q3 Asia-Pacific growth stall and share drop](https://theimpression.com/wp-content/uploads/2026/10/Hermes-Q3-2026-Results-Axel-Dumas-scaled.jpeg "The Impression / Investing.com|https://theimpression.com/hermes-q3-2026-sales-growth-asia-leather-goods/")
+
 ## 2. The weaker soft luxury gets, the more money moves to jewels
 The clearest structural shift is a tilt of capital toward hard assets — Richemont's jewellery Maisons held 9% H1 growth on a 32.8% margin, while fashion and leather at LVMH and Hermès stalled on China [4][1]. Inside LVMH, only watches and jewellery grew, up 6% on Bulgari and Tiffany, and Cartier Trinity resale volume jumped 155% [5][6]. As apparel and bag demand cools, shoppers are shifting toward items with clearer value retention. Yet even this run has a caveat — Richemont lost 190bps of margin to FX and new US tariffs, so hard luxury's defense is not costless [4].
 
+![Richemont jewellery H1 up 9% at 32.8% margin](https://www.theindustry.fashion/wp-content/uploads/2023/02/Richemont.jpg "TheIndustry.fashion|https://www.theindustry.fashion/cartier-and-van-cleef-lead-richemonts-double-digit-sales-rebound/")
+
 ## 3. Risers and the watchlist
 The clearest rising signal is quiet-luxury player Brunello Cucinelli — nine-month revenue up 13.3%, guidance raised a second time to around 12%, against logo-forward brands sliding on China's tax crackdown [7][8]. In beauty, Prada Beauty, an L'Oréal-licensed brand, was reconfirmed as the engine behind the group's 73% licensing-revenue surge [9]. Variables ahead: Richemont's November 13 interims [10]; whether Kering's director changes at Saint Laurent, Balenciaga and McQueen repeat Dior's "a change does not restore demand" precedent [11][12]; and the Armani family's 15% stake sale, drawing in LVMH and L'Oréal [13].
+
+![China tax crackdown deepens double-digit drops for logo-forward luxury](https://wimg.heraldcorp.com/news/cms/2026/10/18/news-p.v1.20250928.30e52194de5c43beb65c434e7e7b4130_P1.jpg "Herald Business / Bloomberg|https://biz.heraldcorp.com/article/10905952")
 
 ## Notes
 - Constant currency (growth): revenue change stripping out FX movement, to show the underlying business.

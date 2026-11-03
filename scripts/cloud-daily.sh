@@ -73,6 +73,9 @@ if [ "$(date +%u)" = "1" ]; then
   run_opt "/weekly-luxury"
 fi
 
+# Magazine layout: one photo per section in every report (deterministic, hotlinked og:image).
+python scripts/add_figures.py || echo "WARN: figures failed"
+
 # Honesty gate: the cycle only "succeeded" if today's daily brief was actually
 # produced. This is the same artifact daily.yml's guard checks. If it is missing
 # (auth failure, crash, etc.) abort BEFORE export/publish so the live site is

@@ -16,9 +16,13 @@
 
 마이클 라이더는 2024년 10월 2일 셀린의 아티스틱 디렉터로 임명돼 2025년 초 합류했고, 7년간 하우스를 이끈 에디 슬리만의 뒤를 이었다.[1][2] 브라운대에서 교육학을 전공하고 교사로 출발한 이례적 이력의 미국 디자이너로, 발렌시아가에서 니콜라 제스키에르 밑에서 실무를 익힌 뒤 2008~2017년 셀린에서 피비 파일로의 디자인 디렉터로 하우스의 '올드 셀린' 미니멀리즘 전성기를 함께 만들었고, 이후 폴로 랄프 로렌 여성복 크리에이티브 디렉터를 거쳐 셀린으로 돌아왔다.[3][4] 2025년 7월 6일 파리 리부티엔가 16번지에서 남녀 72룩으로 공개한 데뷔 컬렉션은 슬리만의 록·모노크롬 코드를 걷어내고 파일로기 절제와 프레피·프렌치 시크를 재해석하며 압도적 호평을 받았고,[6][7] 라이더는 아이러니 없는 자신감과 직관 중심의 태도를 표방하며 조용한 럭셔리 계열로 셀린을 재정렬하고 있다.[8] 이는 뎀나의 구찌가 추구하는 볼륨·서브컬처 노선과 대척점에 서는 LVMH발 헤리티지 미니멀리즘의 재부상으로, 구찌의 상류·성숙 고객층과 정면으로 겹친다. 2026년 상반기 실적 코멘트에서 LVMH 경영진은 셀린이 소프트 트리옹프 등 신제품과 라이더 컬렉션에 힘입어 순차적으로 개선되고 있다며 펜디와 함께 진전을 자신했으나, LVMH는 셀린 매출을 별도 공시하지 않아 상업 회복의 절대 규모는 여전히 외부에서 확정할 수 없다.[11] 여기에 전임 슬리만이 자신의 시각 유산을 답습하지 말라며 공개적으로 경계를 표한 승계 마찰까지 겹치며 라이더 초기 국면의 변수가 드러나기 시작했으며,[10] 2026년 9월에는 셀린 최초의 스니커 협업인 '리복 프리스타일 로'를 출시하며 조용한 럭셔리 하우스가 스포츠웨어·스니커 컬처로 처음 발을 들였다.[13]
 
+![슬리만 이탈·라이더 셀린 아티스틱 디렉터 임명(2024-10-02)·직무 개시 시점](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F10%2F02%2Fhedi-slime-exit-celine-michael-rider-appointed-creative-directortw.jpg?w=1080&cbr=1&q=90&fit=max "Hypebeast|https://hypebeast.com/2024/10/hedi-slime-exit-celine-michael-rider-appointed-creative-director")
+
 ## 1. 프로필 개요
 
 마이클 라이더는 1981년경 출생한(보도 기준 2025년 44세) 미국 워싱턴 D.C. 출신 디자이너로, 현재 LVMH 소유 셀린의 아티스틱 디렉터다.[3][2] 임명은 슬리만의 공식 이임이 발표된 지 몇 시간 만인 2024년 10월 2일 발표됐으며, 직무는 2025년 초부터 시작됐다.[1][2] 그가 승계한 인물은 2018년부터 7년간 셀린을 이끈 에디 슬리만으로, 슬리만은 하우스 매출을 연 25억 유로 규모까지 키워 셀린을 LVMH 패션 부문에서 루이비통·디올에 이은 3위 하우스로 끌어올린 뒤 계약 협상 결렬 끝에 떠났다.[5]
+
+![라이더 심층 인터뷰: 워싱턴 D.C. 출생·44세·교사 이력·브라운대·발렌시아가·파일로기 셀린(2008–2017)·랄프 로렌 6년·설명 아닌 느낌 일화](https://imgix.bustle.com/uploads/image/2025/9/4/a390a6ba/wmagvol42025featuremichaelridercelinehrrgb-1.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4437&fp-y=0.2594 "W Magazine|https://www.wmagazine.com/fashion/michael-rider-celine-artistic-director-interview-2025")
 
 라이더의 이력은 럭셔리 디자이너로는 이례적이다. 그는 브라운대에서 교육학을 전공했고 실제로 브라질에서 1년, 오클랜드에서 중학생을 가르친 교사 출신이다.[3] 변호사 부모(민권 변호사인 어머니 포함) 아래서 자란 그는 쉰 살이 되기 전에 열정을 좇아야 한다는 판단으로 2000년대 초 패션으로 전향했다.[3] 셀러브리티형 스타 디자이너와도, 순수 아틀리에 장인형과도 다른, 절제된 지성과 실무 감각을 겸비한 인물로 평가된다.
 
@@ -26,11 +30,15 @@
 
 라이더의 경력은 발렌시아가 → 셀린(파일로기) → 폴로 랄프 로렌 → 셀린(현직)으로 이어진다. 그는 2004년경 발렌시아가에 인턴으로 합류해 니콜라 제스키에르 밑에서 정규 디자이너로 성장했다.[3] 이후 2008년부터 2017년까지 약 10년간 셀린에서 피비 파일로의 레디투웨어 디자인 디렉터를 맡아, 미니멀리즘과 현대적 여성성으로 정의된 하우스의 가장 영향력 있는 시기 — 이른바 '올드 셀린' — 를 함께 구축했다.[3][4] 파일로기 셀린은 로고 없는 절제, 정제된 테일러링, 실용성과 지성을 결합한 어법으로 2010년대 조용한 럭셔리 담론의 원형이 됐고, 라이더는 그 코드를 내부에서 체득한 몇 안 되는 디자이너다.
 
+![라이더 경력 타임라인·폴로 랄프 로렌 여성복 CD·프레피 미학 재활성화·2024년 5월 이탈](https://meanblvd.com/cdn/shop/articles/the-end-of-an-era-hedi-slimane-departs-celine-michael-rider-steps-in-by-mean-blvd.jpg?v=1728293897 "MEAN BLVD|https://meanblvd.com/blogs/fashion-insights/the-end-of-an-era-hedi-slimane-departs-celine-michael-rider-steps-in")
+
 2018년 그는 폴로 랄프 로렌 여성복 크리에이티브 디렉터로 옮겨 약 6년간 재임했고, 미국 프레피 헤리티지에 현대적 감각을 입혀 브랜드 미학을 재활성화했다는 평을 받았다.[3][4] 그는 랄프 로렌에게서 배운 교훈을 반복해 인용하는데, 로렌이 왜 사람들을 헷갈리게 하려 하느냐며 옷은 설명이 아니라 느낌이어야 한다고 말했다는 일화와, 로렌은 "패션의 지성화를 혐오한다"는 서술이 그의 접근을 요약한다.[3] 이 상업적 명료함과 입을 수 있는 옷에 대한 신념이 그의 브랜드 정체성을 형성한다. 다만 폴로 랄프 로렌은 상장 모기업(Ralph Lauren Corp.) 산하 서브라인으로 라이더 개인 성과로 귀속 가능한 별도 재무 수치는 공시되지 않는다(귀속 불가). 그는 2024년 5월 폴로를 떠났고, 같은 해 10월 셀린 아티스틱 디렉터로 발탁되며 여성복·남성복·가죽·액세서리·쿠튀르 전 컬렉션에 대한 크리에이티브 총괄 권한을 부여받았다.[1][2]
 
 ## 3. 스타일과 미학
 
 라이더의 시그니처는 진짜 옷으로 강한 패션을 만든다는 명제로 압축된다. 그는 추상이나 과장 없이도 실용적 옷 자체로 흥분을 만들 수 있다고 믿으며,[7] 워드로브 스테이플을 정교하게 재해석하는 방식을 택한다. 데뷔 컬렉션에서 그는 셀린의 여러 시대를 지우지 않고 겹쳐 인용했다 — 마이클 코어스기의 세련된 스포츠웨어와 레이디라이크 감성, 파일로기의 미니멀 테일러링(플리츠 팬츠·허리를 잡은 재킷·휘도는 스커트·컬러 대비), 슬리만기의 스키니 팬츠와 로고타입 배치를 한 컬렉션 안에서 대화시켰다.[6][7] 여기에 옥스퍼드 셔츠·스트라이프 타이·볼드한 니트로 프레피 무드를 더하고, 벨트를 활용해 실루엣을 조이거나 매다는 연출이 특징이다.[6]
+
+![라이더 인터뷰: 짐으로 보지 않는다는 발언·연속성·진짜 옷·헤리티지 관점](https://theimpression.com/wp-content/uploads/2026/03/Michael-Rider-Finds-the-Future-in-the-Courtyard-at-Celine.jpg "The Impression|https://theimpression.com/michael-rider-finds-the-future-in-the-courtyard-at-celine/")
 
 액세서리에서는 스마일 형태로 곡선 처리된 지퍼의 러기지 토트 재해석과 절충적·아나키한 주얼리가 데뷔의 시각적 훅이 됐다.[6] 두 번째 시즌(2026년 초 겨울 컬렉션)에서는 어법이 더 또렷해졌다. 하이칼라, 긴 플라운스 소매의 트럼펫 미니드레스, 허리에서 높게 플레어되는 블레이저와 크롭트 킥플레어 팬츠, 와이드림 볼러 햇, 미스매치 스테이트먼트 이어링, 조각적 레더 스카프가 그의 코드로 자리 잡기 시작했다.[8] 레오파드·페더·자수 플로럴과 크로커다일 엘보 패치 카디건, 시클라멘 핑크·립스틱 레드의 컬러 블로킹처럼 미니멀 정련과 맥시멀 장식을 오가며 단일 실루엣을 거부하는 방향을 보였다.[9] 각 룩이 개별 피스로 쉽게 분해돼 믹스매치되도록 머천다이징된 점 — 즉 규칙이 아닌 제안으로서의 스타일링 — 도 그의 상업 감각을 드러낸다.[8]
 
@@ -40,6 +48,8 @@
 
 라이더의 철학은 몇 개의 짧은 문장으로 선명하다. 그는 헤리티지를 짐이 아니라 비옥한 토양으로 본다 — "그것을 짐으로 보지 않는다"고 그는 말한다.[7] 아카이브와 유산의 무게를 부담으로 여기는 다수 디자이너와 달리, 그는 연속성이라는 발상 자체를 좋아한다고 밝힌다.[7] 디자인의 목적에 대해서는 오래 살아남는 옷이라는 발상을 늘 사랑해왔다고 말하며, 과거·현재·미래를 담아내면서 실용성과 판타지를 결합하는 옷을 지향한다고 설명한다.[6][7] 데뷔 서사는 기억·유용함·판타지라는 삼각 구도로 요약된다.[6]
 
+![라이더 SS26 데뷔 리뷰: 2025-07-06 리부티엔가·72룩·라이브 런웨이 복원·코어스/파일로/슬리만 코드·러기지 재해석·기억과 유용함과 판타지 서사](https://images-prod.anothermag.com/1200/0-0-1200-800/azure/another-prod/460/2/462192.jpg "AnOther|https://www.anothermag.com/fashion-beauty/16474/michael-rider-celine-ss26-show-review")
+
 두 번째 컬렉션에서 그는 방법론을 한층 급진적으로 밀어붙였다. 컬렉션 서한에서 그는 이번 시즌이 자신감에 관한 것이며 아이러니 없이 스타일을 말하는 것이라 밝혔고, 전략이 아니라 직관을, 계획이 아니라 느낌을 앞세우며 '콘셉트'라는 발상 자체를 거부한다고 선언했다 — 그가 요약한 태도는 전략보다 직관이라는 한마디로 압축된다.[8] "복잡하고 층층인 내면이 훌륭한 옷 아래로 배어나올 때를 사랑한다"는 그의 말은,[9] 개념적 서사보다 착장자의 실제 삶과 감정에 방점을 찍는 그의 태도를 압축한다. 요컨대 라이더의 셀린은 로고나 아이러니가 아니라 '느끼는 옷'으로 럭셔리를 정의하려 한다.
 
 ## 5. 현 하우스에서의 행보
@@ -47,6 +57,8 @@
 라이더의 데뷔 쇼는 2025년 7월 6일 파리 셀린 아틀리에가 있는 리부티엔가 16번지에서 남녀 72룩으로 공개됐다.[6] 이 쇼는 슬리만기 수년간 이어진 시네마틱 필름 대신 라이브 인퍼슨 런웨이를 복원한 상징적 무대였고,[6] 비평은 압도적으로 우호적이었다 — 따뜻함과 영혼이 있는 데뷔라는 평과, 아웃사이더의 시선으로 프렌치 세련미를 증류해 셀린의 본질을 포착했다는 반응이 주를 이뤘다.[6] 쇼 직후 온라인에서 수십 건의 극호평 리뷰가 쏟아진 것으로 전해진다.[7]
 
 두 번째 런웨이는 2026년 초(3월 초) 파리 좌안 앵스티튀 드 프랑스에서 겨울 2026 컬렉션으로 열렸고, 트레이시 엘리스 로스·세라 폴슨·나타샤 리온 등이 참석했다.[8][9] 비평가 알렉산더 퓨리는 라이더가 열망을 자아내는 이미지와 입을 수 있는 디테일로 강렬한 갈망을 불러일으켰다고 평했다.[9] 두 시즌 만에 하이칼라·트럼펫 실루엣·조각적 액세서리 등 '라이더 셀린'의 고유 코드가 반복 가능한 하우스 문법으로 자리 잡기 시작했다는 점이 소포모어 무대의 성과로 읽힌다(가설).
+
+![셀린 겨울 2026 리뷰: 앵스티튀 드 프랑스·전략보다 직관·콘셉트 거부·실루엣/액세서리·머천다이징·참석자](https://imgix.bustle.com/uploads/image/2026/3/8/4506a30e/celine_hiver_26_look_09.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4979&fp-y=0.1847 "W Magazine|https://www.wmagazine.com/fashion/celine-fall-winter-2026-michael-rider-runway-photos")
 
 카테고리 확장 측면에서 주목할 새 신호는 셀린 최초의 스니커 협업이다. 2026년 9월 셀린은 리복과 손잡고 프리스타일 로를 재해석한 협업 스니커 '셀린 x 리복 프리스타일 로'를 셀린 매장과 온라인에서 출시했다.[13] 이 스니커는 라이더의 2027 봄 남성 컬렉션 런웨이에서 처음 선보인 뒤 판매로 이어진 것으로, 1982년경 여성용으로 처음 만들어진 프리스타일의 측면 오버레이를 걷어내고 부드러운 램스킨으로 재구성했으며 다크 브라운·옥스블러드·옵틱 화이트·피넛 등 여덟 가지 셀린 컬러로 전개됐다.[13] 조용한 럭셔리와 파일로기 미니멀리즘을 표방해온 셀린이 스포츠웨어·스니커 컬처 협업에 처음으로 발을 들였다는 점에서, 이는 라이더가 헤리티지 재해석 문법을 의류·가방을 넘어 신발과 스트리트·스포츠 인접 영역으로 확장하려는 신호로 읽힌다(가설). 다만 이 협업의 판매 규모나 지속성(단발 캡슐인지 장기 프랜차이즈인지)은 아직 확인되지 않는다(미확인).
 
@@ -65,6 +77,8 @@
 셋째, LVMH의 포트폴리오 함의와 유산 관리의 교훈. 셀린은 슬리만기에 이미 LVMH 3위 패션 하우스로 성장한 검증된 캐시카우이며,[5] 라이더가 이를 조용한 럭셔리로 재정렬해 안정적 고마진 성장을 재현한다면, 구찌 반등 베팅과 대비되는 'LVMH의 방어적 성장 자산'이 된다. 다만 LVMH가 셀린의 순차 개선을 '진행형 회복'으로 규정하면서도 매출 규모나 부문 대비 상대 순위를 공개하지 않은 점은,[11] 크리에이티브 전환의 순조로움이 곧바로 확정적 상업 회복으로 이어졌다고 단언할 수 없음을 보여주는 대목으로, 뎀나 구찌의 상업 전환을 압박하는 동시에 '전환에는 시차가 따른다'는 위안도 제공한다. 벤치마크 포인트로는, 라이더가 라이브 런웨이 복원·72룩 대규모 데뷔·전 시대 코드 통합으로 '단절 없는 전환'을 연출한 방식이 — 전임자를 부정하지 않고 흡수하는 화법이 — 하우스 전환기의 리스크 관리 모델로 참고할 만하다. 특히 슬리만이 자신의 시각 유산을 답습하지 말라고 공개 경계한 승계 마찰은,[10] 구찌가 톰 포드·알레산드로 미켈레의 강한 아카이브를 어떻게 계승·차별화할지에 대해 직접적 시사점을 준다. 전임자의 코드를 흡수할수록 정체성 마찰과 '표절 논란' 리스크가 커지므로, 유산 활용과 독자 언어 확립 사이의 균형은 구찌 내부 전략에서도 선제적으로 설계돼야 할 과제다(가설).
 
 넷째, 스포츠웨어 협업 노선의 직접 비교점. 셀린이 조용한 럭셔리 하우스로서 처음으로 리복과 스니커 협업에 나선 것은,[13] 구찌 자신의 아디다스 협업 이후 스포츠웨어 전략의 지속성·경쟁 강도를 가늠하는 직접적 벤치마크가 된다. 헤리티지 미니멀리즘을 표방하는 하우스마저 스니커 컬처와 협업으로 화제·젊은 고객을 겨냥하는 흐름이 확산된다면, 구찌의 스포츠웨어·협업 어젠다는 차별적 우위가 아니라 카테고리 표준으로 희석될 위험이 있다(가설). 반대로 셀린 협업이 단발 캡슐에 그친다면, 구찌가 스포츠웨어 협업을 지속 프랜차이즈로 안착시킬 여지가 상대적으로 커진다. 셀린 x 리복의 판매 지속성과 후속 여부는 구찌 협업 로드맵의 경쟁 판단에 참고 지표가 된다(가설).
+
+![셀린 최초 스니커 협업 '리복 프리스타일 로': 2026년 6월 봄 2027 남성 런웨이 데뷔 후 9월 출시, 라이더가 측면 오버레이 제거·램스킨 재구성·8개 셀린 컬러(다크 브라운·옥스블러드·옵틱 화이트·피넛 등)](https://wwd.com/wp-content/uploads/2026/09/Celine.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/footwear-news/sneaker-news/celine-reebok-freestyle-lo-sneaker-release-date-1239200585/")
 
 ## 7. 전망
 
@@ -121,17 +135,23 @@ Michael Rider was appointed artistic director of LVMH-owned Celine on October 2,
 
 Michael Rider is an American designer born around 1981 (reported as 44 in 2025) in Washington, D.C., and currently artistic director of LVMH-owned Celine.[3][2] His appointment was announced on October 2, 2024 — just hours after Slimane's official departure was confirmed — and he began the role in early 2025.[1][2] He succeeded Hedi Slimane, who led Celine for seven years from 2018 and grew the house to roughly 2.5 billion euros in annual revenue, lifting it to LVMH's third-largest fashion label behind Louis Vuitton and Dior, before leaving amid a failed contract negotiation.[5]
 
+![In-depth Rider interview: born Washington D.C., age 44, teaching background, Brown, Balenciaga, Philo-era Celine (2008–2017), six years at Ralph Lauren, the confuse-people anecdote](https://imgix.bustle.com/uploads/image/2025/9/4/a390a6ba/wmagvol42025featuremichaelridercelinehrrgb-1.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4437&fp-y=0.2594 "W Magazine|https://www.wmagazine.com/fashion/michael-rider-celine-artistic-director-interview-2025")
+
 Rider's background is unusual for a luxury designer. He studied education at Brown University and worked as a teacher — a year in Brazil and middle-school teaching in Oakland — before transitioning to fashion in the early 2000s on the conviction that he should pursue his passion before turning 50.[3] Raised by lawyer parents (including a civil-rights attorney mother), he is regarded as a figure combining restrained intellect with commercial instinct, distinct from both the celebrity-star and pure-atelier archetypes.
 
 ## 2. Career and Track Record at Previous Houses
 
 Rider's career runs Balenciaga → Celine (Philo era) → Polo Ralph Lauren → Celine (current). He joined Balenciaga around 2004 as an intern, growing into a full-time designer under Nicolas Ghesquière.[3] From roughly 2008 to 2017 he served as ready-to-wear design director at Celine under Phoebe Philo, helping build the house's most influential period — the so-called "Old Celine" — defined by minimalism and modern femininity.[3][4] Philo-era Celine, with its logo-free restraint, refined tailoring, and fusion of practicality and intellect, became the template for the 2010s quiet-luxury discourse, and Rider is one of few designers who absorbed those codes from the inside.
 
+![Rider career timeline, Polo Ralph Lauren womenswear CD, preppy revitalization, May 2024 exit](https://meanblvd.com/cdn/shop/articles/the-end-of-an-era-hedi-slimane-departs-celine-michael-rider-steps-in-by-mean-blvd.jpg?v=1728293897 "MEAN BLVD|https://meanblvd.com/blogs/fashion-insights/the-end-of-an-era-hedi-slimane-departs-celine-michael-rider-steps-in")
+
 In 2018 he moved to Polo Ralph Lauren as creative director of womenswear, serving about six years and earning credit for revitalizing the brand's aesthetic by adding a modern sensibility to American preppy heritage.[3][4] He repeatedly cites a lesson from Ralph Lauren — the anecdote that Lauren asked why anyone would want to confuse people, insisting things should be felt rather than explained, and the observation that Lauren detests the intellectualization of fashion.[3] That belief in commercial clarity and wearable clothes shapes his identity. Polo Ralph Lauren, however, is a subline under a listed parent (Ralph Lauren Corp.) with no separately disclosed figures attributable to Rider individually (not attributable). He left Polo in May 2024 and, that October, was named Celine's artistic director with full creative authority over womenswear, menswear, leather goods, accessories, and couture.[1][2]
 
 ## 3. Style and Aesthetic
 
 Rider's signature distills into a single proposition: making strong fashion out of real clothes. He believes practical clothing can excite without abstraction or exaggeration,[7] favoring meticulous reinterpretation of wardrobe staples. In his debut, he layered rather than erased Celine's eras — Michael Kors's polished sportswear and ladylike sensibility, Philo-era minimal tailoring (pleated trousers, waist-hugging jackets, swirling skirts, color contrasts), and Slimane-era skinny pants and logotype placement all conversed within one collection.[6][7] He added a preppy mood via Oxford shirts, striped ties, and bold knits, using belts to cinch or suspend silhouettes.[6]
+
+![Rider interview: the not-a-burden remark, continuity, real clothes, heritage view](https://theimpression.com/wp-content/uploads/2026/03/Michael-Rider-Finds-the-Future-in-the-Courtyard-at-Celine.jpg "The Impression|https://theimpression.com/michael-rider-finds-the-future-in-the-courtyard-at-celine/")
 
 In accessories, a Luggage tote reworked with a smile-shaped curved zip and eclectic, anarchic jewelry became the debut's visual hooks.[6] By his second season (Winter 2026), the vocabulary sharpened: high collars, trumpet minidresses with long flounce sleeves, blazers flaring high at the waist over cropped kick-flare trousers, wide-rim bowler hats, mismatched statement earrings, and sculptural leather scarves began to read as his codes.[8] Leopard, feathers, and embroidered florals, crocodile elbow-patch cardigans, and cyclamen-pink/lipstick-red color blocking showed him oscillating between minimal refinement and maximalist embellishment, refusing a single silhouette.[9] The way each look is merchandised to break down easily into mix-and-match pieces — styling as suggestions rather than mandates — signals his commercial sense.[8]
 
@@ -141,6 +161,8 @@ Rider's heritage-bag reinterpretation is no longer a single instance but a widen
 
 Rider's philosophy is captured in a few short lines. He sees heritage not as a burden but as fertile ground, saying he does not regard it as a weight to carry.[7] Unlike many designers who treat archives as weight, he embraces the very idea of continuity.[7] On the purpose of design, he says he has always loved the idea of clothing that lives on, aiming for clothes that hold past, present, and future while blending practicality and fantasy.[6][7] His debut narrative reduces to a triad of memories, usefulness, and fantasy.[6]
 
+![Rider SS26 debut review: 2025-07-06 rue Vivienne, 72 looks, live-runway restoration, Kors/Philo/Slimane codes, Luggage rework, the memories-usefulness-fantasy narrative](https://images-prod.anothermag.com/1200/0-0-1200-800/azure/another-prod/460/2/462192.jpg "AnOther|https://www.anothermag.com/fashion-beauty/16474/michael-rider-celine-ss26-show-review")
+
 In his second collection he pushed the method further. In an accompanying letter, he said the season was about confidence and about speaking of style without irony, declaring that he favors intuition over planning and rejects the very idea of a concept — an attitude that amounts to putting intuition ahead of strategy.[8] His remark that he loves it when messy, complex, layered inner lives come through underneath great clothes[9] captures his emphasis on the wearer's actual life and emotion over conceptual narrative. In short, Rider's Celine seeks to define luxury through clothes you feel rather than through logos or irony.
 
 ## 5. Tenure at the Current House
@@ -148,6 +170,8 @@ In his second collection he pushed the method further. In an accompanying letter
 Rider's debut was shown July 6, 2025, at 16 rue Vivienne in Paris — the house atelier — across 72 men's and women's looks.[6] It restored a live, in-person runway after years of Slimane's cinematic films,[6] and reviews were overwhelmingly favorable: praised as a debut with warmth and soul, it was seen as distilling French sophistication through an outsider's eye and capturing Celine's essential character.[6] Dozens of highly positive reviews reportedly appeared online moments after the show.[7]
 
 His second runway, a Winter 2026 collection, was held in early March 2026 at the Institut de France on Paris's Left Bank, with Tracee Ellis Ross, Sarah Paulson, and Natasha Lyonne in attendance.[8][9] Critic Alexander Fury praised Rider for evoking a powerful longing through aspirational imagery and wearable detail.[9] Within two seasons, the emergence of a distinct "Rider Celine" grammar — high collars, trumpet silhouettes, sculptural accessories — beginning to settle into repeatable house codes stands as the sophomore outing's achievement (hypothesis).
+
+![Celine Winter 2026 review: Institut de France, intuition over strategy, rejecting concept, silhouettes/accessories, merchandising, attendees](https://imgix.bustle.com/uploads/image/2026/3/8/4506a30e/celine_hiver_26_look_09.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4979&fp-y=0.1847 "W Magazine|https://www.wmagazine.com/fashion/celine-fall-winter-2026-michael-rider-runway-photos")
 
 A notable new signal on the category-expansion front is Celine's first-ever sneaker collaboration. In September 2026, Celine partnered with Reebok to release a collaborative sneaker reinterpreting the Freestyle Lo — the "Celine x Reebok Freestyle Lo" — in Celine stores and online.[13] The sneaker first appeared on the runway of Rider's Spring 2027 men's collection before moving to retail, and it rebuilds the Freestyle — originally created circa 1982 as a women's athletic shoe — in soft lambskin with the lateral side overlays stripped away, rolled out in eight Celine colors including Dark Brown, Oxblood, Optic White, and Peanut.[13] That a house defined by quiet luxury and Philo-era minimalism has stepped into a sportswear/sneaker-culture collaboration for the first time reads as a signal that Rider intends to extend his heritage-reinterpretation grammar beyond apparel and bags into footwear and street/sport-adjacent territory (hypothesis). The collaboration's sales scale and durability (whether a one-off capsule or a longer-run franchise) are, however, not yet confirmed (unconfirmed).
 
@@ -167,9 +191,13 @@ Third, LVMH portfolio implications and a lesson in legacy management. Celine is 
 
 Fourth, a direct comparison point on the sportswear-collaboration front. Celine's first-ever move into a Reebok sneaker collaboration as a quiet-luxury house[13] becomes a direct benchmark for gauging the durability and competitive intensity of Gucci's own post-Adidas sportswear strategy. If the trend of even heritage-minimalist houses courting buzz and younger customers through sneaker-culture collaborations spreads, Gucci's sportswear/collaboration agenda risks being diluted from a differentiating advantage into a category standard (hypothesis). Conversely, if the Celine collaboration proves a one-off capsule, Gucci has comparatively more room to establish sportswear collaborations as a sustained franchise. The Celine x Reebok collaboration's sales durability and any follow-up are reference indicators for competitive judgment on Gucci's collaboration roadmap (hypothesis).
 
+![Celine's first sneaker collaboration, the Reebok Freestyle Lo: runway debut at the Spring 2027 men's show in June 2026, retail launch in September, Rider removing the lateral overlays and rebuilding it in lambskin across eight Celine colors (Dark Brown, Oxblood, Optic White, Peanut, etc.)](https://wwd.com/wp-content/uploads/2026/09/Celine.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/footwear-news/sneaker-news/celine-reebok-freestyle-lo-sneaker-release-date-1239200585/")
+
 ## 7. Outlook
 
 Key points to watch over the next 12 months. First (hypothesis), commercial verification: since LVMH does not disclose Celine separately, segment commentary and management remarks are the indirect litmus of Rider's commercial power. With a favorable signal now on record — sequential improvement and management confidence on the H1 2026 call[11] — the crux is whether that improvement carries into second-half and full-year commentary, whether the strong sales of soft bags, shoes, and ready-to-wear harden into a revenue rebound, and whether the Slimane-era scale (around 2.5 billion euros) is defended or recovered as the final benchmark.[5] Second, it-bag creation and heritage-icon rework: whether the strategy of swapping multiple Philo-era icons into the Rider idiom — from the smile-zip Luggage to the soft, frame, and enamel Triomphe[12] — lands as genuine commercial iconics, and whether a fully new Rider handbag franchise emerges, will be the commercial evidence of his creative success (hypothesis). Third, category expansion and the durability of the sneaker collaboration: whether Celine's first-ever sneaker collaboration, the Reebok Freestyle Lo,[13] proves a one-off capsule or expands into a sustained sport/street-adjacent line will test whether Rider can extend his heritage-reinterpretation grammar beyond apparel and bags (hypothesis). Fourth, code consolidation and legacy-friction management: whether high collars, trumpet silhouettes, and the preppy vocabulary harden into repeatable house codes across his third and fourth collections, and whether, after Slimane's public warning,[10] Rider breaks free of the "predecessor's residue" to establish his own visual language. Fifth (hypothesis), density of the quiet-luxury segment: as Celine, Bottega, and Hermès reinforce the heritage-minimalist axis, whether Demna's maximalist, subculture Gucci reads as "differentiation" or as "isolation" will hinge on the competitive intensity of this segment.
+
+![Rider's Triomphe bag rework: Soft Triomphe Besace, Small Triomphe Frame, enamel hardware, downsized emblem, elevating Triomphe into a second Philo-era icon after the Luggage (2026-08-01)](https://www.purseblog.com/images/2026/06/Celine-Enamel-Triomphe-Bag.jpg "PurseBlog|https://www.purseblog.com/celine/michael-rider-just-put-a-bold-spin-on-celines-classic-triomphe-bag/")
 
 ## Glossary
 

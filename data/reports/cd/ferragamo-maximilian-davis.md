@@ -22,6 +22,8 @@
 
 데이비스의 현재 위치는 '4년 차 유임 CD'라는 한 줄로 요약된다 — 2022년 3월 14일 발표, 3월 16일 발효로 폴 앤드루(Paul Andrew)의 후임이 됐고, 95년 역사의 하우스에서 최초의 흑인 크리에이티브 디렉터로 기록됐다[1][2]. 영입 당시 그는 스물일곱이었고, 자기 이름 레이블 '맥시밀리언(Maximilian)'을 2년 운영한 신예였다 — 즉, 대형 하우스가 검증된 거장이 아니라 떠오르는 젊은 감각에 걸었다는 뜻이다[2]. 다만 이 선택에는 균형추가 필요하다 — 데이비스를 뽑은 고베티 CEO가 2025년 3월 이탈하면서, 그를 영입한 경영진과 그의 창작은 이제 분리된 상태로 평가받는다[4][5].
 
+![페라가모, 맥시밀리언 데이비스 신임 크리에이티브 디렉터 임명 보도](https://robbreport.com/wp-content/uploads/2022/03/maximilian-davis-salvatore-ferragamo.jpg?w=681&h=383&crop=1 "Robb Report|https://robbreport.com/style/menswear/salvatore-ferragamo-maximilian-davis-new-creative-director-1234668589/")
+
 페라가모는 피렌체에 뿌리를 둔 이탈리아 가죽·신발 유산 하우스다 — 2026년 9개월 매출에서 신발이 45%, 가죽제품이 41%를 차지해 여전히 액세서리 중심 구조를 유지한다[3]. 한편 창업 가문(레오나르도 페라가모 회장)이 경영 통제력을 쥔 상장사라는 점에서, 데이비스의 재임 안정성은 전문경영인 CEO가 아니라 가문의 의지에 더 크게 묶여 있다고 보는 것이 정확하다[4].
 
 ## 2. 경력과 전임 하우스 성과
@@ -34,11 +36,15 @@
 
 데이비스의 시그니처는 '속삭이는 관능'으로 압축된다 — 데뷔 당시 그는 컬렉션을 "ease and sensuality"(편안함과 관능)로 규정했고[7], 이후 비평가들은 그의 작업을 "polished simplicity"(정제된 단순함)와 도시적 세련으로 반복해 묘사했다[8]. 즉, 톰 포드식 노골적 섹시함이 아니라, 재단과 소재의 절제 속에 관능을 숨겨 두는 문법이라는 뜻이다. 시그니처 코드를 나열하면 첫째 슬림하고 미끄러지는 실루엣, 둘째 플레시 핑크·본·비세라 레드·블랙으로 좁힌 팔레트, 셋째 가방 형태를 의상 디테일로 녹여 넣는 아카이브 재해석, 넷째 데뷔 쇼의 그래픽 레드 샌드처럼 색채를 한 덩어리로 쓰는 연출이다[7][9].
 
+![데이비스의 페라가모 SS23 데뷔 쇼 리뷰·'ease and sensuality'](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F09%2Fferragamo-ss23-debut-collection-tw.jpg?w=1080&cbr=1&q=90&fit=max "Hypebeast|https://hypebeast.com/2022/9/ferragamo-x-maximilian-davis-debut-for-ss23")
+
 그의 무대는 단순한 미니멀리즘이 아니라 서사 장치를 품는다 — 2025 가을·겨울은 피나 바우슈의 안무와 다리오 아르젠토의 '서스페리아', 달리의 초현실주의를 레퍼런스로 삼아 "creating a sense of discomfort in the expected"(기대 속에 불편함을 심기)를 겨냥했다[9]. 다만 이 서사 지향에도 균형추가 필요하다 — 2026 봄·여름은 1920년대 여성 해방과 할렘 르네상스 댄디즘, 캐리비안·아프리카 텍스타일의 지위 정치를 끌어왔으나, 데이비스 본인이 "a celebration of freedom, a reclaiming of self"(자유의 축하, 자아의 재탈환)로 설명한 그 서사가 매출로 이어졌는지는 미확인이다[10]. 2026 가을·겨울 리뷰에서는 "단추와 패널에 다소 과했다"는 평가도 나와, 절제의 미학이 과잉으로 흔들린 지점도 함께 기록됐다[8].
 
 ## 4. 지향점과 철학
 
 데이비스가 밝힌 지향점의 핵심은 '유산과 현대성의 중개'다 — 그는 페라가모를 오랜 고객과 새 세대가 함께 원하는 하우스로 만들겠다고 했고, 취임 당시 "a dedication to timeless elegance"(시대를 초월한 우아함에 대한 헌신)를 하우스의 정체성으로 규정했다[11][7]. 즉, 창업자 살바토레 페라가모의 할리우드 장인 유산을 지우지 않되 자신의 관능 코드로 다시 쓰겠다는 뜻이다. 또한 그는 자신의 디자인 언어를 카리브적 생활 감각과 연결한다 — "an effortlessness that feels very Caribbean"(매우 카리브적으로 느껴지는 무심함)을 이탈리아식 옷차림에서 발견했다고 말한다[11].
+
+![데이비스의 비전·철학·'카리브적 무심함'·취임 발언](https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/db2fae06-1b67-4726-9122-e7f80b1042a3/id-preview-d82c5f8b--5eda686a-2395-4f7a-91b6-7b5e2274ab93.lovable.app-1780250944701.png "The Fashionography / i-D|https://thefashionography.com/fashion/the-visionary/maximilian-davis-from-manchester-roots-to-ferragamos-reinvention/")
 
 이러한 측면에서 데이비스의 철학은 '트렌드 비의존'과 '지속되는 옷'에 방점이 찍힌다 — 압도하기보다 오래 남는 피스를 지향하며, 과노출과 일회성 과잉의 시대에 드문 결을 겨냥한다는 평가를 받는다[11]. 다만 본 분석의 판단은, 이 철학이 페라가모의 상업적 숙제와 긴장 관계에 있다는 것이다 — '조용한 럭셔리(quiet luxury)'의 절제는 비평 언어로는 강점이지만, 아이코닉 상품의 화제성과 회전율이 필요한 턴어라운드 국면에서는 오히려 성장의 속도를 늦추는 요인으로 작동할 개연성이 높다.
 
@@ -56,11 +62,15 @@
 
 페라가모는 구찌·뎀나 리셋의 직접적 비교 사례다 — 본 분석의 판단은, 두 하우스가 '외부 영입 디자이너 + 헤리티지 재해석 + 평단 호평·상업 지연의 시차'라는 턴어라운드 문법을 거의 동일하게 공유한다는 데 있다. 첫째 함의는 페이싱이다 — 데이비스는 2022년 9월 데뷔 후 4년이 지난 2026년에도 비교매출이 9개월 기준 보합권에 머물며 안정적 플러스 궤도에 올라서지 못했다[3]. 즉, 외부 영입 CD의 평단 안착이 상업 회복으로 전환되는 데 4년이 지나도 확증이 나오지 않을 수 있다는 선례이며, 2025년 7월 부임한 뎀나의 구찌 역시 더 긴 시간 창을 전제로 평가해야 한다는 함의가 성립한다.
 
+![페라가모 2026 3분기·9개월 실적(매출·채널·지역·카테고리)](https://theimpression.com/wp-content/uploads/2026/10/Ferragamo-Sales-Fall-as-Retail-Growth-Stalls.jpg "The Impression|https://theimpression.com/ferragamo-q3-2026-results/")
+
 둘째 함의는 거버넌스 안정성의 양면성이다 — 페라가모는 창업 가문이 데이비스를 재신임하며 CD 연속성을 지켰으나, 그를 영입한 CEO는 이미 떠났고 후임은 미정이다[4][5]. 이로부터 '가문·오너의 인내'가 CD 유임을 보장하더라도 그 자체가 턴어라운드의 증거는 아니라는 점이 확인된다 — 구찌에서 '뎀나 안정성'이 방어적 플러스일 뿐 재악화의 당사자이기도 하다는 본 데스크의 기존 판단과 정확히 같은 구조다. 셋째 함의는 미학 노선의 대비다 — 데이비스의 '조용한 세련·속삭이는 관능'은 뎀나 구찌의 맥시멀·역사 채굴형 어휘와 정반대 축에 선다. 다만 양쪽 모두 '덜 요란하게 vs 더 요란하게'의 선택이 아직 숫자로 판가름 나지 않았다는 점에서, 페라가모는 구찌가 '절제 노선을 택했어도 결과가 보장되지 않았을 것'임을 보여주는 대조군(control group)으로 읽는 것이 정확하다.
 
 ## 7. 전망
 
 다음 12개월의 관전 포인트는 세 가지다. 첫째, 페라가모 FY2026 연간 실적(2027년 초 발표 예상)에서 3분기 -3.5%(환율 중립)의 재악화가 일시적 조정인지 추세 반전인지가 판단 기준이다 — 9개월 누계 환율 중립 +0.2%의 보합 기조가 플러스로 되살아나는지, 아니면 3분기 낙폭이 이어지는지를 확인하면 된다[3]. 또한 둘째, 차기 CEO 선임 여부와 시점이 변수다 — 2025년 3월 고베티 이탈 이후 가문 직접 경영이 이어지는 과도기이므로, 새 CEO가 데이비스 전략을 승계할지 수정할지가 재임 안정성의 선행 지표가 된다[5]. 마지막으로 셋째, 데이비스의 다음 시즌(2027 봄·여름 이후)에서 '절제의 미학'이 아이코닉 상품의 화제성·회전율로 번역되는 신호가 나오는지가 관건이다 — 2026 가을·겨울 리뷰의 '과잉' 지적을 그가 한 시즌 만에 제품 설계로 흡수하는지가 벤치마크다[8].
+
+![마르코 고베티 CEO 이탈(2025-03)·가문 직접 경영](https://r.fashionunited.com/aYK2R6IZiQmrG7SPsnRrb52W1Sa-2Hvkiuipk00Vqyk/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjQvMDQvMjUvZmVycmFnYW1vLWZhcmZldGNoLTItM3RrN3ZobWstMjAyMi0wOC0xMS1kY3A2eXd1aS0yMDI0LTA0LTI1LmpwZWc.jpeg "FashionUnited / Fashion Dive|https://fashionunited.uk/news/people/salvatore-ferragamo-parts-ways-with-ceo-marco-gobbetti/2025020479952")
 
 다만 이 전망에도 유보가 필요하다 — 본 도시는 페라가모 전용 커버리지의 1차 발행이며, 중국 본토 수요·리세일 지표·개별 상품 판매 데이터 같은 세부 지표는 미확인으로 남는다. 즉, 위 세 관전 포인트는 공개 실적과 평단 반응이라는 두 축으로만 추적 가능한 범위라는 뜻이다.
 
@@ -110,6 +120,8 @@ The conclusion of this dossier converges on one point — Maximilian Davis was r
 
 Davis's current position reduces to one line — "fourth-year incumbent CD." Announced 14 March 2022 and effective 16 March, he succeeded Paul Andrew and became the first Black creative director in the house's 95-year history[1][2]. He was twenty-seven at recruitment and had run his eponymous label, Maximilian, for only two years — put differently, a major house bet on a rising young sensibility rather than a proven master[2]. That bet needs a counterweight, though — with Gobbetti, the CEO who hired him, gone in March 2025, Davis's work is now judged apart from the management that brought him in[4][5].
 
+![Ferragamo taps Maximilian Davis as new creative director](https://robbreport.com/wp-content/uploads/2022/03/maximilian-davis-salvatore-ferragamo.jpg?w=681&h=383&crop=1 "Robb Report|https://robbreport.com/style/menswear/salvatore-ferragamo-maximilian-davis-new-creative-director-1234668589/")
+
 Ferragamo is a Florence-rooted Italian leather-and-footwear heritage house — footwear was 45 percent and leather goods 41 percent of nine-month 2026 revenue, so the accessory-led structure holds[3]. Meanwhile, as a listed company where the founding family (chairman Leonardo Ferragamo) keeps managerial control, the accurate description is that Davis's tenure stability is tied more to the family's will than to any professional CEO[4].
 
 ## 2. Career and Track Record at Previous Houses
@@ -122,11 +134,15 @@ His own label, Maximilian, debuted in 2020 through the London incubator Fashion 
 
 Davis's signature compresses to "whispered sensuality" — at his debut he defined the collection as "ease and sensuality"[7], and critics have since repeatedly described his work as "polished simplicity" and urban refinement[8]. Put differently, it is not Tom Ford-style overt sex but a grammar that hides sensuality inside restrained cut and material. His signature codes, enumerated: first, slim, sliding silhouettes; second, a palette narrowed to fleshy pink, bone, viscera red and black; third, archive reinterpretation that folds handbag forms into garment detail; fourth, staging that uses color as a single block, as with the debut show's graphic red sand[7][9].
 
+![Davis's Ferragamo SS23 debut review and ease and sensuality](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F09%2Fferragamo-ss23-debut-collection-tw.jpg?w=1080&cbr=1&q=90&fit=max "Hypebeast|https://hypebeast.com/2022/9/ferragamo-x-maximilian-davis-debut-for-ss23")
+
 His sets are not plain minimalism but carry narrative devices — Autumn/Winter 2025 referenced Pina Bausch's choreography, Dario Argento's Suspiria and Dalí's surrealism, aiming at "creating a sense of discomfort in the expected"[9]. Still, that narrative bent needs a counterweight — Spring/Summer 2026 drew on 1920s women's liberation, Harlem Renaissance dandyism and the status politics of Caribbean and African textiles, yet whether the story Davis himself framed as "a celebration of freedom, a reclaiming of self" translated into sales is unverified[10]. The Fall 2026 review noted he "got a little carried away with buttons and paneling," recording a point where the aesthetic of restraint wobbled into excess[8].
 
 ## 4. Vision and Philosophy
 
 The core of Davis's stated aim is brokering heritage and modernity — he has said he wants a Ferragamo that longtime clients and a new generation both desire, and at appointment defined the house identity as "a dedication to timeless elegance"[11][7]. That is, he will not erase founder Salvatore Ferragamo's Hollywood artisan legacy but rewrite it through his own sensual codes. He also links his design language to a Caribbean sense of living — he says he found "an effortlessness that feels very Caribbean" in the Italian way of dressing[11].
+
+![Davis's vision, philosophy, Caribbean effortlessness, appointment remarks](https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/db2fae06-1b67-4726-9122-e7f80b1042a3/id-preview-d82c5f8b--5eda686a-2395-4f7a-91b6-7b5e2274ab93.lovable.app-1780250944701.png "The Fashionography / i-D|https://thefashionography.com/fashion/the-visionary/maximilian-davis-from-manchester-roots-to-ferragamos-reinvention/")
 
 In this respect his philosophy stresses trend-agnosticism and clothes that last — pieces that endure rather than overwhelm, a texture called rare in an age of overexposure and disposable excess[11]. Our read, though, is that this philosophy sits in tension with Ferragamo's commercial homework — the restraint of "quiet luxury" is a strength in critical language, but in a turnaround that needs icon-product buzz and velocity it is likely to act as a brake on the pace of growth.
 
@@ -144,11 +160,15 @@ On the management axis, the vacuum is the variable — with Gobbetti, the CEO wh
 
 Ferragamo is a direct comparative case for the Gucci–Demna reset — our read is that the two houses share almost the same turnaround grammar: externally recruited designer, heritage reinterpretation, and a lag between critical praise and commercial payoff. First, on pacing — four years after his September 2022 debut, Davis still has nine-month comparable sales hovering around flat in 2026, without settling onto a stable positive track[3]. That is a precedent in which an external CD's critical landing may show no commercial confirmation even after four years, implying Demna's Gucci (appointed July 2025) must likewise be judged on a longer window.
 
+![Ferragamo Q3 and nine-month 2026 results (revenue, channel, region, category)](https://theimpression.com/wp-content/uploads/2026/10/Ferragamo-Sales-Fall-as-Retail-Growth-Stalls.jpg "The Impression|https://theimpression.com/ferragamo-q3-2026-results/")
+
 Second, on the two-sidedness of governance stability — Ferragamo kept CD continuity by reaffirming Davis, yet the CEO who hired him is already gone and his successor is undecided[4][5]. From this it is confirmed that owner-family patience, even if it secures CD tenure, is not itself evidence of turnaround — the same structure as this desk's standing read that "Demna stability" at Gucci is a defensive plus while also being the party to the re-deterioration. Third, on the contrast of aesthetic lines — Davis's "quiet polish, whispered sensuality" sits opposite Demna's maximalist, history-mining vocabulary. Still, since neither "less loud" nor "more loud" has been settled by the numbers, Ferragamo is best read as the control group showing that even had Gucci chosen restraint, the result would not have been guaranteed.
 
 ## 7. Outlook
 
 There are three things to watch over the next twelve months. First, in Ferragamo's FY2026 full-year results (expected early 2027), the test is whether the Q3 -3.5 percent constant-currency re-dip is a one-off correction or a trend reversal — it is enough to check whether the nine-month cumulative +0.2 percent constant-currency flat footing revives into positive growth or the Q3 decline persists[3]. Second, the next CEO appointment is a variable — with family direct management continuing since Gobbetti's March 2025 exit as a transition, whether a new CEO inherits or revises Davis's strategy becomes a leading indicator of tenure stability[5]. Third, the question for Davis's coming seasons (Spring/Summer 2027 onward) is whether the "aesthetic of restraint" throws off signals of icon-product buzz and velocity — the benchmark is whether he absorbs the Fall 2026 "excess" critique into product design within a single season[8].
+
+![CEO Marco Gobbetti exit (2025-03), family direct management](https://r.fashionunited.com/aYK2R6IZiQmrG7SPsnRrb52W1Sa-2Hvkiuipk00Vqyk/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjQvMDQvMjUvZmVycmFnYW1vLWZhcmZldGNoLTItM3RrN3ZobWstMjAyMi0wOC0xMS1kY3A2eXd1aS0yMDI0LTA0LTI1LmpwZWc.jpeg "FashionUnited / Fashion Dive|https://fashionunited.uk/news/people/salvatore-ferragamo-parts-ways-with-ceo-marco-gobbetti/2025020479952")
 
 That outlook needs a reservation — this is the first edition of dedicated Ferragamo coverage, and granular metrics such as mainland-China demand, resale indices and item-level sales remain unverified. That is, the three watch points above are trackable only along the two axes of public results and critical reception.
 

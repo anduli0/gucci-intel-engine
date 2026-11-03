@@ -16,9 +16,13 @@
 
 니콜라 제스키에르는 2013년 마크 제이콥스의 뒤를 이어 루이 비통 여성 컬렉션을 맡은 이래 12년 넘게 자리를 지킨, 메가 하우스 크리에이티브 좌석 중 가장 안정적인 재임 사례다. 발렌시아가에서 15년(1997–2012)을 이끌며 쇠락하던 하우스를 되살린 이력이 그를 이 자리로 데려왔고, 루이 비통에서는 프티 말·GO-14 같은 히트 가죽제품과 미래주의·아카이브 혼합 미학으로 하우스의 성장 궤도에 기여했다.[1][5][10] 루이 비통은 2022년 럭셔리 브랜드 최초로 연 200억 유로 매출을 기록했다.[9] 제스키에르는 2023년 11월 5년 재계약으로 신임을 재확인받았고 2026년 9월 현재 재임 지위에 변동은 없으나, 2026년 7월 중국에서 불거진 모노그램 '변기 백' 밈 논란은 그의 창작 관할 핵심 자산인 모노그램/콰트르푸아유 코드의 문화적 정당성을 처음으로 정면에서 위협했다.[12][13][14] 그런 국면에서 그는 2026년 8월 팻 맥그래스와 손잡고 루이 비통 최초의 뷰티 협업 컬렉션을, 이어 캘리포니아 포르쉐 리스토모드 전문업체 싱어(Singer)와 손잡고 포르쉐 911 두 대를 재해석한 루이 비통 최초의 자동차 협업을 잇달아 공개하며, 모노그램 130주년을 코드의 카테고리 확장 기회로 삼았다.[16][17][18][19][20][21] 2025년 럭셔리 침체와 LVMH 패션·가죽 부문 두 자릿수 역성장 국면에서도 그의 장수는 뎀나 체제로 막 전환한 구찌의 리셋 리스크와 극명하게 대비되는 벤치마크다.[4][7]
 
+![GO-14 명칭('Ghesquière October 2014')·말레타주·프티 말 등 데뷔 이후 가죽제품 히트 서사](https://highxtar.com/wp-content/uploads/2023/08/highxtar-louis-vuitton-1-1200x675.jpg "HIGHXTAR|https://highxtar.com/en/the-go-14-bag-a-unique-model-in-the-history-of-louis-vuitton/")
+
 ## 1. 프로필 개요
 
 니콜라 제스키에르는 프랑스 출신 디자이너로, 2013년 11월부터 루이 비통 여성 컬렉션의 아티스틱 디렉터를 맡고 있다.[2] 발렌시아가 크리에이티브 디렉터(1997–2012)와 루이 비통 아티스틱 디렉터(2013–)라는 두 자리를 통해 그는 자기 세대에서 가장 독창적인 디자이너라는 평판을 얻었다.[1] 현재 루이 비통에서 그의 재임은 12년을 넘겼는데, 메가 하우스의 크리에이티브 좌석이 최근 수년간 잦은 교체를 겪어 온 흐름에 비추면 이는 이례적으로 긴 안정성의 상징으로 읽힌다(분석자 관점). 남성 컬렉션은 2023년 이후 퍼렐 윌리엄스가 별도로 이끌고 있어, 제스키에르의 관할은 여성 웨어와 여성 가죽제품에 집중된다. 2026년 9월 현재 그의 좌석 지위에는 변동이 없으며, 2023년 11월 재계약이 유효한 상태다.[4]
+
+![2013년 11월 4일 마크 제이콥스 후임 공식 취임](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Nicholas_Ghesquiere_Paris_Fashion_Week_Spring_Summer_2019.jpg/960px-Nicholas_Ghesquiere_Paris_Fashion_Week_Spring_Summer_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail "Wikipedia|https://en.wikipedia.org/wiki/Nicolas_Ghesqui%C3%A8re")
 
 ## 2. 경력과 전임 하우스 성과
 
@@ -26,17 +30,23 @@
 
 1년 뒤 루이 비통은 떠나는 마크 제이콥스의 후임으로 제스키에르를 여성 컬렉션 아티스틱 디렉터로 지명했고, 그는 2013년 11월 4일 공식 취임했다.[1][2] 루이 비통에서의 상업 성과는 규모가 다르다. 루이 비통은 2022년 럭셔리 브랜드 최초로 연 200억 유로 매출을 돌파했으며, 같은 해 LVMH 패션·가죽제품 부문은 유기적 기준 20% 성장한 386억 유로를 기록했다.[9] 제스키에르는 이 기간 여성 웨어와 가죽제품 카테고리의 정체성·성장에 기여했다는 평가를 받는다.[5] 가죽제품에서는 2014년 봄 데뷔 쇼에서 선보인 프티 말(Petite Malle)부터, 2014년 처음 디자인해 2023년 가을 런웨이에서 리마스터한 GO-14까지 히트작을 반복 생산한 이력이 있다. GO-14의 코드명은 '제스키에르 옥토버 2014(Ghesquière October 2014)'에서 온 것으로, 그의 데뷔 시즌 말레타주(malletage) 디자인에 뿌리를 둔다.[5][10]
 
+![루이 비통 2022년 럭셔리 최초 200억 유로 돌파·패션·가죽 부문 386억 유로](https://www.thefashionlaw.com/wp-content/uploads/2023/01/Screenshot-2023-01-27-at-9.34.31-AM-1024x666.png "The Fashion Law|https://www.thefashionlaw.com/louis-vuitton-reached-e20b-revenue-in-2022-as-lvmh-touts-e79b-for-the-year/")
+
 ## 3. 스타일과 미학
 
 제스키에르 미학의 핵심 문법은 과거와 미래의 병치, 즉 이원성(dualism)이다.[해설] 그의 비전은 헤리티지와 하이퍼 모더니티를 잇고, 대담한 실험·미래주의적 실루엣·다양한 시대와 문화의 레퍼런스에 뿌리를 둔 스토리텔링으로 특징지어진다. 그는 서로 먼 역사적 시대들을 압축하고 겹치고 융합해, 미래주의와 기억 사이 어딘가에 놓이는 실루엣을 구축한다. 구조적인 가죽 재킷, 비대칭 실루엣, 정교하게 짜인 니트, 레이어드 스타일링, 신화적 유물처럼 빛나는 스팽글 티셔츠 드레스가 그의 전형적 어휘로 꼽힌다.
 
 연출 문법에서 그는 장소를 제안의 일부로 삼는 시네마틱한 쇼로 유명하다. 크루즈 2026은 유네스코 세계유산인 아비뇽 팔레 데 파프의 고딕 웅장함을 배경으로 안무처럼 펼쳐졌고, 크루즈 2027은 뉴욕 프릭 컬렉션 내부에서 업타운의 세련됨과 다운타운의 기이함 사이 긴장으로 도시를 읽어냈다.[6] 시즌 컬렉션 역시 서사가 강하다. 폴/윈터 2026 '슈퍼 네이처(Super Nature)'는 인간과 자연의 관계에 대한 인류학적 연구를 토대로, 퍼지 케이프·카우벨·시어링 캡·펠트를 동원한 유목적 패션 우화였고, 루브르 안뜰에 잔디로 덮인 기하학적 지형을 폭발시킨 무대를 3월 10일 공개했다. 스프링/서머 2026은 2025년 9월 30일 루브르에서 발표됐으며, 1940년대 할리우드의 우아함을 실내 워드로브 코드에 접목해 옅은 블루·파우더 핑크·크림·토프의 부드러운 팔레트와 유동적 드레이핑을 제안했다. 이는 그의 SF적 미래주의 코드에서 벗어나 부드러움과 친밀함으로 방향을 튼 '새로운 페이지'로 평가됐다.[15]
 
+![크루즈 2027 프릭 컬렉션 연출·뉴욕 대비 서사](https://wwd.com/wp-content/uploads/2026/05/lv-cruise-2027-gg57.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/fashion-news/fashion-features/nicolas-ghesquieres-new-york-cruise-2027-keith-haring-1238974715/")
+
 그의 미학 문법이 의류·가죽제품을 넘어 코스메틱으로 확장된 것이 2026년 8월의 팻 맥그래스 협업이다. 루이 비통 라 보테(La Beauté) 뷰티 라인은 2025년 8월 맥그래스를 코스메틱 크리에이티브 디렉터로 앞세워 출범했는데, 이번 협업에서 처음으로 모노그램 캔버스가 뷰티 제품 위에 직접 얹혔다.[16][17] 컬렉션은 모노그램을 두 갈래로 재해석한다. '모노그램 듄(Monogram Dune)'은 사막의 풍경과 그 위로 색이 변하는 햇빛에서 착안해 베이지·누드·중성 톤으로 구성한 정적인 절반이고, '모노그램 인프라루주(Monogram Infrarouge)'는 맥그래스의 표현으로 "타협 없고, 하이 콘트라스트"[16]인 블랙과 레드의 대비다. 각 갈래는 4색 아이섀도 팔레트('LV 옹브르')와 새틴 립스틱('LV 루주'), 립밤 토퍼('LV 봄')로 구성된다.[17] 모노그램 130주년 맥락, '모노그램 듄'/'모노그램 인프라루주' 명칭, 아이섀도·립스틱·립밤이라는 제품 구성은 접근 가능한 독립 매체 보도로도 확인된다.[21] 다만 맥그래스의 "타협 없고, 하이 콘트라스트"·제스키에르의 "매우 자연스러운 진전" 같은 구체 인용과 중국 8월 20일·온라인 8월 20일·매장 8월 27일·전 세계 8월 29일의 정확한 출시 일정은 유료·접근 제한 출처([16][17])에 의존하며 팩트체크 시점에 독립 재검증이 되지 않았다(미확인). 제스키에르의 미학이 실루엣과 연출을 넘어 코드 자체를 이식 가능한 그래픽 자산으로 다루는 방식이, 이번에는 얼굴 위의 색으로 번역된 셈이다(분석자 관점). 이 코드-이식 문법은 2026년 8월 12일경 자동차로도 번역됐는데, 그가 직접 디자인한 포르쉐 911 카브리올레의 실내가 티크와 클래식 모터보트에서 영감을 받은 목재 마감으로, 그의 '나우틱-오토모티브 결합' 비전을 물성으로 구현한 사례다(5장 참조).[18][19][20]
 
 ## 4. 지향점과 철학
 
 제스키에르는 처음부터 매우 알아볼 수 있는 워드로브와 '비통 여성'의 비전을 만드는 것을 자신의 미션으로 규정해 왔다.[8] 그는 하우스의 여행 역사에서 영감을 받아 컬렉션에 움직임을 부여하고, 기능적이면서 날카로운, 시대의 충돌 같은 아나크로니즘 요소를 심는다고 설명한다.[8]
+
+![제스키에르 '비통 여성' 미션·움직임·시대의 충돌·어반 우먼 규정 인터뷰](https://imgix.bustle.com/wmag/2020/11/WM202004VUIT010.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg "W Magazine|https://www.wmagazine.com/fashion/nicolas-ghesquiere-louis-vuitton-collections-selection-interview")
 
 미래성에 대한 그의 자기 규정은 명료하다. 그는 "미래는 지금"이라며 자신을 미래주의 디자이너로만 규정해 온 통념을 현재형으로 다시 세운다.[3] 모노그램과 헤리티지에 대한 그의 관점 역시 방어가 아니라 개방으로, 전 세계가 아는 코드를 개인적 해석으로 다시 읽어내는 태도로 이어진다. 정체성 구축의 방식에 관해 그는 컬렉션에 "움직임을 부여했다"고 말하며, 그 움직임이 하우스의 여행 역사에 뿌리를 두고 기능적이면서 날카로운, "시대의 충돌" 같은 아나크로니즘으로 표현된다고 설명한다.[8] 그는 비통의 여성을 빈티지도 미래주의도 아닌, 시대를 뒤섞는 데 두려움이 없는 어반 우먼으로 규정한다.[8][해설] 이 태도는 그의 12년 장수를 관통하는 방향 — 단절적 리셋이 아니라 누적적 정체성 구축 — 을 요약한다. 뷰티 협업을 두고 그가 "매우 자연스러운 진전"[16](미확인, 유료 출처)이라고 표현한 것도 같은 맥락으로, 코드를 새 카테고리로 확장하는 일을 단절이 아니라 연속으로 보는 그의 사고를 압축한다. 다만 2026년 7월 중국 모노그램 논란은, '전 세계가 아는 코드를 개방적으로 재해석한다'는 그의 철학과, 그 코드를 법적으로 배타적으로 방어하는 하우스의 IP 전략 사이의 긴장을 노출시켰다(분석자 관점).
 
@@ -47,6 +57,8 @@
 거시 환경은 그의 재임 후반부에 역풍으로 돌아섰다. 2025년 상반기 LVMH 매출은 4% 감소했고, 루이 비통이 속한 패션·가죽제품 부문은 2분기에만 12% 급감했다.[7] 다만 이 침체는 하우스 개별 이슈보다 럭셔리 시장 전반의 구조적 둔화 — 2022–2024년 사이 이탈한 5천만 명의 열망 소비자, 그리고 이들이 중고 럭셔리·웰니스 지출로 옮겨가거나 코치 같은 접근 가능한 브랜드로 트레이딩 다운하는 흐름 — 에 기인한다는 분석이 지배적이다.[7]
 
 2026년 7월에는 제스키에르의 창작 관할 핵심 자산인 모노그램을 둘러싼 브랜드·디자인 평판 이슈가 중국에서 불거졌다. 발단은 IP 승소였다. 2026년 7월 초 장쑤성 법원은 차 프랜차이즈 몰리 티(Molly Tea)가 루이 비통의 콰트르푸아유(네잎 꽃) 상표 7건을 침해했다고 판단하고 약 1,030만 위안(약 150만 달러)의 배상을 명령했다.[12][14] 이 법원의 소재지가 쑤저우라는 점은 별도 매체가 보도했다.[13] 그러나 이 법적 승리는 곧바로 역풍으로 전환됐다. 중국 소셜미디어 이용자들은 모노그램의 네잎 꽃 모티프가 당대 보상화(寶相花) 같은 전통 중국 문양이나 사찰·정원 장식, 나아가 옛 공중화장실 벽 타일의 통풍구 문양을 닮았다고 비교하며, 루이 비통 백을 '변기 백(toilet bag)'이라 조롱하는 오래된 밈을 되살렸다.[13][14] 관련 해시태그는 웨이보에서 수천만 조회를 기록했고, 비판의 핵심은 '천 년 넘게 앞선 중국 문화를 차용해 놓고 상표법을 무기로 배타적 권리를 주장한다'는 문화 전유(cultural appropriation) 프레임이었다.[13][14] 한 매체는 루이 비통이 2026년 7월 16일 기준 네잎/네장 꽃잎 디자인에 대해 151건의 이의신청을 제기해 83% 성공률을 기록했다고 보도했다.[13]
+
+![2026년 7월 쑤저우 판결·모노그램 '변기 백' 밈·상하이 방문객·리세일 영향 보도(수치는 유료 구간, 미확인)](https://substackcdn.com/image/fetch/$s_!Hni-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d5100ba-16db-4e82-b6c2-82fafec6cb4b_865x516.webp "Baiguan|https://www.baiguan.news/p/louis-vuitton-lvmh-molly-tea-china-trademark-lawsuit-backlash-toilet-bag-meme-sales-drop-baoxiang-flower-cultural-appropriation-bigone-lab")
 
 이 논란이 상하이 등 플래그십 매장 방문객 감소나 리세일 가격 하락으로 이어졌다는 보도가 있으나(Baiguan), 구체 수치가 유료 구간에 있어 독립 검증이 어려워 미확인으로 둔다.[12] 다만 '2026년 2분기 중국 럭셔리 수요가 이미 약세였다'는 맥락은 복수 매체가 공유하며, 이 논란은 하우스가 시장 둔화 국면에서 감당해야 할 평판 부담을 키운 사건으로 평가된다.[7][12][13] 이 이슈 자체는 IP·법무 영역에서 촉발됐지만, 문제의 대상이 제스키에르가 매 시즌 재해석해 온 모노그램 코드라는 점에서 그의 창작 관할과 무관하지 않다(분석자 관점).
 
@@ -66,9 +78,13 @@
 
 넷째는 IP 방어와 지역 문화 정서 사이의 균형이라는 새로운 경계 신호이자, 코드의 카테고리 확장이라는 전략 카드다. 루이 비통의 모노그램 '변기 백' 논란은, 법적 IP 승리가 곧바로 평판 위기로 뒤집힐 수 있음을 보여준 사례다.[12][13][14] 동시에 제스키에르×맥그래스 뷰티 협업과 뒤이은 싱어×루이 비통 포르쉐 911 협업은, 압박받는 시그니처 코드를 립스틱·아이섀도라는 진입 가격대·고빈도 카테고리와 초고가·초희소 오브제 양쪽으로 동시에 재제안하며 논란 서사를 크래프트·라이프스타일 방향으로 상쇄하려는 움직임으로 읽힌다(분석자 관점).[16][17][18][19] 구찌 역시 GG 모노그램·플로라·홀스빗 등 강한 시그니처 코드를 보유하고, 뷰티(코티 라이선스 기반)를 별도로 운영하며, 중국을 핵심 시장으로 두는 만큼, 상표권을 공격적으로 방어할 때의 문화 정서 리스크와 코드를 뷰티·라이프스타일·모빌리티로 확장하는 기회를 함께 저울질해야 한다는 이중의 교훈을 준다(분석자 관점). 요컨대 루이 비통은 안정성의 상한선을, 구찌는 전환의 변동성을 각각 대표하며, 두 전략이 같은 둔화장에서 어떤 상대 성과를 내는지, 그리고 강한 헤리티지 코드를 지역 정서와 어떻게 조율하고 새 카테고리로 확장하는지가 관전 포인트다.
 
+![루이 비통 상표 승소 후 중국 내 반발·151건 이의신청 83% 성공률 보도](https://img.caixin.com/2026-07-21/178462982567472_560_373.jpg "Caixin Global|https://www.caixinglobal.com/2026-07-21/in-depth-louis-vuittons-trademark-win-sparks-backlash-in-china-102466676.html")
+
 ## 7. 전망
 
 **가설 A(연속성 지속).** 2023년 11월 5년 재계약[4]은 2028년경까지 유효하므로, 향후 12개월 내 제스키에르 좌석 변동 가능성은 낮다. 관전 포인트는 크루즈 2027(프릭 컬렉션) 이후의 상업 전환과, 시장 둔화 속에서 여성 가죽제품 신규 히트를 만들어낼 수 있는지 여부다.
+
+![2023년 11월 5년 재계약·베카리 여성 세계 재정의 발언·퍼렐 임명 맥락](https://graziamagazine.com/wp-content/uploads/2023/11/Nicolas-Ghesquiere.png "Grazia|https://graziamagazine.com/articles/louis-vuitton-nicolas-ghesquiere-creative-director-womenswear/")
 
 **가설 B(미확인, 서사 피로 리스크).** '홈'·'슈퍼 네이처'처럼 시즌마다 강한 컨셉 서사를 쌓는 방식이 침체장에서 상업적 명료성과 충돌할 여지가 있다. 향후 컬렉션이 개념적 깊이와 착장 가능성·상품 전환 사이에서 어떻게 균형을 잡는지가 다음 12개월의 핵심 관찰 지표다.
 
@@ -135,11 +151,15 @@ Nicolas Ghesquiere has led Louis Vuitton's womenswear as Artistic Director since
 
 Nicolas Ghesquiere is a French designer who has served as Artistic Director of Louis Vuitton's womenswear collections since November 2013.[2] Across two posts — Creative Director of Balenciaga (1997-2012) and Artistic Director of Louis Vuitton (2013-present) — he has earned a reputation as one of the most original designers of his generation.[1] His current tenure at Louis Vuitton now exceeds 12 years, which reads as an unusually long mark of stability against a backdrop of frequent creative-seat turnover at mega-houses in recent years (analyst's view). Menswear has been led separately by Pharrell Williams since 2023, meaning Ghesquiere's remit is concentrated on womenswear and women's leather goods. As of September 2026 his seat is unchanged, with the November 2023 renewal still in effect.[4]
 
+![Formal appointment November 4, 2013 as successor to Marc Jacobs](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Nicholas_Ghesquiere_Paris_Fashion_Week_Spring_Summer_2019.jpg/960px-Nicholas_Ghesquiere_Paris_Fashion_Week_Spring_Summer_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail "Wikipedia|https://en.wikipedia.org/wiki/Nicolas_Ghesqui%C3%A8re")
+
 ## 2. Career and Prior-House Track Record
 
 Ghesquiere began his career in the early 1990s as an assistant to Jean Paul Gaultier.[1] He joined Balenciaga as a freelancer in 1995, and two years later inherited the top role when Creative Director Josephus Thimister was dismissed.[1] At Balenciaga he is credited with reviving a declining house; sales reportedly doubled within his first three years, with 1980s-inspired designs and the iconic Lariat bag earning acclaim.[1] However, he abruptly parted ways with Balenciaga in November 2012 amid reports of discord.[1]
 
 A year later, Louis Vuitton named Ghesquiere Artistic Director of womenswear as successor to the departing Marc Jacobs, and he formally took up the post on November 4, 2013.[1][2] His commercial impact at Louis Vuitton operates on a different scale. Louis Vuitton surpassed 20 billion euros in annual revenue in 2022, the first luxury brand to do so, and in the same year LVMH's fashion and leather goods division grew 20% organically to 38.6 billion euros.[9] Ghesquiere is credited with contributing to the identity and growth of the womenswear and leather goods categories over this period.[5] In leather goods, he has produced a string of hits, from the Petite Malle, introduced at his spring 2014 debut show, to the GO-14, first designed in 2014 and remastered on the fall 2023 runway. The GO-14's name derives from "Ghesquiere October 2014," rooted in the malletage design of his debut season.[5][10]
+
+![Louis Vuitton's first-ever 20 billion euro milestone in 2022, fashion and leather goods division at 38.6 billion euros](https://www.thefashionlaw.com/wp-content/uploads/2023/01/Screenshot-2023-01-27-at-9.34.31-AM-1024x666.png "The Fashion Law|https://www.thefashionlaw.com/louis-vuitton-reached-e20b-revenue-in-2022-as-lvmh-touts-e79b-for-the-year/")
 
 ## 3. Style and Aesthetic
 
@@ -147,17 +167,23 @@ The core grammar of Ghesquiere's aesthetic is a juxtaposition of past and future
 
 In terms of staging, he is known for cinematic shows that treat location as part of the proposition. Cruise 2026 unfolded like choreography against the Gothic grandeur of the UNESCO World Heritage Palais des Papes in Avignon, while Cruise 2027 read the city from inside New York's Frick Collection, playing on the tension between uptown polish and downtown eccentricity.[6] Seasonal collections carry equally strong narratives. Fall/Winter 2026, titled "Super Nature," was built on an anthropological study of the relationship between humans and nature — a nomadic fashion fable featuring fuzzy capes, cowbells, shearling caps, and felt — unveiled March 10 on a set that erupted with a grass-covered geometric landscape in the Louvre's courtyard. Spring/Summer 2026 was shown September 30, 2025 at the Louvre, grafting 1940s Hollywood glamour onto indoor-wardrobe codes with a soft palette of pale blue, powder pink, cream, and taupe and fluid draping — read as a "new page" that broke from his sci-fi futurist codes toward softness and intimacy.[15]
 
+![Cruise 2027 Frick Collection staging and New York contrast narrative](https://wwd.com/wp-content/uploads/2026/05/lv-cruise-2027-gg57.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/fashion-news/fashion-features/nicolas-ghesquieres-new-york-cruise-2027-keith-haring-1238974715/")
+
 His aesthetic grammar extended beyond apparel and leather goods into cosmetics with the August 2026 Pat McGrath collaboration. The La Beauté Louis Vuitton line launched in August 2025 with McGrath as Creative Director of Cosmetics; this collaboration marks the first time the Monogram canvas is placed directly onto the beauty products.[16][17] The collection reinterprets the Monogram in two directions. "Monogram Dune" takes cues from a desert landscape and shifting sunlight, built on beige, nude and neutral tones as the quieter half, while "Monogram Infrarouge" is, in McGrath's words, "unapologetic, high-contrast"[16] play with blacks and reds. Each strand comprises a four-shade eyeshadow palette ("LV Ombres"), a satin lipstick ("LV Rouge"), and a topper lip balm ("LV Baume").[17] The 130th-anniversary framing, the "Monogram Dune"/"Monogram Infrarouge" names, and the eyeshadow-lipstick-lip-balm product structure are also confirmed by accessible independent reporting.[21] The specific quotes — McGrath's "unapologetic, high-contrast" and Ghesquiere's "a very natural progression" — and the exact rollout schedule (China Aug 20 / online Aug 20 / stores Aug 27 / worldwide Aug 29), however, rest on paywalled or access-restricted sources ([16][17]) that could not be independently re-verified at fact-check time (unconfirmed). The way Ghesquiere's aesthetic treats the code itself as a transplantable graphic asset — beyond silhouette and staging — is here translated into color on the face (analyst's view). That code-transplant grammar was translated into an automobile around August 12, 2026: the interior of the Porsche 911 cabriolet he personally designed features teak- and classic-motorboat-inspired wood finishes, realizing his "nautical-meets-automotive" vision in physical material (see section 5).[18][19][20]
 
 ## 4. Direction and Philosophy
 
 From the outset, Ghesquiere has defined his mission as creating a highly recognizable wardrobe and a vision of the "Vuitton woman."[8] He explains that he draws inspiration from the house's history of travel to give collections movement, embedding anachronistic elements that are functional yet sharp, like a collision of eras.[8]
 
+![Ghesquiere's Vuitton woman mission, movement, collision of eras, urban-woman definition interview](https://imgix.bustle.com/wmag/2020/11/WM202004VUIT010.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg "W Magazine|https://www.wmagazine.com/fashion/nicolas-ghesquiere-louis-vuitton-collections-selection-interview")
+
 His self-definition regarding futurism is clear. He has said "the future is now," reframing in the present tense the conventional label of him as purely a futurist designer.[3] His view of the monogram and heritage is likewise one of openness rather than defensiveness — an attitude of reinterpreting codes known the world over through personal expression. On how he builds identity, he says he has given collections "movement," rooted in the house's travel history and expressed through anachronism that is functional yet sharp, a "collision of eras."[8] He defines the Vuitton woman as neither vintage nor futurist, but an urban woman unafraid to mix eras.[8][note] This attitude summarizes the throughline of his 12-year tenure — cumulative identity-building rather than disruptive resets. His description of the beauty collaboration as "a very natural progression"[16] (unconfirmed, paywalled source) fits the same logic, compressing his view that extending a code into a new category is continuity, not rupture. Yet the July 2026 China Monogram controversy exposed a tension between his philosophy of openly reinterpreting globally known codes and the house's strategy of legally defending those codes as exclusive property (analyst's view).
 
 ## 5. Tenure at the Current House
 
 From his debut (fall 2014), Ghesquiere immediately proved his leather-goods hit-making ability with the Petite Malle, and went on to drive growth in womenswear and leather goods.[5] The decisive signal of organizational trust came with the five-year contract renewal announced in November 2023. It was announced to coincide with his tenth anniversary and was read as recognition of continuity at the world's largest luxury brand and of his contribution to its growth.[4][11] Announcing the renewal, Chairman and CEO Pietro Bercari credited Ghesquiere with having "redefined Vuitton's world of women."[4][11] The renewal was among the early major decisions of the Bercari era, which began in February 2023, alongside the earlier appointment of Pharrell Williams as menswear Creative Director.
+
+![GO-14 name origin (Ghesquiere October 2014), malletage, Petite Malle and other leather-goods hits since his debut](https://highxtar.com/wp-content/uploads/2023/08/highxtar-louis-vuitton-1-1200x675.jpg "HIGHXTAR|https://highxtar.com/en/the-go-14-bag-a-unique-model-in-the-history-of-louis-vuitton/")
 
 The macro environment turned into a headwind in the latter part of his tenure. LVMH's revenue fell 4% in the first half of 2025, and the fashion and leather goods division that includes Louis Vuitton plunged 12% in the second quarter alone.[7] However, the prevailing analysis attributes this downturn less to house-specific issues than to a structural slowdown across the luxury market overall — some 50 million aspirational consumers who exited the category between 2022 and 2024, shifting toward secondhand luxury and wellness spending or trading down to more accessible brands such as Coach.[7]
 
@@ -181,9 +207,13 @@ The third is contrasting vulnerability. The double-digit decline at LVMH's fashi
 
 The fourth is a new warning signal about balancing IP enforcement against local cultural sentiment, and a strategic card in extending a code into new categories. The "toilet bag" Monogram controversy shows how a legal IP win can flip into a reputational crisis.[12][13][14] At the same time, the Ghesquiere x McGrath beauty collaboration and the subsequent Singer x Louis Vuitton Porsche 911 collaboration read as a move to re-propose a pressured signature code across both an entry-price, high-frequency category (lipstick and eyeshadow) and ultra-high-price, ultra-scarce objets — offsetting the controversy narrative in a craft-and-lifestyle direction (analyst's view).[16][17][18][19] Because Gucci likewise owns strong signature codes (the GG monogram, Flora, the Horsebit), runs a separate beauty business (under a Coty license), and treats China as a core market, it must weigh both the cultural-sentiment risk of aggressive trademark defense and the opportunity of extending codes into beauty, lifestyle, and mobility (analyst's view). In short, Louis Vuitton represents the ceiling of stability while Gucci represents the volatility of transition, and what to watch is which strategy delivers better relative performance in the same downturn — and how strong heritage codes are reconciled with local sentiment and extended into new categories.
 
+![July 2026 Suzhou ruling, Monogram toilet bag meme, reported Shanghai foot-traffic and resale impact (figures paywalled, unconfirmed)](https://substackcdn.com/image/fetch/$s_!Hni-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d5100ba-16db-4e82-b6c2-82fafec6cb4b_865x516.webp "Baiguan|https://www.baiguan.news/p/louis-vuitton-lvmh-molly-tea-china-trademark-lawsuit-backlash-toilet-bag-meme-sales-drop-baoxiang-flower-cultural-appropriation-bigone-lab")
+
 ## 7. Outlook
 
 **Hypothesis A (continuity persists).** Because the five-year contract renewal of November 2023[4] runs through roughly 2028, the likelihood of a change at the Ghesquiere seat within the next 12 months is low. The points to watch are the commercial conversion following Cruise 2027 (Frick Collection) and whether new leather-goods hits can be created amid the market slowdown.
+
+![November 2023 five-year contract renewal, Bercari's redefined the world of women remark, Pharrell appointment context](https://graziamagazine.com/wp-content/uploads/2023/11/Nicolas-Ghesquiere.png "Grazia|https://graziamagazine.com/articles/louis-vuitton-nicolas-ghesquiere-creative-director-womenswear/")
 
 **Hypothesis B (unverified, narrative-fatigue risk).** The approach of building a strong conceptual narrative each season, as with "home" and "Super Nature," may collide with commercial clarity in a downturn. How future collections balance conceptual depth against wearability and product conversion is the key indicator to watch over the next 12 months.
 

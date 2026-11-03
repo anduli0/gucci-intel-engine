@@ -1,5 +1,5 @@
 # Gucci Intelligence - PC last-resort fallback.
-# Cloud (GitHub Actions 04:07/06:07/07:07/08:07 KST + claude.ai routine 06:50)
+# Cloud (GitHub Actions 00:07/02:07/04:07/06:07/08:07 KST + claude.ai routine 06:50)
 # owns the daily update. This script only acts when ALL cloud paths failed:
 #   1) site already shows today's data        -> exit (nothing to do)
 #   2) a cloud daily-intelligence run is live -> exit (cloud is handling it)

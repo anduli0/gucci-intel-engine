@@ -16,9 +16,13 @@
 
 루이즈 트로터는 2024년 12월 보테가 베네타의 크리에이티브 디렉터로 임명돼 2025년 1월 합류했고, 샤넬로 떠난 마티유 블라지의 뒤를 이었다. 위슬스·캘빈클라인·조셉·라코스테·카르뱅을 거친 30년 경력의 영국 출신 디자이너로, 조용하고 절제된 '입을 수 있는 럭셔리'와 장인 공예 중심 어휘가 시그니처다. 2025년 9월 데뷔한 SS26 컬렉션과 2026년 2월 AW26 컬렉션은 비평적으로 강한 호평을 받으며 그의 방향성을 조기에 안착시켰고, 2026년 9월 26일 밀라노에서 공개된 세 번째 컬렉션(SS27)은 '가벼움(lightness)'을 축으로 인트레치아토를 오픈니트형 여름 실루엣으로 재해석하며 그의 어법이 하나의 반복 가능한 하우스 코드로 결정화되고 있음을 보여줬다.[1][17][18] 보테가 베네타는 케링 포트폴리오에서 사실상 유일하게 성장한 하우스로 2025년 매출 17억 유로(비교 기준 3% 증가)를 기록한 데 이어, 2026년 7월 28일 발표된 상반기 실적에서도 매출 8억 3,600만 유로·비교 기준 3% 성장·자체망 소매 8% 성장으로 '기록적 상반기'를 이어갔다.[7][16] 2026년 6월에는 시그니처 인트레치아토 기법의 50주년을 타일러, 더 크리에이터와 줄리언 무어를 앞세운 헤리티지 캠페인으로 기념하며 공예 서사를 상업·유산 내러티브로 전면화했다(하우스 자체 마케팅 활동).[14] 같은 해 7월에는 케링이 LVMH 향수 사업부 CEO 출신 로맹 슈피처를 신임 CEO로 선임했고(2026년 9월 1일부), 이로써 하우스의 상업 축에 전문 경영진이 배치됐다.[13] 직전 CEO 바르톨로메오(레오) 롱고네는 2026년 4월부로 몽클레르 그룹 CEO로 자리를 옮겼다.[15] 트로터는 구찌의 뎀나가 추구하는 서브컬처·볼륨 중심 노선과 대척점에 서는 '기술이 곧 로고'라는 공예주의로, 케링 내부에서 뎀나 구찌와 상보적 포지셔닝을 형성한다.
 
+![트로터 SS26 데뷔 쇼 리뷰·디자인 디테일·셀러브리티 좌석](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F09%2F29%2Flouise-trotter-debut-bottega-veneta-ss26-milan-fashion-week-collection-tw.jpg?w=1080&cbr=1&q=90&fit=max "Hypebeast / WWD / Wallpaper* / Numéro|https://hypebeast.com/2025/9/louise-trotter-debut-bottega-veneta-ss26-milan-fashion-week-collection")
+
 ## 1. 프로필 개요
 
 루이즈 트로터는 1969년 잉글랜드 선덜랜드에서 태어나 노섬브리아대학에서 패션을 전공했고 1991년 졸업했다.[3] 현재 보테가 베네타 크리에이티브 디렉터로, 2024년 12월 12일 임명이 발표됐으며 2025년 1월 말부터 직무를 시작했다.[2][11] 그가 승계한 인물은 4년간 보테가를 이끌다 샤넬로 자리를 옮긴 마티유 블라지다. 보테가 베네타에서 여성 디자이너가 하우스를 총괄하는 것은 1980~2001년 아티스틱 디렉터를 지낸 로라 브라조니 이래 처음으로, 트로터 임명은 이 상징성으로도 주목받았다.[2]
+
+![보테가 베네타, 트로터 크리에이티브 디렉터 임명 발표(2024-12)](https://wwd.com/wp-content/uploads/2024/12/Photo-Louise-Trotter-credit-Bottega-Veneta-1.jpg?crop=0px%2C12px%2C1997px%2C1118px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/bottega-veneta-names-louise-trotter-creative-director-1236762920/")
 
 패션계 인사이더들 사이에서 오랫동안 '조용한 실력자'로 평가받아 온 트로터는 화려한 셀러브리티형 디자이너와는 결이 다른 커리어를 밟았다. 대형 상업 브랜드의 상품 조직과 소규모 하우스의 크리에이티브 디렉션을 두루 거치며 '팔리는 옷과 보여주는 옷' 양쪽에 능한 실무형 리더로 자리 잡았고, 이 이력이 케링이 그를 낙점한 배경으로 읽힌다.
 
@@ -28,6 +32,8 @@
 
 2018년 10월에는 라코스테 최초의 여성 크리에이티브 디렉터로 합류해 2023년 2월까지 재임했다.[3] 라코스테 재임 중 그는 여성복 라인을 대폭 강화하고 업사이클링 등 소재 실험을 도입했으며, 이임 발표 당시 하우스 측(티에리 기베르 사장)은 그의 "창의성과 헌신, 브랜드 유산에 대한 기여"에 감사를 표했다.[12] 라코스테의 2022년 매출은 약 25억 유로 규모로 보도됐으나,[6] 라코스테는 비상장(스위스 MF Brands Group 소유)으로 공식 공시가 아니며 이 수치는 브랜드 전체 규모이지 트로터 개인 성과로 귀속되는 값은 아니다(미확인, 귀속 불가). 재임 초기 비평이 엇갈렸고 임기 말 하우스 내부 평가가 우호적으로 돌아섰다는 정황이 전해지나, 구체적 비평 문구는 접근 가능한 출처로 재확인되지 않았다(미확인).
 
+![트로터 라코스테 이임(2023.01 발표)·티에리 기베르 사장 코멘트·consistency 평](https://www.theindustry.fashion/wp-content/uploads/2021/07/Louise-Trotter.jpg "TheIndustry.fashion|https://www.theindustry.fashion/louise-trotter-steps-down-as-lacoste-creative-director/")
+
 2023년 2월 카르뱅 크리에이티브 디렉터로 옮겨 이 프랑스 하우스를 파리 패션위크 일정으로 복귀시켰고, 2024년 12월 보테가행이 발표되며 카르뱅을 떠났다.[2][4] 라코스테·조셉·카르뱅으로 이어지는 궤적은 '상업적 규율을 갖춘 크래프트 미니멀리스트'라는 그의 브랜드 정체성을 굳혔다.
 
 ## 3. 스타일과 미학
@@ -35,6 +41,8 @@
 트로터의 시그니처는 절제된 실루엣, 재단의 정밀함, 소재와 공예에 대한 집착으로 요약된다. 데뷔 SS26 오프닝 룩은 날카롭게 재단된 피코트로 시작해 옷깃에 인트레치아토를 가늘게 덧댄, 워드로브 스테이플을 정련하는 그의 어법을 압축해 보여줬다.[1] 데뷔 쇼에는 손으로 짠 나파 리본 케이프가 등장했는데, 이 한 점을 완성하는 데 장인 50명이 4,000시간을 투입한 것으로 보도됐다.[1] 공예의 물량과 시간을 서사의 중심에 놓는 방식이다.
 
 2026년 2월 AW26에서는 어법이 한층 또렷해졌다. 밀라노를 영감의 축으로 삼아 도시 특유의 브루탈리즘과 관능·유혹이 대화하는 무드를 표방했고,[8] 목까지 높이 여민 곡선형 여성 테일러링과 허리를 잘록하게 잡은 실루엣, 드레이핑 드레스, 스위핑한 남성 코트를 거쳐 아드리아 블루·티에폴로 핑크의 퍼프리(모피 대체) 프린지 드레스로 마무리했다.[5] 매트한 크로커다일 레더 피코트, 네이비 레더 케이프 코트, 버터 옐로·코발트·코럴의 오버사이즈 시어링 코트, 그리고 스테이트먼트 코트에 방점을 찍는 실루엣이 특징이었다.[5] 소재는 레더·모헤어·시어링·니트를 오가며, 보테가의 핵심 코드인 인트레치아토는 요란한 로고 대신 은근한 디테일로 편입된다.
+
+![트로터 인터뷰: 기술이 곧 로고·디자인의 목적·밀라노 브루탈리즘/관능](https://theimpression.com/wp-content/uploads/2026/02/louise-trotter-header-scaled.jpg "The Impression|https://theimpression.com/louise-trotter-refines-the-code-at-bottega-veneta/")
 
 2026년 9월 26일 공개된 SS27에서는 이 어법이 '가벼움(lightness)'으로 방향을 틀었다. 구조적·재단 중심이던 SS26·AW26에서 벗어나 여름 드레싱에 맞춘 경쾌하고 가벼운 실루엣을 전개했고, 시그니처 인트레치아토를 오픈니트형으로 성기게 풀어 여름 소재로 재해석했다.[17] 자연 소재와 벗겨낸 듯한 실루엣('de-robing')으로 무거운 레이어링을 덜어냈으며, 여기에 확대된 토트백 실루엣과 옐로·레드·퍼플로 넓힌 컬러 팔레트, 플로럴 프린트가 더해져 하우스의 시각 어휘가 한층 확장됐다.[18] 이는 로고가 아니라 기법을 정체성의 축으로 삼는 트로터 문법을 유지하면서도, 절제의 미학을 계절과 상업성에 맞춰 유연하게 변주하는 능력을 보여준 무대였다.
 
@@ -50,6 +58,8 @@
 
 트로터의 데뷔 쇼는 2025년 9월 27일 밀라노 패션위크에서 SS26으로 공개됐고, 줄리언 무어·양자경·우마 서먼 등 아카데미 수상자들이 참석하는 등 기대감이 컸다.[1] 비평은 대체로 강한 호평이었다 — 하우스의 절제된 럭셔리 유산을 존중하면서도 공예를 새 영역으로 밀어붙였다는 평이 주를 이뤘고, 여성 디자이너의 시선이 "신선한 공기"였다는 반응이 나왔다.[1] 2026년 2월 28일 팔라초 산 페델레 본사에서 열린 AW26은 소포모어 무대로서 그의 관점이 "의미 있고 뚜렷한 하나의 시점"으로 확립됐다는 평가를 받으며 안착을 굳혔다.[5]
 
+![트로터 AW26 컬렉션 리뷰·소재·비평](https://images-prod.anothermag.com/1200/0-83-1708-1138/azure/another-prod/470/0/470307.jpg "AnOther / Dazed / The Zoe Report|https://www.anothermag.com/fashion-beauty/17019/bottega-veneta-autumn-winter-2026-show-review-louise-trotter")
+
 2026년 9월 26일 밀라노에서 공개된 세 번째 컬렉션 SS27은 트로터 체제의 결정적 변곡점으로 읽힌다. 컬렉션은 앞선 두 시즌의 구조적 재단에서 벗어나 '가벼움'을 축으로 한 여름 실루엣과 오픈니트형 인트레치아토, 확대된 토트백, 넓어진 컬러 팔레트(옐로·레드·퍼플)와 플로럴 프린트로 하우스의 시각 어휘를 확장했다.[17][18] 비평은 이 무대를 상업적 실용성과 뚜렷한 하우스 시그니처를 동시에 굳혀 가는 단계로 읽었다 — 리뷰어들은 트로터가 도시와 하우스에 '안착'하고 있으며, 앞으로 나아가는 것이 무엇을 '덜어낼지' 아는 데 있음을 이해했다고 평했고, 전반 평점 8.6/10에 크래프트맨십·스타일링 항목에서 최고점을 부여했다.[17] 이로써 데뷔 무대에서 제기됐던 '해방 서사가 반복 가능한 하우스 코드로 정착하는가'라는 물음은 세 번째 시즌 만에 '가벼움'이라는 시그니처 방향으로 잠정 해소된 것으로 읽힌다(가설). 다만 이 창작적 결정화가 상업적 성과 — 캠페인과 결합한 트로터 고유의 '잇백' 창출이나 소매 판매 실증 — 로 이어지는지는 여전히 미확인 영역이다.
 
 상업 신호도 우호적이다. 보테가 베네타는 2025년 매출 17억 유로로 명목상 보합, 비교 기준 3% 성장하며 케링 포트폴리오에서 사실상 유일하게 플러스 성장을 낸 하우스가 됐다.[7] 경상영업이익은 2억 6,700만 유로, 마진 15.6%로 전년 대비 0.7%p 개선됐고, 캄파나·베네타 등 신규 핸드백 라인과 두 자릿수로 성장한 기성복·슈즈가 견인했다.[7] 이 모멘텀은 2026년 상반기에도 이어졌다. 케링이 2026년 7월 28일 발표한 상반기 실적에서 보테가 베네타는 매출 8억 3,600만 유로로 명목상 보합, 비교 기준 3% 성장했고, 케링은 이를 '기록적 상반기'로 지목하며 전 지역이 뚜렷한 순차 가속을 보였고 레더 굿즈가 이를 뒷받침했다고 밝혔다.[16] 특히 자체 매장망 소매 매출이 반기 비교 기준 8% 성장하며, 도매·아울렛이 아닌 정상 소매 채널에서의 수요 견인을 확인시켰다.[16] 다만 2025년 및 2026년 상반기 매출의 상당 부분은 여전히 블라지가 설계한 제품 파이프라인에 힘입은 것으로, 트로터의 상업 전환 성과를 온전히 판별하려면 SS26·AW26 상품이 매장에 본격 유입되는 하반기 이후의 실적이 필요하다(가설).
@@ -62,11 +72,15 @@
 
 구찌에 주는 벤치마크 포인트는 세 가지다. 첫째, 크래프트 서사의 화폐화 — 케이프 한 점에 장인 50명·4,000시간이라는 스토리텔링은[1] 로고 없이도 가격 정당성을 만든다. 여기에 2026년 6월 인트레치아토 50주년 캠페인은 시그니처 기법 자체를 셀러브리티 화력(타일러, 더 크리에이터·줄리언 무어)과 결합해 헤리티지를 상품 서사로 전환한 사례로,[14] '공예=화폐'라는 축을 제품 단위를 넘어 브랜드 유산 캠페인 층위로 확장한다. 다만 이 캠페인은 하우스가 직접 기획한 브랜드 마케팅 활동이므로 그 문화적·상업적 성공은 활동 커버리지 할인 원칙상 독립적으로 검증된 대중 반응과 구분해 벤치마크해야 한다(미확인). 뎀나 구찌가 '핸드백 아이코닉스'를 재건할 때 대응 축으로 삼을 만하다. 둘째, 여성 디자이너·여성 관점이라는 브랜드 서사가 문화적 정당성을 확보하는 방식이다. 셋째, 절제된 방식으로도 셀러브리티 화력을 확보한 데뷔 좌석 설계로,[1] 화제성이 뎀나만의 전유물이 아님을 보여준다. 위협 요인으로는, 구찌의 반등이 상반기 기준으로 아직 감소 국면인 반면 보테가는 소매 8% 성장으로 실증되고 있어,[16] 성장을 증명한 보테가로 케링 내부 자원·투자 우선순위가 기울 여지가 커진다는 점이다(가설·미확인).
 
+![트로터 체제 인트레치아토 50주년 헤리티지 캠페인(2026년 6월 첫 공개), 타일러 더 크리에이터·줄리언 무어 기용](https://culted.com/cdn-cgi/image/width=1200,height=630,fit=cover,format=auto/https://cms.culted.com/api/media/file/GettyImages-2237364075.jpg "Culted|https://culted.com/bottega-veneta-ss26-louise-trotter/")
+
 특히 SS27에서 보테가가 세 번째 시즌 만에 '가벼움'이라는 뚜렷한 시그니처로 수렴한 궤적은, 뎀나 구찌가 자신의 알아볼 만한 정체성을 얼마나 빠르게 안착시켜야 하는지를 가늠하는 직접적 페이스 벤치마크가 된다(가설). 밀라노 시즌 마무리 보도에서 보테가의 안정적 창작 궤적이 이번 시즌 상대적으로 논쟁적이었던 구찌 반응과 나란히 인용된 점은, 이 대비가 이미 업계 내러티브로 작동하고 있음을 시사한다.[18]
 
 ## 7. 전망
 
 향후 12개월 관전 포인트는 다음과 같다. 첫째(가설), 상업 전환 검증 — 2026년 상반기 소매 8% 성장은 우호적 신호이나 여전히 블라지 파이프라인의 잔여 기여가 섞여 있어, 트로터가 설계한 SS26·AW26 상품이 본격 반영되는 2026년 하반기~2027년 초 케링 공시에서 이 성장이 유지·가속되는지가 그의 상업력 판별선이다.[16] 둘째(가설), 핸드백 아이코닉스 — 캄파나·베네타에 이어 트로터 고유의 '잇백'을 창출하는지가 크리에이티브 성과의 상업적 증거가 된다. SS27에서 선보인 확대 토트백이 이 후보로 부상할지 관전 포인트다.[18] 셋째(가설), '가벼움' 코드의 지속성 — SS27로 잠정 해소된 하우스 코드 정착 여부는 단일 시즌 판단이므로, 다음 한두 시즌에서도 같은 방향이 반복·심화되는지가 이를 '유행'이 아닌 '코드'로 확정할 최종 근거가 된다. 넷째(가설), 신임 CEO 슈피처와의 협업 — 2026년 9월 1일 취임한 상업 전문 경영진과 트로터의 크리에이티브 라인이 어떤 상업 전환 모델을 만들어내는지가 하우스 성장 지속성의 변수다. 다섯째(가설), 케링의 자원 배분 — 상반기 기준 아직 감소 국면인 구찌와 대비해 그룹이 보테가에 부여하는 투자·매장 확장 시그널이 내부 우선순위를 드러낼 것이다.
+
+![밀라노 패션위크 시즌 마무리 보도(2026-09-27): 트로터 SS27 확대 토트백·컬러 팔레트 확장(옐로·레드·퍼플)·플로럴 프린트, 보테가의 안정적 창작 궤적을 논쟁적 구찌 반응과 대비](https://www.malaymail.com/malaymail/uploads/images/2026/09/27/364928.jpg "Malay Mail (AFP)|https://www.malaymail.com/news/life/2026/09/27/louise-trotter-expands-bottega-veneta-palette-as-milan-fashion-week-highlights-dolce-gabbana-scervino-and-msgm/236740")
 
 ## 주석
 
@@ -123,6 +137,8 @@ Louise Trotter was appointed creative director of Bottega Veneta in December 202
 
 Louise Trotter was born in 1969 in Sunderland, England, and studied fashion at Northumbria University, graduating in 1991.[3] She is currently creative director of Bottega Veneta; her appointment was announced on December 12, 2024, and she began her duties in late January 2025.[2][11] She succeeded Matthieu Blazy, who led Bottega for four years before moving to Chanel. Trotter is the first woman to lead Bottega Veneta since Laura Braggion, who served as artistic director from 1980 to 2001, and her appointment drew attention for this symbolism as well.[2]
 
+![Bottega Veneta announces Trotter as creative director (2024-12)](https://wwd.com/wp-content/uploads/2024/12/Photo-Louise-Trotter-credit-Bottega-Veneta-1.jpg?crop=0px%2C12px%2C1997px%2C1118px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/bottega-veneta-names-louise-trotter-creative-director-1236762920/")
+
 Long regarded among fashion industry insiders as a "quiet force," Trotter has followed a career path distinct from the flashier, celebrity-driven designer archetype. Moving between large commercial brand organizations and creative direction at smaller houses, she established herself as a hands-on leader adept at both "clothes that sell and clothes that make a statement" — a track record widely read as the reason Kering selected her.
 
 ## 2. Career and Track Record at Previous Houses
@@ -131,11 +147,15 @@ Trotter's career is built in layers of commercial-organization experience and cr
 
 In October 2018, she joined Lacoste as its first female creative director, a post she held until February 2023.[3] During her Lacoste tenure, she significantly strengthened the womenswear line and introduced material experimentation including upcycling; at the time her departure was announced, the house (via president Thierry Guibert) thanked her for her "creativity, dedication, and contribution to the brand's heritage."[12] Lacoste's 2022 revenue was reported at roughly 2.5 billion euros,[6] but Lacoste is privately held (owned by Switzerland's MF Brands Group) and this figure is not an official disclosure; moreover it reflects the brand's overall scale rather than being attributable to Trotter's individual performance (unverified, not attributable). There are indications that critical reception was mixed early in her tenure and turned more favorable internally by its end, but the specific critical language could not be reconfirmed from accessible sources (unverified).
 
+![Trotter's departure from Lacoste (announced 2023.01), comments from president Thierry Guibert, note on consistency](https://www.theindustry.fashion/wp-content/uploads/2021/07/Louise-Trotter.jpg "TheIndustry.fashion|https://www.theindustry.fashion/louise-trotter-steps-down-as-lacoste-creative-director/")
+
 In February 2023, she moved to Carven as creative director, returning the French house to the Paris Fashion Week calendar, and she left Carven when her move to Bottega was announced in December 2024.[2][4] The trajectory from Lacoste to Joseph to Carven cemented her brand identity as a "commercially disciplined craft minimalist."
 
 ## 3. Style and Aesthetic
 
 Trotter's signature can be summed up as restrained silhouettes, precision tailoring, and an obsession with material and craft. Her debut SS26 opening look — a sharply cut pea coat with a thin strip of intrecciato worked into the collar — distilled her approach of refining wardrobe staples.[1] The debut show also featured a hand-woven nappa ribbon cape, reported to have required 50 artisans and 4,000 hours to complete a single piece.[1] It is a method that places the volume and time invested in craftsmanship at the center of the narrative.
+
+![Review of Trotter's SS26 debut show, design details, celebrity seating](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F09%2F29%2Flouise-trotter-debut-bottega-veneta-ss26-milan-fashion-week-collection-tw.jpg?w=1080&cbr=1&q=90&fit=max "Hypebeast / WWD / Wallpaper* / Numéro|https://hypebeast.com/2025/9/louise-trotter-debut-bottega-veneta-ss26-milan-fashion-week-collection")
 
 By AW26 in February 2026, her vocabulary sharpened further. Drawing inspiration from Milan, the collection expressed a mood in which the city's characteristic brutalism conversed with sensuality and seduction,[8] moving through high-necked curved womenswear tailoring, cinched-waist silhouettes, draped dresses, and sweeping menswear-inspired coats, before closing with fur-free-fur fringe dresses in Adriatic blue and Tiepolo pink.[5] Standout pieces included a matte crocodile leather pea coat, a navy leather cape coat, oversized shearling coats in butter yellow, cobalt, and coral, and silhouettes built to spotlight statement coats.[5] Materials ranged across leather, mohair, shearling, and knitwear, while intrecciato — Bottega's core code — was incorporated as a subtle detail rather than a loud logo.
 
@@ -147,11 +167,15 @@ In June 2026, the house pushed the intrecciato technique itself to the front as 
 
 Trotter's philosophy is captured clearly in a few short statements. Her belief in craftsmanship is distilled into the line: "Craft is our technology, and technique is the logo."[8] It is a stance that distances itself from logo-driven luxury chasing instant recognition, reaffirming Bottega's founding principle that luxury resides in technique. She also frames the purpose of design in a simple proposition: that clothing should give the wearer joy and confidence.[8]
 
+![Trotter interview: technique is the logo, purpose of design, Milan brutalism/sensuality](https://theimpression.com/wp-content/uploads/2026/02/louise-trotter-header-scaled.jpg "The Impression|https://theimpression.com/louise-trotter-refines-the-code-at-bottega-veneta/")
+
 Her debut collection was built around an imagined trajectory of an Italian woman who had been part of Andy Warhol's Factory, framed by her statement that she "wanted to capture a sense of liberation" — both a homage to Laura Braggion, Bottega's first female creative leader, and a metaphor for the introduction of a woman's perspective.[10] She has also described Bottega's atelier capabilities, after her debut, as feeling like being placed inside a box of candy, expressing satisfaction with the house's material and leather-innovation resources.[10]
 
 ## 5. Tenure at the Current House
 
 Trotter's debut show was unveiled as SS26 at Milan Fashion Week on September 27, 2025, drawing high anticipation with an audience that included Academy Award winners Julianne Moore, Michelle Yeoh, and Uma Thurman.[1] Critical reception was largely strongly positive — reviewers noted that she respected the house's heritage of restrained luxury while pushing craftsmanship into new territory, with several describing the arrival of a woman designer's perspective as "a breath of fresh air."[1] Her AW26 show, held February 28, 2026, at the Palazzo San Fedele headquarters, further cemented her footing as a sophomore outing, with critics saying her point of view had become "a meaningful and distinct perspective."[5]
+
+![Review of Trotter's AW26 collection, materials, criticism](https://images-prod.anothermag.com/1200/0-83-1708-1138/azure/another-prod/470/0/470307.jpg "AnOther / Dazed / The Zoe Report|https://www.anothermag.com/fashion-beauty/17019/bottega-veneta-autumn-winter-2026-show-review-louise-trotter")
 
 Her third collection, SS27, unveiled in Milan on September 26, 2026, reads as a decisive inflection point of the Trotter era. The collection departed from the structured tailoring of the previous two seasons to broaden the house's visual vocabulary around "lightness" — with summer silhouettes, open-knit intrecciato, enlarged tote bags, an expanded color palette (yellow, red, purple), and floral prints.[17][18] Reviewers read the show as the stage where Trotter is simultaneously solidifying commercial viability and a distinct house signature — noting that she is "settling into" both the city and the house and understands that moving forward is about knowing what to "let go," awarding an overall 8.6/10 with top marks in craftsmanship and styling.[17] With that, the question raised at her debut — whether the "liberation" narrative would settle into a repeatable house code — appears provisionally resolved, by the third season, into a "lightness" signature direction (hypothesis). Whether this creative crystallization translates into commercial results — the emergence of a campaign-tied Trotter "it bag" or demonstrated retail sales — remains, however, unconfirmed.
 
@@ -165,11 +189,15 @@ From Kering's vantage point, Trotter's Bottega and Demna's Gucci function as com
 
 There are three benchmark points for Gucci to draw from. First, the monetization of craft narrative: storytelling built around a single cape requiring 50 artisans and 4,000 hours[1] creates price justification without relying on logos. The June 2026 intrecciato 50th-anniversary campaign extends this further — pairing the signature technique itself with celebrity firepower (Tyler, the Creator and Julianne Moore) to convert heritage into a product narrative,[14] scaling the "craft equals currency" axis beyond the individual product to the level of a brand-heritage campaign. That said, this campaign is a house-conceived brand marketing activation, so its cultural and commercial "success" must be benchmarked as distinct from independently verified public reception, per the activation-coverage discount (unverified). It is a counterpoint axis Demna's Gucci could draw on as it rebuilds its handbag iconics. Second, the way a brand narrative centered on a woman designer and a woman's perspective can secure cultural legitimacy. Third, the debut's seating design, which generated real celebrity firepower through a restrained approach,[1] demonstrating that buzz is not Demna's exclusive domain. As a risk factor, with Gucci still in decline on a half-year basis while Bottega's +8% retail growth is empirically demonstrated,[16] the scope for Kering's internal resource and investment priorities to tilt toward the growth-proven Bottega widens (hypothesis, unverified).
 
+![Intrecciato 50th-anniversary heritage campaign under Trotter (first teased June 2026) featuring Tyler, the Creator and Julianne Moore](https://culted.com/cdn-cgi/image/width=1200,height=630,fit=cover,format=auto/https://cms.culted.com/api/media/file/GettyImages-2237364075.jpg "Culted|https://culted.com/bottega-veneta-ss26-louise-trotter/")
+
 In particular, Bottega's trajectory of converging on a clear "lightness" signature by its third season is a direct pace benchmark for how quickly Demna's Gucci should be expected to land its own recognizable identity (hypothesis). That Milan season-wrap coverage cited Bottega's steady creative trajectory alongside Gucci's more contested reception this season suggests this contrast is already operating as an industry narrative.[18]
 
 ## 7. Outlook
 
 Key points to watch over the next 12 months are as follows. First (hypothesis), commercial conversion verification: the +8% retail growth in H1 2026 is a favorable signal, but it still mixes in residual contribution from the Blazy pipeline, so whether that growth is sustained or accelerates in Kering's disclosures from late 2026 through early 2027 — once SS26 and AW26 merchandise designed by Trotter is fully reflected — will be the litmus test of her commercial power.[16] Second (hypothesis), handbag iconics: whether Trotter creates her own "it bag" beyond Campana and Veneta will serve as commercial evidence of her creative success — and whether the enlarged tote introduced at SS27 emerges as a candidate is one to watch.[18] Third (hypothesis), durability of the "lightness" code: whether the house-code question provisionally resolved by SS27 was a single-season judgment call, so whether the next one or two seasons repeat and deepen the same direction will be the ultimate evidence for whether it settles into a "code" rather than a passing "trend." Fourth (hypothesis), collaboration with new CEO Spitzer: the commercial-transition model that emerges from the specialist commercial executive who took office on September 1, 2026 working alongside Trotter's creative line will be a variable in the durability of the house's growth. Fifth (hypothesis), Kering's resource allocation: signals on investment and store-expansion the group extends to Bottega, relative to a Gucci still in decline on a half-year basis, will reveal internal priorities.
+
+![Milan Fashion Week season-wrap coverage (2026-09-27): Trotter's SS27 enlarged tote bags, expanded color palette (yellow, red, purple), floral prints; Bottega's steady creative trajectory contrasted with Gucci's more contested reception](https://www.malaymail.com/malaymail/uploads/images/2026/09/27/364928.jpg "Malay Mail (AFP)|https://www.malaymail.com/news/life/2026/09/27/louise-trotter-expands-bottega-veneta-palette-as-milan-fashion-week-highlights-dolce-gabbana-scervino-and-msgm/236740")
 
 ## Glossary
 

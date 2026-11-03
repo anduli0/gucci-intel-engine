@@ -22,11 +22,15 @@
 
 사르토리의 현재 위치는 '세계 최대 럭셔리 남성복의 창작 총괄'이라는 한 줄로 요약된다 — 2016년 6월 제냐에 신설된 아티스틱 디렉터로 복귀해 제냐 메인라인을 포함한 그룹 전 브랜드의 창작 기능을 총괄한다[1][5]. 그는 비엘라(Biella) 주의 트리베로(Trivero)에서 재봉사 어머니 아래 태어났고, 비엘라에서 섬유를 배운 뒤 1989년 패션 디자인 학위를 받았다 — 즉, 원단의 공학을 먼저 배우고 디자인을 익힌 드문 이력이다[1]. 다만 이 '총괄' 직함에는 균형추가 필요하다 — 제냐 그룹은 제냐 브랜드 외에 톰 브라운, 그리고 라이선스로 운영하는 톰 포드 패션(TOM FORD FASHION)을 함께 품은 멀티브랜드 상장사이고, 사르토리의 직접적 창작 권한은 제냐 브랜드에 집중돼 있다고 보는 것이 정확하다[6].
 
+![알레산드로 사르토리 약력(출생지 트리베로·교육·Z Zegna·베를루티·제냐 복귀·2017 영국 패션 어워즈)](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Alessandro_Sartori.jpg/960px-Alessandro_Sartori.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail "Wikipedia|https://en.wikipedia.org/wiki/Alessandro_Sartori")
+
 제냐는 1910년 비엘라에서 출발한 이탈리아 모직 유산 하우스이자, 원사부터 리테일까지 공정을 자사가 통제하는 수직통합(vertical integration) 구조로 유명하다 — 사르토리 본인이 이 통합을 "the Zegna recipe"(제냐의 레시피)라 부르며 경쟁 우위의 핵심으로 지목한다[3]. 한편 제냐 가문이 경영 통제력을 쥔 상장사라는 점에서, 사르토리의 재임 안정성은 전문경영인보다 가문의 장기 비전에 더 크게 묶여 있다고 읽어야 한다[6].
 
 ## 2. 경력과 전임 하우스 성과
 
 사르토리의 이력은 '제냐에서 나가 제냐로 돌아왔다'는 한 문장으로 압축된다 — 즉, 그는 외부 영입 디자이너가 아니라 집안 사정을 이미 아는 인물이 더 큰 권한으로 복귀한 사례다. 먼저 초기 경력을 보면, 1989년 제냐에 입사해 10년 넘게 남성복 디자이너로 일했고, 2003년 신설된 세컨드 라인 'Z Zegna'의 크리에이티브 디렉터를 맡아 2007년 뉴욕에서 첫 런웨이 쇼를 열었다[1]. 또한 2011년 7월 1일에는 LVMH 소속 베를루티(Berluti)의 아티스틱 디렉터로 옮겨, 가죽 구두 중심이던 하우스를 '토털 워드로브(total wardrobe)' 럭셔리 브랜드로 재구축했다[1][2].
+
+![사르토리 베를루티 성과(매출 €30M 미만→€100M 이상·40개 부티크·기성복 신설·복귀)](https://img.businessoffashion.com/resizer/v2/https%3A%2F%2Fprod-bof-media.s3.eu-west-1.amazonaws.com%2Fimport%2Fprofiles%2Fasset%2F1546559040707259%2Falessandro_sartori_milan-vukmirovic-1546920143581986.jpg?auth=7a4b8a2481c45ae83df4e2663aaddceb25d8d584b9054e3d14deb8a84bac3d1b&width=1200&height=675&smart=true "Business of Fashion|https://www.businessoffashion.com/people/alessandro-sartori/")
 
 베를루티 재임의 성과는 숫자로 뚜렷하다 — 보도에 따르면 연매출이 2011년 €30M 미만에서 2016년 €100M 이상으로 늘었고, 전 세계 40개 이상 부티크로 확장됐다[2]. 다만 이 수치에는 균형추가 필요하다 — 낮은 기저에서 출발한 신규 기성복 사업의 성장이라는 점에서 절대 규모보다 '제로에서 라인을 세운 역량'의 증거로 읽는 것이 정확하다[2]. 그는 2016년 1월 22일 파리 남성복 위크에서 마지막 베를루티 컬렉션을 선보인 뒤, 2016년 6월 제냐로 복귀했다[1][2]. 마지막으로 공적 평가의 정점은 2017년 — 영국 패션 어워즈(British Fashion Awards)에서 올해의 남성복 디자이너(Best Menswear Designer)로 호명됐다[1].
 
@@ -34,11 +38,15 @@
 
 사르토리의 시그니처는 '테일러링의 유동화'로 압축된다 — 그는 정장을 "a combination of matching top and bottom"(맞춰 입는 상·하의의 조합)으로 재정의하며, 딱딱한 수트를 부드럽고 겹쳐 입는 유동적 실루엣으로 풀어냈다[3]. 즉, 포멀과 캐주얼의 경계를 지우되 격식의 품위는 남기는 문법이다. 시그니처 코드를 나열하면 첫째 사각 어깨와 긴 실루엣·넉넉한 플리츠로 느슨해진 테일러링, 둘째 올리브 그린·모브 핑크·번트 시에나처럼 흙과 자연에서 끌어온 절제된 팔레트, 셋째 셔츠를 가벼운 아우터처럼 겹치는 레이어링, 넷째 원단 실험을 미학의 중심에 두는 연출이다[9][10].
 
+![사르토리 '조용한 혁명'·'the Zegna recipe'·수직통합 비밀 무기·'we're going deeper'·수트 재정의·스포츠웨어 품질·캐시미어와 종이 신소재 인터뷰](https://www.thenationalnews.com/resizer/v2/KDBR7DE6RRHQHNC5MMH6AYYRVA.jpg?auth=11c7c0bdfcd7372375192dc784d3510905a914a89aaaca5823720e9f175dc37e&focal=2977%2C1639&width=1200&height=630 "The National|https://www.thenationalnews.com/magazine/2025/10/10/alessandro-sartori-zegna-dubai/")
+
 그의 무대는 단순한 미니멀리즘이 아니라 제냐의 제조 서사를 품는다 — 2026 가을·겨울은 '가족의 옷장(family closet)'을 콘셉트로 삼아, 1930년대 에르메네질도 제냐 백작을 위해 지은 첫 수트 'ABITO N.1'을 유리장에 전시하고 네 세대의 옷을 런웨이에 둘렀으며, 1965년 개발한 트로페오(Trofeo) 워스티드를 중심에 놓았다[10][11][12]. 더불어 그는 원단 자체를 실험한다 — 겨울용으로 캐시미어와 종이를 섞은 신소재를 시도하며 "It might not work, but we are trying"(안 될 수도 있지만 시도 중이다)이라고 말했다[3]. 다만 이 원단 중심 미학에도 균형추가 필요하다 — 2026 봄·여름은 115년 역사상 처음으로 두바이 오페라를 '빌라 제냐(Villa Zegna)'로 꾸며 해외에서 선보였으나, 그 화제성이 제품 판매로 얼마나 번졌는지는 미확인이다[9]. 2026 가을·겨울 리뷰에서 디 임프레션(The Impression)은 장인정신·리테일 준비도에 10점 만점을 매겼고, 이는 평단이 그의 완성도를 반복 인정했다는 신호다[11].
 
 ## 4. 지향점과 철학
 
 사르토리가 밝힌 지향점의 핵심은 '바꾸지 않기'라는 역발상이다 — 그는 매 시즌 트렌드를 바꾸는 대신 '바꾸지 않는 것이 중요하다'로 방정식을 뒤집었고, 2025년 실루엣이 2026·2027년과 같은 미학의 겹으로 이어지도록 설계한다고 말한다[4][5]. 즉, 일회성 화제보다 오래 입는 옷을 지향한다는 뜻이며, 2026 가을·겨울에서 그는 "buy less but better"(덜 사되 더 좋게)를 직접 언급했다[11]. 또한 그는 자신의 전략 영역을 좁히는 데 자신감을 둔다 — "we're going deeper"(우리는 더 깊이 들어간다)는 말로, 영역 밖으로 넓히기보다 핵심 안에서 파고드는 노선을 설명한다[3].
+
+![사르토리 트렌드 추종 대신 타임리스 디자인 지향 인터뷰](https://wwd.com/wp-content/uploads/2025/05/DSC9601-1.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/fashion-news/fashion-features/zegnas-alessandro-sartori-champions-timeless-design-1237873775/")
 
 이러한 측면에서 사르토리의 철학은 '수직통합이 뒷받침하는 조용한 럭셔리'로 읽어야 한다 — 그는 스포츠웨어도 "There is a perception that sportswear should be done faster"(스포츠웨어는 더 빨리 만들어야 한다는 인식이 있다)는 통념을 거부하며 테일러링과 같은 공정·장인·규칙을 적용한다고 말한다[3]. 다만 본 분석의 판단은, 이 철학이 제냐에서는 강점이지만 보편 공식은 아니라는 것이다 — 로고·과시를 배제한 절제는 비평 언어로는 우위이되, 아이코닉 상품의 회전율로 성장을 끌어야 하는 하우스에서는 성장 속도를 늦추는 요인이 될 개연성이 높다. 제냐가 이 긴장을 견디는 근거는 미학이 아니라 제조 통제력에 있다고 보는 것이 정확하다[3].
 
@@ -61,6 +69,8 @@
 ## 7. 전망
 
 다음 12개월의 관전 포인트는 세 가지다. 첫째, 제냐 FY2026 연간 실적(2027년 초 발표 예상)에서 3분기 제냐 브랜드 +13.8%의 성장 속도가 유지되는지가 판단 기준이다 — 9개월 누계 +7.2%(유기적 +8.9%)가 가속하는지, 아니면 분기 고점에서 둔화하는지를 확인하면 된다[6][7]. 또한 둘째, 톰 브라운의 -5.9%가 중화권·도매 조정에 따른 일시적 저점인지 추세 하락인지가 변수다 — 그룹의 '신중한 자신감' 가이던스가 다음 분기에 상향되는지 유지되는지가 포트폴리오 분산 리스크의 선행 지표가 된다[6][7]. 마지막으로 셋째, 사르토리의 다음 시즌(2027 봄·여름 이후)에서 '바꾸지 않기' 노선이 두바이·'가족의 옷장' 같은 화제성 쇼의 서사를 넘어 직영 판매 속도로 계속 번역되는지가 벤치마크다 — 캐시미어·종이 신소재 같은 원단 실험이 제품 라인업으로 안착하는지를 확인하면 된다[3][11].
+
+![제냐 2026 가을·겨울 남성복 리뷰('buy less but better'·ABITO N.1·장인정신 10점)](https://theimpression.com/wp-content/uploads/2026/01/zegna-atm-m-f26-044-1.jpg "The Impression|https://theimpression.com/zegna-fall-2026-mens-fashion-show-review/")
 
 다만 이 전망에도 유보가 필요하다 — 본 도시는 제냐 전용 커버리지의 1차 발행이며, 제냐 브랜드 단독의 중화권 본토 수요·리세일 지표·개별 상품 판매 데이터 같은 세부 지표는 미확인으로 남는다. 즉, 위 세 관전 포인트는 그룹 공개 실적과 평단 반응이라는 두 축으로만 추적 가능한 범위라는 뜻이다.
 
@@ -111,11 +121,15 @@ The conclusion of this dossier converges on one point — Alessandro Sartori ret
 
 Sartori's current position reduces to one line — "creative head of the world's largest luxury menswear house." He returned to Zegna in June 2016 into a newly created Artistic Director role, overseeing creative functions across the entire group including the Zegna mainline[1][5]. He was born in Trivero, in the province of Biella, to a seamstress mother, learned textiles in Biella, and earned a fashion design degree in 1989 — a rare path in which he learned fabric engineering before design[1]. That "overseer" title needs a counterweight, though — the Zegna Group is a multi-brand listed company that also holds Thom Browne and the licensed TOM FORD FASHION, and it is accurate to say that Sartori's direct creative authority is concentrated in the Zegna brand[6].
 
+![Alessandro Sartori biography (birthplace Trivero, education, Z Zegna, Berluti, return to Zegna, 2017 British Fashion Awards)](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Alessandro_Sartori.jpg/960px-Alessandro_Sartori.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail "Wikipedia|https://en.wikipedia.org/wiki/Alessandro_Sartori")
+
 Zegna is an Italian wool heritage house that began in Biella in 1910 and is known for a vertically integrated structure in which the company controls everything from yarn to retail — Sartori himself calls this integration "the Zegna recipe" and names it the core of competitive advantage[3]. Meanwhile, as a listed company where the Zegna family holds managerial control, Sartori's tenure stability should be read as tied more to the family's long-term vision than to a professional management team[6].
 
 ## 2. Career and Track Record at Previous Houses
 
 Sartori's résumé compresses to one sentence — "he left Zegna and returned to Zegna." That is, he is not an externally recruited designer but a figure who already knew the family business and came back with greater authority. On early career: he joined Zegna in 1989 and worked as a menswear designer for more than a decade, then took the creative director role for the newly created second line "Z Zegna" in 2003, staging its first runway show in New York in 2007[1]. He then moved on 1 July 2011 to become Artistic Director of LVMH's Berluti, rebuilding a house that had been footwear-centric into a "total wardrobe" luxury brand[1][2].
+
+![Sartori's Berluti results (revenue under €30M to over €100M, 40 boutiques, new ready-to-wear line, return)](https://img.businessoffashion.com/resizer/v2/https%3A%2F%2Fprod-bof-media.s3.eu-west-1.amazonaws.com%2Fimport%2Fprofiles%2Fasset%2F1546559040707259%2Falessandro_sartori_milan-vukmirovic-1546920143581986.jpg?auth=7a4b8a2481c45ae83df4e2663aaddceb25d8d584b9054e3d14deb8a84bac3d1b&width=1200&height=675&smart=true "Business of Fashion|https://www.businessoffashion.com/people/alessandro-sartori/")
 
 His Berluti tenure's results are clear in the numbers — per reporting, annual revenue grew from under €30M in 2011 to over €100M by 2016, with expansion to more than 40 boutiques worldwide[2]. That figure needs a counterweight, though — since it is growth of a new ready-to-wear business starting from a low base, it is more accurate to read it as evidence of "the ability to build a line from zero" rather than of absolute scale[2]. He presented his final Berluti collection at Paris Menswear Week on 22 January 2016, then returned to Zegna in June 2016[1][2]. The peak of public recognition came in 2017 — he was named Best Menswear Designer at the British Fashion Awards[1].
 
@@ -123,11 +137,15 @@ His Berluti tenure's results are clear in the numbers — per reporting, annual 
 
 Sartori's signature compresses to "the fluidization of tailoring" — he redefines a suit as "a combination of matching top and bottom," unwinding the rigid suit into soft, layered, fluid silhouettes[3]. That is, a grammar that erases the line between formal and casual while retaining the dignity of formality. His signature codes, enumerated: first, tailoring loosened by squared shoulders, elongated silhouettes and generous pleats; second, a restrained palette drawn from earth and nature, such as olive green, mauve pink and burnt sienna; third, layering that drapes shirts like a light outer layer; fourth, staging that places fabric experimentation at the center of the aesthetic[9][10].
 
+![Sartori's quiet revolution, the Zegna recipe, vertical integration as secret weapon, we're going deeper, redefining the suit, sportswear quality, cashmere-and-paper new material interview](https://www.thenationalnews.com/resizer/v2/KDBR7DE6RRHQHNC5MMH6AYYRVA.jpg?auth=11c7c0bdfcd7372375192dc784d3510905a914a89aaaca5823720e9f175dc37e&focal=2977%2C1639&width=1200&height=630 "The National|https://www.thenationalnews.com/magazine/2025/10/10/alessandro-sartori-zegna-dubai/")
+
 His stage is not plain minimalism but carries Zegna's manufacturing narrative — Fall/Winter 2026 took the "family closet" as its concept, displaying in a glass case "ABITO N.1," the first suit built in the 1930s for Count Ermenegildo Zegna, wrapping four generations of clothing around the runway, and centering the Trofeo worsted wool developed in 1965[10][11][12]. He also experiments with fabric itself — for winter he tried a new material blending cashmere and paper, saying "It might not work, but we are trying"[3]. Still, this fabric-centered aesthetic needs a counterweight — Spring/Summer 2026, for the first time in the house's 115-year history, was staged abroad, transforming the Dubai Opera into "Villa Zegna," but whether that buzz translated into product sales is unverified[9]. In the Fall/Winter 2026 review, The Impression awarded a perfect score for craftsmanship and retail-readiness, a signal that critics have repeatedly endorsed his execution[11].
 
 ## 4. Vision and Philosophy
 
 The core of Sartori's stated aim is the counterintuitive idea of "not changing" — rather than shifting trends every season, he has inverted the equation to "it's important not to change," saying he designs so that the 2025 silhouette carries through as the same aesthetic layer into 2026 and 2027[4][5]. That is, he aims at clothes that last rather than one-off buzz, and at Fall/Winter 2026 he directly invoked "buy less but better"[11]. He also places confidence in narrowing his own strategic territory — "we're going deeper," he says, describing a line that digs within the core rather than expanding beyond it[3].
+
+![Sartori interview on pursuing timeless design instead of chasing trends](https://wwd.com/wp-content/uploads/2025/05/DSC9601-1.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/fashion-news/fashion-features/zegnas-alessandro-sartori-champions-timeless-design-1237873775/")
 
 In this respect, Sartori's philosophy should be read as "quiet luxury underpinned by vertical integration" — he rejects the notion that sportswear, too, should be "done faster," saying he applies the same processes, craftsmanship and rules as tailoring to it[3]. Our read, though, is that this philosophy is a strength at Zegna but not a universal formula — restraint that excludes logos and display is an advantage in critical language, but at a house that needs icon-product turnover to drive growth, it is likely to act as a factor that slows the pace of growth. It is accurate to say that the ground on which Zegna withstands this tension is manufacturing control, not aesthetics[3].
 
@@ -150,6 +168,8 @@ The second implication is the opposite aesthetic axis — Sartori's "quiet luxur
 ## 7. Outlook
 
 There are three things to watch over the next twelve months. First, in Zegna's FY2026 full-year results (expected early 2027), the test is whether the Q3 Zegna brand growth rate of +13.8% holds — it is enough to check whether the nine-month cumulative +7.2% (+8.9% organic) accelerates or decelerates from this quarter's peak[6][7]. Second, whether Thom Browne's -5.9% is a temporary trough from Greater China and wholesale adjustments or a trend decline is a variable — whether the group's "cautious confidence" guidance is revised upward or held steady next quarter becomes a leading indicator of portfolio diversification risk[6][7]. Third, for Sartori's coming seasons (Spring/Summer 2027 onward), the benchmark is whether the "don't change it" line continues to translate beyond the narrative of buzz-generating shows like Dubai and the "family closet" into direct-sales velocity — it is enough to check whether fabric experiments like the cashmere-paper blend settle into the product lineup[3][11].
+
+![Zegna Fall/Winter 2026 menswear review (buy less but better, ABITO N.1, perfect craftsmanship score)](https://theimpression.com/wp-content/uploads/2026/01/zegna-atm-m-f26-044-1.jpg "The Impression|https://theimpression.com/zegna-fall-2026-mens-fashion-show-review/")
 
 This outlook needs a reservation, too — this dossier is the first edition of dedicated Zegna coverage, and granular metrics such as the Zegna brand's standalone mainland-China demand, resale indices and item-level sales data remain unverified. That is, the three watch points above are trackable only along the two axes of public group results and critical reception.
 

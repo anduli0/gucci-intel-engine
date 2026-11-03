@@ -22,6 +22,8 @@
 
 오늘 점수를 움직인 재료는 둘, 동북아의 화제와 권역마다 엇갈린 감성이다 — 세계 -4.73 가운데 화제가 -4.74이고, 동북아 화제는 수집 기사가 12건에서 4건으로 줄면서 0.88에서 0.14로 떨어졌지만 순감성점수는 -0.49에서 -0.48로 거의 움직이지 않았으며 4건 중 3건이 부정이었다[1][2]. 감성은 유럽이 10건 위에서 -0.62에서 -0.50으로 덜 나빠졌고[7][8][9][10], 북미는 14건 위에서 -0.18에서 -0.27로 나빠졌다[17][19]. 다만 나머지 변화는 시장이 아니라 표본과 방법의 변화라고 읽어야 한다. 동북아 4건(실효 표본 3.6)은 증거 부족 기준(3)을 간신히 넘겼을 뿐이고, 점유 하락은 동북아·동남아·북미의 측정값 자리에 중립 대체값이 들어간 효과이고, 참여 변화는 소스가 바뀐 효과일 개연성이 높다(가설). 즉 하락은 착시에 가깝지만 세계 감성 0.30은 중립 0.5에 한참 못 미치므로, 바닥까지 착시는 아니다.
 
+![구찌 매출 다시 6% 감소, 순폐점 목표 최소 125곳, 재무책임자는 남은 기간 매출 전망 미제시](https://www.abcbourse.com/imgabc/ce20965b-d615-4c0b-9487-df09439d19ac_x.jpg "ABC Bourse|https://www.abcbourse.com/marches/gucci-les-ventes-chutent-encore-de-6--kering-prevoit-au-moins-125-fermetures_704726")
+
 ## 3. 내일 볼 것
 
 오늘의 방향은 표본과 소스가 정상으로 돌아온 뒤에도 남아야 의미가 있다 — 먼저 동북아 기사가 10건 안팎으로 돌아오고 화제가 0.5 근처로 회복되면 오늘의 -15.34는 착시로 확정되고, 표본이 회복됐는데도 30점 아래면 실제 악화로 보고 /event-response를 검토한다. 또한 유럽은 10월 들어 일곱 번째 경고 기록이므로 지금 /event-response 실행 검토를 권고하며(아직 실행되지 않았다), 바닥 확인 기준은 순감성점수가 -0.50보다 나아지는지와 10월 29·30일 한 건도 없던 긍정 의견이 다시 나오는지다. 마지막으로 동남아의 -0.27이 새 기사 위에서도 유지되는지, 참여의 소스 구성이 다시 바뀌는지 확인한다.
@@ -121,6 +123,8 @@ Three §3.5 alerts fired — NEA's -15.34 crossed the 10-point drop line, NEA an
 ## 2. Why It Moved, and the Caveats
 
 NEA Buzz and split Sentiment moved the score — Buzz is -4.74 of the global -4.73, and NEA Buzz fell 0.88 to 0.14 on items down from 12 to 4 while its NSS held near -0.48 (from -0.49) with 3 of 4 negative[1][2]. Sentiment split: Europe -0.62 to -0.50 on 10 items[7][8][9][10], NA -0.18 to -0.27 on 14[17][19]. The rest is sample and method, not market: NEA's 4 items (effective 3.6) barely clear the low-evidence line of 3; SOV's declines are placeholder substitution in NEA, SEA and NA; the Engagement delta is likely source mix (hypothesis). The drop is artifact; the floor, at global Sentiment 0.30 against neutral 0.5, is not.
+
+![Gucci sales fall 6% again, at least 125 net closures planned, CFO withholds revenue guidance](https://www.abcbourse.com/imgabc/ce20965b-d615-4c0b-9487-df09439d19ac_x.jpg "ABC Bourse|https://www.abcbourse.com/marches/gucci-les-ventes-chutent-encore-de-6--kering-prevoit-au-moins-125-fermetures_704726")
 
 ## 3. What to Watch Tomorrow
 

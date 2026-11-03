@@ -10,13 +10,19 @@
 
 오늘 가장 구조적인 신호는 주얼리가 럭셔리 수요의 피난처로 굳어지고 있다는 것이다 — 리치몬트의 4개 주얼리 메종(까르띠에·반클리프 아펠 등)이 7개 분기 연속 두 자릿수 성장을 이어갔고, 바클레이즈는 주얼리 모멘텀 하나만을 근거로 목표가를 올렸다[1][2]. 이와 대조적으로 가방·의류 진영은 같은 3분기에 LVMH 패션·레더굿즈 -5%, 프라다 그룹 유기성장 1%로 둔화됐고, 에르메스조차 중국 정체로 주가가 밀렸다[3][4][5]. 다만 이 로테이션에도 균형추가 필요하다 — 랩그로운 다이아몬드가 상반기 신규 약혼반지의 51%를 차지하며 천연 보석 대비 65% 싼 가격으로 주류화됐고, 이는 파인주얼리의 가격 체계 자체를 흔드는 변수다[6]. 요컨대 주얼리의 방어력은 당분간 유효하되, 가격 구조의 하방 압력은 이미 시작됐다고 보는 것이 정확하다.
 
+![에르메스 3분기 매출 4.3% 성장했으나 중국 정체로 주가 하락](https://wwd.com/wp-content/uploads/2026/06/Hermes-bond-street-lond-store-JS-33.jpg?crop=0px%2C287px%2C1334px%2C746px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/hermes-results-q3-2026-1239380176/")
+
 ## 2. 케링의 세 자리 공백과 피크아웃 신호
 
 케링 진영에서 오늘 확인된 것은 창작 리스크가 한 브랜드가 아니라 그룹 전체로 번졌다는 사실이다 — 발렌시아가·생로랑·맥퀸 세 하우스가 동시에 크리에이티브 디렉터 공백이며, 그중 후임 윤곽이 보도로나마 나온 곳은 마틴 로즈가 거론되는 발렌시아가뿐이다[7][8][9]. 특히 3분기 기준 그룹에서 가장 안정적으로 성장한 생로랑이 한 달 가까이 수장 없이 방치됐다는 점은, 루카 데 메오가 공언한 '구찌 의존도 축소' 전략의 또 다른 축에도 실행 공백이 생겼다는 뜻이다[8][10]. 한편 독립 진영에서는 미우미우가 지난해 41% 성장에서 3분기 소매 -3%로 급제동이 걸렸고, 프라다 그룹 전체 유기성장도 1%로 내려앉았다 — 중동 관광객 급감이라는 지정학 변수가 바이럴 성장의 취약성을 드러냈다[4][11]. 즉 선두주자조차 멈춰 선 지금, 수요 둔화는 턴어라운드 브랜드만의 문제가 아니라 섹터 공통의 국면이라고 읽어야 한다.
 
+![발렌시아가 후임으로 마틴 로즈 보도, 공식 확인은 미정](https://pausemag.co.uk/wp-content/uploads/2026/10/GQSUMMERONLINE_ROSE_HEADER.png "Puck / Pause Magazine / Fashionista|https://pausemag.co.uk/2026/10/martine-rose-could-be-taking-over-at-balenciaga/")
+
 ## 3. 떠오르는 플레이어와 워치리스트
 
 오늘의 상승 신호는 뷰티에서 가장 또렷하다 — 프라다 파라디그메(톰 홀랜드 모델)가 연초 이후 5,700만 달러를 돌파하며 브랜드 역대 최대 남성 향수로 기록됐고, 소셜 임프레션 10억 건을 넘겼다[12]. 더불어 에스티로더 럭셔리 향수 부문이 1분기 유기성장 20%에 영업이익 93% 급증을 보고하며, 프레스티지 향수의 경쟁 기준선 자체가 올라갔다[13]. 다만 이 상승에도 단서가 필요하다 — 로레알 럭스가 회복세를 보고하면서 성장 공신으로 프라다·입생로랑·발렌티노만 호명했고 구찌는 이름이 오르지 않았다 — 뷰티 호조가 모든 하우스를 균등하게 들어 올리는 것은 아니다(에르메스 뷰티는 상반기 역성장)[13][14]. 앞으로 며칠의 변수는 셋이다. 첫째, 11월 12일 버버리 반기 실적이 턴어라운드 서사의 선행 지표가 된다[15]. 둘째, 11월 13일 리치몬트 반기 실적이 주얼리 로테이션의 지속 여부를 확정한다[16]. 마지막으로, 발렌시아가 후임 공식 발표 시점이 케링 창작 공백 해소의 첫 분기점이다[7].
+
+![프라다 파라디그메, 역대 최대 남성 향수로 5,700만 달러 돌파](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
 
 ## 주석
 
@@ -114,13 +120,19 @@ Demand split along category lines today: Richemont's jewellery maisons hit a sev
 
 Jewellery is hardening into luxury's refuge — Richemont's four maisons logged a seventh straight double-digit quarter, and Barclays lifted its target on that alone [1][2]. The bag-and-apparel camp stalled: LVMH fashion and leather fell 5%, Prada Group growth slowed to 1%, and even Hermès slipped on China [3][4][5]. Still, lab-grown diamonds now at 51% of new engagement rings, 65% below natural prices, are reshaping fine jewellery's pricing [6]. The defensive edge holds, but price pressure has begun.
 
+![Hermès Q3 revenue grew 4.3% but shares fell on China stall](https://wwd.com/wp-content/uploads/2026/06/Hermes-bond-street-lond-store-JS-33.jpg?crop=0px%2C287px%2C1334px%2C746px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/hermes-results-q3-2026-1239380176/")
+
 ## 2. Kering's three vacant chairs
 
 Creative risk has spread group-wide — Balenciaga, Saint Laurent and McQueen are all leaderless, and only Balenciaga has a reported successor in Martine Rose [7][8][9]. Saint Laurent, the steadiest Q3 grower, has gone a month without a head, opening a gap in Luca de Meo's plan to cut reliance on Gucci [8][10]. Among independents, Miu Miu braked from 41% growth to a 3% decline and Prada Group growth fell to 1%, as a Middle East tourism collapse exposed viral growth's fragility [4][11]. Even the frontrunner stalling reads as sector-wide, not brand-specific.
 
+![Martine Rose reported as Balenciaga successor, unconfirmed](https://pausemag.co.uk/wp-content/uploads/2026/10/GQSUMMERONLINE_ROSE_HEADER.png "Puck / Pause Magazine / Fashionista|https://pausemag.co.uk/2026/10/martine-rose-could-be-taking-over-at-balenciaga/")
+
 ## 3. Rising players and the watchlist
 
 Beauty shows the clearest rise — Prada's Tom Holland-fronted Paradigme crossed $57M, its biggest men's fragrance ever, past a billion impressions [12]. Estée Lauder's luxury fragrance arm added 20% organic growth and 93% operating-income growth, raising the prestige bar [13]. Still, L'Oréal Luxe named Prada, YSL and Valentino as drivers, not Gucci, and Hermès Beauty fell [13][14]. Near-term tests: Burberry's Nov 12 results [15], Richemont's Nov 13 print [16], and Balenciaga's successor reveal [7].
+
+![Prada's Paradigme crosses $57M as its biggest men's fragrance ever](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
 
 ## Notes
 

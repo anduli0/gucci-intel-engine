@@ -10,17 +10,25 @@
 
 오늘 럭셔리 시장의 결론은 관심과 매출이 서로 다른 곳을 향했다는 것이다 — 관심은 프라다와 셀린느로 모였고, LVMH와 케링 그룹 안에서는 성장이 패션·가죽이 아니라 주얼리와 유통에서 나왔다[5][7][9]. 다만 그룹 밖에서는 에르메스 가죽(+10.8%), 쿠치넬리(9개월 +13.3%), 제냐(+8.9%, 미주 +14%)가 가죽·의류로 성장했으므로 업계 전체의 법칙으로 볼 수는 없다[19][62][55]. 오늘 새로 나온 기사는 케링 관련 두 건(TD 코웬의 보유 의견 개시, 바닐라 이슈의 리더십 공백 정리)뿐이고 둘 다 하위 등급 매체여서, 근거 대부분은 10월 12~30일의 배경 자료다.
 
+![리스트 3분기 지수, 프라다 1위 탈환(수요 +55%), 셀린느 10위권, 미우미우 3위](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+
 ## 1. 오늘의 한 줄
 
 오늘 새로 나온 두 건은 모두 케링의 창작 리더십 공백이라는 같은 흐름에 속하고, 그 공백은 아직 채워지지 않았다 — 바닐라 이슈는 생로랑과 맥퀸 모두 후임이 발표되지 않았다고 정리했고[2], TD 코웬은 케링 커버리지를 '보유' 의견으로 시작했다[1]. 필자의 해석으로는, 시장이 후임 이름과 실적 숫자를 확인하기 전까지 그룹을 다시 평가하지 않으려는 것으로 보인다. 다만 두 기사 모두 하위 등급 매체의 정리·자동 생성 기사여서, 새 사실이 아니라 이어지는 흐름으로 읽는 것이 정확하다.
+
+![생로랑·맥퀸 후임 미정, 케링 창작 리더십 공백 정리(10-31, T3)](https://i0.wp.com/thevanillaissue.com/wp-content/uploads/2026/10/saint-laurent-boutique-madrid.jpg?fit=1200%2C754&ssl=1 "The Vanilla Issue|https://thevanillaissue.com/2026/10/31/kering-creative-reset-saint-laurent-mcqueen-emerging-designers/")
 
 ## 2. 핵심 3건
 
 세 건은 모두 돈이 어디서 나오는지를 묻는다 — 첫째, 케링의 빈자리는 상업적 무게가 크다. 생로랑조차 50억 유로 목표와 달리 2025년 매출이 26.4억 유로에 그쳤고(10월 28일 보도)[3], 발렌시아가의 피치올리 퇴임도 11월 중순 공식 발표가 예상된다[4]. 둘째, 10월 28일 나온 리스트 3분기 순위에서 프라다는 수요 55% 증가로 1위를 되찾았고 셀린느는 10위권에 들었다[5]. 하지만 10월 23일 발표된 프라다 그룹의 3분기 유기적 성장은 1%, 미우미우는 -3%였다[6]. 즉 인기가 곧 성장은 아니다. 셋째, LVMH와 케링 안에서 매출은 주얼리와 유통으로 갔다. 10월 12일 LVMH 발표에서 패션·가죽이 5% 줄어드는 동안 세포라가 속한 유통 부문은 8% 늘었고[7], 시계·주얼리는 6%[8], 케링 주얼리는 보고 기준 12% 성장했다(10월 22일 발표)[9].
 
+![럭셔리에 대한 인내심 약화, 생로랑 2025년 매출 26.4억 유로로 50억 유로 목표 미달](https://r.fashionunited.com/k3y_1Qd0AdTHKDg73wGUJVhPMAOgGakwwX62vYSJjSY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDkvMzAvc2FpbnQtbGF1cmVudC1hdG0tczI3LTAwNS0xc2M1a2dzeC0yMDI2LTA5LTMwLmpwZWc.jpeg "FashionUnited|https://fashionunited.uk/news/fashion/patience-with-luxury-is-wearing-thin/2026102891045")
+
 ## 3. 떠오르는 플레이어와 워치리스트
 
 떠오르는 쪽으로는 셀린느가 가장 뚜렷하다 — 리복 협업과 파리 남성 쇼에 힘입어 리스트 순위가 다섯 계단 올랐다[10]. 다만 리스트는 검색·클릭 기반이라 매출과 같지 않고, 모회사 LVMH의 패션·가죽은 오히려 줄었다[7]. 작은 신호로는 마작 모티프 주얼리가 있다. 메종 카스텔은 첫 생산분이 매진돼 약 2주 만에 2차 생산에 들어갔지만[11], 가격이 199~229달러여서 럭셔리 수요로 읽기는 이르다. 앞으로 확인할 일정은 11월 2일 에스티로더 실적과 CFDA 어워즈[12][13], 5일 샤넬 시드니 크루즈 재연[14], 10일 크리스티 불가리 핑크 다이아몬드 경매[15], 11일 광군제[16], 13일 리슈몽 중간 실적[17]이다.
+
+![셀린느, 리복 협업과 남성 쇼로 리스트 순위 5계단 상승해 첫 10위권](https://s.yimg.com/lo/mysterio/api/6557e92da82818c02f5f4aeb133786458103208ee08880c1408356550c1821e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F7cac4a4f06753ba9d1190e2334c6bec2.jpg "Yahoo Shopping (Lyst Index)|https://shopping.yahoo.com/style/shoes/articles/celine-viral-reebok-collab-one-080000382.html")
 
 ## 부록 — 오늘의 기타 신호
 
@@ -160,17 +168,25 @@
 
 Attention and revenue have parted ways — attention went to Prada and Celine, while within LVMH and Kering growth came from jewelry and retail rather than fashion and leather[5][7][9]. Outside those groups, Hermès leather (+10.8%), Cucinelli (+13.3% over nine months) and Zegna (+8.9%, Americas +14%) grew in leather and apparel, so this is not an industry-wide rule[19][62][55]. Only two low-tier same-day items surfaced, both on Kering; the rest is background.
 
+![Lyst Q3: Prada back at No. 1 (demand +55%), Celine top ten, Miu Miu third](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+
 ## 1. Today in One Line
 
 Both of today's fresh items belong to one thread, Kering's creative vacuum, still unfilled — The Vanilla Issue noted that Saint Laurent and McQueen have no named successors[2], and TD Cowen began coverage at Hold[1]. Our reading, not a sourced fact, is that the market wants names and numbers before it re-rates the group.
+
+![Saint Laurent and McQueen successors unnamed; Kering creative vacuum roll-up (31 Oct, T3)](https://i0.wp.com/thevanillaissue.com/wp-content/uploads/2026/10/saint-laurent-boutique-madrid.jpg?fit=1200%2C754&ssl=1 "The Vanilla Issue|https://thevanillaissue.com/2026/10/31/kering-creative-reset-saint-laurent-mcqueen-emerging-designers/")
 
 ## 2. Three Defining Stories
 
 All three ask where the money comes from. First, Kering's open seats: even Saint Laurent made EUR 2.64bn in 2025 against a EUR 5bn goal (reported 28 October)[3], and Balenciaga's Piccioli exit should become official mid-November[4]. Second, Lyst's Q3 index (28 October) put Prada back at No. 1 on demand up 55% and Celine in the top ten[5]. Yet Prada Group grew only 1% organically in Q3 and Miu Miu fell 3% (23 October)[6]; popularity is not growth. Third, within LVMH and Kering, revenue went to jewelry and retail: LVMH Fashion & Leather fell 5% while the Sephora division rose 8% (12 October)[7], Watches & Jewelry grew 6%[8] and Kering Jewelry 12% reported (22 October)[9].
 
+![Patience with luxury wearing thin; Saint Laurent 2025 revenue EUR 2.64bn vs EUR 5bn goal](https://r.fashionunited.com/k3y_1Qd0AdTHKDg73wGUJVhPMAOgGakwwX62vYSJjSY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDkvMzAvc2FpbnQtbGF1cmVudC1hdG0tczI3LTAwNS0xc2M1a2dzeC0yMDI2LTA5LTMwLmpwZWc.jpeg "FashionUnited|https://fashionunited.uk/news/fashion/patience-with-luxury-is-wearing-thin/2026102891045")
+
 ## 3. Rising Players and Watchlist
 
 Celine is the clearest riser — up five places on Lyst on its Reebok collab and Paris men's show[10], though Lyst tracks searches, not sales, and LVMH's fashion arm shrank[7]. Mahjong jewelry is a smaller signal: Maison Kastel sold out its debut and began a second run within about two weeks[11]; at USD 199–229 it says little about luxury demand. Dates: Estée Lauder and the CFDA Awards on 2 November[12][13], Chanel Sydney on the 5th[14], Christie's Bulgari pink diamond on the 10th[15], Singles' Day on the 11th[16], Richemont on the 13th[17].
+
+![Celine up five places into the Lyst top ten on Reebok collab and men's show](https://s.yimg.com/lo/mysterio/api/6557e92da82818c02f5f4aeb133786458103208ee08880c1408356550c1821e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F7cac4a4f06753ba9d1190e2334c6bec2.jpg "Yahoo Shopping (Lyst Index)|https://shopping.yahoo.com/style/shoes/articles/celine-viral-reebok-collab-one-080000382.html")
 
 ## Appendix — other signals today
 

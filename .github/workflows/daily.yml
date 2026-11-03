@@ -3,14 +3,15 @@ name: daily-intelligence
 on:
   schedule:
     # Goal: cycle COMPLETE (site published) before 08:00 KST.
-    # GitHub cron can start up to ~1h late and Monday runs exceed 2h,
-    # so the main run fires at dawn and a backup follows.
-    # Retry ladder: every slot is guarded (no-op republish when today is done),
-    # so a failed earlier slot gets retried "as soon as possible" after 08:00.
-    - cron: '7 19 * * *'   # 19:07 UTC = 04:07 KST — main run
-    - cron: '7 21 * * *'   # 21:07 UTC = 06:07 KST — backup 1
-    - cron: '7 22 * * *'   # 22:07 UTC = 07:07 KST — backup 2
-    - cron: '7 23 * * *'   # 23:07 UTC = 08:07 KST — backup 3 (last resort, finishes ASAP after 08:00)
+    # Observed 2026-10-31..11-03: GitHub cron fired 3-4.5h late and the pipeline
+    # takes 2-2.5h, so a 04:07 KST main run finished ~10:30 KST. Fire at
+    # midnight KST instead; every slot is guarded (no-op republish once today's
+    # reports exist), so the ladder only costs a cheap republish.
+    - cron: '7 15 * * *'   # 15:07 UTC = 00:07 KST — main run
+    - cron: '7 17 * * *'   # 17:07 UTC = 02:07 KST — backup 1
+    - cron: '7 19 * * *'   # 19:07 UTC = 04:07 KST — backup 2
+    - cron: '7 21 * * *'   # 21:07 UTC = 06:07 KST — backup 3
+    - cron: '7 23 * * *'   # 23:07 UTC = 08:07 KST — last resort (finishes ASAP after 08:00)
   workflow_dispatch:
     inputs:
       force:

@@ -54,6 +54,7 @@ if "%DOW%"=="1" (
 del logs\run.lock 2>nul
 
 echo [%date% %time%] retention cleanup (14d) >> %LOG%
+python scripts\add_figures.py >> %LOG% 2>&1
 python scripts\retention_cleanup.py >> %LOG% 2>&1
 
 echo [%date% %time%] publish static site >> %LOG%

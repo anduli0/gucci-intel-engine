@@ -6,6 +6,8 @@
 
 이번 사안의 결론은 실적 충격의 뉴스는 식었지만 회복 신호는 오지 않았고, 시장의 질문이 '얼마나 나빴나'에서 '뎀나가 무엇을 보여줄 것인가'로 옮겨 갔다는 것이다 — 실적 발표 일주일 뒤인 10월 29일에도 케링 주가는 178.73유로 안팎으로 250거래일 저점 부근에 머물렀고[9], 블룸버그 오피니언은 뎀나가 아직 설득력 있는 비전을 내놓지 못했다고 썼다[8]. 지금 구찌에 부족한 것은 시간이 아니라 증거다.
 
+![10월 29일 케링 주가 178.73유로 안팎, 250거래일 저점 부근](https://mdb.ad-hoc-news.de/bild/bild-2706475_1920_1080.webp "ad-hoc-news.de|https://ad-hoc-news.de/boerse/news/corporate-news/kering-reports-flat-third-quarter-revenue-kering-stock-nears-eur-178-12-low/70427247")
+
 ## 1. 오늘의 판정
 
 오늘 새로 터진 사건은 없고, 네 권역 모두 3분기 실적의 여진이 하루를 채웠다. 바탕의 사실은 그대로다 — 구찌 3분기 매출은 12억 9,100만 유로, 비교가능 매출은 시장 예상(약 -3.3%)보다 나쁜 -6%였고, 직영 매장은 -9%를 기록했으며, 케링은 9개월간 순 105개 매장을 닫고 연내 최소 125개를 목표로 잡았다[2]. 본 분석의 판단은 시장이 실패를 결론 내린 것이 아니라 외상을 더는 주지 않기로 했다는 것이다. 가장 날 선 목소리는 유럽에서 나왔고, 베렌베르크는 매도 의견을 유지한 채 목표주가를 175유로에서 165유로로 내렸다[12].
@@ -14,9 +16,13 @@
 
 문제는 전환이 아니라 방문이고, 그래서 매장 운영이 아니라 브랜드를 찾아가고 싶게 만드는 힘의 문제다 — 경영진은 매장 방문객을 핵심 제약으로 지목했고[15][2], 번스타인은 이번 분기를 핵심 제품의 근본적 매력이 약하다는 신호로 읽었다[13]. 가격도 돌아올 이유를 만들어 주지 못해, 동남아에서는 가격을 조정했는데도 매출이 떨어지고[16] 중국의 최대 40% 인하는 해외와의 가격 차를 10% 미만으로 좁혔다[30]. 다만 이 해석에도 균형추가 필요하다. '뎀나 체제가 상업적으로 실패한다'는 결론은 아직 미확인이며, 경영진은 전환율과 객단가가 버텼다고 했고[15][4] 실적 콜에서 초기 턴어라운드 신호를 거론했다[33].
 
+![방문객이 핵심 제약, 전환율·객단가는 유지, 워크인 의존의 한계](https://insideretail.com.au/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Australia|https://insideretail.com.au/business/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore-202610")
+
 ## 3. 내일 볼 것
 
 기본 시나리오는 정체에서 소폭 악화 사이다 — 구찌발 새 소식이 없으면 뉴스 사이클은 가라앉겠지만, 주가가 저점 부근에 머무는 동안 비판적 프레임은 그대로 남는다. 상방의 판단 기준은 4분기 신제품[4]을 앞두고 브랜드가 아닌 제3자 리뷰에서 핵심 제품 호평이 나오는지이고, 하방의 기준은 다음 주 케링 주가가 250거래일 저점을 뚫는지, 베렌베르크에 이어 다른 증권사가 목표주가를 내리는지다[9][12]. 이번 주 안에는 한국 백화점의 외국인 관광객 호황을 구찌가 실제로 잡고 있는지를 확인하되[6], 이는 가설이며 구찌의 한국 인바운드 실적은 미확인이다.
+
+![케링 주가 장중 최대 12.3% 하락, 경영진은 객단가 상승과 4분기 신제품 확대 언급](https://forbes.it/wp-content/uploads/2026/10/GettyImages-1441424997-1200x801.jpg "Forbes Italia|https://forbes.it/2026/10/23/kering-affonda-parigi-calo-vendite-gucci")
 
 ## 부록 — 오늘의 기타 신호
 
@@ -111,6 +117,8 @@
 
 Our conclusion is that the Q3 shock has faded, no recovery signal has replaced it, and the market's question has moved to Demna's vision — Kering still traded near its 250-session low on October 29, around EUR 178.73[9], and Bloomberg Opinion says Demna has yet to set out a compelling vision[8]. What Gucci lacks is not time but evidence.
 
+![Kering around EUR 178.73 on October 29, near its 250-session low](https://mdb.ad-hoc-news.de/bild/bild-2706475_1920_1080.webp "ad-hoc-news.de|https://ad-hoc-news.de/boerse/news/corporate-news/kering-reports-flat-third-quarter-revenue-kering-stock-nears-eur-178-12-low/70427247")
+
 ## 1. Today's Verdict
 
 Nothing new broke today; the Q3 aftershock filled all four regions. The facts stand — revenue of EUR 1.291 billion, comparable sales down 6% against roughly 3.3% expected, directly operated stores down 9%, and a net 105 closures with at least 125 targeted[2]. Our read is that the market has not concluded failure, only stopped extending credit. Europe is harshest: Berenberg kept its sell rating and cut its target to EUR 165 from 175[12].
@@ -119,9 +127,13 @@ Nothing new broke today; the Q3 aftershock filled all four regions. The facts st
 
 The problem is desire, not store execution: visits fell, not conversion — management named traffic the main constraint[15][2], and Bernstein read the quarter as weak appeal in the core products[13]. Price is no help: Southeast Asian sales fall despite adjustments[16], and China's cuts of up to 40% left the overseas gap under 10%[30]. That said, the Demna era's commercial failure remains unverified: management says conversion and ticket held[15][4] and cites early turnaround signals[33].
 
+![Traffic the main constraint, conversion and ticket held; limits of walk-in dependence](https://insideretail.com.au/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Australia|https://insideretail.com.au/business/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore-202610")
+
 ## 3. What to Watch Tomorrow
 
 Our base case is flat to slightly worse — the critical frame persists while the stock sits near its low, even as news quiets. The upside test is third-party, not brand, praise for the core products before the Q4 launches[4]; the downside is Kering breaking its 250-session low next week or further broker cuts[9][12]. This week's check is whether Gucci captures Korea's department-store tourist boom[6] (hypothesis; Gucci's Korean inbound sales are unverified).
+
+![Kering fell as much as 12.3% intraday; management cites higher average ticket and more Q4 launches](https://forbes.it/wp-content/uploads/2026/10/GettyImages-1441424997-1200x801.jpg "Forbes Italia|https://forbes.it/2026/10/23/kering-affonda-parigi-calo-vendite-gucci")
 
 ## Appendix — other signals today
 

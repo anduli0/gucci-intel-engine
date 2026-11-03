@@ -6,13 +6,19 @@
 
 이번 사안의 결론은 구찌가 매장을 줄이면서 파리에 새 매장을 여는 이중 처방을 내놓았지만, 그 처방이 듣는다는 증거는 아직 없다는 것이다 — 3분기 비교가능 매출 -6%, 직영 -9%에 연내 최소 125개 폐점을 예고한 지 8일 만에, 구찌는 몽테뉴가 신매장을 전 세계 리테일 개편의 청사진으로 내놓았다[1][2][6]. 하지만 같은 주 씨티는 구찌의 개선 국면이 끝났다며 케링 목표주가를 내렸다[8].
 
+![구찌 3분기 매출 12억 9,000만 유로, 보고 -4%·비교가능 -6%, 직영 -9%, 도매 +45%, 순 105개 폐점·연내 최소 125개 계획](https://r.fashionunited.com/biqV-V4jT7Mgter1Pd_CrS2SCFwvL0fTGrxpvnFRgeY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMjkva2VyaW5nLWd1Y2NpLXZ5MGk3cXdmLTIwMjMtMDQtMjUtczJqa2FwOGUtMjAyMy0xMi0xNS1rbWxreW04dy0yMDIzLTEyLTE1LW1la2g1dXVwLTIwMjMtMTItMTktcmE3cTBuOGEtMjAyNC0wMi0wOC0xanF5aGRveS0yMDI0LTEwLTIzLWVkYmh3bThrLTIwMjYtMDctMjkuanBlZw.jpeg "FashionUnited|https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016")
+
 ## 1. 오늘의 판정
 
 오늘 새로 잡힌 구찌 소식은 사실상 몽테뉴가 신매장 하나이고, 브랜드가 연출한 활성화(activation) 커버리지다 — BoF는 이 매장을 단계적으로 세계에 퍼뜨릴 콘셉트로 소개했고[6], WWD 본문은 유료라 확인하지 못했다[5]. 처방의 방향 자체는 문제와 맞닿아 있다. 경영진이 지목한 제약은 전환율이 아니라 중국·일본의 방문객이었고[2][7], 매장 수를 줄이는 대신 찾아갈 이유가 있는 매장으로 발길을 되돌리겠다는 논리로 읽힌다(가설). 그럼에도 권역의 하루는 여전히 실적의 그늘 아래 있었고, 동남아에서는 중국 부유층이 조용히 구찌를 떠난다는 분석까지 나왔다[16].
 
+![뎀나 주도의 몽테뉴가 신매장 콘셉트 공개(유료 기사, 본문 미확인)](https://wwd.com/wp-content/uploads/2026/10/gucci-store-avenue-montaigne-paris-dom-003.jpg?crop=0px%2C105px%2C1366px%2C765px&resize=1000%2C563 "WWD|https://wwd.com/business-news/retail/gucci-demna-new-store-concept-avenue-montaigne-paris-1239392054/")
+
 ## 2. 근거와 반론
 
 반론이 더 무겁다 — 씨티는 개선 국면이 끝났다고 봤고[8], 징데일리는 중국에서 누구나 구찌를 알아본다는 사실 자체가 문제라고 썼으며[9], 북미 커뮤니티에는 구찌 제품이 잘 안 팔린다는 리세일 소유자의 글이 올라왔다[11]. 다시 말해 문제가 매장의 모양보다 브랜드가 흔해졌다는 인식에 있다면, 매장 하나로는 풀리지 않는다. 물론 균형추도 있다. 리스트(Lyst) 3분기 순위에서 구찌는 한 계단 올라 4위를 했다[10]. 다만 이는 관심의 지표이지 매출이 아니고, 1위를 되찾은 쪽은 프라다였다.
+
+![리스트 3분기 순위, 프라다 1위 탈환, 구찌 한 계단 오른 4위](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
 
 ## 3. 내일 볼 것
 
@@ -100,13 +106,19 @@ Our conclusion is that Gucci has paired store closures with a new Paris flagship
 
 Our conclusion is that Gucci has paired closures with a new Paris store, and there is no evidence yet that the dual prescription works — eight days after reporting Q3 comparable sales down 6%, directly operated stores down 9% and at least 125 closures this year, Gucci presented its Avenue Montaigne store as its global retail blueprint[1][2][6]. That week, Citi cut its Kering target, calling Gucci's improvement phase over[8].
 
+![Gucci Q3 revenue EUR 1.29bn, -4% reported and -6% comparable, DOS -9%, wholesale +45%, 105 net closures and at least 125 planned](https://r.fashionunited.com/biqV-V4jT7Mgter1Pd_CrS2SCFwvL0fTGrxpvnFRgeY/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMjkva2VyaW5nLWd1Y2NpLXZ5MGk3cXdmLTIwMjMtMDQtMjUtczJqa2FwOGUtMjAyMy0xMi0xNS1rbWxreW04dy0yMDIzLTEyLTE1LW1la2g1dXVwLTIwMjMtMTItMTktcmE3cTBuOGEtMjAyNC0wMi0wOC0xanF5aGRveS0yMDI0LTEwLTIzLWVkYmh3bThrLTIwMjYtMDctMjkuanBlZw.jpeg "FashionUnited|https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016")
+
 ## 1. Today's Verdict
 
 Today's only fresh Gucci news is the Avenue Montaigne store, which is brand-staged activation — BoF describes a concept to roll out globally in stages[6], while WWD's paywalled body was not verified[5]. The direction fits the problem: management named traffic in China and Japan, not conversion, as the constraint[2][7], and fewer stores worth a trip reads as the answer (hypothesis). Still, the earnings shadow held, and Southeast Asian press asked why wealthy Chinese are quietly leaving Gucci[16].
 
+![Demna-led new store concept on Avenue Montaigne (paywalled, body not verified)](https://wwd.com/wp-content/uploads/2026/10/gucci-store-avenue-montaigne-paris-dom-003.jpg?crop=0px%2C105px%2C1366px%2C765px&resize=1000%2C563 "WWD|https://wwd.com/business-news/retail/gucci-demna-new-store-concept-avenue-montaigne-paris-1239392054/")
+
 ## 2. Evidence and the Counterweight
 
 The counter-signals weigh more — Citi called the improvement phase over[8], Jing Daily argued Gucci's ubiquity in China is itself the problem[9], and a North American owner reported struggling to resell[11]. Put differently, if the issue is that the brand feels too common, one store will not fix it. There is a counterweight: Gucci rose one place to fourth in the Lyst Q3 ranking[10]. That measures interest, not sales, and Prada took first.
+
+![Lyst Q3: Prada back at first, Gucci up one to fourth](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?crop=59px%2C678px%2C1273px%2C713px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
 
 ## 3. What to Watch Tomorrow
 

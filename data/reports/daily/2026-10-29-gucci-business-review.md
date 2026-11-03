@@ -14,9 +14,13 @@
 
 이번 사안의 결론은 '턴어라운드(turnaround) 서사'가 3분기 숫자로 반박당했고, 이번 주 네 권역의 분위기를 끌고 간 것은 긍정 활성화의 양이 아니라 실적·가격·창작 방향을 둘러싼 신뢰 훼손의 무게였다는 것이다 — 10월 22~23일 발표된 케링 3분기 실적에서 구찌의 비교가능 매출은 전년 대비 감소했고 직영 소매는 더 큰 폭으로 빠졌으며, 케링 주가는 사상 최대 단일일 급락을 기록했다[1][2]. 이에 더해 연내 폐점 목표를 125개 이상으로 상향한 점포 축소 가속과 중국 회복 시점을 12~24개월 뒤로 미룬 경영진의 발언이 유럽·북미·동북아·동남아 전역에서 비판적 보도와 애널리스트 목표가 하향으로 번졌다[3][4]. 다만 같은 기간 GucciCore 2027 크루즈 캠페인, 앰배서더 활동, 두바이 플래그십 재개장 같은 활성화(activation) 커버리지도 이어졌다[5][6][7]. 하지만 본 분석의 판단은, 이는 브랜드가 집행한 마케팅 산출물로서 여론 개선의 증거가 아니라 반대 분위기를 상쇄하기에는 역부족인 자체 홍보 노출이라는 것이다. (지수 관련 수치는 같은 날짜의 지수 해석 리포트를 참조.)
 
+![구찌 재차 실망, UBS 목표가 하향](https://mdb.ad-hoc-news.de/bild/bild-2706480_1920_1080.webp "ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/kering-aktie-gucci-enttaeuscht-erneut/70397373")
+
 ## 1. 오늘의 구찌 — 글로벌 및 권역별 비즈니스 그림
 
 이번 주의 결론은 분명하다. 케링의 3분기 실적 한 건이 네 권역 모두의 하루를 지배했고, '턴어라운드'라는 서사는 그 숫자 앞에서 설 자리를 잃었다 — 10월 22~23일 공개된 실적에서 구찌 매출은 비교가능 기준으로 전년보다 약 6% 줄어 애널리스트 예상치를 밑돌았고, 그중에서도 직영 매장 매출이 약 9% 빠지면서 그룹 전체 실적을 끌어내린 주범으로 지목됐다[1][2]. 10월 23일 케링 주가는 상장 이래 하루 최대 낙폭을 기록했고, 미국 예탁증권(ADR)도 크게 밀렸다[2][8]. 여기에 경영진은 '올해 성장 복귀'라는 가이던스 문구를 더는 입에 올리지 않았고, 중국 회복에는 12~24개월이 걸린다고 못 박았다[4][9]. 요컨대 숫자와 가이던스, 주가가 모두 한 방향을 가리킨 한 주였다.
+
+![데메오의 가격 인하·3단계 턴어라운드 전략](https://data2.nssmag.com/images/galleries/49238/cover-gucci-price-wide.webp "nss magazine|https://www.nssmag.com/en/fashion/46529/is-gucci-really-lowering-its-prices")
 
 유럽의 분위기는 재무와 창작·가치 양면에서 동시에 악화됐다 — 금융·트레이드 매체가 실적을 가장 직접적으로 비판했고, 로이터와 블룸버그는 턴어라운드가 흔들리고 있다고 전했으며, 독일·프랑스 금융 매체는 주가가 연중 최저 수준으로 밀렸다고 보도했다[1][2][4][10]. 이에 UBS와 Citi는 잇따라 케링 목표가를 낮추며 구찌의 개선 국면이 끝났다는 신호라고 평가했고, Citi는 3분기를 "진짜 후퇴"로 규정했다[4][11]. 여기에 창작·가치 쪽 신호가 세 갈래로 겹쳤다. 첫째, 뎀나의 2027 봄 밀라노 쇼를 "저속하다(vulgar)"고 혹평한 포럼 반응이다[12]. 둘째, 일부 마이클레 시대 백 라인이 중고 시장에서 상대적으로 낮은 모델별 가치 유지율(대략 55~70% 유지, 즉 해당 모델 기준 약 30~45% 가치 하락)을 보인다는 리세일 데이터다[13]. 셋째, 가격 대비 가치에 의문을 던지는 이탈리아 소비자 논평이다[14]. 다만 같은 데이터에서 재키 1961과 호스빗 1955 등 일부 아이콘은 여전히 견조한 리세일 가치를 유지한다는 점도 함께 확인된다[13].
 
@@ -30,6 +34,8 @@
 
 네 권역의 분위기를 한꺼번에 끌어내린 근본 원인은 단일 사건, 즉 3분기 실적 쇼크다. 이를 비즈니스 관점에서 분해하면 구조는 분명하다. 첫째, 매출 부진의 중심은 직영 소매였다. 매장 방문객(트래픽)이 핵심 제약이었고 전환율과 객단가는 비교적 버텼다는 경영진 설명은, 문제가 "오는 사람에게 못 파는 것"이 아니라 "사람 자체가 오지 않는 것"임을 시사한다[2][30]. 이는 캠페인 노출로 단기에 뒤집기 어려운 수요 기반의 문제로 읽어야 한다.
 
+![3분기 실적으로 본 워크인 의존 한계](https://insideretail.com.au/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Australia|https://insideretail.com.au/business/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore-202610")
+
 둘째, 지역 리스크가 중국 단일 의존에서 북미로 확산됐다. 그간 미국의 호조가 중국 약세의 방어선 역할을 했는데, 이번 분기에는 그 방어선마저 둔화됐다는 점이 북미 투자자에게 특히 부정적으로 읽혔다[15][16]. 이에 중국 회복을 12~24개월 뒤로 미룬 시간표는 "곧 좋아진다"는 기대를 제거하며 애널리스트 목표가 하향(UBS·Citi)과 "개선 국면이 끝났다"는 셀사이드(sell-side) 비판으로 직결됐다[11][9].
 
 셋째, 가격·가치 신뢰가 동시에 흔들렸다. 경영진이 가격을 "다소 과하게 올렸다"고 인정하고 평균 판매가 대역을 2,000~3,000유로로 낮추며 캐리오버 품목을 약 20% 인하하는 전략은, 중국에서는 "먼저 산 사람이 손해"라는 가격보호 불만으로, 유럽에서는 품질 대비 가격 비판으로, 동남아에서는 과거 중국 구매 차익(아비트라지, arbitrage) 메리트 소멸로 각기 다른 역풍을 낳았다[9][24][14][36]. 넷째, 창작 방향에 대한 불신이 재무 악재와 겹쳤다. 뎀나의 봄 2027 쇼를 둘러싼 "저속하다"는 혹평, "길을 잃었다"는 비평, 일부 마이클레 시대 백 라인의 상대적으로 낮은 모델별 리세일 유지율 데이터는 "지금의 창작 베팅이 수요를 되살릴 수 있는가"라는 핵심 질문을 투자자와 소비자 양쪽에서 증폭시켰다[12][13][19].
@@ -39,6 +45,8 @@
 ## 3. 그래서 무엇을 의미하는가 — 마케팅 함의
 
 본 분석의 판단은, 이번 주 마케팅 함의가 '노출을 늘리는 것'이 아니라 '신뢰를 복구하는 것'에 있다는 것이다 — 동경·구매 의향·경쟁 포지션 세 층위의 신호가 모두 신뢰 훼손을 가리키기 때문이다. 먼저 동경(aspiration) 측면에서 이번 주 신호는 부정적이다. 일부 모델의 리세일 가치 하락과 "과대평가" 비판, "길을 잃었다"는 창작 담론은 브랜드가 소유하고 싶은 대상이라는 지위, 즉 열망 자산을 직접 침식한다[13][19][32]. 특히 리세일 약세는 해당 소비자층이 구찌를 가치 저장 수단으로 신뢰하지 않게 되는 신호이므로, 이러한 측면에서 마케팅이 다루어야 할 것은 신상품 홍보가 아니라 아이코닉 라인의 가치 보존 서사라고 판단했다. 다만 중고 시장에서 재키 1961과 호스빗 1955 같은 일부 아이콘은 상대적으로 가치를 지켰다는 점은, 메시지를 어디에 집중해야 하는지를 가리킨다[13].
+
+![일부 마이클레 시대 백 라인 모델별 리세일 유지율 약세, 재키·호스빗 등 아이콘은 견조](https://www.verifyluxenow.com/storage/media_webp/2026-05/1778769900_xZQ8v9fDULoI6DMR.webp "Reddit r/handbags / resale guide aggregation|https://www.verifyluxenow.com/guides/gucci-resale-investment-guide")
 
 또한 구매 의향 측면에서 가격 전략은 양날의 칼이다. 물론 가격 인하는 중산층 소비자 재유입을 노린 조치다. 하지만 중국의 가격보호 불만과 북미의 가격 인상 피로가 동시에 존재하는 상황에서 "오를 때는 올리고 내릴 때는 먼저 산 사람을 홀대한다"는 인식은 재구매·충성 고객을 가장 직접적으로 상한다[24][20]. 즉, 가격 조정 자체보다 그 커뮤니케이션의 공정성이 구매 의향을 좌우할 국면이라고 보는 것이 정확한 묘사다. 한편 동남아에서는 과거 중국 아비트라지 메리트가 사라지면서 여행 리테일 수요 논리가 바뀌는 중이므로, 면세·여행 채널 메시지를 재설계할 필요가 있다[36].
 
@@ -50,6 +58,8 @@
 
 첫째, 상방 시나리오(가능성 낮음)는 더블 11(11월 11일) 기간 중국에서 가격 조정 품목의 판매가 눈에 띄게 반등하고, GucciCore 크루즈 입고와 앰배서더 활동이 아이콘 중심 수요로 연결되며, 가격보호 불만에 대한 공정한 보상·소통이 커뮤니티에서 긍정적으로 회자될 경우 분위기가 부분 반전되는 경로다[5][24][38]. 조건은 명확하다 — 실적 숫자가 아닌 "소비자 신뢰 회복" 신호가 커뮤니티에서 자생적으로 나와야 한다.
 
+![구찌 2027 크루즈 컬렉션 청담 플래그십 입고](http://www.ktnews.com/news/thumbnail/202605/146124_125603_359_v150.jpg "한국섬유신문|https://www.ktnews.com/news/articleView.html?idxno=146124")
+
 둘째, 중립 시나리오(기본값)는 실적 쇼크의 뉴스 사이클이 점차 소강되면서 비판의 강도는 약화되지만, 중국 회복 시간표가 12~24개월로 길게 제시된 만큼 뚜렷한 반등 없이 부정적 저류가 유지되는 경로다. 이때 활성화 커버리지(크루즈 캠페인, 두바이 재개장, 앰배서더)는 계속 노출되나 여론 개선으로 이어지지는 않는다[7][27].
 
 셋째, 하방 시나리오는 더블 11에서 가격보호 불만이 확산되거나, 추가 애널리스트 하향·경영진 인사 불안정 보도가 나오거나, 뎀나 창작 방향에 대한 혹평이 리세일 약세 데이터와 재결합해 "구조적 쇠퇴" 서사로 굳어질 경우 분위기가 더 악화되는 경로다[11][13][24]. 조건은 신뢰 이슈(가격보호·품질·창작)가 재무 악재와 다시 겹치는 것이다.
@@ -59,6 +69,8 @@
 이번 주 권고의 공통 원칙은 하나다 — 노출을 늘리는 것이 아니라 신뢰를 복구하는 조치에 자원을 쓰라는 것이다. 이에 따라 다섯 가지를 권고한다.
 
 첫째, 가격보호 커뮤니케이션을 즉시 공정화하라. 중국 더블 11을 앞두고 최근 구매 고객 대상 가격보호 정책을 명확히 공지하고, 보상 거절 사례가 커뮤니티에서 상징이 되지 않도록 CRM·VIC(very important client) 채널로 선제 안내하라. 대상은 최근 60~90일 내 구매 고객, 채널은 위챗·매장 클라이언텔링(clienteling), 타이밍은 11월 11일 이전[24][36].
+
+![중국 공식 가격 인하와 가격보호 불만](https://a.zdmimg.com/202610/23/6adaa1c4c70be8343.jpg_fo742.jpg "Weibo aggregator (via smzdm)|https://post.smzdm.com/p/arzr5e87/")
 
 둘째, 아이콘 가치 보존 서사로 메시지를 전환하라. 신상품·실험 RTW 중심 노출을 줄이고, 재키 1961·호스빗 1955 등 리세일 방어력이 확인된 아이콘 라인을 "지속 가치" 관점에서 전면화하라. 이는 리세일 약세와 "과대평가" 비판에 대한 직접 대응이다. 채널은 브랜드 소유 디지털과 리테일 디스플레이, 타이밍은 즉시[13][32].
 
@@ -136,9 +148,13 @@
 
 Our conclusion is that the Q3 numbers refuted the "turnaround" narrative, and that what drove this week's mood across all four regions was not the volume of positive activation but the weight of eroding trust around earnings, pricing, and creative direction — in Kering's Q3 results released October 22-23, Gucci's comparable sales fell year-over-year with directly operated retail dropping even further, and Kering shares posted their worst-ever single-day decline[1][2]. On top of this, the accelerated store-network reduction, with the full-year closure target raised past 125, and management's remark pushing China's recovery out 12-24 months spread critical coverage and analyst price-target cuts across Europe, North America, Northeast Asia, and Southeast Asia alike[3][4]. That said, activation coverage continued over the same period — the GucciCore 2027 cruise campaign, ambassador activity, and the Dubai flagship reopening[5][6][7]. Still, our read is that this is brand-executed marketing output: not evidence of improving public opinion, but self-promotional exposure far too light to offset the opposite mood. (For index figures, see the same-date index interpretation report.)
 
+![Gucci disappoints again, UBS cuts target](https://mdb.ad-hoc-news.de/bild/bild-2706480_1920_1080.webp "ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/kering-aktie-gucci-enttaeuscht-erneut/70397373")
+
 ## 1. Gucci Today — Global and Regional Business Picture
 
 This week's Gucci business picture comes down to one earnings release that became the day's dominant story in all four regions — in Kering's Q3 results released October 22-23, Gucci's comparable sales fell roughly 6% year-over-year, worse than analysts had expected, with directly operated store sales down about 9%, identified as the key factor dragging down the group's overall results[1][2]. Kering shares then fell by the largest margin in company history on October 23, and US-listed depositary receipts (ADRs) also dropped sharply[2][8]. Management, for its part, did not reiterate prior guidance about returning to growth this year, and instead laid out a timeline of 12-24 months for China's recovery[4][9]. Put differently, it was a week in which the numbers, the guidance, and the share price all pointed the same way.
+
+![De Meo's price cuts and three-stage turnaround strategy](https://data2.nssmag.com/images/galleries/49238/cover-gucci-price-wide.webp "nss magazine|https://www.nssmag.com/en/fashion/46529/is-gucci-really-lowering-its-prices")
 
 Europe's mood soured on both the financial and the creative/value fronts at once — financial and trade media covered the earnings most directly and critically, Reuters and Bloomberg reported that the turnaround was faltering, and German and French financial outlets reported the share price sliding to a year low[1][2][4][10]. UBS and Citi then successively cut Kering's price target, calling it a signal that Gucci's improvement phase had ended, with Citi characterizing Q3 as "a genuine setback"[4][11]. Layered on top, the creative and value signals converged in three strands. First, forum reactions calling Demna's Spring 2027 Milan show "vulgar"[12]. Second, resale data showing some Michele-era bag lines retaining relatively low per-model resale value (roughly 55-70% retention, i.e., about 30-45% value loss for those models)[13]. Third, Italian consumer commentary questioning value for money[14]. That said, the same data also confirms that some icons such as the Jackie 1961 and the Horsebit 1955 retain solid resale value.
 
@@ -152,6 +168,8 @@ In Southeast Asia, a frame defining Gucci's problem as structural rather than ta
 
 The root cause pulling down the mood across all four regions simultaneously is a single event: the Q3 earnings shock. Breaking this down from a business perspective, the structure is clear. First, the center of the sales weakness was directly operated retail. Management's explanation that store traffic was the core constraint while conversion rate and average ticket held up relatively well suggests the problem is not "failing to sell to people who come in" but "people simply not coming in at all"[2][30]. This is best read as a demand-side problem that campaign exposure cannot quickly reverse.
 
+![Q3 results show the limits of walk-in dependence](https://insideretail.com.au/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Australia|https://insideretail.com.au/business/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore-202610")
+
 Second, regional risk spread from single-country dependence on China to North America as well. The US's strength had served as a defensive line against China's weakness, so the fact that even that defensive line slowed this quarter read especially negatively to North American investors[15][16]. The 12-24 month timeline pushed out for China's recovery removed any expectation of an imminent improvement, feeding directly into analyst price-target cuts (UBS, Citi) and sell-side criticism that "the improvement phase has ended"[11][9].
 
 Third, trust in both pricing and value was shaken simultaneously. Management's admission that prices had been raised "somewhat excessively," its move to lower the average selling price band to 2,000-3,000 euros, and its strategy of cutting carry-over items by roughly 20% each generated distinct backlashes — price-protection complaints in China ("early buyers lose out"), quality-versus-price criticism in Europe, and the disappearance of the old China-arbitrage advantage in Southeast Asia[9][24][14][36]. Fourth, distrust around creative direction compounded the financial bad news. The "vulgar" criticism surrounding Demna's Spring 2027 show, the "lost the plot" commentary, and resale data showing relatively weak per-model retention for some Michele-era bag lines together amplified, for both investors and consumers, the core question of "can the current creative bet revive demand?"[12][13][19].
@@ -161,6 +179,8 @@ In short, the accurate description is that this week's momentum deterioration is
 ## 3. So What Does This Mean — Marketing Implications
 
 Our read is that this week's marketing implication lies not in "increasing exposure" but in "repairing trust" — because the signals on all three levels, aspiration, purchase intent, and competitive position, point to eroding trust. First, on the aspiration dimension, this week's signal is negative. Falling resale value for some models, "overrated" criticism, and "lost the plot" creative discourse directly erode the brand's status as an object of desire — its aspirational equity[13][19][32]. Resale weakness in particular signals that this consumer segment no longer trusts Gucci as a store of value, which is why we judge that marketing's task is not promoting new products but telling a value-preservation story for iconic lines. The counterweight is that some icons — the Jackie 1961 and Horsebit 1955 — held their resale value relatively well in the secondhand market, which points to where the message should concentrate[13].
+
+![Some Michele-era bag lines show weak per-model resale retention; icons like the Jackie and Horsebit hold steady](https://www.verifyluxenow.com/storage/media_webp/2026-05/1778769900_xZQ8v9fDULoI6DMR.webp "Reddit r/handbags / resale guide aggregation|https://www.verifyluxenow.com/guides/gucci-resale-investment-guide")
 
 Second, on purchase intent, pricing strategy is a double-edged sword. Price cuts are, of course, aimed at winning back middle-class consumers. But with China's price-protection grievances and North America's price-hike fatigue coexisting, the perception that "prices go up freely but early buyers are shortchanged when they come down" most directly damages repeat purchase and loyalty[24][20]. What this means is that the fairness of the communication around price adjustments, more than the adjustments themselves, will determine purchase intent in this phase. In Southeast Asia, separately, as the old China-arbitrage advantage disappears, the logic of travel-retail demand is shifting, requiring a redesign of duty-free and travel-channel messaging[36].
 
@@ -172,6 +192,8 @@ Our base case is neutral — the earnings-shock news cycle subsides and the inte
 
 First, the upside scenario (low probability) is the path in which the mood partially reverses if sales of price-adjusted items visibly rebound in China during Double 11 (November 11), if the GucciCore cruise arrival and ambassador activity convert into icon-centered demand, and if fair compensation and communication around price-protection grievances are discussed positively within communities[5][24][38]. The condition is clear — a "consumer-trust recovery" signal, not an earnings number, must emerge organically from within communities.
 
+![GucciCore 2027 cruise collection arrives at Cheongdam flagship](http://www.ktnews.com/news/thumbnail/202605/146124_125603_359_v150.jpg "Korea Textile News|https://www.ktnews.com/news/articleView.html?idxno=146124")
+
 Second, the neutral scenario (base case) is the path in which, as the earnings-shock news cycle gradually subsides, the intensity of criticism eases, but with China's recovery timeline stretched to 12-24 months, a negative undertow persists without a clear rebound. Here, activation coverage (the cruise campaign, the Dubai reopening, ambassadors) continues to appear, but it does not translate into improved sentiment[7][27].
 
 Third, the downside scenario is the path in which the mood worsens further if price-protection grievances spread during Double 11, if additional analyst downgrades or management-stability concerns surface, or if criticism of Demna's creative direction recombines with weak resale data to harden into a "structural decline" narrative[11][13][24]. The condition is that trust issues (price protection, quality, creative direction) recombine with the financial bad news.
@@ -181,6 +203,8 @@ Third, the downside scenario is the path in which the mood worsens further if pr
 This week's recommendations share one principle — spend resources on measures that repair trust, not on increasing exposure. Five actions follow from it.
 
 First, make price-protection communication fair, immediately. Ahead of China's Double 11, clearly announce the price-protection policy to recent purchasers, and proactively notify them via CRM/VIC channels so that compensation-denial cases do not become a community symbol. Target: customers who purchased within the last 60-90 days; channel: WeChat and in-store clienteling; timing: before November 11[24][36].
+
+![China official price cuts and price-protection complaints](https://a.zdmimg.com/202610/23/6adaa1c4c70be8343.jpg_fo742.jpg "Weibo aggregator (via smzdm)|https://post.smzdm.com/p/arzr5e87/")
 
 Second, shift messaging toward an icon value-preservation narrative. Reduce emphasis on new-product and experimental ready-to-wear exposure, and foreground icon lines with confirmed resale strength — the Jackie 1961 and Horsebit 1955 — through a "lasting value" lens. This directly addresses resale weakness and "overrated" criticism. Channel: owned digital and retail display; timing: immediate[13][32].
 
