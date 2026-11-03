@@ -192,7 +192,6 @@ The following 12-month watch points carry hypothesis labels. [Hypothesis] First,
 ## 9. Sources
 [1] The Conversation — Analysis of McQueen-era works and legacy (incl. 2012 OBE) — https://theconversation.com/as-sarah-burton-leaves-alexander-mcqueen-an-expert-explores-her-legacy-through-five-iconic-designs-213579
 
-![Analysis of McQueen-era works and legacy (incl. 2012 OBE)](https://images.theconversation.com/files/548296/original/file-20230914-15-kg674a.jpg?ixlib=rb-4.1.1&rect=7%2C74%2C2489%2C1243&q=45&auto=format&w=1356&h=668&fit=crop "The Conversation|https://theconversation.com/as-sarah-burton-leaves-alexander-mcqueen-an-expert-explores-her-legacy-through-five-iconic-designs-213579")
 [2] Wikipedia — Sarah Burton (career, appointment, and departure timeline) — https://en.wikipedia.org/wiki/Sarah_Burton
 [3] Business of Fashion — Givenchy AW2025 debut review (first principles, house codes) — https://www.businessoffashion.com/reviews/fashion-week/givenchy-paris-fashion-week-autumn-winter-2025-review/
 [4] Wikipedia — Wedding dress of Catherine Middleton (dress details, 29% sales increase) — https://en.wikipedia.org/wiki/Wedding_dress_of_Catherine_Middleton
@@ -200,6 +199,8 @@ The following 12-month watch points carry hypothesis labels. [Hypothesis] First,
 [6] W Magazine — Sarah Burton Givenchy interview (1952 archive, clothes for real life, debut season concept) — https://www.wmagazine.com/fashion/givenchy-sarah-burton-interview-kaia-gerber-2025
 [7] Vogue Adria — Analysis of Burton's remarks (philosophy, femininity, atelier) — https://vogueadria.com/sarah-burton-givenchy-intervju/
 [8] WWD — Givenchy Fall 2025 campaign (multigenerational female casting) — https://wwd.com/fashion-news/designer-luxury/givenchy-fall-2025-campaign-kaia-1238066700/
+
+![Givenchy Fall 2025 campaign (multigenerational female casting)](https://wwd.com/wp-content/uploads/2025/08/givenchy-fall-2025-campaign-csty-01.jpg?crop=0px%2C131px%2C1600px%2C897px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/givenchy-fall-2025-campaign-kaia-1238066700/")
 [9] The Impression — Givenchy Spring 2026 review (powerful femininity, sophisticated tailoring) — https://theimpression.com/givenchy-spring-2026-fashion-show-review/
 [10] Business of Fashion — Williams's Givenchy departure, turnaround context, Luca Solca — https://www.businessoffashion.com/articles/luxury/matthew-williams-to-exit-givenchy/
 [11] Fast Company — Amandine Ohayon named Givenchy CEO, succeeding Alessandro Valenti who moves to Christian Dior Couture (effective 2026-01-09) — https://fastcompany.co.za/co-design/2026-01-09-amandine-ohayon-appointed-ceo-of-givenchy-marking-a-strategic-shift-for-lvmh/

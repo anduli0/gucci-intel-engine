@@ -36,8 +36,9 @@ def og_image(url, cache):
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,*/*"})
         with urllib.request.urlopen(req, timeout=12) as r:
             head = r.read(600_000).decode("utf-8", "ignore")
-    except Exception as e:  # fetch failure is not cached: retried next run
+    except Exception as e:  # 403/timeout pages are cached as none too; delete the cache entry to retry
         print(f"  skip {url[:80]} ({type(e).__name__})")
+        cache[url] = None
         return None
     img = None
     m = META_RE.search(head) or META_RE2.search(head)
@@ -59,11 +60,21 @@ def sources(lines):
 
 
 def add_figures(text, cache):
-    lines = text.split("\n")
+    lines, seen, n = [], set(), 0
+    # NO duplicate photos in one edition: a repeated figure line (same image) is dropped,
+    # and a section whose only candidate image is already used gets no figure at all.
+    for ln in text.split("\n"):
+        m = re.match(r"^!\[[^\]]*\]\((\S+)", ln)
+        if m:
+            if m.group(1) in seen:
+                n -= 1
+                continue
+            seen.add(m.group(1))
+        lines.append(ln)
     srcs = sources(lines)
     if not srcs:
-        return text, 0
-    out, i, n, used = [], 0, 0, set()
+        return "\n".join(lines), n
+    out, i, used = [], 0, set()
     while i < len(lines):
         if not SEC_RE.match(lines[i]):
             out.append(lines[i])
@@ -80,7 +91,8 @@ def add_figures(text, cache):
                     if num in srcs and num not in used:
                         pub, desc, url = srcs[num]
                         img = og_image(url, cache)
-                        if img:
+                        if img and img not in seen:
+                            seen.add(img)
                             fig = (k, num, pub, desc, url, img)
                             break
                 if fig:
@@ -108,7 +120,7 @@ def main():
             halves = text.split(MARK)
             done = [add_figures(h, cache) for h in halves]
             n = sum(c for _, c in done)
-            if n:
+            if n or MARK.join(t for t, _ in done) != text:
                 total += n
                 print(f"{p.relative_to(ROOT)}: +{n} figures")
                 if not dry:
@@ -124,4 +136,7 @@ if __name__ == "__main__":
     _r, _n = add_figures(_t, {"https://example.invalid/a": "https://img/x.jpg"})
     assert _n == 1 and '![desc](https://img/x.jpg "Pub|https://example.invalid/a")' in _r, _r
     assert add_figures(_r, {"https://example.invalid/a": "https://img/x.jpg"})[1] == 0
+    _d = _r + "\n## 2. B\n\nz [2] w\n\n## 출처\n\n[2] Pub — d2 — https://example.invalid/b\n"
+    _r2, _n2 = add_figures(_d, {"https://example.invalid/a": "https://img/x.jpg", "https://example.invalid/b": "https://img/x.jpg"})
+    assert _n2 == 0 and _r2.count("![") == 1, _r2  # same image again -> omitted
     main()

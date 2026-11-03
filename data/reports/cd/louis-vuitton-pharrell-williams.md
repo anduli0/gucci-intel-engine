@@ -44,9 +44,10 @@
 
 퍼렐의 철학은 그의 발언에서 선명하게 드러난다. 그는 루이 비통을 제품이 아니라 취향의 큐레이션으로 규정하며, "당신은 제품을 사랑하지만, 그보다 더 깊게는 취향의 동질성을 구현하는 문화에 대한 사랑"이라고 말한다[5]. 이는 그가 자신을 디자이너가 아니라 문화의 지휘자로 위치시키는 자기 규정과 짝을 이룬다. 그는 데뷔를 앞두고 지울 수 없는 진지한 흔적을 남기고 싶었다는 포부를 밝혔고, 스피디 재해석에 대해서는 모든 삶의 방식을 아우르는 일상의 아이콘을 만들고자 했다고 설명한다[5].
 
-![퍼렐 인터뷰, 취향의 큐레이션·문화, 지울 수 없는 흔적, 다섯 모드 프레임, 스피디 재해석](https://sharpmagazine.com/wp-content/uploads/2024/04/Pharrell-Williams-LVPFW-4-2024-F1.jpg "Sharp Magazine|https://sharpmagazine.com/2024/04/22/pharrell-williams-interview-louis-vuitton-2024/")
 
 이 언어는 세 가지 전략적 함의를 갖는다. 첫째, 문화·취향 우선 서사는 LV 남성 라인을 옷의 집합이 아니라 라이프스타일 정체성으로 재정의하려는 시도다. 그의 다섯 모드 프레임은 이 관점을 상품 아키텍처로 구현한 것으로, 추상적 컨셉이 아니라 실제 고객의 삶의 장면에서 출발한다[5]. 둘째, 그가 스스로를 디자이너가 아니라 문화를 지휘하는 사람으로 위치시키는 것은—이는 그의 발언에서 읽어낸 분석적 규정이다—정규 교육 부재라는 약점을 오히려 포지셔닝의 무기로 전환하는 논리다. 즉 재단의 정교함이 아니라 문화적 감도가 그의 부가가치라는 주장이며, 비평계가 정규 훈련 부재를 유보의 근거로 반복 제기하는 지점과 정면으로 맞선다[8]. 셋째, 그의 셀럽 네트워크(제이지·비욘세·리한나·르브론)는 단순 게스트가 아니라 브랜드 서사의 구성 요소로 동원되며, 쇼 자체가 미디어 이벤트로 설계된다[10]. 다만 비평계는 이 문화 서사가 종종 옷 자체보다 크게 울린다고 지적해왔고, 실제로 최근 SS27 리뷰는 그가 눈속임을 배제하고 완벽한 부클레 오버코트 같은 위대한 옷의 본질로 되돌아간 절제를 그의 최고작으로 평가했다[13].
+
+![정규 패션 교육 부재에 대한 비평계 유보](http://static1.squarespace.com/static/55f45174e4b0fb5d95b07f39/t/63f0f8bc53d5cf1d9848b1da/1676736700843/Pharrell-Williams-Tiffany-glasses-SM.png?format=1500w "Anne of Carversville / Complex|https://anneofcarversville.com/fashion/2023/2/18/pharrell-williams-louis-vuitton-mens")
 
 ## 5. 현 하우스에서의 행보
 
@@ -162,9 +163,10 @@ The fourth and most distinctive pillar is his grammar of staging shows as cultur
 
 Pharrell's philosophy is made explicit in his own words. He frames Louis Vuitton not as a product but as a curation of taste, saying, "You love the product but, deeper than that, it's a love for the culture that embodies a like-mindedness of taste"[5]. This pairs with his self-positioning as a conductor of culture rather than a designer. Ahead of his debut he expressed a desire to leave an indelible, serious mark, and of the Speedy reinterpretation he has said he wanted to create an everyday icon spanning every way of life[5].
 
-![Pharrell interview: curation of taste/culture, indelible mark, five-mode framework, Speedy reinterpretation](https://sharpmagazine.com/wp-content/uploads/2024/04/Pharrell-Williams-LVPFW-4-2024-F1.jpg "Sharp Magazine|https://sharpmagazine.com/2024/04/22/pharrell-williams-interview-louis-vuitton-2024/")
 
 This language carries three strategic implications. First, the culture-and-taste-first narrative is an attempt to redefine LV menswear not as a collection of clothes but as a lifestyle identity. His five-mode framework translates this view into product architecture, starting not from abstract concepts but from actual scenes in customers' lives[5]. Second, his self-positioning as a conductor of culture rather than a designer — an analytical framing drawn from his own statements — converts the apparent weakness of lacking formal training into a positioning weapon. The implicit claim is that his added value lies not in the precision of tailoring but in cultural sensitivity, a claim that runs directly counter to critics' recurring citation of his lack of formal training as grounds for reservation[8]. Third, his celebrity network — Jay-Z, Beyoncé, Rihanna, LeBron James — is mobilized not as mere guests but as a structural component of the brand narrative, with the shows themselves engineered as media events[10]. Critics, however, have repeatedly noted that this cultural narrative often resonates louder than the clothes themselves; notably, a recent SS27 review praised him for restraint — for eschewing gimmicks and getting back to the bare bones of great clothes, with flawless boucle overcoats — calling it his best work to date[13].
+
+![Critical reservations over lack of formal fashion education](http://static1.squarespace.com/static/55f45174e4b0fb5d95b07f39/t/63f0f8bc53d5cf1d9848b1da/1676736700843/Pharrell-Williams-Tiffany-glasses-SM.png?format=1500w "Anne of Carversville / Complex|https://anneofcarversville.com/fashion/2023/2/18/pharrell-williams-louis-vuitton-mens")
 
 ## 5. Track Record at the Current House
 
