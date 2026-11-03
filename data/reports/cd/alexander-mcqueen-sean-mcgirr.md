@@ -22,7 +22,7 @@
 
 션 맥거는 1988년 아일랜드 더블린에서 태어나 센트럴 세인트 마틴스에서 패션 석사를 마친 디자이너로, 2023년 10월 3일 케링과 알렉산더 맥퀸의 공식 발표를 통해 크리에이티브 디렉터로 선임됐다[1][2]. 그는 리 알렉산더 맥퀸 사후 13년간 하우스를 이끈 세라 버튼의 후임이며—버튼은 1996년 합류해 2023년까지 총 26년을 재직했고 그중 2010년 이후 13년을 크리에이티브 디렉터로 보냈다[20]—부임 당시 대중에게는 거의 알려지지 않은 인물이었다. 현재 지위는 퇴진(departing)이다. 2026년 10월 15일 케링은 맥거가 약 3년 재임 끝에 맥퀸 크리에이티브 리더십을 떠난다고 공식 확인했고, 후임 크리에이티브 리더십을 곧 발표하겠다고 밝혔다[17][18]. 하우스의 모기업은 프랑스 럭셔리 그룹 케링이다[2][7]. 브랜드는 강도 높은 비용 구조조정과 CEO 교체를 동시에 겪어 왔으며, 케링은 2026년 6월 4일자로 프라다에서 제너럴 매니저를 지낸 잔프랑코 다티스를 맥퀸 신임 CEO로 선임했다—그는 런던을 거점으로 케링 CEO 루카 데 메오에게 보고한다[10]. 맥거 재임의 마지막 결정적 이벤트는 2026년 9월 20일 런던 링컨스 인 채플에서 열린 SS27 남녀 통합 런웨이로, 발표 당시에는 하우스의 런던 '홈커밍'으로 선전됐으나 10월 15일 이탈 확인으로 그의 마지막 컬렉션이 됐다[3][18][19].
 
-![케링, 션 맥거 맥퀸 크리에이티브 디렉터 선임 발표 및 경력(유니클로·드리스 반 노튼·JW 앤더슨)](https://wwd.com/wp-content/uploads/2023/10/Photo-Sean-McGirr_Photographer-Robin-Galiegue.jpg?crop=0px%2C73px%2C3998px%2C2241px&resize=1000%2C563 "WWD(유료 미러, 교차확인)|https://wwd.com/fashion-news/fashion-features/kering-set-name-sean-mcgirr-creative-director-alexander-mcqueen-1235858269/")
+![케링, 션 맥거 맥퀸 크리에이티브 디렉터 선임 발표 및 경력(유니클로·드리스 반 노튼·JW 앤더슨)](https://wwd.com/wp-content/uploads/2023/10/Photo-Sean-McGirr_Photographer-Robin-Galiegue.jpg?w=1200 "WWD(유료 미러, 교차확인)|https://wwd.com/fashion-news/fashion-features/kering-set-name-sean-mcgirr-creative-director-alexander-mcqueen-1235858269/")
 
 ## 2. 경력과 전임 하우스 성과
 
@@ -54,7 +54,7 @@
 
 상업 전환 측면에서 하우스는 액세서리 축을 강화하는 실용적 노선을 병행했다. 2025 봄 캠페인은 벨트·샌들·백을 포함한 T-바 라인 등 액세서리 판매에 초점을 맞췄고[15], SS26는 구조조정을 지원할 수 있는 보다 실용적(pragmatic) 접근을 반영하면서도 레드카펫용 쇼피스를 병행했다는 평가를 받았다[13]. 2026년 8월에는 FW26 '누아르(Noir)' 캠페인을 공개했는데, 하우스의 오랜 뮤즈 캐런 엘슨을 팔로마 엘세서·재키 후퍼·샤오원주와 함께 기용했고 촬영은 글렌 럭포드가 맡았다[16]. 히치콕적 "음산한 글래머(sinister glamour)" 무드로 연출된 이 캠페인은 3월 파리에서 선보인 컬렉션을 영화적으로 확장한 시각 장치로, 맥거가 정체성 중심의 다크 무드 언어를 캠페인 층위에서 일관되게 밀어붙이고 있음을 보여준다—다만 캠페인 화력 자체는 활성화 커버리지(브랜드 자체 연출)일 뿐 소비자 반응 개선의 근거가 아니므로, 마케팅 데이터 포인트로만 읽어야 한다[16].
 
-![맥퀸 2025 봄 캠페인 및 T-바 액세서리 라인](https://wwd.com/wp-content/uploads/2025/02/1080p-1440p-AMQ.jpg?crop=0px%2C198px%2C1080px%2C605px&resize=1000%2C563 "WWD(유료 미러, 교차확인)|https://wwd.com/fashion-news/fashion-scoops/alexander-mcqueen-spring-2025-campaign-1236904871/")
+![맥퀸 2025 봄 캠페인 및 T-바 액세서리 라인](https://wwd.com/wp-content/uploads/2025/02/1080p-1440p-AMQ.jpg?w=1200 "WWD(유료 미러, 교차확인)|https://wwd.com/fashion-news/fashion-scoops/alexander-mcqueen-spring-2025-campaign-1236904871/")
 
 조직 변화는 극적이었다. 케링은 2026년 6월 프라다에서 제너럴 매니저를 지낸 잔프랑코 다티스를 맥퀸 신임 CEO로 선임해 브랜드 재건과 규율 있는 비용 구조를 맡겼다[10]. 매장 절반 폐쇄, 런던·이탈리아 인력 감축이라는 강도 높은 다이어트가 진행됐고, 맥거는 이 축소 국면 한가운데서 크리에이티브 방향을 잡아야 하는 이중 과제를 안고 있었다[7][11].
 
@@ -78,7 +78,6 @@
 
 향후 12개월 최우선 관전 포인트는 맥퀸의 후임 크리에이티브 디렉터 지명과 그 데뷔 방향이다[18][19]. 케링은 후임을 가까운 시일 내 발표하고 데뷔는 런던에서 이뤄질 것이라고만 밝혔을 뿐 2026년 10월 29일 기준 이름을 공개하지 않았다. 〈가설〉 첫째, 데 메오가 공언한 "대담한 새 방향"[17]이 맥거식 하위문화·재해석 노선과 단절할지, 아니면 날카로운 테일러링이라는 하우스 정통으로 더 뚜렷이 회귀할지가 후임 인선의 성격을 가른다—후자라면 맥거의 실험 전체가 과도기로 재평가될 수 있다. 〈가설〉 둘째, 다티스 CEO의 비용 규율과 매장 절반 폐쇄가 지속되는 가운데, 후임이 상업 반등을 얼마나 빠르게 입증하라는 압박을 받을지가 관건이다—트레이드 서사는 이미 디자이너에게 '수년이 아니라 몇 시즌'만 주어지는 가속된 판결 사이클을 지적한다[21]. 〈미확인〉 후임 CD의 신원·데뷔 시점, 맥거의 다음 행선지, 케링의 추가 조직 개편, 매출 반등 시점은 현재 공개 근거로 확인되지 않는다. 구찌 인텔리전스 관점에서는 맥퀸 후임 인선이 케링 전반의 창작 재편이 '소진형 교체'에 그치는지 '유효한 리셋'으로 전환되는지를 가늠하는 선행 지표라는 점에서 지속 추적 가치가 높으며, 이 결과는 뎀나 구찌가 받는 그룹 신뢰성 할인의 방향을 함께 좌우한다.
 
-![맥거 맥퀸 3년 만에 이탈(최종 컬렉션 SS27 런던 링컨스 인 채플, 접힌 천사 날개 조각적 숄더, 후임 미지명·데뷔 런던 예상, 2025년 매출 2억 유로 미만 업계 추정)](https://www.designscene.net/wp-content/uploads/2023/10/featured-01-1.jpg "Design Scene|https://www.designscene.net/2026/10/sean-mcgirr-exits-mcqueen.html")
 
 ## 주석
 
@@ -142,7 +141,7 @@ Seán McGirr is a Dublin-born designer who became creative director of Kering-ow
 
 Seán McGirr was born in 1988 in Dublin, Ireland, and completed a fashion master's degree at Central Saint Martins before being named creative director of Alexander McQueen in a joint Kering–McQueen announcement on October 3, 2023[1][2]. He succeeded Sarah Burton — who joined the house in 1996 and spent 26 years there through 2023, the last 13 of them (from 2010) as creative director following the death of founder Lee Alexander McQueen[20] — and at the time of his appointment he was largely unknown to the general public. His current status is departing. On October 15, 2026, Kering officially confirmed that McGirr would leave creative leadership of McQueen after roughly three years, saying it would announce new creative leadership soon[17][18]. The house's parent company is the French luxury group Kering[2][7]. The brand has undergone intensive cost restructuring alongside a CEO change; effective June 4, 2026, Kering named Gianfranco D'Attis — most recently general manager at Prada — as McQueen's new CEO, based in London and reporting to Kering group CEO Luca de Meo[10]. The last decisive event of McGirr's tenure was the SS27 combined menswear/womenswear runway at London's Lincoln's Inn Chapel on September 20, 2026 — billed at the time as the house's London "homecoming," but confirmed by the October 15 exit announcement as his final collection[3][18][19].
 
-![Kering announcement naming Seán McGirr creative director of McQueen, and his career background (Uniqlo, Dries Van Noten, JW Anderson)](https://wwd.com/wp-content/uploads/2023/10/Photo-Sean-McGirr_Photographer-Robin-Galiegue.jpg?crop=0px%2C73px%2C3998px%2C2241px&resize=1000%2C563 "WWD (paywalled mirror, cross-checked)|https://wwd.com/fashion-news/fashion-features/kering-set-name-sean-mcgirr-creative-director-alexander-mcqueen-1235858269/")
+![Kering announcement naming Seán McGirr creative director of McQueen, and his career background (Uniqlo, Dries Van Noten, JW Anderson)](https://wwd.com/wp-content/uploads/2023/10/Photo-Sean-McGirr_Photographer-Robin-Galiegue.jpg?w=1200 "WWD (paywalled mirror, cross-checked)|https://wwd.com/fashion-news/fashion-features/kering-set-name-sean-mcgirr-creative-director-alexander-mcqueen-1235858269/")
 
 ## 2. Career and Prior House Performance
 
@@ -174,7 +173,7 @@ McGirr's debut was the FW24 combined menswear/womenswear show, staged on a rainy
 
 On the commercial side, the house pursued a parallel, pragmatic track that strengthened accessories. The Spring 2025 campaign focused on accessory sales, including belts, sandals, and the T-bar bag line[15], and SS26 was seen as reflecting a more pragmatic approach that could support the restructuring effort, even as it paired that pragmatism with red-carpet-ready showpieces[13]. In August 2026, the house unveiled its FW26 "Noir" campaign, casting longtime house muse Karen Elson alongside Paloma Elsesser, Jacky Hooper and Xiao Wen Ju, shot by Glen Luchford[16]. Staged in a Hitchcock-esque "sinister glamour" mood, the campaign cinematically extends the collection McGirr showed in Paris in March 2026 and shows him pushing an identity-driven dark-mood language consistently at the campaign layer — though campaign firepower is itself activation coverage (brand-produced imagery), not evidence of improved consumer reception, and should be read only as a marketing data point[16].
 
-![McQueen's Spring 2025 campaign and T-bar accessory line](https://wwd.com/wp-content/uploads/2025/02/1080p-1440p-AMQ.jpg?crop=0px%2C198px%2C1080px%2C605px&resize=1000%2C563 "WWD (paywalled mirror, cross-checked)|https://wwd.com/fashion-news/fashion-scoops/alexander-mcqueen-spring-2025-campaign-1236904871/")
+![McQueen's Spring 2025 campaign and T-bar accessory line](https://wwd.com/wp-content/uploads/2025/02/1080p-1440p-AMQ.jpg?w=1200 "WWD (paywalled mirror, cross-checked)|https://wwd.com/fashion-news/fashion-scoops/alexander-mcqueen-spring-2025-campaign-1236904871/")
 
 Organizational change was dramatic. In June 2026, Kering appointed Gianfranco D'Attis — most recently general manager at Prada — as McQueen's new chief executive, tasking him with rebuilding the brand under a disciplined cost structure[10]. A high-intensity diet was underway — the closure of half the stores, and job cuts in both London and Italy — and McGirr had to chart creative direction in the middle of this contraction[7][11].
 

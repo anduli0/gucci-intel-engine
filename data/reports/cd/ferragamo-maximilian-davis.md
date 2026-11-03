@@ -22,7 +22,8 @@
 
 데이비스의 현재 위치는 '4년 차 유임 CD'라는 한 줄로 요약된다 — 2022년 3월 14일 발표, 3월 16일 발효로 폴 앤드루(Paul Andrew)의 후임이 됐고, 95년 역사의 하우스에서 최초의 흑인 크리에이티브 디렉터로 기록됐다[1][2]. 영입 당시 그는 스물일곱이었고, 자기 이름 레이블 '맥시밀리언(Maximilian)'을 2년 운영한 신예였다 — 즉, 대형 하우스가 검증된 거장이 아니라 떠오르는 젊은 감각에 걸었다는 뜻이다[2]. 다만 이 선택에는 균형추가 필요하다 — 데이비스를 뽑은 고베티 CEO가 2025년 3월 이탈하면서, 그를 영입한 경영진과 그의 창작은 이제 분리된 상태로 평가받는다[4][5].
 
-![페라가모, 맥시밀리언 데이비스 신임 크리에이티브 디렉터 임명 보도](https://robbreport.com/wp-content/uploads/2022/03/maximilian-davis-salvatore-ferragamo.jpg?w=681&h=383&crop=1 "Robb Report|https://robbreport.com/style/menswear/salvatore-ferragamo-maximilian-davis-new-creative-director-1234668589/")
+![가문의 데이비스·전략 재신임, CEO 이탈에도 유지](https://wwd.com/wp-content/uploads/2025/03/ferragamo-fw25-rtw-bsb-da-0127.jpg?w=1200 "WWD|https://wwd.com/business-news/financial/ferragamo-family-stands-strategy-supports-creative-director-maximilian-davis-despite-sales-dip-exit-of-ceo-1237027041/")
+
 
 페라가모는 피렌체에 뿌리를 둔 이탈리아 가죽·신발 유산 하우스다 — 2026년 9개월 매출에서 신발이 45%, 가죽제품이 41%를 차지해 여전히 액세서리 중심 구조를 유지한다[3]. 한편 창업 가문(레오나르도 페라가모 회장)이 경영 통제력을 쥔 상장사라는 점에서, 데이비스의 재임 안정성은 전문경영인 CEO가 아니라 가문의 의지에 더 크게 묶여 있다고 보는 것이 정확하다[4].
 
@@ -120,7 +121,8 @@ The conclusion of this dossier converges on one point — Maximilian Davis was r
 
 Davis's current position reduces to one line — "fourth-year incumbent CD." Announced 14 March 2022 and effective 16 March, he succeeded Paul Andrew and became the first Black creative director in the house's 95-year history[1][2]. He was twenty-seven at recruitment and had run his eponymous label, Maximilian, for only two years — put differently, a major house bet on a rising young sensibility rather than a proven master[2]. That bet needs a counterweight, though — with Gobbetti, the CEO who hired him, gone in March 2025, Davis's work is now judged apart from the management that brought him in[4][5].
 
-![Ferragamo taps Maximilian Davis as new creative director](https://robbreport.com/wp-content/uploads/2022/03/maximilian-davis-salvatore-ferragamo.jpg?w=681&h=383&crop=1 "Robb Report|https://robbreport.com/style/menswear/salvatore-ferragamo-maximilian-davis-new-creative-director-1234668589/")
+![Family stands firm on Davis and strategy despite the CEO exit](https://wwd.com/wp-content/uploads/2025/03/ferragamo-fw25-rtw-bsb-da-0127.jpg?w=1200 "WWD|https://wwd.com/business-news/financial/ferragamo-family-stands-strategy-supports-creative-director-maximilian-davis-despite-sales-dip-exit-of-ceo-1237027041/")
+
 
 Ferragamo is a Florence-rooted Italian leather-and-footwear heritage house — footwear was 45 percent and leather goods 41 percent of nine-month 2026 revenue, so the accessory-led structure holds[3]. Meanwhile, as a listed company where the founding family (chairman Leonardo Ferragamo) keeps managerial control, the accurate description is that Davis's tenure stability is tied more to the family's will than to any professional CEO[4].
 

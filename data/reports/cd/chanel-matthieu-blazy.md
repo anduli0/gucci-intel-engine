@@ -40,7 +40,7 @@
 
 블라지의 시그니처 코드는 손의 밀도로 압축된다. 그는 로고 없는 럭셔리의 정통성을 신봉하는데, 보테가 베네타에 대해 "우리에게는 로고가 없다는 것이 강점"이라며 이니셜만으로 충분한 하우스 역사를 매우 팝하고 모던한 것으로 읽었다.[9] 이 철학은 트롱프뢰유 가죽처럼 물성 자체가 반전을 만드는 오브제, 즉 겉보기와 실체가 어긋나는 공예로 구현됐다.[3]
 
-![블라지 인터뷰: 로고 없는 럭셔리·이니셜만으로 충분·매우 팝하고 모던한 무드](https://wwd.com/wp-content/uploads/2023/06/lbovi_10a.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/fashion-news/designer-luxury/bottega-veneta-matthieu-blazy-art-culture-surprises-1235679778/")
+![블라지 인터뷰: 로고 없는 럭셔리·이니셜만으로 충분·매우 팝하고 모던한 무드](https://wwd.com/wp-content/uploads/2023/06/lbovi_10a.jpg?w=1200 "WWD|https://wwd.com/fashion-news/designer-luxury/bottega-veneta-matthieu-blazy-art-culture-surprises-1235679778/")
 
 그의 연출 문법은 거대 서사가 아니라 작은 디테일에서 출발한다. 그는 "때로 아주 작은 천 조각이나 마감에서 시작해 실루엣으로 확장된다"고 창작 과정을 설명하며, 손으로 만든 것에는 미세한 흔적이 실수가 아닌 과정의 일부로 남는다고 본다.[2] 기술과 공예의 균형에 대해서도 그는 기계에만 맡길 수 없다는 원칙을 고수한다.[2] 샤넬로 옮겨온 뒤 이 문법은 코드의 환원으로 나타났다. 그는 샤넬의 코드는 축소해도 여전히 샤넬로 읽힌다고 보며, 데뷔 쇼를 가난하지는 않되 거의 가난에 가까운 절제로 밀어붙였다고 밝혔다.[8] 원단의 무게를 지우기 위해 팀에게 계속해서 더 가볍게를 주문했다는 일화는 그의 촉각적 완성도 집착을 보여준다.[8] 데뷔 컬렉션에서 그는 부클레·트위드·프레이드 헴·부드러운 가죽으로 샤넬 공예를 재해석하고, 카멜리아·진주·밀 이삭 모티프를 조각적 감각으로 다뤘으며, 아이코닉 가방을 부드러운 실루엣과 최소 브랜딩으로 재구성했다.[4]
 
@@ -196,7 +196,7 @@ The turning point was Bottega Veneta. He joined as ready-to-wear design director
 
 Blazy's signature codes compress into density of the hand. He believes in the authenticity of logoless luxury, reading Bottega Veneta's no-logo history—"the chance we have at Bottega is that we don't have a logo," with initials being enough—as very pop and very modern.[9] This philosophy materializes in objects like trompe-l'œil leather, where materiality itself creates the twist, a craft in which appearance and substance diverge.[3]
 
-![Blazy interview: logoless luxury, initials are enough, very pop and very modern mood](https://wwd.com/wp-content/uploads/2023/06/lbovi_10a.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/fashion-news/designer-luxury/bottega-veneta-matthieu-blazy-art-culture-surprises-1235679778/")
+![Blazy interview: logoless luxury, initials are enough, very pop and very modern mood](https://wwd.com/wp-content/uploads/2023/06/lbovi_10a.jpg?w=1200 "WWD|https://wwd.com/fashion-news/designer-luxury/bottega-veneta-matthieu-blazy-art-culture-surprises-1235679778/")
 
 His staging grammar starts not from grand narrative but from small detail. He describes beginning "from a very small scrap of fabric or a finishing" and extending outward to silhouette, seeing the tiny traces in handmade work not as errors but as part of the process.[2] On the balance of technology and craft, he holds that it cannot all come from the machine.[2] At Chanel this grammar appears as a reduction of codes. He says the codes of Chanel can be reduced and still read as Chanel, and pushed his debut toward a restraint he described as almost poor without being poor.[8] The anecdote of repeatedly urging his team to make things ever lighter shows his obsession with tactile finish.[8] In the debut he reinterpreted Chanel craft through bouclé, tweed, frayed hems, and supple leather, handled camellia, pearl, and wheat-sheaf motifs with a sculptural sensibility, and rebuilt iconic bags with softened silhouettes and minimal branding.[4]
 

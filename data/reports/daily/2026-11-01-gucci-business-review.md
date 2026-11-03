@@ -17,7 +17,7 @@
 
 뎀나 데뷔 컬렉션이 번스타인에서 7.6/10 "홈런은 아니다"를 받았고[8], 북미 퍼스포럼은 품질 불만을 누적했으며[13], 유럽 커뮤니티는 캠페인을 "영감 없다"·"쓰레기"로 깎았다[15]. 중국 가격 서사의 혼선 — 최대 40% 인하와 10% 인상이 동시에 떠돈다 — 은 데 메오 CEO의 "가격을 너무 높이 밀어붙였다" 인정과 맞물려 가격 신뢰를 흔든다[16][20]. 다만 균형추가 필요하다 — 활성화 커버리지인 프리마베라 캠페인은 공식 계정 노출이지 공중의 호감이 아니고[17], 데뷔 혹평도 전임자보다 나은 점수라 '실패 확정'으로 읽기엔 과하다[8]. 판단은 품질·가격·디자인 비판이 실재하는 구조적 리스크이되 아직은 지연의 신호라는 것이다.
 
-![뎀나 데뷔 컬렉션, 번스타인 7.6/10 업계 반응](https://wwd.com/wp-content/uploads/2025/09/gucci-demna-ss26-preview-looks-aks-08.jpg?crop=0px%2C184px%2C2000px%2C1119px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/fashion-features/demna-gucci-industry-experts-react-first-collection-1238213131/")
+![뎀나 데뷔 컬렉션, 번스타인 7.6/10 업계 반응](https://wwd.com/wp-content/uploads/2025/09/gucci-demna-ss26-preview-looks-aks-08.jpg?w=1200 "WWD|https://wwd.com/fashion-news/fashion-features/demna-gucci-industry-experts-react-first-collection-1238213131/")
 
 ## 3. 내일 볼 것과 이번 주 권고 — 매장·가격·전환, 세 전선에서 증거를 만들 것
 

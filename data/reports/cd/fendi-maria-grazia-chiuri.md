@@ -18,7 +18,7 @@
 
 마리아 그라치아 치우리는 발렌티노 공동 크리에이티브 디렉터를 거쳐 2016년 디올 최초의 여성 크리에이티브 디렉터가 됐고, 9년간 페미니즘 서사와 상업 성과를 동시에 끌어올린 뒤 2025년 5월 디올을 떠났다.[6][7] 2025년 10월 그는 자신이 1989년 커리어를 시작한 펜디에 치프 크리에이티브 오피서로 복귀했으며, 킴 존스(여성복)와 실비아 벤투리니 펜디(공백기 대행)를 승계해 여성복·남성복·오트 쿠튀르·액세서리 전 부문을 통합 지휘한다.[3][5] 2026년 2월 밀라노 여성복 데뷔는 "덜 나(I), 더 우리(Us)"라는 절제된 명제로 호평을 받았고,[8] 2026년 7월 10일 로마 국립현대미술관에서 열린 첫 오트 쿠튀르는 화려함 대신 착용성과 장인 기술을 앞세운 조용한 리셋으로 평가됐다.[1] 2026년 9월 말 밀라노에서 선보인 소포모어 SS27 컬렉션은 거울로 둘러싼 박스 세트에서 이탈리아 버라이어티쇼 아이콘 라파엘라 카라를 뮤즈로 삼아 "속옷의 겉옷화"를 경쾌하게 풀어내며 데뷔보다 한결 느슨해진 톤으로 호평받았고,[14][15] 데뷔 이후 그는 첫 정규 캠페인·바나나텍스 데님 캡슐·'베리 콜리브리' 슈즈 캠페인·9인 셀러브리티가 등장하는 바게트 재에디션 캠페인으로 장인정신·지속가능 소재·헤리티지 액세서리 서사를 상품 계층으로 확장하기 시작했다.[10][11][12][16] 강한 서사 저자가 조용한 LVMH 하우스로 이동해 절제를 택하되 두 번째 시즌에서 빠르게 "느슨해진" 이 궤적은, 뎀나 체제로 시끄럽게 리셋한 구찌에게 대조적 벤치마크다.
 
-![치우리 디올 퇴임 확정·최초 여성 CD·페미니즘 서사](https://wwd.com/wp-content/uploads/2025/05/maria-grazia-chiuri-exit-dior-82.jpg?crop=0px%2C107px%2C2000px%2C1120px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/maria-grazia-chiuri-exit-dior-confirmed-1237865120/")
+![치우리 디올 퇴임 확정·최초 여성 CD·페미니즘 서사](https://wwd.com/wp-content/uploads/2025/05/maria-grazia-chiuri-exit-dior-82.jpg?w=1200 "WWD|https://wwd.com/fashion-news/designer-luxury/maria-grazia-chiuri-exit-dior-confirmed-1237865120/")
 
 ## 1. 프로필 개요
 
@@ -42,7 +42,7 @@
 
 펜디에서 이 미학은 소재와 공예로 중심을 옮겼다. 2026년 2월 밀라노 데뷔 컬렉션은 색을 덜어낸 정돈된 클래식을 앞세워 "럭셔리 과잉" 없이 실제 워드로브를 겨냥했고, 흰 가죽 칼라를 초커로 두르거나 재킷 여밈에 크로스 스트랩을 쓰는 식으로 라거펠트·킴 존스의 코드를 조용히 인용했으며 사랑받던 바게트백을 되살렸다.[8] 7월 오트 쿠튀르에서는 펜디의 모피 하우스 유산을 재해석해, 모피를 남성 권력의 상징에서 현대 여성을 위한 가볍고 우아한 소재로 옮겼고, 인타르시아·레이스·자수를 절제된 실루엣으로 풀어냈다.[1] 그는 "소재가 펜디의 핵심"이라고 밝히며 소재 가치를 넘어선 장인 기술의 중요성을 강조했고, 하우스 저장고의 기존 펠트를 활용해 낭비를 줄이는 방식을 설명했다.[1]
 
-![펜디 폴 2026 기성복 리뷰(덜 나 더 우리·바게트백·상업 반응)](https://wwd.com/wp-content/uploads/2026/02/fendi-fw26-mfw-rtw-r-gg0030.jpg?crop=0px%2C76px%2C1365px%2C763px&resize=1000%2C563 "WWD|https://wwd.com/runway/fall-2026/milan/fendi/review/")
+![펜디 폴 2026 기성복 리뷰(덜 나 더 우리·바게트백·상업 반응)](https://wwd.com/wp-content/uploads/2026/02/fendi-fw26-mfw-rtw-r-gg0030.jpg?w=1200 "WWD|https://wwd.com/runway/fall-2026/milan/fendi/review/")
 
 2026년 9월 말 선보인 소포모어 SS27 컬렉션은 이 절제의 미학이 두 번째 시즌에서 어떻게 "풀리는지"를 보여준 전환점이다. 치우리는 거울로 둘러싼 박스("거울의 방") 세트를 세워 모델을 겹겹이 반사시키며 1970년대 버라이어티쇼의 미감을 끌어왔고, 이탈리아 TV 아이콘 라파엘라 카라를 뮤즈로 삼았다.[14][15] 테마는 "속옷의 겉옷화"로, 레이스 슬립을 드레스로 입히고 비치는 시스루 레이어와 노출된 브라를 신체 자율·해방의 기호로 전개했으며, 나폴레옹·그레코로만·아르데코 풍이 섞인 케이프 코트와 다이아망테 캡으로 카라의 보석 스타일을 흑백 팔레트로 현대화했다.[14][15] 평단은 이를 데뷔보다 한결 가볍고 유희적인 전개로 읽었는데, 디 임프레션은 종합 9.3/10을 주며 카라를 통해 젊은 고객으로 외연을 넓히면서도 성숙한 고객의 세련미를 유지했다고 평했고, 일부는 보헤미안·부두아르 요소가 덜 응집됐다는 단서를 붙였다.[14] 데뷔의 "조용한 클래식"에서 소포모어의 "경쾌한 관능"으로 톤이 빠르게 이동한 이 흐름은, 신임 CD가 아카이브 재해석을 평단 승인으로 전환하는 속도의 참조 사례로 읽힌다.
 
@@ -50,7 +50,7 @@
 
 치우리의 창작관에서 가장 일관된 축은 "여성이 여성을 위해 만드는 옷"이다. 그는 여성이 여성의 옷을 만들 때 "패션은 어떻게 보이느냐만의 문제가 아니다"라고 말하며, 그것이 어떻게 느끼고 생각하느냐의 문제라고 본다.[9] 그는 여성성을 남성이 규정하는 개념과 구분하고, 디올이 여성성에 관한 것이라면 그것은 남성/여성·젊음의 고정관념에서 벗어난 오늘의 여성에 관한 것이어야 한다고 강조한다.[9] 그는 여성성을 페미니즘과 가까운 창의성으로 읽으며, 다른 여성·공동체와의 대화를 통해 더 다면적이고 복수적인 관점을 만든다고 밝힌다.[9]
 
-![치우리 인터뷰(여성이 여성 옷 만들 때…·여성성·페미니즘 발언)](https://wwd.com/wp-content/uploads/2023/10/005A5187.jpg?w=1000&h=563&crop=1 "The Gloss / WWD|https://wwd.com/fashion-news/designer-luxury/dior-maria-grazia-chiuri-interview-feminism-1235906436/")
+![치우리 인터뷰(여성이 여성 옷 만들 때…·여성성·페미니즘 발언)](https://wwd.com/wp-content/uploads/2023/10/005A5187.jpg?w=1200 "The Gloss / WWD|https://wwd.com/fashion-news/designer-luxury/dior-maria-grazia-chiuri-interview-feminism-1235906436/")
 
 이 철학은 상품 이상의 서사 자산을 만드는 그의 방법론과 정확히 겹친다. 디올을 떠나며 그는 아틀리에와 팀 덕분에 "여성 아티스트 여러 세대와의 대화 속에서 참여적 여성 패션의 비전"을 실현했다고 밝혔고,[7] 지속가능성에 대해서는 "완벽한 해법은 없지만 조금 더 나은 방식으로 일할 수 있다"는 태도를 드러냈다.[7] 펜디 데뷔의 명제 "덜 나, 더 우리"는 이 관점의 압축으로, 개인 저자성보다 하우스 계보와 공동체를 앞세우는 태도를 드러낸다.[8] SS27에서 신체를 해방·자율의 뮤즈로 내세우고 바게트 재에디션 캠페인을 "가방 자체보다 개인의 정체성"이라는 명제로 묶은 흐름은, 이 페미니즘적 신체·주체성 서사를 액세서리 상품 서사로까지 확장한 사례다.[14][16] 브랜드 정체성에 관한 그의 관점은 아카이브를 존중하며 조용히 재조립하는 데 있고, 이는 디올에서의 강한 서사와 대비되는 펜디에서의 절제 전략으로 이어진다.
 
@@ -82,7 +82,7 @@
 
 셋째, 지속가능 소재를 지렛대로 한 카테고리 확장이다. 치우리는 바나나텍스 데님 캡슐로 펜디를 모피·가죽 헤리티지 밖의 데님이라는 대중 접근성 높은 카테고리로 넓히면서, 동시에 그 확장의 명분을 "혼방 바이오 소재"라는 지속가능성 서사로 감쌌다.[11] 이는 상품 카테고리 확장과 ESG 서사를 하나의 드롭으로 묶어내는 전략으로, 데뷔 캠페인이 강조한 장인정신 서사[10]와 결이 같다. [가설] 케링·구찌 관점에서 이는 "리셋 이후 무엇을 팔 것인가"라는 상업 전환 국면에서 참고할 벤치마크다. 뎀나 체제 구찌가 화제성 중심 리셋 이후 상품 계층에서 어떤 카테고리 확장과 소재 서사를 얹을지 아직 뚜렷하지 않은 상황에서, 펜디가 지속가능 소재를 카테고리 진입 명분으로 삼는 방식은 구찌의 소재 혁신·카테고리 다변화 로드맵에 직접적 비교점이 된다.
 
-![펜디 첫 데님 캡슐, 바나나 섬유 '바나나텍스'(유기농 면 55%·바나나 섬유 45%·베르토 협업·3종 구성)](https://wwd.com/wp-content/uploads/2026/07/banatex.jpeg?w=960&h=563&crop=1 "WWD (Sourcing Journal)|https://wwd.com/sourcing-journal/sj-denim/fendi-debuts-denim-banana-fiber-bananatex-berto-1239088767/")
+![펜디 첫 데님 캡슐, 바나나 섬유 '바나나텍스'(유기농 면 55%·바나나 섬유 45%·베르토 협업·3종 구성)](https://wwd.com/wp-content/uploads/2026/07/banatex.jpeg?w=1200 "WWD (Sourcing Journal)|https://wwd.com/sourcing-journal/sj-denim/fendi-debuts-denim-banana-fiber-bananatex-berto-1239088767/")
 
 넷째, 헤리티지 액세서리 아이콘의 재활성화를 상업 지렛대로 쓰는 방법론이다. 치우리는 2018년 콜리브리 슬링백을 '베리 콜리브리'로 되살렸고,[12][13] 이어 바게트를 1997년 오리지널 실루엣의 '바게트 재에디션'으로 전면 재점화하며 9인 셀러브리티 캠페인과 하로즈 20여 종 전시로 밀어붙였다.[16] 특히 바게트 캠페인이 "가방 자체보다 개인의 정체성"을 내세워 전통적 '잇백 단일 셀럽' 모델을 명시적으로 비튼 점은, 헤리티지 아이콘을 현대적 가치 서사로 재포장하는 한 수다. 이 "헤리티지 액세서리 코드를 현대적으로 재해석해 상업 화력으로 전환하는" 방식은 구찌가 호스빗·GG·재키·뱀부 같은 자기 헤리티지 코드를 리셋 이후 어떻게 관리하느냐와 직접 겹친다. [가설] 뎀나 체제 구찌가 SS27 밀라노 쇼에서 핸드백·액세서리 축을 전면에 세우기 시작한 상황에서, 펜디가 시그니처 가방을 오리지널 실루엣으로 되돌리고 "정체성의 창"이라는 서사로 재론칭하는 방식은 구찌의 아이콘 리부트 전략에 직접적 비교점이 된다.
 
@@ -170,7 +170,7 @@ Her Dior tenure (2016–2025) is one of the most cited commercial success cases 
 
 Chiuri's signature codes are the pairing of romantic femininity with feminist messaging, layered with art, craft, and cultural citation.[6] At Dior she kept house codes like the Bar jacket while adding slogan T-shirts, women-artist collaboration sets, and Italian and Indian craft to deepen the narrative.[6][7] A restrained sensibility focused on wearability and real women's lives, rather than pushing grandeur, underpins her staging grammar.
 
-![Chiuri Dior exit confirmed, first woman CD, feminist narrative](https://wwd.com/wp-content/uploads/2025/05/maria-grazia-chiuri-exit-dior-82.jpg?crop=0px%2C107px%2C2000px%2C1120px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/maria-grazia-chiuri-exit-dior-confirmed-1237865120/")
+![Chiuri Dior exit confirmed, first woman CD, feminist narrative](https://wwd.com/wp-content/uploads/2025/05/maria-grazia-chiuri-exit-dior-82.jpg?w=1200 "WWD|https://wwd.com/fashion-news/designer-luxury/maria-grazia-chiuri-exit-dior-confirmed-1237865120/")
 
 At Fendi this aesthetic shifted its center to material and craft. The February 2026 Milan debut foregrounded pared-back, tidy classics aimed at real wardrobes without "luxury overload," quietly citing Lagerfeld and Kim Jones codes via white leather collars worn as chokers and cross-strap closures, and reviving the beloved Baguette.[8] The July haute couture reinterpreted Fendi's furrier heritage, moving fur from a symbol of male power to a light, elegant material for contemporary women, and rendered intarsia, lace, and embroidery in restrained silhouettes.[1] She stressed that "materials are key to Fendi," emphasized craft beyond material value, and described using existing pelts from the house repository to minimize waste.[1]
 
@@ -180,7 +180,7 @@ The sophomore SS27 collection, shown in late September 2026, was a pivot that sh
 
 The most consistent axis in Chiuri's creative outlook is "clothes for women, by a woman." She says that when a woman makes clothes for women, "fashion is not just about how you look," but about how you feel and think.[9] She distinguishes femininity from a male-defined concept, arguing that if Dior is about femininity it must be about today's women, freed from masculine/feminine and age stereotypes.[9] She reads femininity as a creativity close to feminism, and builds a more multifaceted, plural view through dialogue with other women and community.[9]
 
-![Chiuri interview (when a woman makes clothes for women…, femininity, feminism quotes)](https://wwd.com/wp-content/uploads/2023/10/005A5187.jpg?w=1000&h=563&crop=1 "The Gloss / WWD|https://wwd.com/fashion-news/designer-luxury/dior-maria-grazia-chiuri-interview-feminism-1235906436/")
+![Chiuri interview (when a woman makes clothes for women…, femininity, feminism quotes)](https://wwd.com/wp-content/uploads/2023/10/005A5187.jpg?w=1200 "The Gloss / WWD|https://wwd.com/fashion-news/designer-luxury/dior-maria-grazia-chiuri-interview-feminism-1235906436/")
 
 This philosophy maps precisely onto her method of building narrative assets beyond product. Leaving Dior, she said her ateliers and teams let her realize a vision of committed women's fashion "in dialogue with several generations of female artists,"[7] and on sustainability she took the stance that there is no perfect solution but one can work "just a little bit better."[7] The Fendi debut proposition "Less I, More Us" compresses this view, foregrounding house lineage and community over individual authorship.[8] At SS27 she foregrounded the body as a muse of liberation and autonomy, and bound the Baguette Re-Edition campaign to a "personal identity over the bag itself" proposition—extending this feminist body/subjecthood narrative into accessory product storytelling.[14][16] Her view of brand identity lies in respecting and quietly reassembling the archive—a restraint strategy at Fendi that contrasts with her strong narrative at Dior.
 
@@ -212,7 +212,7 @@ Second, the couture gap. Fendi runs a haute couture line under Chiuri, giving LV
 
 Third, category expansion leveraged on sustainable material. With the Bananatex denim capsule, Chiuri widens Fendi into denim—a far more accessible category beyond its fur/leather heritage—while wrapping the rationale for that expansion in a sustainability narrative of "blended bio-material."[11] This bundles product-category expansion and ESG storytelling into a single drop, in the same register as the craftsmanship narrative stressed by the debut campaign.[10] [Hypothesis] From a Kering/Gucci view this is a benchmark for the "what do we sell after the reset" commercial-conversion phase. With Demna-era Gucci not yet showing a clear category-expansion or material narrative in the product tier following its buzz-led reset, Fendi's use of sustainable material as a category-entry rationale is a direct comparison point for Gucci's own material-innovation and category-diversification roadmap.
 
-![Fendi's first denim capsule using banana-fiber Bananatex (55% organic cotton / 45% banana fiber, Berto collaboration, three pieces)](https://wwd.com/wp-content/uploads/2026/07/banatex.jpeg?w=960&h=563&crop=1 "WWD (Sourcing Journal)|https://wwd.com/sourcing-journal/sj-denim/fendi-debuts-denim-banana-fiber-bananatex-berto-1239088767/")
+![Fendi's first denim capsule using banana-fiber Bananatex (55% organic cotton / 45% banana fiber, Berto collaboration, three pieces)](https://wwd.com/wp-content/uploads/2026/07/banatex.jpeg?w=1200 "WWD (Sourcing Journal)|https://wwd.com/sourcing-journal/sj-denim/fendi-debuts-denim-banana-fiber-bananatex-berto-1239088767/")
 
 Fourth, reactivating heritage-accessory icons as a commercial lever. Chiuri revived the 2018 Colibrì slingback as the "Very Colibrì,"[12][13] then fully reignited the Baguette as a "Baguette Re-Edition" of the 1997 original silhouette, pushing it via a nine-celebrity campaign and a 20-plus-variant Harrods display.[16] That the Baguette campaign explicitly subverts the traditional "single-celebrity it-bag" model by foregrounding "personal identity over the bag itself" is a move repackaging a heritage icon in a contemporary-value narrative. This method of "reinterpreting a heritage-accessory code in a modern key and converting it into commercial firepower" maps directly onto how Gucci manages its own heritage codes—Horsebit, GG, Jackie, Bamboo—after the reset. [Hypothesis] With Demna-era Gucci having begun foregrounding the handbag/accessory axis at its SS27 Milan show, Fendi's relaunch of a signature bag by returning it to the original silhouette and reframing it as a "window into identity" is a direct comparison point for Gucci's own icon-reboot strategy.
 

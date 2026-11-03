@@ -6,7 +6,6 @@
 
 이번 사안의 결론은 실적 충격의 뉴스는 식었지만 회복 신호는 오지 않았고, 시장의 질문이 '얼마나 나빴나'에서 '뎀나가 무엇을 보여줄 것인가'로 옮겨 갔다는 것이다 — 실적 발표 일주일 뒤인 10월 29일에도 케링 주가는 178.73유로 안팎으로 250거래일 저점 부근에 머물렀고[9], 블룸버그 오피니언은 뎀나가 아직 설득력 있는 비전을 내놓지 못했다고 썼다[8]. 지금 구찌에 부족한 것은 시간이 아니라 증거다.
 
-![10월 29일 케링 주가 178.73유로 안팎, 250거래일 저점 부근](https://mdb.ad-hoc-news.de/bild/bild-2706475_1920_1080.webp "ad-hoc-news.de|https://ad-hoc-news.de/boerse/news/corporate-news/kering-reports-flat-third-quarter-revenue-kering-stock-nears-eur-178-12-low/70427247")
 
 ## 1. 오늘의 판정
 
@@ -118,7 +117,6 @@
 
 Our conclusion is that the Q3 shock has faded, no recovery signal has replaced it, and the market's question has moved to Demna's vision — Kering still traded near its 250-session low on October 29, around EUR 178.73[9], and Bloomberg Opinion says Demna has yet to set out a compelling vision[8]. What Gucci lacks is not time but evidence.
 
-![Kering around EUR 178.73 on October 29, near its 250-session low](https://mdb.ad-hoc-news.de/bild/bild-2706475_1920_1080.webp "ad-hoc-news.de|https://ad-hoc-news.de/boerse/news/corporate-news/kering-reports-flat-third-quarter-revenue-kering-stock-nears-eur-178-12-low/70427247")
 
 ## 1. Today's Verdict
 

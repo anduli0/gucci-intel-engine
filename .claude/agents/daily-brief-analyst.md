@@ -25,14 +25,14 @@ split long sentences, prefer active voice.
 
 Scope: this brief is the synthesis of EVERYTHING the Luxury Watch desk collected today (all data/luxury/{DATE}/*.json groups — Kering, LVMH, Hermes-Chanel, Jewelry, Beauty, Independents). It analyzes the luxury WORLD as a whole; Gucci is just one brand among many here (Gucci-focused analysis belongs to the 구찌 비즈니스 리뷰). Do not organize the brief around Gucci and do not end every item with a Gucci takeaway.
 
-DAILY LENGTH (binding since 2026-10-31 — the daily is a 5-minute read; the Friday 주간 리뷰 is the full report):
-- Reading text (title through the last numbered section) is capped — KO 2000 characters, EN 380 words — and
+DAILY LENGTH (binding since 2026-10-31, tightened 2026-11-03 — the daily is a 3-minute read the reader finishes; the Friday 주간 리뷰 is the full paper):
+- Reading text (title through the last numbered section) is capped — KO 1300 characters, EN 250 words — and
   `python scripts/report_len.py <file>` must print OK before the draft is handed to the fact-checker. The cap
   does NOT apply to `## 주석`, `## 출처` or `## 부록` — those may be as long and detailed as the evidence needs.
-- No `목차`. `핵심 요약` is 2–3 sentences. At most 3 numbered sections, each ONE paragraph of 3–4 sentences
-  (conclusion first, dash, evidence with [n]). One short table at most. Anything that does not fit the cap but
-  is worth keeping goes to `## 부록 — 오늘의 기타 신호` as numbered one-sentence entries with [n] markers
-  (the appendix is reference text, so single sentences per item are allowed there).
+- No `목차`. `핵심 요약` is 2 sentences. At most 3 numbered sections, each ONE paragraph of 2–3 sentences
+  (conclusion first, dash, evidence with [n]). One short table at most. Only what the reader NEEDS today;
+  anything else that is worth keeping goes to `## 부록 — 오늘의 기타 신호` as numbered one-sentence entries
+  with [n] markers (the appendix is reference text, so single sentences per item are allowed there).
 - Depth is not lost, it is moved: the Friday `주간 리뷰` (special desk, MODE=weekly-review) carries the full
   analysis of the week; the daily tells the reader what changed today and what to watch tomorrow.
 

@@ -10,7 +10,7 @@
 
 오늘 데이터의 결론은, 3분기 부진이 특정 하우스의 실책이 아니라 중국發 섹터 전체의 동반 둔화라는 것이다 — LVMH 패션·가죽이 5% 줄었고[1], 에르메스는 6년來 최저 성장에 비가죽 라인이 역성장했으며[2], 프라다 그룹 성장률은 8%에서 1%로 꺾였는데 중동 매출이 9개월 누적 23% 붕괴한 것이 발목을 잡았다[3]. 리슈몽 CEO는 일부 브랜드의 중국 과잉 확장을 공개 인정했고 까르띠에는 매장 5곳을 닫았다[4]. 다만 균형추가 필요하다 — 해리 윈스턴은 중국에서 여전히 두 자릿수 성장을 보였고[5], 즉 중국 리스크가 하이엔드 전 세그먼트에 균일하게 작동하지는 않는다는 뜻이다.
 
-![LVMH 3분기 패션·레더굿즈 5% 감소](https://wwd.com/wp-content/uploads/2026/10/louis-vuitton-spring-2027-rtw-r-gg-1772.jpg?crop=0px%2C62px%2C1365px%2C763px&resize=1000%2C563 "WWD|https://wwd.com/business-news/financial/lvmh-q3-sales-fashion-leather-goods-down-5-percent-1239342984/")
+![LVMH 3분기 패션·레더굿즈 5% 감소](https://wwd.com/wp-content/uploads/2026/10/louis-vuitton-spring-2027-rtw-r-gg-1772.jpg?w=1200 "WWD|https://wwd.com/business-news/financial/lvmh-q3-sales-fashion-leather-goods-down-5-percent-1239342984/")
 
 ## 2. 성장축이 가방에서 주얼리로, 수요 버즈와 매출은 따로 논다
 
@@ -22,7 +22,8 @@
 
 크리에이티브 리더십의 처리 방식이 그룹 간 경쟁력의 분기점이 되고 있다 — 생로랑·맥퀸·발렌시아가 세 하우스가 동시에 공석 상태이며, 발렌시아가의 마틴 로즈 영입설은 복수 매체가 같은 이름을 지목했으나 공식 발표는 없다(미확인)[10][11]. 반대로 LVMH는 치우리를 디올에서 펜디로 돌리는 수평 순환으로 공백 없이 라인을 채웠다[12]. 물론 교체가 곧 수요를 담보하지는 않는다 — 디올은 앤더슨 체제 1년 차에도 Lyst 순위가 되려 하락했다[9]. 같은 맥락에서 오늘의 상승 신호는 셀린느다 — 마이클 라이더 체제 1년 차에 리복 협업 한 건으로 Lyst 톱10에 처음 진입했고 남성복 수요가 전년比 62% 늘었는데[9][13], 이는 스니커·스포츠 협업이 단기에 수요 지표를 움직이는 레버임을 보여준 사례다. 다시 말해 리더십 전환이나 협업 한 건은 방어적 조건이나 단기 레버일 뿐 성장의 증거는 아니며, 11월 2일 CFDA 어워즈 레드카펫 점유[14]와 11월 2일 에스티로더·12일 버버리·13일 리슈몽 실적 발표[15], 그리고 발렌시아가·생로랑·맥퀸 공석 해소 시점이 다음 판단 지점이다.
 
-![맥퀸 맥기르 후임 미발표, 생로랑 공석 지속](https://www.modaes.com/global/thumb/eyJ0IjoiZCIsInciOjEyMDAsImgiOjY3NSwibSI6MSwibG0iOjE3OTIwODM4OTZ9/files/2026/16-redaccion-personas/sean-mcgirr-alexander-mcqueen-1200.jpg "Modaes|https://www.modaes.com/global/companies/kering-revamps-alexander-mcqueen-following-the-departure-of-its-creative-director")
+![치우리 디올→펜디 복귀, 크루아상백 LA 론칭](https://wwd.com/wp-content/uploads/2026/10/DSCF6422-Edit.jpg?w=1200 "WWD|https://wwd.com/fashion-news/fashion-features/maria-grazia-chiuri-fendi-interview-creative-vision-1239352236/")
+
 
 ## 주석
 

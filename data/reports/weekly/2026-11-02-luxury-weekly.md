@@ -26,7 +26,7 @@
 ## 2. 진영별 핵심 움직임 — 케링·LVMH·에르메스샤넬·주얼리·독립 하우스
 진영별로 보면 이번 주 가장 무거운 소식은 케링에 몰렸다 — 3분기 구찌 비교매출이 -6%, 소매가 -9%로 그룹 내 유일한 역성장 하우스로 남았고, 발표 다음 날 주가가 장중 최대 16% 빠져 상장 이후 최악의 하루를 기록하며 애널리스트들이 잇달아 목표가를 내렸다[9][10]. 더 무거운 것은 창작 리더십의 공백이다. 생로랑 바카렐로가 10년 만에 퇴임하고도 3주 넘게 후임이 미발표이며, 맥퀸 숀 맥기어도 사임했고, 발렌시아가 피치올리마저 1년여 만의 퇴임설(마틴 로즈 후임 보도, 공식 확인 전)이 돌았다[11][12][13]. 즉 구찌 회복 지연 위에 구찌 외 세 하우스의 교체 리스크가 겹쳐, 루카 데 메오 체제의 '재무·운영·창작 삼중 재건' 선언이 곧바로 실행 난이도 시험대에 올랐다는 뜻이다[14].
 
-![루카 데 메오 '재무·운영·창작' 삼중 재건, 5년 내 영업이익률 두 배 목표](https://wwd.com/wp-content/uploads/2025/12/81A6940-evo-def_02-1.jpg?crop=0px%2C330px%2C2000px%2C1119px&resize=1000%2C563 "WWD / Modaes|https://wwd.com/business-news/financial/luca-de-meo-kering-strategic-plan-1238425244/")
+![루카 데 메오 '재무·운영·창작' 삼중 재건, 5년 내 영업이익률 두 배 목표](https://wwd.com/wp-content/uploads/2025/12/81A6940-evo-def_02-1.jpg?w=1200 "WWD / Modaes|https://wwd.com/business-news/financial/luca-de-meo-kering-strategic-plan-1238425244/")
 
 LVMH 진영에서는 그룹 전체가 3분기 유기적 1% 성장에 그쳤고 루이비통 중심 패션·가죽이 5% 감소했으나, 워치·주얼리(+6%)와 셀렉티브 리테일링(+8%)이 완충했다[4][15]. 다만 그 완충의 이면도 함께 봐야 한다 — 워치·주얼리가 성장한 바로 그 분기에 산하 제니스가 스위스 인력 최대 200명 감원을 협의 중이고, 디올은 가격 인상 실패를 공개 인정하며 '브랜드 리셋'을 선언했다[16][17]. 에르메스샤넬 진영은 명암이 갈렸다. 에르메스는 아태 0% 쇼크를 겪은 반면, 샤넬은 블라지 취임 첫해 상반기 매출이 16% 늘고 시계·주얼리가 35% 급등하며 교체가 수요로 전환된 드문 성공 사례로 남았다[1][18]. 독립 하우스 쪽에서는 프라다가 베르사체 인수를 마치고 멀티브랜드로 확장하는 동안, 페라가모·몽클레르가 역성장하고 제냐·OTB는 브랜드별로 성과가 극단적으로 갈려 '다각화가 안정성을 보장하지 않는다'는 사실을 함께 보여줬다[19][20][21][22].
 
@@ -41,7 +41,10 @@ LVMH 진영에서는 그룹 전체가 3분기 유기적 1% 성장에 그쳤고 �
 ## 4. 권역 변화 — 동북아의 균열은 더 이상 소문이 아니다
 권역별 결론은 동북아(NEA)의 둔화가 소문이 아니라 숫자가 됐다는 것이다 — 에르메스 일본 제외 아태 0%, 까르띠에·에르메스 중국 본토 8~9월 최대 두 자릿수 감소, LVMH 중국 제외 아시아 -5%, 페라가모 3분기 중국 부진에 따른 3.5% 감소가 같은 창에 몰렸기 때문이다[1][8][4][19]. 즉 과시형이든 희소성형이든 가리지 않고 아시아 수요가 동시에 식었다는 뜻이다. 이때 브랜드들의 대응은 본토 둔화를 체험형·관광 상권으로 상쇄하는 쪽으로 수렴했다. 에르메스가 아태 0% 발표 직후 홍콩에서 'HERMÈSTORIES' 헤리티지 전시를 11월 8일까지 운영했고, 루이비통은 홍콩 K11 뮤제아에 카페·레스토랑을 낀 대형 플래그십을 12월 12일 개장하며, 반클리프는 라스베이거스에 미주 최초 '페를레' 팝업을 열었다[29][30][31].
 
-![페라가모 3분기 중국 부진에 3.5% 감소](https://img.businessoffashion.com/resizer/v2/GUFQDPFQCJGGPBBMLHIQ4D7TEQ.jpg?smart=true&auth=0bb130d896fe260842dbd40bd6c1ab1efc46e54e1b4c92f6d105ee9b6c771559&width=1200&height=630 "Business of Fashion|https://www.businessoffashion.com/news/luxury/ferragamo-quarterly-sales-decline-in-setback-for-turnaround-efforts/")
+![루이비통 홍콩 K11 뮤제아 'LV 더 플레이스' 12월 12일 개장](https://www.afoodieworld.com/wp-content/uploads/2026/10/Louis-Vuitton-opening-flagship-store-on-Dec.-12-with-cafe-menu-designed-by-Maxime-Frederic.jpg "The Foodie World / RetailBoss|https://www.afoodieworld.com/blog/2026/10/14/louis-vuitton-hk-opening-dec/")
+
+
+
 
 다만 '아시아=일률적 둔화'로 뭉뚱그리면 균형추를 놓친다 — 해리 윈스턴은 중국에서 상반기 약 20% 성장했고, 아르마니 남성 향수 '아이 윌'은 함부르크 공항 팝업으로 면세 동선에서 호조를 보였으며, 샤넬 상반기 미국 매출은 25% 이상 늘었다[28][25][18]. 즉 북미와 일부 하이엔드 메종은 여전히 성장 중이며, 본 분석의 판단은 이번 주 권역 신호를 '동북아 둔화 + 북미 상대적 견조'의 이중 구조로 읽어야 한다는 것이다.
 
@@ -159,7 +162,7 @@ Still, this structural reading needs a counterweight — even Richemont lost 190
 ## 2. Key moves by camp — Kering, LVMH, Hermès-Chanel, Jewellery, Independents
 By camp, the heaviest news sat at Kering — Gucci's Q3 comparable sales fell 6% and retail 9%, leaving it the group's only declining house, and the stock dropped up to 16% intraday the next day for its worst day on record as analysts cut targets in succession [9][10]. Heavier still is the creative-leadership vacuum. Saint Laurent's Vaccarello left after a decade with no successor named three-plus weeks on, McQueen's McGirr resigned, and even Balenciaga's Piccioli faced an exit report after barely a year (Martine Rose reported as successor, not yet confirmed) [11][12][13]. That is, three non-Gucci houses facing turnover on top of Gucci's delayed recovery put Luca de Meo's "financial, operational and creative" rebuild straight onto an execution test [14].
 
-![Luca de Meo's financial, operational, creative rebuild, margin-doubling target in five years](https://wwd.com/wp-content/uploads/2025/12/81A6940-evo-def_02-1.jpg?crop=0px%2C330px%2C2000px%2C1119px&resize=1000%2C563 "WWD / Modaes|https://wwd.com/business-news/financial/luca-de-meo-kering-strategic-plan-1238425244/")
+![Luca de Meo's financial, operational, creative rebuild, margin-doubling target in five years](https://wwd.com/wp-content/uploads/2025/12/81A6940-evo-def_02-1.jpg?w=1200 "WWD / Modaes|https://wwd.com/business-news/financial/luca-de-meo-kering-strategic-plan-1238425244/")
 
 In the LVMH camp, the group managed only 1% organic growth in Q3 and LV-led fashion & leather fell 5%, cushioned by watches & jewellery (+6%) and selective retailing (+8%) [4][15]. The flip side of that cushion matters too — in the very quarter watches & jewellery grew, subsidiary Zenith is negotiating cuts of up to 200 Swiss jobs, and Dior publicly admitted pricing failure with a "brand reset" [16][17]. In the Hermès-Chanel camp, fortunes diverged: Hermès took the Asia-zero shock while Chanel's first-year-of-Blazy H1 revenue rose 16% with watches and jewellery up 35%, a rare case of a change converting into demand [1][18]. Among independents, Prada completed its Versace acquisition and expanded into a multi-house portfolio, while Ferragamo and Moncler contracted and Zegna/OTB showed sharply divergent brand-level results — together showing diversification does not guarantee stability [19][20][21][22].
 
@@ -174,7 +177,10 @@ Lastly, watches split between primary and resale — Swiss exports rose for a fi
 ## 4. Regional shifts — Northeast Asia's crack is no longer a rumour
 Regionally, the conclusion is that the Northeast Asia slowdown has turned from rumour into numbers — Hermès Asia ex-Japan at 0%, Cartier and Hermès mainland China down double digits in August-September, LVMH Asia ex-China at -5%, and Ferragamo down 3.5% on Q3 China weakness all landed in the same window [1][8][4][19]. Whether logo-forward or scarcity-driven, Asian demand cooled in unison. Brands' response converged on offsetting mainland weakness with experiential and travel-retail formats: Hermès ran its HERMÈSTORIES heritage show in Hong Kong through Nov 8 right after the flat print, Louis Vuitton opens an experiential Hong Kong megastore with café and restaurant on Dec 12, and Van Cleef opened its first Americas Perlée pop-up in Las Vegas [29][30][31].
 
-![Ferragamo Q3 -3.5% on China weakness](https://img.businessoffashion.com/resizer/v2/GUFQDPFQCJGGPBBMLHIQ4D7TEQ.jpg?smart=true&auth=0bb130d896fe260842dbd40bd6c1ab1efc46e54e1b4c92f6d105ee9b6c771559&width=1200&height=630 "Business of Fashion|https://www.businessoffashion.com/news/luxury/ferragamo-quarterly-sales-decline-in-setback-for-turnaround-efforts/")
+![Louis Vuitton 'LV The Place' at Hong Kong K11 Musea opens Dec 12](https://www.afoodieworld.com/wp-content/uploads/2026/10/Louis-Vuitton-opening-flagship-store-on-Dec.-12-with-cafe-menu-designed-by-Maxime-Frederic.jpg "The Foodie World / RetailBoss|https://www.afoodieworld.com/blog/2026/10/14/louis-vuitton-hk-opening-dec/")
+
+
+
 
 Still, lumping "Asia = uniform slowdown" misses the counterweight — Harry Winston grew ~20% in China in H1, Armani's "I Will" men's scent performed well on duty-free via a Hamburg Airport pop-up, and Chanel's H1 US sales rose over 25% [28][25][18]. North America and some high-jewellery maisons are still growing, and we judge the week's regional signal is best read as a dual structure of "NEA slowdown plus relatively resilient North America."
 

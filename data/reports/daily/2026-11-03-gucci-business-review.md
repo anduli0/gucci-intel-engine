@@ -10,7 +10,7 @@
 
 오늘 구찌의 분위기는 마케팅 물량으로 잠시 데워졌을 뿐 바닥의 냉기는 그대로다 — 머라이어 캐리 홀리데이 캠페인[4][5]과 '버터플라이' 캡슐의 초기 긍정 반응[13], 파리 아브뉴 몽테뉴 4층 플래그십의 '스토어 쇼' 개념이 서사를 주도했다[6][7][8]. 다만 같은 날 케링 3분기 실적—구찌 매출 부진·주가 급락, 목표주가 동반 하향—이 투자자 신뢰를 흔들었고[1][2][9], 브랜드 가치 1년새 약 30% 하락[10]과 반복되는 품질 불만[11][12]이 그 온기를 상쇄했다. 뎀나 프리폴 컬렉션의 '이블 톰 포드' 평가도 호불호가 갈린다[14]. 요컨대 오늘의 긍정 신호는 구찌가 스스로 만든 무대이고, 바깥의 평가는 아직 회복되지 않았다.
 
-![머라이어 캐리가 전면에 선 구찌 2026 홀리데이 캠페인](https://wwd.com/wp-content/uploads/2026/11/mariah-carey-gucci-fi.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/pop-culture/culture-news/mariah-carey-gucci-holiday-campaign-video-1239395541/")
+![머라이어 캐리가 전면에 선 구찌 2026 홀리데이 캠페인](https://wwd.com/wp-content/uploads/2026/11/mariah-carey-gucci-fi.jpg?w=1200 "WWD|https://wwd.com/pop-culture/culture-news/mariah-carey-gucci-holiday-campaign-video-1239395541/")
 
 ## 2. 근거와 반론 — 권역별로 갈린 체온
 
@@ -23,7 +23,7 @@
 
 앞으로 1~2주는 '만들어진 화제'가 '진짜 수요'로 전환되는지를 봐야 한다 — 상방은 활성화가 구매로 이어지는 경우, 하방은 실적 쇼크 잔상과 품질 담론이 구매 심리를 눌러 열기가 SNS 안에서만 맴도는 경우다. 긍정 활성화와 부정 구조 신호가 상쇄되는 횡보가 가장 유력하다. 권고는 다섯 가지다. 첫째, 캐리 캠페인은 유명인 화제가 아니라 '버터플라이 캡슐의 선물 가치'로 메시지를 좁힌다[4][5]. 둘째, 파리 '스토어 쇼' 경험을 짧은 영상으로 재활용하되 과장된 수사는 피한다[6][7]. 셋째, 중국·프랑스의 품질 불만[11][12]에 수선·보증 메시지를 선제 대응한다. 넷째, 1955 호스빗·재키 1961 등 잔존가치 높은 클래식[17]을 홀리데이 전면에 배치해 로고 피로를 상쇄한다. 다섯째, 태국 앰배서더 모멘텀[21][22]은 매장 트래픽·예약으로 연결한다.
 
-![머라이어 캐리의 '버터플라이' 캡슐 공개, 구찌 홀리데이 캠페인](https://www.rollingstone.com/wp-content/uploads/2026/11/mariah-carey-gucci-2026.png?w=1600&h=900&crop=1 "Rolling Stone|https://www.rollingstone.com/product-recommendations/lifestyle/mariah-carey-christmas-gucci-holiday-campaign-2026-video-1235651280/")
+![머라이어 캐리의 '버터플라이' 캡슐 공개, 구찌 홀리데이 캠페인](https://www.rollingstone.com/wp-content/uploads/2026/11/mariah-carey-gucci-2026.png?w=1200 "Rolling Stone|https://www.rollingstone.com/product-recommendations/lifestyle/mariah-carey-christmas-gucci-holiday-campaign-2026-video-1235651280/")
 
 ## 주석
 

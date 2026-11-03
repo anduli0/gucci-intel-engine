@@ -31,6 +31,7 @@
 상업적으로 미우미우는 2020년대 들어 업계에서 가장 극적인 성장 곡선을 그렸다. 2023년 매출은 약 7억 5,300만 유로였고, 그해 전년비 성장률은 82%에 이르렀다.[10] 2024년에는 상반기 매출이 전년비 93% 급증하고 3분기 매출이 105% 늘어나는 초고성장을 기록하며 프라다 그룹 성장의 주 엔진으로 자리 잡았다.[10] 이 폭발의 배경에는 SS22 바이럴 마이크로 미니스커트, AW23의 안경 쓴 사서(librarian) 룩, 팬츠리스 트렌드 선도 같은 문화적 순간들이 있었고, 이들은 다리오 비탈레가 디자인 디렉터로서 설계에 깊이 관여한 산출물로 지목된다 — 단 브랜드 성과 수치는 비탈레 개인 기여분을 분리 계량한 것이 아니라 하우스 전체 성과다.[13]
 
 
+
 2026년 들어 이 곡선은 평탄화됐다. 프라다 그룹이 2026년 8월 3일 발표한 상반기 실적에서 그룹 순매출은 고정환율 기준 16% 증가한 30억 4,800만 유로였으나, 미우미우 브랜드의 상반기 리테일 성장률은 약 2.5%(1분기 2.6%·2분기 2.5%)로 급감하며 2025년 40%대 초고성장 국면을 사실상 종료했다.[8][16] 비즈니스 오브 패션은 이를 성장의 꺾임이라기보다 극도로 높아진 비교 기준선과 중동 여파(상반기 중동 매출 -24%)가 겹친 '연착륙(soft landing)'으로 규정했다.[8][9] 일부 이차 매체가 2026년 미우미우 성장률로 재인용한 35%·49% 류 수치는 과거 회계연도 총매출 성장률의 오인용으로, 당기 상반기 리테일 동일점포 지표가 아니다(미확인 수치는 본 리포트에서 배제).
 
 ## 3. 스타일과 미학
@@ -85,7 +86,7 @@
 [1] Wikipedia — Miuccia Prada (약력·프라다/미우미우 크리에이티브 총괄·공동 CEO) — https://en.wikipedia.org/wiki/Miuccia_Prada
 [2] WWD — Miu Miu Spring 2027 Ready-to-Wear Review (SS27 리뷰·미우치아 'lift up the sport' 발언) — https://wwd.com/runway/spring-2027/paris/miu-miu/review/
 
-![Miu Miu Spring 2027 Ready-to-Wear Review (SS27 리뷰·미우치아 'lift up the sport' 발언)](https://wwd.com/wp-content/uploads/2026/10/miu-miu-spring-27-rtw-pfw-r-gg-001.jpeg?crop=0px%2C52px%2C1364px%2C764px&resize=1000%2C563 "WWD|https://wwd.com/runway/spring-2027/paris/miu-miu/review/")
+![Miu Miu Spring 2027 Ready-to-Wear Review (SS27 리뷰·미우치아 'lift up the sport' 발언)](https://wwd.com/wp-content/uploads/2026/10/miu-miu-spring-27-rtw-pfw-r-gg-001.jpeg?w=1200 "WWD|https://wwd.com/runway/spring-2027/paris/miu-miu/review/")
 [3] FashionNetwork UK — Miu Miu brings blend of tailoring and sportswear to the Paris runway (팔레 디에나·SS27·셀럽 워커) — https://uk.fashionnetwork.com/news/Miu-miu-brings-blend-of-tailoring-and-sportswear-to-the-paris-runway,1873326.html
 [4] W Magazine — Miu Miu Spring 2027 Makes a Case for Crystal Bras and Crumpled Skirts (Here and Now·크리스털 브라·킬트·뉴발란스·랭글러·미우치아 발언) — https://www.wmagazine.com/fashion/miu-miu-spring-2027-runway-photos
 [5] Emirates Woman — Miuccia Prada embraces retro athleticwear for Miu Miu SS27 (레트로 애슬레틱·크리스털·실크 미니드레스) — https://emirateswoman.com/miuccia-prada-embraces-retro-athleticwear-for-miu-miu-ss27-at-paris-fashion-week/
@@ -134,6 +135,7 @@ Miu Miu is often called Prada's "rebellious little sister."[10] Its name derives
 It is difficult to discuss Miuccia's "prior house" separately, since her entire career unfolded within the Prada family business and its derivative houses. This section is therefore best read as the trajectory of Miu Miu — a distinct identity she built in parallel with Prada mainline over more than thirty years. From the outset Miu Miu was designed as a domain of instinct, emotion, and spontaneity that Prada mainline's intellectual restraint could not contain, and from its first ready-to-wear show in Fall 1995 it foregrounded "schoolgirl-lingerie" codes such as long-line cotton bras, sheer peignoirs, smocking, lace, and ruffles.[10]
 
 Commercially, Miu Miu traced one of the industry's most dramatic growth curves in the 2020s. Its 2023 revenue was about €753 million, with year-over-year growth that year reaching 82%.[10] In 2024 it posted hyper-growth, with first-half revenue up 93% and third-quarter revenue up 105% year-over-year, establishing itself as the Prada Group's main growth engine.[10] Behind this explosion were cultural moments such as the viral SS22 micro-mini skirts, the bespectacled "librarian" look of AW23, and the pioneering of the pantless trend — output in which Dario Vitale, as design director, was deeply involved, though the brand figures are house-wide performance, not an isolation of his individual contribution.[13]
+
 
 
 In 2026 the curve flattened. In the half-year results released on August 3, 2026, the Prada Group's net revenue rose 16% at constant currency to €3,048 million, but the Miu Miu brand's first-half retail growth decelerated sharply to roughly 2.5% (2.6% in Q1, 2.5% in Q2), effectively ending the 40%+ hyper-growth phase of 2025.[8][16] Business of Fashion characterized this not as a reversal but as a "soft landing" shaped by an extraordinarily elevated comparison base and the drag from the Middle East (Middle East sales down 24% for the half).[8][9] Figures such as 35% or 49% recycled by some secondary outlets as 2026 Miu Miu growth are misattributions of past fiscal-year net-sales growth, not a current-period H1 retail like-for-like metric (unverified figures are excluded from this report).
@@ -190,7 +192,7 @@ The following 12-month watch points carry hypothesis labels. [Hypothesis] First,
 [1] Wikipedia — Miuccia Prada (biography, creative head of Prada/Miu Miu, co-CEO) — https://en.wikipedia.org/wiki/Miuccia_Prada
 [2] WWD — Miu Miu Spring 2027 Ready-to-Wear Review (SS27 review, Miuccia "lift up the sport" quote) — https://wwd.com/runway/spring-2027/paris/miu-miu/review/
 
-![Miu Miu Spring 2027 Ready-to-Wear Review (SS27 review, Miuccia lift up the sport quote)](https://wwd.com/wp-content/uploads/2026/10/miu-miu-spring-27-rtw-pfw-r-gg-001.jpeg?crop=0px%2C52px%2C1364px%2C764px&resize=1000%2C563 "WWD|https://wwd.com/runway/spring-2027/paris/miu-miu/review/")
+![Miu Miu Spring 2027 Ready-to-Wear Review (SS27 review, Miuccia lift up the sport quote)](https://wwd.com/wp-content/uploads/2026/10/miu-miu-spring-27-rtw-pfw-r-gg-001.jpeg?w=1200 "WWD|https://wwd.com/runway/spring-2027/paris/miu-miu/review/")
 [3] FashionNetwork UK — Miu Miu brings blend of tailoring and sportswear to the Paris runway (Palais d'Iéna, SS27, celebrity walkers) — https://uk.fashionnetwork.com/news/Miu-miu-brings-blend-of-tailoring-and-sportswear-to-the-paris-runway,1873326.html
 [4] W Magazine — Miu Miu Spring 2027 Makes a Case for Crystal Bras and Crumpled Skirts (Here and Now, crystal bras, kilts, New Balance, Wrangler, Miuccia quote) — https://www.wmagazine.com/fashion/miu-miu-spring-2027-runway-photos
 [5] Emirates Woman — Miuccia Prada embraces retro athleticwear for Miu Miu SS27 (retro athletic, crystals, silk minidresses) — https://emirateswoman.com/miuccia-prada-embraces-retro-athleticwear-for-miu-miu-ss27-at-paris-fashion-week/

@@ -46,7 +46,7 @@
 
 사르토리가 밝힌 지향점의 핵심은 '바꾸지 않기'라는 역발상이다 — 그는 매 시즌 트렌드를 바꾸는 대신 '바꾸지 않는 것이 중요하다'로 방정식을 뒤집었고, 2025년 실루엣이 2026·2027년과 같은 미학의 겹으로 이어지도록 설계한다고 말한다[4][5]. 즉, 일회성 화제보다 오래 입는 옷을 지향한다는 뜻이며, 2026 가을·겨울에서 그는 "buy less but better"(덜 사되 더 좋게)를 직접 언급했다[11]. 또한 그는 자신의 전략 영역을 좁히는 데 자신감을 둔다 — "we're going deeper"(우리는 더 깊이 들어간다)는 말로, 영역 밖으로 넓히기보다 핵심 안에서 파고드는 노선을 설명한다[3].
 
-![사르토리 트렌드 추종 대신 타임리스 디자인 지향 인터뷰](https://wwd.com/wp-content/uploads/2025/05/DSC9601-1.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/fashion-news/fashion-features/zegnas-alessandro-sartori-champions-timeless-design-1237873775/")
+![사르토리 트렌드 추종 대신 타임리스 디자인 지향 인터뷰](https://wwd.com/wp-content/uploads/2025/05/DSC9601-1.jpg?w=1200 "WWD|https://wwd.com/fashion-news/fashion-features/zegnas-alessandro-sartori-champions-timeless-design-1237873775/")
 
 이러한 측면에서 사르토리의 철학은 '수직통합이 뒷받침하는 조용한 럭셔리'로 읽어야 한다 — 그는 스포츠웨어도 "There is a perception that sportswear should be done faster"(스포츠웨어는 더 빨리 만들어야 한다는 인식이 있다)는 통념을 거부하며 테일러링과 같은 공정·장인·규칙을 적용한다고 말한다[3]. 다만 본 분석의 판단은, 이 철학이 제냐에서는 강점이지만 보편 공식은 아니라는 것이다 — 로고·과시를 배제한 절제는 비평 언어로는 우위이되, 아이코닉 상품의 회전율로 성장을 끌어야 하는 하우스에서는 성장 속도를 늦추는 요인이 될 개연성이 높다. 제냐가 이 긴장을 견디는 근거는 미학이 아니라 제조 통제력에 있다고 보는 것이 정확하다[3].
 
@@ -145,7 +145,7 @@ His stage is not plain minimalism but carries Zegna's manufacturing narrative �
 
 The core of Sartori's stated aim is the counterintuitive idea of "not changing" — rather than shifting trends every season, he has inverted the equation to "it's important not to change," saying he designs so that the 2025 silhouette carries through as the same aesthetic layer into 2026 and 2027[4][5]. That is, he aims at clothes that last rather than one-off buzz, and at Fall/Winter 2026 he directly invoked "buy less but better"[11]. He also places confidence in narrowing his own strategic territory — "we're going deeper," he says, describing a line that digs within the core rather than expanding beyond it[3].
 
-![Sartori interview on pursuing timeless design instead of chasing trends](https://wwd.com/wp-content/uploads/2025/05/DSC9601-1.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/fashion-news/fashion-features/zegnas-alessandro-sartori-champions-timeless-design-1237873775/")
+![Sartori interview on pursuing timeless design instead of chasing trends](https://wwd.com/wp-content/uploads/2025/05/DSC9601-1.jpg?w=1200 "WWD|https://wwd.com/fashion-news/fashion-features/zegnas-alessandro-sartori-champions-timeless-design-1237873775/")
 
 In this respect, Sartori's philosophy should be read as "quiet luxury underpinned by vertical integration" — he rejects the notion that sportswear, too, should be "done faster," saying he applies the same processes, craftsmanship and rules as tailoring to it[3]. Our read, though, is that this philosophy is a strength at Zegna but not a universal formula — restraint that excludes logos and display is an advantage in critical language, but at a house that needs icon-product turnover to drive growth, it is likely to act as a factor that slows the pace of growth. It is accurate to say that the ground on which Zegna withstands this tension is manufacturing control, not aesthetics[3].
 

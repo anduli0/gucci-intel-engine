@@ -200,7 +200,7 @@ The following 12-month watch points carry hypothesis labels. [Hypothesis] First,
 [7] Vogue Adria — Analysis of Burton's remarks (philosophy, femininity, atelier) — https://vogueadria.com/sarah-burton-givenchy-intervju/
 [8] WWD — Givenchy Fall 2025 campaign (multigenerational female casting) — https://wwd.com/fashion-news/designer-luxury/givenchy-fall-2025-campaign-kaia-1238066700/
 
-![Givenchy Fall 2025 campaign (multigenerational female casting)](https://wwd.com/wp-content/uploads/2025/08/givenchy-fall-2025-campaign-csty-01.jpg?crop=0px%2C131px%2C1600px%2C897px&resize=1000%2C563 "WWD|https://wwd.com/fashion-news/designer-luxury/givenchy-fall-2025-campaign-kaia-1238066700/")
+![Givenchy Fall 2025 campaign (multigenerational female casting)](https://wwd.com/wp-content/uploads/2025/08/givenchy-fall-2025-campaign-csty-01.jpg?w=1200 "WWD|https://wwd.com/fashion-news/designer-luxury/givenchy-fall-2025-campaign-kaia-1238066700/")
 [9] The Impression — Givenchy Spring 2026 review (powerful femininity, sophisticated tailoring) — https://theimpression.com/givenchy-spring-2026-fashion-show-review/
 [10] Business of Fashion — Williams's Givenchy departure, turnaround context, Luca Solca — https://www.businessoffashion.com/articles/luxury/matthew-williams-to-exit-givenchy/
 [11] Fast Company — Amandine Ohayon named Givenchy CEO, succeeding Alessandro Valenti who moves to Christian Dior Couture (effective 2026-01-09) — https://fastcompany.co.za/co-design/2026-01-09-amandine-ohayon-appointed-ceo-of-givenchy-marking-a-strategic-shift-for-lvmh/

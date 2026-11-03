@@ -14,7 +14,6 @@
 
 이번 사안의 결론은 '턴어라운드(turnaround) 서사'가 3분기 숫자로 반박당했고, 이번 주 네 권역의 분위기를 끌고 간 것은 긍정 활성화의 양이 아니라 실적·가격·창작 방향을 둘러싼 신뢰 훼손의 무게였다는 것이다 — 10월 22~23일 발표된 케링 3분기 실적에서 구찌의 비교가능 매출은 전년 대비 감소했고 직영 소매는 더 큰 폭으로 빠졌으며, 케링 주가는 사상 최대 단일일 급락을 기록했다[1][2]. 이에 더해 연내 폐점 목표를 125개 이상으로 상향한 점포 축소 가속과 중국 회복 시점을 12~24개월 뒤로 미룬 경영진의 발언이 유럽·북미·동북아·동남아 전역에서 비판적 보도와 애널리스트 목표가 하향으로 번졌다[3][4]. 다만 같은 기간 GucciCore 2027 크루즈 캠페인, 앰배서더 활동, 두바이 플래그십 재개장 같은 활성화(activation) 커버리지도 이어졌다[5][6][7]. 하지만 본 분석의 판단은, 이는 브랜드가 집행한 마케팅 산출물로서 여론 개선의 증거가 아니라 반대 분위기를 상쇄하기에는 역부족인 자체 홍보 노출이라는 것이다. (지수 관련 수치는 같은 날짜의 지수 해석 리포트를 참조.)
 
-![구찌 재차 실망, UBS 목표가 하향](https://mdb.ad-hoc-news.de/bild/bild-2706480_1920_1080.webp "ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/kering-aktie-gucci-enttaeuscht-erneut/70397373")
 
 ## 1. 오늘의 구찌 — 글로벌 및 권역별 비즈니스 그림
 
@@ -34,11 +33,12 @@
 
 네 권역의 분위기를 한꺼번에 끌어내린 근본 원인은 단일 사건, 즉 3분기 실적 쇼크다. 이를 비즈니스 관점에서 분해하면 구조는 분명하다. 첫째, 매출 부진의 중심은 직영 소매였다. 매장 방문객(트래픽)이 핵심 제약이었고 전환율과 객단가는 비교적 버텼다는 경영진 설명은, 문제가 "오는 사람에게 못 파는 것"이 아니라 "사람 자체가 오지 않는 것"임을 시사한다[2][30]. 이는 캠페인 노출로 단기에 뒤집기 어려운 수요 기반의 문제로 읽어야 한다.
 
-![3분기 실적으로 본 워크인 의존 한계](https://insideretail.com.au/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Australia|https://insideretail.com.au/business/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore-202610")
 
 둘째, 지역 리스크가 중국 단일 의존에서 북미로 확산됐다. 그간 미국의 호조가 중국 약세의 방어선 역할을 했는데, 이번 분기에는 그 방어선마저 둔화됐다는 점이 북미 투자자에게 특히 부정적으로 읽혔다[15][16]. 이에 중국 회복을 12~24개월 뒤로 미룬 시간표는 "곧 좋아진다"는 기대를 제거하며 애널리스트 목표가 하향(UBS·Citi)과 "개선 국면이 끝났다"는 셀사이드(sell-side) 비판으로 직결됐다[11][9].
 
 셋째, 가격·가치 신뢰가 동시에 흔들렸다. 경영진이 가격을 "다소 과하게 올렸다"고 인정하고 평균 판매가 대역을 2,000~3,000유로로 낮추며 캐리오버 품목을 약 20% 인하하는 전략은, 중국에서는 "먼저 산 사람이 손해"라는 가격보호 불만으로, 유럽에서는 품질 대비 가격 비판으로, 동남아에서는 과거 중국 구매 차익(아비트라지, arbitrage) 메리트 소멸로 각기 다른 역풍을 낳았다[9][24][14][36]. 넷째, 창작 방향에 대한 불신이 재무 악재와 겹쳤다. 뎀나의 봄 2027 쇼를 둘러싼 "저속하다"는 혹평, "길을 잃었다"는 비평, 일부 마이클레 시대 백 라인의 상대적으로 낮은 모델별 리세일 유지율 데이터는 "지금의 창작 베팅이 수요를 되살릴 수 있는가"라는 핵심 질문을 투자자와 소비자 양쪽에서 증폭시켰다[12][13][19].
+
+![중국/해외 가격차 축소와 여행 리테일 영향](https://n.sinaimg.cn/sinakd10209/360/w180h180/20260717/bca1-a1a5b3665092560b09aafdc899c71f08.jpg "Weibo explainer (SEA price-gap angle)|https://weibo.com/2/detail/comos:niuhitp5783497")
 
 요컨대 이번 모멘텀 악화는 일시적 뉴스 사이클이 아니라 (1) 수요 트래픽의 구조적 약세, (2) 지역 분산 방어선의 동반 약화, (3) 가격·가치 신뢰 훼손, (4) 창작 방향에 대한 회의가 하나의 실적 발표를 계기로 동시에 표면화된 복합 충격이라고 보는 것이 정확하다(가설 아님, 보도 근거). 다만 "뎀나 체제가 상업적으로 실패할 것"이라는 결론은 아직 미확인이다 — 일부 독립 비평은 "방향을 잃었지만 그 베팅이 통할 수도 있다"는 유보를, 베트남 패션 매체는 올해 초 신규 핸드백으로 일시적 안정 조짐이 있었음을 함께 전한다[19][37].
 
@@ -148,7 +148,6 @@
 
 Our conclusion is that the Q3 numbers refuted the "turnaround" narrative, and that what drove this week's mood across all four regions was not the volume of positive activation but the weight of eroding trust around earnings, pricing, and creative direction — in Kering's Q3 results released October 22-23, Gucci's comparable sales fell year-over-year with directly operated retail dropping even further, and Kering shares posted their worst-ever single-day decline[1][2]. On top of this, the accelerated store-network reduction, with the full-year closure target raised past 125, and management's remark pushing China's recovery out 12-24 months spread critical coverage and analyst price-target cuts across Europe, North America, Northeast Asia, and Southeast Asia alike[3][4]. That said, activation coverage continued over the same period — the GucciCore 2027 cruise campaign, ambassador activity, and the Dubai flagship reopening[5][6][7]. Still, our read is that this is brand-executed marketing output: not evidence of improving public opinion, but self-promotional exposure far too light to offset the opposite mood. (For index figures, see the same-date index interpretation report.)
 
-![Gucci disappoints again, UBS cuts target](https://mdb.ad-hoc-news.de/bild/bild-2706480_1920_1080.webp "ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/kering-aktie-gucci-enttaeuscht-erneut/70397373")
 
 ## 1. Gucci Today — Global and Regional Business Picture
 
@@ -168,11 +167,12 @@ In Southeast Asia, a frame defining Gucci's problem as structural rather than ta
 
 The root cause pulling down the mood across all four regions simultaneously is a single event: the Q3 earnings shock. Breaking this down from a business perspective, the structure is clear. First, the center of the sales weakness was directly operated retail. Management's explanation that store traffic was the core constraint while conversion rate and average ticket held up relatively well suggests the problem is not "failing to sell to people who come in" but "people simply not coming in at all"[2][30]. This is best read as a demand-side problem that campaign exposure cannot quickly reverse.
 
-![Q3 results show the limits of walk-in dependence](https://insideretail.com.au/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Australia|https://insideretail.com.au/business/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore-202610")
 
 Second, regional risk spread from single-country dependence on China to North America as well. The US's strength had served as a defensive line against China's weakness, so the fact that even that defensive line slowed this quarter read especially negatively to North American investors[15][16]. The 12-24 month timeline pushed out for China's recovery removed any expectation of an imminent improvement, feeding directly into analyst price-target cuts (UBS, Citi) and sell-side criticism that "the improvement phase has ended"[11][9].
 
 Third, trust in both pricing and value was shaken simultaneously. Management's admission that prices had been raised "somewhat excessively," its move to lower the average selling price band to 2,000-3,000 euros, and its strategy of cutting carry-over items by roughly 20% each generated distinct backlashes — price-protection complaints in China ("early buyers lose out"), quality-versus-price criticism in Europe, and the disappearance of the old China-arbitrage advantage in Southeast Asia[9][24][14][36]. Fourth, distrust around creative direction compounded the financial bad news. The "vulgar" criticism surrounding Demna's Spring 2027 show, the "lost the plot" commentary, and resale data showing relatively weak per-model retention for some Michele-era bag lines together amplified, for both investors and consumers, the core question of "can the current creative bet revive demand?"[12][13][19].
+
+![Narrowing China/overseas price gap and its effect on travel retail](https://n.sinaimg.cn/sinakd10209/360/w180h180/20260717/bca1-a1a5b3665092560b09aafdc899c71f08.jpg "Weibo explainer (SEA price-gap angle)|https://weibo.com/2/detail/comos:niuhitp5783497")
 
 In short, the accurate description is that this week's momentum deterioration is not a transient news cycle but a compound shock in which (1) structural weakness in demand traffic, (2) simultaneous weakening of regional diversification as a hedge, (3) erosion of trust in pricing and value, and (4) skepticism about creative direction all surfaced together, triggered by a single earnings release (not a hypothesis — grounded in reporting). That said, the conclusion that "the Demna era will fail commercially" remains (unverified) — some independent criticism allows that "the direction may have lost the plot, but the bet could still pay off," and Vietnamese fashion media also reports signs of temporary stabilization earlier this year tied to new handbag releases[19][37].
 

@@ -78,7 +78,7 @@
 
 넷째, 스포츠웨어 협업 노선의 직접 비교점. 셀린이 조용한 럭셔리 하우스로서 처음으로 리복과 스니커 협업에 나선 것은,[13] 구찌 자신의 아디다스 협업 이후 스포츠웨어 전략의 지속성·경쟁 강도를 가늠하는 직접적 벤치마크가 된다. 헤리티지 미니멀리즘을 표방하는 하우스마저 스니커 컬처와 협업으로 화제·젊은 고객을 겨냥하는 흐름이 확산된다면, 구찌의 스포츠웨어·협업 어젠다는 차별적 우위가 아니라 카테고리 표준으로 희석될 위험이 있다(가설). 반대로 셀린 협업이 단발 캡슐에 그친다면, 구찌가 스포츠웨어 협업을 지속 프랜차이즈로 안착시킬 여지가 상대적으로 커진다. 셀린 x 리복의 판매 지속성과 후속 여부는 구찌 협업 로드맵의 경쟁 판단에 참고 지표가 된다(가설).
 
-![셀린 최초 스니커 협업 '리복 프리스타일 로': 2026년 6월 봄 2027 남성 런웨이 데뷔 후 9월 출시, 라이더가 측면 오버레이 제거·램스킨 재구성·8개 셀린 컬러(다크 브라운·옥스블러드·옵틱 화이트·피넛 등)](https://wwd.com/wp-content/uploads/2026/09/Celine.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/footwear-news/sneaker-news/celine-reebok-freestyle-lo-sneaker-release-date-1239200585/")
+![셀린 최초 스니커 협업 '리복 프리스타일 로': 2026년 6월 봄 2027 남성 런웨이 데뷔 후 9월 출시, 라이더가 측면 오버레이 제거·램스킨 재구성·8개 셀린 컬러(다크 브라운·옥스블러드·옵틱 화이트·피넛 등)](https://wwd.com/wp-content/uploads/2026/09/Celine.jpg?w=1200 "WWD|https://wwd.com/footwear-news/sneaker-news/celine-reebok-freestyle-lo-sneaker-release-date-1239200585/")
 
 ## 7. 전망
 
@@ -193,7 +193,7 @@ Third, LVMH portfolio implications and a lesson in legacy management. Celine is 
 
 Fourth, a direct comparison point on the sportswear-collaboration front. Celine's first-ever move into a Reebok sneaker collaboration as a quiet-luxury house[13] becomes a direct benchmark for gauging the durability and competitive intensity of Gucci's own post-Adidas sportswear strategy. If the trend of even heritage-minimalist houses courting buzz and younger customers through sneaker-culture collaborations spreads, Gucci's sportswear/collaboration agenda risks being diluted from a differentiating advantage into a category standard (hypothesis). Conversely, if the Celine collaboration proves a one-off capsule, Gucci has comparatively more room to establish sportswear collaborations as a sustained franchise. The Celine x Reebok collaboration's sales durability and any follow-up are reference indicators for competitive judgment on Gucci's collaboration roadmap (hypothesis).
 
-![Celine's first sneaker collaboration, the Reebok Freestyle Lo: runway debut at the Spring 2027 men's show in June 2026, retail launch in September, Rider removing the lateral overlays and rebuilding it in lambskin across eight Celine colors (Dark Brown, Oxblood, Optic White, Peanut, etc.)](https://wwd.com/wp-content/uploads/2026/09/Celine.jpg?w=1000&h=563&crop=1 "WWD|https://wwd.com/footwear-news/sneaker-news/celine-reebok-freestyle-lo-sneaker-release-date-1239200585/")
+![Celine's first sneaker collaboration, the Reebok Freestyle Lo: runway debut at the Spring 2027 men's show in June 2026, retail launch in September, Rider removing the lateral overlays and rebuilding it in lambskin across eight Celine colors (Dark Brown, Oxblood, Optic White, Peanut, etc.)](https://wwd.com/wp-content/uploads/2026/09/Celine.jpg?w=1200 "WWD|https://wwd.com/footwear-news/sneaker-news/celine-reebok-freestyle-lo-sneaker-release-date-1239200585/")
 
 ## 7. Outlook
 

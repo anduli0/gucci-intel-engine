@@ -74,6 +74,7 @@ if [ "$(date +%u)" = "1" ]; then
 fi
 
 # Magazine layout: one photo per section in every report (deterministic, hotlinked og:image).
+pip install --quiet pillow numpy >/dev/null 2>&1 || true
 python scripts/add_figures.py || echo "WARN: figures failed"
 
 # Honesty gate: the cycle only "succeeded" if today's daily brief was actually

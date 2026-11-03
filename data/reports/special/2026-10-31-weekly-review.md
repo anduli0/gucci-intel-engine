@@ -17,6 +17,7 @@
 이번 주의 결론은 케링 3분기 실적이 확인한 구찌의 수요 문제가 한 주 내내 풀리지 않았고, 주말에 나온 몽테뉴가 신매장은 그 문제에 대한 답이라기보다 답의 방향을 보여 주는 활성화(activation) 소식에 머문다는 것이다 — 구찌 비교가능 매출은 -6%, 직영 매장은 -9%였고, 지수는 측정이 가능했던 사흘 내내 '주의' 구간 아래쪽(30.18~34.91)에 있었다[1][2]. 다만 지수의 일별 등락은 대부분 표본 크기와 계산 방식의 변화에서 나왔으므로 시장이 하루하루 달라졌다고 읽어서는 안 된다. 의견이 모이는 방향은 일관되게 부정적이었고, 그 반대편에는 리스트 순위 상승과 한국 시장의 밝은 대목 정도가 있을 뿐이다. 이 글은 이번 주 일간 리포트를 읽지 않은 독자도 상황을 파악할 수 있도록 사실, 해석, 한계를 한 편에 모았다.
 
 
+
 ## 1. 이번 주의 판정
 
 이번 주의 판정은 '턴어라운드 서사는 숫자 앞에서 후퇴했고, 구찌가 내놓은 처방은 방향은 맞지만 아직 입증되지 않았다'는 것이다 — 이 판정을 입증하는 숫자는 하나, 비교가능 매출 -6%다. 먼저 자료의 범위부터 밝힌다. 이번 주(10월 25일~31일)에 지수가 계산된 날은 10월 29일, 30일, 31일 사흘뿐이고, 25~28일은 지수 파일이 없다. 따라서 이 글의 지수 표는 5일치가 아니라 3일치이며, 10월 29일의 변화 폭은 전날이 아니라 2주 전인 10월 15일 대비다.
@@ -32,7 +33,8 @@
 
 구찌의 이번 주 사업 이야기는 실적 충격의 여진과 파리의 새 매장, 두 줄기로 정리된다. 실적부터 보면 문제의 중심은 직영 소매의 트래픽이다 — 경영진은 중국 본토와 일본의 방문객 감소를 지목했고[2][7], 중국 회복 시점을 12~24개월 뒤로 제시했다[3]. 이때 구찌는 케링 그룹 이익의 약 절반을 차지하므로 구찌의 부진은 곧 그룹의 부진이다[55]. 한편 구찌의 뉴욕 미트패킹 플래그십 폐점은 이미 8월에 보도됐고[53], 케링은 9개월 동안 순 105개 매장을 닫았고 연내 순폐점 목표를 최소 125개로 잡았다[1][51]. 이 숫자는 케링 그룹 전체의 순폐점이다. 10월 31일자 일간 제목이 이를 구찌 폐점처럼 읽히게 썼으나 출처 어디에도 구찌 단독 수치는 없으므로, 구찌 몫은 미확인이다.
 
-![아태에서 방문객이 제약, 전환율·가격은 유지, 한국은 밝은 지점](https://insideretail.asia/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Asia|http://insideretail.asia/2026/10/27/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore/")
+![케링 순 매장 폐쇄 목표 최소 125개로 상향, 9개월간 105개 폐쇄](https://www.retaildetail.eu/wp-content/uploads/sites/2/2026/10/shutterstock_gucci_asia.jpg "RetailDetail|https://www.retaildetail.eu/news/fashion/kering-holds-steady-but-gucci-remains-a-cause-for-concern/")
+
 
 증권가의 평가는 한 방향이었다. 씨티는 구찌의 개선 국면이 끝났다고 보며 목표주가를 낮췄고[9], 베렌베르크는 매도 의견을 유지한 채 목표주가를 175유로에서 165유로로 내렸다(페이지에 날짜가 없어 시점은 추정)[10]. 번스타인은 이번 분기를 핵심 제품의 근본적 매력이 약해졌다는 신호로 읽었다[13]. 10월 31일에는 TD 코웬이 케링 분석을 '보유' 의견으로 시작했고 컨센서스는 매수 2, 보유 9라고 전해졌다. 다만 이 기사는 자동 생성 성격의 하위 등급 매체라서 새 판단으로 보기는 어렵다[48]. 블룸버그 오피니언은 뎀나가 아직 설득력 있는 비전을 내놓지 못했다고 썼는데, 유료 기사라 제목과 검색 요약으로만 확인했다[12].
 
@@ -86,6 +88,7 @@ LVMH 진영에서는 패션·가죽이 -5%, 유통(세포라 등 셀렉티브 �
 가장 큰 반론은 '구찌만의 문제가 아니다'라는 방어 논리다. 같은 분기 LVMH 패션·가죽은 -5%였고 에르메스도 둔화했으며 케링뿐 아니라 업종 전체가 낮은 밸류에이션에 있다[27][29][26]. 이 논리에는 근거가 있다. 하지만 거시가 모두에게 불리한데 구찌의 감소 폭이 전 분기 -2%에서 -6%로 오히려 깊어졌다면, 비교는 더 불리하게 성립한다. 즉 업종 탓으로는 구찌의 낙폭 중 일부만 설명된다.
 
 
+
 강세 쪽 시나리오도 따로 둔다. 기대치가 이미 낮고 뎀나 체제의 연속성이 그룹 안의 다른 하우스보다 안정적이므로, 4분기 신제품이나 광군제 결과가 조금만 좋아도 심리가 돌 여지가 있다(가설). 다만 이 가설을 뒷받침할 이번 주 데이터는 없다.
 
 자료의 한계는 여섯 가지다. 첫째, 동북아와 유럽 점수는 5건과 7건의 뉴스 위에 있고 소셜·커뮤니티 공백이 섞여 있다. 둘째, 동남아 20건은 모두 뉴스이고 상당수가 원문이 아니라 구글 뉴스 검색 링크다. 셋째, WWD(몽테뉴가)와 블룸버그 오피니언은 유료라 본문을 읽지 못했다. 넷째, 컨센서스 -3.3%와 -5.4%, 장중 하락 12.3%·16%, 중국 인하 22~29%와 40%처럼 출처마다 숫자가 다르다. 다섯째, 앰배서더 성과에는 판매 수치가 없다. 여섯째, 지수는 3일치뿐이고 방법이 날마다 달라졌다. 이 한계 때문에 이번 주 결론은 '방향은 부정, 크기는 미확인'이다.
@@ -96,7 +99,8 @@ LVMH 진영에서는 패션·가죽이 -5%, 유통(세포라 등 셀렉티브 �
 
 다음 주에 확인할 것은 날짜가 정해진 것부터 적는다. 11월 1일에는 뮤엘라스가 루이비통에서 부임한다[56]. 11월 2일(월)은 다음 거래일이어서, 씨티·베렌베르크에 이어 추가 목표주가 하향이 나오는지가 첫 확인점이다. 같은 날 CFDA 패션 어워즈가 뉴욕에서 열리고[40], 에스티 로더가 FY27 1분기 실적을 낸다[57]. 11월 5일에는 샤넬이 시드니에서 크루즈 2027을 재연한다[59]. 11월 10일에는 크리스티에서 불가리 핑크 다이아몬드 반지(추정가 1,200만~1,800만 달러)가 경매에 오른다[60]. 11월 11일은 광군제이며 종료일(11월 13일)은 단일 출처라 미확정이다[41]. 11월 12일 전후로 버버리 중간 실적이 예상되지만 날짜는 미확정이고[38], 11월 13일에는 리슈몽 FY27 중간 실적이 있다[39]. 발렌시아가 피치올리의 공식 발표는 11월 중순으로 예상된다[24]. 11월 30일 런던 더 패션 어워즈[61], 12월 2일 샤넬 로마 메티에 다르[43], 12월 4일 디올 더블린 프리폴 쇼[42]가 그 뒤를 잇는다.
 
-![2026 CFDA 패션 어워즈 11월 2일 개최](https://r.fashionunited.com/WpWS4Nn3XPFHQnZOg9YABf4ZudmsACyAQi0nwRuKFGI/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMDgvaW1nLTA0NzgtMTAyNHgxNTM2LWpjZzhuMGZzLTIwMjYtMDctMDguanBlZw.jpeg "FashionUnited|https://fashionunited.com/news/fashion/the-2026-cfda-fashion-awards-to-take-place-november-2/2026070873372")
+![FY27 1분기 실적 11월 2일 발표 예고(보도자료)](https://media.elcompanies.com/images/e/estee-lauder-companies/global/global-images/elco-social-og.jpg "Estée Lauder Companies|https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/10-19-2026-213519457")
+
 
 
 지수에서는 세 가지를 본다. 첫째, 동북아와 유럽 표본이 10건을 넘어서도 경고 구간이 이어지는지다 — 그래야 경고 판정에 무게가 실린다. 둘째, 북미 감성이 비슷한 표본에서 0.40 아래로 돌아가는지다 — 돌아가면 10월 31일 상승은 표본 착시였을 가능성이 크다. 셋째, 화제 가중 방식(v2.4)으로의 전환일이다 — 그날의 변화 폭은 방법 변경분과 나눠 읽어야 한다. 구찌 쪽에서는 구찌가 몽테뉴가 콘셉트를 어느 도시에 언제 옮기는지 밝히는지, 그 일정이 폐점 지도와 겹치는지가 판단 기준이다.
@@ -224,6 +228,7 @@ This week's conclusion is that Kering's Q3 results confirmed a demand problem at
 Our conclusion is that the demand problem Kering's Q3 results confirmed at Gucci did not ease at any point this week, and the Avenue Montaigne store that surfaced at the end of it is brand-staged activation that shows the direction of an answer, not the answer itself — comparable sales fell 6% and directly operated stores 9%, and on the three days the index could be computed it sat in the lower caution band (30.18 to 34.91)[1][2]. That said, most day-to-day index moves came from sample size and calculation changes, so they should not be read as the market changing daily. Opinion pointed one way throughout, and the only offsets were a one-place rise in the Lyst ranking and a bright spot in Korea. This piece collects the facts, the readings and the limits so that someone who read none of the week's dailies can follow the situation.
 
 
+
 ## 1. The Verdict of the Week
 
 The verdict is that the turnaround narrative retreated in front of the numbers, and the remedy Gucci offered points the right way but is not yet proven; the one number that proves it is comparable sales of -6%. First, the scope of the data. The index was calculated on only three days this week (October 25 to 31): October 29, 30 and 31. There are no index files for the 25th to the 28th. The index table below therefore has three rows, not five, and the October 29 change is measured against October 15, two weeks earlier, not the previous day.
@@ -239,7 +244,8 @@ The verdict has a counterweight. Management said conversion and average ticket h
 
 Gucci's business story this week runs on two threads: the aftershock of the earnings shock, and a new store in Paris. On earnings, the centre of the problem is footfall in directly operated retail — management pointed to lower traffic from mainland China and Japan[2][7] and put the China recovery 12 to 24 months out[3]. Gucci accounts for about half of Kering's group profit, so its weakness is the group's[55]. Gucci's Meatpacking District flagship closure in New York was already reported in August[53]. Meanwhile Kering closed 105 stores net over nine months and set a full-year net closure target of at least 125[1][51]. That figure is Kering group-wide. The October 31 daily's headline made it read like a Gucci closure count, but none of the sources gives a Gucci-only number, so Gucci's share is unverified.
 
-![Traffic the APAC constraint, conversion and price held, Korea a bright spot](https://insideretail.asia/wp-content/uploads/2026/10/pexels-thanh-van-dinh-712218856-29998119.jpg "Inside Retail Asia|http://insideretail.asia/2026/10/27/how-the-third-quarter-shows-luxury-industry-cant-rely-on-walk-ins-anymore/")
+![Kering raises net closure target to at least 125, 105 closed over nine months](https://www.retaildetail.eu/wp-content/uploads/sites/2/2026/10/shutterstock_gucci_asia.jpg "RetailDetail|https://www.retaildetail.eu/news/fashion/kering-holds-steady-but-gucci-remains-a-cause-for-concern/")
+
 
 The brokers moved in one direction. Citi said Gucci's improvement phase is over and cut its target[9]; Berenberg kept its Sell and cut its target from EUR 175 to EUR 165 (the page is undated, so the timing is estimated)[10]. Bernstein read the quarter as a sign that the core product's fundamental appeal has weakened[13]. On October 31, TD Cowen was reported to have started coverage of Kering at Hold, with consensus at 2 Buy and 9 Hold, though the item comes from a low-tier, auto-generated-style outlet and is not a new judgment[48]. Bloomberg Opinion wrote that Demna has yet to show a convincing vision; that piece is paywalled and we confirmed it only through the headline and search summary[12].
 
@@ -293,6 +299,7 @@ Among independents and jewelry, the numbers split. Prada Group grew 1% organical
 The largest counter-argument is that this is not only Gucci's problem. Over the same quarter LVMH fashion and leather fell 5%, Hermes slowed, and the sector as a whole trades on low valuations, with Kering shares down about 28%[27][29][26]. The argument has merit. But if the macro backdrop hurts everyone and Gucci's decline still deepened from -2% last quarter to -6%, the comparison is worse, not better. The sector explains only part of Gucci's drop.
 
 
+
 We also set out a bull case. With expectations already low and Demna's continuity steadier than leadership at other group houses, even a small improvement from Q4 launches or Singles' Day could turn sentiment (hypothesis). This week's data gives no support for it yet.
 
 There are six limits on the data. First, NEA and EU scores rest on 5 and 7 news items, with a gap in social and community coverage. Second, SEA's 20 items are all news, and many are Google News search links rather than resolved articles. Third, WWD (Avenue Montaigne) and Bloomberg Opinion are paywalled and their bodies were not read. Fourth, sources disagree on numbers: consensus -3.3% versus -5.4%, an intraday drop of 12.3% versus 16%, China price cuts of 22% to 29% versus 40%. Fifth, ambassador impact has no sales figures. Sixth, the index covers only three days and its method changed from day to day. Because of these limits, the week's conclusion is "direction negative, size unverified".
@@ -303,7 +310,8 @@ The remedy carries risks too. If 125 closures and a showpiece store are reported
 
 The dated checks for next week come first. On November 1, Muelas starts at Louis Vuitton[56]. November 2 (Monday) is the next trading day, so the first check is whether further target cuts follow Citi and Berenberg. The same day the CFDA Fashion Awards take place in New York[40] and Estee Lauder reports FY27 Q1[57]. On November 5, Chanel restages Cruise 2027 in Sydney[59]. On November 10, Bulgari's pink diamond ring (estimate USD 12 to 18 million) goes to auction at Christie's[60]. November 11 is Singles' Day, and its end date (November 13) rests on a single source[41]. Burberry's interim results are expected around November 12 but the date is unconfirmed[38], and Richemont reports FY27 interim results on November 13[39]. Balenciaga's formal announcement on Piccioli is expected in mid-November[24]. The Fashion Awards in London follow on November 30[61], Chanel's Metiers d'art in Rome on December 2[43], and Dior's pre-fall show in Dublin on December 4[42].
 
-![2026 CFDA Fashion Awards on November 2](https://r.fashionunited.com/WpWS4Nn3XPFHQnZOg9YABf4ZudmsACyAQi0nwRuKFGI/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMDgvaW1nLTA0NzgtMTAyNHgxNTM2LWpjZzhuMGZzLTIwMjYtMDctMDguanBlZw.jpeg "FashionUnited|https://fashionunited.com/news/fashion/the-2026-cfda-fashion-awards-to-take-place-november-2/2026070873372")
+![FY27 Q1 results scheduled for November 2 (press release)](https://media.elcompanies.com/images/e/estee-lauder-companies/global/global-images/elco-social-og.jpg "Estee Lauder Companies|https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/10-19-2026-213519457")
+
 
 
 On the index we watch three things. First, whether NEA and EU samples exceed 10 items and the warning persists — only then does the warning carry weight. Second, whether North American sentiment falls back below 0.40 on a similar sample, which would make October 31's rise a sample illusion. Third, the day Buzz switches to the weighted method (v2.4), when the change must be separated from the method change. On Gucci's side, the test is whether Gucci says where and when the Montaigne concept goes next, and whether that schedule overlaps the closure map.

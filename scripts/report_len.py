@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Daily-brief length gate (binding since 2026-10-31).
+"""Daily-brief length gate (binding since 2026-10-31; tightened 2026-11-03 — a 3-minute read).
 
 Usage: python scripts/report_len.py data/reports/daily/<DATE>-<kind>.md [...]
 Exit 0 = every file within budget, 1 = at least one over.
@@ -17,9 +17,9 @@ KO_STOP = re.compile(r"^## (주석|출처|부록)", re.M)
 EN_STOP = re.compile(r"^## (Notes|Sources|Appendix)", re.M)
 # Korean reading text in characters (spaces included), English in words.
 BUDGET = {
-    "gucci-business-review": (1800, 340),
-    "index-interpretation": (1800, 340),
-    "luxury-brief": (2000, 380),
+    "gucci-business-review": (1200, 230),
+    "index-interpretation": (1200, 230),
+    "luxury-brief": (1300, 250),
 }
 
 
@@ -31,8 +31,9 @@ def body(text, stop):
 def measure(path):
     t = open(path, encoding="utf-8").read()
     ko, en = (t.split(MARK) + [""])[:2]
-    ko_b = re.sub(r"\[\d+\]", "", body(ko, KO_STOP))
-    en_b = re.sub(r"\[\d+\]", "", body(en, EN_STOP))
+    nofig = lambda s: re.sub(r"^!\[[^\n]*\n?", "", s, flags=re.M)  # photos are layout, not reading text
+    ko_b = re.sub(r"\[\d+\]", "", nofig(body(ko, KO_STOP)))
+    en_b = re.sub(r"\[\d+\]", "", nofig(body(en, EN_STOP)))
     return len(ko_b.strip()), len(en_b.split())
 
 
