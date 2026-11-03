@@ -1,0 +1,146 @@
+[
+  {
+    "id": "NA-20261103-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "T1 wire report: Kering shares drop 11% on Gucci comparable sales down 6%, DOS down 9%, weak APAC traffic; sustained negative-momentum framing",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261103-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline 'fails to reassure investors', stock down ~29% YTD, 'seventh straight quarter without recovery signal' — unambiguous negative momentum framing",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-20261103-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci framed as single biggest drag on group profitability / counter: Kering has a revival strategy and other divisions outperform — mixed but decided negative for Gucci specifically",
+    "signal_tags": ["negative_earnings", "mixed"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-20261103-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Gucci-owned holiday campaign (Mariah Carey/Harmony Korine) — press-kit derived, not public opinion per v1.1 discount",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20261103-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Lifestyle/commerce write-up describing the shoppable Carey x Gucci capsule and Carey's own promo cycle — descriptive activation coverage, no independent verdict on Gucci",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20261103-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Music-trade angle on same campaign, explicitly notes no audience-reaction data yet — descriptive activation coverage only",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-20261103-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade write-up of new Paris flagship store opening/concept — activation coverage of Gucci-staged retail launch, no independent critical verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20261103-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: questions whether Demna's Pre-Fall is derivative imitation of Tom Ford era rather than savvy recovery / counter: could be read as savvy brand-code recovery — mixed but decided skeptical, independent critical judgment",
+    "signal_tags": ["design_criticism", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20261103-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: uses Demna-Gucci FW26 backlash ('cheap', 'caricature', derivative of Tom Ford) as case study for broader designer-pressure essay / counter: broader framing isn't solely about Gucci — capped magnitude for essay framing beyond pure brand critique",
+    "signal_tags": ["design_criticism", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-20261103-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Interbrand shows Gucci brand value down ~30% YoY, steepest among major luxury houses / counter: Lyst cites some resilient demand pockets — mixed but decided negative per headline",
+    "signal_tags": ["negative_earnings", "mixed", "brand_value"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20261103-011",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregated consumer review platform ~1.8/5 average with recurring quality/craftsmanship and customer-service complaints — independent organic consumer sentiment, not brand-driven",
+    "signal_tags": ["quality_complaint", "consumer_review"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-20261103-012",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum debate mixes heritage-code appreciation with complaints pricing has outpaced quality/exclusivity / counter: some members still appreciate heritage codes — mixed but decided toward value-for-money dispute per title 'Unpopular Gucci Opinions'",
+    "signal_tags": ["value_for_money", "mixed", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261103-013",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuine two-sided community discussion comparing new Flora releases to archival pieces, no clear verdict surfaced — neutral per mixed-no-verdict rule",
+    "signal_tags": ["mixed", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-20261103-014",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan/entertainment-press post reacting positively to Carey-Gucci campaign ('Mariah Carey is gorgeous in Gucci') — fandom spike around ambassador, damped to 0.5 per fandom trap",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-20261103-016",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Macro analysis using Gucci/Kering's sales decline as central case study of a broader luxury demand slowdown — independent negative-momentum interpretation, headline-level",
+    "signal_tags": ["negative_earnings", "sector_red_flag"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-20261103-017",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "News-wire social amplification of Kering Q3 decline story, explicitly 'blowing hopes of a rapid return to growth' — organic news circulation, not brand-driven content, clear negative framing",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.8
+  }
+]

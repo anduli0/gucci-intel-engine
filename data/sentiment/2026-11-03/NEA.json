@@ -1,0 +1,119 @@
+[
+  {
+    "id": "NEA-20261103-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own holiday campaign/product launch, no outlet verdict",
+    "signal_tags": ["activation_coverage", "campaign_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20261103-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive pop-up/store opening write-up tied to brand-staged activation, no independent evaluation",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20261103-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci's brand recognition in China has become generic/undesirable despite price cuts and closures / counter: none offered, verdict is unambiguous",
+    "signal_tags": ["design_criticism", "china_disengagement", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20261103-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Stock plunge 16%+ intraday and sales decline explicitly read by markets as turnaround failing, sustained negative framing",
+    "signal_tags": ["negative_earnings", "stock_reaction", "turnaround_doubt"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-20261103-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci retail sales down 9% on weak China/Japan traffic / counter: group revenue stable thanks to jewelry and eyewear, so dilute to moderate magnitude",
+    "signal_tags": ["negative_earnings", "mixed", "traffic_decline"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-20261103-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Wealthy Chinese buyers pulling back from Gucci purchases amid tax scrutiny, macro-driven and peer-grouped with LV rather than Gucci-specific failure",
+    "signal_tags": ["china_disengagement", "demand_softening"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20261103-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sales described as plunging ('급락') as Chinese consumers rotate to domestic luxury brands, sustained negative framing of demand shift",
+    "signal_tags": ["negative_earnings", "china_disengagement", "value_for_money"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-20261103-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official fandom amplification of ambassador editorial content, descriptive activation coverage not independent public opinion",
+    "signal_tags": ["activation_coverage", "fandom_spike", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-20261103-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Weibo explainer frames Demna debut, 105 store closures and earnings pressure together as brand 'turbulence' / counter: Demna debut itself is neutral news, diluting magnitude",
+    "signal_tags": ["negative_earnings", "store_closures", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20261103-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified third-party resale data shows Gucci retention (~42%) well below Hermes/Chanel/LV, with trend styles dropping below 50% within months",
+    "signal_tags": ["resale_value_drop", "quantified_data"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-20261103-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community thread skeptical of Gucci's motives for the Gyeongbokgung show, framed as a commercial-vs-heritage paradox",
+    "signal_tags": ["controversy", "community_skepticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-20261103-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community mocks Gucci China Qixi campaign as cheap-looking, clear negative judgment on marketing quality",
+    "signal_tags": ["controversy", "design_criticism", "china_marketing"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-20261103-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador magazine cover feature, no independent evaluative verdict, continuing fandom-adjacent coverage",
+    "signal_tags": ["activation_coverage", "fandom_spike", "ambassador"],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-11-03-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive GucciCore campaign write-up with no independent evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-03-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD exclusive reports a brand-driven ambassador PR announcement with no independent evaluative verdict on Gucci; activation discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-03-003",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic Thai fan post celebrating two Gucci ambassadors as a fandom 'BA couple'; genuine non-brand enthusiasm but fandom-spike trap caps magnitude.",
+    "signal_tags": ["fandom", "ambassador", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-03-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of ambassador attending a Gucci collection preview at Marina Bay Sands, no verdict; background-only item outside freshness window, activation discount applies.",
+    "signal_tags": ["activation_coverage", "background_only", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-03-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci store sales down 9% as wealthy Chinese consumers quietly defect, logo seen as 'a debt rather than an asset' / counter: none, independent critical-analytical framing with quantified decline and contrast to growing rival.",
+    "signal_tags": ["negative_earnings", "china_demand", "critical_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-03-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Police action against a counterfeit-goods shop selling fake Gucci/LV/Dior items; brand-protection enforcement story, not a direct negative judgment on Gucci itself.",
+    "signal_tags": ["counterfeit"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-03-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Malaysian community thread reacts to Gucci KLCC store closure with dismissive/negative sentiment ('cringe', 'nothing of value was lost'); genuine organic negative opinion but background-only and outside freshness window, so magnitude dampened.",
+    "signal_tags": ["store_closure", "background_only", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-03-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: KLCC is losing its 'default prestige' status for luxury entrants / counter: framed as broader mall-positioning trend rather than a verdict on Gucci specifically; low-engagement analytical post, background-only, tagged mixed.",
+    "signal_tags": ["mixed", "background_only", "store_closure"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-03-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Long-running Singapore forum thread with no fresh 2026 posts surfaced; stale background item with no current evaluative content.",
+    "signal_tags": ["background_only", "community"],
+    "confidence": 0.5
+  }
+]

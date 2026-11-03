@@ -1,0 +1,164 @@
+[
+  {
+    "id": "EU-2026-11-03-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive flagship-opening write-up, no independent verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-03-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explicitly promotional store-opening copy with no critical framing",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-03-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade report on flagship opening and parallel campaign, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-03-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive store-concept coverage, stylistic framing only, no clear critical verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-03-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-fronted holiday campaign unveiling, descriptive promo coverage",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-03-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD frames this explicitly as activation news, not independent critique",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-03-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering/Gucci stock plunge 12-16% on Q3 comp sales down 6%, worse than expected / counter: none",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-03-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: disappointing results drove further stock loss and broker price-target cuts, weak China/Japan traffic cited / counter: none",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-03-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: turnaround honeymoon over, China recovery stalled and US momentum slowing, doubts raised / counter: none substantive",
+    "signal_tags": ["negative_momentum", "leadership_scrutiny"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-03-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: credible structural reset plan with 2030 targets / counter: tempers expectations, results 12-24 months away, no near-term verdict",
+    "signal_tags": ["mixed", "strategy_outlook"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-03-011",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: primary retail sales collapsing / counter: resale demand rising, read as desirability persisting; genuine two-sided framing with no single verdict",
+    "signal_tags": ["mixed", "resale"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-03-012",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: analysts lukewarm/skeptical on Demna brand-fit risk (5/10 rating) / counter: Balenciaga commercial record acknowledged but doesn't flip verdict",
+    "signal_tags": ["analyst_skepticism", "creative_direction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-03-013",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer reviews cite quality defects and poor customer service, value-for-money complaints",
+    "signal_tags": ["quality_complaint", "value_for_money", "customer_service"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-03-014",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: styling appreciation / counter: ongoing debate over design direction vs heritage; two-sided fan discussion with no verdict",
+    "signal_tags": ["mixed", "fandom", "creative_direction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-03-015",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector thread trading sourcing tips and opinions, largely descriptive engagement without dominant verdict",
+    "signal_tags": ["fandom", "collector_community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-03-016",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned promotional post, self-praise is not public opinion; also stale background context",
+    "signal_tags": ["activation_coverage", "ambassador", "stale"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-03-017",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cut could signal declining brand value / counter: or a buying opportunity; buyers split with no resolved verdict",
+    "signal_tags": ["mixed", "resale", "price_cut"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-03-018",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: CEO admission prices pushed too high implies past overreach / counter: questions whether cuts are rational correction; dated, unresolved framing",
+    "signal_tags": ["mixed", "price_cut", "stale"],
+    "confidence": 0.5
+  }
+]
