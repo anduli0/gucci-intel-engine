@@ -1,0 +1,101 @@
+[
+  {
+    "id": "SEA-2026-11-05-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own holiday campaign film (press-kit derived), no independent verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-05-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual corporate restructuring report, no evaluative framing toward the brand.",
+    "signal_tags": ["corporate"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-05-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained negative framing of Q3 sales decline ('slides') with APAC traffic softness and share slump; qualifies as negative momentum press, not neutral fact statement.",
+    "signal_tags": ["negative_earnings", "momentum"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-05-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-market discussion naming Gucci among most-faked brands; mild negative per counterfeit-inquiry category.",
+    "signal_tags": ["counterfeit"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-05-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Largely neutral shopping/availability discussion with only occasional minor value-for-money grumbling, no dominant negative thesis.",
+    "signal_tags": ["price_comparison"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-05-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: some praise Carey's presence / counter: majority of surfaced comments call the campaign sterile, cold, derivative of monogram fatigue — organic SNS reaction skews critical under dominant-thesis rule.",
+    "signal_tags": ["mixed", "sns_reaction", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-05-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: skeptical of Demna reset / counter: open to reconsidering if reset works — independent reviewer reaches no clear verdict, genuine two-sided weigh-up.",
+    "signal_tags": ["mixed", "creative_direction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-05-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic individual quality complaint on arrival, not activation-capped since it's a negative consumer experience; small-channel limits magnitude.",
+    "signal_tags": ["quality_complaint"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-05-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive retail promotion listing (GWP mechanics), brand-driven activation with no evaluative content.",
+    "signal_tags": ["activation_coverage", "retail_promo"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-05-010",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation write-up of FW26 runway debut with outlet's own mild editorial praise for the cinematic styling and logo-simplification direction; magnitude capped per activation discount.",
+    "signal_tags": ["activation_coverage", "creative_direction", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-05-011",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Industry-wide trade analysis naming Gucci among several houses expanding in SEA; market-context signal, not brand-specific evaluative sentiment.",
+    "signal_tags": ["industry_context"],
+    "confidence": 0.65
+  }
+]

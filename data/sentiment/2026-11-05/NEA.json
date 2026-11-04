@@ -1,0 +1,130 @@
+[
+  {
+    "id": "NEA-2026-11-05-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own Mariah Carey holiday campaign launch; no independent verdict.",
+    "signal_tags": ["activation_coverage", "campaign", "holiday"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-05-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive product/pop-up launch write-up (NY Tote, GucciCore pop-up) with no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage", "product_launch", "pop_up"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-05-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade coverage of same Mariah Carey campaign framed descriptively around brand's own messaging; not independent judgment.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-05-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive product-launch report on Gucci Beauty holiday line under new L'Oreal license; no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "beauty", "product_launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-05-005",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci's China ubiquity has become a liability amid a 9% sales decline / counter: none offered, piece argues brand needs a clearer POV, not more content.",
+    "signal_tags": ["critical_analysis", "china", "sales_decline", "brand_strategy"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-05-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Q3 comparable revenue fell 6% (worse than expected), guidance withdrawn, Kering shares plunged -- sustained negative momentum framing.",
+    "signal_tags": ["negative_earnings", "china", "stock_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-05-007",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "HK e-commerce storefront closure drew mocking local headlines ('even Gucci is closing down') tied to broader retail-rationalization narrative; organic reaction, not brand activation.",
+    "signal_tags": ["store_closure", "hong_kong", "mocking_tone"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-05-008",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reporting on ~125 planned Gucci store closures and leadership's own 'looks like grandmother's house' admission, plus Q1 sales down 8% -- clear negative thesis on branding failure.",
+    "signal_tags": ["store_closure", "brand_image", "negative_earnings", "background"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-05-009",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned official account post of ambassador activation; self-promo is not public opinion.",
+    "signal_tags": ["activation_coverage", "ambassador", "brand_owned"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-05-010",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-account aggregation of ambassador looks; fandom amplification damped per fandom trap, not treated as broad genuine brand affinity signal.",
+    "signal_tags": ["fandom", "ambassador", "kpop"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-05-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Bot/content-farm templated post pattern explicitly excluded from counted pool per source-pool-policy; no reliable sentiment extractable.",
+    "signal_tags": ["excluded", "bot_pattern", "not_counted"],
+    "confidence": 0.1
+  },
+  {
+    "id": "NEA-2026-11-05-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Evergreen, undated community thread joking about Gucci pricing; low-level persistent chatter, not a fresh dated signal, polarity demoted on low confidence.",
+    "signal_tags": ["community", "price_joke", "undated", "mixed"],
+    "confidence": 0.3
+  },
+  {
+    "id": "NEA-2026-11-05-013",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: strong brand recognition / counter: finishing and movement quality criticized versus same-price competitors -- quality complaint dominates despite undated post.",
+    "signal_tags": ["quality_complaint", "watches", "community", "undated"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NEA-2026-11-05-014",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "AI-generated campaign visuals drew organic backlash calling them 'cheap'/'AI slop', undermining craftsmanship claims; minority dissent does not flip dominant negative thesis.",
+    "signal_tags": ["ai_backlash", "campaign_controversy", "background"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-05-015",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Korean financial-media reporting on social backlash to AI campaign imagery, quoting users saying it 'looked hacked'/'looked cheap' -- clear organic negative reaction.",
+    "signal_tags": ["ai_backlash", "campaign_controversy", "background"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-05-016",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Beauty-division sale explicitly framed by Korean press as a consequence of 'Gucci's slump'; background negative earnings framing feeding into Nov beauty relaunch context.",
+    "signal_tags": ["negative_earnings", "background", "divestiture"],
+    "confidence": 0.55
+  }
+]

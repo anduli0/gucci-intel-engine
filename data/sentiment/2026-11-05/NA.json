@@ -1,0 +1,98 @@
+[
+  {
+    "id": "NA-2026-11-05-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own holiday campaign (cast, director, product) with no outlet verdict.",
+    "signal_tags": ["activation_coverage", "holiday_campaign", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-05-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual reporting of new advisers/org structure, no evaluative framing.",
+    "signal_tags": ["corporate", "org_change"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-05-003",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci misses on Q3 with comparable sales down 6% / counter: none — recovery framed as group's defining priority amid a clear miss.",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-05-004",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci cited as largest share of Kering's raised store-closure target, a negative momentum signal from a verification-required aggregator.",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-05-005",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: investor scrutiny over creative turnover and recovery delay / counter: decline framed partly as sector-wide China slump, not Gucci-specific failure.",
+    "signal_tags": ["mixed", "negative_earnings", "investor_scrutiny"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-05-006",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of campaign styling and product tie-in, playful tone but no clear evaluative verdict on the brand.",
+    "signal_tags": ["activation_coverage", "holiday_campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-05-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: some viewers call the campaign sterile/cold and blame creative direction / counter: others praise Carey's campy energy as on-brand — genuine two-sided split with no resolved verdict.",
+    "signal_tags": ["mixed", "social_reaction", "creative_direction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-05-008",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: thread title and recurring reports flag quality concerns (wear, tarnishing) / counter: some defend construction versus peers at similar price tiers.",
+    "signal_tags": ["mixed", "quality_complaint"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-05-009",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: recurring fatigue with logo-heavy design and skepticism that price hikes are justified / counter: some posters still buy and defend the house.",
+    "signal_tags": ["mixed", "price_hike_backlash", "design_criticism"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-05-010",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sustained consumer complaints about durability and customer service across a low-rated rolling review archive, not a single fresh flashpoint.",
+    "signal_tags": ["quality_complaint", "value_for_money"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-05-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: debate whether Demna's debut is genuine reinvention / counter: or derivative of Tom Ford era — unresolved, and explicitly flagged as stale background context, not a fresh signal.",
+    "signal_tags": ["mixed", "stale", "creative_direction"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-11-05-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive roundup framing Demna-era product rollout as an open question of audience resonance, no outlet verdict given and source URL unverifiable.",
+    "signal_tags": ["activation_coverage", "mixed"],
+    "confidence": 0.4
+  }
+]

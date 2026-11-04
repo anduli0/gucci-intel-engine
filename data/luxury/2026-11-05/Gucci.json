@@ -1,0 +1,107 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-11-05",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "구찌, 제품조직 개편 — 가죽제품·여성복·남성복&슈즈 4개 사업부로 재편, 신임 고문 2명 영입",
+      "headline_en": "Gucci Restructures Product Organization Into Four Category Business Units, Adds Two Senior Advisers",
+      "summary": "구찌가 가죽제품, 여성 레디투웨어, 남성 레디투웨어 및 슈즈로 구성된 4개 사업부 체제를 신설하고 각 부문장이 최고제품책임자(CPO) 마르첼로 코스타에게 보고하는 구조를 마련했다. 모니카 울미와 마르코 세메기니가 밀라노·피렌체를 기반으로 사업부 자문위원으로 합류해 뎀나와 CEO 프란체스카 벨레티니를 보좌한다.",
+      "url": "https://wwd.com/business-news/human-resources/gucci-new-business-units-structure-1239399916/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-11-04",
+      "why_it_matters": "크리에이티브(뎀나)와 상업 조직(사업부)을 분리해 런웨이 라인과 핵심 상품군의 개발 흐름을 이원화한 조치 — 턴어라운드 실행력을 높이려는 구조적 정비이나, 조직 변경이 반복되는 만큼 실제 매출 회복과의 연결고리는 아직 미확인.",
+      "why_it_matters_en": "Separating runway creative direction from category-level commercial execution signals an operational push behind the turnaround, but repeated reorganizations at Gucci make the link to actual sales recovery still unverified.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "구찌, 머라이어 캐리 출연 2026 홀리데이 캠페인 공개 — 하모니 코린 감독, '버터플라이' 컬렉션 선봬",
+      "headline_en": "Gucci Unveils 2026 Holiday Campaign Starring Mariah Carey, Directed by Harmony Korine",
+      "summary": "구찌가 11월 2일 머라이어 캐리를 주연으로, 영화감독 하모니 코린이 연출한 홀리데이 캠페인을 발표했다. 캐리의 1994년 히트곡 'All I Want for Christmas Is You'를 배경으로 한 단편 영화 형식이며, 캐리는 신규 '버터플라이' 특별 컬렉션 의상을 착용하고 스타렛·구찌 더플·GG 마몬트 백의 홀리데이 버전이 함께 소개됐다.",
+      "url": "https://variety.com/2026/shopping/news/mariah-carey-gucci-campaign-all-i-want-for-christmas-is-you-1236937517/",
+      "source": "Variety",
+      "tier": "T1",
+      "published_at": "2026-11-04",
+      "why_it_matters": "대형 셀럽·감독을 동원한 고비용 홀리데이 활성화 캠페인 — 브랜드 노출을 키우는 마케팅 집행이며, 이는 여론 개선의 증거가 아니라 홍보 활동 그 자체로 읽어야 한다.",
+      "why_it_matters_en": "A high-production celebrity-and-director holiday activation that expands brand exposure — this is marketing output, not evidence of sentiment improvement, and should be read as activation coverage only.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "구찌, 파리 아브뉴 몽테뉴에 신규 리테일 콘셉트 적용한 4층 플래그십 오픈",
+      "headline_en": "Gucci Opens Four-Floor Paris Flagship With New Global Retail Concept at Avenue Montaigne",
+      "summary": "구찌가 10월 30일 파리 아브뉴 몽테뉴 56번지에 1,480제곱미터 규모의 4층 플래그십을 열었다. 이는 향후 전 세계 매장망에 순차 적용될 신규 리테일 콘셉트의 첫 사례로, 2층에는 프라이빗 고객 경험 공간인 '구찌 아파르타멘토'가 마련됐다.",
+      "url": "https://theimpression.com/gucci-unveils-new-global-retail-concept-with-paris-flagship/",
+      "source": "The Impression",
+      "tier": "T2",
+      "published_at": "2026-10-30",
+      "why_it_matters": "케어링이 발표한 '리콘케어링' 전략의 매장 리노베이션 목표(매장망 3분의 2 개보수) 실행의 첫 가시적 사례 — 다만 투자 규모 대비 매장당 매출 밀도 개선 효과는 아직 수치로 확인되지 않았다.",
+      "why_it_matters_en": "The first visible execution of Kering's ReconKering pledge to renovate two-thirds of Gucci's store network — though the resulting sales-density uplift per store is not yet quantified.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "케어링 3분기 실적, 구찌 유기적 매출 6% 하락 — 턴어라운드 지연 우려",
+      "headline_en": "Kering Q3 Results Show Gucci Organic Sales Down 6%, Raising Turnaround Delay Concerns",
+      "summary": "케어링의 2026년 3분기 매출은 33.5억 유로로 전체적으로는 보합이었으나 구찌의 유기적 매출은 전년 대비 6% 감소해 시장 예상을 밑돌았다. CEO 루카 데 메오는 전년 비교 기저효과로 회복세가 선형적이지 않을 것이라고 경고했다.",
+      "url": "https://wwd.com/business-news/financial/kering-q3-revenues-flat-gucci-organic-sales-down-6-percent-1239380710/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-10-23",
+      "why_it_matters": "구찌 매출 부진이 분기째 지속되며 턴어라운드 서사의 핵심 반증 지표 — 리뉴얼 매장·신규 조직·대형 캠페인 등 집행은 늘었지만 매출 숫자는 아직 이를 뒷받침하지 못한다.",
+      "why_it_matters_en": "Gucci's sales decline persisting into another quarter is the key counter-signal to the turnaround narrative — renovated stores, new org structure and big campaigns have multiplied, but the revenue numbers do not yet back them up.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "licensing",
+      "headline": "코티, 구찌·케어링 상대 영국 법원에 뷰티 라이선스 소송 제기 — 로레알과 50년 계약 체결 후 합의로 마무리",
+      "headline_en": "Coty Sued Kering and Gucci Over Beauty License; Dispute Resolved Alongside L'Oréal's 50-Year Deal",
+      "summary": "코티 자회사가 2028년 만료 예정이던 구찌 뷰티 라이선스를 두고 케어링·구찌를 상대로 영국 상사법원에 소송을 제기했다. 케어링이 로레알과 40억 유로 규모의 50년 라이선스 계약을 체결한 데 따른 것으로, 이후 코티의 기존 라이선스를 조기 종료하고 보상하는 합의로 소송은 해소됐다.",
+      "url": "https://www.thefashionlaw.com/future-of-luxury-licensing-gucci-beauty-deal/",
+      "source": "The Fashion Law",
+      "tier": "T2",
+      "published_at": "2026-08-03",
+      "why_it_matters": "뷰티 라이선스 분쟁은 해소됐지만 로레알 체제의 실제 제품 출시는 2028년으로 예정 — 구찌 뷰티 매출 기여는 당분간 공백 구간으로 남는다.",
+      "why_it_matters_en": "The beauty licensing dispute is resolved, but actual product launches under L'Oréal are not slated until 2028 — leaving a gap period before Gucci Beauty can contribute meaningfully to revenue.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "partnership",
+      "headline": "구찌-구글, 2027년 출시 목표 스마트글래스 공동 개발 — 메타·레이밴에 대응",
+      "headline_en": "Gucci and Google Co-Developing Smart Glasses Targeted for 2027, Challenging Meta/Ray-Ban",
+      "summary": "구찌가 구글과 협력해 안드로이드 XR 기반 커넥티드 글래스를 개발 중이며 케어링 CEO 루카 데 메오는 2027년 출시를 목표로 한다고 밝혔다. 메타의 레이밴·오클리 스마트글래스에 대응하는 럭셔리 하우스 최초의 AI 아이웨어 시도다.",
+      "url": "https://roadtovr.com/gucci-branded-google-smart-glasses-release/",
+      "source": "Road to VR",
+      "tier": "T2",
+      "published_at": "2026-04-20",
+      "why_it_matters": "아이웨어·주얼리 등 라이선스 사업 확장으로 구찌 의존도를 낮추려는 케어링의 다각화 전략 일환 — 출시가 1년 이상 남아 단기 실적 기여는 없다.",
+      "why_it_matters_en": "Part of Kering's diversification push to reduce reliance on core Gucci fashion sales by scaling eyewear and jewelry licensing — with launch still over a year out, there is no near-term earnings contribution.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "strategy",
+      "headline": "케어링, '리콘케어링' 2030 턴어라운드 로드맵 발표 — 매장 20% 축소, 수익성 2배 목표",
+      "headline_en": "Kering Unveils 'ReconKering' 2030 Turnaround Roadmap, Targeting 20% Less Selling Space and Doubled Margins",
+      "summary": "케어링 CEO 루카 데 메오가 4월 16일 피렌체 자본시장일(CMD)에서 구조적 재정비(2026년말까지)→재건(2028년까지)→경쟁력 회복(2030년)의 3단계 로드맵을 공개했다. 매장망 3분의 2 개보수, 매장 면적 20% 축소, 아울렛 3분의 1 축소를 통해 매장당 매출 밀도를 2배로 끌어올리는 것이 핵심이다.",
+      "url": "https://www.cnbc.com/2026/04/16/kering-stock-ker-gucci-cmd-turnaround-profit-strategy.html",
+      "source": "CNBC",
+      "tier": "T1",
+      "published_at": "2026-04-16",
+      "why_it_matters": "구찌를 둘러싼 모든 개별 조치(파리 플래그십, 조직 개편, 매장 폐점)가 귀속되는 상위 전략 프레임 — 3분기까지 순폐점 105개로 목표(최소 125개) 상회 진행 중이나 매출 반등은 아직 수반되지 않았다.",
+      "why_it_matters_en": "The master strategic frame under which every individual Gucci move (Paris flagship, org restructuring, store closures) sits — net closures reached 105 through Q3 against a raised full-year target of at least 125, but a sales rebound has not yet followed.",
+      "relevance": "competitive threat"
+    }
+  ]
+}

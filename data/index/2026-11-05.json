@@ -1,0 +1,344 @@
+{
+  "date": "2026-11-05",
+  "regions": {
+    "NEA": {
+      "GMAI": 40.71,
+      "band": "주의",
+      "NSS": -0.1079,
+      "components": {
+        "sentiment": 0.4461,
+        "buzz": 0.6177,
+        "engagement": 0.4563,
+        "sov": 0.0719
+      },
+      "contrib": {
+        "sentiment": 20.07,
+        "buzz": 12.35,
+        "engagement": 6.84,
+        "sov": 1.44
+      },
+      "sov_known": true,
+      "engagement_known": true,
+      "engagement_sources": {
+        "bluesky": 28,
+        "mastodon": 2,
+        "youtube": 46
+      },
+      "engagement_method": "v2.3-eb-percentile",
+      "engagement_n_eff": 59.0,
+      "buzz_known": true,
+      "baseline_days": 7,
+      "sentiment_coverage": 1.0,
+      "eff_n": 7.0,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "quality_complaint",
+            -1.54
+          ],
+          [
+            "watches",
+            -1.54
+          ],
+          [
+            "community",
+            -1.54
+          ],
+          [
+            "undated",
+            -1.54
+          ]
+        ],
+        "pos": []
+      },
+      "channel_mix": {
+        "news": 11,
+        "sns": 3,
+        "community": 2
+      },
+      "buzz_registry_share": 0.438,
+      "counts": {
+        "pos": 0,
+        "neu": 8,
+        "neg": 8
+      },
+      "n_items": 16,
+      "v_today_w": 90.1926,
+      "buzz_method": "v2.4-influence-weighted",
+      "buzz_weighted_baseline_days": 7,
+      "buzz_scan_items": 456,
+      "sov_source": "objective",
+      "owned_engagement": 0.3333,
+      "delta_attrib": {
+        "sentiment": 7.67,
+        "buzz": 4.61,
+        "engagement": -0.53,
+        "sov": -0.3
+      },
+      "delta": 11.45
+    },
+    "SEA": {
+      "GMAI": 41.5,
+      "band": "주의",
+      "NSS": -0.0829,
+      "components": {
+        "sentiment": 0.4585,
+        "buzz": 0.574,
+        "engagement": 0.4687,
+        "sov": 0.118
+      },
+      "contrib": {
+        "sentiment": 20.63,
+        "buzz": 11.48,
+        "engagement": 7.03,
+        "sov": 2.36
+      },
+      "sov_known": true,
+      "engagement_known": true,
+      "engagement_sources": {
+        "bluesky": 8,
+        "youtube": 40
+      },
+      "engagement_method": "v2.3-eb-percentile",
+      "engagement_n_eff": 35.7,
+      "buzz_known": true,
+      "baseline_days": 7,
+      "sentiment_coverage": 1.0,
+      "eff_n": 4.2,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "mixed",
+            -1.45
+          ],
+          [
+            "sns_reaction",
+            -1.45
+          ],
+          [
+            "ambassador",
+            -1.2
+          ],
+          [
+            "negative_earnings",
+            -0.36
+          ]
+        ],
+        "pos": [
+          [
+            "creative_direction",
+            0.25
+          ],
+          [
+            "activation_coverage",
+            0.25
+          ]
+        ]
+      },
+      "channel_mix": {
+        "news": 6,
+        "sns": 3,
+        "community": 2
+      },
+      "buzz_registry_share": 0.727,
+      "counts": {
+        "pos": 1,
+        "neu": 6,
+        "neg": 4
+      },
+      "n_items": 11,
+      "v_today_w": 70.3229,
+      "buzz_method": "v2.4-influence-weighted",
+      "buzz_weighted_baseline_days": 7,
+      "buzz_scan_items": 401,
+      "sov_source": "objective",
+      "owned_engagement": 0.3333,
+      "delta_attrib": {
+        "sentiment": -1.27,
+        "buzz": 3.88,
+        "engagement": -0.71,
+        "sov": 0.41
+      },
+      "delta": 2.31
+    },
+    "NA": {
+      "GMAI": 47.32,
+      "band": "중립",
+      "NSS": -0.0441,
+      "components": {
+        "sentiment": 0.4779,
+        "buzz": 0.7888,
+        "engagement": 0.5075,
+        "sov": 0.1211
+      },
+      "contrib": {
+        "sentiment": 21.51,
+        "buzz": 15.78,
+        "engagement": 7.61,
+        "sov": 2.42
+      },
+      "sov_known": true,
+      "engagement_known": true,
+      "engagement_sources": {
+        "bluesky": 96,
+        "youtube": 48,
+        "reddit": 33,
+        "mastodon": 1
+      },
+      "engagement_method": "v2.3-eb-percentile",
+      "engagement_n_eff": 156.2,
+      "buzz_known": true,
+      "baseline_days": 7,
+      "sentiment_coverage": 1.0,
+      "eff_n": 5.2,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "negative_earnings",
+            -0.62
+          ],
+          [
+            "mixed",
+            -0.58
+          ],
+          [
+            "momentum_press",
+            -0.33
+          ],
+          [
+            "quality_complaint",
+            -0.33
+          ]
+        ],
+        "pos": []
+      },
+      "channel_mix": {
+        "news": 7,
+        "sns": 2,
+        "community": 3
+      },
+      "buzz_registry_share": 0.75,
+      "counts": {
+        "pos": 0,
+        "neu": 6,
+        "neg": 6
+      },
+      "n_items": 12,
+      "v_today_w": 169.9802,
+      "buzz_method": "v2.4-influence-weighted",
+      "buzz_weighted_baseline_days": 7,
+      "buzz_scan_items": 910,
+      "sov_source": "objective",
+      "owned_engagement": 0.3333,
+      "delta_attrib": {
+        "sentiment": 1.16,
+        "buzz": 1.76,
+        "engagement": 0.03,
+        "sov": 0.62
+      },
+      "delta": 3.57
+    },
+    "EU": {
+      "GMAI": 43.31,
+      "band": "주의",
+      "NSS": -0.1084,
+      "components": {
+        "sentiment": 0.4458,
+        "buzz": 0.6266,
+        "engagement": 0.5797,
+        "sov": 0.1013
+      },
+      "contrib": {
+        "sentiment": 20.06,
+        "buzz": 12.53,
+        "engagement": 8.7,
+        "sov": 2.03
+      },
+      "sov_known": true,
+      "engagement_known": true,
+      "engagement_sources": {
+        "bluesky": 173,
+        "youtube": 48,
+        "reddit": 35,
+        "mastodon": 2
+      },
+      "engagement_method": "v2.3-eb-percentile",
+      "engagement_n_eff": 188.4,
+      "buzz_known": true,
+      "baseline_days": 7,
+      "sentiment_coverage": 1.0,
+      "eff_n": 10.7,
+      "low_evidence": false,
+      "drivers": {
+        "neg": [
+          [
+            "mixed",
+            -1.46
+          ],
+          [
+            "quality_complaint",
+            -1.42
+          ],
+          [
+            "community",
+            -0.71
+          ],
+          [
+            "controversy",
+            -0.71
+          ]
+        ],
+        "pos": []
+      },
+      "channel_mix": {
+        "news": 12,
+        "sns": 2,
+        "community": 4
+      },
+      "buzz_registry_share": 0.556,
+      "counts": {
+        "pos": 0,
+        "neu": 10,
+        "neg": 8
+      },
+      "n_items": 18,
+      "v_today_w": 157.898,
+      "buzz_method": "v2.4-influence-weighted",
+      "buzz_weighted_baseline_days": 7,
+      "buzz_scan_items": 1000,
+      "sov_source": "objective",
+      "owned_engagement": 0.3333,
+      "delta_attrib": {
+        "sentiment": -0.88,
+        "buzz": -1.04,
+        "engagement": 0.15,
+        "sov": 0.3
+      },
+      "delta": -1.48
+    }
+  },
+  "global": {
+    "GMAI": 43.19,
+    "band": "주의",
+    "delta": 4.77,
+    "delta_attrib": {
+      "sentiment": 2.58,
+      "buzz": 2.23,
+      "engagement": -0.22,
+      "sov": 0.18
+    },
+    "sentiment_weighted": 0.4555
+  },
+  "missing_blocks": [],
+  "triggers": [],
+  "triggers_v2": [],
+  "region_weights_used": {
+    "NEA": 0.35,
+    "SEA": 0.12,
+    "NA": 0.25,
+    "EU": 0.28
+  }
+}

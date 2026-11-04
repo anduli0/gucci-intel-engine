@@ -1,0 +1,164 @@
+[
+  {
+    "id": "EU-2026-11-05-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of new flagship store opening framed via brand's own ReconKering narrative; no independent critical verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-05-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Measured trade-press descriptive piece on store reopening, no explicit verdict beyond industry interest",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-05-03",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD trade coverage describing new store concept rollout factually, no independent evaluative judgment",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-05-04",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual report of internal reorganization and advisory hires under recovery plan, no evaluative framing",
+    "signal_tags": ["organizational", "factual"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-05-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering stock collapses 16.5% directly tied to Gucci sales miss (-4% to -6% comparable), analysts cut price targets / counter: none, unambiguous negative-momentum verdict",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-05-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: price-cut strategy framed as overdue correction after years of criticized opportunistic hikes / counter: cautiously optimistic about reversal; dominant frame is past pricing failure, mixed-but-decided",
+    "signal_tags": ["mixed", "price_backlash"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-05-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: weak Chinese demand undercuts recovery hopes, accelerated store closures (125 net) / counter: none, sustained negative-momentum framing",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-05-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci slowdown drives Kering's worst trading day in listed history / counter: none, unambiguous negative verdict with quantified stock drop",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-05-09",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuine two-sided community debate on design direction and positioning with no resolved verdict; date unverified",
+    "signal_tags": ["mixed", "community", "design_debate"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-11-05-10",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: quality-control complaints (tarnishing, stitching) versus price paid / counter: some defenders cite craftsmanship; dominant thread is critical QC comparison to peers",
+    "signal_tags": ["mixed", "quality_complaint", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-05-11",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregated forum reaction to Demna's debut is genuinely mixed-to-critical with no resolved consensus verdict; stale item retained only as background",
+    "signal_tags": ["mixed", "community", "design_debate"],
+    "confidence": 0.45
+  },
+  {
+    "id": "EU-2026-11-05-12",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring low-grade boycott-adjacent/ethical controversy chatter on TikTok; organic negative signal though diffuse and undated",
+    "signal_tags": ["controversy", "sns", "boycott"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-11-05-13",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: recurring customer-service and quality-vs-price complaints dominate aggregate reviews / counter: some satisfied buyers; dominant thread is organic consumer dissatisfaction",
+    "signal_tags": ["mixed", "quality_complaint", "customer_service"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-05-14",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive holiday campaign write-up, brand press-kit derived with no independent critical verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-05-15",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Shoppable entertainment-trade promo writeup of campaign, purely descriptive with no independent verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-05-16",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuine mixed public reaction to holiday campaign (mockery of 'horror-movie' tone vs praise for styling), two-sided with no clear dominant verdict",
+    "signal_tags": ["mixed", "sns", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-05-17",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci-driven selloff framed as key swing factor for valuation outlook / counter: best/worst scenario analysis leaves room both ways, mixed-but-decided toward negative framing",
+    "signal_tags": ["mixed", "negative_earnings", "stock_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-05-18",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Admiring lifestyle-press feature on store reopening, brand-adjacent descriptive tone without independent critical judgment",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.7
+  }
+]
