@@ -1,0 +1,236 @@
+[
+  {
+    "id": "NEA-2026-11-08-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador appointment announcement, press-kit descriptive framing; activation coverage discount applies",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-08-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Entertainment press relay of ambassador news with ambassador's own quote; descriptive activation write-up, no independent verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-08-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade coverage framing ambassador casting as a cultural-relevance push; descriptive, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-08-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan blog relaying official announcement plus fan enthusiasm; fandom-spike trap, damped to neutral-leaning activation coverage",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-08-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan blog amplifying speculative industry-insider wish-post about styling; organic but fandom-driven buzz, not evaluative opinion about Gucci itself",
+    "signal_tags": ["fandom", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-08-006",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Community thread mixes genuine excitement about brand fit with nostalgia; mild positive fan affinity, damped for fandom-spike repetition",
+    "signal_tags": ["fandom", "community", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-08-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering stock plunge 16%+ tied directly to Gucci revenue decline and weak APAC/China/Japan traffic; sustained negative framing, independent market judgment",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-08-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Mass restructuring with 125+ net store closures framed as retrenchment amid sales pressure; negative momentum narrative",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-08-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci's brand value collapsed -35% YoY, steepest drop of any luxury house, attributed to lost identity / counter: none, unambiguous decline narrative",
+    "signal_tags": ["negative_earnings", "brand_value", "design_criticism"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-08-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reporting on ~84 store closures amid falling Korean luxury demand; negative but more factual/contextual framing than item 008",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-08-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: luxury price-hike fatigue cooling consumption, Gucci named alongside EU antitrust fine for resale-price-maintenance / counter: broader sector trend not Gucci-specific, so magnitude capped",
+    "signal_tags": ["price_hike_backlash", "mixed", "controversy"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-08-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive new-product launch write-up (price, shades, date); activation coverage discount, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-08-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive syndication of product launch and pop-up event on high-reach portal; no independent verdict despite reach",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-08-014",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci's brand-recognition-without-meaning strategy in China has become a liability, hurting sales / counter: none, trade-press independent critical analysis",
+    "signal_tags": ["design_criticism", "negative_earnings", "china_market"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-08-015",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: shift to China-made production framed by critics as heritage-dilution risk / counter: also framed as localization strategy, two-sided but leans negative on brand equity",
+    "signal_tags": ["mixed", "quality_concern", "china_market"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-08-016",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explainer post with comments split between hope for turnaround and skepticism about heritage loss; genuine two-sided weigh-up, no verdict",
+    "signal_tags": ["mixed", "china_market", "price_hike_backlash"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-08-017",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: only 3 of many Gucci styles hold strong resale value, implying weak secondary-market sentiment overall / counter: those 3 styles do retain up to 72%",
+    "signal_tags": ["resale_value", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-08-018",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Framed explicitly as open question 'rebirth or gamble' with mixed-to-skeptical sentiment; two-sided with no verdict",
+    "signal_tags": ["mixed", "china_market", "store_closures"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-08-019",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum thread explicitly weighing pros and cons of Gucci watch ownership; genuine two-sided consumer discussion, no clear verdict",
+    "signal_tags": ["mixed", "community", "quality_concern"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-08-020",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community post criticizing Gucci slide build quality as worse than military-issue slippers; organic QC complaint",
+    "signal_tags": ["quality_concern", "community"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-08-021",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent fashion-media critical review praising Demna's debut collection as reviving desire and stabilizing the business; unambiguous positive critic verdict",
+    "signal_tags": ["design_praise", "critic_review", "creative_direction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-08-022",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent Vogue Korea feature reading Demna's design language as reviving brand momentum after a slump; critic judgment, not brand-owned promo",
+    "signal_tags": ["design_praise", "critic_review", "creative_direction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-08-023",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci x Mariah Carey holiday campaign details (dates, availability); activation coverage discount, no verdict",
+    "signal_tags": ["activation_coverage", "ambassador", "product_launch"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-08-024",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Mass-audience syndication of Kering stock plunge tied to Gucci sales decline, reaching critical-leaning Yahoo comment audience; same underlying negative earnings event as item 007",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-08-025",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Additional trade pickup of ambassador announcement; descriptive activation coverage, no independent verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-08-026",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explainer post summarizing debut show, 105 closures, and earnings pressure framed as open 'cautious/skeptical' question; two-sided summary with no firm verdict",
+    "signal_tags": ["mixed", "china_market", "store_closures", "negative_earnings"],
+    "confidence": 0.65
+  }
+]

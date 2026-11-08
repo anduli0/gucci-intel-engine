@@ -1,0 +1,4985 @@
+{
+  "date": "2026-11-08",
+  "region": "NA",
+  "collected_at": "2026-11-07T22:37:30+00:00",
+  "domains_scanned": 28,
+  "community_allocation": {
+    "NA_identified": 28,
+    "EU_identified": 0,
+    "p_NA": 0.9289
+  },
+  "errors": [],
+  "items": [
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Balenciaga designer Piccioli to exit after a year in latest departure at Kering - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Tapestry lifts outlook as young shoppers snap up Coach bags, shares jump - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Europe space chief heads to Gulf as bloc looks beyond US - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Martine Rose appointed Balenciaga creative director as Kering seeks fresh ideas - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Estee Lauder cuts promotions as luxury fragrances help lift outlook - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-02-25",
+      "title": "Celebrity tattoos - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-10-24",
+      "title": "Celebrity style: Cynthia Nixon - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "China’s More-for-Less Formula Faces Its Biggest Test - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Balenciaga Taps Designer Martine Rose Known for Oversized Looks - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Shore leave – a nautical tour of Hamburg - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Remember Me — an ebullient photography extravaganza at Paris’s Bourse de Commerce - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Six European nations threaten to boycott Russia in ice hockey world championships - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Are you dangling? The rise of the belt charm - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Bottega Veneta, Peggy Guggenheim and me – Louise Trotter has found her muse - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Young buyers put a spring in the step of UK’s heritage shoemakers - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Coty Announces First Quarter Fiscal Year 2027 Results - Financial Times",
+      "url": "https://markets.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-09-24",
+      "title": "Fashion designer profiles - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Pierpaolo Piccioli Exits Balenciaga - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-12-20",
+      "title": "merchandising - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "British Fashion Awards - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-09-18",
+      "title": "The Business of Fashion - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Childrenswear - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-12-16",
+      "title": "Seoul, South Korea - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "accessories - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-26",
+      "title": "Chinese New Year - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Athens, Greece - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "fine-jewellery - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-25",
+      "title": "Top 10 Fashion Films - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Trends - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Canada - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-02",
+      "title": "Simbarashe Cha | BoF 500 | The People Shaping the Global Fashion Industry - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-08-21",
+      "title": "Beauty - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Coty Tops Estimates on Prestige Brands Boost Amid Turnaround - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Consumer Psychology - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-30",
+      "title": "Collaboration - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Hong Kong - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-25",
+      "title": "Gaming - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Manila, Philippines - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Tapestry Lifts Outlook as Young Shoppers Snap Up Coach Bags - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "How Fashion Has ‘Turbocharged’ Its Diwali Marketing - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-09-13",
+      "title": "Workplace & Talent / Leadership - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "Heritage - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Read articles by Reuters - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Retail Still a Weak Spot as Reliance Profits Beat Expectations - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Gen-Z - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-09-13",
+      "title": "Workplace & Talent / The Future of Work - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "Fairchild Media - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Nike Gets Back In the Winner’s Circle - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": " - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Gucci Sets Up New Business Units’ Structure - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Iowa Governor-Elect Rob Sand Had a Modeling Career Long Before Politics, Including a Prada Runway Show - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "From Biarritz to Barangaroo: Chanel’s Replica Cruise Show Lights Up Sydney - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Pierpaolo Piccioli Becomes Third Creative Director to Exit Kering in Less Than a Month - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Warby Parker and Rare Beauty Collaborate for New Campaign Starring Katseye’s Megan Skiendiel - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Martine Rose Named Creative Director of Balenciaga - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Ralph Lauren Expands Holiday Experience to Seven Cities Globally in 2026 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Ralph Lauren and Tapestry Led the Way, Capri and Under Armour Are Trying to Follow - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Ralph Lauren Pre-Fall 2027: The Ultimate Wardrobe - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "‘Club Kid’ Los Angeles Premiere: Rachel Sennott, Odessa A’zion and More Celebrity Style, Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Pierpaolo Piccioli Exits Balenciaga Less Than 18 Months After Joining the Kering-Owned Brand - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Ye Returns to the Runway With Yeezy Season 01 in Los Angeles - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Travis Kelce, Jisoo, Josh Hart and Others Appear in Tommy Hilfiger’s Winter Campaign - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Coperni Founders Announce Brand Closure - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Decisive U.S. Election Clears Way for Merry Holiday at Retail - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "‘All’s Fair’ Season 2 New York City Premiere: Kim Kardashian, Naomi Watts and More Celebrity Style, Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "EXCLUSIVE: Dior Taps Animation Director Sylvain Chomet for 2026 Holiday Campaign - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Yeezy Returns to the Runway in Los Angeles, Showcases Flagship - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Fashiontech Firm Hyphen Group Sells Chalco Technologies to Valsoft - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Rachel Scott, Ralph Lauren and Anthony Vaccarello Lead Winners at Star-Studded CFDA Fashion Awards - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "EXCLUSIVE: Bal Harbour Shops Completes Luxury Expansion at Long Last - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Inside the 2026 CFDA Awards: Demi Moore, Hailey Bieber, Zoë Kravitz & More - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Style Capital Takes Control of Alessandro Dell’Acqua’s No. 21 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Jane Fonda, Pamela Abdy Send Powerful Message to Hollywood at Women in Film Gala - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Mariah Carey Gets Serenaded in Style at Gucci’s Holiday Campaign Celebration - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-10-31",
+      "title": "Rita Ora Honors Dolly Parton in Push-Up Bra and Gucci Horsebit Heels - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Mariah Carey and Gucci Ring in the Holiday Season - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Salma Hayek Pinault Mixes Designers With Gucci T-strap Pumps and Bottega Veneta Gown at the 2026 WIF Honors - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Gucci’s 2026 Holiday Campaign, Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-12-20",
+      "title": "Gucci Pre-Fall 2019 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-09-25",
+      "title": "Gucci Spring 2027 Ready-to-Wear Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-09-24",
+      "title": "Looking Back at Gucci Spring 2016 Runway Show – Alessandro Michele’s Second RTW Collection for Gucci - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-09-22",
+      "title": "Gucci Spring 2026 Ready-to-Wear Collection - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-04-15",
+      "title": "Gucci RTW Fall 2021 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-15",
+      "title": "Gucci Pre-Fall 2011 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-13",
+      "title": "Gucci RTW Spring 2010 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-11-10",
+      "title": "Gucci Men’s RTW Fall 2014 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-28",
+      "title": "Gucci Resort 2015 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-14",
+      "title": "Gucci RTW Fall 2011 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-02-19",
+      "title": "Gucci RTW Fall 2020 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-06-17",
+      "title": "Gucci Men's Spring 2024[PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-02-25",
+      "title": "Gucci Fall 2025 Ready-to-Wear Collection Runway, Fashion Show & Collection Review [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-05-28",
+      "title": "Gucci Cruise 2020 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-05-30",
+      "title": "Gucci Cruise 2019 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-06-09",
+      "title": "Gucci RTW Fall 2013 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-03",
+      "title": "All the Looks from Gucci Love Parade Show in L. A. [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-27",
+      "title": "Gucci RTW Spring 2012 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-09-16",
+      "title": "Gucci RTW Spring 2014 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-02-25",
+      "title": "Gucci RTW Fall 2022[PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-11-16",
+      "title": "Gucci Pre-Fall 2012 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-09-23",
+      "title": "Gucci RTW Spring 2023[PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-05-17",
+      "title": "Gucci Cruise 2023 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-01-12",
+      "title": "Gucci Men's Fall 2024 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-05-17",
+      "title": "Gucci Cruise 2027 Collection - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-09-20",
+      "title": "Gucci Spring 2025 Ready-To-Wear Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-04-17",
+      "title": "Gucci RTW Fall 2010 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2017-11-02",
+      "title": "Gucci Men’s RTW Fall 2009 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-12-10",
+      "title": "Gucci Pre-Fall 2020 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-02-20",
+      "title": "Gucci RTW Fall 2019 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-21",
+      "title": "Gucci Pre-Fall 2015 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-15",
+      "title": "Gucci RTW Fall 2014 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-10-11",
+      "title": "Gucci RTW Spring 2015 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-06-17",
+      "title": "Gucci Spring 2025 Men’s Ready-To-Wear Collection Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-02-27",
+      "title": "Gucci Fall 2026 Ready-to-Wear Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-12-16",
+      "title": "Gucci Pre-Fall 2025 Ready-to-Wear Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Charting the ‘Sneaker Revolution’ at Italy’s Museo del Tessuto - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-09-30",
+      "title": "People – Page 559 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Keke Palmer Wears Gold Aquazzura Heels With Rare Bob Mackie Gown - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Bigger Is Better: How Iman, Tinashe and More Played With Proportions at the 2026 CFDA Awards - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Paola Gabriela Gonzalez - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Rivet Staff - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Dolce & Gabbana Turns Holiday Glamour Into a Cinematic Hotel Fantasy - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Britain’s Oldest Luxury House Opens a Store in Paris - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Front Row at the Yeezy Season 01 Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Lila Moss, Hailey Bieber and More Famous Second-Gen Stars at the CFDAs - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Kylie Minogue Sports Pair of Two-Toned Chanel Heels at Sydney Event Showcasing the 2027 Cruise Collection - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Met Gala 2027 Theme Revealed After John Galliano Cancellation - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Canadians Are Getting a Taste of Caviar Kaspia, Eh! - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Marco Balich on the ‘Flick’ That Makes Live Events Meaningful - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Alice + Olivia Is Teaming With Coca-Cola on a Collection Celebrating the Iconic Beverage’s 140th Anniversary - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Me+Em’s Clare Hornby Is a Problem Solver - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Indya Moore, Zoe Kravitz, and More Best Dressed Guests at the 2026 CFDA Awards - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Livvy Dunn for NOBULL [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "ThredUp Bets Big on Live Selling as Outlook Dims - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Lululemon CEO Heidi O’Neill Fills Key Brand and Strategy Positions for Reset - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Naomi Watts Pairs Balmain with DeMellier - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Palace Unveils Supersized London Flagship in Soho - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Julia Teti – Page 192 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "EXCLUSIVE: Catherine Deneuve Is Ami Paris’ Latest Retail Recruit in Holiday Campaign - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Ralph Lauren Tops Forecasts in Q2 and Raises Its Outlook - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "WWD x BCG on the Future of Fashion - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Tanger’s Strong Q3 Spurs Raised Outlook on 2026 Profit and Holiday Sales - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Salma Hayek Pinault and Adria Arjona Led the Cause for Warm-Toned Glam at the 2026 Women in Film Honors - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "Jennifer Hudson Shines in Floral Blockade Christian Siriano Gown at 2026 Daytime Emmys - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Fashion Scholarship Fund Names Five Additional Board Members - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Resetting Retail Decision-Making With Aily Labs - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "EXCLUSIVE: Inside Oner Active’s First Flagship in New York - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Breathing Fresh Life Into a Brand - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Teyana Taylor, Naomi Watts and More Brought Luxe Looks to the ‘All’s Fair’ Season Two New York City Premiere - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "EXCLUSIVE: Burberry Taps Pierce Brosnan, Fiona Shaw and Wu Lei for Festive Campaign - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Mariah Carey Answers Vogue’s Holiday Questions—From Festive Styling Tips to Hosting No-Nos - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Get to Know the Top Fall/Winter 2026 Shoe Trends - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "10 Key Fall/Winter 2026 Bag Trends to Know and Shop - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Dakota Johnson Dons Diamonds and a Hoodie for Date Night With Machine Gun Kelly - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "The World’s Best Tennis Players on Winning, Losing, Living, and Dreaming - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "The Little Black Manicure Is Having a Major Moment This Fall - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "The 9 Most-Wanted Accessories of Fall—and How to Style Them Now - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Going Home—A Day in the Life With Libby Taverner As She Walks the Chanel Show in Sydney - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Simkhai Pre-Fall 2027 Menswear Collection - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Exclusive: The All’s Fair Cast Held Court in Couture at the Season 2 Premiere and After-Party - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "The Easiest Exercise for Longevity, According to Science - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Confessions of a Pants Girl: How I Finally Came to Love the Skirt - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "The Best Dressed Stars of the Week Brought Fun Back to Fashion - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "20+ Best Gifts for Men Who Have Everything, From Tech to Fashion - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "69 of the Best Kendall Jenner Street Style Looks - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "The Vogue Business People Moves Tracker - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Emma Chamberlain Shares Her “Objects of Affection” - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Pierpaolo Piccioli and Balenciaga Part Ways - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Video - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "“It’s Like Therapy”: Jordanluca’s Luca Marchetto Joins Redesign Atelier Menabóh - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Why I’m Wearing Nothing But Pajamas - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "The Vogue Business Funding Tracker - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "24 Black Wedding Dresses for the Non-Traditional Bride - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Gifts Under $100: Vogue -Worthy Presents for Any Occasion - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Kim Kardashian and Jennifer Lawrence Get Their Slumber Party Dressing On - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "This Native Heritage Month, Shop These 12 Authentic Indigenous Brands - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "Just One Thing: Polo Ralph Lauren’s Polo Blaze Bag - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "The 7 Best (Easy!) Exercises for Lymphatic Drainage, Courtesy of a Detox Expert - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "The Very Best Hostess Gifts Guaranteed to Secure You an Invite Back - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "What Vogue Editors Bought and Loved This Month - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "32 Beauty Gifts Every Makeup and Skin-Care Lover Will Obsess Over - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Dior! Diptyque! SkinCeuticals! These Are the Best Beauty Advent Calendars of 2026 - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Tailoring’s Glamorous Turn - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Dorinda Medley: ‘Housewives’ Alumna, D.J., Mayonnaise Defender - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "She Wrote the Book on Prada - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "The End of Yeezy - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Inside the Wardrobe of Truman Capote’s Nicest Swan - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-08-20",
+      "title": "Blythe Danner - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-11-13",
+      "title": "Demi Moore - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-09-17",
+      "title": "Bottega Veneta - Page 2 - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-08-20",
+      "title": "Jannik Sinner - Page 2 - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-07-20",
+      "title": "Styles Group Chat - Page 2 - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-08-20",
+      "title": "Rod Wave - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-08-19",
+      "title": "Phoebe Philo - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Fashion - Page 10 - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-08-21",
+      "title": "Rachel Comey - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-11-13",
+      "title": "Marc Jacobs - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-05-06",
+      "title": "Nicki Minaj - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-05-27",
+      "title": "Emilia Petrarca - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-11-14",
+      "title": "JC Penney Company Inc. - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2017-01-13",
+      "title": "Alexander McQueen - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-05-20",
+      "title": "Lana Del Rey - Page 9 - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-05-01",
+      "title": "Hayley Krischer - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-11-13",
+      "title": "Yohji Yamamoto - Page 10 - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-10-09",
+      "title": "Louis Vuitton - Page 9 - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-09-18",
+      "title": "Hermes International SA - The New York Times",
+      "url": "https://www.nytimes.com",
+      "source": "The New York Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Kering Furthers Creative Overhaul With Balenciaga Design Chief Exit - WSJ",
+      "url": "https://www.wsj.com",
+      "source": "WSJ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "European Indexes Open Mostly Lower as Healthcare Stocks Slide - WSJ",
+      "url": "https://www.wsj.com",
+      "source": "WSJ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "At This Fashion Photographer’s Dinner Parties, Madonna Gets on the Kitchen Table - WSJ",
+      "url": "https://www.wsj.com",
+      "source": "WSJ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Find Your Wild Side With These Nature-Inspired Looks - WSJ",
+      "url": "https://www.wsj.com",
+      "source": "WSJ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "The Woman Who Convinced America That One Perfume Was Never Enough - WSJ",
+      "url": "https://www.wsj.com",
+      "source": "WSJ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Now That’s What I Call Losing - WSJ",
+      "url": "https://www.wsj.com",
+      "source": "WSJ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Opinion | Politics Needs a Swear Jar - WSJ",
+      "url": "https://www.wsj.com",
+      "source": "WSJ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "The Best Fall Clothing and Accessories for Men and Women, According to Stylists - WSJ",
+      "url": "https://www.wsj.com",
+      "source": "WSJ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "ICE officer indicted on allegations he ran over undocumented Mexican immigrant released on bond - CNN",
+      "url": "https://www.cnn.com",
+      "source": "CNN",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Look of the Week: Glenn Close and her six-foot impersonator demand a double take - CNN",
+      "url": "https://edition.cnn.com",
+      "source": "CNN",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "COTY Stock Quote Price and Forecast - CNN",
+      "url": "https://www.cnn.com",
+      "source": "CNN",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-02-07",
+      "title": "Bridget Kelly and Jay-Z - 2011-05-12 - The Pocket Square - Forbes",
+      "url": "https://www.forbes.com",
+      "source": "Forbes",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Why The Use Of AI In Luxury Fashion Is Becoming So Controversial - Forbes",
+      "url": "https://www.forbes.com",
+      "source": "Forbes",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Sun, Sand And Santa: 7 Festive Florida Holiday Getaways - Forbes",
+      "url": "https://www.forbes.com",
+      "source": "Forbes",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Seth Cohen - Forbes",
+      "url": "https://www.forbes.com",
+      "source": "Forbes",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "A ‘tidal wave’ of severe eye disease is looming. It starts with childhood nearsightedness - Los Angeles Times",
+      "url": "https://www.latimes.com",
+      "source": "Los Angeles Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "The Princess of Wales just proved this cool '90s jeans style will dominate winter: shop her new look - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "A Definitive Guide to the Season’s Best Black Boots - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Reese Witherspoon's petite boyfriend jeans are winter's most flattering style: shop the 3 best pairs - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "How to Style White Jeans for Fall - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Keira Knightley's new 'boyfriend' trousers are as comfortable as jeans but much more elegant - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Marie-France van Heel's white quarter-zip jumper is a masterclass in elegant, comfy winter style - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Dua Lipa Is So Relatable With Her Last-Minute Witchy Halloween Costume - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "The best beauty advent calendars of 2026, reviewed by a beauty editor - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Dakota Johnson Wears Her Hoodie With Her Diamonds for a Party With MGK - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "The ultimate Bazaar guide to 2026's best designer bags - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "\"Not taking yourself seriously is the key\": how Claudia Winkleman became a national treasure in her 50s - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Martine Rose Is the New Creative Director of Balenciaga - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "Gracie Abrams Gives Claire Danes’s ‘90s Juliet a Chanel Update at “Saturday Night Live” - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Kim Kardashian Makes a Case for Wearing a Shimmering Party Dress in the Morning - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Demi Moore’s GapStudio Dress Is Made From Stacks of Blue Jeans - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Charli XCX’s Soft, Slouchy Khaite Bomber Is a Fall Staple - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Kim Kardashian and Jennifer Lawrence’s Mismatched BFF Style Is So Relatable - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Hunter Schafer’s Bedazzled, Paint-Splattered Hoodie-Skirt Combo Is Courtesy of This Emerging Label - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "With the Hunger Games Press Tour, Have We Reached the Final Frontier of Method Dressing? - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Jackie Tohn Knows Getting Eliminated From “American Idol” Was a Gift - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Fine Form - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Embroidered opera coats are the most sophisticated style to wear this winter – shop the 12 best now - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Marie-France van Heel dazzles in winter’s most elegant party dress trend: shop the flattering style - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Marie-France van Heel just proved an icy floral dress is winter’s most elegant style: shop her look - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Sephora's Savings Event Is Ending Soon! Shop Our Favorite Beauty Deals Before Monday - Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com",
+      "source": "Harper's BAZAAR",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "The 19 Best Menswear Deals of the Week - GQ",
+      "url": "https://www.gq.com",
+      "source": "GQ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "The 77 Best Red-Carpet Looks of All Time (and What You Can Learn From Them) - GQ",
+      "url": "https://www.gq.com",
+      "source": "GQ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Every Piece of Menswear You Should Own in 2026 - GQ",
+      "url": "https://www.gq.com",
+      "source": "GQ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "What to Wear to a Job Interview, According to Hiring Experts - GQ",
+      "url": "https://www.gq.com",
+      "source": "GQ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2010-01-06",
+      "title": "Los Angeles News, In-Depth Articles, Pictures & Videos - GQ",
+      "url": "https://www.gq.com",
+      "source": "GQ",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Demi Moore Wears a Gown Made of Jeans to the 2026 CFDA Fashion Awards - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "7 Ways Celebrities Are Wearing Flats With Jeans This Fall - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Deer Print Is Replacing Leopard This Fall And Mango's $90 Barrel Jeans Are a Stylish Staple - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "16 Luxurious Gifts for Women With Impeccable Taste - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Julianne Moore Shows Off Her Moves for Bottega Veneta - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Inez and Vinoodh on Working Together for 40 Years: ‘We Still Feel Like Young Photographers’ - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Jennifer Lawrence Gives Jeans a Boho Twist With a Kimono - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Pierpaolo Piccioli’s Balenciaga Era Has Come to an End - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Martine Rose Is Balenciaga’s New Creative Director—and the First Woman to Lead the House - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Burgundy Is Trending for Fall And a Bomber Cardigan Is the Perfect Way to Try the Style - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Dakota Johnson and Machine Gun Kelly Enjoy a Stylish Night Out in West Hollywood - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "9 Photos Of Keira Knightley Throughout The Years – And The Style Lessons We Can Learn From Her - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Beanie Feldstein Opens Up About Welcoming Her First Child With Wife Bonnie-Chance Roberts - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "Knee-High Boots And Dresses Is A Failsafe Autumn Outfit Formula: 7 Stylish Combinations To Try Now - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Wave Goodbye To Minimalism: The Statement Coat Is Defining 2026 - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Grandmacore Bags Are Bringing Cozy, Crafty Texture to Winter Outfits - ELLE",
+      "url": "https://www.elle.com",
+      "source": "ELLE",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Paris Hilton Dresses Kids in Matching Gucci for Mom Kathy’s Holiday Pajama Party: Photos - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Matt Damon and Daughter Isabella, 20, Dress Up for the CFDA Awards, Plus Demi Moore, Kim Kardashian and More - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Nicole Kidman and Daughter Faith, 15, Coordinate Looks for Stylish Outing at 2027 Chanel Cruise Show - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Niall Horan Turns the Stage into a Runway Modeling a Fan-Made Sweater That Took 58 Hours to Create - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Blake Lively Is All Smiles for a Night Out in New York City, Plus Stevie Wonder, Ben Affleck and More - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Scarlett Johansson Earns Today’s Five-Timers Club Robe as She Does Weather Forecast with Al Roker for Fifth Time - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Mandy Moore Is Making Holiday Magic Alongside Her Kids in Matching Pajama Campaign (Exclusive) - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Jennifer Lawrence Convinced Me to Add This Holiday-Coded Sweater to My Wardrobe — Shop Lookalikes from $45 - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Blake Lively Steps Out in Sparkly Minidress for Rare Appearance in N.Y.C. - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Kourtney Kardashian Barker Calls Out ‘Fabricated Rumors’ that She and Husband Travis Barker Are Living Apart - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "My Closet Is Basically a Quince Store — These Are the 5 Pieces I Wear Most Out of the 35 I’ve Tried - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Celebrity Photos Updated Daily: Kim Kardashian, Jennifer Lawrence, Michael Strahan, Isabella Strahan and More - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "8 Tips for Hosting a Healthy Thanksgiving That Still Feels Festive - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Elizabeth Taylor’s Iconic Jewelry Collection Gets a Modern Makeover: ‘We Wanted to Illuminate Her’ (Exclusive) - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Jude Bellingham Strips Down for Steamy Calvin Klein Underwear Campaign (Exclusive First Look) - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Heidi Klum Explains Why Husband Tom Kaulitz Missed Her Annual Halloween Party - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Pregnant Savannah Chrisley Reveals She and Husband Jason Galanis Are Having a ‘Sweet Miracle Boy’ - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "EJAE Reveals Cover Artwork for New ‘Christmas in New York’ Single Featuring ‘Easter Eggs from My Life’ (Exclusive) - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "Robert Downey Jr. and Pedro Pascal Swap Marvel Roles for Halloween Ahead of Avengers: Doomsday - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Adam Driver Reveals the One Thing He and Wife Joanne Tucker Want to Instill in Their 2 Kids - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "12 Celebrity Moms Who Hit ‘Copy + Paste’ and Got Equally Famous Identical Daughters - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Erin Napier Announces Death of Beloved Family Member Who Inspired Her Daughter’s Name in Emotional Tribute - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Adria Arjona Is L’Oréal Paris’ Newest Global Ambassador (Exclusive) - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Paris Hilton’s Parívie Angel Eye Patches Are for the Skincare Lovers Who Do It All (Exclusive) - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Meg Stalter on Her Holiday Traditions, Festive Family Pajamas and the Best Gifts She’s Ever Received (Exclusive) - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Tito’s Releasing Luxury Robe and Comfy Accessories for Lounging Over Thanksgiving (Exclusive) - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Best Looks of the Week - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "See Ya, Blisters! Quince’s New Loafers Have a Genius Detail That Makes the Celeb-Worn Shoe Style So Comfy - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Matthew McConaughey and Camila Alves McConaughey’s Cutest Family Photos with Their 3 Kids - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Scarlett Johansson Missed ‘Paper Tiger’’s Standing Ovation Due to Daughter’s Dance Recital - People.com",
+      "url": "https://people.com",
+      "source": "People.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Amal Clooney doubles up on suede in hip-high boots for NYC night with George Clooney - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Queen of Christmas Mariah Carey heralds the holiday season in a $20K Gucci gown - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Even Tom Brady uses this LED mask for ‘glowing skin’ - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Mckenna Grace’s ‘Sunrise on the Reaping’ press tour wardrobe is a scavenger hunt of ‘Hunger Games’ nods - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "‘Rocky’ in Concert red carpet: Sylvester Stallone, AnnaSophia Robb and more - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "Glam sports reporter who proposed to Tom Brady at Super Bowl event is arrested by ICE over fraud charges - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "30 celebrity-worthy luxury gift ideas for women this holiday season - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Amelia Gray Hamlin shows off her ripped abs in cheeky crop top - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "November 2, 2026 - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "November 6, 2026 - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "NFL legend reveals emotional reason he's quitting Tennessee to move back to California - Page Six",
+      "url": "https://pagesix.com",
+      "source": "Page Six",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "Pierpaolo Piccioli Steps Down as Creative Director of Balenciaga - Hypebeast",
+      "url": "https://hypebeast.com",
+      "source": "Hypebeast",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "Palace Skateboards Brings Burberry Home for Its London Flagship-Only Capsule - Hypebeast",
+      "url": "https://hypebeast.com",
+      "source": "Hypebeast",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "Hollywood’s Original Shoemaker Wants its Flowers - Highsnobiety",
+      "url": "https://www.highsnobiety.com",
+      "source": "Highsnobiety",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "Fall 2026 Magazine - Sam Rockwell - Highsnobiety",
+      "url": "https://www.highsnobiety.com",
+      "source": "Highsnobiety",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-01",
+      "title": "Tom Hardy in Gucci - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-11",
+      "title": "Trend Spotting - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-28",
+      "title": "Collapsible Heel - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-30",
+      "title": "Backpack - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-29",
+      "title": "Ship Shape - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "These Jewelry Designers Have Crossed Over Into the World of Home Design - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-07-13",
+      "title": "Menswear - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-30",
+      "title": "Classic Tote - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-30",
+      "title": "Aprix - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-02",
+      "title": "Persol - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-28",
+      "title": "Tom Ford - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-28",
+      "title": "Bottega Veneta - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-01",
+      "title": "Ryan Gosling in Ralph Lauren - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-30",
+      "title": "Will Smith in Tom Ford - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-31",
+      "title": "Dior Homme - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-30",
+      "title": "Berluti - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-28",
+      "title": "Christian Bale in Dolce & Gabbana - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-09-22",
+      "title": "Sandro - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-02",
+      "title": "Lafont - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-28",
+      "title": "Richard James - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-29",
+      "title": "Frank Clegg - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-12-16",
+      "title": "Men’s Fashion - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-02",
+      "title": "Valextra Sherlock Holmes Bags - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Robb Report – The Best Luxury Cars, Jets, Yachts, Travel, Watches - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-28",
+      "title": "Robb Report Newsletter – Unsubscribed - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-02",
+      "title": "Galería Patricia Ready - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "Home Design - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-28",
+      "title": "Naumatec Freccia 1200 - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-09-13",
+      "title": "Paris: Kilian Hennessy - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-30",
+      "title": "Chevrolet Corvette Stingray Z51 Convertible - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-01",
+      "title": "Floral Design: Cindy Chao the Art Jewel - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-28",
+      "title": "Philipp Plein Diamond Cut Suit - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-06-28",
+      "title": "Wheels - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-08-28",
+      "title": "Aston Martin DB11 - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-07-02",
+      "title": "Louis Vuitton x FIFA World Cup Duffels - Robb Report",
+      "url": "https://robbreport.com",
+      "source": "Robb Report",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "VCA Lucky Spring (Beetle) Collection | Page 3 - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "The genius technique, dedication and vision of original Yves Saint Laurent - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Liner recs? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Help with a vintage Fendi Selleria bag - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Boulogne GM… thoughts? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "Tiffany Small Single Wrap Necklace in Yellow Gold or Rose Gold? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "Help finding which bag this is! - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "On my side MM experiences - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Coach kisslock 30 - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Coach Beach Bag? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Nice November 2026 Purchases - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "Need your opinions! Keep this size or go one size up? ❤️ - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "PPP is Out - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Which Serpenti Pendant? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": " - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2017-01-23",
+      "title": "Louis Vuitton - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Which YSL bag next, or Gucci Marmont? - PurseForum - PurseBlog - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Tips for Authenticating Men's Gucci Belts - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseForum",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Loewe’s New Holiday Capsule Reimagines Tim Burton’s The Nightmare Before Christmas - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "Python Ruled The Spring 2027 Runways, And These Bags Will Get You Started Early - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Gucci Just Won Christmas With A Holiday Campaign Starring Mariah Carey - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "Prada Takes Over The Reins As The World's Most-Wanted Luxury Brand - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2023-11-27",
+      "title": "Featured - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "The 14 Best Bags Of Chanel Cruise 2027 - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "The Bags Of Louis Vuitton Monogram Miroir Ski Collection - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "Does A Handbag Really Need To Be Practical? - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Who Says Woven Bags Are For Summer Only? Not Jennifer Lawrence... - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Matthieu Blazy’s First Chanel Cruise Campaign Just Hit - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "The Loewe Flamenco Gets A Relaxed, Slouchy Update, And We're Immediately Obsessed - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Gucci - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Celine Has A New Bestselling Bag, And I Can See Why - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Pierpaolo Piccioli And Balenciaga Part Ways After Just A Year And A Half - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "How Does Goyard Get Away With Never Advertising Itself? - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Celebrities - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "I Still Think About Bottega Veneta Spring/Summer 2023 - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Loewe Stories, Page 12 Of 12 - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Celine Has a New Bestselling Bag, and I Can See Why - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "News Stories, Page 32 Of 34 - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "Trends - PurseBlog",
+      "url": "https://www.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "VCA Lucky Spring (Beetle) Collection | Page 3 - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "The genius technique, dedication and vision of original Yves Saint Laurent - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Liner recs? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Help with a vintage Fendi Selleria bag - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Boulogne GM… thoughts? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "Tiffany Small Single Wrap Necklace in Yellow Gold or Rose Gold? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "Help finding which bag this is! - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "On my side MM experiences - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Coach kisslock 30 - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Coach Beach Bag? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Nice November 2026 Purchases - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "Need your opinions! Keep this size or go one size up? ❤️ - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "PPP is Out - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Which Serpenti Pendant? - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": " - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2017-01-23",
+      "title": "Louis Vuitton - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Which YSL bag next, or Gucci Marmont? - PurseForum - PurseBlog - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Tips for Authenticating Men's Gucci Belts - PurseForum",
+      "url": "https://forum.purseblog.com",
+      "source": "PurseBlog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "Adriana Lima Turns Up the Heat in Gucci on Vogue Turkey’s Sultry November Cover - theFashionSpot",
+      "url": "https://www.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Keke Palmer’s Plunging Bob Mackie High-Slit Dress Is a Web of Cutouts at CFDA - theFashionSpot",
+      "url": "https://www.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "Elle Fanning’s Slinky Dress Hangs by the Thinnest Strings at Awards Show - theFashionSpot",
+      "url": "https://www.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "Emily Blunt’s Body-Hugging Schiaparelli Gown Gets a Plunging Surprise - theFashionSpot",
+      "url": "https://www.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "Maya Jama’s Unzipped Skirt Suit Gets a Sheer Twist for Rimmel London - theFashionSpot",
+      "url": "https://www.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "Mckenna Grace’s Fiery Cutout Dress for ‘Hunger Games’ Is Giving Katniss - theFashionSpot",
+      "url": "https://www.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "Jessica Chastain’s Pucci Micro Minidress Barely Skims Her Thighs for Press - theFashionSpot",
+      "url": "https://www.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Gucci Gift 2026 : Mariah Carey by Daniel Arnold - theFashionSpot",
+      "url": "https://forums.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "Vogue Thailand November 2026: Lena Lalina & Miu Natsha by Sootket Jiwpanit - theFashionSpot",
+      "url": "https://forums.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "Louis Vuitton Holiday 2026 by Oliver Hadlee Pearch - theFashionSpot",
+      "url": "https://forums.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "US L'Officiel - The Cover Archive - theFashionSpot",
+      "url": "https://forums.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Chloé Holiday 2026 : Claudia Schiffer by David Sims - theFashionSpot",
+      "url": "https://forums.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Martine Rose - Designer, Creative Director of Balenciaga - theFashionSpot",
+      "url": "https://forums.thefashionspot.com",
+      "source": "The Fashion Spot",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "Meermin Linea Maestro Handwelted Penny Loafer – Black Calf – Dani Last – UK 9.5 E – Unworn - Styleforum",
+      "url": "https://www.styleforum.net",
+      "source": "Styleforum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "NWT Todd Snyder chambray big shirt - Japanese fabric - black L - Styleforum",
+      "url": "https://www.styleforum.net",
+      "source": "Styleforum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "Drake's Games Trousers Navy Cotton Linen Size 33 - Styleforum",
+      "url": "https://www.styleforum.net",
+      "source": "Styleforum",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gucci",
+      "url": "https://www.reddit.com/r/gucci/",
+      "title": "Gucci",
+      "published_at": "2011-01-02",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/allthingsgucci",
+      "url": "https://www.reddit.com/r/AllThingsGucci/",
+      "title": "AllThingsGucci",
+      "published_at": "2020-09-05",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/guccimane",
+      "url": "https://www.reddit.com/r/guccimane/",
+      "title": "Gucci Mane - Reddit",
+      "published_at": "2013-03-04",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/perfumeadvicedaily",
+      "url": "https://www.reddit.com/r/PerfumeAdviceDaily/comments/1xqhpfm/help_me_pick_my_first_designer_fragrance/",
+      "title": "Help me pick my first designer fragrance! 😋",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/aita_relationships",
+      "url": "https://www.reddit.com/r/AITA_Relationships/comments/1xqhlg8/aita_for_not_sitting_with_my_boyfriends_brothers/",
+      "title": "AITA? For not sitting with my boyfriend’s brother’s girlfriend at his dad’s funeral?",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/decantswap",
+      "url": "https://www.reddit.com/r/decantswap/comments/1xqh2d5/wts_decanting_600_of_my_personal_niche_and/",
+      "title": "[WTS] Decanting 600+ Of My Personal Niche and Designer Fragrances (Decant)",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/yourfavoritemartian",
+      "url": "https://www.reddit.com/r/yourfavoritemartian/comments/1xqgx8z/my_sister_made_this/",
+      "title": "My sister made this",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/dhgate",
+      "url": "https://www.reddit.com/r/DHgate/comments/1xqgwjv/wanted_to_know_if_anyone_has_a_link_for_these/",
+      "title": "wanted to know if anyone has a link for these gucci ballet flats. thanks!",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fashionporn",
+      "url": "https://www.reddit.com/r/fashionporn/comments/1xqgnf1/taylor_swift_in_custom_gucci_at_the_2024_golden/",
+      "title": "Taylor Swift in Custom Gucci at the 2024 Golden Globes [2560 x 2560]",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xqg9xs/help_me_decide_gucci_dionysus_vs_ysl_casandra_woc/",
+      "title": "Help me decide - gucci dionysus vs ysl casandra woc (black)",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/onlythefamily_",
+      "url": "https://www.reddit.com/r/OnlyTheFamily_/comments/1xqftta/set_profile_oblock/",
+      "title": "Set Profile: O'Block",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/ties",
+      "url": "https://www.reddit.com/r/ties/comments/1xqflfn/need_help_identifying_gucci_tie/",
+      "title": "Need help identifying Gucci Tie",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fragranceswap",
+      "url": "https://www.reddit.com/r/fragranceswap/comments/1xqfclb/wts_ralph_lauren_ralphs_club_parfum_gucci_guilty/",
+      "title": "[WTS] Ralph Lauren Ralph’s Club Parfum & Gucci Guilty Pour Homme EDP",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gucci",
+      "url": "https://www.reddit.com/r/gucci/comments/1xqfbau/when_the_boat_shoes_match_my_duffle/",
+      "title": "When the boat shoes match my duffle",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/bagboysclub",
+      "url": "https://www.reddit.com/r/BagBoysClub/comments/1xqfats/when_the_gucci_boat_shoes_match_my_duffle/",
+      "title": "When the Gucci boat shoes match my duffle",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/repssheet",
+      "url": "https://www.reddit.com/r/RepsSheet/comments/1xqf7ho/supreme_x_margiela_zip_stüssy_8ball_jeans_and_a/",
+      "title": "Supreme x Margiela zip, Stüssy 8-ball jeans, and a bunch of new Acne, BAPE, and Gucci pieces",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/julienblanc",
+      "url": "https://www.reddit.com/r/JulienBlanc/comments/1xqeuqc/whats_your_relationship_like_with_you_julien/",
+      "title": "What’s your RELATIONSHIP like with you? - Julien Blanc (JulienHimself)",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gucci",
+      "url": "https://www.reddit.com/r/gucci/comments/1xqelxu/need_to_find_an_sa_to_work_remotely_with_me/",
+      "title": "Need to find an sa to work remotely with me",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/popheads",
+      "url": "https://www.reddit.com/r/popheads/comments/1xqe2hb/false_starts_rate_reveal_day_1_0_list_so_big_lord/",
+      "title": "False Starts Rate Reveal Day 1: 0 List So Big, Lord Have Mercy",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fragranceswap",
+      "url": "https://www.reddit.com/r/fragranceswap/comments/1xqduko/wts_radical_rose_original_vetiver_oud_for/",
+      "title": "[WTS] Radical Rose, Original Vetiver, Oud For Greatness, Gucci Guilty Elixir (Bottle)",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/vintageperfume",
+      "url": "https://www.reddit.com/r/vintageperfume/comments/1xqdi9j/thoughts_on_recent_antique_store_finds/",
+      "title": "Thoughts on recent antique store finds?",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/streetwear",
+      "url": "https://www.reddit.com/r/streetwear/comments/1xqde9r/be_different/",
+      "title": "Be Different 🍏",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/revolvers",
+      "url": "https://www.reddit.com/r/Revolvers/comments/1xqcyhq/new_holster_day/",
+      "title": "New holster day",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fashionrepsbst",
+      "url": "https://www.reddit.com/r/FashionRepsBST/comments/1xqcc50/fsusa_gucci_demna_jeans_size_32/",
+      "title": "[FS][USA] Gucci Demna Jeans Size 32",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/stockholmreps",
+      "url": "https://www.reddit.com/r/stockholmreps/comments/1xqbw4n/sellers_for_gucci_horsebit_1953/",
+      "title": "Sellers for Gucci horsebit 1953?",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xqbtu7/what_is_going_on_at_bag_borrow_or_steal/",
+      "title": "What is going on at Bag Borrow or Steal?",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/prelovedkoreanbags",
+      "url": "https://www.reddit.com/r/PrelovedKoreanBags/comments/1xqbonv/gucci_125/",
+      "title": "Gucci $125",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/tiktokdramadk",
+      "url": "https://www.reddit.com/r/tiktokdramadk/comments/1xqbl6m/mon_ik_det_din_egen_fake_profil_niklas_god_måde/",
+      "title": "🛑🛑 Mon ik det din egen fake profil Niklas, god måde at afpresse din x på. 🛑🛑",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/u/leading-anteater-119",
+      "url": "https://www.reddit.com/r/u_Leading-Anteater-119/comments/1xqbfb4/real_or_fake_would_you_spot_a_fake_gucci_marmont/",
+      "title": "REAL OR FAKE? WOULD YOU SPOT A FAKE GUCCI MARMONT?",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/1to1reps",
+      "url": "https://www.reddit.com/r/1to1reps/comments/1xqbdkl/tophot_yupoo_goods/",
+      "title": "Tophot yupoo goods",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xqba6b/gucci_giglio_large_gg_canvas_or_lv_speedy_35/",
+      "title": "Gucci Giglio Large GG Canvas or LV speedy 35 monogram?",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/colognes",
+      "url": "https://www.reddit.com/r/Colognes/comments/1xqb3s8/excited_to_try_these_which_are_your_favorites/",
+      "title": "Excited to try these, which are your favorites?",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xqb149/recommendations_for_a_large_crossbody_bag_with_a/",
+      "title": "Recommendations for a large crossbody bag with a magnetic closure that’ll keep all my things in?",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gucci",
+      "url": "https://www.reddit.com/r/gucci/comments/1xqavzz/gucci_giglio_gg_canvas_large_or_speedy_35/",
+      "title": "Gucci Giglio GG Canvas Large or Speedy 35 bandouliere monogram?",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/decantswap",
+      "url": "https://www.reddit.com/r/decantswap/comments/1xqa5lg/wts_designer_middle_eastern_decants_louis_vuitton/",
+      "title": "[WTS] Designer & Middle Eastern Decants | Louis Vuitton Imagination | Chanel | YSL | Mancera | Lattafa | French Avenue | Afnan & more",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fashionporn",
+      "url": "https://www.reddit.com/r/fashionporn/comments/1xq95ru/jessica_chastain_in_custom_gucci_at_the_2022/",
+      "title": "Jessica Chastain in custom Gucci at the 2022 Vanity Fair Oscar Party [3000 x 3000]",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/globalacademy",
+      "url": "https://www.reddit.com/r/GlobalAcademy/comments/1xq8zk0/amazing_dwn_syndrme_section/",
+      "title": "Amazing d.wn syndr,me section",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xq8xm5/1994_tom_ford_era_gucci_birth_year_bag/",
+      "title": "1994 Tom Ford era Gucci birth year bag??",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/pokemoncollecting",
+      "url": "https://www.reddit.com/r/PokemonCollecting/comments/1xq8gfu/showed_gucci_my_card_collection/",
+      "title": "Showed Gucci my card collection",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gengar",
+      "url": "https://www.reddit.com/r/gengar/comments/1xq8g7e/showed_gucci_my_card_collection/",
+      "title": "Showed Gucci my card collection",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/watches",
+      "url": "https://www.reddit.com/r/Watches/comments/1xq8ald/gucci_angry_cat/",
+      "title": "[Gucci Angry Cat]",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/watchchapters",
+      "url": "https://www.reddit.com/r/WatchChapters/comments/1xq88ng/gucci_angry_cat/",
+      "title": "Gucci Angry Cat",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/prideandpinion",
+      "url": "https://www.reddit.com/r/PrideAndPinion/comments/1xq88f0/gucci_angry_cat/",
+      "title": "Gucci Angry Cat",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/todayonmywrist",
+      "url": "https://www.reddit.com/r/TodayOnMyWrist/comments/1xq87w3/gucci_angry_cat/",
+      "title": "Gucci Angry Cat",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/reptoprehomes",
+      "url": "https://www.reddit.com/r/REPTOPREHOMES/comments/1xq85le/designer_sunglasses_clear_out/",
+      "title": "🕶️💕✨ DESIGNER SUNGLASSES CLEAR OUT!",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/luxeladies",
+      "url": "https://www.reddit.com/r/Luxeladies/comments/1xq842f/designer_sunglasses_clear_out/",
+      "title": "🕶️💕✨ DESIGNER SUNGLASSES CLEAR OUT!",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/watches_and_cats",
+      "url": "https://www.reddit.com/r/Watches_and_Cats/comments/1xq82uz/caturday_saturday/",
+      "title": "Caturday Saturday",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/tiktokdramadk",
+      "url": "https://www.reddit.com/r/tiktokdramadk/comments/1xq7nw7/så_kan_man_da_ikke_synke_lavere/",
+      "title": "Så kan man da ikke synke lavere … 🫪🤮",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gucci",
+      "url": "https://www.reddit.com/r/gucci/comments/1xq7lm0/outlet_sa/",
+      "title": "Outlet SA?",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/ynreps",
+      "url": "https://www.reddit.com/r/YNReps/comments/1xq7grw/supreme_rugby_erd_text_tee_and_a_spread_of_gucci/",
+      "title": "Supreme rugby, ERD text tee, and a spread of Gucci, Chrome Hearts, and studded jeans",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/colombiareddit",
+      "url": "https://www.reddit.com/r/ColombiaReddit/comments/1xq7cr8/que_boleta_q_un_influencer_haya_entregado_más/",
+      "title": "Que boleta q un influencer haya entregado más casas en dos meses que la primera rata",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fashionrepshub",
+      "url": "https://www.reddit.com/r/FashionRepsHub/comments/1xq6z0j/gucci_gg_shorts_supreme_paint_gun_tee_bape_camo/",
+      "title": "Gucci GG shorts, Supreme paint gun tee, BAPE camo zip-up, and a spread of Represent, Hellstar, Polo, Carhartt, and Gucci sneakers",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/femalerappers",
+      "url": "https://www.reddit.com/r/FemaleRappers/comments/1xq6kmh/tb_gucci_flip_flops_bhad_bhabie/",
+      "title": "TB: 'Gucci Flip Flops' — Bhad Bhabie",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/realrepladies",
+      "url": "https://www.reddit.com/r/RealRepLadies/comments/1xq6fzm/gucci/",
+      "title": "Gucci",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/couturereps",
+      "url": "https://www.reddit.com/r/CoutureReps/comments/1xq62do/unbox_with_me_patagonia_margiela_bape_carhartt/",
+      "title": "Unbox with me: Patagonia, Margiela, Bape, Carhartt, and a Gucci Knit",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/1to1reps",
+      "url": "https://www.reddit.com/r/1to1reps/comments/1xq5tsr/sharing_to_yall_my_neatest_haul/",
+      "title": "sharing to y'all my neatest haul",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gucci",
+      "url": "https://www.reddit.com/r/gucci/comments/1xq5sk5/check_out_gucci_vintage_formal_leather_dress/",
+      "title": "Check out Gucci vintage formal leather dress shoes size 8D on eBay!",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/thrift",
+      "url": "https://www.reddit.com/r/Thrift/comments/1xq5sek/check_out_gucci_vintage_formal_leather_dress/",
+      "title": "Check out Gucci vintage formal leather dress shoes size 8D on eBay!",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/cssbuyfinds",
+      "url": "https://www.reddit.com/r/CSSBuyfinds/comments/1xq5fr2/nba_essentials_set_cuntier_distressed_zip_casa/",
+      "title": "NBA Essentials set, Cuntier distressed zip, Casa Blanca polo, and a few other new pieces",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/allthingsgucci",
+      "url": "https://www.reddit.com/r/AllThingsGucci/comments/1xq5bg4/cappotto_vintage_gucci/",
+      "title": "Cappotto vintage Gucci",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gucci",
+      "url": "https://www.reddit.com/r/gucci/comments/1xq5b5q/vintage_gucci_coat/",
+      "title": "Vintage Gucci Coat",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fragrancedeals",
+      "url": "https://www.reddit.com/r/fragrancedeals/comments/1xq58hl/wts_bundle_for_220/",
+      "title": "[WTS] Bundle for $220 🚢",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/perfumeexchange",
+      "url": "https://www.reddit.com/r/PerfumeExchange/comments/1xq57qy/wts_bundle_for_220/",
+      "title": "[WTS] Bundle for $220 🚢",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fragranceswap",
+      "url": "https://www.reddit.com/r/fragranceswap/comments/1xq550o/wtt_prada_l_homme_ysl_lndl_21_myslf_le_parfum_for/",
+      "title": "[WTT] Prada L Homme, YSL LNDL 21, MYSLF le parfum for Sauvage Elixir/Ext, Guilty Elixir",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/canadapersonalfinance",
+      "url": "https://www.reddit.com/r/CanadaPersonalFinance/comments/1xq4m7q/is_it_true_brands_like_lv_gucci_dior_are_poor/",
+      "title": "Is it true brands like LV, GUCCI, DIOR are poor people luxury items?",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/g59",
+      "url": "https://www.reddit.com/r/G59/comments/1xq43o6/what_car_does_lim_gucci_have/",
+      "title": "What car does $lim Gucci have?",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xq3oqf/looking_for_a_designer_understated_evening_bag/",
+      "title": "Looking for a designer understated evening bag",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/couturereps",
+      "url": "https://www.reddit.com/r/CoutureReps/comments/1xq3c9q/dior_lv_floral_shorts_gucci_gg_shirt_and_a_spread/",
+      "title": "Dior, LV floral shorts, Gucci GG shirt, and a spread of accessories",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/designreps",
+      "url": "https://www.reddit.com/r/DesignReps/comments/1xq38fo/supreme_zip_hoodie_miu_miu_grey_zip_and_a_spread/",
+      "title": "Supreme zip hoodie, Miu Miu grey zip, and a spread of Chrome Hearts, Nike Nocta, and Gucci",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/vintagerepbags",
+      "url": "https://www.reddit.com/r/VintageRepBags/comments/1xq338m/rehome_eu_plkmore/",
+      "title": "Rehome eu plk&more",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/movies",
+      "url": "https://www.reddit.com/r/movies/comments/1xq2gry/spring_breakers_1st_watch/",
+      "title": "Spring Breakers 1st Watch",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/worldofreps",
+      "url": "https://www.reddit.com/r/WorldOfReps/comments/1xq2fmx/earthtoned_fall_winter_wardrobe_collection/",
+      "title": "Earth-toned fall winter wardrobe collection featuring classic hoodies from Supreme, Fear of God Essentials and Stüssy, paired with Gucci knitwear, Nike tracksuit and Stone Island denim for unified style and rich texture",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/scentheads",
+      "url": "https://www.reddit.com/r/ScentHeads/comments/1xq2ccf/help_me_pick_my_first_designer_fragrance/",
+      "title": "Help me pick my first designer fragrance! 😋",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fragrances",
+      "url": "https://www.reddit.com/r/Fragrances/comments/1xq2bg5/help_me_pick_my_first_designer_fragrance/",
+      "title": "Help me pick my first designer fragrance! 😋",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/doors_roblox",
+      "url": "https://www.reddit.com/r/doors_roblox/comments/1xq23tn/theory_drone_can_comunicate_each_other_and_honcho/",
+      "title": "THEORY drone can comunicate each other and honcho through terminal",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/u/icyhotmilk",
+      "url": "https://www.reddit.com/r/u_Icyhotmilk/comments/1xq1euc/rehome_sydney_to_au_gucci_light_green/",
+      "title": "Rehome Sydney to AU - Gucci Light Green",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/repssheet",
+      "url": "https://www.reddit.com/r/RepsSheet/comments/1xq0tqd/supreme_x_margiela_zip_stüssy_8ball_jeans_and_a/",
+      "title": "Supreme x Margiela zip, Stüssy 8-ball jeans, and a bunch of new Acne, BAPE, and Gucci pieces",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/cssbuyfinds",
+      "url": "https://www.reddit.com/r/CSSBuyfinds/comments/1xq0son/acne_1996_pink_ami_stripes_gallery_dept_splatter/",
+      "title": "Acne 1996 pink, Ami stripes, Gallery Dept splatter, and a spread of Supreme, Gucci, and BAPE",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/1to1reps",
+      "url": "https://www.reddit.com/r/1to1reps/comments/1xq0oxw/polo_brown_leather_jacket_balenciaga_sweatpants/",
+      "title": "Polo brown leather jacket, Balenciaga sweatpants, Chrome jersey, Gucci slides, and a Hellstar tee in the mix",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/smellslikethis",
+      "url": "https://www.reddit.com/r/SmellsLikeThis/comments/1xq0b0q/five_maison_alhambra_bottles_and_the_designer/",
+      "title": "Five Maison Alhambra bottles and the designer scents they are inspired by",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/instacartshoppers",
+      "url": "https://www.reddit.com/r/InstacartShoppers/comments/1xpzttj/thank_you_god/",
+      "title": "Thank you God!!!!",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/oman",
+      "url": "https://www.reddit.com/r/Oman/comments/1xpzdqd/planning_to_start_a_luxury_import_reselling/",
+      "title": "Planning to Start a Luxury Import & Reselling Business in Oman – Need Your Opinions",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/redditlaqueristaswap",
+      "url": "https://www.reddit.com/r/RedditLaqueristaSwap/comments/1xpz391/sellus_various_indies_bkl_lynb_drk_cadillacquer/",
+      "title": "[SELL](US) Various indies (BKL, LynB, DRK, Cadillacquer, PFD, etc!) Most expensive polish $15!",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/indianbeautyyappers",
+      "url": "https://www.reddit.com/r/indianbeautyyappers/comments/1xpyx0e/2026_scents_wrapped/",
+      "title": "2026 Scents Wrapped",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/jewelryforsale",
+      "url": "https://www.reddit.com/r/JewelryForSale/comments/1xpxn33/wtb_puffed_mariner_or_gucci_link_necklace/",
+      "title": "[WTB] Puffed Mariner or Gucci Link Necklace",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/u/blackestsaiyanfelon",
+      "url": "https://www.reddit.com/r/u_BLACKESTSAIYANFELON/comments/1xpxabl/today_we_celebrate_oblock_bosstops_birthday_he/",
+      "title": "TODAY WE CELEBRATE OBLOCK BOSSTOP'S BIRTHDAY HE TURNED 35 YEARS OLD TODAY",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/guccimane",
+      "url": "https://www.reddit.com/r/guccimane/comments/1xpwy6h/im_mad_this_diss_is_actually/",
+      "title": "I'm mad this diss is actually 🔥",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fragheadph",
+      "url": "https://www.reddit.com/r/fragheadph/comments/1xpvym0/my_samples_collection/",
+      "title": "my samples collection",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gucci",
+      "url": "https://www.reddit.com/r/gucci/comments/1xpvtt4/new_addition_to_my_collection/",
+      "title": "new addition to my collection. 🖤",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/femfraglab",
+      "url": "https://www.reddit.com/r/FemFragLab/comments/1xpvrf7/my_samples_collection/",
+      "title": "my samples collection",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/wholesale_suppliers",
+      "url": "https://www.reddit.com/r/wholesale_suppliers/comments/1xpvpe2/chinabased_handbag_supplier_designerinspired/",
+      "title": "China-Based Handbag Supplier | Designer-Inspired Styles | Small Orders Welcome 👜",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/parentsofmultiples",
+      "url": "https://www.reddit.com/r/parentsofmultiples/comments/1xpurn8/cuteness_to_look_forward_to/",
+      "title": "Cuteness to look forward to!!",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/gucci",
+      "url": "https://www.reddit.com/r/gucci/comments/1xpue8d/gucci_appreciation/",
+      "title": "Gucci appreciation",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/smosh",
+      "url": "https://www.reddit.com/r/smosh/comments/1xptyva/i_know_the_new_cast_has_only_been_around_a_short/",
+      "title": "I know the new cast has only been around a short while...",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/fragranceswap",
+      "url": "https://www.reddit.com/r/fragranceswap/comments/1xptkyd/wtswtt_gucci_guilty_pour_femme_intense_90ml_bottle/",
+      "title": "[WTS][WTT] Gucci Guilty Pour Femme Intense 90ml (bottle)",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/colognes",
+      "url": "https://www.reddit.com/r/Colognes/comments/1xptggc/gucci_elixir_de_parfum_performance/",
+      "title": "Gucci elixir de parfum - performance?",
+      "published_at": "2026-11-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/whistle29",
+      "url": "https://www.reddit.com/r/whistle29/comments/1xptehx/human_irl_skav/",
+      "title": "Human irl - skav",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/jewelryforsale",
+      "url": "https://www.reddit.com/r/JewelryForSale/comments/1xpt4ni/wts_sterling_silvergold_jewelry_new_10k_gold/",
+      "title": "[WTS] Sterling Silver/Gold Jewelry- New 10k Gold Jewelry, Tennis Bracelets, Silver Cubans, Lab/Natural Diamonds, Earrings, Necklaces, Bracelets, Pendants.",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/riskygigaquotes",
+      "url": "https://www.reddit.com/r/riskygigaquotes/comments/1xpsdme/giga_procrastinator_exposed_by_jealous_op/",
+      "title": "Giga procrastinator exposed by jealous OP",
+      "published_at": "2026-11-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/funcomunitty",
+      "url": "https://www.reddit.com/r/funComunitty/comments/1xps2k6/people_be/",
+      "title": "people be",
+      "published_at": "2026-11-06",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/xgalx",
+      "url": "https://www.reddit.com/r/XGALX/",
+      "title": "XG NEW SINGLE - DEPENDS - 2026.11.06 FRI",
+      "published_at": "2022-02-05",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xpnpsf/need_red_bag_recommendations/",
+      "title": "Need ‘red’ bag recommendations",
+      "published_at": "2026-11-06",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xpjlhu/recommend_me_a_good_bag/",
+      "title": "Recommend me a good bag",
+      "published_at": "2026-11-06",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xpffhh/help_me_pick/",
+      "title": "Help me pick",
+      "published_at": "2026-11-06",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xpew99/messenger_bag_recommendations/",
+      "title": "Messenger bag recommendations",
+      "published_at": "2026-11-06",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xousf6/tell_me_what_to_do/",
+      "title": "Tell me what to do",
+      "published_at": "2026-11-05",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/luxury",
+      "url": "https://www.reddit.com/r/Luxury/comments/1xoos92/why_guccis_green_and_red_web_stripe_has_survived/",
+      "title": "Why Gucci's green and red Web stripe has survived over 70 years",
+      "published_at": "2026-11-05",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xomwzj/gucci_jackie_canvas/",
+      "title": "Gucci Jackie Canvas",
+      "published_at": "2026-11-05",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/malefashionadvice",
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1xoa6v8/modern_reinterpretation_of_tom_ford_for_ysl_circa/",
+      "title": "Modern reinterpretation of Tom Ford for YSL circa 2003",
+      "published_at": "2026-11-05",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xo72fo/help_me_find_a_crossbody/",
+      "title": "Help me find a crossbody?",
+      "published_at": "2026-11-05",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xo50ab/what_are_your_fav_independent_purse_brands/",
+      "title": "What are your fav independent purse brands?",
+      "published_at": "2026-11-05",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/luxury",
+      "url": "https://www.reddit.com/r/Luxury/comments/1xo0hzk/gucci_is_overpriced_and_my_degree_depends_on/",
+      "title": "Gucci is overpriced and my degree depends on proving it 💀",
+      "published_at": "2026-11-04",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xn0rta/prada_bag_strap_edge_peeled_off/",
+      "title": "Prada bag strap edge peeled off",
+      "published_at": "2026-11-03",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xn0m6f/why_does_michael_kors_get_so_much_hate/",
+      "title": "Why does Michael Kors get so much hate?",
+      "published_at": "2026-11-03",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xmx1vb/is_this_purple_or_pink/",
+      "title": "Is this purple or pink?",
+      "published_at": "2026-11-03",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xmryur/following_on_from_yesterdays_python_beauty_i_am/",
+      "title": "Following on from yesterdays python beauty I am also OBSESSED with this sparkly number 😍😍😍",
+      "published_at": "2026-11-03",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xmjeft/gucci_crystal_bags/",
+      "title": "Gucci crystal bags 🤩",
+      "published_at": "2026-11-03",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xmct6y/1010_for_the_bridge_magda_bag/",
+      "title": "10/10 for The Bridge Magda bag",
+      "published_at": "2026-11-02",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xmawo6/recommendations_please/",
+      "title": "Recommendations please!",
+      "published_at": "2026-11-02",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xm6xir/gucci_jackie_flap_large_size_in_brown_with_brown/",
+      "title": "Gucci Jackie Flap, large size in brown with brown leather lining. Slouch in 360…",
+      "published_at": "2026-11-02",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xm6lzs/gucci_jackie_flap_large_size_in_brown_leather/",
+      "title": "Gucci Jackie Flap, large size in brown leather with brown smooth leather lining and silver hardware - slouch in 360",
+      "published_at": "2026-11-02",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xm32gp/gucci_is_unapologetically_tacky_under_demna_and/",
+      "title": "Gucci is unapologetically tacky under Demna and maybe that’s why I love this iridescent python Starlet so much?",
+      "published_at": "2026-11-02",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xm1t9j/a_tale_of_two_gucci_boston_bags/",
+      "title": "A tale of two Gucci Boston bags",
+      "published_at": "2026-11-02",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xm0shw/would_you_refurb_a_worn_vintage_bag/",
+      "title": "Would you refurb a worn vintage bag?",
+      "published_at": "2026-11-02",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xlwu7l/anyone_know_this_bag_id/",
+      "title": "Anyone know this bag ID?",
+      "published_at": "2026-11-02",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xlj5mp/she_is_mine_gucci_borsetto_ama/",
+      "title": "She is mine! Gucci Borsetto - AMA",
+      "published_at": "2026-11-02",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xkyvfy/prada_bags_worth_it/",
+      "title": "Prada bags worth it?",
+      "published_at": "2026-11-01",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xkrmd4/which_bag/",
+      "title": "Which Bag?",
+      "published_at": "2026-11-01",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/handbags",
+      "url": "https://www.reddit.com/r/handbags/comments/1xk4z8d/obsessed_with_this_blue_gucci_horsebit_is_it/",
+      "title": "Obsessed with this blue Gucci Horsebit. Is it likely to ever release it again?",
+      "published_at": "2026-10-31",
+      "title_match": true,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.durstig.online/post/69805",
+      "title": "My first fire cape!",
+      "published_at": "2026-11-01",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://sopuli.xyz/post/53963630",
+      "title": "Do rich people only wear designer clothes? Like, every piece?",
+      "published_at": "2026-10-31",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://chachara.club/post/1893541",
+      "title": "La era del ‘premium’ mediocre: cuando tener espacio en el avión o una hamburguesa ‘de autor’ se venden como lujo.",
+      "published_at": "2026-10-30",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/fucinafibonacci/statuses/117505825253890348",
+      "title": "RE: https://flipboard.com/@opengiornale/ultime-news-6md6h5dvz/-/a-WQHw0YETSnC9kX81nJfFiQ%3Aa%3A4121493808-%2F0",
+      "published_at": "2026-10-26",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.world/post/53410291",
+      "title": "Juanita Guccione - Wheel of Fortune",
+      "published_at": "2026-10-21",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://feddit.uk/post/56871435",
+      "title": "Bucks-linked Amal Clooney dazzles in gold gown at star-studded Albie Awards",
+      "published_at": "2026-10-14",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.world/post/53064383",
+      "title": "Golden Record [Beetle Moses]",
+      "published_at": "2026-10-13",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://poliversity.it/users/memento/statuses/117371021558077853",
+      "title": "Chanel, Dior, Gucci, Louis Vuitton: 1.300 pezzi della storia della moda all’asta. Una prestigiosa collezione personale all’incanto. Come partecipare",
+      "published_at": "2026-10-02",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.dbzer0.com/post/76202900",
+      "title": "Lice (Aesop Rock & Homeboy Sandman) - The Burgers (Official Audio)",
+      "published_at": "2026-09-29",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemy.nl/post/4890985",
+      "title": "Oudere modellen verschijnen op de catwalk: 'Klant moet zich in model kunnen herkennen'",
+      "published_at": "2026-09-28",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.zip/post/72103397",
+      "title": "Gucci's new 'Made in China' sneaker models break with Italian tradition",
+      "published_at": "2026-09-25",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.zip/post/72103396",
+      "title": "Gucci's new 'Made in China' sneaker models break with Italian tradition",
+      "published_at": "2026-09-25",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.zip/post/72103295",
+      "title": "Gucci's new 'Made in China' sneaker models break with Italian tradition",
+      "published_at": "2026-09-25",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemy.nl/post/4860174",
+      "title": "Gucci laat voor het eerst sneakers niet in Italië, maar in China maken",
+      "published_at": "2026-09-24",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/117246943715133118/statuses/117301894677444880",
+      "title": "\"Mi chiamo Ellade Bandini, ho quasi ottant'anni e non ho lavorato un giorno in vita mia: ho sempre e solo suonato la batteria.\"",
+      "published_at": "2026-09-20",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.world/post/51998510",
+      "title": "\"notasysmon\" -- A btop-inspired yet minimal system monitor.",
+      "published_at": "2026-09-16",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.world/post/51946181",
+      "title": "Bargain Bin Gucci 🟤🟢🔴",
+      "published_at": "2026-09-15",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://sh.itjust.works/post/66742847",
+      "title": "Phoebe Bridgers and Her Leg Hair Make for a Memorable Venice Film Festival Debut",
+      "published_at": "2026-09-14",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://diggita.com/post/1039084",
+      "title": "Monferr'Autore 2026, il settembre che canta Guccini e balla con Boosta",
+      "published_at": "2026-08-28",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/fucinafibonacci/statuses/117168866275997269",
+      "title": "Se oggi mi vergognerei ad indossare un accessorio #Gucci (non a caso uno dei marchi più amati dai trapper nostrani) il merito è anche di #TomFord che ne è stato direttore creativo per non so quanti",
+      "published_at": "2026-08-27",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://poliversity.it/users/letterina/statuses/117167232997805027",
+      "title": "“Calde le pere!”: un estratto dal libro postumo di Francesco Guccini, che celebra le sue radici",
+      "published_at": "2026-08-27",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117156971706992459",
+      "title": "Oggi lui sarebbe considerato fortunato, che ha la pensione! Cosa che per tanti è un sogno, un miraggio lontano....",
+      "published_at": "2026-08-25",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.blahaj.zone/post/47026922",
+      "title": "Armani and the Birth of Italian Fashion (2026, dir John Maggio)",
+      "published_at": "2026-08-24",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117134811906595953",
+      "title": "Potrebbe assumere pose da 'intellettuale', ma quello non è il suo mondo; alla fine preferisce rimanere quello che è, a casa sua, con i suoi amici, i suoi libri, la musica, i suoi “ubriachi”, i gatti,",
+      "published_at": "2026-08-21",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117123298706439198",
+      "title": "\"Al caldo del sole, al mare scendeva la bambina portoghese... \"",
+      "published_at": "2026-08-19",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117112037865054322",
+      "title": "Non la vedi, non la tocchi",
+      "published_at": "2026-08-17",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117094931979281569",
+      "title": "L'incontro con un'amica che non vedeva da tempo è lo spunto per questa canzone 'cinematografica' di Guccini",
+      "published_at": "2026-08-14",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/Kurjak/statuses/117087572577819599",
+      "title": "Stasera ore 21:10, replica domani ore 23:10. Rai Storia, \"Francesco Guccini, Il Maestrone Cantautore\".",
+      "published_at": "2026-08-13",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117083735909001602",
+      "title": "'Amerigo', ovvero il prozio di Guccini, emigrato negli Stati Uniti, e poi tornato con i segni lasciati da quella vita dura:",
+      "published_at": "2026-08-12",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117077751208394820",
+      "title": "In effetti, si può morire anche dentro... Come ci ricorda questa canzone di Guccini:",
+      "published_at": "2026-08-11",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117072131858065966",
+      "title": "L'ultima 'canzone di notte' che ha scritto, nella sua Pavana, ricordando tante altre notti della sua vita... Altre atmosfere:",
+      "published_at": "2026-08-10",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117066637133670468",
+      "title": "Una ballata malinconica sulla fine di una relazione importante, un addio consapevole e senza rancore:",
+      "published_at": "2026-08-09",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/spettacoli/statuses/117066383078395738",
+      "title": "Guccini, quando diceva: \"Sembra che io abbia scritto solo 3 canzoni\"",
+      "published_at": "2026-08-09",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://poliverso.org/objects/0477a01e-716a-7843-a8b6-821854094909",
+      "title": "Enzo Biagi e Francesco Guccini due indimenticabili montanari",
+      "published_at": "2026-08-09",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://poliversity.it/users/emama/statuses/117061835687953933",
+      "title": "Il saluto del cardinale Matteo Zuppi ai funerali laici di Francesco Guccini.",
+      "published_at": "2026-08-08",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/filippodb/statuses/117059849434096489",
+      "title": "Purtroppo anche su Mastodon i bot hanno preso il sopravvento. Me ne sono accorto negli ultimi giorni guardando gli hashtag #Guccini e #FrancescoGuccini totalmente dominati da bot dove i messaggi degli",
+      "published_at": "2026-08-08",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://lemmy.durstig.online/post/52186",
+      "title": "No coding experience, can I build with Claude code ?",
+      "published_at": "2026-08-08",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://poliversity.it/users/letterina/statuses/117055709469700086",
+      "title": "Addio a Francesco Guccini, cantautore senza tempo (e apprezzato scrittore)",
+      "published_at": "2026-08-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116738161202755821/statuses/117054936269377502",
+      "title": "Ho visto il video di Andrea Scanzi, abbastanza inviperito dopo le dichiarazioni in cui Giorgia Meloni ribadisce che #Guccini è il suo cantante preferito... ^^",
+      "published_at": "2026-08-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/filippodb/statuses/117053506745650246",
+      "title": "Grazie a tutti quelli che hanno lasciato un ricordo di Francesco Guccini nel gruppo dedicato: . Qui potrete leggere semplici dediche, episodi di chi lo ha conosciuto, di chi lo ha seguito",
+      "published_at": "2026-08-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/ap/users/116427650023650812/statuses/117052396434056879",
+      "title": "Però non la sopporto",
+      "published_at": "2026-08-07",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/Kurjak/statuses/117052242961432670",
+      "title": "< Siamo il maledettissimo anarchico e poi la stralunata consapevolezza del nulla di Leopardi, Pascoli e Gozzano. Figurine delle nostre antologie di liceo alle quali Francesco Guccini – «maestrone» di",
+      "published_at": "2026-08-07",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/steek_hutzee/statuses/117050365456506690",
+      "title": "Addio Guccini",
+      "published_at": "2026-08-06",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://wikis.world/users/Galessandroni/statuses/117049832029553905",
+      "title": "Ciao Francesco, se solo potessi imprecare...",
+      "published_at": "2026-08-06",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://poliversity.it/users/ogn1/statuses/117049732766503314",
+      "title": "Cantore di valori e di libertà. Un saluto personale a Francesco Guccini",
+      "published_at": "2026-08-06",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/Kurjak/statuses/117049702249633676",
+      "title": "< Restano i sogni senza tempo",
+      "published_at": "2026-08-06",
+      "title_match": false,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/alda7069/statuses/117049608673441452",
+      "title": "#FrancescoGuccini",
+      "published_at": "2026-08-06",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://mastodon.uno/users/gigicop/statuses/117049553070373657",
+      "title": "Sarà che invecchiando ci si commuove più facilmente o chissà cos'altro, ma oggi l'emozione è stata forte. Francesco Guccini è stato la colonna sonora della mia vita dall'adolescenza, a oggi e sempre.",
+      "published_at": "2026-08-06",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://poliversity.it/users/giorgiosarto/statuses/117049306539555670",
+      "title": "Addio a Francesco Guccini, il poeta che raccontò il tempo e l’Italia che fu – e che è ancora, come allora",
+      "published_at": "2026-08-06",
+      "title_match": true,
+      "alloc": 0.9289
+    },
+    {
+      "source_type": "community",
+      "source": "Lemmy",
+      "url": "https://poliversity.it/users/giorgiosarto/statuses/117049221403925312",
+      "title": "‘Auschwitz’ e la liberazione dal nazi-fascismo, così Guccini ricordava chi siamo e il motivo dell’Europa unita",
+      "published_at": "2026-08-06",
+      "title_match": true,
+      "alloc": 0.9289
+    }
+  ]
+}

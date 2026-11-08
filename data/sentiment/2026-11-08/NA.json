@@ -1,0 +1,98 @@
+[
+  {
+    "id": "NA-2026-11-08-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive WWD photo gallery of brand-staged holiday campaign, no evaluative verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-08-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of GucciCore campaign launch/positioning with no outlet verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-08-003",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci Q3 comps/retail sales declined and NA turned negative, shares sank / counter: management points to GucciCore as fix.",
+    "signal_tags": ["negative_earnings", "momentum"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-08-004",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline and roundup unambiguously frame fan reaction to holiday campaign as disappointed, depressing, boring.",
+    "signal_tags": ["campaign_backlash", "organic_reaction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-08-005",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic TikTok comment sample calls campaign cold, boring, depressing; SNS volume damped per fandom/SNS caution.",
+    "signal_tags": ["campaign_backlash", "sns"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-08-006",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Item flags forum activity level for buzz tracking only; no actual sentiment content reported.",
+    "signal_tags": ["community_activity"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-11-08-007",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Rolling consumer reviews cite recurring quality failures (zippers, watch, shoes, belt) and poor service vs price.",
+    "signal_tags": ["quality_complaint", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-08-008",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: headline 'Best Resale Value' highlights current icon bags holding 55-80% of retail / counter: older/dated styles retain only 30-50%.",
+    "signal_tags": ["resale_value", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-08-009",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Lifestyle-media reiteration of campaign product/direction details, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-08-010",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Below-usual view counts and comments echoing 'cold'/'outdated' criticism, though exact figures unconfirmed.",
+    "signal_tags": ["campaign_backlash", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-08-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: split comments, praise for styling / counter: skeptical comments call imagery sterile and inhuman — genuine two-sided reaction with no clear verdict.",
+    "signal_tags": ["mixed", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-08-012",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Opinion piece names Gucci specifically among at-risk brands citing falling sales and resale softness as evidence of desirability collapse.",
+    "signal_tags": ["momentum", "resale_value"],
+    "confidence": 0.75
+  }
+]

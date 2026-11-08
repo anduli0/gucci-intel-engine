@@ -1,0 +1,138 @@
+[
+  {
+    "id": "EU-2026-11-08-001",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline/lede report Gucci organic sales down 6%, worse than expected, sustained negative momentum framing.",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-08-002",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline frames Gucci as the contraction dragging on Kering while peers offset it; dominant thesis is negative.",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-08-003",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Shares tumble 11% on Gucci failing to reassure investors; analysts quoted doubting credible turnaround.",
+    "signal_tags": ["negative_earnings", "market_reaction"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-08-004",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline 'still weighs on recovery' plus raised store-closure target signals sustained negative momentum.",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-08-005",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: recovery will be gradual with over-distribution a structural problem / counter: VIC and fashion-forward segments show relative resilience in Europe.",
+    "signal_tags": ["mixed", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-08-006",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own holiday campaign launch, press-kit derived.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-08-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of Gucci Osteria's own holiday food/gift line launch, no independent verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-08-008",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of the Gucci Gift campaign's staging with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-08-009",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline states fans are 'disappointed' and call the campaign 'depressing' and 'boring' — clear organic negative reception.",
+    "signal_tags": ["campaign_backlash", "ambassador_risk"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-08-010",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "TikTok reaction clips call the ad cold and joyless, likening it to a department store imitating luxury; secondary/aggregated so magnitude capped.",
+    "signal_tags": ["campaign_backlash", "sns_secondary"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-08-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure engagement metrics from an unverified third-party aggregator, no evaluative content.",
+    "signal_tags": ["metric_only", "verification_required"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-11-08-012",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent consumer community praise calling the new Flora tote 'stunning' and the standout piece of the collection.",
+    "signal_tags": ["purchase_intent", "design_praise"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-08-013",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: no single verdict / counter: praise for leather quality and tailoring is balanced against criticism of Diana bag styling — genuine two-sided split.",
+    "signal_tags": ["mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-08-014",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: no verdict reached / counter: forum posters split on sneaker value-for-money and durability versus peers.",
+    "signal_tags": ["mixed", "value_for_money"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-08-015",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explicitly excluded background context dated 2024 outside the freshness window; former-CEO price-hike critique noted but not fresh signal.",
+    "signal_tags": ["out_of_window", "price_criticism"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-11-08-016",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: in-store sales keep declining / counter: Gucci dominates resale demand as top-selling brand on Vestiaire — paradox piece with no single verdict.",
+    "signal_tags": ["mixed", "resale_data"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-08-017",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Veteran critic gives a largely favorable independent read on Demna's Gucci debut, but item is background reference outside the freshness window.",
+    "signal_tags": ["critic_review", "out_of_window"],
+    "confidence": 0.55
+  }
+]

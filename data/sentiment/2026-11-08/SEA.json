@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-11-08-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-appointment write-up (what/who/under whom), no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-08-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive repeat of Park Bo Gum ambassador news, framed within broader ambassador strategy, no outlet verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-08-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador announcement contextualized against existing roster; no clear positive or negative verdict from outlet.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-08-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Same-day factual coverage of ambassador appointment, quotes ambassador's own statement; press-kit derived, no independent judgment.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-08-005",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: ambassador appointment framed as Gucci successfully pulling star power away from rival Celine/LVMH / counter: still activation-coverage derived, not independent demand data.",
+    "signal_tags": ["activation_coverage", "ambassador", "competitive_framing"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-08-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci named among several brands in a counterfeit seizure; brand-dilution/quality-perception risk, incidental mention among multiple brands.",
+    "signal_tags": ["counterfeit", "brand_risk"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-08-007",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan account enthusiasm over official repost of ambassador's magazine cover; genuine positive affect but fandom-spike trap caps magnitude.",
+    "signal_tags": ["fandom", "ambassador", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-08-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: descriptive summary of mixed forum activity (ambassador fan threads plus routine authenticity/commerce discussion) / counter: no dominant evaluative direction present.",
+    "signal_tags": ["mixed", "community", "counterfeit_inquiry"],
+    "confidence": 0.5
+  }
+]
