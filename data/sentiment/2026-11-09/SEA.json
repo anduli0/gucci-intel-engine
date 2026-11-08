@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SEA-2026-11-09-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-appointment write-up (who/why), press-kit derived, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-09-02",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive holiday-campaign/product roundup (stars, director, gift items) with no outlet verdict — brand-owned promo output.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-09-03",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan-account enthusiasm over ambassador cover reposted by Gucci; genuine fandom spike but single low-reach account, damped per fandom trap.",
+    "signal_tags": ["fandom", "ambassador", "sns_buzz"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-11-09-04",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Forum thread debating authenticity of suspiciously cheap Gucci goods reflects consumer wariness about counterfeits/grey market.",
+    "signal_tags": ["counterfeit", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-09-05",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci revenue/retail decline framed as a 'shock' with sector-wide reverberations / counter: none — sustained negative-momentum framing on Q3 results.",
+    "signal_tags": ["negative_earnings", "china_exposure"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-09-06",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci 'losing momentum' with recovery still an unproven challenge amid China weakness and store closures / counter: none presented.",
+    "signal_tags": ["negative_earnings", "china_exposure"],
+    "confidence": 0.8
+  }
+]

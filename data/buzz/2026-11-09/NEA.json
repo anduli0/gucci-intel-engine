@@ -1,0 +1,4136 @@
+{
+  "date": "2026-11-09",
+  "region": "NEA",
+  "collected_at": "2026-11-08T20:06:45+00:00",
+  "domains_scanned": 43,
+  "community_allocation": {
+    "NA_identified": 33,
+    "EU_identified": 0,
+    "p_NA": 0.9372
+  },
+  "errors": [],
+  "items": [
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "주간 감정 게시글 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "Gemma 4 E4B는 로컬에서 도구를 호출하는 개인 비서용으로 여전히 최고의 소형 모델인가요? 제가 놓치고 있는 게 있나요? - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "레이커스 일일 토론 스레드 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "마틴 리스는 10~20년 안에 외계 행성에서 단순한 생명체의 증거를 찾을 수 있을 거라고 생각합니다 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "맥케나 그레이스와 휘트니 피크가 최신호 《코스모폴리탄》에서 함께 출연한 조셉 자다에 대해 이야기하고 있어요! - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "파운데이션 추천이 필요해요. - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "시드니에서 열린 샤넬 크루즈 이천이십육/이십칠 쇼의 샤넬 이천이십칠 봄여름 컬렉션을 입은 마고 로비 (이천이십육년 십일월 오일) - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "데이비드 존스, 호주 전역에서 적자 매장 수십 곳 폐점 예정 — 전문가, ‘한동안’ 어려움을 겪어왔다고 경고 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "7.2 AQ 스토리 최종 막 장소 플레이 영상 (중국어 자막), Seele 제공 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "디 어니언: 알렉스 가랜드, ‘엘든 링’ 예산 대부분을 민첩성에 쏟아부은 걸 후회해 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "버버리 협업 가격 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "프라다의 홀리데이 광고는 AI를 반대하는 광고에 AI를 사용했다는 암시를 담고 있는 것 같아요. - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "지난해 시즌 막판에 부진하긴 했지만, 올해 오스카 피아스트리의 경기력이 작년과 비교해 얼마나 실망스러우신가요? 이번 시즌에도 부진이 이어질 거라고 예상하셨나요, 아니면 경기력이 나아질 거라고 보셨나요? - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "Día de Muertos 갈라에 참석한 에바 롱고리아 (2026년 10월 28일) - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "2026 상파울루 그랑프리 - 2차 자유 연습 세션 결과 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "[모터 스포츠 매거진] 알핀, 브라질 그랑프리 레이싱 슈트의 분홍색을 노란색으로 바꿨다… …그런데 차에도 적용하면 어떨까!? - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "브라질 그랑프리를 위한 알핀의 포스터. - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "에이바 맥스, 색다른 사운드의 새 크리스마스 싱글 예고 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "[f1audisport] 아우디 레볼루트 F1 팀, 2026년 상파울루 그랑프리를 위한 눈부신 원오프 리버리 공개 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "알핀은 이번 주말 브라질 그랑프리에서 노란색 레이싱 슈트를 입을 예정이야. - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "프랭크의 새로운 이야기! - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "2026 상파울루 그랑프리 - 자유 연습 2 토론 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "멕시코 그랑프리 이후 조지 러셀을 안아 주는 키미 안토넬리의 여동생 매기 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "중간선거에서 니키 미나즈가 지지한 후보들이 모두 큰 표 차로 패배했다 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "대형 기술주 실적이 AI 우려를 키우며 나스닥 100 지수가 조정 국면에 진입 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "데이비드 존스는 사모펀드 때문에 문을 닫았다 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "11월 1일 30번째 생일 라이브 방송 세트리스트 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "그리스와 덴마크의 올림피아가 보그 스칸디나비아의 최신 디지털 커버 스타로 나섰다 - Reddit",
+      "url": "https://www.reddit.com",
+      "source": "Reddit",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "박보검, 구찌 새 글로벌 앰배서더 선정…\"함께할 여정 기대돼\" - Chosunbiz",
+      "url": "https://biz.chosun.com",
+      "source": "Chosunbiz",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "맨발 도보에서 뉴욕 퍼포먼스까지… 이주민 장벽 고발 - 조선일보",
+      "url": "https://www.chosun.com",
+      "source": "조선일보",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "브라이언, 40년간 모은 명품 공개..\"돈 자랑? 아냐\" (더브라이언) - 조선일보",
+      "url": "https://www.chosun.com",
+      "source": "조선일보",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "‘슈퍼모델’ 김자연, 25살 연상 손영권 전 삼성전자 사장과 결혼 - Chosunbiz",
+      "url": "https://biz.chosun.com",
+      "source": "Chosunbiz",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "'슈퍼모델' 김자연, 25살 연상 前 삼전 사장 손영권과 결혼…로맨틱 웨딩화보 공개 - Chosunbiz",
+      "url": "https://biz.chosun.com",
+      "source": "Chosunbiz",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "속보서비스 - 조선일보",
+      "url": "https://cbiz.chosun.com",
+      "source": "조선일보",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "박보검, 한줌 허리에 깜짝…넓은 어깨와 대비되는 반전 비율 - Chosunbiz",
+      "url": "https://biz.chosun.com",
+      "source": "Chosunbiz",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "“불륜 남편 쫓아가주세요”…이혼 직전, 아내가 감방 보낸 방법 - 중앙일보",
+      "url": "https://www.joongang.co.kr",
+      "source": "중앙일보",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "“남편 쌍수하고 머리 심었다”…부자 사모의 ‘프라다女 미행’ - 중앙일보",
+      "url": "https://www.joongang.co.kr",
+      "source": "중앙일보",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "24시간 돌아간 ‘돈세탁 공장’…대포통장 260개로 2700억 세탁[영상] - 중앙일보",
+      "url": "https://www.joongang.co.kr",
+      "source": "중앙일보",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "동아일보 - 동아일보",
+      "url": "https://www.donga.com",
+      "source": "동아일보",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-01",
+      "title": "다시, 스키니 진의 시대 - 여성동아",
+      "url": "https://woman.donga.com",
+      "source": "여성동아",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "쌀을 산다면 마트 vs 쿠팡 중에서 - mlbpark.donga.com",
+      "url": "https://mlbpark.donga.com",
+      "source": "mlbpark.donga.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "A2O lite 아이찡이 직접 디렉팅한 안무 공개 풀버전 - mlbpark.donga.com",
+      "url": "https://mlbpark.donga.com",
+      "source": "mlbpark.donga.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "박보검, 구찌 글로벌 브랜드 앰버서더로 선정 - 연합뉴스",
+      "url": "https://www.yna.co.kr",
+      "source": "연합뉴스",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "짐바브웨 무가베 아들 또 체포…차량 밀수·폭행 혐의 - 연합뉴스",
+      "url": "https://www.yna.co.kr",
+      "source": "연합뉴스",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "박보검, 구찌 글로벌 브랜드 앰버서더로 선정 - 매일경제 마켓",
+      "url": "https://stock.mk.co.kr",
+      "source": "매일경제 마켓",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "박보검, 구찌 글로벌 앰버서더 선정 - 매일경제",
+      "url": "https://m.mk.co.kr",
+      "source": "매일경제",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "[Style] 맑고 촉촉한 입체감 살리기…Pure & Glowing Skin - 매일경제",
+      "url": "https://m.mk.co.kr",
+      "source": "매일경제",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "구찌 후원 행사에.. 혼자 당당히 생로랑 입고 온 연예인 | 걸스픽 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "“샤넬백 원하던 딸, 어렵게 설득했네요”…반값 안되는 이 브랜드에 Z세대 몰렸다 - 매일경제",
+      "url": "https://m.mk.co.kr",
+      "source": "매일경제",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "유니클로, 글로벌 브랜드 38위 '껑충'…브랜드가치 205억달러 돌파 | 더구루 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "“1500만원에 산 가방, 6800만원에 팔았어요”...명품 리셀시장서 벌어진 일 - 매일경제",
+      "url": "https://www.mk.co.kr",
+      "source": "매일경제",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "올리브영, 리유저블백 정식 출시…중형 제품도 선보인다 - 매일경제",
+      "url": "https://www.mk.co.kr",
+      "source": "매일경제",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "[르포] \"면세점 잔혹사 끝낸다\"…인천공항 T2서 펼쳐진 면세 4사의 생존경쟁 | 더구루 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "생활 경제 - 매일경제",
+      "url": "https://www.mk.co.kr",
+      "source": "매일경제",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "\"공개 3일 만에 290만\" 오징어 게임까지 제치고 글로벌 2위 찍은 그 작품 | 그 시절 우리의 영화 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "\"시청률 10% 공약 걸었는데\" 조용히 자체 최고 찍고 끝난 그 멜로 | 그 시절 우리의 영화 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "\"장관 한 명만 살아남았다\" 최고 5.5% 찍은 그 정치 드라마 | 그 시절 우리의 영화 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "\"왕이 아니라 왕비 시점이라니\" 4.9%로 시작해 8%로 끝낸 그 사극 | 그 시절 우리의 영화 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "\"제목부터 틀렸다는 혹평\" 공개되자마자 넷플릭스 1위 찍어버린 그 작품 | 그 시절 우리의 영화 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "괜히 억울해짐.. 곧 40살 여배우가 입은 8만원대 사복 | 걸스픽 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "집에 가기 싫다고 바닥에 주저앉아 떼썼던 댕댕이에 1분 뒤 상황 | 애니멀플래닛 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "일본이 이정도로 약해? 대규모 공격 조짐에 총리까지 나서서 긴급 공지 | 인포루프 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "언론에는 잘 안알려진 서장훈이 오정연과 이혼한 진짜 이유 | 인포루프 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "“어떻게 나이를 안먹지?” 역대급 동안이라는 58살 원조 GD의 근황 | 인포루프 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-08",
+      "title": "사회복무요원 시절 당시 시민들로부터 출퇴근 감시당한 국민 꽃미남 | 인포루프 - 뷰타임즈",
+      "url": "https://view.mk.co.kr",
+      "source": "뷰타임즈",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "우리가 몰랐던 까르띠에 탱크의 의미…명품의 이름엔 '이것'이 녹아 있다 [김혜경의 브랜드 테루아] - 한국경제",
+      "url": "https://www.hankyung.com",
+      "source": "한국경제",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "\"돈 벌고 싶지만\"…'남대문 스카프 아저씨' 임시 휴무 이유는 - 한국경제",
+      "url": "https://www.hankyung.com",
+      "source": "한국경제",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "\"신세경에 염산 테러\" 악플러, 항소심도 징역 8개월·법정구속 - 한국경제",
+      "url": "https://www.hankyung.com",
+      "source": "한국경제",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "구찌의 새로운 글로벌 앰배서더, 박보검 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "플랫 슈즈는 가고, 굽 있는 신발 시대가 돌아왔습니다 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "스치듯 반짝이는 보석 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "겨울이라고 블랙과 네이비만 돌려 입을 이유는 없으니까요 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "영화 속 주인공처럼! 올겨울 따라 입고 싶은 스웨터 스타일링 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "빈티지 샤넬 드레스로 파티 시즌의 시작 알린 블레이크 라이블리 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "청바지의 대항마로 떠오른 레깅스! - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "청바지든 검정 바지든, 이제 ‘이 색깔’ 신발도 있습니다 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "가방 하나로 떠나는 법! 패션 디자이너의 여행 짐 싸기 공식 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "‘평범한 옷’을 위하여! 2027 멧 갈라에 대해 알아야 할 모든 것 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "별과 리본, 깃털이 샤넬 주얼리와 만났을 때 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "올겨울엔 헐렁한 청바지 말고, 다리 길어 보이는 이 청바지 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "이제 부자들은 옷 속에 목걸이를 숨깁니다 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "서울 멋쟁이의 주얼리 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-05",
+      "title": "겨울 스웨터가 훨씬 예뻐지는 여섯 가지 색 조합! - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "프라다 모델로 학비 벌던 청년, ‘미국 주지사’ 당선됐다 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "살아 움직이는 예술, 정영도 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "아델라는 ‘얌전한’ 팝 스타가 될 생각이 없다 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "모두가 날씬한 세상 속 신풍속도 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "청바지에 니트, 이렇게 입으면 훨씬 근사해집니다 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "코페르니, 브랜드 운영 중단 결정 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "골든 걸, 로제 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "주얼리의 맥시멀리즘 시대 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "글렌 클로즈, 도플갱어와 레드 카펫에 등장했다? - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "롱 코트에 헐렁한 바지, 한 끗만 바꾸면 확 다릅니다 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "올가을 청바지는 파랑도 검정도 아닌 이 컬러! - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-02",
+      "title": "회색과 함께 입으면 더 예뻐지는 컬러 5 - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-09-21",
+      "title": "FASHION-CREATURES - Vogue korea",
+      "url": "https://www.vogue.co.kr",
+      "source": "Vogue korea",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "체형 분석의 시대, 이렇게만 입으면 바로 몸매 보정 가능 - harpersbazaar.co.kr",
+      "url": "https://www.harpersbazaar.co.kr",
+      "source": "harpersbazaar.co.kr",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "또 한 번 요동친 패션계, 2026 크리에이티브 디렉터 인사 총정리 - 하퍼스 바자 코리아",
+      "url": "https://www.harpersbazaar.co.kr",
+      "source": "하퍼스 바자 코리아",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "조나단 앤더슨의 디올 2026 F/W가 서울의 밤에 불러온 낭만적인 환상 - www.harpersbazaar.co.kr",
+      "url": "https://www.harpersbazaar.co.kr",
+      "source": "www.harpersbazaar.co.kr",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-03",
+      "title": "'돌아온 그녀의 시즌' 구찌 x 머라이어 캐리, 홀리데이 기프트 캠페인 공개 - 패션비즈",
+      "url": "https://fashionbiz.co.kr",
+      "source": "패션비즈",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "구찌의 새로운 얼굴, 배우 박보검 글로벌 앰배서더 발탁 - 패션비즈",
+      "url": "https://fashionbiz.co.kr",
+      "source": "패션비즈",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "「ナラジャン」製作夢紡ぐ 奈良・ツムキさん横振り刺繍学ぶ - 読売新聞",
+      "url": "https://www.yomiuri.co.jp",
+      "source": "読売新聞",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-03-28",
+      "title": "入江陽子 - 読売新聞",
+      "url": "https://www.yomiuri.co.jp",
+      "source": "読売新聞",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "グッチが伊勢丹新宿店でポップアップを開催！日本限定モデル「グッチ NY トートバッグ」も登場 - Vogue Japan",
+      "url": "https://www.vogue.co.jp",
+      "source": "Vogue Japan",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-04",
+      "title": "RMKのスキンケアでおなじみ「フローラルシトラス」の香りをレイヤードしながら全身ケア - Vogue Japan",
+      "url": "https://www.vogue.co.jp",
+      "source": "Vogue Japan",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-06",
+      "title": "クチュールの名手、ピエールパオロ・ピッチョーリがバレンシアガを退任 - Vogue Japan",
+      "url": "https://www.vogue.co.jp",
+      "source": "Vogue Japan",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-07-24",
+      "title": "伊勢丹 / Isetanに関する最新記事 - Vogue Japan",
+      "url": "https://www.vogue.co.jp",
+      "source": "Vogue Japan",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-07",
+      "title": "Fit My Style Vol.02 秋元梢さん(モデル)｜ファッション・ビューティー・セレブの最新情報 - Vogue Japan",
+      "url": "https://www.vogue.co.jp",
+      "source": "Vogue Japan",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "\"뉴욕 힙스터 다 됐네\"… 이영애 구찌 선글라스에 재키백 하나로 끝 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "구찌 로퍼와 에르메스 쪼리~!까짐 복원(동탄 제이뉴원) : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "[구찌 시계줄 복원]벌어지고 갈라진 명품 가죽 시계줄, 새것처럼 완벽 수선하는 방법 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "이 조합 실화? 박보검, 구찌 글로벌 행보로 보여준 남친룩의 정석 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "구찌립스틱 추천, 컬러부터 제형까지 취향에 맞는 립 메이크업 선택법 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "경기도 구리 명품수선 구찌지갑수리 엣지코트(유약)복원 퀄리티가 달라요 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "구찌 향수 블룸 오 드 뚜왈렛 플로럴향수 후기 - 블로그",
+      "url": "https://m.blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "구찌 레더 홀스빗 로퍼 화이트 블랙 구두 밑창보강 / 비브람 잘하는 업체 추천! - 블로그",
+      "url": "https://m.blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "전포 중고명품 샤루엘 구찌 GG로고 수프림 캔버스 인터로킹 백팩 223705 매입 리뷰 - 블로그",
+      "url": "https://m.blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "구찌 블론디 미디움 탑 핸들 백 핑크(744434) 실물파 명품백! 소장 가치 높은 인기 모델 소개 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "안감이 찢어지고 헤진 구찌 라이톤 안감 내피 교체 수선입니다.(창원 밑창보강 슈즈리) : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "명품 고가의 옷에대한 솔직후기 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "[수유실정보]롯데마트 부산점 유아휴게실 기저귀갈이대 수유실 위치 정보 : ) : 네이버 블로그 - 블로그",
+      "url": "https://m.blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "슈프림 모델로 유명한 스케이터가 설립한 브랜드 [FUCKING AWESOME] 퍼킹 어썸 브랜드 스토리 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "**매치스패션 :구찌 디오니소스핑크 드디어 겟♡ : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "“루이비통이 2등급?”…3040 직장인들 술렁인 ‘남자지갑 계급도’ : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-01",
+      "title": "천안 쌍용동 라멘맛집 멘야마쯔리 쌍용본점 - 진한 돈코츠라멘과 마제소바 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "영훈X이루다X김동준의 시공 초월 로맨스…웹툰 원작 ‘러브 와이파이 궁’, 12월 2일 개봉 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "모종동 도수안경원 소개 - 10년 이상의 경력! 베테랑 안경사가 제안하는 편안한 시생활의 기준 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "“세대 초월 힙합 시너지”…제베원 유닛 EMP, 다듀와 ‘RUN’ 라이브 완성 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "30대 여자 명품 가방 BEST5, 소장 가치 높은 명품 브랜드 순위 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "[강남/신논현] 을지로골뱅이호프 :: 옛날 감성 가득한 정겨운 호프집에서 옛날치킨 파닭 먹기 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "W8. 신혼여행 준비｜학동역 팜투어 허니문 박람회 방문 & 발리 신혼여행 계약 후기 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "[공덕] 오롯로바타 :: 7년 연속 블루리본 이자카야, 런치 지라시카이센동 후기 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "강남구 청담동 명품거리 연경빌딩 매매사례 압구정로데오역 대로변 건물매매사례 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "[패션타운 아울렛][제안] 아울렛 명품(컨템) 특가 제안안내 | 행사일정 11/16~11/22 | 제안마감 11/6(금요일) - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "[패션타운 아울렛][선정] 아울렛 명품(컨템) 특가 선정 안내 | 행사일정 11/9~11/15 | 세팅마감 11/2(월요일) - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "대전 유성 아프리카안경 NC대전유성점에서 블루라이트 차단안경 맞췄어요 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "[하이엔드][선정] 홈배너 기획전 | 행사일정 11/16~11/22 | 세팅마감 11/6(금) : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "화성 남양 브런치카페 추천 카페아마떼 화성시청점 내돈내산 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "해롯 런던 리뷰 (1) : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "미국 뉴욕여행 준비물 체크 리스트 미국 esim 이심 캐나다 무제한 후기 타미스 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "그라운드시소 용산발레 퍼포먼스 시간&전시작품 소개 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "제이에스티나 쇼룸 아이유 성희주 방문 - 블로그",
+      "url": "https://m.blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "여주 프리미엄아울렛 내돈내산 몽클레르 여주 레고 아이랑 나들이 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "❄️ 2025년 겨울 시즌, 꼭 사야 할 ‘최고의 명품 가방’ : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "방콕 엠쿼티어 주변 마사지 미인 스파 MeeIn Spa : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "괜히 억울해짐.. 곧 40살 여배우가 입은 8만원대 사복 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "목동안경 비전마스터 목동역안경 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "슈퍼모델 김자연 프로필, 남편 손영권과 25살 나이 차 결혼 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "[대구 중구] 동성로 어둑한 우드톤 바 무드 속 여유 한 잔 | 로하이커피 동성로점 솔직 후기 (역광 주의 & 2층 창가 뷰) - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "[BOTTEGA VENETA]보테가베네타 인트레치아토 반지갑 국내배송★보테가베네타 지갑/보테가 남자 반지갑/남자 반지갑 추천/보테가베네타 반지갑/RUGA COLLEZIONE - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "샤넬 똥파리??😣(브론즈 현상) : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "세타이어 할인쿠폰 : 르메르 크루아상백, 스투시, 생로랑 등 직구 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "4.오사카 도톤보리 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "재범이인생 1332일차, 삽교호 데이트, 충청도가볼만한곳 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "남자 봄 자켓 코디 추천 데일리룩 코디 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "Chappell Roan - \"My Kink Is Karma\" 가사 해석 | 내 킨크는 카르마야, 네가 망가지는 걸 지켜보는 거야 😈 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "불가리 '세르펜티'? 무슨 뜻일까요? [고을의 명품스토리] - 블로그",
+      "url": "https://m.blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "슈퍼모델 김자연 전 삼성전자 사장 손영권 25살 극복한 스위스 결혼 비하인드, 지금 확인 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "일본 도쿄 여행 day 1 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "서울스토어 친구할인코드 난소중해 투오가방 20대 여성 가방으로 추천 - 블로그",
+      "url": "https://m.blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "바닥 시그널인가 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "아이유 갑자기 예뻐진 이유! - 블로그",
+      "url": "https://m.blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "바닥 시그널인가 - 블로그",
+      "url": "https://m.blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "영등포신세계백화점 구찌, 구찌 가죽슬리퍼 뮬 실물후기 : 네이버 블로그 - Naver Blog",
+      "url": "https://blog.naver.com",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® US Official Site | Redefining Luxury Fashion",
+      "url": "https://www.gucci.com/us/en/",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® Official | Select Your Local Country",
+      "url": "https://www.gucci.com/",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Shop Gucci Online | Nordstrom",
+      "url": "https://www.nordstrom.com/brands/gucci--3506",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Guccio Gucci - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guccio_Gucci",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Saks Fifth Avenue",
+      "url": "https://www.saksfifthavenue.com/brand/gucci",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Shop Gucci Online | Nordstrom Rack",
+      "url": "https://www.nordstromrack.com/brands/gucci",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® INT Official Site | Celebrate Italian Heritage",
+      "url": "https://www.gucci.com/int/en/",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "About Gucci | GUCCI® US",
+      "url": "https://www.gucci.com/us/en/nst/about-gucci",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Gucci | History, Fashion, Logo, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Gucci",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Macy's",
+      "url": "https://www.macys.com/shop/brands/gucci?id=337791",
+      "source": "Naver Blog",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® US Official Site | Redefining Luxury Fashion",
+      "url": "https://www.gucci.com/us/en/",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® Official | Select Your Local Country",
+      "url": "https://www.gucci.com/",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Shop Gucci Online | Nordstrom",
+      "url": "https://www.nordstrom.com/brands/gucci--3506",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Guccio Gucci - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guccio_Gucci",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Saks Fifth Avenue",
+      "url": "https://www.saksfifthavenue.com/brand/gucci",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Shop Gucci Online | Nordstrom Rack",
+      "url": "https://www.nordstromrack.com/brands/gucci",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® INT Official Site | Celebrate Italian Heritage",
+      "url": "https://www.gucci.com/int/en/",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "About Gucci | GUCCI® US",
+      "url": "https://www.gucci.com/us/en/nst/about-gucci",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Gucci | History, Fashion, Logo, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Gucci",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Macy's",
+      "url": "https://www.macys.com/shop/brands/gucci?id=337791",
+      "source": "Naver Cafe",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "잡담 구찌 블러셔 브러쉬 증정은 품절떳네 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "퇴임 앞두고 사형수 548명 감형한 캘리포니아 주지사…유족 “등에 칼 맞은 느낌” - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "스퀘어 박보검 인스타 업데이트 (구찌 x 더블유 비하인드) - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "🩵🫧 바세린 프로 더마 크림 체험 후기 🫧🩵 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "구찌와 새로운 시작을 함께하는 박보검 | 패션필름🎥 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "이슈 구찌X머라이어 캐리 2026 홀리데이 캠페인 영상 공개 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "박보검 실시간 근황 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "잡담 구찌 블러셔 지름 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "리얼 귤색 블러셔 뭐 있을까🍊 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "구찌 회장&CEO '프란체스카 벨레티니'랑 2026 LACMA Art+Film Gala 에서 사진 찍은 박보검 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "구찌의 '메이드 인 차이나' 스니커즈 출시 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "민주당 지지층이 뽑은 대선 차기 1위는 조지아 상원 오소프 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[속보]홈플러스, 회생 ‘빨간불’ - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "스퀘어 구찌인별에 박보검 사진 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "ㅇㅋㅌ 박보검 구찌엠버됐던데 진이랑 투샷 기대해도되려나? - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "이슈 박보검 실시간 LACMA 갈라..jpg - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "‘트위터‘ - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "잡담 박보검 오늘 구찌 의상도 존예고 얼굴도 존잘이라 계속 보는중ㅋㅋㅋ - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "구찌 홀리데이 블러셔 피오니베일 간단발색(?) - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "하이라이터 초보 추천 좀!! - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "박보검 글로벌 브랜드 앰버서더 발탁 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "샤오잔 제일 신기한게 구찌 관련 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "구찌 취소 문자 받은 덬들아 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "남은 26년 라면 1개로 1주일씩 살아야하는 븉쪽이의 발색보러 와줄래? (긴글주의) - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "잡담 구찌 향수 샘플 뿌렸는데 넘 좋다 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[속보] 응급실서 간호사에 침 뱉고 보안요원 밀치고… 20대들 실형 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "구찌 블러셔 피오니베일 엘카 톰포드 받았음 발색후기 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "구찌 홀리데이 피오니베일 산 덬들 어때? - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "일본인이 일본 방송에 나와서 갑자기 한국어쓰자 황당해하는 일본 MC - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "일본 법무부장관이 통일교 집회 참여한 영상 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "돌덕들에게 추천하는 밥친구 프로그램 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "호주에서 배달라이더가 노숙자에게 찔려죽음 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "컨실러 디올 vs 아워글래스 뭘 추천해? - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "100일의거짓말 선공개 댓글 보다 깨달았는데 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "안 쓰는 립스틱 발색모음 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "어린이표 간장게장 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "스퀘어 박보검 구찌 엠버서더 맞나봄 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "100거짓 우리아빠가 어제 보면서 왜이렇게 구국단하는게 허술하냐 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "난 백일드 구국단 허술한건 인정해도 걍 살짝 아쉬운 정도인데 태웅캐를 가경캐가 받아주는 롤인게 장벽임 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "목에 여드름 같은게 계속생기네 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "잡담 박보검 구찌 화보 보니까 드라마에서 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "리얼베리어 익스트림 프로세라 로션 후기 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "일소모공세럼은 진짜 무색무취다 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "잡담 강제 취소 당하는거 짜증난다 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "최강창민 핫게갔었던 인형수염 그리고 나옴ㅋㅋㅋㅋㅋㅋㅋ - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "양홍원, '불륜 의혹' 16일만에 기습 근황…담배 물고 '의미심장 글' - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "구찌 블러셔 몇천원 비싸게 샀네 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "ㅂㅂㅌ 팔자 그늘 해결한 덬 있어? - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "이번 네컷도 고화질 있어야만 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "인터넷에서 유럽인과 미국인이 서로 싸우는 방식 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "9월 8일 🐹📰💙💗💛 \"JIN=초고속 매진 단 하나의 기폭제\" 방탄소년단 진 구찌 캠페인 품절 집중 조명..파리 셀렉트 북 - 더쿠",
+      "url": "https://theqoo.net",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® US Official Site | Redefining Luxury Fashion",
+      "url": "https://www.gucci.com/us/en/",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® Official | Select Your Local Country",
+      "url": "https://www.gucci.com/",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Shop Gucci Online | Nordstrom",
+      "url": "https://www.nordstrom.com/brands/gucci--3506",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Guccio Gucci - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guccio_Gucci",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Saks Fifth Avenue",
+      "url": "https://www.saksfifthavenue.com/brand/gucci",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Shop Gucci Online | Nordstrom Rack",
+      "url": "https://www.nordstromrack.com/brands/gucci",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® INT Official Site | Celebrate Italian Heritage",
+      "url": "https://www.gucci.com/int/en/",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "About Gucci | GUCCI® US",
+      "url": "https://www.gucci.com/us/en/nst/about-gucci",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Gucci | History, Fashion, Logo, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Gucci",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Macy's",
+      "url": "https://www.macys.com/shop/brands/gucci?id=337791",
+      "source": "theqoo",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "물탕 인스타 개미 월챔 축하,멕시코 레이스 - F1(포뮬러 원) 마이너 갤러리 - 갤러리",
+      "url": "https://gall.dcinside.com",
+      "source": "DC Inside",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "나는 개미가 월챔 먹어서 웃음 나옴 ㅋㅋ - F1(포뮬러 원) 마이너 갤러리 - 갤러리",
+      "url": "https://gall.dcinside.com",
+      "source": "DC Inside",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "이 잦델 왜 갑자기 세계적으로 주목받노 - 엽떡엄마 미니 갤러리 - 디시인사이드",
+      "url": "https://m.dcinside.com",
+      "source": "DC Inside",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "[일반] 반셰인이 말아주는 향수 먹어보고싶다 - 갤러리",
+      "url": "https://gall.dcinside.com",
+      "source": "DC Inside",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "구찌 오피디아 스몰 핸드백 실물 느낌과 수납력 한눈에 보기 - 갤러리",
+      "url": "https://gall.dcinside.com",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "구찌손 ㅅㅂㅋㅋㅋㅋㅋ - 라인업컴퍼니(엑셀) 마이너 갤러리 - 디시인사이드",
+      "url": "https://m.dcinside.com",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "그냥 저런데서 끼어들려는건 - F1(포뮬러 원) 마이너 갤러리 - 갤러리",
+      "url": "https://gall.dcinside.com",
+      "source": "DC Inside",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "브재앙 : 내년 구찌리버리는 소수의 사람만 알고있다 - F1(포뮬러 원) 마이너 갤러리 - 디시인사이드",
+      "url": "https://m.dcinside.com",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "내 에어팟엔 구찌메인 - 소확행 미니 갤러리 - 디시인사이드",
+      "url": "https://m.dcinside.com",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "구찌 의자 샀을때 웃기더라 - 디시인사이드",
+      "url": "https://m.dcinside.com",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "내 에어팟엔 구찌메인 - 소확행 미니 갤러리 - 갤러리",
+      "url": "https://gall.dcinside.com",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "박보검, 구찌 새 글로벌 앰배서더 선정…\"함께할 여정 기대돼\" - 디시인사이드",
+      "url": "https://issuefeed.dcinside.com",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "와 7시 알람인데 알아서 눈이 떠지네 - 젠지(Gen.G) LOL 마이너 갤러리 - 디시인사이드",
+      "url": "https://m.dcinside.com",
+      "source": "DC Inside",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® US Official Site | Redefining Luxury Fashion",
+      "url": "https://www.gucci.com/us/en/",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® Official | Select Your Local Country",
+      "url": "https://www.gucci.com/",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Shop Gucci Online | Nordstrom",
+      "url": "https://www.nordstrom.com/brands/gucci--3506",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Guccio Gucci - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guccio_Gucci",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Saks Fifth Avenue",
+      "url": "https://www.saksfifthavenue.com/brand/gucci",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Shop Gucci Online | Nordstrom Rack",
+      "url": "https://www.nordstromrack.com/brands/gucci",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® INT Official Site | Celebrate Italian Heritage",
+      "url": "https://www.gucci.com/int/en/",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "About Gucci | GUCCI® US",
+      "url": "https://www.gucci.com/us/en/nst/about-gucci",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Gucci | History, Fashion, Logo, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Gucci",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Macy's",
+      "url": "https://www.macys.com/shop/brands/gucci?id=337791",
+      "source": "DC Inside",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "섹스를 도와주는 침대 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "전반종료 맹구 부활 기념 축하 공연.mp4 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "브로비 pk 다른 각도.... - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "평균 연령 72살 점점 사라지고있는 구둣방 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[백종원] 막걸리를 맛있게 드시는 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "세차용품 추천바람.. - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "주말 예능 맹구 피날레 공연 ㅋㅋㅋㅋㅋ.mp4 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[C.팰리스 v 리버풀] 비르츠 추가골 ㄷㄷㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "중고차 경제적 개꿀인거 아는데 막상 손이 잘 안감 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[C.팰리스 v 리버풀] 아라우호 위험한 태클로 옐로카드 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "아 시발 컴퓨터 새로샀는데 스트레스 이빠이네요 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "에스파 닝닝이 카리나 이름으로 한 이행시 ㅋㅋㅋㅋㅋ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "자욱아 ㅅㅅㅅㅅ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "QWER 시연 인스타 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "아이맥스 관에서 콜옵4 ㄷㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "제 상황에 아이오닉9 사는거 어떻게보세요 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "신세계 본점 근황 - 에펨코리아",
+      "url": "https://m.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "byd 오너들이 싫어하는 영상 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "심판의 판정을 받아드리는 선수의 자세 ㄷㄷㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[C.팰리스 v 리버풀] 바르콜라 빠르긴 빨라요 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "사과반지 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "와이프한테 잡혀사는 이유... - 에펨코리아",
+      "url": "https://m.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "[아스날 vs 헐] 외데골 선제골 박종윤 반응 ㄷㄷㄷㄷㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "텐하흐 맨유 시절 영입 이적료 TOP 10 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "엄마 구찌 목도리 하고 옥맨 결혼식 온 디나이.mp4 ㅋㅋㅋ - 에펨코리아",
+      "url": "https://m.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "실시간 이만수 인스타 - 에펨코리아",
+      "url": "https://m.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "개 보지를 데려온 억만장자...jpg - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[KS 5차전] 무너지는 KT - 에펨코리아",
+      "url": "https://m.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[맨유 v A.빌라] 빌라 알리송 입장골 추멘 w.맹나현 반응 ㄷㄷㄷㄷㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "화살이 목에 박힌 떠돌이 백구를 보자 또 쏘게 된 이유 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Bmw 오너분들 원격시동하려면 마이bmw 어플에 바람개비가 어딧죠? - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "뉴캣슬 유스 김아린님 지난 할로윈 의상.....gif - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[선덜랜드 vs 첼시] 거의 뭐 탱크처럼 달리는 브로비 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "차는 horsepower이 중요하긴하지 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[맨유 v A.빌라] 신슨형 돌진 커버하는 매과이어 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "\"요즘 19금 웹툰들 다 이렇게 시작해\".jpg - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[맨유 v A.빌라] PK 찍었어요 ㄷㄷㄷㄷㄷ 찬스 얻는 맨유 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "정적인 집돌이 30대 남자 특징 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "반AI 선동용 주택가 데이터센터 짤의 정체.jpg - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[선덜랜드 vs 첼시] 답답한 경기력으로 리드 내준채 전반 끝내는 첼시 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "고려시대 사건때문에 결혼 못할거같은 27살 남성 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "올해 첫 방어! - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[맨유 v A.빌라] 잭슨 추가골ㄹㄹㄹ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "광신호가 주겄네 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "1차선 지속벌레는 만국공통이구나 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[쿠팡플레이] 이번 시즌 프리미어리그 유튜브 조회수 TOP 10 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "ㅇㅎ?) 외국 인터넷 방송의 움직이는 도네 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "햇살이 눈부신 메이 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "생각해보니 진짜 쓸모없는 신축아파트 서비스 - 에펨코리아",
+      "url": "https://m.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "저커버거 부인이 정말 싫어한다는 영화 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "흔한 중소기업 생산직..jpg - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "설윤 : 맹구는 잘하냐구요? 아니요 못해요. - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "아스톤빌라 잭슨 추가골 박종윤 반응 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "ㅇㅇㅎ?) 첫댓이 망한 강인경 만우절 이벤트 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "삼성 할인이나 기다리고 있으면 되겠다 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "병하) 구찌패딩 500만원이라고? 상곤이 이새끼 옷만 보면 엑셀 수장이다. 지가 케이인줄 알아 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[C.팰리스 v 리버풀] 라르센 환상적인 수비 ㅋㅋㅋ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "씻고 나오니 개운하네 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "라면에 신용카드 넣어버림.....jpg - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[정보] 리그 19위 맨유 다음 상대 ㄷㄷㄷㄷㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[맨유 v A.빌라] 치차리토 ㄷㄷㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[맨유 v A.빌라] 존 맥긴 PK 달아나는 골ㄹㄹㄹ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "나 26살인데 36살이 자꾸 플러팅함 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[신인감독 김연경2 스포] 경기 끝난 후 김연경 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "스텔스?모드 해놓고 다니는 사람들 심리가 뭔가요 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "삼성 라이온즈 우승 콜 (TBC 김대진 캐스터) - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "구찌 1995 vs 2025 - 에펨코리아",
+      "url": "https://m.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "오늘 완전 새차처럼 반짝거리는 F바디 BMW 봄.. - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "프리미어리그 공계 손흥민, 케인 샤라웃 ㄷㄷㄷㄷㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "[아스날 vs 헐] 양팀 전반 스탯 ㄷㄷㄷㄷㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "드림즈 민지 구찌킹 케이대에서는 시청자수 어땠음? - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "강화풍물시장 교차로 연쇄 추돌 사고…70대 운전자 숨져 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "한계령 눈 꽤많이오네 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "부산 불꽃축제 광안리 포차 메뉴 가격 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "오빠...나 젖었어 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "주말에 낮잠자면 ㅈ되는 이유...jpg - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "어제자 놀면뭐하니 서울가요제에 정승환이 불참한 충격적인 이유.gif - 에펨코리아",
+      "url": "https://m.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "볼리비아에서 사고로 사망한 유튜버 진쓰레블 친형의 인스타 글 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "중학교 친구 엄마와 결혼 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "하이닉스 주가 20만원은 말이 안된다고 말하는 전문가.mp4 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[선덜랜드 vs 첼시] 판정이 굉장히 어지럽습니다 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[오피셜] 무리뉴 감독 이후 맨유 역대 최고의 감독 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "넷플릭스 손에 들어간 도박만화의 최후 - 에펨코리아",
+      "url": "https://m.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "테슬라만의 뭔가가 있긴 있나보네 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "개인적으로 갤탭S12 반사방지 없어진거 좀 좋음 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "설윤 : 아뇨 못해요 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[제노아 vs AC밀란] 크리스찬 풀리식 바로 추가골ㄹㄹㄹㄹㄹㄷㄹㄹㄹㄹㄹ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "빈 강의실에서... - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "내 여친 영양제 사줬음 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[C.팰리스 v 리버풀] 무릎 잡고 있는 소보슬라이 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "여동생 남친한테 개쳐맞은 썰.jpg - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "일본 ATM 출금 수수료 근황 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "이쁜데 교도소 가야하나요 (?) - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "[맨유 v A.빌라] 브페 항의 레프리캠 살벌해요 ㄷ - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "첼시 팬들이 개빡친이유 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "중부내륙 북여주부근 하행 화재사고로 양방향 정체 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "63km 마라톤 생각보다 쉽던데요? - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "아니 근데 진짜 우리나라 공산당같음 - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "다들 차 어케사는건지.. - 에펨코리아",
+      "url": "https://www.fmkorea.com",
+      "source": "FM Korea",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® US Official Site | Redefining Luxury Fashion",
+      "url": "https://www.gucci.com/us/en/",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® Official | Select Your Local Country",
+      "url": "https://www.gucci.com/",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Shop Gucci Online | Nordstrom",
+      "url": "https://www.nordstrom.com/brands/gucci--3506",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Guccio Gucci - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guccio_Gucci",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Saks Fifth Avenue",
+      "url": "https://www.saksfifthavenue.com/brand/gucci",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Shop Gucci Online | Nordstrom Rack",
+      "url": "https://www.nordstromrack.com/brands/gucci",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® INT Official Site | Celebrate Italian Heritage",
+      "url": "https://www.gucci.com/int/en/",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "About Gucci | GUCCI® US",
+      "url": "https://www.gucci.com/us/en/nst/about-gucci",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Gucci | History, Fashion, Logo, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Gucci",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Macy's",
+      "url": "https://www.macys.com/shop/brands/gucci?id=337791",
+      "source": "FM Korea",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "구찌 생로랑 보테가 부쉐론 다 같은 회사꺼였구나 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "일상 - 이성 사랑방 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "박보검 차기작 뭐길래 살을 쫙 뺀걸까 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "중국 연예계 보면 진짜 줄세우기가 엄청나더라 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "수지) 백상예술대상에서만 드레스 무려 25벌 입었다는 수지 드레스 모음 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "박보검 구찌 엠버서더 된거 맞나보네 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "근데 호날두도 젊었을때는 메시급이였음? - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "박보검 구찌행사 미국 갔어? - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "연예 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "박보검이랑 요즘 구찌랑 어울린다 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "유행하는 옷 많이 사지마.. - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "성한빈네 강아지 보리 화보잘찍어 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "햄얼 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "오 박보검 구찌 글로벌 엠버 공계 발표났네 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "백화점 구찌 이런데서 일하면 한달에 얼마 벌어? - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-04",
+      "title": "박보검 구찌 글로벌 앰버 됐네 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "남미새는 어떤피해를줘? - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "샤넬 공식에서 언급한 하우스 멤버들에 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "우오 뉴진스 하니 구찌 글로벌이래 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "지창욱 인스타에 김민석 댓글 개웃기다 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "손우현 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-02",
+      "title": "성한빈 엘르 추가 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "박보검 셀린느 오래해서 구찌 어떨까 궁금했는데 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "일상 - BL웹툰/웹소설 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "올해 초봄에 산 새빨간 가디건. 직장에 입고 갔다가 표백제가 튀어서 색이 빠져 버렸다 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-03",
+      "title": "박보검 엠버 하나 끝나자 마자 바로 딴데서 데려가는구나 - 인스티즈",
+      "url": "https://www.instiz.net",
+      "source": "Instiz",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® US Official Site | Redefining Luxury Fashion",
+      "url": "https://www.gucci.com/us/en/",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® Official | Select Your Local Country",
+      "url": "https://www.gucci.com/",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Shop Gucci Online | Nordstrom",
+      "url": "https://www.nordstrom.com/brands/gucci--3506",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "Guccio Gucci - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guccio_Gucci",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Saks Fifth Avenue",
+      "url": "https://www.saksfifthavenue.com/brand/gucci",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Shop Gucci Online | Nordstrom Rack",
+      "url": "https://www.nordstromrack.com/brands/gucci",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCI® INT Official Site | Celebrate Italian Heritage",
+      "url": "https://www.gucci.com/int/en/",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "About Gucci | GUCCI® US",
+      "url": "https://www.gucci.com/us/en/nst/about-gucci",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Gucci | History, Fashion, Logo, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Gucci",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "Gucci - Macy's",
+      "url": "https://www.macys.com/shop/brands/gucci?id=337791",
+      "source": "Instiz",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUCCIのスニーカーとNIKEのスニーカーはどっちがオシャレですか... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "グッチの来店予約をしたのですが、連絡方法を電話ではなく、メッセー... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "我が家のお犬様のクリスマスプレゼントで、GUCCIのスモール/ミディ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": true
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "ホビ垢界隈の方に質問です。ホビ垢･ふわふわ系やお嬢様系の服のブランド(渋谷10... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "ChatGPTで出力された以下の回答は、AIのハルシネーション（事実誤認・捏造）でしょうか？ - 小型犬の混合ワクチン投与量（... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "犬の糖尿病では、血糖値が高いにもかかわらず、体重が減少することがあ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "26歳男です。生まれつき顔がでかく自分の顔が不細工だとかなり悩... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "統合失調症の人の支離滅裂な会話の例をできるだけたくさん挙げてくださいAS... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "シベリアンハスキーについて質問です。以前、犬カテではスーパーヘビーユーザーの... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "私は中三で、22日にクラスのみんなで打ち上げ行くことになってるんですけど、デ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "レディーススーツのオーダーメイド（半オーダーでも）を取り扱っているお店で、初心... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "男性に質問です。ダーバンのペイズリー＆ダブルストライプネクタイ(ネイビー)を... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "クリスマスに友人とアフタヌーンティーへ行こうと考えています。A... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "20代前半の洋服レディースブランドを教えていただきたいです。 - 今... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "KNOTTTOMORROWLANDというブランドに詳しい方を探しています。 - セカンドストリートで購入したマウンテンパーカー... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "このボトムスはどこですか？それと、似たようなボトムスも教えて欲しいです！ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "40代の女性に質問します。高校時代の通学はどんな靴下を履いていましたか？また部活は何部でしたか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "イングリッシュ・ブルドッグ犬よりも運動能力が高いとされるスタッフォードシャー・ブル・テリアは、筋肉の発達や骨格にどのような... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "至急 このような格好でそのまま浴槽に入ると何がぬれますか - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "先週にBUYMAにて、アミパリスのセーターを購入いたしました。本日、その商品が自宅に届き、タグについていたQRカードを読... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "このダウンは高いですか？ - https://jp.mercari.com/shops/product/2JGKXESQbu... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "musinsaというアプリでTHISISNEVERTHATのパーカーを買おうと思ってるんですが、ブランドの袋などは付いてきますか... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "骨ストに オススメ のジーンズ教えてください！ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "至急。 この人のコーデ真似てたら間違いないなっていう人教えてください - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "高2です一昨日、心療内科に行きました私は真面目な話をするのが大の苦手な... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "焼津・ 藤枝 で 大型犬 飼えるアパートしりませんか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "こちらのドレスが気になっているのですが、背中が総レースなっており、裏地がつ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "先日購入したのですが、タグがなくてわかりません。 スエード革ジャン です。わかるかたおりますか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "アメカジのパンツについて質問です。真夏でも履けるリネンパンツのおす... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "地雷系になりたい中2女子です！おすすめのブランドなどあったら教えてください！！あと骨ストで地雷系って大丈夫ですかね。。 - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "パリゴ尾道で取り扱っているブランドは結構高級なものしかありませんか？ - 尾道で1〜2万くらいのメンズファッション（服やバッ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "サングラスなんですが、どこのブランドかわかる方いますか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "このキャップはレアですか？80s です - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "素人質問で申し訳ありません。BIGJOHNの「スーパーベルボトム（MH4... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "欲しいPコートがあるのですが、STOREとSHEINのどちらで購入するか... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "こういう、首の詰まった感じのPコートって骨スト着太りしますか？足を出せば何とかいい感じに着こなせできますかね - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "至急！ダーリッチのドロップビジューフレアデニムパンツって店舗行ったらありますか?渋谷、新宿です。Darich - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "太っている人でも着れる、オススメ洋服ブランドを知りたいです。... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "私は北海道住なのですがダウンがどうしても苦手でウールコートなので冬をしのぎたいと考えいるのですがしのげますでしょうか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "LOVEの「恋、はじめました。」のホワイトロリータの服についてですが諸橋... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GRLで買い物するお姉様方助けてください！ - 私GRLでショート丈のコートを... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "デニムのデカ履きについて自分のウエスト+何cmまでなら許容できるとおもいますか？ウェスト70cmでした - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "至急です。あと完全にこのジャンルの服装は初心者です。 - 近々しまむらロリィタを買いたいなと思っているのですが、ロリィタ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GRLのtr899の2wayレザーショルダーバッグが気になっているのですが、こ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "身長180辺りの人に質問なのですが、リーバイスのデニムはW、Lどち... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "｢はれあめ｣のゲーム機型の痛バがsoldoutと書いてあります。本当にデザイン... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "carharttについて質問です。ついてるパッチなどからどこかの会社のフーディだと思うのですが、画像から本物かどうかの判断は... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "カーハートb136ダークブラウンをここまで育てるには何をすればいいですか？コツとかあったら教えて欲しいです！ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "このひなこちゃんが着ている洋服、どこのか分かりますか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "オフショルなどを着た時に見えるブラジャーの紐についてチューブ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "色移りについて質問です。Herliptoの大阪限定トートを購入し、本日はじめ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "アルファのMAワン買おうと思ってるんですが163cm50kg男ですxs... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "タック入りのゆったりしたストレートレグトラウザーズにスキニーベルトをどう思いますか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "これは クロムハーツ ですか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "PROCLUBのスウェットパンツ、スウェットショーツが欲しいのですが、東京で取り扱ってる店舗はありますか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "今服のサイズが170cmぐらいなんですけどザラとかネクストの服を... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "高一男子です。おすすめの服のブランドを教えて下さい・定番のブランド・着てたらウケがいいブランドなど色々教えて下さい - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "新橋のニュービルディンクの中にクロココインケースなど革製品を扱... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "これに合う上着ってなんだと思いますか？ ちなみに女です。 - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "正反対 な 君と僕 の鈴木さんのファッションは何という系統のものでしょうか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "この口まであって柄が似ているニット知っている方いたら教えて欲しいです - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "abathingapeのartcamoこれは本物でしょうか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "おすすめのナイトブラ教えてほしいです。 - トップバスト101に対してアンダーバスト74ほどで通常のLLや3Lだとカップ容量... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "30代発達障害があります。ロールモデルとして、スーパーヘビーユーザ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "これは文化の違いかもしれませんが外国人女性（特に欧米）は胸の先端が透けてい... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "アパートの出窓でコーヒー片手に、寛ぐフレンチ・ガールをAI画像でイメージ・・・如何でしょう。 - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "心の病気の私(女)が、働いていると、コードギアスのDVDを見れなくなって、福岡大学ワンダーフォーゲル部ヒグマ事件の動画を... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "自分のファッションスタイルがちょっとcity寄りのB系なんすけど自分のスタイル的にローファーはおかしいですか？ティンバー... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "IMVALとGALFYコラボのパーカーで欲しいもの（下のURLのもの）が... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "nyunyuのお店が韓国行った時にすごく好みだったんですけど、東京の店舗の... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "女性の方に質問です。黒タイツをやめて他の色のタイツを穿くとしたら何色にしますか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "写真のデニムについて知っている人いますか。 - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "ハーフジップの上にアウターを着るのって違和感ありますかね？具体的には白のハー... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GUのサイズ表記について - GUの服で、ゆったり入るくらいのものを購入したのですが、後から寸法を詳しく確認したところ自... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "ブランドのFUGAに偽物とかあるんですか？ネットで調べた感じは... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "POLOのマフラーって基本制服に毛つきませんか！！！毛がつかないおすすめのマフラー教えて欲しいです - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "今週埼玉に行きますが、寒さはどんな感じでしょうか？ 女性の方服装を教えてください - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "ダレノガレ明美さんの使っていらっしゃるCHANELのバッグについての質問です... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "StoreのPコートかmilvyのウエストマークがついているコートどちらを買うか迷っています。 - Storeとmilv... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "ミリタリーパーカーのGEN1についてこちらのタグの商品は前期型でしょうか... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "trapstar の ダウン 欲しいんですけど180センチ70 キロは何サイズですかね - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "この方が着てる スウェット かトレーナーが気になってるのですがわかる方いますか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Supreme（シュプリーム）のジップアップフーディー（パーカー）の購入を検討... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "モンベルのこの商品を二時流通以外で欲しいんですけどどこで購入できますか？できるだけ早く欲しいです - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-07",
+      "title": "男性に質問です。この服装はどう思いますか。（好き嫌いや印象など）また、こ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "Xで下着売っているんですけど、一つ凍結されてしまってT_T次こそは凍結しないようにしたいのですが対策方法教えてください - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "goararchiveのクロコレザーパンツで173cm痩せ型だと何サイズがいいですか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "GRLに似たコスパいいけど可愛い服売ってる安全なサイトやアプリありませんか？TwitterでGRLがちょっと炎上?してるので... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "このsweatsのパーカー買いたいんですけど185センチならサイズいくつが おすすめ ですか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "DRIESVANNOTEN品質表示タグについて質問です。株式会社TSIの品質表示がされていた時期はあるのでしょうか？また... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "①https://amzn.asia/d/08fVuFs2②https://amzn.asia/d/001V6GsI - Amazonで販... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "某フリマサイトにてsupremeのBBSimonのジップアップパーカーの投稿... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-06",
+      "title": "冬の アウター で ダウン がパンパンに詰まっているものを教えてください - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "ABATHINGAPEのCRAZYPATCHSHARKFULLZIPHOODIEってダサいですか？購入するか考えているの... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "kerry というブランドの 安全性 や品質などについて教えてください。 - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "ひまひま さんの使ってるこちらのスマホケースのブランドとURL教えてください！！ お願いします！！ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "裾がリブの アウター って着丈やや長めでもジャストっぽく着れますか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "至急。不安です。昨日の夜から自分をコントロールできなくなっています。... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-05",
+      "title": "犬の糖尿病で、高血糖であるにもかかわらず体重が激減していく機序につ... - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-08",
+      "title": "普通のネックウォーマーで耳と鼻まで隠したら変ですか？ - Yahoo!知恵袋",
+      "url": "https://detail.chiebukuro.yahoo.co.jp",
+      "source": "Yahoo! Chiebukuro",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/newsokunomoral",
+      "url": "https://www.reddit.com/r/newsokunomoral/",
+      "title": "のーもら",
+      "published_at": "2015-03-05",
+      "title_match": false,
+      "alloc": 1.0
+    },
+    {
+      "source_type": "community",
+      "source": "Reddit r/newsokur",
+      "url": "https://www.reddit.com/r/newsokur/",
+      "title": "ニュー速R",
+      "published_at": "2015-02-17",
+      "title_match": false,
+      "alloc": 1.0
+    }
+  ]
+}

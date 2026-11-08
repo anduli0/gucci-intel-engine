@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NA-2026-11-09-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: descriptive gala recap of Gucci's own sponsored event / counter: Eva Chow's farewell flags organic change but no clear verdict on Gucci",
+    "signal_tags": ["activation_coverage", "sponsorship"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-09-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive red-carpet write-up of Gucci-sponsored gala looks, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-09-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan/press backlash calling holiday campaign depressing, boring and un-luxe; negative items exempt from activation cap",
+    "signal_tags": ["campaign_backlash", "design_criticism"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-09-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic viral TikTok reaction labeling campaign emotionless/scary and brand no longer luxurious; organic negative, not promo",
+    "signal_tags": ["campaign_backlash", "sns_virality"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-09-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: sales drop undercuts turnaround narrative, NA also softened / counter: none — sustained negative framing in headline and lede",
+    "signal_tags": ["negative_earnings", "momentum_risk"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-09-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci drives raised store-closure target / counter: NA remains most resilient region vs APAC — mixed but decided negative, magnitude capped",
+    "signal_tags": ["negative_earnings", "store_closures", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-09-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing community thread tracking repeated price increases, organic price-hike backlash pattern",
+    "signal_tags": ["price_hike_backlash", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-09-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: interesting retail-themed staging / counter: tension with heritage codes — genuine two-sided weigh-up with no verdict",
+    "signal_tags": ["mixed", "runway_reaction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-09-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: dresses glamorous / counter: same silhouette recycled across nearly every collection, mocked as overused — dominant tone is critical of repetition",
+    "signal_tags": ["design_criticism", "mixed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-09-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive celebrity red-carpet recap of Gucci-sponsored gala, no evaluative verdict on the brand",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-09-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive campaign write-up (cast, director, concept), brand-owned promo output outside freshness window",
+    "signal_tags": ["activation_coverage", "stale"],
+    "confidence": 0.7
+  }
+]

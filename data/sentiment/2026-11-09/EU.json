@@ -1,0 +1,146 @@
+[
+  {
+    "id": "EU-2026-11-09-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive flagship-opening write-up with CEO press-kit quote; no independent critical verdict",
+    "signal_tags": ["activation_coverage", "retail_expansion"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-09-02",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Trade outlet's own favorable evaluative framing of flagship concept beyond plain description, capped under activation discount",
+    "signal_tags": ["activation_coverage", "retail_expansion"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-09-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: stock rose on broader Kering reset / counter: Gucci-specific comp sales -6%, retail -9%, store-closure target raised",
+    "signal_tags": ["negative_earnings", "mixed"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-09-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Headline asserts Gucci sales decline and closure target hike; corroborating aggregator of negative earnings data",
+    "signal_tags": ["negative_earnings"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-09-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Demna's personal commentary on Met Gala vs LACMA is tangential culture-criticism, not an evaluation of the Gucci brand itself",
+    "signal_tags": ["designer_commentary"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-09-06",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: descriptive gala coverage of Gucci looks / counter: online debate over specific styling choices, no verdict reached",
+    "signal_tags": ["mixed", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-09-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan backlash calling holiday campaign cold, boring and off-brand; negative items exempt from activation-coverage cap",
+    "signal_tags": ["campaign_backlash", "organic_negative"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-09-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Store closure leaving 18 workers' futures uncertain amid union dispute; labor controversy, moderate local-scale impact",
+    "signal_tags": ["labor_controversy", "store_closure"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-09-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Multiple organic consumer complaints on durability, comfort and warranty service with emotionally charged language ('atrocious')",
+    "signal_tags": ["quality_complaint", "customer_service"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-09-10",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: some members call SS27 show merely commercial with no standout pieces / counter: others praise wearability and cite highlights; genuine two-sided split",
+    "signal_tags": ["mixed", "stale_source"],
+    "confidence": 0.45
+  },
+  {
+    "id": "EU-2026-11-09-11",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive circulation of show clips, campaign edit and meme format; no aggregate engagement data, no clear evaluative content",
+    "signal_tags": ["fandom_spike", "meme"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-11-09-12",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade write-up framing store redesign within turnaround narrative; descriptive/promotional, no independent verdict",
+    "signal_tags": ["activation_coverage", "retail_expansion"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-09-13",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent resale-market data showing price cuts compressing margins and Gucci's value retention trailing Chanel/Hermes",
+    "signal_tags": ["resale_value", "quantified_data"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-09-14",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Bernstein analyst scores Demna debut 7.6/10, 'more good than bad' / counter: still behind other houses' best debuts; independent analyst verdict but mixed-but-decided and outside freshness window",
+    "signal_tags": ["mixed", "analyst_view", "stale_source"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-11-09-15",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo post; self-praise is not public opinion per rubric",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-09-16",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Leadership profile of CEO Bellettini used only as background context, outside freshness window, descriptive",
+    "signal_tags": ["stale_source", "leadership_context"],
+    "confidence": 0.6
+  }
+]

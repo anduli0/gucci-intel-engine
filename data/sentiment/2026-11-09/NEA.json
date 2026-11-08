@@ -1,0 +1,137 @@
+[
+  {
+    "id": "NEA-2026-11-09-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade-press confirmation of Park Bo-gum ambassador appointment, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-09-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive fashion-outlet write-up of ambassador campaign styling direction, no independent verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-09-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Syndicated descriptive ambassador announcement reaching fan audiences, no evaluative content.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-09-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive product-launch write-up (Gucci Beauty powder), press-kit derived, no third-party verdict.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-09-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive pop-up/product-launch coverage (GucciCore, NY Tote), what/where/price only, no verdict.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-09-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: independent trade press reports Gucci (and Hermès) 'struggling' while Coach gains share amid price-hike fatigue / counter: none, verdict is clear.",
+    "signal_tags": ["negative_earnings", "price_hike_backlash", "peer_comparison"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-09-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Dominant subject is Hermès Birkin resale cooling; Gucci only mentioned as category read-across, not a direct verdict on Gucci.",
+    "signal_tags": ["resale", "peer_comparison", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-09-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: analyst scores Demna debut 7.6/10, 'progress, not a home run' / counter: criticism of leggings and 'boring' shoes/bags versus higher-scoring Dior/Chanel debuts -- two-sided verdict, old article resurfaced.",
+    "signal_tags": ["mixed", "critic_review", "design_criticism"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-09-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Weibo explainer frames store closures and structural turbulence as 'not a recovery story'; T3 explainer tone tempers magnitude.",
+    "signal_tags": ["negative_earnings", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-09-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Weibo post on up to 40% China price cuts read as discount/repositioning signal, which damages brand pricing image.",
+    "signal_tags": ["price_hike_backlash", "discount_image"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-09-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-account post on magazine cover featuring ambassadors, descriptive fandom spike, no independent brand judgment.",
+    "signal_tags": ["fandom", "activation_coverage", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-09-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuine two-sided Zhihu debate on Demna's fit for Gucci (commercial instinct praised vs heritage clash warned) with no resolved verdict.",
+    "signal_tags": ["mixed", "design_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-09-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: retrospective questions whether Gyeongbokgung show tactic was exploitative / counter: some commenters call it genuinely collaborative -- two-sided, no settled verdict.",
+    "signal_tags": ["mixed", "cultural_appropriation_debate"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-09-014",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: community watch review concludes Gucci lags rivals on finishing/movement quality at the price point / counter: design appeal and recognizability praised -- quality complaint dominates.",
+    "signal_tags": ["quality_complaint", "mixed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-09-015",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Background/corroborating piece on Hermès and Rolex resale drops; not a direct statement about Gucci, retained only for context.",
+    "signal_tags": ["resale", "peer_comparison"],
+    "confidence": 0.5
+  }
+]
