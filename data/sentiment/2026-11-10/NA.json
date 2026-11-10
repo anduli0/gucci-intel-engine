@@ -1,0 +1,146 @@
+[
+  {
+    "id": "NA-2026-11-10-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: praise for Demna's black feathered gown on Soo Joo Park / counter: Ratajkowski's look called repetitive — two-sided critic roundup, no single dominant verdict",
+    "signal_tags": ["mixed", "critic_review", "red_carpet"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-10-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: RHW backless gown called tacky by some critics / counter: Kardashian look framed as stronger execution of Demna's direction — genuine two-sided weigh-up, no verdict",
+    "signal_tags": ["mixed", "critic_review", "red_carpet", "trade_press"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-10-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci-staged Mariah Carey campaign party; no independent evaluative verdict present",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-10-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci comps -6% miss vs -3.3% consensus, NA decelerated sharply from +10% to -10% / counter: conversion and ticket size improving — sustained negative earnings framing dominates",
+    "signal_tags": ["negative_earnings", "financial_press", "trade_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-10-005",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: members call it the most vibrant Flora execution to date / counter: flagged as narrow two-season item with value questions at $2,100 — mixed-but-decided positive, independent consumer judgment",
+    "signal_tags": ["mixed", "community", "product_quality", "value_concern"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-10-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring consumer complaints that Demna's silhouettes/styling repeat across seasons and skepticism the aesthetic fits core US clientele",
+    "signal_tags": ["design_criticism", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-10-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic gift-economy unboxing video, descriptive/ASMR format with no stated evaluative verdict about the brand",
+    "signal_tags": ["ugc", "organic_volume"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-10-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official brand-owned upload of holiday campaign film; self-promo is not public opinion, engagement data unavailable",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-10-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Industry roundup is about Balenciaga/Piccioli exit; only incidental relevance to Gucci via competitor tracking, no Gucci evaluative content",
+    "signal_tags": ["incidental_mention", "competitor"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-10-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Coverage is about Louis Vuitton's own holiday campaign; Gucci mentioned only as comparison anchor for SOV, no evaluative content toward Gucci",
+    "signal_tags": ["incidental_mention", "competitor"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-10-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Coverage is about Prada Group/Miu Miu earnings; Gucci mentioned only as regional-contrast anchor, no direct evaluative content toward Gucci",
+    "signal_tags": ["incidental_mention", "competitor"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-10-012",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent resale-market data: Gucci bags retain only 55-70% of retail vs 85-95%+ Hermès and 70-85% Chanel, with specific weak-performer styles named",
+    "signal_tags": ["resale_value", "quantified_data", "value_concern"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-10-013",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: post-pandemic price hikes unjustified by craftsmanship, brand stuck in a muddle-in-the-middle losing shoppers both up and down market / counter: none offered — unambiguous trade-press value critique",
+    "signal_tags": ["price_hike_backlash", "value_concern", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-10-014",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: fan posts praise Demna's gowns on Soo Joo Park and Alex Consani / counter: posts mock RHW's backless look as try-hard — organic but two-sided with no net verdict",
+    "signal_tags": ["mixed", "sns", "organic_volume", "fandom"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-10-015",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo content around LACMA/holiday campaign; third-party analytics note engagement rate (~0.02%) is low relative to follower scale, but exact post-level counts unavailable — insufficient independent signal to force polarity",
+    "signal_tags": ["activation_coverage", "brand_owned", "engagement_below_benchmark"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NA-2026-11-10-016",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: steady niche enthusiast engagement across Flora/Demna/culture threads / counter: forum tone explicitly split between craftsmanship appreciation and recurring price/value skepticism — two-sided, no verdict",
+    "signal_tags": ["mixed", "community"],
+    "confidence": 0.55
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EU-2026-11-10-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive flagship ribbon-cutting write-up, press-kit derived, no independent verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-10-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: best-dressed praise for Demna looks / counter: frames 'sexmaxxing' styling as a risk to the image reset -- two-sided, no verdict",
+    "signal_tags": ["mixed", "activation_coverage", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-10-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Stock-gain piece about sister brand Balenciaga, but explicitly flags Gucci's slower comparable-sales recovery and store-closure programme",
+    "signal_tags": ["negative_earnings", "peer_comparison"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-10-04",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: new flagship framed as turnaround step to regain European shoppers / counter: explicit acknowledgment of multi-year sales decline -- activation coverage with mild editorial verdict, capped",
+    "signal_tags": ["activation_coverage", "store_opening", "mixed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-10-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer reviews citing rude service, bad returns handling, defective items, and repair-centre failures",
+    "signal_tags": ["quality_complaint", "customer_service"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-10-06",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: some members call recent collections derivative / counter: others welcome the archive-leaning direction -- genuine two-sided fan debate, no verdict",
+    "signal_tags": ["mixed", "design_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-10-07",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo post; self-praise is not public opinion per rubric",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-10-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan backlash calling campaign 'depressing,' 'boring,' and comparing it unfavorably to mass-market retail",
+    "signal_tags": ["campaign_backlash", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-10-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Continuing organic negative reaction clips mocking campaign tone as 'uncanny'/horror-like; damped for repetitive discover-tag volume",
+    "signal_tags": ["campaign_backlash", "fandom_spike"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-10-10",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebratory but descriptive gala coverage of a Gucci-presented/staged event, no independent critical verdict on the brand",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-10-11",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: analytical discussion of unusual price-cut strategy / counter: notes pressure on resale margins -- descriptive market analysis, no clear verdict",
+    "signal_tags": ["mixed", "resale_value", "pricing"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-11-10-12",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained negative framing of multi-year revenue loss (EUR4.5bn) and falling below EUR6bn, not a neutral earnings-miss statement",
+    "signal_tags": ["negative_earnings"],
+    "confidence": 0.8
+  }
+]

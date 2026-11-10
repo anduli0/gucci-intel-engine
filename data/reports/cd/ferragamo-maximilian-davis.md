@@ -120,7 +120,8 @@ The conclusion of this dossier converges on one point — Maximilian Davis was r
 
 Davis's current position reduces to one line — "fourth-year incumbent CD." Announced 14 March 2022 and effective 16 March, he succeeded Paul Andrew and became the first Black creative director in the house's 95-year history[1][2]. He was twenty-seven at recruitment and had run his eponymous label, Maximilian, for only two years — put differently, a major house bet on a rising young sensibility rather than a proven master[2]. That bet needs a counterweight, though — with Gobbetti, the CEO who hired him, gone in March 2025, Davis's work is now judged apart from the management that brought him in[4][5].
 
-![Ferragamo taps Maximilian Davis as new creative director](https://robbreport.com/wp-content/uploads/2022/03/maximilian-davis-salvatore-ferragamo.jpg?w=1200 "Robb Report|https://robbreport.com/style/menswear/salvatore-ferragamo-maximilian-davis-new-creative-director-1234668589/")
+![Family stands firm on Davis and strategy despite the CEO exit](https://wwd.com/wp-content/uploads/2025/03/ferragamo-fw25-rtw-bsb-da-0127.jpg?w=1200 "WWD|https://wwd.com/business-news/financial/ferragamo-family-stands-strategy-supports-creative-director-maximilian-davis-despite-sales-dip-exit-of-ceo-1237027041/")
+
 
 
 

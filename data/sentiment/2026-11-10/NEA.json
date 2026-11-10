@@ -1,0 +1,128 @@
+[
+  {
+    "id": "NEA-2026-11-10-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-appointment write-up, press-kit derived, no independent verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-10-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: price cuts signal weakening demand and discount-image damage amid falling China sales / counter: none offered",
+    "signal_tags": ["price_cut", "negative_earnings", "discount_image"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-10-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: brand recognition has outpaced desirability, Gen-Z calling designs dull and discount-dependent / counter: none",
+    "signal_tags": ["design_criticism", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-10-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci struggling as price-fatigued young Korean consumers switch to Coach / counter: none; peer-comparison trap (Coach better than Gucci) scores against Gucci",
+    "signal_tags": ["peer_comparison", "price_hike_backlash", "value_for_money"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-10-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive holiday-campaign coverage with celebrity styling, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-10-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press restating holiday campaign details, purely descriptive, no verdict",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-10-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive pop-up/product write-up, press-kit derived, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-10-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering shares fell ~11% as China weakness undercuts bottoming-out hopes, deepening slowdown narrative / counter: none",
+    "signal_tags": ["negative_earnings", "stock_reaction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-10-009",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan community reaction to ambassador's first public appearance is positive but centers on his looks, not the brand itself; fandom-spike trap dampens magnitude",
+    "signal_tags": ["fandom", "activation_coverage", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-10-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: walks through price cuts/store closures and poses 'still worth buying?' without delivering a clear verdict / counter: implicitly skeptical but templated, low-confidence volume account",
+    "signal_tags": ["mixed", "negative_earnings", "price_cut"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-11-10-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual report on L'Oreal/Kering Beauty licensing deal, read as corporate-strategy curiosity rather than brand opinion",
+    "signal_tags": ["corporate_news"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-10-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Demna's appointment is divisive, reactions split evenly between excitement and skepticism / counter: both sides present with no resolution",
+    "signal_tags": ["mixed", "creative_director"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-10-013",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: authentic Gucci shoe denied after-sales service, cited for ongoing unfriendly-AS-policy discourse / counter: none; older recirculating complaint caps magnitude",
+    "signal_tags": ["quality_complaint", "customer_service"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-10-014",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: closing two Shanghai stores in one day raises doubts Gucci has fallen out of favor in China / counter: framed as open question, older article caps magnitude",
+    "signal_tags": ["negative_earnings", "store_closure"],
+    "confidence": 0.55
+  }
+]

@@ -17,7 +17,8 @@
 
 이번 주 럭셔리 필드를 하나로 꿰는 구조는 창의 수장의 공백과 상업 모멘텀이 정반대 방향을 가리켰다는 것이다. 케링은 발렌시아가·생로랑·맥퀸 세 하우스의 크리에이티브 디렉터 자리를 동시에 비워 둔 채 한 달 사이 피에르파올로 피촐리를 내보내고 마틴 로즈를 앉혔고, 시장은 이 교체 러시를 기회가 아니라 회복 지연 리스크로 읽어 주가를 더 눌렀다[1][2][3][9]. 반면 성과는 조직 개편이 아니라 제품 하나에서 터졌다 — 프라다가 가방 한 개(위시 파우치, 분기 수요 약 500% 증가)로 라이스트 지수 1위를 3년 만에 되찾았고, 프라다 뷰티는 블러셔 한 통과 톰 홀랜드 향수로 라이선싱 매출을 73% 끌어올리며 이번 주 가장 또렷한 떠오르는 플레이어가 됐다[7][8][17]. 카테고리로 보면 주얼리는 홀로 구조적으로 뜨겁고, 뷰티에는 사모펀드 자금이 몰렸으며, 레더굿즈의 희소성 프리미엄은 버킨마저 꺾였다는 점에서 식고 있다[10][12][23].
 
-![프라다 라이스트 Q3 2026 1위 복귀, 위시 파우치 +500%](https://r.fashionunited.com/ufA_BausJOA_eUzb9kf7rjHub-EiXmR2zmV5ZBvLyCg/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMTAvMjgvcHJhZGEtczI3LTAyNy1wcHk1b3pjZy0yMDI2LTEwLTI4LmpwZWc.jpeg "FashionUnited / Lyst|https://fashionunited.uk/news/fashion/prada-is-back-on-top-dethroning-chanel-in-lysts-q3-2026-index/2026102891069")
+![버킨·켈리 리셀 프리미엄 둔화](https://birkinbagstock.com/og/blog/monthly-market-report-2026-09.png "Birkin Bagstock Market Report|https://birkinbagstock.com/blog/monthly-market-report-2026-09")
+
 
 ## 1. 주간 요약
 
@@ -175,7 +176,6 @@ The structure tying this week's luxury field together is a straight asymmetry: c
 
 This week's luxury field has one conclusion — the camp that changed creative directors made no money, and the camp that made money changed one product[1][7]. Start with the facts. Kering announced Piccioli's departure from Balenciaga on November 5 and installed Martine Rose as his successor just a day later, on November 6, after a tenure of only sixteen months[1][2]. Saint Laurent confirmed Anthony Vaccarello's departure in October and still had no named successor as of early November, while Alexander McQueen's search has not even produced a reported shortlist since Sean McGirr's exit[4][5]. In short, Kering was replacing or leaving vacant the designer's chair at three houses in its portfolio at the same time.
 
-![Prada reclaims Lyst Q3 2026 No.1, Wish Pouch +500%](https://r.fashionunited.com/ufA_BausJOA_eUzb9kf7rjHub-EiXmR2zmV5ZBvLyCg/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMTAvMjgvcHJhZGEtczI3LTAyNy1wcHk1b3pjZy0yMDI2LTEwLTI4LmpwZWc.jpeg "FashionUnited / Lyst|https://fashionunited.uk/news/fashion/prada-is-back-on-top-dethroning-chanel-in-lysts-q3-2026-index/2026102891069")
 
 The market read this vacancy as risk, not opportunity — Kering's share price fell a further 3% immediately after the announcement, from 192.55 to 186.74 euros on November 6, and CFO Armelle Poulou faced a barrage of analyst questions on the earnings call over whether the changeovers were delaying recovery[9]. To be fair, there is a case for reading the Rose appointment positively: the sharp pivot from Piccioli's couture sensibility to Rose's streetwear instincts reads as a deliberate recalibration toward a younger customer base[2]. That said, the same week saw the industry itself question Kering's pattern of handing turnarounds to designers — Rose and McGirr among them — with limited experience running large maisons[3].
 

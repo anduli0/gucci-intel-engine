@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SEA-2026-11-10-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Gucci holiday campaign (who stars, capsule details, regional retail framing), no outlet verdict",
+    "signal_tags": ["activation_coverage", "campaign", "holiday"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-10-02",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador-appointment/styled-photo roundup, press-kit derived, no evaluative verdict from outlet",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-10-03",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: retrospective frames Jin's Gucci looks favorably as ongoing ambassador engagement win / counter: tied to brand's own ambassador-refresh promo wave, fandom-damped",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-10-04",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan account recirculation of ambassador footage with no stated evaluative verdict, descriptive fan buzz volume only",
+    "signal_tags": ["fandom", "sns_buzz"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-10-05",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic TikTok backlash calling holiday ad 'depressing'/'outdated' and unfavorably comparing it to JCPenney; negative items exempt from activation-discount cap",
+    "signal_tags": ["campaign_backlash", "creative_criticism", "peer_comparison"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-10-06",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: PurseBlog praises Butterfly collection bag styling within holiday campaign / counter: verdict is on Gucci-staged activation, so capped per activation-coverage rule despite independent community voice",
+    "signal_tags": ["activation_coverage", "third_party_review", "product_praise"],
+    "confidence": 0.65
+  }
+]

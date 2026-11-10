@@ -24,7 +24,8 @@
 
 오늘 상승 신호는 두 갈래다 — 브루넬로 쿠치넬리는 3분기 13.5% 급증에 연간 전망을 12%로 상향했고, 프라다그룹 뷰티·향수 라이선싱은 상반기 73% 급증했다[10][11]. 다만 쿠치넬리 창업자의 상하이 행사 논란은 창업자·앰배서더 리스크를 남긴다[12]. 다음 변수는 버버리(11/12)·리치몬트(11/13) 실적과 11월 18일 두바이 워치 위크다[13][14][15].
 
-![쿠치넬리 창업자, 상하이 행사 신체 접촉 논란](https://newsimg.koreatimes.co.kr/2026/11/03/04b31d1b-9e76-4b45-9c1e-0e7cfdb063c5.jpg "Korea Times|https://koreatimes.co.kr/amp/lifestyle/people-events/20261103/brunello-cucinelli-founder-under-fire-for-inappropriate-touching-of-chinese-actress-after-kim-you-jung-controversy")
+![두바이 워치 위크 2026(11월 18~22일)](https://whatshotinuae.com/wp-content/uploads/2025/11/Dubai-Watch-Week-1.jpg "Dubai Watch Week Official|https://whatshotinuae.com/dubai-watch-week-2026-insiders-playbook/")
+
 
 ## 주석
 
@@ -117,7 +118,8 @@ First, Kering's revolving door signals group-wide creative vacancy, with reactio
 
 Two rising signals stand out — Brunello Cucinelli, up 13.5% in Q3 with outlook raised to 12%, and Prada Group's beauty/fragrance licensing, up 73% in H1 [10][11]. Counter-signal: Cucinelli's own Shanghai-event founder controversy [12]. Watch Burberry (Nov 12), Richemont (Nov 13), and Dubai Watch Week from Nov 18 [13][14][15].
 
-![Cucinelli founder under fire over Shanghai-event physical contact](https://newsimg.koreatimes.co.kr/2026/11/03/04b31d1b-9e76-4b45-9c1e-0e7cfdb063c5.jpg "Korea Times|https://koreatimes.co.kr/amp/lifestyle/people-events/20261103/brunello-cucinelli-founder-under-fire-for-inappropriate-touching-of-chinese-actress-after-kim-you-jung-controversy")
+![Dubai Watch Week 2026 (Nov 18-22)](https://whatshotinuae.com/wp-content/uploads/2025/11/Dubai-Watch-Week-1.jpg "Dubai Watch Week Official|https://whatshotinuae.com/dubai-watch-week-2026-insiders-playbook/")
+
 
 ## Notes
 
