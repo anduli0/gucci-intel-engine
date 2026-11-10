@@ -3,15 +3,15 @@ name: daily-intelligence
 on:
   schedule:
     # Goal: cycle COMPLETE (site published) before 08:00 KST.
-    # Observed 2026-10-31..11-03: GitHub cron fired 3-4.5h late and the pipeline
-    # takes 2-2.5h, so a 04:07 KST main run finished ~10:30 KST. Fire at
-    # midnight KST instead; every slot is guarded (no-op republish once today's
-    # reports exist), so the ladder only costs a cheap republish.
-    - cron: '7 15 * * *'   # 15:07 UTC = 00:07 KST — main run
-    - cron: '7 17 * * *'   # 17:07 UTC = 02:07 KST — backup 1
-    - cron: '7 19 * * *'   # 19:07 UTC = 04:07 KST — backup 2
-    - cron: '7 21 * * *'   # 21:07 UTC = 06:07 KST — backup 3
-    - cron: '7 23 * * *'   # 23:07 UTC = 08:07 KST — last resort (finishes ASAP after 08:00)
+    # GitHub cron is best-effort: 2026-10-31..11-03 it fired 3-4.5h late, and on
+    # 2026-11-10 it DROPPED all four night slots (00:07-06:07 KST) — only the
+    # 08:07 slot fired (at 08:45), so the site was stale all morning.
+    # Defence = density: a slot every 30 min, off the busy :00/:07 marks, from
+    # 00:23 KST to 14:53 KST. Any one slot that fires starts the cycle; every
+    # other slot is guarded (no-op in ~20s once today's reports are live), and
+    # the concurrency group keeps at most one running + one pending run.
+    - cron: '23,53 15-23 * * *'  # 00:23-08:53 KST, every 30 min
+    - cron: '23,53 0-5 * * *'    # 09:23-14:53 KST, same-day catch-up sweep
   workflow_dispatch:
     inputs:
       force:
@@ -56,7 +56,16 @@ jobs:
             && [ -f "data/reports/daily/${today}-index-interpretation.md" ] \
             && [ -f "data/reports/daily/${today}-gucci-business-review.md" ]; then
             echo "done=true" >> "$GITHUB_OUTPUT"
-            echo "All reports for ${today} already exist — republish only."
+            # With a slot every 30 min, skip the republish too once the site
+            # repo already serves today (keeps the extra slots ~free).
+            site_date=$(curl -sf --max-time 20 "https://raw.githubusercontent.com/anduli0/gucci-intel-site/main/api/summary?cb=$RANDOM" \
+              | python3 -c "import json,sys; print(json.load(sys.stdin)['date'])" || echo "unknown")
+            if [ "$site_date" = "$today" ]; then
+              echo "publish=false" >> "$GITHUB_OUTPUT"
+              echo "All reports for ${today} exist and the site already serves ${today} — nothing to do."
+            else
+              echo "All reports for ${today} already exist (site=${site_date}) — republish only."
+            fi
           else
             echo "done=false" >> "$GITHUB_OUTPUT"
           fi
@@ -79,7 +88,7 @@ jobs:
         run: bash scripts/cloud-daily.sh
 
       - name: Export static site (republish path)
-        if: steps.guard.outputs.done == 'true'
+        if: steps.guard.outputs.done == 'true' && steps.guard.outputs.publish != 'false'
         run: |
           python app/server.py --port 8790 &
           sleep 3
@@ -97,6 +106,7 @@ jobs:
           git push || echo "push skipped"
 
       - name: Publish site to gucci-intel-site (fixed URL)
+        if: steps.guard.outputs.publish != 'false'
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
