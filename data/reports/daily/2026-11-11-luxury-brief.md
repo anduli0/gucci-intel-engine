@@ -12,7 +12,8 @@
 ## 2. 핵심 3건
 첫째, 케링의 창조 리더십 공백이 길어진다 — 발렌시아가는 마틴 로즈가 11월 16일 부임하지만 생로랑·맥퀸·브리오니 세 자리가 비어 있고, 맥퀸은 매출 60% 급감에 전 세계 매장 절반을 닫는다[6][7][8]. 세 자리 공백은 그룹 차원의 긴축 신호다. 둘째, 중국 둔화에도 대형 베팅은 계속된다 — 루이비통은 11월 13일 마카오에서 브랜드 최초 쇼를 열고, 케링은 상하이 수입박람회에 전 브랜드관을 운영했다[9][10]. 다만 이는 투자 의지일 뿐 수요 회복의 증거는 아니다. 셋째, '수공예'가 AI 투명성 검증대에 올랐다 — 디올 홀리데이 애니메이션은 '전부 손으로 그렸다'는 설명과 달리 생성형 AI 흔적으로 논란이 됐고, 같은 시기 프라다의 핸드드로잉 영상은 대비되며 신뢰를 얻었다[11][12].
 
-![케링, 브리오니 CD 노르베르트 슈툼플과 결별, 그룹 내 4번째 공석](https://www.modaes.com/global/thumb/eyJ0IjoiZCIsInciOjEyMDAsImgiOjY3NSwibSI6MSwibG0iOjE3NjUxODkwMTJ9/files/2025/redaccion-empresas/kering/kering-brioni-1200.jpg "Modaes|https://www.modaes.com/global/companies/kering-makes-a-move-in-tailoring-brioni-and-norbert-stumpfl-go-their-separate-ways")
+![상하이 제9회 수입박람회(CIIE)에 그룹 전 브랜드 참가](https://assets-keringcom.keringapps.com/CIIE_1_5143c6d8c6.jpg "Kering|https://www.kering.com/en/news/kering-attends-the-9th-ciie-in-shanghai-interpreting-true-luxury-next-luxury/")
+
 
 
 ## 3. 떠오르는 플레이어와 워치리스트
