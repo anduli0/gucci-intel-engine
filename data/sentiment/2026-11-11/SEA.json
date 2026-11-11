@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SEA-2026-11-11-01",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Park Bo-gum ambassador appointment write-up, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-11-02",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: descriptive ambassador appointment as Asia engagement strategy / counter: notes ongoing regional sales softness as context, no verdict rendered",
+    "signal_tags": ["activation_coverage", "ambassador", "negative_earnings", "mixed"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-11-03",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Starlet launch positioned as reviving local desirability after a quiet handbag stretch / counter: acknowledges prior lull, outlet's own evaluative framing capped per activation discount",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-11-04",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Straightforward product-launch description, explicitly no consumer-reception commentary",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-11-05",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained negative framing of Kering/Gucci Q3 results: sales fell 6%, store closures, weak China/US footfall drag turnaround",
+    "signal_tags": ["negative_earnings", "business_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-11-06",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic SNS fan buzz over ambassador's viral gala look; genuine positive reaction but fandom-spike cap applies",
+    "signal_tags": ["fandom", "ambassador", "sns_buzz"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-11-07",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: coordinated fan amplification of gala look as celebratory / counter: some commentary calls styling overly revealing, two-sided with no clear verdict",
+    "signal_tags": ["mixed", "fandom", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-11-08",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic recurring quality/QC complaint cluster (defective stitching, water damage, loose hardware), independent of brand marketing cycle",
+    "signal_tags": ["quality_complaint"],
+    "confidence": 0.55
+  }
+]

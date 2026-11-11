@@ -1,0 +1,119 @@
+[
+  {
+    "id": "EU-2026-11-11-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of new flagship store concept; no evaluative verdict from WWD.",
+    "signal_tags": ["activation_coverage", "retail", "store_opening"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-11-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive materials/design detail on flagship, explicitly without financial or evaluative commentary.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-11-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: skeptical of whether theatrical design is scalable/functional / counter: treats concept as creative experimentation; independent trade judgment leaning critical.",
+    "signal_tags": ["activation_coverage", "design_criticism", "retail"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-11-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive multi-edition coverage positioning store as a possible future template; no independent verdict given.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-11-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: frames flagship as client-courting tool / counter: notes it comes amid Gucci's broader sales slump; descriptive activation piece with negative-earnings context, no clear verdict either way.",
+    "signal_tags": ["activation_coverage", "retail", "mixed", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-11-006",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation write-up with outlet's own evaluative framing calling red-carpet turnout a visibility win for Demna's Gucci era; capped per activation-coverage rule.",
+    "signal_tags": ["activation_coverage", "ambassador", "red_carpet"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-11-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual event reporting (attendance figures, funds raised, honorees); no brand-directed evaluative claim.",
+    "signal_tags": ["activation_coverage", "factual"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-11-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive society/celebrity styling writeup with no evaluative verdict on the brand.",
+    "signal_tags": ["activation_coverage", "celebrity_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-11-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Continued TikTok chatter echoing same 'JCPenney trying to be luxury'/'emotionless' campaign criticism; repetitive volume damped to mild magnitude.",
+    "signal_tags": ["campaign_backlash", "organic_negative", "repetitive_volume"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-11-011",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Genuine third-party community praise for Flora bag relaunch colorways; independent purchase-enthusiasm signal but confidence capped since content seen only via indexed snippet (403 on direct fetch).",
+    "signal_tags": ["product_praise", "community", "purchase_intent"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-11-012",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Standing community thread on perceived decline in leather/hardware quality vs. price; genuine critical-angle QC complaint, confidence tempered by snippet-only access and thread's age/resurfacing status.",
+    "signal_tags": ["quality_complaint", "value_for_money", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-11-013",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering shares plunge as Gucci Q3 sales fall and analysts cut price targets / counter: none; sustained negative earnings framing ('affonda', 'paga il conto del rallentamento').",
+    "signal_tags": ["negative_earnings", "stock_drop", "analyst_downgrade"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-11-014",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci's Q3 miss framed as a renewed 'misstep' damaging Kering's European luxury standing / counter: none; sustained negative framing ('crolla', 'passo falso').",
+    "signal_tags": ["negative_earnings", "stock_drop"],
+    "confidence": 0.8
+  }
+]

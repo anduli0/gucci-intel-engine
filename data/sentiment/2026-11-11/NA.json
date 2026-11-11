@@ -1,0 +1,119 @@
+[
+  {
+    "id": "NA-2026-11-11-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Gucci looks named among gala's biggest fashion flops with explicit negative design critique",
+    "signal_tags": ["design_criticism", "red_carpet"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-11-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: praise for shimmering silver gown design / counter: criticism of plunging cut as too revealing — framed as genuinely polarizing with no verdict",
+    "signal_tags": ["mixed", "red_carpet", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-11-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Fan/TikTok reaction calls holiday campaign cold, emotionless and boring, unfavorably compared to budget retailer JCPenney",
+    "signal_tags": ["campaign_backlash", "activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-11-004",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "WWD's own positive-leaning red-carpet dispatch on Hayek's gown; descriptive activation coverage with mild favorable framing, capped under activation discount",
+    "signal_tags": ["activation_coverage", "red_carpet", "trade_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-11-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade analysis argues price hikes outpaced craftsmanship, brand stuck in value 'muddle in the middle', losing shoppers both ways",
+    "signal_tags": ["price_backlash", "value_for_money", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-11-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale retention (55-70%) rated middling versus Hermès and Chanel, with popular canvas styles depreciating fastest on oversupply",
+    "signal_tags": ["resale_value", "quantified_data"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-11-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ongoing community thread reiterates price-hike complaints with no matching design/material improvement, posters shifting spend to competitors",
+    "signal_tags": ["price_backlash", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-11-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: stitching/hardware/leather quality complaints on recent production / counter: long-time collectors defending current quality against isolated bad units — explicitly mixed with no verdict",
+    "signal_tags": ["mixed", "quality_concerns", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-11-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Viral SNS post names Gucci among 'most overrated' luxury brands citing screaming logos, poor leather quality and mass-market hype",
+    "signal_tags": ["design_criticism", "quality_concerns", "sns_viral"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-11-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram promo content is not public opinion; sub-0.1% engagement noted but not independently quantified at post level",
+    "signal_tags": ["activation_coverage", "brand_owned", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-11-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned X ambassador/athlete content, routine cadence, explicitly not a standalone viral moment — descriptive promo only",
+    "signal_tags": ["activation_coverage", "brand_owned", "ambassador"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-11-012",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade-blog write-up of holiday campaign and capsule launch, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-11-013",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Kering/Gucci accelerating store closures, largest share of group-wide cuts / counter: NA's smaller larger-format strategy framed as comparatively healthier market",
+    "signal_tags": ["mixed", "negative_earnings", "retail_footprint"],
+    "confidence": 0.6
+  }
+]

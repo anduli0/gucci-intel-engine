@@ -22,7 +22,6 @@
 
 쿠치넬리의 현재 위치는 '48년째 외부 CD 없이 하우스를 쥔 창업자 겸 집행회장'이라는 한 줄로 요약된다 — 1978년 자신이 세운 에포님 하우스의 창업자이자 집행회장이고, 동시에 컬렉션의 미학·방향을 최종 결정하는 스타일 권한을 유일하게 보유한다[1][2]. 그는 1953년 9월 3일 움브리아 카스텔 리고네에서 태어났고, 어린 시절 집에는 전기도 수돗물도 없었으며 공장에서 일하던 아버지가 겪은 수모를 보며 '인간의 도덕적·경제적 존엄'을 지키겠다는 생각을 품었다고 밝혀 왔다[1]. 즉, 패션 스쿨이 아니라 농가의 가난과 철학 독서에서 출발한 비정통 이력이다.
 
-![브루넬로 쿠치넬리 약력(1953-09-03 카스텔 리고네 출생·1978 창업·약 550달러 자본·캐시미어 염색·솔로메오 이전·2012 상장 첫날 약 +50%·2014 승계 신탁·직원 임금 약 +20%)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Brunello_Cucinelli_LQ_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled "Wikipedia|https://en.wikipedia.org/wiki/Brunello_Cucinelli")
 
 쿠치넬리 하우스는 2012년 상장사이지만 창작을 창업자가 전적으로 쥔다는 점에서 로스터의 거의 모든 하우스와 구분된다 — 외부에서 영입한 크리에이티브 디렉터가 '리셋'을 수행하는 구조가 아니라, 쿠치넬리 본인과 두 딸이 창작을 안에서 끌어간다[2][3]. 다만 이 '창업자 독립' 서사에도 균형추가 필요하다 — 2012년 밀라노 증시 상장 이후에도 가족이 지배 지분을 유지했고, 2014년 쿠치넬리는 두 딸 카밀라·카롤리나에게 하우스를 넘길 승계용 신탁을 설정했다[1][3]. 즉, 창작과 소유가 한 가문 안에 묶여 있되 그 승계가 한 세대 안에서 끝나야 하는 구조라는 뜻이다.
 
@@ -124,7 +123,6 @@ This report has one conclusion — Brunello Cucinelli started in 1978 with rough
 
 Cucinelli's current position can be summed up in one line — a founder and executive chairman who has held the house without an external creative director for 48 years, serving simultaneously as the founder and executive chairman of the eponymous house he started in 1978 and as the sole holder of final say over the aesthetic and direction of its collections [1][2]. He was born on September 3, 1953, in Castel Rigone, Umbria; the house he grew up in had neither electricity nor running water, and he has repeatedly said that watching the humiliation his father endured working in a factory planted the idea of protecting "the moral and economic dignity of human beings" [1]. In other words, this is an unorthodox path that began not in fashion school but in rural poverty and philosophical reading.
 
-![Brunello Cucinelli biography (born 1953-09-03 in Castel Rigone; founded 1978 with roughly $550 in capital; cashmere dyeing; relocation to Solomeo; 2012 listing jumped roughly +50% on day one; 2014 succession trust; employee pay roughly +20%)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Brunello_Cucinelli_LQ_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled "Wikipedia|https://en.wikipedia.org/wiki/Brunello_Cucinelli")
 
 The house is publicly listed since 2012, yet it is set apart from almost every other house on the roster by the fact that creative control rests entirely with the founder — rather than an externally hired creative director carrying out a "reset," Cucinelli himself and his two daughters drive creative direction from within [2][3]. That said, even this narrative of "founder independence" needs a counterweight — even after the 2012 Milan listing, the family retained its controlling stake, and in 2014 Cucinelli set up a succession trust to pass the house to his two daughters, Camilla and Carolina [1][3]. In other words, creative control and ownership are bound together within a single family, but that succession is meant to be completed within a single generation.
 

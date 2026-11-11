@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NEA-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-staged ambassador appointment announcement, press-kit derived, purely descriptive — activation coverage discount applies.",
+    "signal_tags": ["ambassador", "activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Entertainment-press write-up of same ambassador news framed as career milestone, no independent brand verdict — activation discount applies.",
+    "signal_tags": ["ambassador", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Magazine cover story styling tied to ambassador rollout, descriptive activation write-up with no outlet evaluative verdict.",
+    "signal_tags": ["ambassador", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan community overwhelmingly praises ambassador's LACMA styling; fandom spike damped to mag 0.5 per trap rule.",
+    "signal_tags": ["ambassador", "fandom", "event_appearance"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Widely-viewed community thread mocks Gucci for China-made sneakers positioned as new release, reading it as cost-cutting/revenue-decline signal.",
+    "signal_tags": ["manufacturing_origin", "mocking", "revenue_decline"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Explicit backlash coverage of quiet, repeated Gucci price hikes in Korea with direct 'price-gouging' criticism quoted.",
+    "signal_tags": ["price_hike", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Factual multi-brand report on repeated off-cycle price hikes including Gucci; negative framing but shared across peers, Gucci not sole focus.",
+    "signal_tags": ["price_hike", "industry_wide"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press confirmation of ambassador deal, purely descriptive — activation coverage discount applies.",
+    "signal_tags": ["ambassador", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive pop-up/product launch write-up (what, where, who) with no independent evaluative verdict.",
+    "signal_tags": ["product_launch", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Second outlet's descriptive coverage of same Tokyo pop-up and exclusive tote, no evaluative verdict.",
+    "signal_tags": ["product_launch", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive holiday campaign announcement naming products and talent, no independent judgment offered.",
+    "signal_tags": ["campaign", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: store closures reframed as deliberate flagship-focus strategy with stabilizing comps / counter: underlying driver is a steep net closure count (105 of 125) signaling past weakness — two-sided weigh-up without clean verdict.",
+    "signal_tags": ["mixed", "store_closures", "earnings"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: 'Made in China' label breaks Italian-made positioning, seen by some as cheapening the brand / counter: other commenters say origin doesn't matter if quality holds — genuine split reaction, no verdict.",
+    "signal_tags": ["mixed", "manufacturing_origin"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-014",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: trade piece questions whether Chinese manufacturing will dent brand's craftsmanship image / counter: none strongly offered — framed against backdrop of revenue decline and store closures, net negative lean.",
+    "signal_tags": ["manufacturing_origin", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-015",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: community debates Gucci's current tier vs Chanel/Dior/Hermès / counter: no consensus reached, skeptical-but-unresolved tone — two-sided with no verdict.",
+    "signal_tags": ["mixed", "peer_comparison"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-016",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade reporting of Kering closing two long-standing Shanghai Gucci stores amid softening Chinese luxury demand — clear negative momentum signal.",
+    "signal_tags": ["store_closures", "negative_earnings", "china_demand"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-017",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Dated background piece on revenue decline and delayed recovery; sustained negative framing but used only as supporting context, not a fresh signal.",
+    "signal_tags": ["negative_earnings", "background_context"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-018",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent trade-press (WWD Korea) favorable analytical assessment of Demna's first-year creative vision at Gucci; magnitude capped for dated, out-of-window context use.",
+    "signal_tags": ["creative_direction", "trade_press", "background_context"],
+    "confidence": 0.6
+  }
+]
