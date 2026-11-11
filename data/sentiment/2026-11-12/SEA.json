@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SEA-2026-11-12-01",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Wire earnings story: Gucci sales -6% LFL, retail -9%, China/Japan traffic drag, CEO warns 12-24mo turnaround -- sustained negative momentum framing.",
+    "signal_tags": ["negative_earnings", "momentum"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-12-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade-press analysis: Gucci revenue -6%, APAC retail -14%, Japan -17%, store-closure plan framed as structural response to declining walk-in traffic.",
+    "signal_tags": ["negative_earnings", "trade_press", "retail_traffic"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-12-03",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: organic fan amplification of ambassador gala look / counter: unverified outside commentary calls styling \"cheap\" and overly revealing -- mixed with no clear verdict, fandom-damped.",
+    "signal_tags": ["fandom", "ambassador", "mixed", "activation_coverage"],
+    "confidence": 0.45
+  },
+  {
+    "id": "SEA-2026-11-12-04",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic TikTok QC-complaint cluster (stitching, water damage, hardware) independent of campaign cycle, but no visible metrics and unverified poster regions.",
+    "signal_tags": ["quality_complaint", "sns", "unverified_metrics"],
+    "confidence": 0.55
+  }
+]

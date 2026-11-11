@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NA-2026-11-12-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan/press reaction calling the Mariah Carey holiday ad 'depressing' and 'boring' is genuine negative sentiment, not subject to activation-coverage cap.",
+    "signal_tags": ["campaign_backlash", "organic_negative", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-12-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of the holiday campaign launch with no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign_launch"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-12-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade-press report on internal org restructuring, no evaluative framing toward brand.",
+    "signal_tags": ["corporate_structure", "neutral_fact"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-12-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive red-carpet dressing coverage (who wore what), no critical or laudatory verdict beyond description.",
+    "signal_tags": ["activation_coverage", "celebrity_dressing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-12-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: descriptive roundup of Demna-era celebrity dressing at LACMA / counter: frames push as occurring 'during its sales slump' — two-sided with no clear verdict, treated as mixed/neutral.",
+    "signal_tags": ["mixed", "activation_coverage", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-12-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst price-target cut and reiterated Sell rating citing worse-than-consensus sales decline and no Q4 rebound evidence is unambiguous negative momentum press.",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-12-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: factual daily briefing roundup / counter: mentions 'ongoing China-driven luxury slowdown affecting Gucci' as sustained negative framing within a brief, incidental mention — diluted signal.",
+    "signal_tags": ["negative_earnings", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-12-008",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Entertainment-press coverage with its own positive styling verdict on the campaign, but remains activation coverage so capped at 0.5 magnitude.",
+    "signal_tags": ["activation_coverage", "favorable_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-12-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregated organic social commentary calling the ad 'boring,' 'depressing,' 'outdated' and comparing it to horror — genuine emotional negative reaction, not brand-staged.",
+    "signal_tags": ["organic_negative", "campaign_backlash", "sns"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-12-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine forum activity (authentication help, vintage find) with no controversy or brand verdict expressed.",
+    "signal_tags": ["community", "neutral_fact"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-12-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Forum thread activity noted but actual content inaccessible (403) and inferred only from snippets; insufficient confidence to assign polarity, demoted to neutral.",
+    "signal_tags": ["community", "low_confidence"],
+    "confidence": 0.3
+  }
+]

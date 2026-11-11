@@ -1,0 +1,137 @@
+[
+  {
+    "id": "NEA-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-appointment recap framing Gucci's fan-driven-demand strategy; press-kit derived, no independent verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive holiday-campaign feature with celebrity quote enjoying the shoot; no outlet evaluative verdict on the brand.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of ambassador debut imagery; quoted netizen reactions are fan enthusiasm, not the outlet's own evaluative verdict.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan SNS enthusiasm over ambassador reveal photos; genuine positive affect but damped as a fandom spike.",
+    "signal_tags": ["fandom", "sns", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Made-in-China label tests/damages luxury provenance perception / counter: framed as open question rather than settled verdict.",
+    "signal_tags": ["mixed", "made_in_china", "design_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Analyst-sourced piece with explicit negative verdict quoting consultant calling the China-made label 'not a good look.'",
+    "signal_tags": ["made_in_china", "negative_earnings", "quality_image"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Polarized consumer sentiment roughly split across pro/con/neutral on Made-in-China sneaker; templated low-confidence aggregator source.",
+    "signal_tags": ["mixed", "made_in_china", "low_confidence_source"],
+    "confidence": 0.35
+  },
+  {
+    "id": "NEA-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Price cuts crashing resale/trade-in values amid 12 straight quarters of sales decline and CEO admission prices were too high.",
+    "signal_tags": ["resale_value_drop", "price_cut", "negative_earnings"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-009",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Community reaction to ambassador's gala appearance is positively styled, but damped as repetitive fan-event/activation volume.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring community narrative that Gucci is overexposed/declassed among young Korean consumers; undated, persistent rather than acute.",
+    "signal_tags": ["brand_image", "overexposure"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-011",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party consumer beauty reviews skew positive ('upscale, long-lasting scent') with only mild seasonal caveats.",
+    "signal_tags": ["product_review", "beauty"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Demna's design direction is debated / counter: genuine two-sided weigh-up with no resolved verdict on fit with Gucci heritage.",
+    "signal_tags": ["mixed", "design_direction"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale background reference piece on a prior ambassador visit; purely descriptive, no evaluative content.",
+    "signal_tags": ["activation_coverage", "stale"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-014",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Negative Q3 comparable-sales figure (down 6%) reported as analytical question on turnaround prospects rather than sustained crisis framing.",
+    "signal_tags": ["negative_earnings", "korea_market"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-015",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Reference to a trade roundup of expert reactions to Demna's debut collection; no verdict content given in the summary itself.",
+    "signal_tags": ["design_direction", "stale"],
+    "confidence": 0.5
+  }
+]
