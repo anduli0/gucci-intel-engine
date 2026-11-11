@@ -24,8 +24,16 @@ git clone --depth 1 "https://x-access-token:${GH_PAT}@github.com/anduli0/gucci-i
 # --exclude .github/automation: the site repo keeps its own deploy workflow and docs.
 rsync -a --delete --exclude .git --exclude .github --exclude automation site_out/ site_repo/
 cd site_repo
+# Identity must be set HERE (repo-local config does not carry into a fresh clone).
+git config user.name "gucci-intel-bot"
+git config user.email "minkyu494@gmail.com"
 git add -A
-git commit -m "cloud update $(date +'%F %H:%M')" || echo "no site changes"
+# Only "nothing to commit" may pass silently; a failed commit must fail the step.
+if git diff --cached --quiet; then
+  echo "no site changes"
+  exit 0
+fi
+git commit -m "cloud update $(date +'%F %H:%M')" || { echo "ERROR: site commit failed" >&2; exit 1; }
 for i in 1 2 3 4; do git push && exit 0; git pull --rebase origin main || true; sleep $((2**i)); done
 echo "ERROR: site push failed" >&2
 exit 1
