@@ -29,7 +29,7 @@ concurrency:
 jobs:
   intelligence:
     runs-on: ubuntu-latest
-    timeout-minutes: 170
+    timeout-minutes: 330
     env:
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}  # optional; Instagram brand heat
@@ -83,9 +83,31 @@ jobs:
         if: steps.guard.outputs.done == 'false'
         run: npm install -g @anthropic-ai/claude-code
 
-      - name: Run daily pipeline
+      # Phase 1 (core): must succeed. Published IMMEDIATELY afterwards.
+      - name: Run daily pipeline (core)
         if: steps.guard.outputs.done == 'false'
-        run: bash scripts/cloud-daily.sh
+        run: bash scripts/cloud-daily.sh core
+
+      - name: Publish core results (commit data + site)
+        if: steps.guard.outputs.done == 'false'
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: bash scripts/cloud-publish.sh commit
+
+      # Phase 2 (extras): cd-watch / special / weekly. Time-boxed; can never block
+      # or undo the publish above.
+      - name: Run optional desks (extras)
+        if: steps.guard.outputs.done == 'false'
+        continue-on-error: true
+        timeout-minutes: 110
+        run: bash scripts/cloud-daily.sh extras
+
+      - name: Publish extras (commit data + site)
+        if: steps.guard.outputs.done == 'false' && !cancelled()
+        continue-on-error: true
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: bash scripts/cloud-publish.sh commit
 
       - name: Export static site (republish path)
         if: steps.guard.outputs.done == 'true' && steps.guard.outputs.publish != 'false'
@@ -95,34 +117,8 @@ jobs:
           EXPORT_OUT="$PWD/site_out" python scripts/export_static.py
           kill %1 2>/dev/null || true
 
-      - name: Commit data state back to this repo
-        if: steps.guard.outputs.done == 'false'
-        run: |
-          git config user.name "gucci-intel-bot"
-          git config user.email "minkyu494@gmail.com"
-          git add data
-          git commit -m "data: $(date +'%F %H:%M') daily cycle" || echo "no changes"
-          git pull --rebase origin main || true
-          git push || echo "push skipped"
-
-      - name: Publish site to gucci-intel-site (fixed URL)
-        if: steps.guard.outputs.publish != 'false'
+      - name: Publish site (republish path)
+        if: steps.guard.outputs.done == 'true' && steps.guard.outputs.publish != 'false'
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git clone --depth 1 "https://x-access-token:${GH_PAT}@github.com/anduli0/gucci-intel-site.git" site_repo
-          # Safety: a broken/empty export must never reach --delete. A missing
-          # index.html would wipe the live site's root and serve a 404.
-          if [ ! -s site_out/index.html ]; then
-            echo "ERROR: site_out/index.html missing or empty — aborting publish to protect the live site." >&2
-            exit 1
-          fi
-          # --exclude .github/automation: site repo keeps its own deploy workflow
-          # and docs; a bare --delete once wiped pages.yml and killed deploys.
-          rsync -a --delete --exclude .git --exclude .github --exclude automation site_out/ site_repo/
-          cd site_repo
-          git config user.name "gucci-intel-bot"
-          git config user.email "minkyu494@gmail.com"
-          git add -A
-          git commit -m "cloud update $(date +'%F %H:%M')" || echo "no site changes"
-          git push
+        run: bash scripts/cloud-publish.sh

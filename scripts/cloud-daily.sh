@@ -8,7 +8,14 @@ cd "$(dirname "$0")/.."
 # Pin the cycle date at START. A run that crosses midnight (KST) must validate
 # against the date the brief was generated for, not the wall-clock date at gate
 # time — otherwise the honesty gate below false-fails and aborts a good cycle.
-START_DAY=$(date +%F)
+START_DAY=${CYCLE_DAY:-$(date +%F)}
+# Two phases so that PUBLISHING never waits on optional work:
+#   core   - news, daily-gucci, daily-brief, figures, gate, export  (must succeed)
+#   extras - cd-watch, weekly-review, special, products, weekly-luxury (time-boxed,
+#            run AFTER core has been published; failure/timeout cannot hurt the site)
+# On 2026-11-11 the single-phase version finished core at 08:37 KST, then the
+# optional steps ran into the 170-min job timeout and nothing was published.
+PHASE=${1:-core}
 
 # methodology/ ships in the repository (public, as originally). Fail loudly if a checkout lacks it.
 if [ ! -f methodology/gmai-formula.md ]; then
@@ -23,7 +30,7 @@ fi
 CORE_FAILED=0
 run_core() {
   echo "===== $1 ($(date +'%F %T')) ====="
-  if ! claude -p "$1" --dangerously-skip-permissions; then
+  if ! timeout 80m claude -p "$1" --dangerously-skip-permissions; then
     echo "::error::CORE step failed: $1"
     CORE_FAILED=1
   fi
@@ -32,8 +39,44 @@ run_core() {
 # OPTIONAL steps: a failure is logged but does not fail the whole cycle.
 run_opt() {
   echo "===== $1 ($(date +'%F %T')) ====="
-  claude -p "$1" --dangerously-skip-permissions || echo "WARN: optional step failed: $1"
+  timeout 30m claude -p "$1" --dangerously-skip-permissions || echo "WARN: optional step failed or timed out: $1"
 }
+
+
+export_site() {
+  pip install --quiet pillow numpy >/dev/null 2>&1 || true
+  python scripts/add_figures.py || echo "WARN: figures failed"
+  python app/server.py --port 8790 &
+  SRV=$!
+  sleep 3
+  EXPORT_OUT="$PWD/site_out" python scripts/export_static.py
+  kill "$SRV" 2>/dev/null || true
+}
+
+if [ "$PHASE" = "extras" ]; then
+  run_opt  "/cd-watch"
+
+  # Fridays (KST): the full WEEKLY REVIEW — the dailies are short reads since 2026-10-31.
+  if [ "$(date +%u)" = "5" ]; then
+    run_opt "/weekly-review"
+  fi
+
+  # Special/Event desk cadence guard: a fresh deep-dive at least every 3 days.
+  # Content dates (see special_age.py), NOT os.path.getmtime — a fresh checkout
+  # resets every mtime, so an mtime-based age would always read ~0 and never fire.
+  if ! python scripts/special_age.py; then
+    run_opt "/gucci-special auto"
+  fi
+
+  if [ "$(date +%u)" = "1" ]; then
+    run_opt "/gucci-products"
+    run_opt "/weekly-luxury"
+  fi
+
+  export_site
+  echo "cloud extras phase complete ($(date +'%F %T'))"
+  exit 0
+fi
 
 run_core "/news-scrap"
 # Engagement metrics: plain script, never left to an LLM step (which may skip it).
@@ -54,25 +97,6 @@ if [ -d "data/engagement/$START_DAY" ] && [ -f "data/index/$START_DAY.json" ]; t
   fi
 fi
 run_core "/daily-brief"
-run_opt  "/cd-watch"
-
-# Fridays (KST): the full WEEKLY REVIEW — the dailies are short reads since 2026-10-31.
-if [ "$(date +%u)" = "5" ]; then
-  run_opt "/weekly-review"
-fi
-
-# Special/Event desk cadence guard: a fresh deep-dive at least every 3 days.
-# Content dates (see special_age.py), NOT os.path.getmtime — a fresh checkout
-# resets every mtime, so an mtime-based age would always read ~0 and never fire.
-if ! python scripts/special_age.py; then
-  run_opt "/gucci-special auto"
-fi
-
-if [ "$(date +%u)" = "1" ]; then
-  run_opt "/gucci-products"
-  run_opt "/weekly-luxury"
-fi
-
 # Magazine layout: one photo per section in every report (deterministic, hotlinked og:image).
 pip install --quiet pillow numpy >/dev/null 2>&1 || true
 python scripts/add_figures.py || echo "WARN: figures failed"
