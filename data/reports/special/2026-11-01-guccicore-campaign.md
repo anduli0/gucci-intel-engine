@@ -39,6 +39,8 @@
 
 다만 이 호의적 평가에는 균형추가 필요하다 — 전략의 방향이 옳다는 것과 그것이 작동한다는 것은 전혀 다른 문제이기 때문이다. 첫째, 뎀나 체제의 상업화 전환은 이미 7월 프리마베라 컬렉션으로 매장에 투입됐음에도 3분기 매출은 오히려 -6%로 더 빠졌다[4][13]. 즉 "처방은 했는데 아직 안 듣는다"가 현재 상태의 정확한 묘사다. 둘째, 독립 비평 쪽에서는 뎀나의 구찌가 미켈레의 낭만적 맥시멀리즘을 버리고 "인플루언서 코드의 평평한 스트리트웨어"로, 심지어 "일부러 허술한 테일러링과 싸구려로 보이는 소재"로 내려앉았다는 신랄한 평가도 존재한다 — 이 관점에서 '다원성'은 미학의 포용이 아니라 미학의 부재로 읽힐 수 있다(비평가 견해)[14]. 정리하자면, 구찌코어의 크리에이티브는 전략으로서는 설득력이 있으나, 그것이 소비자에게 "제값 하는 상품"으로 가 닿았는지는 아직 입증되지 않았다.
 
+![구찌가 길을 잃었다 독립 비평, 평평한 스트리트웨어·허술한 테일러링](https://substackcdn.com/image/fetch/$s_!4s55!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F198a4b7e-cd36-4960-b3a9-6fd4a0f31b6f_1200x675.avif "Substack(fashionchitchat)|https://fashionchitchat.substack.com/p/gucci-has-lost-the-plot-but-what")
+
 
 ## 3. 반응 종합 — 활성화 커버리지와 독립 비평, 그리고 지역차
 
@@ -51,6 +53,8 @@ T1급 무역지의 독자적 평가는 캠페인 자체보다 실적에 쏠려 �
 소셜·셀러브리티 증폭은 구조적으로 제한적이다. 10월 30일 EU 수집에서 인스타그램·틱톡·유튜브·레딧·페이스북·X·퍼스포럼을 포함한 9개 소셜·커뮤니티 채널이 모두 '건조'로 기록돼, 14일 내 검증 가능한 자발적 게시물이 나오지 않았다[7]. 더불어 11월 1일 지수에서 구찌 온드 참여 비중은 0.3으로 제한 처리됐는데, 이는 하우스 공식 계정의 자기 홍보를 여론으로 과대평가하지 않기 위한 조치다[8]. 즉 구찌코어는 공식 채널 바깥에서 자생적 모멘텀을 만들지 못했다고 보는 것이 정확하다. 앰버서더 효과도 이 캠페인에는 직접 묶이지 않는다 — 구찌의 가장 강력한 전환 사례인 BTS 진의 프리마베라 재킷 24시간 완판은 별개 캠페인 소속이고, 사발렌카·리노 등 글로벌 앰버서더의 구찌코어 연계 성과는 소스에 보고되지 않아 미확인이다[17].
 
 지역차는 뚜렷하다. 북미에서는 캠페인이 뉴욕을 무대로 한 만큼 서술형 보도가 상대적으로 많았고, 틱톡의 '구찌×나이키' 스타일 플렉스 밈이나 "구찌 다시 좋아졌나?"를 묻는 크리에이터 리뷰처럼 저강도의 자생적 관심도 포착됐다[18]. 반면 동북아의 기류는 캠페인이 아니라 가격에 쏠려 있다 — 중국 소비자 커뮤니티는 메르카토 토트가 2만5,500위안에서 2만 위안으로 인하된 사실과 함께 오피디아 미니 버킷백 인하 폭을 '가격 보호(price protection)' 신뢰 문제로 해부했는데, 커뮤니티 글은 인하액을 인하 후 가격으로 나눠 "40% 넘게"라고 적었으나 이는 원가 기준이 아닌 계산 오류이고 빅고(BigGo)가 통상적 방식(인하액÷원가)으로 다시 계산한 수치는 29.3%다[19][20][6]. 한국 커뮤니티에서는 케링 주가 폭락과 짝퉁 감별 스레드가 더 활발했다[20]. 정리하자면, 구찌코어의 반응은 "서구에서는 미지근한 활성화, 동북아에서는 가격 담론에 밀린 저가시성"으로 요약된다.
+
+![구찌 중국 가방 22~29% 인하 유지(오피디아 미니 버킷 29.3%), 번스타인 인하+폐점이 구찌에 회생 여지](https://img.biggo.com/W1fdqDZ7kLiJji-9Xohl4nrKj_Ejo38_H_keogqyOLw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzNlOGYwNmM2LTA2YWUtNDQ4Mi1iMDhlLThhMTk3OTAzNGM4Nl8xNzg4ODgzNzk4X2RlZmF1bHQuanBn.jpg "BigGo Finance|https://finance.biggo.com/news/3e8f06c6-06ae-4482-b08e-8a1979034c86")
 
 ## 4. 커머셜 전망 — 수요 신호, 히어로 상품, 가격 읽기, 실적 캘린더와의 타이밍
 
@@ -198,6 +202,8 @@ Placed against the turnaround, the logic sharpens. Gucci's core problem is traff
 
 Still, that favorable read needs a counterweight, because a right direction and a working one are different things. First, the commercial shift was already in stores via the July Primavera collection, yet Q3 sales fell further to -6%[4][13]. The prescription has been written and is not yet working. Second, independent criticism is harsher: some read Demna's Gucci as having abandoned Michele's romance for a flattened, influencer-coded streetwear aesthetic with deliberately sloppy tailoring and cheap-looking materials — on which view "plurality" reads not as embrace but as absence of a point of view (critic opinion)[14]. In short, the creative is persuasive as strategy, but whether it has landed with shoppers as product that justifies its price is unproven.
 
+![Gucci has lost the plot independent criticism, flattened streetwear and sloppy tailoring](https://substackcdn.com/image/fetch/$s_!4s55!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F198a4b7e-cd36-4960-b3a9-6fd4a0f31b6f_1200x675.avif "Substack (fashionchitchat)|https://fashionchitchat.substack.com/p/gucci-has-lost-the-plot-but-what")
+
 
 ## 3. Reaction Round-Up — activation coverage, independent criticism, regional differences
 
@@ -210,6 +216,8 @@ Independent T1 trade judgment is tilted toward results, not the campaign. WWD, B
 Social and celebrity amplification is structurally thin. In the October 30 EU sweep, nine social and community channels including Instagram, TikTok, YouTube, Reddit, Facebook, X and PurseForum all logged "dry," with no verifiable organic posts inside 14 days[7]. Owned engagement is capped at 0.3 in the November 1 index precisely so that official-account self-promotion is not overweighted as opinion[8]. GucciCore, accurately described, generated no self-sustaining momentum outside official channels. Ambassador pull is not tied to this campaign either — Gucci's strongest conversion case, Jin's 24-hour Primavera-jacket sellout, belongs to a different campaign, and any GucciCore-linked result from Sabalenka or Lino is unreported, hence unverified[17].
 
 Regional differences are clear. In North America, with New York as the stage, descriptive coverage was comparatively heavy, and low-intensity organic interest surfaced — a "Gucci x Nike" style-flex meme on TikTok, a creator review asking "Is Gucci good again?"[18]. In Northeast Asia the current runs toward price, not the campaign — Chinese shopper communities dissected the Mercato tote cut from 25,500 to 20,000 yuan and the Ophidia mini bucket cut as a price-protection trust issue; the community posts wrote the Ophidia cut as "over 40%" by dividing the markdown by the new price, but that is a calculation error, and BigGo's figure using the conventional method (markdown divided by original price) is 29.3%[19][20][6]. Korean boards were busier with Kering's crash and counterfeit-spotting threads[20]. In short, the reaction reads as "lukewarm activation in the West, low visibility behind the pricing debate in Northeast Asia."
+
+![Gucci China bag cuts of 22-29% held (Ophidia mini bucket 29.3%), Bernstein says cuts plus closures give Gucci room to save itself](https://img.biggo.com/W1fdqDZ7kLiJji-9Xohl4nrKj_Ejo38_H_keogqyOLw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzNlOGYwNmM2LTA2YWUtNDQ4Mi1iMDhlLThhMTk3OTAzNGM4Nl8xNzg4ODgzNzk4X2RlZmF1bHQuanBn.jpg "BigGo Finance|https://finance.biggo.com/news/3e8f06c6-06ae-4482-b08e-8a1979034c86")
 
 ## 4. Commercial Outlook — demand signals, hero products, the pricing read, timing against the earnings calendar
 

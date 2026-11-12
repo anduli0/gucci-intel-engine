@@ -10,6 +10,8 @@
 
 오늘 가장 구조적인 신호는 주얼리가 럭셔리 수요의 피난처로 굳어지고 있다는 것이다 — 리치몬트의 4개 주얼리 메종(까르띠에·반클리프 아펠 등)이 7개 분기 연속 두 자릿수 성장을 이어갔고, 바클레이즈는 주얼리 모멘텀 하나만을 근거로 목표가를 올렸다[1][2]. 이와 대조적으로 가방·의류 진영은 같은 3분기에 LVMH 패션·레더굿즈 -5%, 프라다 그룹 유기성장 1%로 둔화됐고, 에르메스조차 중국 정체로 주가가 밀렸다[3][4][5]. 다만 이 로테이션에도 균형추가 필요하다 — 랩그로운 다이아몬드가 상반기 신규 약혼반지의 51%를 차지하며 천연 보석 대비 65% 싼 가격으로 주류화됐고, 이는 파인주얼리의 가격 체계 자체를 흔드는 변수다[6]. 요컨대 주얼리의 방어력은 당분간 유효하되, 가격 구조의 하방 압력은 이미 시작됐다고 보는 것이 정확하다.
 
+![에르메스 3분기 매출 4.3% 성장했으나 중국 정체로 주가 하락](https://wwd.com/wp-content/uploads/2026/06/Hermes-bond-street-lond-store-JS-33.jpg?w=1200 "WWD|https://wwd.com/business-news/financial/hermes-results-q3-2026-1239380176/")
+
 
 
 ## 2. 케링의 세 자리 공백과 피크아웃 신호
@@ -120,6 +122,8 @@ Demand split along category lines today: Richemont's jewellery maisons hit a sev
 ## 1. Jewellery goes it alone
 
 Jewellery is hardening into luxury's refuge — Richemont's four maisons logged a seventh straight double-digit quarter, and Barclays lifted its target on that alone [1][2]. The bag-and-apparel camp stalled: LVMH fashion and leather fell 5%, Prada Group growth slowed to 1%, and even Hermès slipped on China [3][4][5]. Still, lab-grown diamonds now at 51% of new engagement rings, 65% below natural prices, are reshaping fine jewellery's pricing [6]. The defensive edge holds, but price pressure has begun.
+
+![Hermès Q3 revenue grew 4.3% but shares fell on China stall](https://wwd.com/wp-content/uploads/2026/06/Hermes-bond-street-lond-store-JS-33.jpg?w=1200 "WWD|https://wwd.com/business-news/financial/hermes-results-q3-2026-1239380176/")
 
 
 
