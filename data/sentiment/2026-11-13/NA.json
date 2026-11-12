@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NA-2026-11-13-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive store-concept write-up (what/where/when), no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-13-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade report describing new store concept as turnaround strategy plank, no independent judgment rendered.",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-13-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of GucciCore campaign shoot and concept, no outlet verdict offered.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-13-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned promo copy on official channel; self-praise is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-13-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: organic fan backlash calls holiday campaign 'depressing'/'boring'/compares to JCPenney / counter: none, piece is framed entirely around negative reaction.",
+    "signal_tags": ["backlash", "campaign_reaction", "organic_opinion"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-13-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Hands-on quality review described as examining construction without a stated clear positive or negative verdict in summary.",
+    "signal_tags": ["quality_scrutiny", "grassroots"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-11-13-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sustained multi-year community thread signals ongoing frustration over repeated price hikes without matching value; verbatim posts unreadable so capped at mild magnitude.",
+    "signal_tags": ["price_backlash", "value_for_money", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-13-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Baseline shopping/authentication forum activity, not controversy-driven; incidental.",
+    "signal_tags": ["baseline_activity", "community"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-13-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Interbrand quantified -30.7% brand value drop, sharpest decline of any luxury brand tracked, falling to #93 / counter: none, headline and framing are unambiguously negative.",
+    "signal_tags": ["brand_value_decline", "quantified_data", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-13-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Kering cut growth target after Gucci sales fell 6% and store closures rose, recovery called 'defining priority' / counter: none; retained as background context outside freshness window so magnitude capped.",
+    "signal_tags": ["negative_earnings", "background_context"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-13-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mostly descriptive trade write-up detailing capsule collection tied to campaign, no independent critical verdict beyond description.",
+    "signal_tags": ["activation_coverage", "campaign_reaction"],
+    "confidence": 0.7
+  }
+]

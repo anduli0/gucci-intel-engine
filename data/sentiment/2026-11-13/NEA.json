@@ -1,0 +1,128 @@
+[
+  {
+    "id": "NEA-2026-11-13-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own holiday campaign (Mariah Carey) with no independent outlet verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-13-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual ambassador-appointment announcement, press-kit derived, no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-13-003",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Thesis: outlet frames Ningning's Gucci LACMA look as drawing a huge worldwide positive reaction ('힙해') -- activation coverage with an evaluative verdict, capped and fandom-damped.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-13-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Thesis: outlet praises Park Bo-gum/Ningning's 'unrivaled aura' at the Gucci-sponsored LACMA gala -- activation coverage with a mild positive verdict, capped per discount.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-13-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Japanese trade coverage purely describing the holiday campaign announcement, no independent judgment.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-13-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive pop-up/product launch write-up (GucciCore x Isetan), no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-13-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Thesis: neutral ambassador-appointment headline / counter: article also cites concrete Q3 China DOS sales decline (-9%) -- two-sided with no single verdict, coded neutral per dominant-thesis rule.",
+    "signal_tags": ["mixed", "negative_earnings", "china", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-13-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Thesis: Chinese Gen Z explicitly trading down from Gucci to Coach/Ralph Lauren for value, backed by quantified sales data (Coach/RL +30% vs Kering/LVMH double-digit declines) -- clear peer-comparison and value-for-money narrative against Gucci.",
+    "signal_tags": ["peer_comparison", "value_for_money", "china", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-13-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Thesis: Interbrand ranks Gucci's brand value decline (-30.7%) as the steepest among luxury houses, compounding a prior-year -35% drop -- unambiguous quantified third-party negative signal.",
+    "signal_tags": ["brand_value", "negative_earnings"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-13-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Templated/bulk-pattern Weibo explainer post with no visible engagement and recurring near-identical titles across accounts -- low-confidence bot-like signal, demoted to neutral despite mixed closure/recovery content.",
+    "signal_tags": ["mixed", "low_confidence", "bot_suspected", "store_closures"],
+    "confidence": 0.3
+  },
+  {
+    "id": "NEA-2026-11-13-011",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Thesis: Korean fan community overwhelmingly appreciative of Park Bo-gum's Gucci LACMA appearance -- genuine fandom spike, damped to mag 0.5 per ambassador fan-coverage trap.",
+    "signal_tags": ["fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-13-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Thesis: Gucci posted its worst-ever quarterly results (FY2025 sales -22%, Q4 -10%) -- sustained negative framing ('최악 실적'); kept as stale context only, excluded from freshness-weighted buzz per note.",
+    "signal_tags": ["negative_earnings", "stale_context"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-13-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Thesis: Kering shares rose 6.36% / counter: no confirmed catalyst identified and article flags continued investor caution pending Gucci-specific clarity -- ambiguous verdict, coded neutral.",
+    "signal_tags": ["mixed", "stock_move"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-13-014",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-topic Weibo clip of Park Bo-gum at LACMA gala with negligible reach (584 views) and no engagement counts -- insufficient signal strength to assign confident polarity.",
+    "signal_tags": ["fandom", "low_confidence", "ambassador"],
+    "confidence": 0.35
+  }
+]

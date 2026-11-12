@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SEA-2026-11-13-01",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: trade press frames Gucci as Kering's remaining underperformer, 'hit hardest' with Q3 revenue down 6% vs. peers' +2% / counter: piece is primarily about Balenciaga's new appointment, Gucci is context not the main subject",
+    "signal_tags": ["negative_earnings", "peer_comparison"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-13-02",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual cross-border price comparison guide using GG Marmont as example, no evaluative verdict on the brand",
+    "signal_tags": ["value_for_money", "factual"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-13-03",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan account celebratory share of ambassador Ningning's Gucci LACMA gala look; fandom-spike trap applied, magnitude damped to 0.5",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-13-04",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent fashion commentary account criticizes Gucci's styling choice for ambassador Ningning as underusing her potential",
+    "signal_tags": ["design_criticism", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-13-05",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive aggregator of Indonesian reseller/grey-market Gucci content, no clear evaluative verdict and unverifiable authenticity",
+    "signal_tags": ["grey_market", "mixed"],
+    "confidence": 0.5
+  }
+]

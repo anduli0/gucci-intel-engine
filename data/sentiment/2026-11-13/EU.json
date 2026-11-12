@@ -1,0 +1,137 @@
+[
+  {
+    "id": "EU-2026-11-13-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual org-structure reporting (new business units, advisers rejoining); trade-corroborated, no evaluative verdict.",
+    "signal_tags": ["organizational", "factual"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-13-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering stock drop driven by Gucci's 6% comp sales decline and 14% APAC contraction, skeptical tone on turnaround / counter: improved ticket and conversion cited but not the lede's point.",
+    "signal_tags": ["negative_earnings", "momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-13-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of new flagship opening, no independent verdict offered.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-13-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: net store closures (25) signal shrinking physical footprint amid turnaround / counter: framed as deliberate 'fewer, bigger' strategy with a larger flagship opening.",
+    "signal_tags": ["negative_earnings", "mixed", "retail"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-13-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan/consumer backlash calling holiday campaign 'depressing', 'outdated', 'sterile'; backlash against activation is not subject to activation discount.",
+    "signal_tags": ["campaign_backlash", "consumer_reaction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-13-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Outside freshness window, retained as background only; split forum reaction (cynical shock tactic vs provocative repositioning) with no clear dominant verdict.",
+    "signal_tags": ["mixed", "stale_context", "design_criticism"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-11-13-007",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Mild positive purchase-consideration/product-appreciation chatter on Flora pieces; fandom/community volume damped per trap guidance.",
+    "signal_tags": ["purchase_intent", "fandom", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-13-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring, legitimate community complaints about declining construction quality, chipped hardware, and value-for-money versus rising prices.",
+    "signal_tags": ["quality_complaint", "value_for_money", "community"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-13-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: value-for-money skepticism and quality/durability doubts drive the thread's framing / counter: some posters defend the purchase; mixed-but-decided toward caution.",
+    "signal_tags": ["mixed", "value_for_money", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-13-010",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent third-party praise for new loafers from a niche menswear creator; not brand-owned but single small account, magnitude damped.",
+    "signal_tags": ["design_praise", "product_review", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-13-011",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned promotional copy for GucciCore campaign; self-praise is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-13-012",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive lifestyle walkthrough of flagship interior with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-13-013",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive trade-press coverage of GucciCore campaign rollout, no independent judgment.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-13-014",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering share drop >11% explicitly attributed to disappointing Gucci results, dragging down European luxury sector / counter: none offered.",
+    "signal_tags": ["negative_earnings", "momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-13-015",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent critical praise for Memoria exhibition as thoughtful and craft-rooted; well outside freshness window so retained as background context only, magnitude damped.",
+    "signal_tags": ["design_praise", "stale_context"],
+    "confidence": 0.55
+  }
+]
