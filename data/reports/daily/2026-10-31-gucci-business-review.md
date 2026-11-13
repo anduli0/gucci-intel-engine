@@ -18,6 +18,8 @@
 
 반론이 더 무겁다 — 씨티는 개선 국면이 끝났다고 봤고[8], 징데일리는 중국에서 누구나 구찌를 알아본다는 사실 자체가 문제라고 썼으며[9], 북미 커뮤니티에는 구찌 제품이 잘 안 팔린다는 리세일 소유자의 글이 올라왔다[11]. 다시 말해 문제가 매장의 모양보다 브랜드가 흔해졌다는 인식에 있다면, 매장 하나로는 풀리지 않는다. 물론 균형추도 있다. 리스트(Lyst) 3분기 순위에서 구찌는 한 계단 올라 4위를 했다[10]. 다만 이는 관심의 지표이지 매출이 아니고, 1위를 되찾은 쪽은 프라다였다.
 
+![리스트 3분기 순위, 프라다 1위 탈환, 구찌 한 계단 오른 4위](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?w=1200 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+
 
 
 ## 3. 내일 볼 것
@@ -117,6 +119,8 @@ Today's only fresh Gucci news is the Avenue Montaigne store, which is brand-stag
 ## 2. Evidence and the Counterweight
 
 The counter-signals weigh more — Citi called the improvement phase over[8], Jing Daily argued Gucci's ubiquity in China is itself the problem[9], and a North American owner reported struggling to resell[11]. Put differently, if the issue is that the brand feels too common, one store will not fix it. There is a counterweight: Gucci rose one place to fourth in the Lyst Q3 ranking[10]. That measures interest, not sales, and Prada took first.
+
+![Lyst Q3: Prada back at first, Gucci up one to fourth](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?w=1200 "WWD|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
 
 
 
