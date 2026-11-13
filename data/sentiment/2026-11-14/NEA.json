@@ -1,0 +1,119 @@
+[
+  {
+    "id": "NEA-2026-11-14-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: brand recognition hasn't translated to traffic, Q3 DTC sales -9% / counter: none, trade-press independent critical judgment",
+    "signal_tags": ["trade_press", "negative_earnings", "brand_perception"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-14-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: shares sink as Gucci recovery lags, sales down 6%, store closures raised / counter: none stated, sustained negative framing",
+    "signal_tags": ["negative_earnings", "financial_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-14-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador appointment write-up, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-14-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: appointment framed as opening 'new global chapter' with evaluative enthusiasm / counter: still press-kit-derived ambassador news, capped under activation discount",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-14-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive holiday campaign write-up (who stars, what it is), no outlet verdict",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-14-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive pop-up/store-event write-up, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "store_event"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-14-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive campaign trade coverage, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-14-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: declines 'stabilizing not reversing' post-ReconKering / counter: 125-store closure plan still negative; templated/bulk bot-like account lowers confidence below threshold",
+    "signal_tags": ["mixed", "low_confidence", "bot_filter"],
+    "confidence": 0.35
+  },
+  {
+    "id": "NEA-2026-11-14-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic consumer criticism of Gucci's own Weibo ad production/design quality, narrow scope limits magnitude",
+    "signal_tags": ["sns_chatter", "ad_criticism"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-14-010",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fandom spike around ambassador's appearance at Gucci-sponsored gala, not genuine brand-affinity commentary, damped per fandom trap",
+    "signal_tags": ["fandom", "ambassador", "community"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-14-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: discusses pros and cons of watch finishing/price-to-quality / counter: no clear verdict either way, genuine two-sided community take",
+    "signal_tags": ["mixed", "product_opinion", "community"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-14-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: question framing itself signals skepticism that steep markdowns imply luxury pricing-power bubble bursting / counter: posed as open question, unconfirmed date lowers certainty",
+    "signal_tags": ["community", "price_perception", "value_for_money"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-14-013",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: reliable Chinese luxury shoppers retreating, Gucci sales -6% worse than expected amid quiet-luxury shift / counter: none, sustained negative framing",
+    "signal_tags": ["negative_earnings", "regional_wire", "consumption_shift"],
+    "confidence": 0.8
+  }
+]

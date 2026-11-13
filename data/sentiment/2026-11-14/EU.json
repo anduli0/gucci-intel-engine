@@ -1,0 +1,182 @@
+[
+  {
+    "id": "EU-20261114-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of new store concept rollout, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261114-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: BoF frames flagship as strategic blueprint to reverse slump / counter: acknowledges prolonged sales slump as the reason for the pivot; two-sided analytical framing with no clear verdict",
+    "signal_tags": ["activation_coverage", "mixed", "retail_strategy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261114-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade coverage of store concept, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261114-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned campaign description (press-kit derived), not public opinion",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261114-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan/social backlash calling campaign 'depressing', 'boring' and comparing to discount retailer; negative items not subject to activation cap",
+    "signal_tags": ["campaign_backlash", "organic_reaction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20261114-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Sentiment concerns Mariah Carey's own annual post/ritual, not Gucci's brand or campaign",
+    "signal_tags": ["off_topic_adjacent"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261114-007",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic celebrity-affinity content showing positive brand attachment, incidental/fandom-adjacent so magnitude damped",
+    "signal_tags": ["fandom", "organic_positive"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261114-008",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent collector community praising Flora collection craft/design as 'the piece' of the line",
+    "signal_tags": ["product_praise", "community"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-20261114-009",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent collector praise for suede bags, nostalgia-coded heritage affinity",
+    "signal_tags": ["product_praise", "heritage_nostalgia", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261114-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: some customers report attentive luxury service / counter: others report rude, excessive staff scrutiny and unaddressed complaints; genuine two-sided split with no dominant verdict",
+    "signal_tags": ["mixed", "retail_service"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261114-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained negative framing of Gucci as Kering's 'central burden factor' with revenue -6%, DOS retail -9%, and raised store-closure target",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261114-012",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Old factual background item on Sky TV series announcement, purely descriptive",
+    "signal_tags": ["background", "entertainment_tie_in"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261114-013",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual entertainment-press report on filming wrap of Gucci family drama series, no evaluative stance toward brand",
+    "signal_tags": ["entertainment_tie_in", "heritage_story"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261114-014",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Companion factual report corroborating same filming-wrap news, no brand evaluation",
+    "signal_tags": ["entertainment_tie_in", "heritage_story"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261114-015",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "French marketing-press retrospective citing past social-media bad-buzz episodes as a costly cautionary case study for Gucci",
+    "signal_tags": ["reputational_risk", "critical_angle"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261114-016",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Price-hike backlash narrative on handbag margin-defense pricing, dated background item so magnitude damped",
+    "signal_tags": ["price_backlash", "background"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261114-017",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Earnings decline (-6% comparable, DOS -9%) reported with largely factual/recap framing rather than crisis framing",
+    "signal_tags": ["negative_earnings"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261114-018",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive report of organizational restructuring and senior hires, no evaluative verdict on outcome",
+    "signal_tags": ["organizational", "turnaround_signal"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-20261114-019",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Critical trade commentary citing AI-generated campaign visuals backlash as cautionary 'AI slop' example, ongoing critical thread rather than fresh viral spike",
+    "signal_tags": ["ai_backlash", "critical_angle", "campaign_backlash"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-20261114-020",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Commentary using Gucci's AI-generated imagery as a case study for alienating customers through synthetic visuals",
+    "signal_tags": ["ai_backlash", "critical_angle"],
+    "confidence": 0.6
+  }
+]

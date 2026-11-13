@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SEA-2026-11-14-01",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Third-party SEA menswear-media styling feature on GucciCore Fanny Pack with mild favorable framing (\"spices up\"), but descriptive/activation-adjacent with no independent critical verdict, so capped at 0.5.",
+    "signal_tags": ["activation_coverage", "organic_pickup", "styling_feature"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-14-02",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci direct retail -9% and APAC saturation with no turnaround for 12-24 months / counter: none — sustained negative framing from T1 trade press on structural SEA retail weakness.",
+    "signal_tags": ["negative_earnings", "retail_footprint", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-14-03",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Single Thai fan account praising ambassador-adjacent GucciCore styling with no visible engagement metrics; fandom spike demoted to neutral due to low confidence (<0.5) in genuine brand-affinity signal.",
+    "signal_tags": ["fandom", "ambassador", "unverified_engagement", "demoted_low_confidence"],
+    "confidence": 0.45
+  },
+  {
+    "id": "SEA-2026-11-14-04",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-coordinated cross-post urging likes/comments on syndicated ambassador coverage; purely descriptive circulation of promo content, not organic opinion.",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador", "engagement_bait"],
+    "confidence": 0.5
+  }
+]

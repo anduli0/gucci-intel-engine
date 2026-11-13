@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NA-2026-11-14-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Plain factual reporting of new business-unit structure and advisers; no evaluative verdict toward brand.",
+    "signal_tags": ["organizational_news", "factual"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-14-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci missed Q3 forecasts with sales/retail declines / counter: NA was relatively resilient region -- dominant thesis is the earnings miss, sustained negative framing throughout.",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-14-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Multiple analysts (RBC, Berenberg) cut forecasts and price targets citing skepticism about pace of Gucci turnaround.",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-14-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan/TikTok backlash calling holiday campaign 'depressing,' 'boring,' compared unfavorably to JCPenney; negative reaction to activation is not subject to promo discount.",
+    "signal_tags": ["campaign_backlash", "design_criticism"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-14-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of campaign concept/director/soundtrack with no outlet evaluative verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-14-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: none -- genuine two-sided split between admiration for casting and fatigue/criticism of celebrity-heavy strategy, no verdict.",
+    "signal_tags": ["mixed", "sns_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-14-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Direct organic TikTok quotes ('sterile,' 'nothing about Gucci feels luxe anymore') reflect genuine brand-fatigue sentiment, emotionally charged and viral.",
+    "signal_tags": ["brand_fatigue", "design_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-14-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Long-running community thread expressing recurring frustration that price hikes outpace perceived quality/design payoff.",
+    "signal_tags": ["price_hike_backlash", "value_for_money"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-14-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: none -- forum buzz explicitly mixed, some praising model casting, others questioning creative direction's coherence under Demna, no verdict reached.",
+    "signal_tags": ["mixed", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-14-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of Gucci-sponsored gala and celebrity dressing; factual attendance/figures with no outlet evaluative verdict on the brand.",
+    "signal_tags": ["activation_coverage", "celebrity_dressing"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-14-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale background feature outside freshness window, explicitly excluded from buzz weighting; descriptive, no fresh evaluative content.",
+    "signal_tags": ["stale", "background"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-14-012",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Berenberg analyst note states turnaround is 'further away' than hoped, cites continued traffic weakness, cuts estimates and price target.",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.85
+  }
+]
