@@ -30,7 +30,8 @@
 
 이번 주 구찌 사업에서 가장 큰 신호는 인터브랜드 -30.7%였고, 그 so-what은 분명하다 — 가격 인하도 앰배서더도 매장 재편도 아직 '브랜드 자산의 출혈'을 멈추지 못했다. 사실 관계부터 정리한다. 구찌 브랜드 가치는 81억 달러로 1년 만에 30.7% 줄어 럭셔리 섹터 최대 낙폭을 기록했고, 북미 기준으로는 2년 누적 약 55% 깎였다[1][7]. 이는 케링 3분기 구찌 비교매출 -6%, 직영 리테일 -9%, 아시아태평양 리테일 -14%라는 숫자 위에 얹힌 평가다[10]. 즉 분기 실적의 악화가 1년짜리 브랜드 가치 평가로 확정됐다는 뜻이다.
 
-![중국 Z세대, 구찌 대신 코치·랄프로렌 선택](https://img.newspim.com/news/2026/11/12/2611120132193930_214_tc.jpg "Newspim|https://www.newspim.com/news/view/20261112000823")
+![케링 3분기 후 주가 급락, 구찌 비교매출 -6%](https://forbes.it/wp-content/uploads/2026/10/GettyImages-1441424997-1200x801.jpg "Forbes Italia|https://forbes.it/2026/10/23/kering-affonda-parigi-calo-vendite-gucci")
+
 
 이에 구찌가 이번 주 집행한 처방을 층위별로 나눠 본다. 바깥 층위는 활성화다 — 11월 5일 박보검 글로벌 앰배서더 발탁이 한국·일본 팬덤과 태국·베트남 매체까지 번졌고, LACMA 갈라에 박보검·닝닝이 섰으며, 머라이어 캐리 홀리데이 캠페인과 버터플라이 캡슐이 공개됐고, 이세탄 신주쿠에 GucciCore 팝업이 열렸다[3][4][5][11][6]. 안쪽 층위는 구조 재편이다 — 구찌는 2026년 순 25개 매장을 닫으며 '더 적게·더 크게·예약 중심' 모델로 전환 중이고, 파리 아브뉴 몽테뉴 플래그십을 새 콘셉트로 다시 열었으며, 사업부 단위 조직 개편을 단행했다[12][13][14]. 이 두 층위를 합치면 뎀나 체제의 실행 연속성은 확인된다 — 캠페인은 켜졌고 매장·조직 재편은 계획대로 굴러갔다.
 
@@ -185,7 +186,8 @@ That verdict still needs a counterweight — none of this means activation was p
 
 The biggest business signal of Gucci's week was Interbrand's -30.7%, and the so-what is plain: neither price cuts nor ambassadors nor store realignment has yet stopped the bleed in brand equity. Facts first. Gucci's brand value fell to $8.1B, down 30.7% in a year — the luxury sector's steepest drop — and in North America it is down roughly 55% over two years[1][7]. That assessment sits atop Kering's Q3 Gucci numbers: comparable sales -6%, own-retail -9%, Asia-Pacific retail -14%[10]. In short, a quarter's deterioration got sealed into a one-year brand-value verdict.
 
-![Chinese Gen-Z choosing Coach/Ralph Lauren over Gucci](https://img.newspim.com/news/2026/11/12/2611120132193930_214_tc.jpg "Newspim|https://www.newspim.com/news/view/20261112000823")
+![Kering shares drop post-Q3, Gucci comparable -6%](https://forbes.it/wp-content/uploads/2026/10/GettyImages-1441424997-1200x801.jpg "Forbes Italia|https://forbes.it/2026/10/23/kering-affonda-parigi-calo-vendite-gucci")
+
 
 Consider the prescriptions Gucci ran this week in two layers. The outer layer is activation — the November 5 Park Bo-gum appointment that spread from Korean and Japanese fandom to Thai and Vietnamese press, the LACMA carpet with Park Bo-gum and Ningning, the Mariah Carey campaign and Butterfly capsule, and the Isetan GucciCore pop-up[3][4][5][11][6]. The inner layer is structural reset — Gucci closing a net 25 stores in 2026 toward a "fewer, bigger, appointment-led" model, reopening the Avenue Montaigne flagship under a new concept, and reorganizing into business units[12][13][14]. Together these confirm Demna-era execution continuity: the campaigns ran and the store and org reset moved on plan.
 

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NA-2026-11-15-001",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Brand-staged Moda Operandi cocktail, but attendees gave on-record evaluative praise of the GucciCore collection, so activation discount applies with capped magnitude.",
+    "signal_tags": ["activation_coverage", "ambassador", "trunk_show"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-15-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive recap of Gucci-presented LACMA gala attendance and funds raised, no outlet evaluative verdict on the brand.",
+    "signal_tags": ["activation_coverage", "gala"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-15-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained negative framing of Q3 sales decline and Kering share slump, still being cited as the live narrative this week.",
+    "signal_tags": ["negative_earnings", "analyst_commentary"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-15-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic viral TikTok backlash calling the Mariah Carey holiday ad depressing, outdated and emotionless.",
+    "signal_tags": ["campaign_backlash", "viral", "sns"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-15-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: fans engage positively with ambassador casting / counter: recurring commenters call the house tasteless under Demna -- two-sided with no clear verdict.",
+    "signal_tags": ["mixed", "sns", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-15-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum praise for model casting (Consani, Gabrriette) / counter: continued skepticism about creative coherence under Demna -- aggregator reports mixed sentiment with no dominant verdict.",
+    "signal_tags": ["mixed", "community", "campaign"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-15-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: some collectors open to new LA FAMIGLIA direction / counter: longtime members holding off -- genuine two-sided split with no resolved verdict.",
+    "signal_tags": ["mixed", "community", "purchase_intent"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-15-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Long-running organic community thread: recurring theme that repeated price hikes have outpaced perceived quality/design, feeding resale skepticism.",
+    "signal_tags": ["price_hike_backlash", "resale_value", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-15-009",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-style coverage of a brand-presented gala with the outlet's own favorable evaluative framing ('old Hollywood glamour'), so activation discount caps magnitude.",
+    "signal_tags": ["activation_coverage", "celebrity_styling", "gala"],
+    "confidence": 0.65
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NEA-2026-11-15-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci's own holiday campaign/store event with Mariah Carey; no independent evaluative verdict, so activation discount applies.",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-15-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive red-carpet/ambassador coverage of a Gucci-staged gala appearance, no outlet verdict beyond praising looks generically; treated as activation, not public opinion.",
+    "signal_tags": ["activation_coverage", "ambassador", "red_carpet"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-15-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official brand-issued ambassador announcement quoting the talent's own enthusiasm; brand-owned promo copy is not public opinion.",
+    "signal_tags": ["activation_coverage", "ambassador_appointment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-15-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan-community thread with favorable reactions to the new ambassador's looks; genuine engagement but fandom-spike trap caps magnitude at 0.5.",
+    "signal_tags": ["fandom_spike", "ambassador", "organic_engagement"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-15-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: explainer frames Demna debut/store closures/China manufacturing as evidence Gucci is sliding from near-top-luxury into a lower tier / counter: none, headline and framing are unambiguous and emotionally charged on structural decline.",
+    "signal_tags": ["brand_positioning_decline", "store_closures", "negative_earnings"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-15-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press factual report of the ambassador appointment with no independent evaluative verdict; activation discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador_appointment"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-15-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gen Z China shifting from Gucci to value-priced Coach amid double-digit Gucci sales declines / counter: none offered; unambiguous value-for-money and peer-comparison backlash against Gucci.",
+    "signal_tags": ["peer_comparison", "value_for_money", "negative_earnings", "china_demand"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-15-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci brand value fell ~31% this year compounding a prior 35% drop (~55% two-year decline), rank fell 69th to 93rd / counter: none; quantified, unambiguous negative momentum data.",
+    "signal_tags": ["brand_value_decline", "quantified_data", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-15-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci quietly raised Korea prices again amid criticism of Korea as a price-testing ground / counter: none; price-hike backlash, magnitude capped as it's retained only as corroborating background outside the freshness window.",
+    "signal_tags": ["price_hike_backlash", "stale_background"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-15-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Background trend piece on repeated luxury price hikes (incl. Gucci) kept only as context outside the freshness window; not counted as a fresh evaluative signal.",
+    "signal_tags": ["stale_background", "price_hike", "not_counted"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-15-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci resale value fell 10% YoY, with analysts noting aggressive price hikes backfired on resale value / counter: none; quantified third-party resale-index decline, unambiguous.",
+    "signal_tags": ["resale_value_decline", "quantified_data", "price_hike_backlash"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-15-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard descriptive trade coverage of Gucci Beauty's holiday coffret launch; no independent verdict, activation discount applies.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-15-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive retail/pop-up coverage of a Japan-exclusive capsule at Isetan; no evaluative verdict, activation discount applies.",
+    "signal_tags": ["activation_coverage", "retail", "capsule_drop"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-15-014",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan/industry-insider chatter wishing to see the new ambassador in Gucci villain roles; genuine affinity but fandom-spike trap caps magnitude at 0.5.",
+    "signal_tags": ["fandom_spike", "ambassador", "organic_engagement"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-15-015",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: hoped-for Gucci sales bottoming-out was derailed by continued weak China demand, triggering an 11% stock drop and undercutting the Demna turnaround narrative / counter: none; unambiguous negative momentum.",
+    "signal_tags": ["negative_earnings", "china_demand", "stock_reaction", "turnaround_doubt"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-15-016",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: continued Gucci store closures in China tied to broader high-end consumption slowdown and shrinking footprint plan / counter: none; negative but outside freshness window, kept only as corroborating background so magnitude capped.",
+    "signal_tags": ["store_closures", "stale_background", "china_demand"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-15-017",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Demna's Gucci appointment drew lukewarm industry/investor reaction with a 12.7% Kering stock drop / counter: none; negative but historical background outside freshness window, magnitude capped.",
+    "signal_tags": ["stale_background", "turnaround_doubt", "stock_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-15-018",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "T1 outlet's plain factual report of the ambassador appointment with no independent evaluative verdict; activation discount applies despite higher-tier source.",
+    "signal_tags": ["activation_coverage", "ambassador_appointment"],
+    "confidence": 0.8
+  }
+]

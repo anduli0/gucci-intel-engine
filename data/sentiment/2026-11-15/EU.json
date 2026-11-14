@@ -1,0 +1,137 @@
+[
+  {
+    "id": "EU-20261115-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline/lede frame Artemis debt strain and Gucci's two-year revenue slump as a clear negative financial narrative, not a neutral data point.",
+    "signal_tags": ["negative_earnings", "financial_press", "parent_company_risk"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-20261115-02",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: ten straight quarters of decline frame Gucci as Kering's core problem / counter: CEO's turnaround comments lifted the stock, but headline and framing stay negative-dominant.",
+    "signal_tags": ["negative_earnings", "china_demand", "mixed"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20261115-03",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of new flagship store concept with no independent critical verdict; discounted per activation-coverage rule.",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-20261115-04",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press descriptive coverage of same store concept rollout with light strategic framing but no strong independent verdict; activation-adjacent.",
+    "signal_tags": ["activation_coverage", "store_opening", "trade_press"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-20261115-05",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Heritage-and-strategy feature on Gucci Florence sites and F1/Alpine partnership; descriptive framing with no evaluative charge either way.",
+    "signal_tags": ["activation_coverage", "diversification"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-20261115-06",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Industry-wide supply-chain investment piece; Gucci not directly named, neutral/factual industrial-policy framing.",
+    "signal_tags": ["supply_chain", "industry_wide"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261115-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: factual no-layoffs restructuring announcement / counter: undercurrent of supplier-consolidation stress tied directly to the sales slump justifies a mild negative lean rather than pure neutrality.",
+    "signal_tags": ["negative_earnings", "supply_chain", "mixed", "restructuring"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261115-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: headline states business 'still declining' / counter: piece also previews Demna's forward-looking turnaround vision, so magnitude capped per mixed-but-decided rule.",
+    "signal_tags": ["negative_earnings", "mixed", "turnaround_plan"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-20261115-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Continuing AI-image backlash and Tom Ford-era nostalgia reflect organic criticism of current creative direction, damped as a continuation rather than a fresh viral spike.",
+    "signal_tags": ["design_criticism", "ai_controversy", "legacy_nostalgia"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-20261115-10",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Instagram campaign post; self-promotional content scored 0 per activation-coverage discount regardless of volume.",
+    "signal_tags": ["activation_coverage", "brand_owned", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-20261115-11",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: independent reviewer weighs whether Demna's reset has improved the brand / counter: verdict is mixed-to-cautiously-positive with no clear resolution, so coded neutral per two-sided-no-verdict rule.",
+    "signal_tags": ["mixed", "independent_review", "design_criticism"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-20261115-12",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Community reaction to Cruise 2027 show is explicitly split between praise and 'Balenciaga rehash' criticism with no dominant verdict; also stale, kept for channel coverage only.",
+    "signal_tags": ["mixed", "community", "design_criticism", "stale"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-20261115-13",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine grassroots product/authentication discussion threads, practical buyer chatter rather than brand-direction sentiment.",
+    "signal_tags": ["community", "product_discussion", "authentication"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-20261115-14",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale (many months old) organic purchase-intent thread included only to document source was checked; too old and thin to count as current signal.",
+    "signal_tags": ["community", "purchase_intent", "stale"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-20261115-15",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Artemis rebuts financial-strain narrative / counter: same debt/collateral exposure concerns are reiterated, so treated as a two-sided corroborate-and-rebut piece with no clear verdict.",
+    "signal_tags": ["mixed", "financial_press", "parent_company_risk"],
+    "confidence": 0.55
+  }
+]

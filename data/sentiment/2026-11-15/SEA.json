@@ -1,0 +1,119 @@
+[
+  {
+    "id": "SEA-2026-11-15-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering Q3 release documents Gucci sales -6%, APAC retail -9% on weak traffic, shares fell ~12%, 125+ store closures planned / counter: CEO frames recovery as priority but no offsetting positive data",
+    "signal_tags": ["negative_earnings", "primary_source"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-15-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gen Z consumers abandoning logo-led Gucci for value brands like Coach as 'outdated' / counter: no direct SEA data, China-focused leading indicator",
+    "signal_tags": ["value_for_money", "peer_comparison", "generational_shift"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-15-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic third-party influencer criticism questioning value-for-money on a high-priced Gucci t-shirt ('very hot' fabric)",
+    "signal_tags": ["quality_complaint", "value_for_money", "organic"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-15-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-owned promotional post about ambassadors wearing Gucci; self-praise is not public opinion",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-15-005",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan account circulating ambassador photos under fandom hashtag; genuine affinity but damped as repetitive fandom volume",
+    "signal_tags": ["fandom_trap", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-15-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of ambassador VIP treatment at brand event with no outlet evaluative verdict on Gucci itself",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-15-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic community thread questioning whether belt buckle irregularity is a quality defect, debating authenticity/QC",
+    "signal_tags": ["quality_complaint", "organic", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-15-008",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Lighthearted incidental pop-culture appreciation of Gucci pieces styled on anime characters; mild organic positive chatter",
+    "signal_tags": ["incidental_mention", "community", "pop_culture"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-15-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum debate net mildly skeptical of Gucci wallet leather quality justifying the price premium / counter: mixed views, some defend it",
+    "signal_tags": ["value_for_money", "mixed", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-15-010",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring counterfeit-Gucci prosecution coverage; brand-dilution/image-damage angle per rubric counterfeit rule",
+    "signal_tags": ["counterfeit", "brand_dilution"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-15-011",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: earnings call transcript details continued comparable sales decline and analyst pressure on weak China/Japan traffic ('recovery lags') / counter: management notes Korea resilience, no SEA-specific breakout",
+    "signal_tags": ["negative_earnings", "primary_source"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-15-012",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Aggregated TikTok fandom hashtag volume around ambassadors and Thailand retail presence; damped repetitive fan-event volume",
+    "signal_tags": ["fandom_trap", "ambassador", "sns"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-15-013",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Incidental mention of a Gucci-associated celebrity hosting an unrelated event; carries no evaluative content about Gucci",
+    "signal_tags": ["incidental_mention"],
+    "confidence": 0.85
+  }
+]

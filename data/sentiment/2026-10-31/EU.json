@@ -1,9 +1,0 @@
-[
-{"id":"EU-20261031-01","region":"EU","sentiment":0,"magnitude":0.5,"rationale":"thesis: Q3 figures reported in largely factual framing (-4% reported, store closures) / counter: headline stresses group stability offset by other brands","signal_tags":["negative_earnings","mixed"],"confidence":0.6},
-{"id":"EU-20261031-02","region":"EU","sentiment":-1,"magnitude":1.0,"rationale":"thesis: Kering 'sinks' up to 12.3% on steeper-than-expected Gucci decline, APAC -14% / counter: CFO cites higher ticket and Q4 launch timing","signal_tags":["negative_earnings","stock_drop","momentum"],"confidence":0.8},
-{"id":"EU-20261031-03","region":"EU","sentiment":-1,"magnitude":1.0,"rationale":"thesis: Gucci sales 'fall again', third straight yearly decline, no growth forecast, 125+ closures / counter: none material","signal_tags":["negative_earnings","store_closures","momentum"],"confidence":0.85},
-{"id":"EU-20261031-04","region":"EU","sentiment":-1,"magnitude":0.5,"rationale":"thesis: Kering falls 11%+ after Gucci Q3 decline, ~29% down YTD / counter: analyst views only from snippet, T3, unverified","signal_tags":["negative_earnings","stock_drop"],"confidence":0.6},
-{"id":"EU-20261031-05","region":"EU","sentiment":-1,"magnitude":0.5,"rationale":"thesis: Gucci sales disappoint and drag Milan luxury names lower / counter: snippet-only, date inferred","signal_tags":["negative_earnings","stock_drop"],"confidence":0.55},
-{"id":"EU-20261031-06","region":"EU","sentiment":0,"magnitude":0.5,"rationale":"Purely descriptive campaign write-up of brand activation, no evaluative verdict","signal_tags":["activation_coverage"],"confidence":0.85},
-{"id":"EU-20261031-07","region":"EU","sentiment":0,"magnitude":0.5,"rationale":"Descriptive bag campaign write-up (ambassador/photographers), no outlet verdict","signal_tags":["activation_coverage"],"confidence":0.85}
-]
