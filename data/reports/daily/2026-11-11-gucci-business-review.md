@@ -29,6 +29,8 @@
 
 상방(중간)은 박보검·스타렛·몽테뉴가 아시아 유입을 올려 팝업·플래그십 예약으로 확인되는 경우[5][11], 횡보는 앰배서더 열기가 SNS에 머물고 서구 가격·품질 서사가 지속되는 경우[9][14], 하방(낮음~중간)은 캐리 조롱이 구매 의향을 잠식하는 경우로 밈 재점화가 선행 지표다[8][12]. 지수 수치는 지수 해석 리포트 참조.
 
+![몽테뉴 56번지 신규 플래그십 '스토어 쇼' 콘셉트(뎀나·벨레티니)](https://wwd.com/wp-content/uploads/2026/10/gucci-store-avenue-montaigne-paris-dom-003.jpg?w=1200 "WWD|https://wwd.com/business-news/retail/gucci-demna-new-store-concept-avenue-montaigne-paris-1239392054/")
+
 
 ## 주석
 
@@ -83,6 +85,8 @@ Most reaction is staged activation or fandom spike, not purchase validation [1][
 ## 3. What to Watch
 
 Upside: Park Bo-gum, Starlet and Montaigne lift Asian footfall via pop-up and flagship appointments [5][11]. Baseline: ambassador heat stays on social while the Western price/quality story persists [9][14]. Downside: Mariah Carey mockery erodes holiday intent as TikTok/Threads memes re-ignite [8][12]. See the index report for figures.
+
+![New 56 Avenue Montaigne flagship, Store Show concept (Demna, Bellettini)](https://wwd.com/wp-content/uploads/2026/10/gucci-store-avenue-montaigne-paris-dom-003.jpg?w=1200 "WWD|https://wwd.com/business-news/retail/gucci-demna-new-store-concept-avenue-montaigne-paris-1239392054/")
 
 
 ## Notes
