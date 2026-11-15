@@ -36,13 +36,6 @@ run_core() {
   fi
 }
 
-# OPTIONAL steps: a failure is logged but does not fail the whole cycle.
-run_opt() {
-  echo "===== $1 ($(date +'%F %T')) ====="
-  timeout 30m claude -p "$1" --dangerously-skip-permissions || echo "WARN: optional step failed or timed out: $1"
-}
-
-
 export_site() {
   pip install --quiet pillow numpy >/dev/null 2>&1 || true
   python scripts/add_figures.py || echo "WARN: figures failed"
@@ -53,28 +46,55 @@ export_site() {
   kill "$SRV" 2>/dev/null || true
 }
 
+# Optional desk, at most once per day: a marker records success so a later run
+# (any cron slot) resumes only what is still missing; 3 failed tries give up.
+#   run_once <marker-name> <minutes> <command>
+EX="data/.extras/$START_DAY"
+PENDING=0
+run_once() {
+  [ -f "$EX/$1.done" ] && { echo "skip $3 (done today)"; return; }
+  tries=$(cat "$EX/$1.try" 2>/dev/null || echo 0)
+  [ "$tries" -ge 3 ] && { echo "::warning::giving up on $3 after 3 tries today"; return; }
+  echo $((tries + 1)) > "$EX/$1.try"
+  echo "===== $3 ($(date +'%F %T'), try $((tries + 1))) ====="
+  if timeout "${2}m" claude -p "$3" --dangerously-skip-permissions; then
+    touch "$EX/$1.done"
+  else
+    echo "::warning::optional step failed or timed out: $3"
+    [ "$tries" -lt 2 ] && PENDING=1
+  fi
+}
+
 if [ "$PHASE" = "extras" ]; then
-  run_opt  "/cd-watch"
+  mkdir -p "$EX"
+  find data/.extras -mindepth 1 -maxdepth 1 ! -name "$START_DAY" -exec rm -rf {} +
+  DOW=$(date -d "$START_DAY" +%u)
+
+  # Mondays (KST): the weekly luxury trend report + product board come FIRST —
+  # they are the scheduled deliverables; the rolling desks below can wait.
+  if [ "$DOW" = "1" ]; then
+    run_once weekly-luxury 100 "/weekly-luxury"
+    run_once gucci-products 45 "/gucci-products"
+  fi
 
   # Fridays (KST): the full WEEKLY REVIEW — the dailies are short reads since 2026-10-31.
-  if [ "$(date +%u)" = "5" ]; then
-    run_opt "/weekly-review"
+  if [ "$DOW" = "5" ]; then
+    run_once weekly-review 100 "/weekly-review"
   fi
+
+  run_once cd-watch 40 "/cd-watch"
 
   # Special/Event desk cadence guard: a fresh deep-dive at least every 3 days.
   # Content dates (see special_age.py), NOT os.path.getmtime — a fresh checkout
   # resets every mtime, so an mtime-based age would always read ~0 and never fire.
   if ! python scripts/special_age.py; then
-    run_opt "/gucci-special auto"
+    run_once gucci-special 45 "/gucci-special auto"
   fi
 
-  if [ "$(date +%u)" = "1" ]; then
-    run_opt "/gucci-products"
-    run_opt "/weekly-luxury"
-  fi
-
+  # all.done = nothing left to retry today (the workflow guard reads it).
+  [ "$PENDING" = "0" ] && touch "$EX/all.done"
   export_site
-  echo "cloud extras phase complete ($(date +'%F %T'))"
+  echo "cloud extras phase complete ($(date +'%F %T'), pending=$PENDING)"
   exit 0
 fi
 

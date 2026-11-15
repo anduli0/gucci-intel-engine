@@ -29,7 +29,7 @@ concurrency:
 jobs:
   intelligence:
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    timeout-minutes: 355
     env:
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}  # optional; Instagram brand heat
@@ -56,6 +56,12 @@ jobs:
             && [ -f "data/reports/daily/${today}-index-interpretation.md" ] \
             && [ -f "data/reports/daily/${today}-gucci-business-review.md" ]; then
             echo "done=true" >> "$GITHUB_OUTPUT"
+            # Optional desks (Monday weekly trend, cd-watch, special...) are tracked
+            # separately: if core is done but they are not, this run does them.
+            if [ ! -f "data/.extras/${today}/all.done" ]; then
+              echo "extras=todo" >> "$GITHUB_OUTPUT"
+              echo "Optional desks for ${today} not finished — will run them."
+            fi
             # With a slot every 30 min, skip the republish too once the site
             # repo already serves today (keeps the extra slots ~free).
             site_date=$(curl -sf --max-time 20 "https://raw.githubusercontent.com/anduli0/gucci-intel-site/main/api/summary?cb=$RANDOM" \
@@ -71,7 +77,7 @@ jobs:
           fi
 
       - uses: actions/setup-node@v4
-        if: steps.guard.outputs.done == 'false'
+        if: steps.guard.outputs.done == 'false' || steps.guard.outputs.extras == 'todo'
         with:
           node-version: 20
 
@@ -80,7 +86,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install Claude Code
-        if: steps.guard.outputs.done == 'false'
+        if: steps.guard.outputs.done == 'false' || steps.guard.outputs.extras == 'todo'
         run: npm install -g @anthropic-ai/claude-code
 
       # Phase 1 (core): must succeed. Published IMMEDIATELY afterwards.
@@ -109,20 +115,19 @@ jobs:
       # Phase 2 (extras): cd-watch / special / weekly. Time-boxed; can never block
       # or undo the publish above.
       - name: Run optional desks (extras)
-        if: steps.guard.outputs.done == 'false'
+        if: steps.guard.outputs.done == 'false' || steps.guard.outputs.extras == 'todo'
         continue-on-error: true
-        timeout-minutes: 110
+        timeout-minutes: 200
         run: bash scripts/cloud-daily.sh extras
 
       - name: Publish extras (commit data + site)
-        if: steps.guard.outputs.done == 'false' && !cancelled()
-        continue-on-error: true
+        if: (steps.guard.outputs.done == 'false' || steps.guard.outputs.extras == 'todo') && !cancelled()
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: bash scripts/cloud-publish.sh commit
 
       - name: Export static site (republish path)
-        if: steps.guard.outputs.done == 'true' && steps.guard.outputs.publish != 'false'
+        if: steps.guard.outputs.done == 'true' && steps.guard.outputs.extras != 'todo' && steps.guard.outputs.publish != 'false'
         run: |
           python app/server.py --port 8790 &
           sleep 3
@@ -130,7 +135,7 @@ jobs:
           kill %1 2>/dev/null || true
 
       - name: Publish site (republish path)
-        if: steps.guard.outputs.done == 'true' && steps.guard.outputs.publish != 'false'
+        if: steps.guard.outputs.done == 'true' && steps.guard.outputs.extras != 'todo' && steps.guard.outputs.publish != 'false'
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: bash scripts/cloud-publish.sh
