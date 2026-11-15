@@ -30,7 +30,7 @@ fi
 CORE_FAILED=0
 run_core() {
   echo "===== $1 ($(date +'%F %T')) ====="
-  if ! timeout 80m claude -p "$1" --dangerously-skip-permissions; then
+  if ! timeout 150m claude -p "$1" --dangerously-skip-permissions; then
     echo "::error::CORE step failed: $1"
     CORE_FAILED=1
   fi
@@ -78,7 +78,12 @@ if [ "$PHASE" = "extras" ]; then
   exit 0
 fi
 
+# Resume: a retry after a partial failure skips desks whose output already exists
+# (the workflow saves partial data even when core fails).
+D=data/reports/daily/$START_DAY
+if [ -s "data/news/$START_DAY.json" ]; then echo "skip /news-scrap (exists)"; else
 run_core "/news-scrap"
+fi
 # Engagement metrics: plain script, never left to an LLM step (which may skip it).
 python scripts/collect_engagement.py "$START_DAY" || echo "WARN: engagement collection failed"
 python scripts/collect_buzz.py "$START_DAY" || echo "WARN: buzz scan failed"
@@ -86,7 +91,9 @@ python scripts/collect_sov.py "$START_DAY" || echo "WARN: sov scan failed"
 # Methodology monitoring (writes data/analysis, never touches the index)
 pip install --quiet scipy >/dev/null 2>&1 || true
 python scripts/analyze_interaction_weights.py "$START_DAY" >/dev/null || echo "WARN: interaction-weight analysis failed"
+if [ -s "$D-index-interpretation.md" ] && [ -s "$D-gucci-business-review.md" ]; then echo "skip /daily-gucci (exists)"; else
 run_core "/daily-gucci"
+fi
 # Integrity gate: when engagement data exists, the index MUST carry the v2.3
 # estimator. If the LLM step skipped/used a stale computation, recompute
 # deterministically (same inputs -> idempotent) and flag it in the log.
@@ -96,7 +103,9 @@ if [ -d "data/engagement/$START_DAY" ] && [ -f "data/index/$START_DAY.json" ]; t
     python scripts/compute_gmai.py "$START_DAY" || echo "WARN: recompute failed"
   fi
 fi
+if [ -s "$D-luxury-brief.md" ]; then echo "skip /daily-brief (exists)"; else
 run_core "/daily-brief"
+fi
 # Magazine layout: one photo per section in every report (deterministic, hotlinked og:image).
 pip install --quiet pillow numpy >/dev/null 2>&1 || true
 python scripts/add_figures.py || echo "WARN: figures failed"
