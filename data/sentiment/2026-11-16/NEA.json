@@ -1,0 +1,146 @@
+[
+  {
+    "id": "NEA-2026-11-16-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador/activation write-up on Park Bo-gum's role, no independent evaluative verdict from outlet.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-16-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press roundup descriptively covering Gucci's LACMA gala alongside unrelated Cartier/BTS V news, no verdict.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-16-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Thesis: quiet, unannounced year-end price hikes across multiple lines drawing consumer criticism; clear negative narrative with specifics.",
+    "signal_tags": ["price_hike", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-16-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Thesis: luxury sales growth sharply decelerating with Gucci comparable sales down 6% YoY cited as key evidence of the pullback.",
+    "signal_tags": ["negative_earnings", "momentum"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-16-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Thesis: Gucci revenue fell 6% comparable with retail down 9% on weak China/APAC/Japan traffic, framed as the group's top recovery priority.",
+    "signal_tags": ["negative_earnings", "momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-16-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Thesis: 11 consecutive quarters of declining sales and plans to close 100+ stores framed as the brand having 'half-collapsed' in three years.",
+    "signal_tags": ["negative_earnings", "momentum", "store_closures"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-16-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Thesis: Shanghai store closure framed as possible signal of wider luxury retreat from China; counter: flagship upgrades to experiential formats continuing, so magnitude capped.",
+    "signal_tags": ["mixed", "store_closures", "china_retail"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-16-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Two-sided FAQ-style explainer covering Demna's debut, 105 store closures, and new Made-in-China line with no clear verdict; templated aggregator post damped further.",
+    "signal_tags": ["mixed", "activation_coverage"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-16-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic product-usage chatter about an eyewear style tied to a celebrity, purely practical/informational, no evaluative stance on the brand.",
+    "signal_tags": ["organic_ugc"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-16-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Thesis: long-form essay frames the collection as 'fierce opposition' and genuinely debates whether direction will revive or alienate customers, no verdict reached.",
+    "signal_tags": ["mixed", "creative_direction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-16-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom thread reacting to ambassador's appearance/styling rather than evaluating the brand itself; fandom spike damped to neutral per trap guidance.",
+    "signal_tags": ["fandom", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-16-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Thesis: community post criticizes build quality of a Gucci slipper, comparing it unfavorably to basic military sandals; recurring minor QC complaint.",
+    "signal_tags": ["quality_complaint"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-16-013",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan SNS post celebrating Ningning's ambassador appointment with explicit approval of the brand's choice; fandom spike damped to mag 0.5.",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-16-014",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-account amplification of ambassador editorial photos, descriptive sharing without independent evaluative content on the brand.",
+    "signal_tags": ["fandom", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-16-015",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador interview where Ningning praises Demna's design direction; third-party-adjacent but ambassador/activation context caps it at neutral-leaning descriptive coverage per activation discount.",
+    "signal_tags": ["activation_coverage", "ambassador", "creative_direction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-16-016",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Photo-led wire coverage of ambassador at gala, purely descriptive activation write-up with no outlet verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  }
+]

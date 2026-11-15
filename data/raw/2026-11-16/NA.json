@@ -1,0 +1,140 @@
+{
+  "region": "NA",
+  "date": "2026-11-16",
+  "coverage": {
+    "checked": [
+      "The New York Times", "The Wall Street Journal", "The Washington Post", "CNBC",
+      "CNN Style", "Forbes", "Fortune", "Los Angeles Times", "Harper's Bazaar US",
+      "GQ", "Elle US", "People", "Page Six", "Hypebeast", "Highsnobiety",
+      "Robb Report", "WWD", "Instagram", "TikTok", "YouTube", "X (Twitter)",
+      "Facebook", "Pinterest", "Bluesky", "PurseForum", "PurseBlog",
+      "The Fashion Spot", "Styleforum", "Reddit"
+    ],
+    "with_hits": [
+      "WWD", "The Impression", "Yahoo Entertainment (TikTok/fan reaction roundup)",
+      "YouTube", "PurseForum", "PurseBlog"
+    ],
+    "dry": [
+      "The New York Times", "The Wall Street Journal", "The Washington Post", "CNBC",
+      "CNN Style", "Forbes", "Fortune", "Los Angeles Times", "Harper's Bazaar US",
+      "GQ", "Elle US", "People", "Page Six", "Hypebeast", "Highsnobiety", "Robb Report",
+      "Instagram (no fresh indexable NA-specific post beyond what's syndicated elsewhere)",
+      "Facebook", "Pinterest", "Bluesky", "X (Twitter) (no new NA-specific thread beyond Nov 15 pool)",
+      "Reddit (no fresh indexable NA-specific Gucci threads surfaced via public web search today)",
+      "Styleforum", "The Fashion Spot (no new item beyond Nov 15 pool)"
+    ]
+  },
+  "items": [
+    {
+      "id": "NA-2026-11-16-001",
+      "region": "NA",
+      "source": "The Impression",
+      "source_type": "news",
+      "tier": "T2_by_region_NA",
+      "url": "https://theimpression.com/gucci-and-moda-operandi-celebrate-guccicore-collection-in-new-york",
+      "published_at": "2026-11-11",
+      "title": "Gucci and Moda Operandi Celebrate GucciCore Collection in New York",
+      "summary": "The Impression's recap of the Nov 11 Oriana cocktail reception in Nolita, led by Moda Operandi's Lauren Santo Domingo, to launch Gucci's GucciCore wardrobe-staples line (peacoats, trench coats, suiting) plus the new Starlet crossbody; attendees included models Alex Consani, Anok Yai and Aweng Chuol alongside Nicky Hilton and Ziwe, though the piece is descriptive with no quoted attendee reactions.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-2026-11-16-002",
+      "region": "NA",
+      "source": "WWD",
+      "source_type": "news",
+      "tier": "T1",
+      "url": "https://wwd.com/business-news/human-resources/gucci-new-business-units-structure-1239399916/",
+      "published_at": "2026-11-13",
+      "title": "Gucci Sets Up New Business Units' Organization",
+      "summary": "WWD reports Gucci created product-category business units (leather goods, women's RTW, men's RTW/shoes) reporting to new chief product officer Marcello Costa, part of CEO Francesca Bellettini's continued restructuring to support Demna's creative direction with 'clearer responsibilities' between runway and core-collection design teams.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-2026-11-16-003",
+      "region": "NA",
+      "source": "Yahoo Entertainment",
+      "source_type": "news",
+      "tier": "T2_general",
+      "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/fans-disappointed-over-mariah-careys-130043587.html",
+      "published_at": "2026-11-05",
+      "title": "Fans 'Disappointed' Over Mariah Carey's 'Depressing' Gucci Holiday Campaign",
+      "summary": "Yahoo's roundup of TikTok and social reaction to Gucci's Harmony Korine-directed holiday film with Mariah Carey finds largely negative sentiment: viewers called the ad 'cold,' 'emotionless,' and compared its tone to a horror series, with one comment likening it to 'JCPenney trying to be luxury'; a minority praised Carey's styling.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-2026-11-16-004",
+      "region": "NA",
+      "source": "YouTube",
+      "source_type": "sns",
+      "tier": "T3",
+      "url": "https://www.youtube.com/watch?v=MNzkRFSgzwE",
+      "published_at": "2026-11-02",
+      "title": "Gucci Gift with Mariah Carey (official film)",
+      "summary": "Gucci's official YouTube upload of the Harmony Korine-directed holiday film has surpassed 4.5 million views; public comment sentiment skews mixed-to-negative per cross-platform reaction coverage, consistent with the TikTok backlash reported by Yahoo and entertainment press.",
+      "reach": 4500000,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-2026-11-16-005",
+      "region": "NA",
+      "source": "PurseForum (PurseBlog)",
+      "source_type": "community",
+      "tier": "T3",
+      "url": "https://forum.purseblog.com/threads/gucci-price-increase.1043114/",
+      "published_at": "2026-11-14",
+      "title": "Gucci price increase thread (ongoing, NA members posting)",
+      "summary": "Long-running PurseForum thread on Gucci's repeated price hikes continues to draw fresh NA posts; members are split, with several saying post-increase pieces 'didn't feel the quality was up to par' and comparing the Marmont line's leather feel unfavorably to Coach, while others defend recent craftsmanship as 'comparable to other luxury brands' despite a cited roughly 30% one-year increase on some styles.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
+      "id": "NA-2026-11-16-006",
+      "region": "NA",
+      "source": "PurseForum (PurseBlog)",
+      "source_type": "community",
+      "tier": "T3",
+      "url": "https://forum.purseblog.com/threads/2026-gucci-flora.1081974/",
+      "published_at": "2026-11-13",
+      "title": "2026 Gucci Flora - PurseForum thread",
+      "summary": "Community thread on the new Gucci Flora coated-canvas tote, bucket bag and Gossip bag; members called the tote 'STUNNING' on sight but several flagged construction concerns, noting it 'has no lining or pockets and weighs very little' for the price point, an unprompted quality/value critique alongside the praise.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 6,
+    "Louis Vuitton": 0,
+    "Dior": 0,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0,
+    "Hermès": 0,
+    "Loewe": 0,
+    "Miu Miu": 0,
+    "Celine": 0,
+    "Fendi": 0,
+    "Valentino": 0,
+    "Givenchy": 0,
+    "Versace": 0,
+    "Armani": 0,
+    "Dolce & Gabbana": 0
+  }
+}

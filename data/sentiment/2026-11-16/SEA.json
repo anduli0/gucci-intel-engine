@@ -1,0 +1,101 @@
+[
+  {
+    "id": "SEA-2026-11-16-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering/Gucci turnaround delays straining shoppers and shareholders amid Q3 comps down 6% and APAC traffic weakness / counter: none offered, unambiguous critical verdict",
+    "signal_tags": ["negative_earnings", "trade_press_critical", "apac_traffic"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-16-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Company-sourced admission that Asia distribution overexpansion eroded desirability and left stores feeling outdated; direct negative self-assessment, not promo",
+    "signal_tags": ["negative_earnings", "company_admission", "overexpansion", "store_saturation"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-16-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit seizure coverage signals brand-dilution/image risk rather than direct brand action; mild negative per counterfeit trap guidance",
+    "signal_tags": ["counterfeit", "brand_dilution"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-16-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador retrospective fan-service write-up with no independent critical verdict; activation/fandom coverage capped at neutral-to-mild",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-16-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand/venue-owned promotional post of ambassador event recirculating in fan threads; self-promo is not public opinion, damped per fandom-spike trap",
+    "signal_tags": ["activation_coverage", "fandom", "brand_owned"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-16-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Recirculated brand-owned event post with low-level fan recirculation; no independent evaluative content, neutral per promo discount",
+    "signal_tags": ["activation_coverage", "fandom", "brand_owned"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-16-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: genuine organic community chatter mixes positive purchase accounts with recurring value-for-money skepticism vs Hermes/LV / counter: no net verdict, two-sided with no resolution",
+    "signal_tags": ["mixed", "value_for_money", "community_chatter"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-16-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Active secondhand resale listings indicate steady demand but no verifiable price-direction or evaluative claim is made",
+    "signal_tags": ["secondhand_market", "resale_chatter"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-16-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregate fan-content hashtag volume signal with no accessible engagement or evaluative content; fandom spike damped to neutral-mild",
+    "signal_tags": ["fandom", "activation_coverage", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-16-010",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit crackdown enforcement story corroborating a sustained Vietnam fake-goods narrative; mild negative per counterfeit trap, discounted for recency/staleness",
+    "signal_tags": ["counterfeit", "brand_dilution", "stale_but_corroborating"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-16-011",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of Primavera FW2026 collection framed as a 'new era' but without independent critical judgment beyond press-kit framing; capped at neutral per activation discount",
+    "signal_tags": ["activation_coverage", "collection_coverage"],
+    "confidence": 0.65
+  }
+]

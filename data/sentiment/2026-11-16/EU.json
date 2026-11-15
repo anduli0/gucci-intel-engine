@@ -1,0 +1,164 @@
+[
+  {
+    "id": "EU-2026-11-16-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci-staged flagship opening with no independent evaluative verdict; activation discount applies.",
+    "signal_tags": ["activation_coverage", "store_opening", "retail"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-16-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Lifestyle-press descriptive follow-up on store concept/interior, no independent critical judgment offered.",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-16-003",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade outlet reframes opening as 'redesigning retail' but stays descriptive of the strategy, no independent verdict on success.",
+    "signal_tags": ["activation_coverage", "store_opening", "turnaround_plan"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-16-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci/Demna cited as unresolved test case for whether a star designer fixes a brand / counter: no verdict reached, genuine two-sided industry analysis.",
+    "signal_tags": ["mixed", "creative_direction", "trade_analysis"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-16-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive coverage of brand-staged holiday campaign launch with ambassador; no third-party verdict, activation discount applies.",
+    "signal_tags": ["activation_coverage", "campaign", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-16-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Kering group stabilizing but Gucci store traffic remains weak and recovery unresolved / counter: group-level stability noted; dominant thesis is Gucci-specific weakness.",
+    "signal_tags": ["negative_earnings", "traffic", "recovery_question"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-16-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Stock slip tied explicitly to continued uncertainty over Gucci's sales recovery; mild magnitude as the dip itself is small.",
+    "signal_tags": ["negative_earnings", "stock", "recovery_question"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-16-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained negative framing ('chute'/fall) quantifying wealth cost of Gucci's multi-year revenue decline to Pinault family; unambiguous negative thesis.",
+    "signal_tags": ["negative_earnings", "decline", "governance"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-16-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: recent review stream dominated by store-experience complaints (ignored customers, failed flagship appointment) / counter: one 5-star shoe-quality review present; negative dominates per source summary.",
+    "signal_tags": ["mixed", "customer_service", "store_experience", "qc_complaint"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-16-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Collector-practical community discussion (authentication, fit, leather quality) without a clear evaluative verdict toward the brand overall.",
+    "signal_tags": ["community", "authentication", "product_quality"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-16-011",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: GucciCore reads softer/more refined, making Gucci desirable again / counter: some threads call it derivative of Tom Ford codes; cautiously positive dominant read, mixed-but-decided magnitude cap.",
+    "signal_tags": ["mixed", "creative_direction", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-16-012",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Pre-Fall 2026 reads as a Tom Ford nostalgia retread rather than genuine creative reset / counter: acknowledges aim to reassure lapsed shoppers; dominant framing is skeptical/critical.",
+    "signal_tags": ["mixed", "creative_direction", "independent_review"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-16-013",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent reviewer concludes 2026 reset shows real improvement in product desirability across RTW and beauty versus prior era; unambiguous positive verdict.",
+    "signal_tags": ["independent_review", "creative_direction", "beauty", "product_quality"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-16-014",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned ambassador promo post; self-praise/activation is not public opinion per rubric.",
+    "signal_tags": ["activation_coverage", "ambassador", "brand_owned"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-16-015",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci under Demna has lost its prior design identity / counter: deliberate rupture might still be the commercially correct move; genuine two-sided weigh-up with no settled verdict.",
+    "signal_tags": ["mixed", "creative_direction", "independent_commentary"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-16-016",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Critical essay's dominant thesis is a multi-year identity crisis and lack of coherent design voice post-Michele; Demna framed as latest attempt to fix it, not a resolution.",
+    "signal_tags": ["design_criticism", "creative_direction", "independent_commentary"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-16-017",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Background labor-dispute item (outside freshness window): unions declared state of agitation over denied welfare bonus; genuine labor controversy, kept for context only.",
+    "signal_tags": ["labor", "controversy", "background_outside_window"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-16-018",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Background strategy item (outside freshness window): factual report of de Meo's store-reduction/handbag-focus plan, no evaluative framing.",
+    "signal_tags": ["negative_earnings", "strategy", "background_outside_window"],
+    "confidence": 0.6
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NA-2026-11-16-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive GucciCore/Moda Operandi activation recap with no outlet evaluative verdict or quoted attendee reaction.",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-16-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade-press report on internal org restructuring; no evaluative verdict on brand perception.",
+    "signal_tags": ["corporate_structure"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-16-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: TikTok/fan reaction largely negative, calling holiday film 'cold,' 'emotionless,' 'depressing' / counter: minority praised Carey's styling.",
+    "signal_tags": ["mixed", "campaign_backlash", "fandom"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-16-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: cross-platform comment sentiment on official film skews mixed-to-negative / counter: high view count (4.5M) shows reach not approval.",
+    "signal_tags": ["mixed", "campaign_backlash"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-16-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: price-hike (~30% YoY) and quality complaints, leather feel compared unfavorably to Coach / counter: some members defend craftsmanship as comparable to luxury peers.",
+    "signal_tags": ["mixed", "price_hike_backlash", "quality_complaint"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-16-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: strong visual praise ('STUNNING') for new Flora tote / counter: unprompted construction critique (no lining/pockets, feels light for price) — genuine two-sided weigh-up with no clear verdict.",
+    "signal_tags": ["mixed", "quality_complaint"],
+    "confidence": 0.55
+  }
+]
