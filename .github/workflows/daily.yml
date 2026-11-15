@@ -94,6 +94,18 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: bash scripts/cloud-publish.sh commit
 
+      # Core failed part-way: keep what was produced so the next run resumes
+      # instead of redoing finished desks (data only, no site publish).
+      - name: Save partial data on core failure
+        if: failure() && steps.guard.outputs.done == 'false'
+        run: |
+          git config user.name "gucci-intel-bot"
+          git config user.email "minkyu494@gmail.com"
+          git add data
+          git commit -m "data: $(date +'%F %H:%M') partial cycle (core failed)" || exit 0
+          git pull --rebase origin main || true
+          git push || echo "push skipped"
+
       # Phase 2 (extras): cd-watch / special / weekly. Time-boxed; can never block
       # or undo the publish above.
       - name: Run optional desks (extras)
