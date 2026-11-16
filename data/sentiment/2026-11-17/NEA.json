@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NEA-2026-11-17-001",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cut framed as industry confession that years of overpricing backfired / counter: price itself is consumer-friendly, but dominant frame is strategic failure admission",
+    "signal_tags": ["price_hike_backlash", "mixed", "negative_earnings"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-17-002",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Frames Gucci's price cut as a sign of competitive weakness amid a three-year sales slump, contrasted against LV's restraint",
+    "signal_tags": ["negative_earnings", "value_for_money", "peer_comparison"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-17-003",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Consumer-advocacy backlash alleging Korea is treated as a price-gouging test market via repeated unannounced hikes, citing prior EU antitrust fine",
+    "signal_tags": ["price_hike_backlash", "controversy"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-17-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Ningning's LACMA gala look, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-17-005",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation write-up with outlet's own admiring evaluative language on ambassadors' gala looks, capped per activation-discount rule",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-17-006",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Reports strong fan reaction and praise ('hip') for ambassador's Gucci look, but is fandom-driven celebrity coverage riding an activation, damped",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-17-007",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press analysis: price cuts unlikely to reverse falling China traffic; Q3 sales fell further and consumers read discounting as proof of past overpricing",
+    "signal_tags": ["negative_earnings", "value_for_money", "independent_judgment"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-17-008",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Largely descriptive factual reporting of Park Bo-gum's ambassador appointment with brief strategic context, no independent verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-17-009",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: frames store closures, Demna debut, and China manufacturing shift as a brand in uncertain transition / counter: templated SEO explainer format, low organic signal",
+    "signal_tags": ["mixed", "negative_earnings", "low_confidence"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-17-010",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Duplicate-family templated post adding full-year sales fell 23% and dragged Kering profit, framing store closures/Made-in-China as defensive not confident; low-confidence organic-volume signal",
+    "signal_tags": ["negative_earnings", "low_confidence"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-17-011",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Price-gap comparison implicitly critical of China pricing (up to 10,900 RMB savings buying abroad), despite templated consumer-finance format",
+    "signal_tags": ["price_hike_backlash", "value_for_money"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-17-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Skeptical consumer take questioning motive behind price cuts, but full text inaccessible and only title/snippet available, demoted for low confidence",
+    "signal_tags": ["low_confidence", "price_hike_backlash"],
+    "confidence": 0.35
+  },
+  {
+    "id": "NEA-2026-11-17-013",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned/ambassador's own announcement post of Gucci role amplified by fans; activation/fandom coverage with no independent engagement data",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-17-014",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-community photo-sharing thread with admiring commentary on ambassador's appearance, fandom volume rather than brand-evaluative discussion, damped",
+    "signal_tags": ["fandom", "activation_coverage"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NEA-2026-11-17-015",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Niche community hands-on pros/cons watch discussion, mixed-to-lukewarm with no clear dominant verdict, two-sided weigh-up",
+    "signal_tags": ["mixed", "product_quality"],
+    "confidence": 0.5
+  }
+]

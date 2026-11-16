@@ -1,0 +1,146 @@
+[
+  {
+    "id": "EU-2026-11-17-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-staged show announcement (what/who/where), no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "show_announcement"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-17-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade press frames the Shanghai Cruise announcement as strategic signal within Kering turnaround; descriptive, no outlet verdict on Gucci itself.",
+    "signal_tags": ["activation_coverage", "china_strategy"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-17-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive French trade write-up of the same show announcement, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "show_announcement"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-17-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explicitly descriptive German trade write-up of the show announcement, no verdict.",
+    "signal_tags": ["activation_coverage", "show_announcement"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-17-005",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Mostly descriptive activation write-up with only light editorial framing, not a clear independent verdict; activation discount applies.",
+    "signal_tags": ["activation_coverage", "china_strategy"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-17-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci desirability rekindling fails to translate into sales, Q3 sales down 4% and share of group revenue sliding / counter: CEO cites softer macro and recovery as priority - but sustained negative framing of underperformance dominates.",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-17-007",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: declining store traffic means the quarter does not prove a sustainable Gucci recovery / counter: conversion and ticket size improving - dominant verdict is unresolved Gucci problem.",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-17-008",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: de Meo turnaround plan implicitly acknowledges unproductive retail footprint needing mass closures/relocations / counter: plan framed as proactive strategy - mixed but decided toward current weakness.",
+    "signal_tags": ["mixed", "negative_earnings", "retail_footprint"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-17-009",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent third-party roundup of organic fan reaction calling the holiday campaign cold, sterile, boring and comparing it to budget-store luxury; genuine negative public opinion, not brand-owned.",
+    "signal_tags": ["campaign_backlash", "design_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-17-010",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Independent TikTok reaction video mocking the holiday ad as emotionless/horror-like; organic but single-creator clip, part of a wider wave so damped to mild magnitude.",
+    "signal_tags": ["campaign_backlash", "fandom_spike"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-17-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned promotional posts on Gucci's own account; self-praise is not public opinion per rubric.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-17-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: genuine two-sided consumer split, some say drop feels cool and young, others say it strays from heritage codes, no dominant verdict / counter: n/a - neutral per mixed rule.",
+    "signal_tags": ["mixed", "product_drop"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-17-013",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent consumer forum chat largely appreciative of Flora craftsmanship and colorways, low emotional intensity.",
+    "signal_tags": ["purchase_intent", "quality_praise"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-17-014",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent forum-buzz nostalgia for Tom Ford-era styling in new campaign is broadly positive, though framed partly as implicit critique of Demna's runway output, capping magnitude.",
+    "signal_tags": ["design_praise", "nostalgia"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-17-015",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci under Demna has lost coherent house identity / counter: disruption could be deliberate and eventually commercially effective - genuinely two-sided with no firm verdict, tagged mixed.",
+    "signal_tags": ["mixed", "design_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-17-016",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci isn't failing, it has deliberately narrowed its audience rather than lost relevance / counter: acknowledges the dominant 'failing' narrative exists - independent contrarian defense decided in Gucci's favor, capped magnitude for mixed undertone.",
+    "signal_tags": ["mixed", "favorable_trade_press"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-17-017",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brief descriptive intel note on the Shanghai show announcement, framed via sector-wide China courtship context, no independent verdict on Gucci.",
+    "signal_tags": ["activation_coverage", "china_strategy"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-17-018",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: skeptical case study on whether star-designer-led fixes work inside squeezed conglomerate structures, using Gucci/Demna as example / counter: analytical rather than purely Gucci-specific condemnation - decided negative-leaning but diluted by broader framing.",
+    "signal_tags": ["mixed", "design_criticism", "momentum_press"],
+    "confidence": 0.6
+  }
+]

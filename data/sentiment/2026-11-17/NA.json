@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NA-2026-11-17-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive WWD write-up of Mariah Carey holiday campaign with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-17-002",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic TikTok consumer backlash calling the Carey holiday ad cold/sterile/depressing; backlash is not subject to activation discount.",
+    "signal_tags": ["campaign_backlash", "consumer_reaction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-17-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fashion-commentary blog describes the Carey campaign largely descriptively without a strong independent verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-17-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of GucciCore NYC cocktail event with guest list; no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "event"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-17-005",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive strategic announcement of Shanghai Cruise 2028 show marking China anniversary; no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "strategic_announcement"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-17-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering Q3 2026 results show Gucci revenue down and NA retail sales turning negative with raised store-closure target; stock sank on the print.",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-17-007",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: headline/forum consensus brands Demna's Generation Gucci campaign a 'flop'/'trash' / counter: none offered in summary - unambiguous critical verdict on creative direction.",
+    "signal_tags": ["design_criticism", "stale_context"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-17-008",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Outlet haul video poses an open 'worth it?' question rather than asserting a verdict; mild outlet-dependent image signal only.",
+    "signal_tags": ["outlet_discount", "question"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-17-009",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Creator expresses mild excitement finally accessing the Gucci outlet; incidental positive consumer enthusiasm.",
+    "signal_tags": ["outlet_discount", "consumer_enthusiasm"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-17-010",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: review explicitly poses 'is Gucci good again' as an open question / counter: no clear resolved verdict reported - two-sided framing with no stated conclusion.",
+    "signal_tags": ["mixed", "independent_review"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-17-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard independent product review covering fit/capacity/styling with no stated positive or negative verdict in available summary.",
+    "signal_tags": ["independent_review"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-17-012",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Long-running PurseForum thread on hardware fading, stitching issues and price-vs-quality complaints; organic QC criticism.",
+    "signal_tags": ["quality_complaint", "value_dispute"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-17-013",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Companion PurseForum thread with members defending Gucci's durability citing well-preserved vintage canvas pieces.",
+    "signal_tags": ["quality_praise", "resale_durability"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-17-014",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: headline frames Instagram reaction to AI-generated campaign imagery as 'backlash' / counter: some commenters defended it aesthetically - confidence below 0.5 (stale Feb 2026 context, unclear attribution) so polarity demoted to neutral per rubric.",
+    "signal_tags": ["mixed", "ai_controversy", "stale_context"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NA-2026-11-17-015",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Background Hypebeast feature descriptively covering Demna's cultural framing of Gucci; no evaluative verdict, stale context item.",
+    "signal_tags": ["activation_coverage", "stale_context"],
+    "confidence": 0.5
+  }
+]

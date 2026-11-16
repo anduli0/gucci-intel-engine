@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "id": "SEA-2026-11-17-001",
+      "region": "SEA",
+      "source": "Tatler Asia",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://www.tatlerasia.com/style/fashion/bts-jin-best-gucci-looks",
+      "published_at": "2026-11-04",
+      "title": "Gucci and BTS Jin: 9 of the global ambassador's best looks",
+      "summary": "Tatler Asia (Singapore-based, pan-Asia readership) runs a retrospective of BTS Jin's looks as Gucci global brand ambassador, from Milan Fashion Week front rows to his 'Arirang' tour stage, framing him as blending Gucci's rock heritage with Italian tailoring. The piece is a descriptive fan-service retrospective built around embedded Instagram posts with no independent critical verdict on the brand.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "signal_tags": ["activation_coverage", "ambassador"]
+    },
+    {
+      "id": "SEA-2026-11-17-002",
+      "region": "SEA",
+      "source": "mega-asia.com",
+      "source_type": "news",
+      "tier": "T2",
+      "url": "https://mega-asia.com/fashion/features/gucci-honors-artists-at-the-15th-annual-lacma-artfilm-gala/",
+      "published_at": "2026-11-12",
+      "title": "Gucci honors artists at the 15th annual LACMA Art+Film Gala",
+      "summary": "Regional Asia lifestyle outlet covers Gucci's sponsorship of the Nov 7 LACMA Art+Film Gala in Los Angeles, co-chaired by creative director Demna and CEO Francesca Bellettini, honoring artist Vija Celmins and filmmaker Denis Villeneuve. Highlights aespa's Ningning (Gucci global ambassador with a large pan-Asian including Southeast Asian fan base) and Rose on the red carpet; framed as brand-partnership prestige coverage with no independent critical angle.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "signal_tags": ["activation_coverage", "ambassador"]
+    },
+    {
+      "id": "SEA-2026-11-17-003",
+      "region": "SEA",
+      "source": "X (Twitter)",
+      "source_type": "sns",
+      "tier": "T3",
+      "url": "https://x.com/aespapic/status/2115277521428365360",
+      "published_at": "2026-11-13",
+      "title": "NINGNING x Gucci for W Korea November 2026 Issue fan posts",
+      "summary": "Fan accounts in the aespa stan network, which has substantial Southeast Asian followership, circulate and celebrate Ningning's Gucci-styled W Korea November issue spread, continuing momentum from her LACMA gala appearance days earlier. Posts are enthusiastic fan admiration, not independent critical assessment of the brand.",
+      "reach": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "signal_tags": ["fandom", "ambassador", "activation_coverage"]
+    }
+  ],
+  "mention_counts": {
+    "Gucci": 9,
+    "Louis Vuitton": 0,
+    "Dior": 0,
+    "Chanel": 0,
+    "Prada": 0,
+    "Bottega Veneta": 0,
+    "Saint Laurent": 0,
+    "Balenciaga": 0,
+    "Burberry": 0,
+    "Hermès": 1,
+    "Loewe": 0,
+    "Miu Miu": 0,
+    "Celine": 0,
+    "Fendi": 0,
+    "Valentino": 0,
+    "Givenchy": 0,
+    "Versace": 0,
+    "Armani": 0,
+    "Dolce & Gabbana": 0
+  },
+  "coverage": {
+    "checked": [
+      "The Straits Times", "CNA", "Bangkok Post", "Thairath", "Kompas", "Detik",
+      "The Star Malaysia", "Philippine Daily Inquirer", "VnExpress", "Tatler Asia",
+      "Vogue Singapore", "Vogue Thailand", "Prestige Online", "Lifestyle Asia",
+      "Harper's Bazaar Singapore", "Facebook", "LINE", "Pantip", "Kaskus",
+      "HardwareZone Forums", "Lowyat Forum", "Webtretho", "X (Twitter)", "Reddit"
+    ],
+    "with_hits": ["Tatler Asia", "X (Twitter)"],
+    "dry": [
+      "The Straits Times", "CNA", "Bangkok Post", "Thairath", "Kompas", "Detik",
+      "The Star Malaysia", "Philippine Daily Inquirer", "VnExpress", "Vogue Singapore",
+      "Vogue Thailand", "Prestige Online", "Lifestyle Asia", "Harper's Bazaar Singapore",
+      "Facebook", "LINE", "Pantip", "Kaskus", "HardwareZone Forums", "Lowyat Forum",
+      "Webtretho", "Reddit"
+    ]
+  },
+  "collector_notes": {
+    "freshness_gap": "Every Priority-A SEA news source (Straits Times, CNA, Kompas, Detik, Thairath, Philippine Daily Inquirer, VnExpress, The Star Malaysia) and every Priority-A/checked SEA sns-community source (Facebook, Pantip, Kaskus, HardwareZone, Lowyat, Webtretho, Reddit) returned either no Gucci-specific hits in the last 7-14 days or only stale items older than the 14-day ceiling when searched in en/th/id/vi this cycle. The three items retained here (mega-asia.com, Tatler Asia, one X post) are the only material inside the freshness window; mega-asia.com is not in the registry's SEA Priority-A list but is a dateable, legitimate Asia-regional trade/lifestyle outlet, included under 'unlisted source = 0.7 weight' per the registry's own default rule.",
+    "anti_bias_balance": "Critical-angle searches were run in English, Thai and Vietnamese: price-hike/backlash, quality complaints, resale price drops, boycott/controversy, 'lost its way', store closures, earnings misses. These searches DID surface real, well-documented critical material -- (1) a Bangkok Post 'Gucci China shock' piece (dated 2024-03-24, far too old), (2) a Singapore HardwareZone community thread titled 'Gucci reputation really had fallen jialat' citing discounting and counterfeit proliferation (dated 2026-01-20, >14 days old), (3) Kering's Q3 2026 earnings call showing Gucci APAC retail sales down 8% and comparable sales down 6% (dated 2026-10-22, 26 days old), (4) an independent fashion blog (styleonthedot.com, 2026-09-26) documenting empty Gucci boutiques in Hong Kong, Bangkok, Singapore (Marina Bay Sands) and Kuala Lumpur. ALL of these were excluded for exceeding the 14-day freshness ceiling, not because critical searches ran dry -- they did not. The admitted pool is therefore unrepresentative: it looks activation/fandom-skewed only because the genuinely negative SEA-relevant material available on the public web right now is stale, not because positive coverage dominates. This is a collection-freshness problem, not evidence of positive SEA sentiment, and should be flagged to the sentiment-classifier and index-analyst rather than treated as a 3:0 positive read.",
+    "channel_mix": "Target of >=3 sns/community items per day was NOT met (only 1 sns item; 0 community items qualified inside the freshness window). Community searches (Pantip, Kaskus, HardwareZone, Lowyat, Webtretho) surfaced only off-topic or stale Gucci threads despite repeated queries in English, Thai and Indonesian.",
+    "volume": "Only 3 vetted items pass admission this cycle, well below the >=25 item / >=8 news / >=8 sns / >=6 community target. This should be read as a thin-pool day for SEA specifically, not padded to meet the target per the no-fabrication rule."
+  }
+}

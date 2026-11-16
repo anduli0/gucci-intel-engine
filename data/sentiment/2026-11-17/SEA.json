@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SEA-2026-11-17-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador retrospective of BTS Jin's looks; no independent critical verdict on the brand, just fan-service recap.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-17-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci's LACMA gala sponsorship and ambassador red-carpet presence; prestige coverage with no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-17-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-account admiration of Ningning's Gucci W Korea spread; fandom spike, not independent brand judgment.",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.75
+  }
+]
