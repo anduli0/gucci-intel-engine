@@ -4,6 +4,8 @@
 ## 핵심 요약
 오늘 럭셔리 업계는 두 갈래로 갈렸다 — 케링이 피치올리 퇴장 하루 만에 마틴 로즈를 발렌시아가 첫 여성 수장으로 선임해 디렉터 교체가 패턴이 됐고, 같은 중국·아시아 관광 역풍 속에서도 수요는 프라다와 리치몬트 주얼리로만 몰렸다[1][2][7][9].
 
+![리치몬트 FY26 주얼리 메종 14% 성장](https://www.theindustry.fashion/wp-content/uploads/2023/02/Richemont.jpg "TheIndustry.fashion|https://www.theindustry.fashion/cartier-and-van-cleef-lead-richemonts-double-digit-sales-rebound/")
+
 
 ## 1. 발렌시아가 로즈 선임 — 디렉터 교체가 '패턴'이 되다
 케링이 피치올리 18개월 만의 퇴장 하루 뒤 마틴 로즈를 109년 역사상 첫 여성 수장으로 선임했다[1][2]. 데 메오 CEO가 95억 유로 부채 축소를 우선해 발렌티노 완전인수를 2028년 이후로 미룬 만큼[3], 새 디렉터의 투자 여력은 제한적일 전망이다.

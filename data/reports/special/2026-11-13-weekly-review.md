@@ -78,6 +78,8 @@ LVMH·에르메스·리치몬트 진영을 묶어 보면, 이번 주 럭셔리 �
 
 리스크는 세 갈래로 정리된다. 먼저 품질·가성비 담론의 고착 리스크다 — 북미·유럽에서 '가격 대비 가치' 불만이 한 주 내내 부정 1순위였고, 이것이 성수기 내내 이어지면 가격 인하가 오히려 브랜드 가치 희석만 키운다. 또한 활성화 피로 리스크다 — 앰배서더·캠페인 거론이 소진되면 지수의 화제(거론량)가 빠르게 식고, 실제로 11-12에 네 권역 화제가 일제히 빠졌다. 마지막으로 그룹 리스크다 — 케링의 창조 리더십 공백과 맥퀸 감원, 몽클레르와 함께 묶인 도이체방크 '비선호' 재분류는 구찌 개별 노력과 무관하게 투자 서사를 눌렀다[33]. 기회 측면에서 유일하게 뚜렷한 화이트스페이스는 구찌코어다 — 패션 선도층에 치우친 컬렉션을 광범위 고객층으로 넓히려는 분명한 방향이고, 11월 매장 입고가 그 전환력을 시험할 첫 관문이다[17].
 
+![GucciCore 캠페인 뉴욕 거리 확장, 11월 매장 입고 예고](https://www.luxurydaily.com/wp-content/uploads/2026/11/official-sp-and-dps-shot-05-v14.jpg "Luxury Daily|https://www.luxurydaily.com/gucci-takes-guccicore-campaign-to-new-york-streets")
+
 ## 6. 다음 주 — 캘린더와 볼 것
 
 다음 주에 확인할 것은 날짜가 붙은 네 가지다. 첫째, 11월 13일 리치몬트 FY27 상반기 실적이 주얼리 주도 성장을 재확인하는지 — 돈이 하드럭셔리로 흐른다는 이번 주 구조 신호가 굳는지 여부의 선행 지표다[34]. 둘째, 11월 13일 루이비통 마카오 쇼가 중국 공략 강도를 보여주는지 — 중국 둔화 속 대형 베팅의 방향타다[35]. 셋째, 11월 16일 마르틴 로즈의 발렌시아가 공식 취임 — 케링 창조 리더십 공백이 메워지기 시작하는지의 첫 신호이고, 그룹 서사가 구찌 투자 심리에 미치는 영향을 함께 본다[24]. 넷째, 12월 3일 샤넬 메티에 다르가 블라지 2년차 반응을 시험한다[36].
@@ -233,6 +235,8 @@ Take the likely objections to this weekly verdict head-on. The first is that it 
 The second objection is the sector defense that "it isn't a Gucci-only problem" — LVMH fashion and leather were -5%, Hermès ready-to-wear -2%, so blame the macro. That defense has substance too. But in the same macro, Burberry printed a fifth straight quarter of growth and tripled operating profit while Gucci printed -30.7% brand value — and if the macro is against everyone but Gucci's drop is deeper, that is the more unfavorable comparison, not the more forgiving one.
 
 The risks sort into three. First, the quality-and-value discourse could harden — "value for price" was the top negative driver in NA and EU all week, and if it runs through peak season the price cuts only amplify brand-value dilution. Second, activation fatigue — when ambassador and campaign chatter exhausts, the index's buzz fades fast, and on 11-12 all four regions' buzz fell at once. Third, group risk — Kering's creative vacancies, the McQueen layoffs, and Deutsche Bank's "sell" reclassification alongside Moncler weighed on the investment narrative regardless of Gucci's own effort[33]. On opportunity, the one clear whitespace is GucciCore — a deliberate move to broaden a fashion-forward collection toward wide audiences, and its November in-store arrival is the first test of that conversion power[17].
+
+![GucciCore campaign extended to New York streets, November in-store arrival](https://www.luxurydaily.com/wp-content/uploads/2026/11/official-sp-and-dps-shot-05-v14.jpg "Luxury Daily|https://www.luxurydaily.com/gucci-takes-guccicore-campaign-to-new-york-streets")
 
 ## 6. Next Week — Calendar and What to Watch
 
