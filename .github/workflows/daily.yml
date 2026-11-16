@@ -39,7 +39,12 @@ jobs:
       REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}  # optional; engagement collector skips YouTube search without it
       TZ: Asia/Seoul
     steps:
+      # ref: main — a run that waited in the concurrency queue must see what the
+      # run before it just committed (default checkout pins the trigger-time
+      # commit, so on 2026-11-16 a queued slot redid the whole extras phase).
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       # Backup-run guard: only skip the pipeline (republish only) when ALL of
       # today's core reports exist. Checking only the luxury brief let a
