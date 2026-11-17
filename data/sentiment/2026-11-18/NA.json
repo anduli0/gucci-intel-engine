@@ -1,0 +1,137 @@
+[
+  {
+    "id": "NA-2026-11-18-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci breaking pricing taboo after 13 straight quarters of declines signals demand weakness / counter: framed partly as bold strategic move LV may copy",
+    "signal_tags": ["price_cut", "negative_earnings", "mixed"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-18-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of new Harrods boutique rollout, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-18-03",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci organic sales fell 6%, worse than expected, extending 13-quarter losing streak / counter: jewelry/eyewear outperformed group-wide",
+    "signal_tags": ["negative_earnings", "trade_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-18-04",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Shares sank on Gucci turnaround lagging expectations; multiple analysts cut forecasts and widened projected decline",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-18-05",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: coverage centers on Q3 earnings disappointment / counter: outlines management's turnaround/cost plan for 2027 recovery",
+    "signal_tags": ["negative_earnings", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-18-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic US fan backlash calling campaign 'depressing', 'boring', 'outdated', likening it to mass-market retailer, overall mixed-to-negative reception",
+    "signal_tags": ["campaign_backlash", "design_criticism"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-18-07",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of public preview exhibition dates/location, no evaluative verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-18-08",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cuts framed as signal of demand weakness and turnaround pressure / counter: described as rare reversal, somewhat neutral trade framing",
+    "signal_tags": ["price_cut", "negative_earnings", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-18-09",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregator social post summarizing price cuts after 13 consecutive quarterly declines, framed as notable pricing reversal driven by weakness; low engagement data available",
+    "signal_tags": ["price_cut", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-18-10",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation/ambassador-style post about rappers modeling for Gucci, no independent verdict; fandom/youth-culture visibility angle only",
+    "signal_tags": ["activation_coverage", "fandom"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-18-11",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic community thread raising durability/quality concerns on 2026 Flora line materials versus price, part of a recurring quality-complaint pattern",
+    "signal_tags": ["quality_complaint", "community"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-18-12",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer thread weighing restoration cost vs resale/replacement value reflects mild durability/value-for-money concern, not emotionally charged",
+    "signal_tags": ["quality_complaint", "resale_value", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-18-13",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci resale values falling more sharply than peers, logo-heavy pieces losing 40-60% value / counter: classic styles retain near-full value; source flagged as needing cross-verification",
+    "signal_tags": ["resale_value", "mixed", "verification_required"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-18-14",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador appointment announcement is activation coverage with no independent verdict; falls under fandom/ambassador cap, purely descriptive",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-18-15",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Accelerated store closures (128-217 count) tied to steep Gucci sales decline (~22% in some comparisons), directly damaging physical footprint narrative",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.8
+  }
+]

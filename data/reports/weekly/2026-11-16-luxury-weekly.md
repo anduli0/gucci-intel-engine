@@ -78,7 +78,8 @@ LVMH 진영에서는 디렉터 교체의 '모범 사례'와 '위기 사례'가 �
 
 이번 주 가장 선명하게 떠오르는 플레이어는 프라다 뷰티다 — 톰 홀랜드를 앞세운 남성 향수 '파라디므'가 연초 이후 매출 5,700만 달러를 넘겨 브랜드 역대 최대 남성 향수가 됐고, 로레알이 3분기 실적 발표에서 이를 성장 견인 품목으로 직접 지목했다[7][28]. 더불어 프라다 하우스 자체가 라이스트 3분기에 수요 55% 증가로 2023년 4분기 이후 처음 '가장 핫한 브랜드' 1위로 복귀했고, 같은 모멘텀이 벨라 하디드를 첫 뷰티 앰배서더로 세운 메이크업 확장으로 곧장 이어졌다[9][46]. 즉 패션 하우스의 화제성이 뷰티 라인 매출로 실시간 전환되는 구조를 프라다가 지금 가장 잘 보여준다는 뜻이다.
 
-![로레알 럭스 3분기 6.4% 성장, 향수 견인(프라다·YSL·아르마니·발렌티노)](https://wwd.com/wp-content/uploads/2025/02/LOREAL-ANNUAL-RESULTS-2025-OFFICIAL-VISUAL.jpg?w=1200 "WWD / Luxury Tribune|https://wwd.com/beauty-industry-news/beauty-features/loreal-q3-2026-earnings-beat-1239380825/")
+![프라다 라이스트 1위 복귀, 프라다 뷰티 동반 부상](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?w=1200 "WWD / Cosmetics Business|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+
 
 두 번째 떠오르는 축은 샤넬과 버버리, 그리고 쿠치넬리다 — 샤넬은 블라지 효과로 상반기 16% 성장하며 워치·파인주얼리가 코코 크러시 라인으로 35% 급증했고[8], 쿠치넬리는 3분기 13.5% 성장에 전망을 12%로 상향하며 섹터 둔화 속 역주행했다[31]. 다만 떠오르는 플레이어 판정에도 균형추가 필요하다 — 미우미우는 2025년 소매 35% 성장이라는 폭발 뒤 2026년 상반기 성장세가 뚜렷이 둔화됐고[47], 라이스트 4분기에 섹터 전반이 '새로운 보수주의'로 기운 것은 바이럴 급성장 사이클이 영원하지 않다는 경고다. 요컨대 이번 주 모멘텀의 진짜 신호는 '향수·주얼리 같은 방어 카테고리에서 숫자로 확인된 성장'이지 런웨이 화제성 그 자체가 아니라고 보는 것이 정확하다.
 
@@ -246,7 +247,8 @@ The second axis is that craft-forward "anti-AI" positioning erupted simultaneous
 
 This week's clearest rising player is Prada Beauty — the Tom Holland-fronted men's fragrance Paradigme has passed $57 million in year-to-date sales, becoming the house's best-selling men's fragrance ever, and L'Oreal named it directly as a growth driver in its Q3 earnings release[7][28]. Further, the Prada house itself returned to the Lyst Index's No. 1 "hottest brand" spot in Q3 for the first time since Q4 2023 on 55% higher demand, and that same momentum carried directly into a makeup expansion fronted by Bella Hadid as its first beauty ambassador[9][46]. In short, Prada is currently the clearest example of a fashion house converting buzz into beauty-line revenue in real time.
 
-![L'Oreal Luxe up 6.4% in Q3, driven by fragrance (Prada, YSL, Armani, Valentino)](https://wwd.com/wp-content/uploads/2025/02/LOREAL-ANNUAL-RESULTS-2025-OFFICIAL-VISUAL.jpg?w=1200 "WWD / Luxury Tribune|https://wwd.com/beauty-industry-news/beauty-features/loreal-q3-2026-earnings-beat-1239380825/")
+![Prada reclaims Lyst No. 1, Prada Beauty rises in tandem](https://wwd.com/wp-content/uploads/2026/03/Prada-rtw-fw26-bsb-aks-0040.jpg?w=1200 "WWD / Cosmetics Business|https://wwd.com/fashion-news/designer-luxury/prada-reclaim-lyst-ranking-top-spot-celine-top-ten-1239386329/")
+
 
 The second rising axis is Chanel, Burberry, and Brunello Cucinelli — Chanel grew H1 sales 16% on the Blazy effect, with watches and fine jewelry surging 35% on the Coco Crush line[8], and Cucinelli grew 13.5% in Q3 and raised guidance to 12%, outrunning the sector's broader slowdown[31]. That said, the "rising player" designation needs its own counterweight — Miu Miu's 2025 retail growth of 35% was followed by a marked slowdown in H1 2026[47], and the sector's broader tilt toward "new conservatism" in the Lyst Index's Q4 reading is a warning that viral hypergrowth cycles do not last forever. In short, this week's real momentum signal is growth confirmed by numbers in defensive categories like fragrance and jewelry — not runway buzz on its own.
 

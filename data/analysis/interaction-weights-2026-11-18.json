@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-18",
+  "items": 3197,
+  "platforms": {
+    "bluesky": {
+      "n": 1439,
+      "H1_base_rates": {
+        "likes": {
+          "n": 1439,
+          "per_1k_reach_median": 0.0,
+          "mean": 3.320361362056984
+        },
+        "comments": {
+          "n": 1439,
+          "per_1k_reach_median": 0.0,
+          "mean": 0.33981931897150797
+        },
+        "shares": {
+          "n": 1439,
+          "per_1k_reach_median": 0.0,
+          "mean": 0.3690062543432939
+        }
+      },
+      "H2_marginal_information": {
+        "n": 1439,
+        "spearman_likes_comments": 0.257,
+        "partial_reach_comments_given_likes": 0.05,
+        "partial_reach_shares_given_likes": 0.074,
+        "spearman_likes_shares": 0.375
+      },
+      "H3_rank_robustness": {
+        "1-1-1": {
+          "weights": [
+            1,
+            1,
+            1
+          ],
+          "rank_robustness": 1.0
+        },
+        "1-2-3": {
+          "weights": [
+            1,
+            2,
+            3
+          ],
+          "rank_robustness": 1.0
+        },
+        "1-3-5": {
+          "weights": [
+            1,
+            3,
+            5
+          ],
+          "rank_robustness": 1.0
+        }
+      }
+    },
+    "mastodon": {
+      "n": 26,
+      "H1_base_rates": {
+        "likes": {
+          "n": 26,
+          "per_1k_reach_median": 0.0,
+          "mean": 0.0
+        },
+        "comments": {
+          "n": 26,
+          "per_1k_reach_median": 0.0,
+          "mean": 0.0
+        },
+        "shares": {
+          "n": 26,
+          "per_1k_reach_median": 0.0,
+          "mean": 0.23076923076923078
+        }
+      },
+      "H2_marginal_information": {
+        "n": 26,
+        "spearman_likes_comments": NaN,
+        "partial_reach_comments_given_likes": null,
+        "partial_reach_shares_given_likes": null,
+        "spearman_likes_shares": NaN
+      },
+      "H3_rank_robustness": {
+        "1-1-1": {
+          "weights": [
+            1,
+            1,
+            1
+          ],
+          "rank_robustness": 1.0
+        },
+        "1-2-3": {
+          "weights": [
+            1,
+            2,
+            3
+          ],
+          "rank_robustness": 1.0
+        },
+        "1-3-5": {
+          "weights": [
+            1,
+            3,
+            5
+          ],
+          "rank_robustness": 1.0
+        }
+      }
+    },
+    "youtube": {
+      "n": 1564,
+      "H1_base_rates": {
+        "likes": {
+          "n": 1501,
+          "per_1k_reach_median": 15.625,
+          "mean": 92.93137908061293
+        },
+        "comments": {
+          "n": 1540,
+          "per_1k_reach_median": 0.0,
+          "mean": 7.1279220779220775
+        },
+        "shares": {
+          "n": 0,
+          "per_1k_reach_median": null,
+          "mean": null
+        }
+      },
+      "H2_marginal_information": {
+        "n": 1481,
+        "spearman_likes_comments": 0.643,
+        "partial_reach_comments_given_likes": 0.005
+      },
+      "H3_rank_robustness": {
+        "1-1-1": {
+          "weights": [
+            1,
+            1,
+            1
+          ],
+          "rank_robustness": 1.0
+        },
+        "1-2-3": {
+          "weights": [
+            1,
+            2,
+            3
+          ],
+          "rank_robustness": 1.0
+        },
+        "1-3-5": {
+          "weights": [
+            1,
+            3,
+            5
+          ],
+          "rank_robustness": 1.0
+        }
+      }
+    },
+    "reddit": {
+      "n": 168,
+      "H1_base_rates": {
+        "likes": {
+          "n": 168,
+          "per_1k_reach_median": 0.1471521461220811,
+          "mean": 51.541666666666664
+        },
+        "comments": {
+          "n": 168,
+          "per_1k_reach_median": 0.05978055936209545,
+          "mean": 16.351190476190474
+        },
+        "shares": {
+          "n": 0,
+          "per_1k_reach_median": null,
+          "mean": null
+        }
+      },
+      "H2_marginal_information": {
+        "n": 168,
+        "spearman_likes_comments": 0.616,
+        "partial_reach_comments_given_likes": 0.386
+      },
+      "H3_rank_robustness": {
+        "1-1-1": {
+          "weights": [
+            1,
+            1,
+            1
+          ],
+          "rank_robustness": 0.999
+        },
+        "1-2-3": {
+          "weights": [
+            1,
+            2,
+            3
+          ],
+          "rank_robustness": 0.999
+        },
+        "1-3-5": {
+          "weights": [
+            1,
+            3,
+            5
+          ],
+          "rank_robustness": 0.999
+        }
+      }
+    }
+  }
+}

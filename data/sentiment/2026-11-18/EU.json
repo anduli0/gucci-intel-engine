@@ -1,0 +1,119 @@
+[
+  {
+    "id": "EU-2026-11-18-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of new Harrods store concept rollout, no independent evaluative verdict beyond design description",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-18-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: price cuts framed as turnaround pressure response to weak China/Japan sales and 6% comp decline / counter: Kering frames as deliberate value-architecture correction",
+    "signal_tags": ["negative_earnings", "price_cut", "value_for_money"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-18-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: price cuts break luxury's pricing-power taboo, signaling sector-wide erosion driven by Gucci / counter: peers (LV) considering same move normalizes it somewhat",
+    "signal_tags": ["negative_earnings", "price_cut", "pricing_power"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-18-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Q3 revenue down 6% comparable with store traffic the binding constraint on recovery / counter: conversion and basket size improved, trajectory uncertain not conclusively negative",
+    "signal_tags": ["negative_earnings", "mixed", "traffic_decline"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-18-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares fell sharply, down ~40% YTD, explicitly attributed to Gucci dragging group performance",
+    "signal_tags": ["negative_earnings", "stock_decline"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-18-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Store closures in Gulf region tied to regional conflict risk; low-confidence, unverified aggregator source so magnitude capped",
+    "signal_tags": ["store_closure", "unverified", "retail_disruption"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-11-18-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan/audience backlash against holiday campaign (cold, boring, JCPenney comparison); negative activation reaction is not subject to promo discount cap",
+    "signal_tags": ["campaign_backlash", "ambassador", "organic_reaction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-18-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Largely descriptive presentation of the campaign with no independent evaluative verdict, included as neutral press-framing counterpoint",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-18-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community thread on perceived decline in leather-goods construction quality versus price; genuine but incidental/ongoing complaint, not viral spike",
+    "signal_tags": ["quality_complaint", "value_for_money", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-18-010",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Community thread praising recent purchases for solid construction/finishing, balancing counterpoint to the parallel quality-complaint thread",
+    "signal_tags": ["quality_praise", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-18-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer disappointment that reformulated Flora fragrance fails to match original; low-stakes but genuine legacy/continuity complaint",
+    "signal_tags": ["product_legacy", "quality_complaint", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-18-012",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: resale values ($600-900 vs $2,000 retail) place Gucci in luxury's middle tier well below Hermes/Chanel, with primary price cuts further eroding buyer confidence / counter: none, unambiguous",
+    "signal_tags": ["resale_value_drop", "value_for_money", "peer_comparison"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-18-013",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Competitor (Louis Vuitton) store opening on same Harrods floor as Gucci's; incidental competitive-context mention, not evaluative of Gucci itself",
+    "signal_tags": ["competitor_benchmark", "incidental_mention"],
+    "confidence": 0.7
+  }
+]

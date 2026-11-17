@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SEA-2026-11-18-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: unprecedented price cuts framed by analysts as a sign of crisis / lost brand identity after 13 quarters of sales declines / counter: cuts could re-engage aspirational shoppers, but Goldman analyst explicitly says problem is deeper than price -- dominant frame is negative momentum",
+    "signal_tags": ["critical", "pricing", "earnings", "analyst", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-18-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: first double-digit luxury price cut in region framed as industry 'capitulation' after soft demand / counter: none substantive -- sustained negative framing of price cut as milestone decline, matches v1.2 rule 4",
+    "signal_tags": ["critical", "pricing", "earnings", "negative_earnings"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-18-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci and Prada closing more China stores as consumers cut spending, directly hitting SEA tourist-retail spillover / counter: APAC still >1/3 of revenue, but framing is store closures + pullback",
+    "signal_tags": ["critical", "store_closures", "earnings", "negative_earnings"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-18-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "descriptive activation write-up of a brand-staged show announcement (Shanghai Cruise 2028); no independent evaluative verdict, purely factual framing of strategic intent",
+    "signal_tags": ["activation_coverage", "show_announcement"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-18-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "purely descriptive brand-owned campaign write-up (who stars, what it shows, where released) with no independent critical angle -- activation discount applies, self-promo is not public opinion",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-18-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: genuine unprompted fan/public backlash calling the campaign 'sterile, cold, devoid of humanity' and 'boring' / counter: minority praised Carey's looks -- dominant thesis is negative organic reaction to an activation, not subject to activation cap per rubric (backlash is organic opinion)",
+    "signal_tags": ["critical", "campaign", "public_reaction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-18-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: skeptical Vietnamese consumer survey concludes price cuts alone may not restore brand appeal / counter: 7 of 15 said they would buy now -- mixed but decided toward skepticism per dominant conclusion, magnitude capped at 0.5",
+    "signal_tags": ["critical", "pricing", "consumer_survey", "vietnam", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-18-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: live debate between 'bottom-fishing opportunity' and 'brand devaluation', but piece anchors on resale value drops (27-29%) and weak value retention vs Hermes/Chanel as its substantive takeaway / counter: some frame it as buying opportunity -- genuine two-sided weigh-up tilting negative via resale-devaluation framing, decided-but-mixed so capped at 0.5",
+    "signal_tags": ["critical", "pricing", "resale_market", "diaspora", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-18-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "purely descriptive fashion-editorial coverage of a runway concept format with no independent critical verdict -- activation discount applies",
+    "signal_tags": ["activation_coverage", "runway", "thailand"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-18-010",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "ambassador fan-celebratory post with no independent evaluative content; falls under fandom trap and activation discount -- descriptive, no verdict",
+    "signal_tags": ["activation_coverage", "ambassador", "thailand"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-18-011",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: third-party handbag-community commentary gives a clear positive evaluative verdict ('Gucci Just Won Christmas') on the campaign / counter: none -- activation write-up WITH clear evaluative verdict, magnitude capped at 0.5 per activation-coverage rule",
+    "signal_tags": ["activation_coverage", "campaign", "community_commentary"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-18-012",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "descriptive editorial recap of a past show and creative-director handover context, no independent evaluative verdict on the brand itself -- activation discount applies",
+    "signal_tags": ["activation_coverage", "runway", "creative_direction"],
+    "confidence": 0.7
+  }
+]

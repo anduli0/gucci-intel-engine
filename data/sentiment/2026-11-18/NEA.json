@@ -1,0 +1,128 @@
+[
+  {
+    "id": "NEA-2026-11-18-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: price cuts frame years of overpricing as a failed strategy now being unwound / counter: positions Gucci as industry trendsetter on the correction — but dominant thesis (headline+lede) is critical of past pricing strategy and exposes structural demand weakness (shrinking middle-class base), independent trade-press judgment not Gucci-owned",
+    "signal_tags": ["negative_earnings", "pricing_backlash", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-18-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Shanghai show announcement is framed as a recovery bet following an acknowledged 'disconnect' with Chinese consumers, weak in-store traffic and 6% like-for-like sales decline / counter: show itself is a forward-looking brand investment, but article's dominant frame is remedial, not celebratory",
+    "signal_tags": ["negative_earnings", "china_recovery", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-18-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: largely descriptive trade confirmation of Shanghai show tied to anniversary / counter: situates it within 'prolonged sales slump and store downsizing' but without strong evaluative verdict either way — two-sided framing, no clear conclusion",
+    "signal_tags": ["mixed", "china_recovery"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-18-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "official Gucci Japan press release on Shanghai show; brand-owned promo copy is not public opinion, discounted to neutral per activation-coverage rule",
+    "signal_tags": ["activation_coverage", "official_release"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-18-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "official Gucci Japan release on GucciCore launch event attendee list; purely descriptive activation write-up, no independent evaluative verdict, discounted to neutral",
+    "signal_tags": ["activation_coverage", "official_release", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-18-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "fashion-magazine snap coverage of celebrity attendees at brand-staged launch event, purely descriptive (who attended, styling notes), no independent critical verdict — activation discount applies",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-18-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "fan-blog enthusiasm over ambassador's event appearance; genuine fandom excitement counts as mild positive but damped to 0.5 per fandom-spike trap and activation-adjacency",
+    "signal_tags": ["fandom", "activation_coverage", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-18-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "templated consumer-FAQ content calculating remaining price gap after cuts; practical/informational tone, not a clear evaluative verdict on the brand itself",
+    "signal_tags": ["pricing_discussion", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-18-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: explicit two-sided consumer debate over whether price cuts + Made-in-China sneakers + Demna's second show constitute genuine turnaround, with no verdict reached (price-sensitive buyers welcome it, heritage-conscious buyers worried about quality downgrade) — classic mixed/no-verdict case",
+    "signal_tags": ["mixed", "made_in_china_concern", "pricing_discussion"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-18-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: frames the historic price cut as an industry-wide admission that years of price hikes backfired, quoting Kering/Prada/Burberry leadership acknowledging overpricing hurt volumes — independent critical trade analysis, unambiguous and widely circulating",
+    "signal_tags": ["pricing_backlash", "negative_earnings", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-18-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: explicitly frames Gucci's price cut as 'a sign of competitive weakness' within a multi-quarter sales slump, contrasted against LV's stronger position of not needing to discount — unambiguous negative verdict on Gucci's underlying position",
+    "signal_tags": ["negative_earnings", "pricing_backlash", "peer_comparison"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-18-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "community thread debating whether sneaker price-to-material-cost ratio justifies the brand premium; skeptical/value-conscious tone toward luxury pricing including Gucci, mild value-for-money dispute",
+    "signal_tags": ["value_for_money", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-18-013",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "third-party entertainment press reporting genuine global fan reaction/buzz to ambassador's Gucci gala outfit as 'hip' — independent positive reception of styling, but ambassador/fandom-driven so capped at 0.5",
+    "signal_tags": ["ambassador", "fandom", "favorable_press"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-18-014",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "trade-press factual confirmation of Shanghai show date and scheduling, noting competitive proximity to Dior's own Shanghai Cruise show three days earlier — descriptive/scheduling with peer-comparison framing but no verdict on Gucci itself",
+    "signal_tags": ["peer_comparison", "china_recovery"],
+    "confidence": 0.6
+  }
+]
