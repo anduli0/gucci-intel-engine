@@ -16,7 +16,8 @@
 
 가장 무거운 근거는 외부 비판이 아니라 케링 자신의 입에서 나왔다 — 경영진은 3분기 자료에서 아시아 매장망이 포화에 달했고 과속 확장이 구찌의 열망 고객층을 깎아 매력을 약화시켰다고 자인했다[13]. 즉 동남아·아태의 부진이 외부 악재가 아니라 구조적 자초라는 뜻이며, 블룸버그는 이를 "소비자와 주주의 인내를 시험한다"고 못박았다[14]. 유럽에서는 아브뉴 몽테뉴 56번지 신규 플래그십이 뤼카 드 메오의 리테일 리셋을 상징하지만[15][23], 같은 주 트러스트파일럿에는 방치된 응대·무산된 예약 등 매장 경험 불만이 호평을 앞섰고, "구찌가 길을 잃었다"류 정체성 논쟁도 이어졌다[16][17]. 다만 반론의 균형추도 필요하다 — 유럽 일부 커뮤니티는 GucciCore를 "발렌시아가보다 부드럽고 세련돼 다시 욕망하게 만든다"고 평했고, 독립 리뷰어도 2026 리셋의 제품 매력 개선을 인정했다[18][19]. 본 분석의 판단은, 이 긍정은 제품 방향의 '방어적 플러스'일 뿐 매장·가격·신뢰의 구멍을 메우지 못한다는 것이다.
 
-![구찌, 파리 아브뉴 몽테뉴 신규 플래그십으로 뤼카 드 메오의 리테일 리셋을 구현](https://hubstyle.it/wp-content/uploads/sites/8/2026/11/26-10-28-Montaigne-Gucci0733_GENERALE.webp "HUB Style|https://hubstyle.it/2026/11/09/gucci-ridisegna-il-retail-a-parigi-il-nuovo-flagship-di-avenue-montaigne/")
+![구찌 파리 아브뉴 몽테뉴 56번지 신규 플래그십 개장](https://www.pambianconews.com/wp-content/uploads/2026/11/26-10-28-Montaigne-Gucci0520_FACCIATA-e1793611096590.jpg "Pambianconews|https://www.pambianconews.com/2026/11/02/gucci-taglia-il-nastro-del-maxi-flagship-parigino-in-avenue-montaigne-499203/")
+
 
 
 ## 3. 내일 볼 것 — 캠페인 역풍과 리셋 성과의 분기
@@ -78,7 +79,8 @@ The verdict is that the buzz Gucci made and the trust directed at Gucci moved in
 
 The heaviest evidence came not from outside critics but from Kering's own mouth — management conceded in its Q3 materials that the Asian store network has hit saturation and that over-fast expansion eroded Gucci's aspirational client base and weakened desirability[13]. In other words, SEA/APAC weakness is structural and self-inflicted, not an external shock, and Bloomberg nailed it as "testing the patience of shoppers and shareholders"[14]. In Europe the new 56 Avenue Montaigne flagship symbolizes Luca de Meo's retail reset[15][23], yet the same week Trustpilot store-experience complaints — ignored service, failed appointments — outran praise, and "Gucci has lost the plot" identity debates persisted[16][17]. A counterweight is warranted, though — some European communities judged GucciCore "softer and more refined than Balenciaga, making you desire it again," and an independent reviewer acknowledged real product-desirability improvement in the 2026 reset[18][19]. Our read: this positive is only a defensive plus on product direction and does not fill the store, price and trust holes.
 
-![Gucci's new Avenue Montaigne flagship embodies Luca de Meo's retail reset](https://hubstyle.it/wp-content/uploads/sites/8/2026/11/26-10-28-Montaigne-Gucci0733_GENERALE.webp "HUB Style|https://hubstyle.it/2026/11/09/gucci-ridisegna-il-retail-a-parigi-il-nuovo-flagship-di-avenue-montaigne/")
+![Gucci opens 56 Avenue Montaigne Paris flagship](https://www.pambianconews.com/wp-content/uploads/2026/11/26-10-28-Montaigne-Gucci0520_FACCIATA-e1793611096590.jpg "Pambianconews|https://www.pambianconews.com/2026/11/02/gucci-taglia-il-nastro-del-maxi-flagship-parigino-in-avenue-montaigne-499203/")
+
 
 
 ## 3. What to watch — campaign backlash versus reset payoff

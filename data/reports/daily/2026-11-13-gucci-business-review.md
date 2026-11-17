@@ -17,6 +17,8 @@
 ## 3. 내일 볼 것 — 앰배서더 효과가 품질 담론을 넘는가
 내일의 기준은 활성화와 자생 담론 중 어느 쪽이 더 오래 가는가다 — 박보검 호감이 레드카펫을 넘어 제품(스타렛·버터플라이 캡슐) 구매 의향으로 번지는지, 머라이어 캐리 역풍과 품질 스레드가 성수기 내내 이어지는지를 동북아·북미·유럽에서 각각 확인한다[2][8][9][15].
 
+![머라이어 캐리 버터플라이 캡슐 컬렉션 상세](https://wwd.com/wp-content/uploads/2026/11/mariah-carey-gucci-fi.jpg?w=1200 "WWD|https://wwd.com/pop-culture/culture-news/mariah-carey-gucci-holiday-campaign-video-1239395541/")
+
 ## 주석
 - 활성화(activation) 커버리지: 구찌가 직접 집행한 캠페인·앰배서더·매장 오픈 등 브랜드 유발 노출. 소비자 여론과 구분하며, 호감으로 보여도 수요 회복의 증거로 읽지 않는다.
 - 열망(aspiration): 소비자가 브랜드를 갖고 싶어 하는 동경의 강도. 구매 의향(purchase intent)의 선행 단계로, 둘은 다르다.
@@ -75,6 +77,8 @@ Our read: today's positives are aspiration maintenance, not purchase conversion 
 
 ## 3. What to Watch
 Whether Park Bo-gum goodwill converts to purchase intent, and whether Carey backlash outlasts the peak[2][8][9][15].
+
+![Mariah Carey Butterfly capsule collection detail](https://wwd.com/wp-content/uploads/2026/11/mariah-carey-gucci-fi.jpg?w=1200 "WWD|https://wwd.com/pop-culture/culture-news/mariah-carey-gucci-holiday-campaign-video-1239395541/")
 
 ## Notes
 - Activation coverage: brand-initiated exposure (campaigns, ambassadors, store openings) Gucci pays for. Distinct from public opinion; even when it reads as goodwill, it is not evidence of recovered demand.

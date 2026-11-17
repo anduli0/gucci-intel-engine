@@ -19,6 +19,8 @@
 
 첫째, 케링의 디렉터 회전문은 그룹 전체의 크리에이티브 공백과 턴어라운드 압박을 보여준다 — 로즈 선임 반응은 '신선하다'와 '상업성 입증이 과제다'로 갈렸다[1][2][5]. 둘째, 디올 홀리데이 애니메이션은 '손으로 그렸다'는 주장을 스스로 훼손했다 — 감독이 '자동 보간' 사용을 인정해 그룹 신뢰 리스크가 됐다[6][7]. 셋째, 돈은 주얼리로 흐른다 — 리치몬트가 7분기 연속 두 자릿수 성장을 잇는 동안 판도라 랩그로운 라인은 3분기 14% 역성장했다[8][9].
 
+![판도라 3분기 매출 7%↑, 랩그로운 다이아 14% 역성장](https://uploads.nationaljeweler.com/uploads/280053d04f6604f17ac0bb85190ca310.jpg "National Jeweler|https://nationaljeweler.com/articles/15476-pandora-s-q3-sales-up-7-amid-focus-on-design")
+
 ## 3. 떠오르는 플레이어와 워치리스트
 
 
@@ -112,6 +114,8 @@ Today's dominant signal is simultaneous leadership change — Kering named Marti
 
 
 First, Kering's revolving door signals group-wide creative vacancy, with reaction to Rose split between "refreshing" and "commercially unproven" [1][2][5]. Second, Dior's holiday animation undercut its own "hand-drawn" claim as the director admitted "automated interpolation" [6][7]. Third, money flows to jewelry — Richemont posted a seventh straight double-digit quarter while Pandora's lab-grown line fell 14% [8][9].
+
+![Pandora Q3 sales up 7%, lab-grown diamond line down 14%](https://uploads.nationaljeweler.com/uploads/280053d04f6604f17ac0bb85190ca310.jpg "National Jeweler|https://nationaljeweler.com/articles/15476-pandora-s-q3-sales-up-7-amid-focus-on-design")
 
 ## 3. Rising Players and Watchlist
 
