@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SEA-2026-11-19-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive GucciCore fanny pack write-up with ambassador imagery, no evaluative verdict",
+    "signal_tags": ["product", "ambassador", "campaign", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-19-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive GucciCore campaign recap framed for Thai readers, explicitly no reception data",
+    "signal_tags": ["campaign", "product", "activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-19-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci cited as status symbol in corruption-optics backlash against politicians / counter: brand not directly accused, but named proximity carries reputational risk with real viral traction (2,800 upvotes, 3,119 shares)",
+    "signal_tags": ["critical", "reputation-risk", "politics", "proximity"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-19-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan backlash to Mariah Carey holiday campaign calling it cold/depressing/boring, not subject to activation discount since negative",
+    "signal_tags": ["critical", "campaign", "sns-reaction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-19-005",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fandom spike around BTS Jin ambassador viral moment at Gucci show, damped per fandom trap rather than genuine brand-affinity judgment",
+    "signal_tags": ["ambassador", "fandom", "positive"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-19-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregated community tag page mixing ambassador chatter and authenticity questions with no clear verdict and thin per-thread evidence",
+    "signal_tags": ["community", "ambassador", "consumer", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-19-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual Shanghai Cruise 2028 show announcement; SEA-as-secondary-market framing noted but not the dominant thesis of the piece",
+    "signal_tags": ["brand-strategy", "asia-market"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-19-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: quiet price cuts amid turnaround pressure after 13 consecutive quarters of declining sales signal brand weakness / counter: none, sustained negative momentum framing from trade press",
+    "signal_tags": ["critical", "pricing", "earnings", "negative_earnings"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-19-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive La Famiglia MBS launch event coverage with ambassador presence, no independent evaluative verdict",
+    "signal_tags": ["event", "ambassador", "retail", "activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-19-010",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Positive activation coverage of VIP preview with ambassador fan-crowd enthusiasm, capped under activation/fandom discount",
+    "signal_tags": ["event", "ambassador", "positive", "activation", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-19-011",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned official X post of ambassador Jin; self-posted promo content is not public opinion",
+    "signal_tags": ["ambassador", "activation", "owned-media"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-19-012",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual recap of Marina Bay Sands flagship store reopening, descriptive retail-concept reporting",
+    "signal_tags": ["retail", "store-concept"],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,1690 @@
+{
+  "date": "2026-11-19",
+  "method": "symmetric-gnews-rss-7d",
+  "window": "2026-11-13~2026-11-19 (최근 7일)",
+  "material": "Google News RSS에 색인된 편집 기사(뉴스·리뷰·피처); 권역별 로컬 에디션",
+  "criteria": [
+    "브랜드 19곳(Gucci + pool.json competitor_set 18곳)에 동일한 질의 템플릿 (\"영문명\" OR \"현지어명\") when:7d 를 권역별 에디션마다 1회씩 실행",
+    "권역 에디션: NEA=KR/ko·JP/ja·HK/zh, SEA=TH/th·SG/en, NA=US/en, EU=GB/en·FR/fr·IT/it; 동일 깊이(RSS 1페이지, 에디션당 최대 100건)",
+    "발행일이 2026-11-13~2026-11-19 안에 확인되는 기사만 집계; 권역 안에서 제목 정규화로 중복 제거",
+    "스크립트 집계(scripts/collect_sov.py) — 브랜드별 탐색 깊이가 구조적으로 동일하며, 집계 매체와 예시 링크를 evidence에 남김"
+  ],
+  "criteria_en": [
+    "Same query template (\"English name\" OR \"local alias\") when:7d, once per brand per edition, for 19 brands (Gucci + 18 competitor_set houses)",
+    "Editions: NEA=KR/ko, JP/ja, HK/zh; SEA=TH/th, SG/en; NA=US/en; EU=GB/en, FR/fr, IT/it; identical depth (one RSS page, max 100 items per edition)",
+    "Only articles dated 2026-11-13 to 2026-11-19; de-duplicated by normalised title within a block",
+    "Script-counted (scripts/collect_sov.py): search depth is identical per brand by construction; outlets and two example links kept as evidence"
+  ],
+  "editions": {
+    "NEA": [
+      [
+        "KR",
+        "ko"
+      ],
+      [
+        "JP",
+        "ja"
+      ],
+      [
+        "HK",
+        "zh-HK"
+      ]
+    ],
+    "SEA": [
+      [
+        "TH",
+        "th"
+      ],
+      [
+        "SG",
+        "en"
+      ]
+    ],
+    "NA": [
+      [
+        "US",
+        "en"
+      ]
+    ],
+    "EU": [
+      [
+        "GB",
+        "en"
+      ],
+      [
+        "FR",
+        "fr"
+      ],
+      [
+        "IT",
+        "it"
+      ]
+    ]
+  },
+  "queries": 164,
+  "errors": [
+    "NEA/Louis Vuitton/KR-ko: HTTP Error 429: Too Many Requests",
+    "NEA/Chanel/HK-zh-HK: HTTP Error 429: Too Many Requests",
+    "NEA/Valentino/JP-ja: HTTP Error 429: Too Many Requests",
+    "NEA/Dolce & Gabbana/HK-zh-HK: HTTP Error 429: Too Many Requests",
+    "SEA/Chanel/SG-en: HTTP Error 429: Too Many Requests",
+    "SEA/Hermès/TH-th: HTTP Error 429: Too Many Requests",
+    "EU/Dolce & Gabbana/GB-en: HTTP Error 429: Too Many Requests"
+  ],
+  "regions": {
+    "NEA": {
+      "Gucci": 72,
+      "Louis Vuitton": 68,
+      "Dior": 91,
+      "Chanel": 74,
+      "Prada": 51,
+      "Bottega Veneta": 25,
+      "Saint Laurent": 29,
+      "Balenciaga": 28,
+      "Burberry": 46,
+      "Hermès": 80,
+      "Loewe": 104,
+      "Miu Miu": 34,
+      "Celine": 43,
+      "Fendi": 38,
+      "Valentino": 11,
+      "Givenchy": 12,
+      "Versace": 2,
+      "Armani": 26,
+      "Dolce & Gabbana": 8
+    },
+    "SEA": {
+      "Gucci": 55,
+      "Louis Vuitton": 76,
+      "Dior": 77,
+      "Chanel": 9,
+      "Prada": 39,
+      "Bottega Veneta": 17,
+      "Saint Laurent": 30,
+      "Balenciaga": 25,
+      "Burberry": 37,
+      "Hermès": 30,
+      "Loewe": 26,
+      "Miu Miu": 12,
+      "Celine": 24,
+      "Fendi": 25,
+      "Valentino": 52,
+      "Givenchy": 16,
+      "Versace": 23,
+      "Armani": 21,
+      "Dolce & Gabbana": 19
+    },
+    "NA": {
+      "Gucci": 48,
+      "Louis Vuitton": 64,
+      "Dior": 71,
+      "Chanel": 71,
+      "Prada": 33,
+      "Bottega Veneta": 16,
+      "Saint Laurent": 24,
+      "Balenciaga": 18,
+      "Burberry": 36,
+      "Hermès": 30,
+      "Loewe": 22,
+      "Miu Miu": 10,
+      "Celine": 21,
+      "Fendi": 22,
+      "Valentino": 47,
+      "Givenchy": 17,
+      "Versace": 21,
+      "Armani": 17,
+      "Dolce & Gabbana": 18
+    },
+    "EU": {
+      "Gucci": 112,
+      "Louis Vuitton": 134,
+      "Dior": 124,
+      "Chanel": 124,
+      "Prada": 64,
+      "Bottega Veneta": 32,
+      "Saint Laurent": 123,
+      "Balenciaga": 35,
+      "Burberry": 47,
+      "Hermès": 79,
+      "Loewe": 41,
+      "Miu Miu": 25,
+      "Celine": 52,
+      "Fendi": 38,
+      "Valentino": 154,
+      "Givenchy": 31,
+      "Versace": 50,
+      "Armani": 51,
+      "Dolce & Gabbana": 17
+    }
+  },
+  "evidence": {
+    "NEA": {
+      "Gucci": {
+        "outlets": [
+          "Yahoo!ニュース",
+          "매일경제",
+          "뉴스1",
+          "Chosunbiz",
+          "Letem světem Applem",
+          "ｄメニューニュース"
+        ],
+        "examples": [
+          {
+            "title": "\"구찌 가방 95만원 내렸다\"…콧대 높던 명품업계에 무슨 일이 - 한국경제",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tSjV5OGp4TUN0ZzVLTUkyRUVsRnFKbzJzUFFYWWtCRll5UEpacDE2cVRlSXJwY1dLREJacm5HU1NrYXh0WnM1Q1BDR2hwZW9LcWRBUkNuNVh3UQ?oc=5"
+          },
+          {
+            "title": "“구찌입니다. 30% 깎겠습니다”…불황 길어지자 ‘백기’ 루이비통은 ‘버티기’ - 매일경제",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZZnNSWmhacjdacW5wV21fVmZMWmFJVDVCSXBXOWExQWlEbW5NaW1hbGxTbERiTTFUd3ZSTU5qUl84Qnk0UU9JQ2ExaV9uT0ZNUFE?oc=5"
+          }
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": [
+          "Yahoo!ニュース",
+          "PR TIMES",
+          "Infoseek",
+          "udnSTYLE",
+          "WWDJAPAN",
+          "ABEMA TIMES"
+        ],
+        "examples": [
+          {
+            "title": "ホリデーシーズンは渋谷で旅気分!? 〈ルイ・ヴィトン〉の特別なインスタレーションが登場！（Safari Online） - Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pTVpDYmdYckpaaGtOU24ySk92TFE5eVRfWnpNQkc3cDBUUjdHbGdzVDgxbHhsTm5KTEdMYlNlVTZRNGhBVTYtcFljUUgzdUVDTEhWVWI3LUM3UW4yR0R3N0tuRVM5bHpDZkNIaEk3bDRuWVhZcklPZHJkNVVuOHc?oc=5"
+          },
+          {
+            "title": "モノグラム柄が上品！ 【ルイ・ヴィトン新作】あたたかな「ウィンターブーツ」が登場。日常からリゾートまで活躍 - 朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02aVZvLVRzenZ3Qk0yQnQtYk5JNlZKMTdlNm95QzdDSmFjWWdaRUVuelo2Mk1RbGtCMVZPX1dXaHd1YXQ1V2poV2FMNFVfNm1NRk94UklqY1hFTmc0Wk1kY2dwNA?oc=5"
+          }
+        ]
+      },
+      "Dior": {
+        "outlets": [
+          "ファッションプレス",
+          "Yahoo!ニュース",
+          "MAQUIA",
+          "毎日新聞",
+          "TRILL",
+          "香港01"
+        ],
+        "examples": [
+          {
+            "title": "블랙핑크 지수부터 이부진까지 한자리에…디올 CEO와 삼성가를 잇는 30년 인연 - 경향신문",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yRzZ2YXRveU5NNXBwZV9wdGFZMnZ5cVZmbWN1WW9sNkdhUFZtdFk4MzJTU2ZUOVBjemR4b1gzMHZ1U3RhRVhDTGVPemU5azN3LUVJNmRHWnh4QdIBX0FVX3lxTE1lWFB3SDVyZ2s3UlRNWFRvb1J3MmFyV2JqMFlkbm56TzRTRFU3dTE1M1J0TXdOZnZQbVZkdjFsclZMMlQzRmdxQzVxRW5uMjJQbGVIV19iZDQ2NkFTTnpF?oc=5"
+          },
+          {
+            "title": "우리대학 명예 경영학 박사 된 디올 CEO 델핀 아르노 - 이대학보",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vdzhIczc3dW1TV3pIeEJpUnpxcHZuZGNtbFdiM3drbXR4dGtDZUt2bnNEVnc0M0NiQW1jSGtHZm1DbWNROWJ1dklnbVUxS3ZlaXBDMzJ2WENYNTNGdEc3d2R0aEF3R2szSlhkT01n0gFuQVVfeXFMTW93OEhzNzd1bVNXekh4QmlSenFwdm5kY21sV2Izd2ttdHh0a0NlS3Zuc0RWdzQzQ2JBbWNIa0dmbUNtY1E5YnV2SWdtVTFLdmVpcEMzMnZYQ1g1M0Z0Rzd3ZHRoQXdHazNKWGRPTWc?oc=5"
+          }
+        ]
+      },
+      "Chanel": {
+        "outlets": [
+          "Yahoo!ニュース",
+          "madameFIGARO.jp",
+          "美術手帖",
+          "TRILL",
+          "www.cosmopolitan.co.kr",
+          "ABC뉴스"
+        ],
+        "examples": [
+          {
+            "title": "\"샤넬백 왜 사요?\"…고가 명품 쓸어담던 여성들 몰려간 곳 - 한국경제",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsVjhfdm1ZOXdIVUV6bk1PaWFHUmRfbjluWmNmcmI0SDVmcVV2eWVNaWdOcWZoU0JsU3RWa2NvN0wtOWxjeTRzek1ZNElXVlBxa3haOTJYaUVFdw?oc=5"
+          },
+          {
+            "title": "“샤넬 백이 50달러?”…해외직구 몰리자 ‘짝퉁’도 수두룩 - KBS 뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdkNNUHlYdmljcDI4V0o0YWcyb0hnSThINy10RS1ESnJPeDRUcG5xQzU2UDF1cFF5VHF6T09lUk5ya2c1cjJhODhyQTQ0cEFfWE8yTUYyc0JNTDg?oc=5"
+          }
+        ]
+      },
+      "Prada": {
+        "outlets": [
+          "Yahoo!ニュース",
+          "udnSTYLE",
+          "Fashionsnap.com",
+          "MEN'S NON-NO WEB",
+          "香港經濟日報HKET",
+          "우먼센스"
+        ],
+        "examples": [
+          {
+            "title": "미우치아×라프, 프라다에서 6년째 행복 팀플 중 - 우먼센스",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FVzFxbmxWd3YtbWRZTkFoeWxaN0dHaXplT2VNNWptMlZvZkhqcFlaVmpJeDRYQTVhanBQWFQzbDE3bUZTdnVSeFRBaVhmbzc2Sk1HRXVpX2NpWGw4Mzc4SEwtelFoeUJjRmRybTAzNA?oc=5"
+          },
+          {
+            "title": "스벅 커피 들고 프라다 쇼핑백 메고...‘보살님은 여행중’ 강민지 개인전 - 불교신문",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OWXBlRHh6M1FmSXpRQU82bG4zT3dlY3A5OUNPM1R0U2tFSkswYXFBMktlXzhUaEY3eGVqQXdScWE4ZE52VUNvNm5OaHRwS2psUENpSFNqeU9xRE9jaTk4NWY3cEtaM3ph0gFsQVVfeXFMTjExLUh6WV9jWXdKV21jcVpCUmh3ZmwyMGZjTzNsSWozeHN6R0lFcUc1endyNVhsWlB5N1VIRW1pZ3NiUE1NTlZsZEJHYTU3eXZkNGo2SkFsS1lxTUh6VDRTQ2NqOHkyRFZhUHJE?oc=5"
+          }
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": [
+          "노블레스닷컴",
+          "Yahoo!ニュース",
+          "Fashionsnap.com",
+          "ELLE",
+          "ファッションプレス",
+          "조선일보"
+        ],
+        "examples": [
+          {
+            "title": "성수동 다음은 서촌·북촌? - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWNMVFkxQUoybWZac09xSF8zMEtGMWl0RzVzdEVJS2c4b3AybHdIVkc5V3Y2RkF2ZzJWRTVWX3dXUFk3YnUyWmFCTzRhYXhmaUlzOGwzRzlUcmdjTGdxQk9acEwtZ19mcUV5d2xkajc5WHpoODJ6aF9yMXh6MU85SXJIWEE?oc=5"
+          },
+          {
+            "title": "헤드웨어의 다양한 가능성 - 노블레스닷컴",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXJYUk9OQ0oyMVpMa19UN2JzZWdDelQyUTR2QWo3UHlYalVia196NU5GbDZmTlhJbkFMMm5PLUg3eVdPc2xHYy1rczNoWFpWLWMyVkROVUF0bTlNX3BKVHhHTmJDdWRvcGEzelJvNVIxWE9Ldl9jc2psUC01SjZUX2ZKZXVxbU1kelJlMl9RM0c1ODVpX0xvY1V2Zl9FeUtBT1F4UEw5dEJ2d2hsM2d3MzNFMjlXcFU2clBfcnVTVmtlSlk?oc=5"
+          }
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": [
+          "美的.com",
+          "Yahoo!ニュース",
+          "TRILL",
+          "한국경제",
+          "Weverse",
+          "https://www.frame-less.co.kr/"
+        ],
+        "examples": [
+          {
+            "title": "\"300만원어치를 단돈 40만원에\"…비 뚫고 여의도 몰려간 이유 [현장+] - 한국경제",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRHNFa3I1ZnFPaENVS05vUXdQMTV4MmFPazhZY05lOFh6U1hFLXNsaEZXWVVYTmxQeXU1YXQxN1VEVi1pekJJYVJDYXBzVFdjWHVQQ3N2WDY1Zw?oc=5"
+          },
+          {
+            "title": "안효섭 커뮤니티 포스트 - https://www.instagram.com - Weverse",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85NHQ5STNxclBiXzkweWJxRVgyeFo3SG40dHZZVUxndGpBRWxVeXpldURBWUtDRjhXZWg5cExsa0pxUU1Ed3RNTFdfMXpRZzRhWktxZUsxOW5WbjdIVEdPc3hMbFVoZw?oc=5"
+          }
+        ]
+      },
+      "Balenciaga": {
+        "outlets": [
+          "Hypebeast.KR",
+          "Yahoo!ニュース",
+          "SPUR（シュプール）",
+          "ウォーカープラス",
+          "VOCO News",
+          "Vogue korea"
+        ],
+        "examples": [
+          {
+            "title": "THE NEW CHAPTER OF LE CITY - Vogue korea",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tNFI5U1BaWjdybXQ0RHhuSHM5cm1IaXpRWnI0bmcwUFhJQldSY0REWmZIamJFUDM2ejFaR2ZGX0xiWGxaejJ1b1ZkYU1QTEJ3SHBLN2xnU0pVamxMckI1UU1Fbnk5ZkFxXzVSbU91WQ?oc=5"
+          },
+          {
+            "title": "케이트 모스부터 노윤서까지, 이 가방은 도무지 늙질 않네요 - 엘르 코리아 │ ELLE KOREA",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SVHFsaldyT1g5Qk1mZWhBYWdNR3Y0aW9CR1dQZzBQLUNJaWVxaHhSVF9RRFJVSF9pSnVvaEVVTUJDVC1GbXNsN05HbDJlQ3c?oc=5"
+          }
+        ]
+      },
+      "Burberry": {
+        "outlets": [
+          "Yahoo!ニュース",
+          "한국섬유신문",
+          "임팩트온",
+          "TRILL",
+          "Bella.tw儂儂",
+          "지디넷코리아"
+        ],
+        "examples": [
+          {
+            "title": "가격 낮추고 트렌치코트 앞세우니…버버리, 중화권 매출 5%↑ - 지디넷코리아",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NS1VCbnNqekFmWTJJb3NnQnFmeVNVYXluYXdhTVhxWWhKT196cXhfdFRzeTlnM1ZvcWVUbWRNRDBNS0dFd25FSm1IZjJrb1B5MHUyOU5n?oc=5"
+          },
+          {
+            "title": "버버리, 드디어 흑자 전환…중국서 7% 성장 - 한국섬유신문",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BN0syQ1htTDZYX3BJQTFMS3ZmNWQ1SnFoMnJDWGFMbC1fX1FGTHZPdGhqMHJXckdmQkdGb09IODVFdGs2Mlh2YzMwNW1KMmZyZW9qMk5kTFg2a0pTX0YxMmx4REg2ajVt?oc=5"
+          }
+        ]
+      },
+      "Hermès": {
+        "outlets": [
+          "Yahoo!ニュース",
+          "ELLE HK",
+          "Hypebeast",
+          "Hypebeast.KR",
+          "한국경제",
+          "PR TIMES"
+        ],
+        "examples": [
+          {
+            "title": "손목 위에 구현된 오르페우스의 신화, 슬림 데르메스 '수 르 샤름 도르페' - Hypebeast.KR",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTFtbnlVSEJxaGNoTjFYdm8zN0ZSZTE2VkN0N0hIbksxWkp0VkxyTkRBeThWTDRZT2RGb2FDTmFsWDhSWi0xam1Kd2FNNUJ2ZmZiZkpNVGJVVUpSYTU3NVp3QVRmQ1VHTXB4aXpncVdYcHBkUXFVN0JtLXBtNkVXbDFSX3dHdUtkZ0NVT1dVOWI4MjlmLUk4U2E3V0Vhc2VEWWc?oc=5"
+          },
+          {
+            "title": "에르메스 가방-롤렉스 시계가 경매에?…고액 체납자 압류품으로 세수 충당 - KBS 뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3bjdCX1lib25pWHNYR3NMbFpuNUVIby1ISzRNNXRSekY5VWFUbW5Odlpva1ktRXY2eE9oMDJfSUU3ejhJWjJISEZraW5lX204WkRES0c5VFpXZEk?oc=5"
+          }
+        ]
+      },
+      "Loewe": {
+        "outlets": [
+          "스타뉴스",
+          "톱스타뉴스",
+          "PAP Magazine",
+          "ファッションプレス",
+          "뉴데일리",
+          "Yahoo!ニュース"
+        ],
+        "examples": [
+          {
+            "title": "에스파 지젤과 로에베의 동화 같은 화보 공개 - 엘르 코리아 │ ELLE KOREA",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SdWcwQWZKM3hTaWRLLW1BUTd1bVpsb09zNVlLWE5VdXRjOFZQMk50TVlvdmlUeXl3eUd2U29ZR2pZazVUY3dzT25wUnBGVDA?oc=5"
+          },
+          {
+            "title": "아떼·로에베 퍼퓸, 홀리데이 컬렉션 출시…연말 수요 선점 경쟁 - 뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOU1GRTI3cFptY2dGeGVvXzN0NkF2cFNSV3RqUFVrRnMwY1hDa2lsa1NLWnZmV2NTLXNXcTZVVEVQMlpfUVZXUTFBNEtNcHk3eFNaQ25YNG5JMXlUU0ww?oc=5"
+          }
+        ]
+      },
+      "Miu Miu": {
+        "outlets": [
+          "udnSTYLE",
+          "ETtoday新聞雲",
+          "Yahoo新聞",
+          "LINE TODAY",
+          "주간신문씨엠엔",
+          "JTBC"
+        ],
+        "examples": [
+          {
+            "title": "미우미우 뷰티, ‘미우틴 인텐스 EDP’ 런칭 - 주간신문씨엠엔",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51c1B1ZGM3Z2txNUtJRmQ1c05QZ0NPcXhvSkdXdWh0U0FvTmRrV3c2OTR5Z0ZfT28weUpkdDZlNUtNRmltSTNSMkRPV3JOeXA2dlh1dVdXeDc4YlNtQkVUU1V2Q1RleWVZZHh3?oc=5"
+          },
+          {
+            "title": "(여자)아이들 민니, 글로벌 브랜드 앰버서더 선정 - JTBC",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RdnBBRjZjOUVmSXZFZ2EybV9EVHNjTXRCY01GTkpCazBnMEtrVm5oSjVCdHEwMU5lM1FMWDhiUWwteXRDOWgybDQxcENlRnotQkJFRQ?oc=5"
+          }
+        ]
+      },
+      "Celine": {
+        "outlets": [
+          "ファッションプレス",
+          "GQ Japan",
+          "udnSTYLE",
+          "SNKRDUNK",
+          "Precious.jp",
+          "HOUYHNHNM（フイナム）"
+        ],
+        "examples": [
+          {
+            "title": "미리 찾아온 셀린느의 봄 - W Korea",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnJpd2p5MU5BQ3cydzFBQVFSNGhoTUdNVURNWnpHSGZuMzZZdDMwd1FYckY3bW5qRm56SFQ2clpTRVc3SDBZQWdEU3pNV3d4MmszSUFic0duVFNxTFhKdEF2ZmNEaFUwRTBVZ09CUU11TVoxWjhJY2N4amdYME81UDFFX3dfZ1dNRkhEcmNxbXh1RXBKa0x4eWpVS09Raks4MEhicDNrc0FVWm0yeDd4TFlzNEpHNTlpdmNPdTE0d18tOUFmT00w?oc=5"
+          },
+          {
+            "title": "도시를 벗어난 셀린느, 2027년 봄의 새로운 풍경 - 엘르 코리아 │ ELLE KOREA",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzSm5ydWFabFctUEV1QUE3UXZmZ1p6eWZ3YVNvT0Q0cTlUcEdPY3R4YzRxMzUyTnZLaHdLMUxIbGg2TnRHUHFkRkpnR0J3UVE?oc=5"
+          }
+        ]
+      },
+      "Fendi": {
+        "outlets": [
+          "ファッションプレス",
+          "Yahoo!ニュース",
+          "PR TIMES",
+          "千葉テレビ放送",
+          "땅집고",
+          "더블유더블유디코리아"
+        ],
+        "examples": [
+          {
+            "title": "강남 1000평 땅 1500억 깎아도 외면…'200억 펜디 주택' 꿈 물거품 - 땅집고",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tb0lLVHUxVjBWSVNSb3hTaWVfNUVwU1FkbXZKVFlnREJsV2xodnI5a09WV0NXenZaMEtPZG1xMXpIQ2JLMVEyY3RhSGwzZGhVTWxRbm0tcVpQT0l1WFpibEdvN19nYkF6Tndrckp4TEVVN3ZENmxIdnBrSk5QM1HSAXNBVV95cUxNTW9EanpaZ003dldoOFZLNFZhQnFMalNSSUJESFNqWlhidmZyNWlnUXYxVS1WUEZOOVFTbkJLNTlZSV9aUkFsdWJ5VlNuLVQ1RHI1WU5jM2tna2x4RDdReGxTNVowV0V3dUhQeFVxYVF4bWdr?oc=5"
+          },
+          {
+            "title": "펜디, 로마의 축제 문화를 담은 2027 크루즈 홀리데이 컬렉션 공개 - 더블유더블유디코리아",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lVnJfV1J1ZXNpZ2sxeE9VNkU2OEFVemtja0h1ZjNTZjlESDNEaUlCalI4NWtsUDRzUWFYTWhEbEd3VDRnOVNVcF9uTE1Tb2pMN1BoVl9saHJ5UzYyajBydjZMYWNGUEYtX1E?oc=5"
+          }
+        ]
+      },
+      "Valentino": {
+        "outlets": [
+          "香港經濟日報HKET",
+          "마리끌레르 코리아",
+          "아이즈매거진 | eyesmag",
+          "국제뉴스",
+          "olympics.com",
+          "노블레스닷컴"
+        ],
+        "examples": [
+          {
+            "title": "파티가 끝난 자리에 남은 아름다움, 발렌티노 2027 크루즈 홀리데이 캠페인 - 마리끌레르 코리아",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vM3hCNVpIREhRZDI5c1E1VmNXYV9nN1pLZFVyemRnTExxWGZzeEt2YnF3cnp3QmpiQ18zVGE4eHFyQ292NGZ5MnBQSVJGT1gzTmN2SnVxanlYNFRqa0NUQnFDUGdoSHpwMU5hSWhRZ2VDSEgxMGc?oc=5"
+          },
+          {
+            "title": "파티가 끝난 뒤의 아름다움, 발렌티노 27 크루즈 홀리데이 - 아이즈매거진 | eyesmag",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fTVQzM1lqcHJ4RFhOOVNUa3JMNkdoZU91bnFLVnFtWmlLd1UwODdBMk1CdlBQdzFQZ3FXRGJhSHZBellVUndCb1o5MTV3Zk9mVGxoeE1Rcjhkb1BBUC15eXN2R2hDZHY2S242X3AxSVctUQ?oc=5"
+          }
+        ]
+      },
+      "Givenchy": {
+        "outlets": [
+          "Vogue korea",
+          "www.cosmopolitan.co.kr",
+          "Harper's BAZAAR",
+          "Vogue Japan",
+          "https://ginzamag.com/",
+          "ELLE"
+        ],
+        "examples": [
+          {
+            "title": "빈티지 콤팩트로 뒤덮인 드레스! 엘르 패닝의 ‘헝거 게임’ 프리미어 룩 - Vogue korea",
+            "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQSGJtZ2N5S0ZySUI3d0ZXeU1ZWWhQVWdKOHpidnA5TGkxR3JrTnJsWDB3Q0dneGVJQ2dfcXlPWUhoVVpqanpqQTg1Ync4MHdjM2phNC04MHZFQjJtbnMtZHM5Zk10cmVlMUtETXVYbG54OU9feTFscXNDMDZZT2pPZU9EUWxpYnVGS1lvajF5Mlh0RUJDY3dHWHQ5SGstN1kyTExLODdueVZETkZQOXJoREFTY2FuZmg3dGU4Y1ZTT3VJdjNCQUdQczMzNXgzWi16dzFxN1N6UXhnV3c4WThWMG1EcjBGZ1drbXpwMWZhU09rTzhiMnFrV18xbmVvWUJVeWlLVTB1S2VLelJwbHFOSXBaWENaRlgzOGVZQk5reXdsOXlfY3lFb1FNSmtacG8xN3E2LWtZSDVFQmppVzJIWmZsaE00eGloTUNHd3lCSjBCQQ?oc=5"
+          },
+          {
+            "title": "11월 신상 뷰티 추천 10가지! 샤넬부터 지방시까지 놓치면 아쉬운 뷰티 신제품 - www.cosmopolitan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamFpZjFrZGk0TGtSYlVianRmMVVmVDVLVTB3RHJyTF80LV9TTl93cWVJNjlIUVpsZGtsNTNVbS10cDNFbng4NUNxUEdGU1podEFPQWJnYm9rbkstM2tsYTN3MC1lWnlwVVU1TXNDRE1xSUdEYk5lWWc2UVJ0OHhiODFibnRFTWg1djZRQVlwNG90M2FYWWVOeUx5ZGlUbVUzTFdLbA?oc=5"
+          }
+        ]
+      },
+      "Versace": {
+        "outlets": [
+          "엘르 코리아 │ ELLE KOREA",
+          "Reuters"
+        ],
+        "examples": [
+          {
+            "title": "제니와 RM의 취향에는 교집합이 있습니다 - 엘르 코리아 │ ELLE KOREA",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zSk1yNHc2SzhoZG4xS1c2T0FNY0FRY3ZrYXJacS1SRkdra0ZtMC1qS0Ewcl9aSG5EUXY0Sjh1TG5nOEJ4aHJndDlLZ3cxWlk?oc=5"
+          },
+          {
+            "title": "Versace presents Fall/Winter 2025/2026 collection during Milan Fashion Week - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHFuWHJMWnliZUdVUy1tbHVfcGVGa2VvakRDdXNZVHh3ZU0xaDFUNjAxQl9UVjlFbXpZMzZhaGNGTUpTYTZ2blRLVUxjMkw2a0ZoaUVIX1JQMko3QkdKZllhVmRaYlFWOFN2clN5YnVGNWhqQ0pORlktSXFQVS1aYVNHdUQxYWpxZGFLZXcySGdQaTl1RjVXa21wMHhkOE00c0U3S2FZQVdNUFBBU3NjRV96cmpOX1E?oc=5"
+          }
+        ]
+      },
+      "Armani": {
+        "outlets": [
+          "ウォーカープラス",
+          "ファッションプレス",
+          "PRESIDENT Online（プレジデントオンライン）",
+          "Dellows News",
+          "udnSTYLE",
+          "국제뉴스"
+        ],
+        "examples": [
+          {
+            "title": "엠포리오 아르마니, 배우 배인혁·한지안과 크리스마스 워치 스타일링 선보여 - 국제뉴스",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtNmhCR2lya0hvVDI1SEZlZUlIQnhOa0JNUmcwWkNMak9QSHdGSzM3dTF2SGJWeVNIVFlGTjhpaGNHd09rZTFBQTlZc2J3UFR5eHAyVEEzLTFGWVRLSmU2aE9wR1JZNmwzX3hoQ3pB?oc=5"
+          },
+          {
+            "title": "엠포리오 아르마니, 배인혁·한지안과 연말 워치 스타일링 제안 - 뉴스핌",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3bHVybHlTUlFWQkhPWlpYSFF1Q0JjUFRPN19nbXRwNDYxdEZST0hrWkpORFhqYzlPNERMTm4xdmJWak5yYkpkTFFYbGJ6ZW9ER254XzhtcktzZ0pq?oc=5"
+          }
+        ]
+      },
+      "Dolce & Gabbana": {
+        "outlets": [
+          "한경매거진",
+          "GQ Korea",
+          "마이데일리",
+          "Howl.Link",
+          "GQ Japan",
+          "ARTnews JAPAN"
+        ],
+        "examples": [
+          {
+            "title": "PIN UP - 한경매거진",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kanN2YS1SVHN5M0cxdkdqdGJrdmc4aFc0WHVPV3RhUXBMT1EzZzVDbHdiNGhoRUpEODM5cTgxT2xUaUxFMHh2TGI3RkxPN2sxbTZjY0dJTGJRaWZHT2xwT2N2NmtfMzNm?oc=5"
+          },
+          {
+            "title": "에이티즈 산 “무대에 설 때 다 보여주자, 내가 가진 혼신의 힘을 다해서 보여주자” - GQ Korea",
+            "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOd19FbGVJUkNiZ0FGZ1VCcFpneVlrQ0R0ejhlZHhBWl9zdDFlSjRjZk1VT3JiUmlCWjlrM0lxcF9PZmlpTjVVVm9CcXdzSHp6b0lRMzR3d090YWdITzJvSFdIQU9UZ0xVLWVJQmlrU1JrMERFd2g1S0U5TGNZUXRSZUhmTFlNaDJQSjdaV2hiY2w5bmUxS1ozQmdHYVZxZEY0UEZ5NndibVIwMW90REFSWmZ6ZW5VTk50OTRyNDltU1owcHNhaHVSanM5UXBYV0dWQ1phbFh1NGxDTk5ZMXNSdm1OcW5JemNJTTUzNm0yRTYxektna0JUSUU0cVFhcmJiRlZWaEtQWndXM1A5VUFvVWxuYW94S3dNNklDcjJScVpDQ3NKVzR0YkltNUcxLTJ6RE1uVlMyakFUZTZiRkdBeUVwU2F5eWptSXdj?oc=5"
+          }
+        ]
+      }
+    },
+    "SEA": {
+      "Gucci": {
+        "outlets": [
+          "thestandard.co",
+          "WWD",
+          "Oui Speak Fashion",
+          "AOL.com",
+          "Vogue Thailand",
+          "GQThailand"
+        ],
+        "examples": [
+          {
+            "title": "Gucci เตรียมจัดโชว์ Cruise 2028 ที่นครเซี่ยงไฮ้ หวังปลุกยอดขายตลาดจีน เพื่อกอบกู้แบรนด์! - Vogue Thailand",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBla3pXcHY5MUVKV09kMFBxM3pvTHVKV2RsWnVfRHpWWDhUbU1RV1JMSjJVd3FyUWx2RW4wd1JJWUhiTkZuMlYyUFdZc2xIQXJ5WjlEWVFzZkZsZTBydXNsc0Q3bEo1bFduWHF4ck5xZWdFYU0?oc=5"
+          },
+          {
+            "title": "Gucci เตรียมจัดแฟชั่นโชว์คอลเล็กชัน Cruise 2028 ที่เซี่ยงไฮ้ - thestandard.co",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Xcl9JUlhsRi05UEVSSzktYnlULV8tSjJUdldDODJmN2JxQWFUeG9VRUZiQ1R6VlhNTWszR1E2UldfRldURjhudE9NTHRHSnZNTnUxUmE2dC1xcFU0aWtoNGRvVTlQUQ?oc=5"
+          }
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": [
+          "Hypebeast",
+          "America's Cup",
+          "thestandard.co",
+          "ARTnews.com",
+          "dscene magazine",
+          "Haute Living"
+        ],
+        "examples": [
+          {
+            "title": "Louis Vuitton Keith Haring 2027 เปิดตัว 5 แคปซูลพิเศษ และ 13 กระเป๋ารุ่นลิมิเต็ด Artycapucines - Vogue Thailand",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43VHUxZDdadmhXMDQ2VERtMkNCWFB2b0FpRUp4dG5ORmdqYnVhUldncXNVeVkxR3poT1J6ZGgtRzRaNlR1X05qLXp3Mk5fMHBBTEFTVnJYUlpjODFyTUk0UEZ3bmpqZnJGN1U0N3BpSndhWTc4dVl5cjFB?oc=5"
+          },
+          {
+            "title": "Louis Vuitton ถ่ายทอดศิลปะ Keith Haring สู่ไอเท็มสุดเอ็กซ์คลูซีฟที่เปี่ยมด้วยความสนุก - ELLE Thailand",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xQmdKQzVGR2w3S1pXcTFBcFRic3YydGhOblVVX1hVZjFzTF9QQkpfZ0diOGtwclJuR3puS0s5WmZkd2RTUzBSZm16UnhBRzJaMUVVSVoxSnpOTmtoaUVyVUln?oc=5"
+          }
+        ]
+      },
+      "Dior": {
+        "outlets": [
+          "Lifestyle Asia Hong Kong",
+          "thestandard.co",
+          "Vogue Arabia",
+          "WWD",
+          "Harper's BAZAAR",
+          "Red Carpet Fashion Awards"
+        ],
+        "examples": [
+          {
+            "title": "VOGUE FOCUS | ส่อง 'Dior Ribbon' รองเท้าสนีกเกอร์รุ่นใหม่ล่าสุดของ Dior - Vogue Thailand",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUTXJZaUVhMTRvTGdfRno3SGpYTEtQcWh3NkhHNW1YQV9LZ1FDMnY5Uko2MG4wQWdlZXlJWWFIOU55a19wXzdFTGdmLTZvVlRVd2VPQ3ByNFRGT0RQVXVlNg?oc=5"
+          },
+          {
+            "title": "NEW MENU AT CAFÉ DIOR เปิดเมนูใหม่โดยเชฟ Mauro Colagreco - thestandard.co",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PdW5lcEdlSnNfcHo2Z3MwN2hycW1BelJSTlc4dEpMSnQ2NElnSFpaSjZteUVmOEdLcEZlSWR5dVVGNTJKbFVHcktsdWpOMlBpcGRFQTRrVndFTnBIaWZWdlRYNEZvbHhMLXc?oc=5"
+          }
+        ]
+      },
+      "Chanel": {
+        "outlets": [
+          "thestandard.co",
+          "Lifestyle Asia Hong Kong",
+          "Vogue Thailand",
+          "ELLE Thailand",
+          "Tnews - ทีนิวส์"
+        ],
+        "examples": [
+          {
+            "title": "ดื่มด่ำไปกับมนตร์เสน่ห์แห่งการเกื้อกูล ผ่านวิดีโอแคมเปญ CHANEL End of the Year 2026 ส่งท้ายปี! - Vogue Thailand",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwa216Z3NLS25CT3RpV1g0em5iZlhRQkMzdllfcUFzOU80SVNJZlBFOXZDbGFEby03NXh5VHFnN2pJOGVkdkxobkZENW5HU1ktbTE0UURVQVJtUjd4Tnc4MjQxQXhwMFNOQVJR?oc=5"
+          },
+          {
+            "title": "จากเรื่องราวการพบเจอสู่จุดเริ่มต้นของบทใหม่ในสไตล์อิสระ ผ่าน COCO CRUSH จาก CHANEL - ELLE Thailand",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14WE9XdlhnNVAtNDBoV0IxSjVpMTAtQWJYVXNvYzhXaHN3bzRia3hUYUVsNmFLMjRqVzVtRi1WRVFUV0NxLWFzNjh2ZW16ZmhxRzlmVHhR?oc=5"
+          }
+        ]
+      },
+      "Prada": {
+        "outlets": [
+          "Red Carpet Fashion Awards",
+          "Vietnam.vn",
+          "BroadwayWorld",
+          "Lifestyle Asia Hong Kong",
+          "Harper's BAZAAR",
+          "WWD"
+        ],
+        "examples": [
+          {
+            "title": "การถ่ายทอดประวัติศาสตร์อันยาวนานนับศตวรรษของแบรนด์ Prada อย่างมีชีวิตชีวา - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvWnNKcFRfZ2tJRUkydlZpb1YtLVVCMWRuT25VaFR5MTJDN2l2SGkwZDZRSG1ZN2hZYVUtR0o2ajNUaHdXNXBQZmxhSk81YndZZm5YUVdkVFVzZURiOXBudGhWbmdWT3FlYTl1WG1hSnNBS0hGZWhPeW1tSQ?oc=5"
+          },
+          {
+            "title": "Teri Hatcher จะไม่ร่วมแสดง THE DEVIL WEARS PRADA ในวันที่ 20 พฤศจิกายน - BroadwayWorld",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUE2TTYzOGxFVUp6Vjk1VHBOVXlYWW9TMVRVNXkxazdFaUdNZUdPdk9kWkhyVXc1VlE0bHZRVnM3VGllaEVublA1aExFVGw4cC1hc1kyaV9Mc1ZYREFvakpKa0lWNmVVd19OeFJpNUNwcHRwQWtPVlNkZnM5cWF0elNDbV9pNi1tc3JveUlUUGJaNF8tWGxzWVdJUnR3dnUwak12ZS04STlZR2Z3ZFp3VFdzZ3ltYzY4d1lLd25ZZ2E?oc=5"
+          }
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": [
+          "thestandard.co",
+          "Prestige Online - Singapore",
+          "Popbee",
+          "Red Carpet Fashion Awards",
+          "dscene magazine",
+          "Grazia Singapore"
+        ],
+        "examples": [
+          {
+            "title": "Met Gala 2027 เปลี่ยนธีมนิทรรศการเป็น ‘ExtraOrdinary: Fashion and the Poetics of the Everyday’ - thestandard.co",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RS2VjU2U5YzZGeHF5UnM4cWtITGlPNFNydHlia1ktVUVtZW9uWkhvNDl2YXRDVmZnS3NvUTA5SUZhQ0Y3MXgyT2phdXpkRm41MkFObWJsRU1wOTJpNWstbkVNWFdTMVk?oc=5"
+          },
+          {
+            "title": "5 finest high-end purses in Aishwarya Rai’s collection - Prestige Online - Singapore",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXNZUHg4d3dOY21GbmVIQVoxQnF2U3RoY3R1WWVwWml4UG5hVFI4Y0UxUWxLVXpwZzY3Vi12bERETkVEUzlYYm5GZ291RmVSYTJzbFpFa2xQQ1lDbmlUZ3hBcHZBckt4OTJNM1Y2dW9wZWpKQ3RjUjVZX0dNWWk3Y2l1REJLOUpndGVPZHBBTng1NkNzVEFkRdIBngFBVV95cUxQX2hLb2Ruc2hwRHdKNUw3eHVFS2FEOC1zMktRLVdsODhWWHVURUp6ZjVGZGFacWYxWUVrQTFMMVd2ekFsSmJOelZNbWVxMDktN1lKV0NEcEJiSFNKVmZGVG5SREJBQXh4N3lUMElzcDJVTDlMUFd2N200UVIyTXc2eVA4WGRBbmxONmZXNFhVajhKS1RZZ3pPRUhLQ1Q2Zw?oc=5"
+          }
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": [
+          "Lifestyle Asia Hong Kong",
+          "thestandard.co",
+          "ข่าวสด",
+          "L'Officiel Singapore",
+          "Oui Speak Fashion",
+          "British GQ"
+        ],
+        "examples": [
+          {
+            "title": "Anthony Vaccarello ได้แบรนด์แอมบาสเดอร์ของ Saint Laurent มาซัพพอร์ตที่ CFDA Fashion Awards 2026 - thestandard.co",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jcnZuQnVJSE81OEFfOHpmcFFaY01WNEZlWXloZ0xWdmFfbmtTeFMzZGxrVHZvbDYzS0ltZlFtNmlUTWlsUUZ2UDJOZ2JpU2VOcHRmUkl4aGwzSlUyUWVxSnU1Q0g4cWVFb1B2U0pOVQ?oc=5"
+          },
+          {
+            "title": "7 THINGS WE LOVE ABOUT ANTHONY VACCARELLO หนึ่งในดีไซเนอร์ที่สำคัญที่สุดในทศวรรษนี้ - thestandard.co",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWck4zam5QckdaSEJfWWlNRWtYdXMwTDBSY09HQ2NyZUtKLV9XU0RBbmJQWHhqelNkdkduSTRCd3VBWjNVd3ZJQ1lMekVPSFRkemM3QUVwVGlHRGhQY3Juc1ZmSTNLX1VPQ3hWektxX19GbG8?oc=5"
+          }
+        ]
+      },
+      "Balenciaga": {
+        "outlets": [
+          "Kering",
+          "thestandard.co",
+          "Facebook",
+          "Hypebeast",
+          "Vogue Arabia",
+          "Who What Wear"
+        ],
+        "examples": [
+          {
+            "title": "Pierpaolo Piccioli ออกจาก Balenciaga หลังทำงานที่แบรนด์ได้เพียง 16 เดือน - thestandard.co",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90RTNidWVPcWdkRE1XcGw5QmIxNF9QVzB1bncyRXJKOG0wcF8tUWt6aXB0c25MOHMxYW1OY0EwZjExQ2dKT0hVT0VobU9oQTJZSWdvTFR1bWVvQmJZcGFRbE1nRF9OVFB3ZExvYWxYWjlEU3BiSDMxUE13?oc=5"
+          },
+          {
+            "title": "Ch7HD. . สีสันขอบสนาม : สนามนี้กองเชียร์ชนะ | ฟุตบอลนักเรียน 7 คน แชมป์กีฬา 7HD แชมเปียน คัพ 2026 | วันที่ 14 พฤศจิกายน 2569 . 📌 ติดตามรายละเอียดเพิ่มเติมได้ที่ : https://www.ch7.com/champ7hd/football2026 . #Chula #PMCU #Warrix #WarrixSports #ฟุตบอลแชมป์7H - Facebook",
+            "url": "https://news.google.com/rss/articles/CBMinAdBVV95cUxNeUUtM3AwNnZNYW5IWkZsMzdlNC04UlRFandsZXl2TXFubElVZXBPc0pGR3VVcFkxLTFJa1lTcnJlUDFTQ01jWUJzUTd6UDB3ajBQa2VCeFdqcmJoSlRLSzEwTGM1UGtCTWh1YmlKWC13ejl4QVB6T0RJb1pRazZJWmZvOFZyRUxNNU4yLXdtLW5RbGtJMFBzTWhpZlQza1dNdHY4NWVGME5jd25Nd0Y0UXlQRnpFU3oyRWduV1BEM19KRGZTX29XSzVza3pacnR6Z1BYeFhubF9WS0hXek9qbTVRUnlVelNPQ20wLTFZVHlrZmh2QVhpc2REbXZVRWJRRWpKTnRiYWp4dGFMY1BzMGhLdjNJc0xoNmRfMG12amhKbDE5MzE2ZGhlUUh6T2tibW11dzFNSFpvY1pSdFdHTV9SM1FVWU5kNXJLX0J2dzM0UTRRNksycEVxcUVjMWdFRlh4dXoxS2E2cGFWWi1uNzFsQnV3dW9uVlBHbTdBMnZFaGNucG44S0I4Q1JDTTFtUlBValc2WU1oc0lxSEJjWldMWm5KX05oWmhFaWc0c0xsTXJ3MlpGc0RrekpKRjdBM3Z0bDJyWEROd3liRG1UV2FCUFZ5SlBzdHNQdTVxYWROZkhVX3MwVXJ4QWk3UGtZb2RERlNrdWdSakE5dmVFY2kyZ19NLU9QeXlfeXJwSGtuclNxY244RXlCTHZucTlab1ozU3BGYXVxZXQxYm1xNjI0U0NqSi16UlYxTEd4ODd1VXp0ejB5WDM3Wmc0dGl6b2RVS1RzUmxLZi14T3ZSM1FfMVFaazNabUJoZXNfVFdyRU1rVjAyaU9sZWM1dWg5R0Z4bzJoeS03YXhLWGZCUENId0tWTmFldjVDaTNqVjJWNFQ3NEhNRGgwMzBsRTdCdW92cDdYb3hEUGlyMHF1SHVNWW9WSDRkSjB0ZHlpNTMxTnRUaXBaaXRCeG5hcnBiaVlsMTdBVWlEd0V1dUdTZHdlaml1WnhmUWdYZm9KSDVCV2ZXOHZoNWFMMHVzT21lVklSNGRIN0lqWFFHSVhERXVnTUJLVWVtZmxQNU9IdkZ1NTlfX09td00zbHItRUdBMnlrZ2tFMjJVX1JaRmVxenExTngxdmtnbWtYemhwdFdWMW1oQ0tGRmNrSEtuT2NPTE1haS1qNjlxRGZ2LS03MWFOSTRybzhOWDFFUnlrem5WQ1ctSVdiV1kxcGI?oc=5"
+          }
+        ]
+      },
+      "Burberry": {
+        "outlets": [
+          "WWD",
+          "Simply Wall St",
+          "thestandard.co",
+          "Lifestyle Asia Hong Kong",
+          "Inside Retail Asia",
+          "Vogue Adria"
+        ],
+        "examples": [
+          {
+            "title": "Burberry มียอดขายเพิ่มขึ้น 6% ในครึ่งแรกของปีงบประมาณ - thestandard.co",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwRklUWE55Q2J4NmRXMU9xQWxPQk9yMXUwNjRzODlMODJrVUJqRjFCSkw3bkhpMHJKN1NNWnFCR3VIa0NMNlcwbllzdUlHWHk2NzhHN1llRkdlRTNHMFk5NkRoWHM?oc=5"
+          },
+          {
+            "title": "อัปเดตเทรนด์แฟชั่นล่าสุด กับคอลเลกชันใหม่และแคมเปญจาก 7 แบรนด์ดังระดับโลก - Lifestyle Asia Hong Kong",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS20tY040elI0S2UxNnhDMVgxUGFNTld6M1pKbXlYaDdick1QNGEwYUNVSzljN2R2WnRkMTVTdE9vTF9nMURLcEVhVzFzUHV4MlZBWTZhcTFLZ0VFYXQ2eFhscnR5WDZRQ29oTUNLVzV6QjNyZmZDVjZpSWdVdHcyaElJRmPSAYoBQVVfeXFMT3JGZWcxdkpsS29iUVJLcWZpTlJDWk9QMHJVV2ZockdXY0g0ZFo1YWdBdlU3SlRBWk9qX3lQZm9FR1otMU15SFRSd0tvOGhJU05xWkxPc0RFRHlPRlBPNGhuZGFRdjd2NGlRUld0WUxJaWdTUUFaakxnR0NqT1pURGpXM2lpTTNJMWNn?oc=5"
+          }
+        ]
+      },
+      "Hermès": {
+        "outlets": [
+          "Idéal Investisseur",
+          "Prestige Online - Singapore",
+          "Hypebeast",
+          "Reuters",
+          "Yahoo Finance Australia",
+          "Euronext Markets: Real-time Stock Market Data | live"
+        ],
+        "examples": [
+          {
+            "title": "Rare Birkins to crocodile Kellys: 5 top things from Karan Johar’s Hermès collection - Prestige Online - Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTDFHbzNqRHNlcDhZSHFjNHRXR0d4cEhkaHZCUjlYcjRyYnJZNzI5WFlJdnRCVHplRGUzZDFBRGROdWF4VWdYWHdRYk5jQUkzeHpJYXU1QnhiVm5nbHN3YzR3OHVhSXd4OFFQRjZyd2NnNTJ6RDdqdE5ncnJCQTlZTDJRMzhwb25mQzJXUnZ5aHFaNmF5MDFHNUtRZnFQdVZIVmZV0gGoAUFVX3lxTE5oNThTcTFLZmsySk9vLWszZ3I5R01sMzl4Q250SDlYR05jQzdXb21XT3Z3V0l1bnQ1RFppMmltMmQteHV2c3lZMjJZOENCeUNUODg1QlB6WHY2VHR2Qmo5MlVuZ0d2UDVBQkVyTk5jVm5HMFJ5d3lGMlpDTkg5S2lBYUc1Vm9NZFdZNUZ3Q09UTHdzNlNTVkotdXY3Z1FOWTVmOEtzYWlDZg?oc=5"
+          },
+          {
+            "title": "EXCLUSIVE: Judge orders cognitive checks on Hermès heir who says his fortune was stolen, sources say - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHFmc2FDSU8wbE5RWXlpcVJBRU1CdzN2WHpNcm8yYm91TTAyTklWV0NJZzhaOUxBQURQYVFrU18xR3FQVVJxRnVRWkFHLVNIWnU1eUZ5Xzd1SFl5RENQQl9vU1JfR3FxcGtKY1lSTkw1Q09EY0l3OENQTzQ0c1pYUmNnM0VVMzBSQzN1SVdTTWxPSHMxYmk5S3FoLUV1a1RLSWFrRmJfSzVkeUJ1X21LVXhaRGF3VjJ4WGZCRGFBU19hOGt0a1NsUXNKZlAxcWhjUXc?oc=5"
+          }
+        ]
+      },
+      "Loewe": {
+        "outlets": [
+          "스포츠조선",
+          "Vietnam.vn",
+          "thestandard.co",
+          "Unisba Media",
+          "Lifestyle Asia Hong Kong",
+          "South China Morning Post"
+        ],
+        "examples": [
+          {
+            "title": "LOEWE เผยโฉมคอลเลเล็กชัน ‘Nightmare Before Christmas’ สำหรับเทศกาลเฟสทีฟ - thestandard.co",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaU9jcW5zUHM2NXVFZ3NNd2NHaC0zRHpOWkd5UUpKbVhnWmJXa0ZxelF2WWJvYldpQXpKWmVwbTNzd0R3SUhRUENEWWdDaHRYOVJHT3BOYm16WExpZXNCZGt4eTYxdzhKR0hpVFlzaXBxTDVnOTJNZkRZd2U4R3U3Sg?oc=5"
+          },
+          {
+            "title": "Loewe เฉลิมฉลองคริสต์มาสด้วย \"ฝันร้าย\" สุดแฟนตาซีของทิม เบอร์ตัน - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUF9GbDF1Tjgzb3B2QlFDeE1vUUoxeElEYW9iMUdOUFQxYkphOVg1NzhsUXhXM1VsSm1MNXNZZ091Njh5UXJPclp4LXVTYlFRY0NZZ19lTlNrNmJvMVhJNHFfVk1BczU0ZVZDVUQyOXdtb0tCLWNURGhQY3RFMGRDZ3NPWUhJMWFBT044?oc=5"
+          }
+        ]
+      },
+      "Miu Miu": {
+        "outlets": [
+          "Lifestyle Asia Hong Kong",
+          "Hashtag Legend Hong Kong",
+          "WWD",
+          "People.com",
+          "Ynetnews",
+          "Paris Select Book"
+        ],
+        "examples": [
+          {
+            "title": "เจาะเส้นทางแบรนด์แอมบาสเดอร์ “MEOVV“ เกิร์ลกรุ๊ปที่ถูกสร้างให้อยู่ในโลกแฟชั่นตั้งแต่วันแรก - Lifestyle Asia Hong Kong",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nbUE0dExMYVB3UUl1VWdVa29mbkk5dEc0SnBFMzhkZUhxVmphcHZvSDlSalVGbEw1NGQ1c0swODZiVEhIcHZpS2x0Znlsd19TRjYxT1NKVkl4ckNjNHpXdHhvcFpVZ0xXV2dLT1pSalZhQdIBd0FVX3lxTFBtVm1USm1kVWRPWk54czRSa2E1ejA0WDVEQnphV0lSRi1vWTFISmNsR1daX2R1S0kyVEdYUGRXNl95RmtrSFJwT0JMVHg0aXVDTTRRYU52MXp5NUQ0UDdaOGZucFRDYm9SbFR4M0ZxR3N1bXJJZmxv?oc=5"
+          },
+          {
+            "title": "A guide to TXT Yeonjun's major brand collaborations in 2026, from Miu Miu to UGG - Hashtag Legend Hong Kong",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEJ3VHR4M0VhNEU0MnM1NFp1b1luclpvSEVReUN2OW1UNmJyZkNxazhndTJwRTJjWlNzV2tBbnU2Q29RNmhfdTVabUxTZlh0cVV6eDZ4UTY2MmZlcExGbU9BTkc5YXRkMkl5eFVENlVjYXl6MGhMVThodERCODlnOV9GVVpDSmF3dnRrR2pYT2N2aXI3WFhDUnVoWlQ1NGtlSzZraklPbw?oc=5"
+          }
+        ]
+      },
+      "Celine": {
+        "outlets": [
+          "ABC News - Breaking News, Latest News and Videos",
+          "NewsBreak: Local News & Alerts",
+          "LINE TODAY",
+          "ข่าวสด",
+          "Lifestyle Asia Hong Kong",
+          "MuslimThaiPost"
+        ],
+        "examples": [
+          {
+            "title": "สุดภูมิใจ! พ่อแม่ลิซ่า บินร่วมชมคอนเสิร์ตใหญ่ที่ลาสเวกัส เห็นโมเมนต์นี้แล้วใจฟู | มุมข่าว - LINE TODAY",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NTE1oUXBhMHZCaUxMX3FzeUJtb3g2Q091eDBWRnFHbUFmRm4zWF9EZjBSRU13MFU2WEFhNDR3NmRDc0JKOHAtSFU0dmtxRVViT0F4T3dn?oc=5"
+          },
+          {
+            "title": "อีโบลาในดีอาร์คองโก “ยังน่าห่วง” เหตุสู้รบขวางการควบคุมโรค-เสียชีวิต 5,437 ราย - ข่าวสด",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBORm5DWFA1OW8zV0pKTDR5Wm1qbnM2T0RScklnODZPSG00Y2JUZGFQenR5ZXpUSkw3bDJzSl9jR3JDS3hYZmJSMnYzTnZEaV8yTzJQSEhteV9WRlVGVDhwRVJjdm5ObWt5MlZKdjN3?oc=5"
+          }
+        ]
+      },
+      "Fendi": {
+        "outlets": [
+          "Lifestyle Asia Hong Kong",
+          "Vietnam.vn",
+          "WWD",
+          "Glitz",
+          "Paris Select Book",
+          "L'Officiel Singapore"
+        ],
+        "examples": [
+          {
+            "title": "Bang Chan จาก Stray Kids และ Yuna แห่ง ITZY ถ่ายทอดเสน่ห์ในลุคสุดหรูจาก FENDI - Lifestyle Asia Hong Kong",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0c0ZUEwWVdCcmwtTk9vMFdVN050dHA5d0ZLZUY1aUR6STJiaUVpNlQzWTJCZmk1cElQcHdITDV6aEltV1F5dVlxWndOZzhJa3VpcVIzVnFLeU9DX0hoRHJWOWJPQTJaUVp4T1N0VElHUmUzVFp2dnVyRzJnNmlhbGR2Yno2RHlWUWdkVnZfZ9IBlAFBVV95cUxNQnNpX3lCZ3VqM1R3SmJnNHJQT1V1WVJsbkZ2dXZNc1E4OWV2endNcTBVQ0ZoTEFWV21NV2txZUo2bkZESUYtSDJCQ01KS3ZLTEQ3SU9qX0M1UlN4RlA5LTdBdzVUUXBZalllWlgwLUp0UWZySnhVc0JVVF96ZDhoYmJ3VEw1UUpHckdFdEJobjc2NjY4?oc=5"
+          },
+          {
+            "title": "กำลังตรวจสอบเอกลักษณ์ของศพที่พบบริเวณเชิงสะพานถ่วนฟือก - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDlhRVlOWVJuY3VVYnN3bF9nNG1fWWNzLXhTYno4M1FiN0xueXk3dEFXdndpVk12ejV2Vm5SLXdzaklWZEdrSkVwSlNUSEVWcXpOV3dvUmM3dTg1UVYyZzFKUUwyYUpGOG1qQUpQRVZwRk54bmgzRHU1ZkZ3ejZpZ2U2dHRvaGdvOGd6QWV4UDJXVVhlUHV3?oc=5"
+          }
+        ]
+      },
+      "Valentino": {
+        "outlets": [
+          "Motorcycle Sports",
+          "MotoGP News",
+          "Corsedimoto",
+          "Crash.net",
+          "AOL.com",
+          "GPblog"
+        ],
+        "examples": [
+          {
+            "title": "เซอไพรส์! 'ฟรีน-สโรชา' ร่วมขึ้นแคมเปญ Valentino Cruise Holiday 2027 - Vogue Thailand",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdW9IY2EtWldZbjNzU3VkQndvQlFjUUN6dVJ3TFZiY1FmVnVRN2hSdUNaQ25HbWtWVVRGS1VFRFVCT09CNmpKdXRBdk1Bb1F2eEpUamdOcGJJZ3NNZ2NoNWlvLWhxYXZ2VXFWYko0TEhxWWNnQWVVQWxlYk1CSzFEeE9CbUU5UQ?oc=5"
+          },
+          {
+            "title": "พูดคุยกับแบรนด์แอมบาสเดอร์ VALENTINO 'ฟรีน สโรชา' กับการร่วมถ่ายทอดแคมเปญล่าสุด เอ็กซ์คลูซีฟเฉพาะ Tatler Thailand - Tatler Asia",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHNLcHJtTEtKRGhLQ0hmRXF5RzVXVW5OdEd5azVTRzJlWHlwRkh5Z1phLXZ2R2hqTEp4SE1UeWNpNXJ4d29HMi13TF9VRGszenlnZFRIOWVENEd1dTR4NGRFamVHMnFyNE5ISnIzZDVjZGFwR0tNNndheUdKcW1PQk8tSUZhTy04UTRzSWxKRDQ?oc=5"
+          }
+        ]
+      },
+      "Givenchy": {
+        "outlets": [
+          "Red Carpet Fashion Awards",
+          "Harper's BAZAAR",
+          "WWD",
+          "theFashionSpot",
+          "HELLO!",
+          "Fashion Times UK"
+        ],
+        "examples": [
+          {
+            "title": "Michelle Yeoh’s London Look Is a Better Fit for ‘Blade Runner 2099’ - Red Carpet Fashion Awards",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXljOTAtbnhTQXM3UlY3UkduOEtGbVFmbmlDSzNVcDlpTXVPVkIyNlRMQk5hOGlXSUhrWk1SSkQzWEtDRi1ZUElCOHVYd1h2QlI2ZWVUMXFST0NHTWxUS05CdXVzcl94cjZUemNxbW5PZEFWYmVlLTVFVnpjcVIxVXpTZ3F2OHB1NHFLVGNrUEFIMUxrY1JhY3dYenBpMy1uUmt5UHhFb1gyem5uS2dJajFqMHFDYzA?oc=5"
+          },
+          {
+            "title": "Elle Fanning's 'makeup dress' was crafted from antique beauty compacts and lipsticks: see it up close - Harper's BAZAAR",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbldOZERKc2c1VFRaT3dmT0Z1bUVFRkczSVFZdmN6di1GOE4wWkg0WHRvTmFCb3hKN3ZEcTgwZGZ3cElFVm9oT2ozdnpRck5LREp1a2JNVUZPZURqb1JTbFBhakJhZEx0d0h2SmtOZlBET3hQTlhFY0NmRlY5WWJDbTZBU1dtZS1ibnNfb1dmOWNNWnJpbmcyaEJwSG9Ebzh4?oc=5"
+          }
+        ]
+      },
+      "Versace": {
+        "outlets": [
+          "graziamagazine.com",
+          "SSBCrack",
+          "Vogue Thailand",
+          "thestandard.co",
+          "WWD",
+          "nss magazine"
+        ],
+        "examples": [
+          {
+            "title": "ชุดเข็มกลัด VERSACE ในตำนาน ที่เสกให้ Elizabeth Hurley กลายเป็นแฟชั่นไอคอนชั่วข้ามคืน - Vogue Thailand",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQjZseFJzMEJ5c0FkRFo5RlliZkItamx6RldHbG9FaDdfSmVZUVpJYzlISERLb3BHeExkWE5ia3ZZWFloeFB4QXp0eTN0TmQyUURkVXp2cUF6ZWJsTEFVYmRkUk81NFVJNmN2cQ?oc=5"
+          },
+          {
+            "title": "7 THINGS WE LOVE ABOUT ANTHONY VACCARELLO หนึ่งในดีไซเนอร์ที่สำคัญที่สุดในทศวรรษนี้ - thestandard.co",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWck4zam5QckdaSEJfWWlNRWtYdXMwTDBSY09HQ2NyZUtKLV9XU0RBbmJQWHhqelNkdkduSTRCd3VBWjNVd3ZJQ1lMekVPSFRkemM3QUVwVGlHRGhQY3Juc1ZmSTNLX1VPQ3hWektxX19GbG8?oc=5"
+          }
+        ]
+      },
+      "Armani": {
+        "outlets": [
+          "CBC",
+          "Howl.Link",
+          "แนวหน้า",
+          "Lifestyle Asia Hong Kong",
+          "The New York Times",
+          "Euroleague Basketball"
+        ],
+        "examples": [
+          {
+            "title": "middle.officialth - Howl.Link",
+            "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBLZ25ZTDJIU1gxcjBQZ2NGekNnbU1XNFo1YXd4SEVfSGlmNlQzUHlhTGo0NkthaVRaZEU0?oc=5"
+          },
+          {
+            "title": "EA7 Armani ถ่ายทอดนิยามสปอร์ตแฟชั่นผ่าน 'ฟอส–จิงจิง' ในงาน EA7 Training Class - แนวหน้า",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrTUFVS2dlSnp4LURNOTU5SmJmUGZQWTBVY08ydmVkeFhITGdzNXRaUHJzMnVFb0lNVm53eGFBVGNqTXRwb0YzSlNlbHkzUE4tenVLanFIOEc1X2l3SXdRSXVoSVMydVRYSGdJ?oc=5"
+          }
+        ]
+      },
+      "Dolce & Gabbana": {
+        "outlets": [
+          "Vogue Arabia",
+          "Hacerse la crítica",
+          "DAMAN Magazine",
+          "FashionNetwork India",
+          "Marie Claire",
+          "India Retailing"
+        ],
+        "examples": [
+          {
+            "title": "Huda El Mufti Arrives In Archival Dolce & Gabbana At The Vogue Arabia Ball 2026 - Vogue Arabia",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmVZMGlKYXlTLUwyNE5FLTNfRmlmdWxmYkVNRkdhSnVRanZQeUFYbllGVkh4WTNZUk1DbVpTSkRaUEJ5aERnOWRfcGpGWjh4emJ2TDF6SFFYZnRIb2hlNGtEek5qNF9jc2dzQm9XdGdVcXhRVDZrMXJVUXVpdEdHTUdzblpTUVotdDJvcWdBT21BVFpL?oc=5"
+          },
+          {
+            "title": "DOLCE & GABBANA Brown Biscuit Tweed Wide Leg Pants New & Aut - Hacerse la crítica",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54SXFyeC1ZY0pjaXpRVTM1Q0wzQkRzYVhld3NkekEzcGNhclN1V1BBX1F4T2RlVnUtUWh1QmkxTUU5Z09vekQ0RGlRWXpucW5RamJFdV9uOHZFUQ?oc=5"
+          }
+        ]
+      }
+    },
+    "NA": {
+      "Gucci": {
+        "outlets": [
+          "WWD",
+          "AOL.com",
+          "Oui Speak Fashion",
+          "WSJ",
+          "Inc.com",
+          "Forbes"
+        ],
+        "examples": [
+          {
+            "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend. - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWpBNTBRbHpNNDdJbjBLcWZYX1pucmpxYkx3Y0Rld0JTVkpTcjUzQ0pQU01aeG0xMUZsemxFdW1CNzdHMXlOMDZNLVZXVVJCdXc3cjg2bjZVa0NycDZkVEZMN0RwelZ5ZVFnamRlRnpLVU1nWFpjRGN1bEtOeUJWZkFUdkdIeEJxaWhZcEFBZmVyY1dWZktmVFJYYUg2NVFEMk1YZ2dBWTBna25WN0p1TmdocEtQUQ?oc=5"
+          },
+          {
+            "title": "Gucci Cut Bag Prices By 30%. The Future of Luxury May Not Be About Cost at All - Inc.com",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWC1TOE9JSkhwakR3WUUwcnpFRlpFc3VmY0ZpUDFIdWNISE1iNVRhc3hwMGR0bXRKQXh5OF9NQzJCWXMwQVotT3pZUDAtZFpwRmJ5X1FuM3c2dXdlZkZEcG82aDFqX3RmZmVJT3RmOUtRaHlSN2wzVUVwMU1XTjJPWnp6WkY?oc=5"
+          }
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": [
+          "America's Cup",
+          "ARTnews.com",
+          "Haute Living",
+          "Hypebeast",
+          "dscene magazine",
+          "Paris Select Book"
+        ],
+        "examples": [
+          {
+            "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend. - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWpBNTBRbHpNNDdJbjBLcWZYX1pucmpxYkx3Y0Rld0JTVkpTcjUzQ0pQU01aeG0xMUZsemxFdW1CNzdHMXlOMDZNLVZXVVJCdXc3cjg2bjZVa0NycDZkVEZMN0RwelZ5ZVFnamRlRnpLVU1nWFpjRGN1bEtOeUJWZkFUdkdIeEJxaWhZcEFBZmVyY1dWZktmVFJYYUg2NVFEMk1YZ2dBWTBna25WN0p1TmdocEtQUQ?oc=5"
+          },
+          {
+            "title": "Rare Artist-Designed Louis Vuitton Handbags Included in Upcoming Christie’s Upcoming Online Sale - ARTnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzJfU0ZQb1BBcHd6cVpVUVRGSU1ERDZ0ZWNOZjhiOGRJZm9EYjNOUUMtVDA4Wmp0eGJyR1pEM014U3VMRXVucnV0VURZM3dZa2w1bWQwZUFfY28tejZqd3lYZzhqY0RZbk52NkdlbS15Yk5yRlg5VTV0MjhzOXo3Y1R5alMtM0hHaEhMWFkzTU4tU3FWOXE2aTl6VkJlZ2JhNlpxNFdkUzJIRGJ0Z0ZBbWQ2aldjUGtFMXpsVEE1aGk?oc=5"
+          }
+        ]
+      },
+      "Dior": {
+        "outlets": [
+          "WWD",
+          "Variety",
+          "Modern Luxury",
+          "Field Level Media",
+          "Red Carpet Fashion Awards",
+          "Harper's BAZAAR"
+        ],
+        "examples": [
+          {
+            "title": "DIOR X SUNDANCE INSTITUTE PARTNERSHIP ANNOUNCED AHEAD OF 2027 SUNDANCE FILM FESTIVAL - sundance.org",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbExFaF84WTBwbVQzbm5nVUg5LWRPTjRDS0NLc3Zrakt1YkZ5dWRPMDFHQUZJQnAtMHppTFk3SlZYMHVsTkpLOTJtWUJoM0N0RUNvdWREUFB1WUM1Nno4N21WclVPQWZPQWJRZzRaamktaVc2enlxNkpJTnVndmI5TVlZZWItQUdZcFhnMnFIaWdWb2drTDBoNUltQjN2UW9jZXV1MVNBYnRzR0l5SU85cW14b1F3YTA?oc=5"
+          },
+          {
+            "title": "Sundance Institute Partners With Dior to Support Female Filmmakers Through New Initiatives - The Hollywood Reporter",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHVQeGx5eDdKZzJWQWNQNGNiYTktSHhrZWJJd2R2aTh3SEZVdGYwZUNXdnQzMHhhc0FxRXZuQ0NKM1NnMXZIWWF4UlVMNW1BcVRTblpzWVBPT3RjVkh5djh5YWZIWXMyYnJBVlUxTDgyLTQ4UVFTYy1Pa3JLVEJwSkUwRHFBWWc4T1U1aHdYc1FvYmVOWjlDQlVJWUU0ZXRNWW4wVkdEVjdtZzRPZm95eExITENUU3YwVk1ya3ZB?oc=5"
+          }
+        ]
+      },
+      "Chanel": {
+        "outlets": [
+          "Vogue",
+          "WWD",
+          "Daily Mail",
+          "The Cut",
+          "Haute Living",
+          "Red Carpet Fashion Awards"
+        ],
+        "examples": [
+          {
+            "title": "MoMA and Chanel Rolled Out the Red Carpet to Honor Steven Spielberg - Vogue",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTNPTTJHMldpa2lWV0s3R1dXeU1EY194X2xENE5yMWdiYlZEYURTRTRxR202QUNXQ2tSckZBNlVmeHpuaFF4enNXQ1VPbTVESjI2dzB3T2hSdG1veVE5cG9SR3pOb0YwbTgwZFE3UnRxd0FzcloxWHdlaDg3ZFlrYjdSeHk?oc=5"
+          },
+          {
+            "title": "There’s Another Viral Bag You Need - The Cut",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zdndmek1wSngzbTZ6RkJZZ0puYW1Sd3I4ZURrTzMxVEpJZHVmSWdPeFBKandFMVAxNzNpdDVibHNSTGVXRTF6eER0aGpTaFR2ZXFOUTAtMkhEZjZidnpvTWJCNlVKX3ItSFhNSHZBRzRiQQ?oc=5"
+          }
+        ]
+      },
+      "Prada": {
+        "outlets": [
+          "Red Carpet Fashion Awards",
+          "Harper's BAZAAR",
+          "WWD",
+          "Fashion Times UK",
+          "Vogue",
+          "The Worldwide Guide To Movie Locations"
+        ],
+        "examples": [
+          {
+            "title": "The Real Story Behind ‘Drawing Prada’ - Vogue",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xNUUxY3BYcmNuaUhkWDdnWC1VQlBDWTZOUGpGOHZjc09DVHM5RlJqLVZKcUg4NXJfMUprVnFMRVJZVXhiUjViaVl2ZXFyaDEyeE00ZXgwcm9LeHIzblR6NjBsdURqbGp4TUN3Z1Q0NWVuQkE?oc=5"
+          },
+          {
+            "title": "Hunter Schafer Flawlessly Pulls Off the World’s Teeniest Leather Minidress - Harper's BAZAAR",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGZLN1hRQV9CQjFxMWlCT3dValVCSEM0TEd3NWZabG9ZbGtTZjdxS3M1TnFvZURZci1BVDRnaGgxd083UjNQMm40cGlRVGU1RXd1LTNKSnl5UmdSMGJwaW8xUUJ3RHVnVDlKa2RRTmpwSzV5SG1YYnh5RE9XMnJZUWk0YjFwUWV5NlFMa09hRXpfMk1nZXJMelQzYXI4OU5VRTN3VmRYampldWVhcUFXcG51XzdjV25qZDdERW5uY09sUXB3d0NKNWlZa1gyeEpfUWItdm1LbWZOR0U?oc=5"
+          }
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": [
+          "Red Carpet Fashion Awards",
+          "InStyle",
+          "dscene magazine",
+          "WWD",
+          "Man of Many",
+          "Popbee"
+        ],
+        "examples": [
+          {
+            "title": "Celebrities in Bottega Veneta at the 2026 Governors Awards - Red Carpet Fashion Awards",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1ZRcTNQRW5WcTFyaTJxNVA2eWQ3aWt3Z0p1SGFkb0lOdjdiVFFDUGJOUmRnb3ZoYmZOWjlJWWNsSmVBTEtfVG9OZXQyYnN4ZVJ4ZGxIb2k4eDlrTTIwN25ONC03azNWR2x3Xzg2NFprWjNhTHZsQk1qcDlMb2ViSWs2ZUtvbzF0a1p2SDB0T0Fzdm5wTXdabC1EejQ4Yi1JckIxS0JoZUw3anlfU3VJ?oc=5"
+          },
+          {
+            "title": "I Test-Drove This Bottega Veneta Lookalike for Over a Year—It’s Such a Steal, I’m Grabbing Another Rich Color - InStyle",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQenZKQjA1RTRFdS1PbWI3dDF4Tk1hNWYxX3MwY3BjM0ZaTXJmMW1WMjRXNlAwVzQtUjRuT2QyNkhndFhEdGZCZWxHQWh6MmFXRTd1UUJoQVdwVDBFdE12Y194blA1ZnZzRUpXTEtoWU1tclR4OVFjQUZsbjR2dG01dWRZNmdDSkFwc19J?oc=5"
+          }
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": [
+          "Modern Luxury",
+          "nss magazine",
+          "British GQ",
+          "L'OFFICIEL USA",
+          "Harper's Bazaar India",
+          "Oui Speak Fashion"
+        ],
+        "examples": [
+          {
+            "title": "Saint Laurent Introduces the Simone Bag, a New Take on Timeless Parisian Elegance - Modern Luxury",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmJnS3kwMGp5ZmF5eVpwbmU1NHJ1UUUyTkJ2YzlsQ1hGRUpoWnIzQi13el9IM1pyeFhIRU11THRDbVAzckNDaHVjd3d0dWplVmxibnVLbDEwdmhEeGdnZGVORlJCSHJiSFVOdS1KelZmM2xaTXd6dFRaNTNXa3NPejFtckdrVnRwR3F1cmx3OGxKR0pSa1FnU2NuQ3RzRHM0Slk2anRoTGlFLUlROUZr?oc=5"
+          },
+          {
+            "title": "Chemena Kamali at Saint Laurent: Reduced Power After Vaccarello? - nss magazine",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHRhaXA5dEhqemJEc2hhODB1V2R0UFJEblFZVWxVTDlseEJfYTRlSm5hX0NNb3dKOFdkNHB6UHdTMjYxOU1RWm1Yd3F2enNULTJqa3NEVVJQUVF3UzRDendUTW9LY1BPdEtSMVZLMzFsU1JUUXZGVVRuV1RTM1pKeFRFb0FhYmtyQjhmZ09BVlZ1ZDFlTWhHamk5azI5RFFSZlB2U2pFMVdHNzByZmc?oc=5"
+          }
+        ]
+      },
+      "Balenciaga": {
+        "outlets": [
+          "Kering",
+          "Who What Wear",
+          "dscene magazine",
+          "FASHION Magazine",
+          "Yahoo",
+          "San Antonio Express-News"
+        ],
+        "examples": [
+          {
+            "title": "From Mary-Kate Olsen to Bella Hadid, This Is the Designer Bag It Girls Never Stopped Wearing - Who What Wear",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXQ1M3FEX1hqR2pTOWRUb0F3elBvaFJrT0xjcHEtNWcwZUhfU2JtMEZISFlOZGVua3FWN2ZTWV9YOHhVeVd2MXF3ZVE1ck1JblhLbHo3cjN6RE53Z015UV95RUtSbk1Ua1lfYzNYdU1jdEQ5TjFYVERyZ3YxUFBWV2EwNHg2VUJTQzRCYg?oc=5"
+          },
+          {
+            "title": "Balenciaga and Substack Celebrate 25 Years of the Le City Bag - dscene magazine",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOTI4YlpkcldNZk5RQ3ZjRmJLRFIzSWJVZ2tWLU1EcldpS1FTNi1KTWVOREVBa2R1dmZrdXhZeEY2WDhEWWEtRlVzcHdYOWVwWGpEbEJ6cmFaeXhSSm1yMXpicE44dk1NQm9XT3BNS0hReXlYMzB4Rk9FN2ZkVEhOM2w4MC1wX3BFdnN0THhVdw?oc=5"
+          }
+        ]
+      },
+      "Burberry": {
+        "outlets": [
+          "WWD",
+          "Kalkine Media",
+          "The New York Times",
+          "Morning Brew",
+          "Haute Living",
+          "Vogue"
+        ],
+        "examples": [
+          {
+            "title": "At Burberry’s Holiday Party, Gwyneth Paltrow’s Son Plays a Set for Teyana Taylor - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNON0kzVTNJUDJWbEJpWWhZMTdCZWQ0Z2h6R0FXZms0SklCRXltVjlXMENaY2RXbUlkYVFoNFpuZlVwQ1pLWXBIQmJrd1NhS21lMVc1VE1LdTkzaU5oTnlrbjhEblBBdHlXd3IxUXZ3aEpaWm5TbjVlWDcxN3JIWTEzLWNYWllqNGNqYm00bWNlMnYxN0xNMnRLcFZfODA?oc=5"
+          },
+          {
+            "title": "EXCLUSIVE: Burberry Checks Into The Mark for Holiday Takeover - WWD",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTBEWGUyd1lVMVpqbi1vclRkazY4eWlHQnN0VHQ5SnVPczU4QlpCWVVhTHBMSjJHcGJGWXdhT3ZrNTNpRDZhNmRGNDN1TC1SdFlrM3ZhV1VxOEViTEI5OUdWQVZYTk9Hc2ZzTXVTdGdBSEZoQWVFYzlhUmpqd0ZVejhoZ0h5OEsyS19MVTVyNzJMZmUwbEE?oc=5"
+          }
+        ]
+      },
+      "Hermès": {
+        "outlets": [
+          "Idéal Investisseur",
+          "Hypebeast",
+          "Prestige Online - Singapore",
+          "Reuters",
+          "FashionNetwork USA",
+          "Britannica"
+        ],
+        "examples": [
+          {
+            "title": "EXCLUSIVE: Judge orders cognitive checks on Hermès heir who says his fortune was stolen, sources say - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHFmc2FDSU8wbE5RWXlpcVJBRU1CdzN2WHpNcm8yYm91TTAyTklWV0NJZzhaOUxBQURQYVFrU18xR3FQVVJxRnVRWkFHLVNIWnU1eUZ5Xzd1SFl5RENQQl9vU1JfR3FxcGtKY1lSTkw1Q09EY0l3OENQTzQ0c1pYUmNnM0VVMzBSQzN1SVdTTWxPSHMxYmk5S3FoLUV1a1RLSWFrRmJfSzVkeUJ1X21LVXhaRGF3VjJ4WGZCRGFBU19hOGt0a1NsUXNKZlAxcWhjUXc?oc=5"
+          },
+          {
+            "title": "Chanel, Hermès and Loro Piana make San Diego debut at Westfield UTC - FashionNetwork USA",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTR6OXM5ckY3WURxdlIwOEYyQjR6MkFHTmw2UHItbW5wcEN5bzlIZ01zWW50QnpGSmkzYlRCU3dLc3pJWEZUMTFTM0NDVUVBUjg1RFM1ckpaa2NQd255MFhueUtTcjN4cTEyY1N6X0Y3dUJqV2s3QXR1Z2Y0NkNNZ0hEU1g3NmV0alBHa3RvY21FX05pUEwyLTI0eThyS1hoUUM5RzBURldYeVhyVm9rTWxpVEE?oc=5"
+          }
+        ]
+      },
+      "Loewe": {
+        "outlets": [
+          "스포츠조선",
+          "Hube magazine",
+          "Mytheresa",
+          "South China Morning Post",
+          "Red Carpet Fashion Awards",
+          "markets.businessinsider.com"
+        ],
+        "examples": [
+          {
+            "title": "x Nightmare Before Christmas ornament in white - Loewe - Mytheresa",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREt2Y0lIajdMcVpINjZXdS01YTU2bFQxeS1QUzJNYkxSZmtvaVVNYjV5ZE5FUFYxOXhtV3Z4ZUhXOWZJOUpDeS12NmJlYVJVS0pzT0NIZmhST2JwcnhIcHhPY3pRcjJlak1nZ3k2MS1kclN3dU51QjBmcGlNV2ZpcHc2VVNIU3dmOW5Sc3hrSnB3bXRQSURJclhxUHU?oc=5"
+          },
+          {
+            "title": "The season’s fashion drops to know – from Balenciaga, Loewe, Erdem and more - South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOS1WSDNPWDRHY3VBbjhBRXRBOFR5LWVjbmNldnlwbXZxV2FINXRxZ0JQdVVuSTZjdUZ2OW1FNUhoR0lvR2xvWVFsRzdkM2ZuY0dTdklLQXMyX0RRRXdrT1BtYkxmS013eGN3Zy0wWGlzaVZpTmtQeFFLd0ZTSk1wbXBLaURJall2YjduNmpXdm40Umx0R2lJWnQ5c0FqRWQ0cTMyOGRjckFIbDl2ZWhDaEdvNzI3MS1YZXFGNTJCMTQtOUZqdFcxeHBhZETSAcwBQVVfeXFMUDNSLUYzeG5XdXpyQ2loS2FDWEI1eWt4WS13VVpPUDE1UFFra1FxM3p1ZC1zWkxWaGdldXF4Z3ZfTEtHblFjcnJpaTBCT3U2eGVaanZ5VGR1QVZ2V1hhel9aeXNUaVVnZ01hcXpFLUIyN001eTQtQzVxNXRjR2plcXRCa0ZDS1FKelgzLWVVTlZibUE3X21xU3BRQ3VDOTRyaUhsUHc0M004bHVUN3l2ZnlyMktOT3BJTGcwTHJCNC1UNF9GcE9HZ2UzWnpJ?oc=5"
+          }
+        ]
+      },
+      "Miu Miu": {
+        "outlets": [
+          "People.com",
+          "WWD",
+          "Yahoo",
+          "Ynetnews",
+          "Hashtag Legend Hong Kong",
+          "Paris Select Book"
+        ],
+        "examples": [
+          {
+            "title": "This New Quince Bag Had Us Doing a Double Take — It Looks Just Like a $3,400 Celeb-Worn Style - People.com",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHJXSU9OWUdVdmtiM1kyTjJQVVl4cjJkZDRDcnlnMFBnS2Rob0cybW5EaGxpOVFON01nOE13b1BFREVRQUNidDdzaW1wOEVvRURPNFVSUTdaejYyMzRjTnk2M2hXdXk2VXVoRWFTU3o0YnZpLXJXbFEzRFhBZ2VfcmxDWWk?oc=5"
+          },
+          {
+            "title": "Miu Miu’s Latest Collaboration Is With an Italian Stationary Gem - WWD",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2NfQmVMTHJCNndEUVJnYlhDY1VSUFd4b3p0TlRmbnJyNVZwNkt0OWczb1NDT1dvMmlDMmVfUUd6MENlTnZNYTNGdFctWlljZjJKS2NfMVpHOWs1OVFBd3A3YnNuc1FmQ295aXFxVDhfZmhLUGRZUlpoS0NTVzQ0SzFzX1R0SmVDaERPTmRHODdfZ2U4cXdBbFhUWXN1emRmbnFuQXdxa0R0enBGWC15Sk01UlpYOUFObjBtbw?oc=5"
+          }
+        ]
+      },
+      "Celine": {
+        "outlets": [
+          "ABC News - Breaking News, Latest News and Videos",
+          "NewsBreak: Local News & Alerts",
+          "TicketNews",
+          "Monroe Funeral Home",
+          "GQ",
+          "South China Morning Post"
+        ],
+        "examples": [
+          {
+            "title": "Celine Dion shares health update on stiff-person syndrome ahead of Paris shows - ABC News - Breaking News, Latest News and Videos",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3ZEZllmZVdENm1ySDRYWWhpWmlfQUVvakJUcnZLLXR3R3JaWXNYWVZ6MWg0WXFaWVFxam84WmdJWGVJT0RYdEluNnVOcHhEM2FpU3Nka00tNXV4Zl9nV3hVNTZyZVRneUw5U3dTMGNBSkpVWXdPZE5pNVBwZk1OOTFUc1lYSW8tUXg3RU51TkxaUHdXdzNWRS1fR2xwcWNmUXlCMVdFOGLSAa4BQVVfeXFMTTVvWG5HMGc1NlpKejVfa0ZMQlBQWmtHc2I1bTRPRExGeUxaOG56N1lOUUFuYUgtaUhtTWVBaWRyWmZkSkgxejF5RGY1eklKV1o3R2NjY3g5ZnNjUGhnNTZ1R0ZjS2ttLXkwN1B3WXItaGhyUXVPOEIxU0FaNThRNmJqV2luWjJla21zeVVDaGpwT2hEOEJVSUVCZjJCekNOSnJMUWNobEtCNHdWWkl3?oc=5"
+          },
+          {
+            "title": "Celine Dion to Perform 10 Shows at Paris La Défense Arena in Fall 2026 - TicketNews",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3ROZUM5OXNCNHI2OXlETlpPaFJfZTE3dVFVTmJpUVo3ejllNzg5N0Z2cVgyTWFISzFLWmMweXNCNXh4Wm00TU9hdk4xN1g0YzNqRXVid0E1THpSNms1S3lFS0xqTlk3a2FlaldpQ0lQdUlhX09BMVhjdVlZM3dCTjNEZjNrWGpQRm4tX2p0RXV6NGM5Q0ZpQTI3TWpkUF9JTkRMLTdZXzhvZw?oc=5"
+          }
+        ]
+      },
+      "Fendi": {
+        "outlets": [
+          "AOL.com",
+          "WWD",
+          "The Impression",
+          "The Garnette Report",
+          "Glitz",
+          "A&E Magazine"
+        ],
+        "examples": [
+          {
+            "title": "Fendi Appoints New Global Private Client Relations Director - WWD",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbzliTFR3RWQwcHFGOVZOQ2gxdmJMeV8zSmFlWHpMR1pjcWhvMGVyOG5oM3F1dDVWdjNvVGFQaEJXZUstRFI5MVZUNnJwVGNESFNJNGRGRWZsY1JZRl9zdXJTd05rZy1CYnczdVpqZU9tcHpYb1R6eFg5QVVXbUVvMk11ZHdweEpldDFpWGRFS1drY3NVT01lMURCaWc2VGQ2SndBdEtGMzFkMTNoTlE?oc=5"
+          },
+          {
+            "title": "Fendi Holiday 2026 Fashion Ad Campaign - The Impression",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XcTluRXlOYl85d1NxYmZxbDViYXF3SnRNWFFNcklFTjEtOHh5R1ZfVHBzNm50UmlwdG0zWnlfSFVCejlCdUh4QzdEbXBtUnhJR2d4OVYzdlVkdm1QN1VhTi0zaHMydndabjM2Rm85MTNCU00?oc=5"
+          }
+        ]
+      },
+      "Valentino": {
+        "outlets": [
+          "Motorcycle Sports",
+          "MotoGP News",
+          "Corsedimoto",
+          "Crash.net",
+          "AOL.com",
+          "Yahoo"
+        ],
+        "examples": [
+          {
+            "title": "The Valentino Dress Everyone Is Talking About in Nobody Wants This Season 3 Almost Never Made It to the Screen - Grazia",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUXBoS1VxWTVRWHNQdW8wczZzaVA3a0x4NGpSMk1TeHZVMXFtdjJlVFRTanJocEUzT2NzdkRoU3B6SG8yeEwtTkFTdWhVQ0pWZjRKS3BPLUxJQm1iSDR2UDhUTURJQ1NFMjdBenZSUmhzOHNZRHFxM01Pc1dsZF9TZ3E2bDdNYkF2MFZJNWl4ZGlyRXFTd2ZsQlhLdXVzWUEwMWJrRWZDcmNkcnB3Z0ZOY01uLVBmelZzMWkwVkJvM0NUeEtIM05CR0V6cFc3ZXNtd0kyUFB4ZWlyeGlqNnBURXlJcU8?oc=5"
+          },
+          {
+            "title": "Emma Watson’s Rare Appearance Came With a Vintage Valentino Look - ELLE",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDdjangzQVNhVW05YU9tT09MSWNUbTVHZ0V6VlVERnNSbjUyYkJCWkdXU0R6LUhQODVoeWxqelE0R1BEMGhLUmRnN3FrVm9vSTdTWlpFeWZpTVQtRTkxM1NXdkJZeXBWS0NTMldsS0lZa2RyTmUtc0RDZnJPSk5nb0t1dGt6bzFvUGd3ZjFlSlZEbGdzVHA4ZXZSc0EyMzJ2RnhJRmlPQVg?oc=5"
+          }
+        ]
+      },
+      "Givenchy": {
+        "outlets": [
+          "WWD",
+          "Red Carpet Fashion Awards",
+          "Harper's BAZAAR",
+          "theFashionSpot",
+          "HELLO!",
+          "Fashion Times UK"
+        ],
+        "examples": [
+          {
+            "title": "Tracee Ellis Ross Takes Whimsical Spring 2027 Givenchy Shoes to GQ Men of the Year - WWD",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORVBGam8wZmNYTG9tWGpkOGExLUwtRnNrVGRCQlAyRzJBdkd6UklxcHlvSXZJQS1UZlFxQkRtQVRzcHN6VTBBOUxDT0FjNWpqcnpCNmk1U3ROSm9CcHRtVjZWVnBpcnktZ2U1Z3NpQ1p4eG5EYUNtbGdqak5POVZ0YmNhMm9MZ29OWG1fRExodzZPc28?oc=5"
+          },
+          {
+            "title": "Elle Fanning Wears Custom Givenchy for 'Hunger Games: Sunrise on the Reaping' Premiere - Complex",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMS0tcGFIeG5VOXA0OExaZEZTZnI3bF9ibVB4UEY4dnVXTGZ4SlMzTlduWFBkRHd4SVk1Q2tweGRzQzVnaXhXRTY4Y1l1UW42ZUM0blRSX054VENNN3J4MFB5YUEyR25VQ2dDYjRSUGlFWi1NdnlzY2h5MTdnZnNEdWNOdkd1cm1jYVEtdzJwRVhpTjEwLXBMZVRWOHJXTER2SHc?oc=5"
+          }
+        ]
+      },
+      "Versace": {
+        "outlets": [
+          "graziamagazine.com",
+          "SSBCrack",
+          "College of Coastal Georgia Athletics",
+          "WWD",
+          "nss magazine",
+          "Modaes"
+        ],
+        "examples": [
+          {
+            "title": "Versace Gatti Leads Mariners in Individual Rankings - College of Coastal Georgia Athletics",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTl2bDZESlBkY1ZxQnhtdVVlU2pNc1FEcXBMWmpEWjNIcWtPWW1PcE1DTklObkRIQ1FDeGQ2cTFRQ3lPTTd0NE9FRzhtZ0JldEM1NlY5R200TlA0R19TVXA1a2hxVkJ0eEpLQ1cxV1cxTTlkZThOQXBoOEZ3TEViQWRrX1ZRX0IxSU9DSWNNWW5McXV5VGNtV3lRU3RUaVg3dS1qV013R3ZIcm5uRmNjRUMyckl3S1lEcElR?oc=5"
+          },
+          {
+            "title": "Donatella Versace, Claudio Antonioli Presented With Milan’s Ambrogino d’Oro Honor - WWD",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVEtwRjhUY0xHTG1OV2s3aWpvWmhhMzJ2azdYdzBWZFNWdnNWOHM3LTJGTTA1b3pJTHlqX2xRejdiakhiQzNCTHVURTRzYld1ck9ZNGlkeHFJX2xOa0tpWjJoak5PQnlxZ3lmRC1NVWdYdHBsdHJzSEdRejZjMjNlX3dzTHJUMEFjZWY4STJjajUxekd3OWNmS1kyamtBS0FpRnNqQnhrMjJuVW1HbVZiQlFn?oc=5"
+          }
+        ]
+      },
+      "Armani": {
+        "outlets": [
+          "The New York Times",
+          "Euroleague Basketball",
+          "CBC",
+          "MaxPreps",
+          "CityNews Toronto",
+          "Index-Journal"
+        ],
+        "examples": [
+          {
+            "title": "The Dentist With the Armani Jackets Everyone Wants - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1od3VFdk10SGxoRnNRVUhDb3ZGRXRITjllOTJmU2JHbU52anVEUzV4MXZLOW1ZeTBGZVNnSEVBamdaSTc3SUROV2JqS3BNRm9WcURHSjZtZ1AwSEJOU0RKMkNYZmhzYTdiRTR0OURIRm5ycUdUSmc?oc=5"
+          },
+          {
+            "title": "Armani Olimpia Milan-Crvena Zvezda Meridianbet Belgrade | Round 12 Highlights | 2026-27 EuroLeague - Euroleague Basketball",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVFFuU2syRDUxWEhGMVhqLXI0VzROcENPY0xYd3VjakIzeUtrY1VEcWFtSWI1cmd2bHd6YlZIWDJWMjhhdTZ5UHJEb2ZISFJfY09IQnBnWldiSGlXWThoekNkOHpFZG1oZ3Z3NmRWVDFkaERfellScXIxcVdVRG05Sjk2WXpwX181a2hDNlc2UnpqVHJMVk5sNFBzRmhpMGNkYmd0aF9LWW4tY3NDd2gtbVJMZGhydzlYSzZrUFhtNldxcXVLNXRFT3VqQkhERUJDdGpr?oc=5"
+          }
+        ]
+      },
+      "Dolce & Gabbana": {
+        "outlets": [
+          "Hacerse la crítica",
+          "Vogue Arabia",
+          "Marie Claire",
+          "AOL.com",
+          "DAMAN Magazine",
+          "Red Carpet Fashion Awards"
+        ],
+        "examples": [
+          {
+            "title": "DOLCE & GABBANA Brown Biscuit Tweed Wide Leg Pants New & Aut - Hacerse la crítica",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54SXFyeC1ZY0pjaXpRVTM1Q0wzQkRzYVhld3NkekEzcGNhclN1V1BBX1F4T2RlVnUtUWh1QmkxTUU5Z09vekQ0RGlRWXpucW5RamJFdV9uOHZFUQ?oc=5"
+          },
+          {
+            "title": "Huda El Mufti Arrives In Archival Dolce & Gabbana At The Vogue Arabia Ball 2026 - Vogue Arabia",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmVZMGlKYXlTLUwyNE5FLTNfRmlmdWxmYkVNRkdhSnVRanZQeUFYbllGVkh4WTNZUk1DbVpTSkRaUEJ5aERnOWRfcGpGWjh4emJ2TDF6SFFYZnRIb2hlNGtEek5qNF9jc2dzQm9XdGdVcXhRVDZrMXJVUXVpdEdHTUdzblpTUVotdDJvcWdBT21BVFpL?oc=5"
+          }
+        ]
+      }
+    },
+    "EU": {
+      "Gucci": {
+        "outlets": [
+          "nss magazine",
+          "Madame Figaro",
+          "Grazia",
+          "Foro3D",
+          "WWD",
+          "Oui Speak Fashion"
+        ],
+        "examples": [
+          {
+            "title": "Gucci reportedly cuts prices as turnaround pressure builds - TheIndustry.fashion",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWFUbFdKd0VEdEZNaVNwcHlBM2RKdjRKR2ZfQXNram1OcXlncUFKQzhadkVMMUVOYUlLMG5XdWVMeG5iS1pVNkM5RTJUa2JqSllBWU93bWhyeHRBSjU0bTJzRGpyOGo2b051VEFhdjZSM1FjRzlhSnZ6dHBPRHVtVWtrQ3IxR0hNaVozcjBiUlBGYkYzMnc?oc=5"
+          },
+          {
+            "title": "Luxury Handbag Prices Cut 30%: The Three-Year Slump Rattling Gucci and Louis Vuitton Price Tags - BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NeFBFREpyWWdpdV9JV203ay12dkNac2JSZmtzM3BZYmdmUDRnWVJqa2FZbnVsMXI5WjdKa1pVQ0liY195ZWFKTkdvSHB3a0t4a1RHc1JmbHZFYy04d0xWdEU4YTdjUFBOS3pVcDVaNjVNS3ZteXc?oc=5"
+          }
+        ]
+      },
+      "Louis Vuitton": {
+        "outlets": [
+          "Paris Select Book",
+          "Hypebeast",
+          "America's Cup",
+          "Sortir à Paris",
+          "ARTnews.com",
+          "Hypebae"
+        ],
+        "examples": [
+          {
+            "title": "Louis Vuitton 38th America's Cup - Naples, Italy - America's Cup",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16S2RQbHBRajFRV0FHWGhoeVpvY1dwTVNySFZpMlRoVURXdXNNcWxHRXZacGtPVlRGNllzQWRzN3I2VUY3eFBr?oc=5"
+          },
+          {
+            "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend. - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWpBNTBRbHpNNDdJbjBLcWZYX1pucmpxYkx3Y0Rld0JTVkpTcjUzQ0pQU01aeG0xMUZsemxFdW1CNzdHMXlOMDZNLVZXVVJCdXc3cjg2bjZVa0NycDZkVEZMN0RwelZ5ZVFnamRlRnpLVU1nWFpjRGN1bEtOeUJWZkFUdkdIeEJxaWhZcEFBZmVyY1dWZktmVFJYYUg2NVFEMk1YZ2dBWTBna25WN0p1TmdocEtQUQ?oc=5"
+          }
+        ]
+      },
+      "Dior": {
+        "outlets": [
+          "Sortir à Paris",
+          "WWD",
+          "Vogue Arabia",
+          "Red Carpet Fashion Awards",
+          "Paris Select Book",
+          "Harper's BAZAAR"
+        ],
+        "examples": [
+          {
+            "title": "Christmas 2026 lights at Dior: What new display awaits visitors at 30 Montaigne? - Sortir à Paris",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTTNYUjVrOWlGaFB5OW1kSWZ1WWtydDl6ODFwTVF1dFk2YzRGdklPVXpVZVBCZ0pYRGFCaG02bVk3SVdOd1BlOFlTTnM0UGZpUGszM2NEeVhfOU9GV2U2S3kxN2NnVVRsSnVoeHVWNlFfQzVvSWRrRDBTWS13LW1XUk5SX0xLQmxwMTU0dkR6c2lGamFJTzZIQ3pBMnk1dC1WRk1DUmZLV2FVcE5iMDRsc3gyUl9MdG41Mlkzb053djIybjRfaFBmLUkteDVlbFdXSjJUUWJLTHlmS2dyR2dQdExjRkNNSEFPVlk2YkFQZUFISU0?oc=5"
+          },
+          {
+            "title": "Dior’s Christmas Takeover At Harrods Is Pure Animation - Grazia Daily UK",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jWnpMYWpZc0g0ekhMOFVUeFJwaTBuWFpRbnc2QWFDa1VpVDVMNUVTMUMtMmsyUlg0bFdWaEpnai1PeXRwYmp0bEZEcHVLQURFVzdEZTdnLVlUMmdtNFVJTEZaY3VINnhwakhV?oc=5"
+          }
+        ]
+      },
+      "Chanel": {
+        "outlets": [
+          "Vogue",
+          "WWD",
+          "Auparfum",
+          "Grazia",
+          "The Cut",
+          "Red Carpet Fashion Awards"
+        ],
+        "examples": [
+          {
+            "title": "MoMA and Chanel Rolled Out the Red Carpet to Honor Steven Spielberg - Vogue",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTNPTTJHMldpa2lWV0s3R1dXeU1EY194X2xENE5yMWdiYlZEYURTRTRxR202QUNXQ2tSckZBNlVmeHpuaFF4enNXQ1VPbTVESjI2dzB3T2hSdG1veVE5cG9SR3pOb0YwbTgwZFE3UnRxd0FzcloxWHdlaDg3ZFlrYjdSeHk?oc=5"
+          },
+          {
+            "title": "Behind The Grasse Jasmine Harvest That Makes Chanel N°5 - 10 Magazine",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sczVwWnFYLXdCSndkbmhINW1hSExDaXc2alZESkJHQ0VUTTk3Tk1SRGtET3dBa2RoVDlKSXEyUkxQb3ZTd19VTGNnSjRDS3JPa3JpZDRNdEJTNUw3UFhJ?oc=5"
+          }
+        ]
+      },
+      "Prada": {
+        "outlets": [
+          "BroadwayWorld",
+          "Red Carpet Fashion Awards",
+          "Harper's BAZAAR",
+          "WWD",
+          "Paris Select Book",
+          "Fashion Times UK"
+        ],
+        "examples": [
+          {
+            "title": "The Real Story Behind ‘Drawing Prada’ - Vogue",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xNUUxY3BYcmNuaUhkWDdnWC1VQlBDWTZOUGpGOHZjc09DVHM5RlJqLVZKcUg4NXJfMUprVnFMRVJZVXhiUjViaVl2ZXFyaDEyeE00ZXgwcm9LeHIzblR6NjBsdURqbGp4TUN3Z1Q0NWVuQkE?oc=5"
+          },
+          {
+            "title": "Where was The Devil Wears Prada 2 filmed? - The Worldwide Guide To Movie Locations",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xSWxNQXR4dFpDZnlxU1RWNWpKNFlwbkVkUHRtLV9CS3Z3WTYzb1RvdmRKRmJlLUg1NUdXVjMxaHFCQzZZYmszTVZnQ3ZzbFg2MnM0Z2tTTG5DaU9NZmtRSEItMDRBNWV6WDkxaw?oc=5"
+          }
+        ]
+      },
+      "Bottega Veneta": {
+        "outlets": [
+          "PAUSE Online",
+          "Red Carpet Fashion Awards",
+          "dscene magazine",
+          "InStyle",
+          "Popbee",
+          "Metal Magazine"
+        ],
+        "examples": [
+          {
+            "title": "Bottega Veneta Explores Italy Through ‘Colours of Venice’ Campaign - PAUSE Online",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1REcWFWSGNIbjNoalZlT1doWHVmU056OWxnVFNuT2dyaXhLMmlUTk1zM2otNlVtQVJaejd0Sk9BeFZHWlduOWFfa2FHemxpemkzb3l5QWgyZDBCQ3pVTkxKdHdHcG9fcEpoVHlVdlRMeEoyVTU0eVFUV1oyRjFRaWh2ZkI5YU14TTloc3RHQnZqMEZVWTFHcTlPSDk?oc=5"
+          },
+          {
+            "title": "Celebrities in Bottega Veneta at the 2026 Governors Awards - Red Carpet Fashion Awards",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1ZRcTNQRW5WcTFyaTJxNVA2eWQ3aWt3Z0p1SGFkb0lOdjdiVFFDUGJOUmRnb3ZoYmZOWjlJWWNsSmVBTEtfVG9OZXQyYnN4ZVJ4ZGxIb2k4eDlrTTIwN25ONC03azNWR2x3Xzg2NFprWjNhTHZsQk1qcDlMb2ViSWs2ZUtvbzF0a1p2SDB0T0Fzdm5wTXdabC1EejQ4Yi1JckIxS0JoZUw3anlfU3VJ?oc=5"
+          }
+        ]
+      },
+      "Saint Laurent": {
+        "outlets": [
+          "L'Indépendant",
+          "Outre-mer La 1ère",
+          "Presse Agence",
+          "Ouest-France",
+          "lanouvellerepublique.fr",
+          "Le Dauphiné Libéré"
+        ],
+        "examples": [
+          {
+            "title": "In Saint Laurent, Archie Madekwe is “attracted to dancing” - British GQ",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV3NoX0N2bnZrd3RkY2d5VzNfQ2hsZU1zVlZaUGRxSG5UenpqcmloWllaUHFjTnU2WllQb1lZMXN2Wmt1M2dRcmF0cTJsZmtvS3p0NHlybU82cmVQTkhhdGJxYXN4a1g2V1FjTml4Zk5Xam5kXzVCT1BwMU53cmtoMEZyT3k5ZUhaV3JibnRhLVdpNnY0?oc=5"
+          },
+          {
+            "title": "Chemena Kamali at Saint Laurent: Reduced Power After Vaccarello? - nss magazine",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHRhaXA5dEhqemJEc2hhODB1V2R0UFJEblFZVWxVTDlseEJfYTRlSm5hX0NNb3dKOFdkNHB6UHdTMjYxOU1RWm1Yd3F2enNULTJqa3NEVVJQUVF3UzRDendUTW9LY1BPdEtSMVZLMzFsU1JUUXZGVVRuV1RTM1pKeFRFb0FhYmtyQjhmZ09BVlZ1ZDFlTWhHamk5azI5RFFSZlB2U2pFMVdHNzByZmc?oc=5"
+          }
+        ]
+      },
+      "Balenciaga": {
+        "outlets": [
+          "Kering",
+          "Paris Select Book",
+          "FashionUnited",
+          "Fashion United",
+          "SheerLuxe",
+          "Grazia Daily UK"
+        ],
+        "examples": [
+          {
+            "title": "Martine Rose: Who is Balenciaga’s new creative director and former Demna collaborator? - Fashion United",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1U1Q2FacXhWbl84T3NYajE5cjh6Z3VTS3N3RFRlMDEteGZ1UHZydXhKemh6YWJvOGhqVXE3VnVmNTlWOEVpcHRUdmticWRnWGN3S0FiSGJ2Q25iaVg2RG9IemdEMzFoekVqMmZXbS13amVoNS12amJpRHIxWG9JVlF1YUU2emFaTGUzVDh2MV9WeldSVEVGT1V1T3hTMGVLZ0d1YmpQVQ?oc=5"
+          },
+          {
+            "title": "MEET THE ICON: The Balenciaga Le City Bag - SheerLuxe",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUWxQQlRzeDZWWkk4Vi13eU5nU2FTTUdwM1hHZHZ6NTZBWllsQUVUeFh2QzNWUW45dmVrYzVVOTk1d1hsNmRoMDBVN2NERlhrOXpGX2JkV1pablBjd0pzWkNHNFE1Vk5seWJkMUREWVgwejVJNlVfMmpTaWJ5SC1MUDhjNjR6dw?oc=5"
+          }
+        ]
+      },
+      "Burberry": {
+        "outlets": [
+          "WWD",
+          "Yahoo Finance UK",
+          "Simply Wall St",
+          "Madame Figaro",
+          "Victoria and Albert Museum",
+          "The New York Times"
+        ],
+        "examples": [
+          {
+            "title": "Unboxing a rare Second World War Burberry trench coat - Victoria and Albert Museum",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeTlkeGtyZFNKUm11M01VdVNUUXFicFFDSzNvZE12bUpHOVRsckQ1SnpRdjQyQk9aRGFpOWMtTVlSOE84dEEwLWZmZk9qZWMwV1FGRFByNUlUd1dIZlhGVmVoYy03V1lXRzNLYzNjdEhFLXExRWktTXhwdkVEU0tnclNnRC0yRERBUkM2aA?oc=5"
+          },
+          {
+            "title": "EXCLUSIVE: Burberry Checks Into The Mark for Holiday Takeover - WWD",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTBEWGUyd1lVMVpqbi1vclRkazY4eWlHQnN0VHQ5SnVPczU4QlpCWVVhTHBMSjJHcGJGWXdhT3ZrNTNpRDZhNmRGNDN1TC1SdFlrM3ZhV1VxOEViTEI5OUdWQVZYTk9Hc2ZzTXVTdGdBSEZoQWVFYzlhUmpqd0ZVejhoZ0h5OEsyS19MVTVyNzJMZmUwbEE?oc=5"
+          }
+        ]
+      },
+      "Hermès": {
+        "outlets": [
+          "Hypebeast",
+          "Idéal Investisseur",
+          "Simply Wall St",
+          "Prestige Online - Singapore",
+          "Boursorama",
+          "FashionNetwork France"
+        ],
+        "examples": [
+          {
+            "title": "Hermès International : Shares and voting rights as of 31st October 2026 - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWZhOHNidzBXMDFTYkxBWFB6akVtRFB6TXVuYlpJZjBPQTlHalA5Ti1uaDVLRjJOOGpQcW00UVo2bDFINUN3bFp1MVNWY05KS2t4dFE2ZG5iVlltTjN2bDloVmwtX3prN0pVaXR0a2dYdUpUUFlRX2tWekswU01aN2JiZXRoNldfelZ2dDd4NmRvQQ?oc=5"
+          },
+          {
+            "title": "No Swaine no gain: From premium saddlemaker to Britain’s very own Hermès - Country Life",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFo5RTN2Ui0wVmdrM0M4OWNMU3JINnZBZ2hjbFkyQ1hsakRFOVlrbng1WEpWUzNTR05hRzNJY0ZXeTQ4OURrT3Zwc0tEM01HZm1FeG5MeFlFVThjZ0p5ZkZnTW5lMnpKMV9hTGJUc1FsQXBXeTAwbEdTQmdWMlpJaUxvT2N5Z1RWTWdZcFdjRDdzZXJhdHdkR3B1U0gxOGRUb1RXeUJfXzVLWEgycDNRbXJ5SzBrZw?oc=5"
+          }
+        ]
+      },
+      "Loewe": {
+        "outlets": [
+          "PAP Magazine",
+          "스포츠조선",
+          "La Revue des Hôtels",
+          "Madame Figaro",
+          "Vietnam.vn",
+          "Red Carpet Fashion Awards"
+        ],
+        "examples": [
+          {
+            "title": "Celebrities in Loewe at the 2026 Governors Awards - Red Carpet Fashion Awards",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkI1V3NQSGJ2UGExVlA5dkE4TnRLMHNEWEF1UnZ1dE1CSU16Q2JoTml0MEo0Z0dhaEJCSmV3dlhDOVM0SDMwMWxWcVVEcXFnZnB3V2dnRUo3eWhQX3JMTWVQUGQ5OU4tUWRwVzdJZ0h2b3BrbDRwU1ZZOUJsSlBpWTdUcnBXQ0ppM3A2RXNCUGNYbVNtV3B4SmN0WnBybU9HX1dj?oc=5"
+          },
+          {
+            "title": "LOEWE Intros ‘Nightmare Before Christmas’ Collaboration - License Global",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTk0M0piUXRwLV9UZEtyQzVCUmlRb3hVLUQ4Q0VZLXhrTmJvYnBFa0hCM0QxS1pzSloxN3lLd1NuNVg0ekplUFFGNVpEYlJNWUsycmE3bGhZbUFFNHgyVEFfOFFNY2Z2QllpdE05c0JvVXN6VlNYUmhGSWhpSWFtTDhoalFqTnhzak9sbkFrUU5qRXVyQ1E?oc=5"
+          }
+        ]
+      },
+      "Miu Miu": {
+        "outlets": [
+          "Paris Select Book",
+          "d la Repubblica",
+          "People.com",
+          "WWD",
+          "Hashtag Legend Hong Kong",
+          "Ynetnews"
+        ],
+        "examples": [
+          {
+            "title": "This New Quince Bag Had Us Doing a Double Take — It Looks Just Like a $3,400 Celeb-Worn Style - People.com",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHJXSU9OWUdVdmtiM1kyTjJQVVl4cjJkZDRDcnlnMFBnS2Rob0cybW5EaGxpOVFON01nOE13b1BFREVRQUNidDdzaW1wOEVvRURPNFVSUTdaejYyMzRjTnk2M2hXdXk2VXVoRWFTU3o0YnZpLXJXbFEzRFhBZ2VfcmxDWWk?oc=5"
+          },
+          {
+            "title": "Miu Miu’s Latest Collaboration Is With an Italian Stationary Gem - WWD",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2NfQmVMTHJCNndEUVJnYlhDY1VSUFd4b3p0TlRmbnJyNVZwNkt0OWczb1NDT1dvMmlDMmVfUUd6MENlTnZNYTNGdFctWlljZjJKS2NfMVpHOWs1OVFBd3A3YnNuc1FmQ295aXFxVDhfZmhLUGRZUlpoS0NTVzQ0SzFzX1R0SmVDaERPTmRHODdfZ2U4cXdBbFhUWXN1emRmbnFuQXdxa0R0enBGWC15Sk01UlpYOUFObjBtbw?oc=5"
+          }
+        ]
+      },
+      "Celine": {
+        "outlets": [
+          "ABC News - Breaking News, Latest News and Videos",
+          "NewsBreak: Local News & Alerts",
+          "Madame Figaro",
+          "Milano Finanza",
+          "TicketNews",
+          "Red Carpet Fashion Awards"
+        ],
+        "examples": [
+          {
+            "title": "Celine Dion to Perform 10 Shows at Paris La Défense Arena in Fall 2026 - TicketNews",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3ROZUM5OXNCNHI2OXlETlpPaFJfZTE3dVFVTmJpUVo3ejllNzg5N0Z2cVgyTWFISzFLWmMweXNCNXh4Wm00TU9hdk4xN1g0YzNqRXVid0E1THpSNms1S3lFS0xqTlk3a2FlaldpQ0lQdUlhX09BMVhjdVlZM3dCTjNEZjNrWGpQRm4tX2p0RXV6NGM5Q0ZpQTI3TWpkUF9JTkRMLTdZXzhvZw?oc=5"
+          },
+          {
+            "title": "Hunter Schafer’s Celine Look Is a Surprising Change of Direction for ‘Blade Runner 2099’ - Red Carpet Fashion Awards",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2VPSU5STkJnMjdydEp6UEw2b3phTXowakI3MzZjS1JIZ2VJU3F6TkZMN0x4WmVwaU0yb1p3TUtidmxwYXc2aklHU08wWnVVd3J6aEY5QURiMXpxOTA3X2o1VTQyQ19DclBIYTBRdi01ZzZnLTNFenkzVHJKdHZzODI2c3FZNlR1WGYyYmVSLWpUSVhoWnJZOXVveTNZMzBHREhqVTVhbjRyVzh3eHhXWE9BQmdqbFkzTzE4eXVQbUxJMzZLckZ0bmUxcF9SajUteF9z?oc=5"
+          }
+        ]
+      },
+      "Fendi": {
+        "outlets": [
+          "Glitz",
+          "Paris Select Book",
+          "Il Sole 24 ORE",
+          "WWD",
+          "nuvomagazine.com",
+          "A&E Magazine"
+        ],
+        "examples": [
+          {
+            "title": "Fendi Appoints New Global Private Client Relations Director - WWD",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbzliTFR3RWQwcHFGOVZOQ2gxdmJMeV8zSmFlWHpMR1pjcWhvMGVyOG5oM3F1dDVWdjNvVGFQaEJXZUstRFI5MVZUNnJwVGNESFNJNGRGRWZsY1JZRl9zdXJTd05rZy1CYnczdVpqZU9tcHpYb1R6eFg5QVVXbUVvMk11ZHdweEpldDFpWGRFS1drY3NVT01lMURCaWc2VGQ2SndBdEtGMzFkMTNoTlE?oc=5"
+          },
+          {
+            "title": "Spotlight LVMH Maria Grazia Chiuri reigns supreme at Fendi - Glitz",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNThMek5reUp2ZmlKU3dIV2c4cThPY1BZUnpmN0FVdUJQZ1NaVHpBSElpaFFvS0wyT2lGbXg4eUhsdXFLbzdTMTdfdkM1OGx6Q2NXclQ3cXV6Z01aWjU3NXhEN2ZHZlZ5Q05ZZWpjZEM4eUF1NzlqZXg3by05Q3FHZGFwRHVSVkNaa1RhdHctUktPZE1hTzFjS2tZMEozUW1ubFA1Mw?oc=5"
+          }
+        ]
+      },
+      "Valentino": {
+        "outlets": [
+          "Motorcycle Sports",
+          "Corsedimoto",
+          "Fanpage",
+          "MotoGP News",
+          "Tuttocampo",
+          "Crash.net"
+        ],
+        "examples": [
+          {
+            "title": "Valentino Rossi maintains Sepang MotoGP kick “never existed” in new autobiography - Crash.net",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmV4SGxkR2pETHdPQ0dFWlZTTG1PNXZBY1REX3JBX3J6NGZKdmFBVTFVQVZFWHFKU1JpTXpidEZYWFVaNVQ3X2JTMWxPWGM3Tk9NTW9ncEdtdUpwVEMzN3phcW14cHh6Q2ppYzlQRGxQMnpLLTFSSE1OaFRQbFdvRDRteGh1VjR3blNVdHQtT1ZHRDBmYkRpME9KNkRmT2hSak9TbnVrLXI3b2dCVWVhNFBJem1DTC05akpJUA?oc=5"
+          },
+          {
+            "title": "Emma Watson’s Rare Appearance Came With a Vintage Valentino Look - ELLE",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDdjangzQVNhVW05YU9tT09MSWNUbTVHZ0V6VlVERnNSbjUyYkJCWkdXU0R6LUhQODVoeWxqelE0R1BEMGhLUmRnN3FrVm9vSTdTWlpFeWZpTVQtRTkxM1NXdkJZeXBWS0NTMldsS0lZa2RyTmUtc0RDZnJPSk5nb0t1dGt6bzFvUGd3ZjFlSlZEbGdzVHA4ZXZSc0EyMzJ2RnhJRmlPQVg?oc=5"
+          }
+        ]
+      },
+      "Givenchy": {
+        "outlets": [
+          "Harper's BAZAAR",
+          "Red Carpet Fashion Awards",
+          "WWD",
+          "HELLO!",
+          "theFashionSpot",
+          "Fashion Times UK"
+        ],
+        "examples": [
+          {
+            "title": "Elle Fanning's 'makeup dress' was crafted from antique beauty compacts and lipsticks: see it up close - Harper's BAZAAR",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbldOZERKc2c1VFRaT3dmT0Z1bUVFRkczSVFZdmN6di1GOE4wWkg0WHRvTmFCb3hKN3ZEcTgwZGZ3cElFVm9oT2ozdnpRck5LREp1a2JNVUZPZURqb1JTbFBhakJhZEx0d0h2SmtOZlBET3hQTlhFY0NmRlY5WWJDbTZBU1dtZS1ibnNfb1dmOWNNWnJpbmcyaEJwSG9Ebzh4?oc=5"
+          },
+          {
+            "title": "Michelle Yeoh’s London Look Is a Better Fit for ‘Blade Runner 2099’ - Red Carpet Fashion Awards",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXljOTAtbnhTQXM3UlY3UkduOEtGbVFmbmlDSzNVcDlpTXVPVkIyNlRMQk5hOGlXSUhrWk1SSkQzWEtDRi1ZUElCOHVYd1h2QlI2ZWVUMXFST0NHTWxUS05CdXVzcl94cjZUemNxbW5PZEFWYmVlLTVFVnpjcVIxVXpTZ3F2OHB1NHFLVGNrUEFIMUxrY1JhY3dYenBpMy1uUmt5UHhFb1gyem5uS2dJajFqMHFDYzA?oc=5"
+          }
+        ]
+      },
+      "Versace": {
+        "outlets": [
+          "nss magazine",
+          "graziamagazine.com",
+          "Secret Milano",
+          "SSBCrack",
+          "Affaritaliani",
+          "WWD"
+        ],
+        "examples": [
+          {
+            "title": "Donatella Versace, Claudio Antonioli Presented With Milan’s Ambrogino d’Oro Honor - WWD",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVEtwRjhUY0xHTG1OV2s3aWpvWmhhMzJ2azdYdzBWZFNWdnNWOHM3LTJGTTA1b3pJTHlqX2xRejdiakhiQzNCTHVURTRzYld1ck9ZNGlkeHFJX2xOa0tpWjJoak5PQnlxZ3lmRC1NVWdYdHBsdHJzSEdRejZjMjNlX3dzTHJUMEFjZWY4STJjajUxekd3OWNmS1kyamtBS0FpRnNqQnhrMjJuVW1HbVZiQlFn?oc=5"
+          },
+          {
+            "title": "Donatella Versace to receive the Ambrogino d'Oro - nss magazine",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjd5VlZERWRJN2ZZbEs3X014RkNPTmVDWXhLV29QY1RyakRPNHpULVNfU2lNdDc1MkcyY0huYl9ySFYwRjRFYU84ZG1DMC1BZmoxYVZEOUdmX3VVbXFsUi0zd0ROWkltcV9BeFhubG1fbC0xS1lXc3JCajZaMzVlbGs5aXR1dTdTVFBjNktBdldGdw?oc=5"
+          }
+        ]
+      },
+      "Armani": {
+        "outlets": [
+          "Eurosport.it",
+          "Lega Basket",
+          "Madame Figaro",
+          "Quotidiano Nazionale",
+          "The New York Times",
+          "Euroleague Basketball"
+        ],
+        "examples": [
+          {
+            "title": "The Dentist With the Armani Jackets Everyone Wants - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1od3VFdk10SGxoRnNRVUhDb3ZGRXRITjllOTJmU2JHbU52anVEUzV4MXZLOW1ZeTBGZVNnSEVBamdaSTc3SUROV2JqS3BNRm9WcURHSjZtZ1AwSEJOU0RKMkNYZmhzYTdiRTR0OURIRm5ycUdUSmc?oc=5"
+          },
+          {
+            "title": "Armani Olimpia Milan-Crvena Zvezda Meridianbet Belgrade | Round 12 Highlights | 2026-27 EuroLeague - Euroleague Basketball",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVFFuU2syRDUxWEhGMVhqLXI0VzROcENPY0xYd3VjakIzeUtrY1VEcWFtSWI1cmd2bHd6YlZIWDJWMjhhdTZ5UHJEb2ZISFJfY09IQnBnWldiSGlXWThoekNkOHpFZG1oZ3Z3NmRWVDFkaERfellScXIxcVdVRG05Sjk2WXpwX181a2hDNlc2UnpqVHJMVk5sNFBzRmhpMGNkYmd0aF9LWW4tY3NDd2gtbVJMZGhydzlYSzZrUFhtNldxcXVLNXRFT3VqQkhERUJDdGpr?oc=5"
+          }
+        ]
+      },
+      "Dolce & Gabbana": {
+        "outlets": [
+          "Auparfum",
+          "Madame Figaro",
+          "FashionNetwork France",
+          "femina.fr",
+          "Gala",
+          "Harper's BAZAAR France"
+        ],
+        "examples": [
+          {
+            "title": "Dolce & Gabbana pour Homme de Dolce & Gabbana : critique et avis - Auparfum",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoU2dweGE1OTRGdlB0ZGhZMk1CWS0ya3JFOG5GOTRxOTI4by1jS2djSUQ4YUM3V2Jla2FsU2l3emRfM0JWQUpISEtIcnNIQXBnVFdUXzQzOVpTcVZtUEJZT2FNVW81NmJfeHZn?oc=5"
+          },
+          {
+            "title": "Défilé - Dolce & Gabbana - Prêt à porter Automne-Hiver 26-27 - Madame Figaro",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeVExTkxfbUFESWgyeVJycl9ZMTdwU3d6OVFtcFZBWmlNMXhvd3B5UjczNzItd2h5YkNtaFFyQUxDYmM4UHg3bmI4Z2I2NXFSb19tdFgtX203d1F3WU9sNkloekV4aktFSGNjN3FLOWxOblF4UTRraHRUM3FsalpEYllpMUxnbE9namdRTHZnYjNSbTRDMF9pY0JpSzZnUnJMT1Fub3A3UFJOb0xPMGJGVE5CUjZ3dVNnY04yT0cwQ3FBMWFCYlZNZ0ZDT21qU3JFMGNtdzhzS0l3Y0FsYmNB?oc=5"
+          }
+        ]
+      }
+    }
+  },
+  "audit_notes": [
+    "Spot-check FAIL (name collision, not corrected): EU/Valentino example #1 (Crash.net, \"Valentino Rossi maintains Sepang MotoGP kick never existed in new autobiography\") is about motorcycle racer Valentino Rossi, not the Valentino fashion house -- query term ambiguity likely inflates EU/Valentino count (154, #1 in EU); counts left as-is per no-hand-adjust rule.",
+    "Spot-check PASS: NEA/Gucci example 1 (Hankyung, Gucci bag price cut) confirmed real and on-topic, dated within window (16th per article text).",
+    "Spot-check PASS: SEA/Gucci example 1 (Vogue Thailand, Gucci Cruise 2028 Shanghai show) confirmed real and on-topic, corroborated by MSN/FashionUnited/L OFFICIEL, dated within window."
+  ]
+}

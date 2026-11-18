@@ -20,7 +20,8 @@
 
 이번 주를 한 문장으로 못 박으면, 활성화(activation) 모멘텀과 펀더멘털 악화가 같은 날 반대로 벌어진 한 주였다 — 이 판정을 숫자 하나로 증명하면 인터브랜드 -30.7%다. 구찌는 한 해 만에 브랜드 가치의 약 3분의 1을 잃어 글로벌 100대 브랜드 93위로 24계단 내려앉았고, 같은 조사에서 에르메스가 루이비통을 제치고 럭셔리 1위(452억 대 451억 달러)로 올라섰다[1][2]. 즉 구찌가 박보검·LACMA·캐리로 하루하루 여론을 데우는 동안, 브랜드의 장기 자산은 측정 기관의 손에서 큰 폭으로 깎여 나갔다는 뜻이다.
 
-![구찌 1년 만에 브랜드 가치 30% 하락, 리스트는 일부 긍정 신호](https://ehj4gaypy53.exactdn.com/wp-content/uploads/2026/10/Gucci-1.jpg "LaConceria|https://www.laconceria.it/en/luxury/gucci-loses-30-of-its-value-in-a-year-but-lyst-sees-some-positives/")
+![인터브랜드 2026, 에르메스가 루이비통 추월(452억 대 451억 달러)](https://img.worthbury.com/2026/10/hermes-louis-vuitton-interbrand-2026-brand-value-f04d97f4-16x9-1600.jpg "Worthbury|https://worthbury.com/magazine/briefing/hermes-louis-vuitton-interbrand-2026-brand-value/")
+
 
 이 대비가 이번 주의 뼈대다. 먼저 좋아 보인 것들은 거의 전부 구찌 자신의 노출이었다 — 박보검 글로벌 앰배서더 발탁, LACMA 아트+필름 갈라 레드카펫, 머라이어 캐리 2026 홀리데이 캠페인, 이세탄 신주쿠 GucciCore 팝업이 그것이다[3][4][5][6]. 또한 나빠 보인 것들은 거의 전부 소비자와 시장이 스스로 낸 신호였다 — 인터브랜드 -30.7%, 중국 Z세대의 코치·랄프로렌 이탈, 머라이어 캐리 광고를 향한 '우울하다·백화점이 럭셔리인 척한다'는 조롱, 한국 가격 인상과 '메이드 인 차이나' 드립 스니커 논란에 따른 리세일값 하락이 그것이다[1][7][8][9]. 본 분석의 판단은, 전자가 '관심을 만드는' 신호이고 후자가 '사게 만드는가'를 가르는 신호라는 것이다 — 그리고 이번 주 무게추는 분명히 후자 쪽에 있었다.
 
@@ -178,7 +179,8 @@ The week's verdict is simple: every signal that made Gucci look good was one Guc
 
 To nail the week in one sentence: activation momentum and deteriorating fundamentals pulled opposite ways on the same days — and one number proves it, Interbrand's -30.7%. Gucci lost roughly a third of its brand value in a year, sliding to 93rd among the global top 100 and down 24 places, in the same study where Hermès overtook Louis Vuitton for the luxury lead ($45.2B to $45.1B)[1][2]. Put differently, while Gucci warmed daily sentiment with Park Bo-gum, LACMA and Carey, a ratings body cut the brand's long-term asset sharply.
 
-![Gucci loses 30% of its value in a year; Lyst sees some positives](https://ehj4gaypy53.exactdn.com/wp-content/uploads/2026/10/Gucci-1.jpg "LaConceria|https://www.laconceria.it/en/luxury/gucci-loses-30-of-its-value-in-a-year-but-lyst-sees-some-positives/")
+![Interbrand 2026: Hermès passes Louis Vuitton ($45.2B to $45.1B)](https://img.worthbury.com/2026/10/hermes-louis-vuitton-interbrand-2026-brand-value-f04d97f4-16x9-1600.jpg "Worthbury|https://worthbury.com/magazine/briefing/hermes-louis-vuitton-interbrand-2026-brand-value/")
+
 
 That contrast is the spine of the week. First, the things that looked good were almost all Gucci's own exposure — the Park Bo-gum appointment, the LACMA Art+Film Gala carpet, the Mariah Carey 2026 holiday campaign, and the Isetan Shinjuku GucciCore pop-up[3][4][5][6]. Second, the things that looked bad were almost all signals consumers and the market produced — Interbrand's -30.7%, the Chinese Gen-Z shift to Coach and Ralph Lauren, the "depressing / a department store playing luxury" mockery of the Carey ad, and resale-value erosion tied to a Korean price hike and a "Made-in-China" drip-sneaker controversy[1][7][8][9]. Our read is that the former are signals that make attention and the latter are signals that decide whether people buy — and the week's weight sat clearly on the latter.
 

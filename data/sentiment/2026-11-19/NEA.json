@@ -1,0 +1,182 @@
+[
+  {
+    "id": "NEA-2026-11-19-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: frames Gucci price cut as part of industry-wide retreat after a decade of hikes / counter: no explicit verdict on whether this helps or hurts Gucci, question-style headline",
+    "signal_tags": ["pricing", "mixed", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-19-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci proactively cuts price to win back middle-class buyers / counter: LV holds the line citing brand-value risk, framed as genuine two-sided strategic dilemma with no verdict",
+    "signal_tags": ["pricing", "mixed", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-19-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: diverging pricing strategies presented as industry 'dilemma' / counter: no verdict favoring either Gucci's cut or LV's hold",
+    "signal_tags": ["pricing", "mixed", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-19-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive holiday-campaign write-up (Mariah Carey, Butterfly collection), no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-19-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive gala-look coverage of ambassador Ningning; self-promotion via own SNS tag, no independent verdict",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-19-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive prestige-event attendance write-up (LACMA gala), no independent critical judgment offered",
+    "signal_tags": ["activation_coverage", "event"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-19-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Reported viral/positive global reaction and 'hip' framing of Ningning's look is independent fan buzz rather than brand copy, but fandom-spike trap caps magnitude",
+    "signal_tags": ["fandom", "buzz", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-19-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Straight ambassador-appointment announcement with ambassador's own quote; press-kit-style, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-19-009",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: confirms Park Bo-gum appointment with mildly positive framing of his luxury track record / counter: still largely announcement-style, activation discount caps magnitude",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-19-010",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Netizen reactions to ambassador appointment skew positive (praise for pairing Demna aesthetic with Park's image), independent public opinion but fandom-damped",
+    "signal_tags": ["fandom", "ambassador", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-19-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: explainer frames restructuring (new designer, store closures, price cuts) as a question of whether Gucci can turn around / counter: no verdict given, consumer-advice style summary rather than judgment",
+    "signal_tags": ["mixed", "negative_earnings", "restructuring"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-19-012",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan-favorable commentary celebrating ambassador's luxury track record; genuine community sentiment but fandom trap caps magnitude",
+    "signal_tags": ["fandom", "ambassador", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-19-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive launch-event celebrity-attendee write-up (GucciCore), no independent evaluative verdict on the collection",
+    "signal_tags": ["activation_coverage", "event"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-19-014",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-snap activation coverage of same launch event, purely descriptive attendee list",
+    "signal_tags": ["activation_coverage", "event"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-19-015",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador appointment announcement framed around K-pop fan anticipation; fandom spike capped at moderate magnitude",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-19-016",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine product-launch/retail news (new small leather goods), purely descriptive",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-19-017",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Photo-led wire coverage amplifying ambassador's gala attendance, purely descriptive",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-19-018",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-press roundup positioning Gucci's gala within broader competitive marketing activity, descriptive/no verdict",
+    "signal_tags": ["activation_coverage", "trade_press"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-19-019",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Consumer complaint (dye ran, AS declined) reads as quality/QC negative, but item is explicitly flagged background-only/outside freshness window, pushing confidence below 0.5 threshold; demoted to neutral per confidence-demotion rule",
+    "signal_tags": ["quality_complaint", "customer_service", "stale_background"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-11-19-020",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Background piece on luxury brands' (incl. Gucci) downtown duty-free exits amid falling Chinese tourist spend; industry-wide retreat reported factually without strong brand-specific framing, outside freshness window",
+    "signal_tags": ["negative_earnings", "stale_background", "distribution"],
+    "confidence": 0.4
+  }
+]

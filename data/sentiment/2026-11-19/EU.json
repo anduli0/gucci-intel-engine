@@ -1,0 +1,106 @@
+[
+  {
+    "id": "EU-2026-11-19-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of Gucci-staged Shanghai Cruise 2028 announcement, no independent verdict",
+    "signal_tags": ["activation_coverage", "china_reengagement"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-19-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Same show announcement reframed with China slump context; still descriptive activation coverage, not an independent verdict",
+    "signal_tags": ["activation_coverage", "china_reengagement", "negative_earnings"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-19-003",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Interbrand data shows Gucci brand value down 30.7%, sharpest decline of any luxury house, with analysts tying it to execution failure",
+    "signal_tags": ["brand_value_decline", "quantified_data", "negative_earnings"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-19-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: financial brand value has collapsed sharply / counter: Lyst cultural-buzz index still ranks Gucci top 5 — piece is a genuine two-sided weigh-up urging resolution, no single verdict",
+    "signal_tags": ["mixed", "quantified_data"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-19-005",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Confirmed quiet price cuts framed as turnaround pressure and correction of past overpricing, alongside a 6% comparable revenue decline",
+    "signal_tags": ["price_cuts", "negative_earnings", "quantified_data"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-2026-11-19-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press reports Gucci weighing on Kering with declining China popularity and CEO admitting performance falls short of potential",
+    "signal_tags": ["negative_earnings", "china_weakness", "parent_company_concern"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-19-007",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "WWD trade report on Shanghai Cruise 2028 staging, descriptive of the activation with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "china_reengagement"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-19-008",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned YouTube holiday film; owned-channel view count is not independent public opinion despite high view total",
+    "signal_tags": ["activation_coverage", "owned_channel"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-19-009",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: sheer hole-knit dress praised as daring styling / counter: criticized as undermining craftsmanship positioning — genuine split reaction with no dominant verdict",
+    "signal_tags": ["mixed", "fandom_adjacent"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-19-010",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic aggregated fan/social reaction calling the holiday campaign cold, boring and depressing despite celebrity casting",
+    "signal_tags": ["campaign_backlash", "organic_sns"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-19-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ordinary consumer forum thread weighing two bag choices on durability and price, informational rather than evaluative",
+    "signal_tags": ["price_sensitivity", "consumer_forum"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-19-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Italian trade write-up of the same Shanghai Cruise activation with added manufacturing-impact context, no independent verdict on the brand itself",
+    "signal_tags": ["activation_coverage", "china_reengagement"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-19-013",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Forbes frames Gucci's price cuts as breaking luxury's pricing taboo, evidence of eroding sector-wide and brand-specific pricing power",
+    "signal_tags": ["price_cuts", "pricing_power_erosion"],
+    "confidence": 0.8
+  }
+]

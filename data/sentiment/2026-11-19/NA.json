@@ -1,0 +1,137 @@
+[
+  {
+    "id": "NA-2026-11-19-01",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: price cuts break luxury taboo and raise doubt they restore desirability / counter: frames it as a deliberate strategic reset",
+    "signal_tags": ["price_cut", "negative_earnings", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-19-02",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of new boutique concept, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-19-03",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive gala/red-carpet coverage of brand-presented event, no independent judgment rendered",
+    "signal_tags": ["activation_coverage", "gala"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-19-04",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned campaign promo description (cast, director, product), press-kit derived",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-19-05",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: strategic show-location announcement tied to China reconnection / counter: embeds reference to double-digit regional sales softness",
+    "signal_tags": ["activation_coverage", "mixed", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-19-06",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: cluster of fresh 1-star complaints on staff/quality/refunds / counter: one 5-star review praising shoe quality",
+    "signal_tags": ["quality_complaint", "mixed", "verification_required"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-19-07",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Recurring community frustration over repeated price hikes, undated ongoing thread so damped",
+    "signal_tags": ["price_hike_backlash", "community", "date_unconfirmed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-19-08",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Routine product-level collector discussion with no stated verdict",
+    "signal_tags": ["community", "product_discussion"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-19-09",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: fan highlight reel of Demna debut / counter: explicitly polarized love-it-or-hate-it reaction with no resolved verdict",
+    "signal_tags": ["mixed", "fandom", "date_unconfirmed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-19-10",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan backlash against holiday campaign as 'boring/depressing/outdated', not subject to activation discount since it is critical reaction not brand copy",
+    "signal_tags": ["campaign_backlash", "organic_reaction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-19-11",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained negative framing of Q3 sales drop and weak China demand dampening turnaround hopes",
+    "signal_tags": ["negative_earnings", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-19-12",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sales decline and raised store-closure target reported with negative framing; magnitude capped as verification-required aggregator",
+    "signal_tags": ["negative_earnings", "store_closures", "verification_required"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-19-13",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Unambiguous critical thesis that Gucci 'lost itself' post-Michele, citing quality complaints and questioning recovery",
+    "signal_tags": ["design_criticism", "quality_complaint", "identity_crisis"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-19-14",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive red-carpet photo feature on brand-presented gala, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "gala"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-19-15",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Organic celebrity social recirculation of gala look, descriptive only, damped under fandom trap, no explicit praise rendered",
+    "signal_tags": ["fandom", "activation_coverage", "ambassador"],
+    "confidence": 0.55
+  }
+]
