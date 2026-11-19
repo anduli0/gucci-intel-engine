@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SEA-2026-11-20-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive brand-staged show announcement (Shanghai Cruise 2028); press-kit derived, no independent verdict, discounted per activation-coverage rule.",
+    "signal_tags": ["activation_coverage", "show", "china-strategy"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-20-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Forbes analysis frames permanent price cuts as evidence of sustained demand weakness after 13 quarters of declining sales; unambiguous negative-momentum thesis, not activation coverage.",
+    "signal_tags": ["critical", "price-cut", "negative_earnings", "turnaround"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-20-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade press corroborates price cuts as a 'desperation move' amid comp-sales decline and competitive pressure, explicitly flagging brand-exclusivity damage risk; independent critical verdict.",
+    "signal_tags": ["critical", "price-cut", "negative_earnings"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-20-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic SNS syndication of the price-cut/turnaround-pressure narrative; genuine public circulation but low-intensity restatement rather than fresh emotional reaction.",
+    "signal_tags": ["critical", "price-cut", "sns-reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-20-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador retrospective is structurally brand-amplification dressed as editorial with no independent critical verdict beyond a sold-out claim; fandom/activation trap, capped neutral per descriptive-activation rule.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-20-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive listing of celebrity's brand deals including Gucci, no evaluative verdict on Gucci specifically; plain activation mention.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-20-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Demna's creative strategy framed as an attempt to 'save' Gucci / counter: design commentary is itself favorable - genuine two-sided weigh-up (creative merit vs turnaround desperation) with no clear verdict, so neutral with mixed tag per dominant-thesis rule.",
+    "signal_tags": ["mixed", "turnaround", "creative-direction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-20-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-saturation crackdown story; factual/neutral tone but reputationally proximate to brand-exclusivity erosion per counterfeit trap (neutral-to-mild-negative), leaning negative given scale (warehouses full).",
+    "signal_tags": ["counterfeit", "reputation-proximity"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-20-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard descriptive collection write-up of La Famiglia with no independent critical verdict; discounted activation coverage.",
+    "signal_tags": ["activation_coverage", "collection"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-20-010",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Facebook page activity with no attached independent public reaction; self-promo is not public opinion per rubric.",
+    "signal_tags": ["activation_coverage", "brand-owned"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-20-011",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Earnings transcript shows Gucci retail sales down 9%, APAC down 8%, shares sinking as recovery lags; sustained negative-momentum framing, independent and widely syndicated.",
+    "signal_tags": ["critical", "negative_earnings", "asia-pacific"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-20-012",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aggregator feed confirming circulation of price-cut/Shanghai/earnings stories in SEA trade press; plain factual aggregation, not itself an evaluative item.",
+    "signal_tags": ["neutral", "aggregator"],
+    "confidence": 0.7
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "NA-2026-11-20-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: price cuts signal structural luxury pricing-power problem for Gucci / counter: framed as industry-wide issue, but Gucci is the central negative example vs Hermes/Coach",
+    "signal_tags": ["price_cut", "value_for_money", "negative_earnings", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-20-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci organic sales down 6%, worse than expected, shares fell ~12% / counter: NA flagged as most resilient market, wholesale up 45% — but headline/lede is a clear miss",
+    "signal_tags": ["negative_earnings", "trade_press", "mixed"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-20-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: China slump undercuts Demna turnaround narrative, framed as a setback for Kering's recovery story",
+    "signal_tags": ["negative_earnings", "turnaround_skepticism", "trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-20-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Goldman Sachs downgrades Q4 Gucci organic sales forecast to -4.3% from -1%, widening analyst skepticism on recovery pace",
+    "signal_tags": ["negative_earnings", "analyst_downgrade", "turnaround_skepticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-20-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic public/fan reaction (not Gucci-owned framing) calling holiday campaign 'cold,' 'emotionless,' 'boring,' compared to JCPenney — genuine negative consumer sentiment, not activation discount since it's reaction coverage",
+    "signal_tags": ["campaign_backlash", "organic_reaction", "design_criticism"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-20-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Gucci's own holiday campaign launch — no independent evaluative verdict, per activation-coverage discount",
+    "signal_tags": ["activation_coverage", "brand_owned_promo"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-20-007",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Bernstein analyst scores debut 7.6/10, 'more good than bad,' improvement vs prior regimes / counter: 'not a home run' — independent critic judgment but qualified/mixed, capped at 0.5",
+    "signal_tags": ["trade_press", "independent_critique", "mixed"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-20-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Second round of job cuts at Gucci's Swiss watchmaking division in two years, signals contraction/cost-cutting pressure",
+    "signal_tags": ["layoffs", "negative_earnings", "operational_contraction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-20-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic long-running community complaints about recurring price increases and whether hikes are justified; mild/incidental ongoing grumbling rather than acute viral backlash",
+    "signal_tags": ["price_hike_backlash", "organic_reaction", "community"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-20-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: enthusiasm for archive-referencing shapes / counter: skepticism on pricing and material/durability of canvas-nylon vs leather — genuine two-sided weigh-up with no clear verdict",
+    "signal_tags": ["mixed", "purchase_intent", "quality_concern", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-20-011",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: independent creator verdict is 'skeptical-to-mixed' on whether Demna turnaround is working / counter: weighs both sides but lands skeptical — organic creator sentiment, diluted magnitude",
+    "signal_tags": ["turnaround_skepticism", "organic_reaction", "mixed", "sns"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-20-012",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic critical commentary arguing Demna's Gucci has deeper structural/brand-identity problems — clear unambiguous negative thesis from independent creator",
+    "signal_tags": ["design_criticism", "organic_reaction", "sns", "turnaround_skepticism"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-20-013",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Institutional editorial-brand SNS runway coverage amplifying Gucci's own show cycle, purely descriptive with no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "sns"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-20-014",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale guide reports steep depreciation (30-45%) and outlet oversupply weakening resale value, though heritage shapes hold up better; unverified single-source consumer guide so magnitude capped",
+    "signal_tags": ["resale_value_drop", "verification_required", "value_for_money"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-20-015",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: frames price cuts as a smart break from luxury norms that will help brand longevity / counter: underlying driver is a prior -19% sales decline — positive spin on a negative fact, opinion-inflected single-source commentary so capped",
+    "signal_tags": ["price_cut", "verification_required", "mixed"],
+    "confidence": 0.55
+  }
+]

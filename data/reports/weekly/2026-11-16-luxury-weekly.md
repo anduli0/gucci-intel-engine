@@ -70,9 +70,10 @@ LVMH 진영에서는 디렉터 교체의 '모범 사례'와 '위기 사례'가 �
 
 이번 주 트렌드 변곡은 두 축이다 — 첫째는 크리에이티브 디렉터 교체가 '유효할 수 있는 수단'이지 '자동 반등 보장'이 아니라는 점이 공개 심판대에 올랐다는 것이다. 보테가베네타는 트로터 데뷔 직후 수요가 66% 급등해 라이스트 3분기 11위로 뛰었지만 4분기엔 다시 순위가 내려갔는데[6], 이는 초기 화제성과 지속 매출을 구분해야 한다는 경고다. 물론 교체가 실제로 먹힌 반례도 같은 주에 있다 — 샤넬은 블라지 효과로 상반기 16% 성장했고, 버버리는 흑자 전환하며 턴어라운드가 실제로 작동할 수 있음을 입증했다[8][30]. 본 분석의 판단은, 교체의 성패를 가르는 변수는 교체 자체가 아니라 그것을 몇 분기 안에 매출로 전환할 조직 역량이라는 데 있다. 즉 처방은 흔해졌는데 듣는지는 하우스마다 다르다는 것이 현재 상태의 정확한 묘사다.
 
-![샤넬 상반기 매출 16% 증가(블라지 효과), 워치·파인주얼리 35% 급증](https://data2.nssmag.com/images/galleries/49184/chanel_results_nss_cover_orizz.webp "nss magazine|https://www.nssmag.com/en/fashion/46475/chanel-sales-continue-to-rise")
 
 둘째 축은 수공예를 전면에 내세운 '반(反)AI' 포지셔닝이 하우스를 가로질러 동시에 터졌다는 것이다 — 에르메스가 웹사이트 전체를 손그림 삽화로 교체하며 업계가 '이펏 시그널링(effort signalling)'이라 명명한 흐름을 선점했고, 프라다는 크리스마스 캠페인을 손그림 애니메이션으로 만들었으며, 부쉐론도 크리스티 뉴욕 전시에서 '휴먼 비잉' 컬렉션으로 수공예를 AI에 대한 암묵적 반론으로 세웠다[42][43][44]. 반대편에는 반면교사가 있다 — 디올 홀리데이 필름이 '손으로 그렸다'는 문구와 뒤늦은 'AI 보간 기술 사용' 인정 사이 간극으로 신뢰 논란을 겪었고, LVMH는 그 와중에 'AI는 장인정신을 대체하지 않는다'는 그룹 메시지를 공식화해 사전 방어에 나섰다[19][45]. 다만 이 모든 것은 하우스 자체 마케팅 활동 보도이지 소비자 반응이 독립적으로 검증된 지표는 아니라는 유보가 필요하다. 즉 '수공예를 증명하라'가 올 연말 캠페인의 공통 조건이 됐고, 이를 어기면 디올처럼 즉시 역풍을 맞는다는 것이 이번 주가 보여준 바다.
+
+![부쉐론, 크리스티 뉴욕 공동 전시 '휴먼 비잉' 미국 데뷔](https://wwd.com/wp-content/uploads/2026/10/BoucheronInFocusExhibitHero.jpg?w=1200 "WWD|https://wwd.com/business-news/business-features/boucheron-christies-new-york-retrospective-founder-1239343615/")
 
 ## 7. 떠오르는 플레이어 — 근거 숫자가 받치는 모멘텀만
 
@@ -239,9 +240,10 @@ Finally, this week's new signal is that Korea was named as a soft-demand market 
 
 This week's trend inflection runs along two axes. The first is that creative-director change going on public trial as "a tool that can work" rather than "a guaranteed automatic rebound." Bottega Veneta's demand surged 66% right after Trotter's debut, propelling it to No. 11 on the Lyst Index in Q3, only for its ranking to slide back in Q4[6] — a warning that initial buzz and sustained revenue must be kept separate. Of course, counterexamples where a handover actually worked appeared the same week — Chanel grew H1 sales 16% on the Blazy effect, and Burberry proved a turnaround can genuinely work by returning to profit[8][30]. Our read is that what separates successful handovers from failed ones is not the handover itself but organizational capacity to convert it into revenue within a few quarters. In short, the prescription has gone generic, but whether it actually works still differs house by house — an accurate description of where things currently stand.
 
-![Chanel H1 sales up 16% (Blazy effect); watches and fine jewelry up 35%](https://data2.nssmag.com/images/galleries/49184/chanel_results_nss_cover_orizz.webp "nss magazine|https://www.nssmag.com/en/fashion/46475/chanel-sales-continue-to-rise")
 
 The second axis is that craft-forward "anti-AI" positioning erupted simultaneously across houses. Hermes replaced its entire website with hand-drawn illustrations, getting ahead of what the industry has dubbed "effort signalling," Prada built its Christmas campaign around hand-drawn animation, and Boucheron staged craft as an implicit rebuttal to AI through its "Human Being" exhibition co-presented with Christie's in New York[42][43][44]. The counter-case sits on the other side — Dior's holiday film drew over a week of trust controversy over the gap between its "hand-drawn" claim and its belated admission of AI interpolation use, and LVMH, amid the fallout, moved preemptively to formalize a group message that "AI does not replace craftsmanship"[19][45]. That said, a reservation is needed — all of this is coverage of houses' own marketing activity, not an independently verified measure of consumer response. In short, "prove your craft" has become the shared condition of this year's holiday campaigns, and breaking that condition brings an immediate backlash, as Dior's case shows.
+
+![Boucheron's Human Being exhibition with Christie's makes US debut in New York](https://wwd.com/wp-content/uploads/2026/10/BoucheronInFocusExhibitHero.jpg?w=1200 "WWD|https://wwd.com/business-news/business-features/boucheron-christies-new-york-retrospective-founder-1239343615/")
 
 ## 7. Rising Players — Only Momentum Backed by Hard Numbers
 

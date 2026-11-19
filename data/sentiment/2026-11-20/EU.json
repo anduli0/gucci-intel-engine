@@ -1,0 +1,128 @@
+[
+  {
+    "id": "EU-2026-11-20-01",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive WWD write-up of Harrods boutique concept (design, materials), no independent evaluative verdict offered; activation discount applies.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-20-02",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade-press activation write-up with no independent evaluative verdict; activation discount applies.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-20-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: price cuts up to 30% framed as symptom of turnaround pressure, Kering calling items 'overpriced', revenue falling and growth target cut / counter: none, headline and body both frame this as pressure/decline.",
+    "signal_tags": ["negative_earnings", "price_cut"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-20-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci's price cuts framed as symptomatic of a broader luxury affordability crisis, with Kering admitting pricing was pushed too far / counter: Hermes contrast shows pricing power is achievable elsewhere, implying Gucci specifically lacks it; dominant thesis is negative for Gucci, capped per mixed-but-decided rule.",
+    "signal_tags": ["negative_earnings", "price_cut", "mixed"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-20-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci broke a pricing taboo after 13 straight quarters of declining sales, with rival Louis Vuitton explicitly not following, underscoring Gucci's weaker position / counter: none, peer-comparison trap confirms negative framing for Gucci.",
+    "signal_tags": ["negative_earnings", "price_cut", "competitor_contrast"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-20-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci framed as 'the deadweight' on Kering amid 41% stock decline and sales miss, with an analyst quoted saying the brand vision remains 'fuzzy' to consumers despite relaunch efforts / counter: none, strongly negative sustained framing.",
+    "signal_tags": ["negative_earnings", "critical"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-20-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Factual report of 30 job cuts at Swiss watch unit, second round in two years, with union concern about where it ends; negative operational/labor signal but magnitude kept moderate given localized scope.",
+    "signal_tags": ["negative_earnings", "layoffs"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-20-08",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Corroborating report of same Cortaillod layoffs with industry context; negative labor/earnings signal, moderate magnitude as secondary corroboration.",
+    "signal_tags": ["negative_earnings", "layoffs"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-20-09",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: organic fan reaction calling the Mariah Carey holiday campaign 'boring', 'depressing' and 'outdated' / counter: some praise for Carey's personal styling, but dominant thesis is critical backlash toward the campaign; organic reaction so not subject to activation cap, but mixed-but-decided caps magnitude.",
+    "signal_tags": ["organic_reaction", "campaign_backlash", "mixed"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-20-10",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Viral-style post summarizing Gucci's price cuts after 13 quarters of decline vs Louis Vuitton holding firm; peer-comparison trap confirms negative for Gucci, but engagement/reach unverifiable so magnitude capped.",
+    "signal_tags": ["price_cut", "negative_earnings"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-20-11",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: community describes SS27 show as reminiscent of pre-Tom Ford bourgeois era with darker Demna touches / counter: no clear verdict, genuine two-sided description without stated preference; detail is search-snippet based only, lowering confidence further.",
+    "signal_tags": ["community_discussion", "mixed", "stale_but_active"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-11-20-12",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: independent reviewer's title poses an open question ('Is Gucci Good Again?') about the 2026 reset / counter: framed as genuine critical review pending verdict, no clear positive or negative conclusion stated in available summary; two-sided weigh-up defaults neutral.",
+    "signal_tags": ["independent_review", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-11-20-13",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic aggregated consumer reviews citing unglued belts, degrading shoes, tarnishing jewelry and reviewers calling price-to-quality ratio 'terrible', saying they pay 'only for the brand name'; independent quality/value complaint, emotionally charged and unambiguous.",
+    "signal_tags": ["quality_complaint", "value_for_money", "organic_reaction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-20-14",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Wire-syndicated corroboration of the Cortaillod watch-division layoffs; negative labor signal, magnitude reduced as duplicate/syndicated record of item 07.",
+    "signal_tags": ["negative_earnings", "layoffs", "syndicated"],
+    "confidence": 0.7
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "nea-2026-11-20-01",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic trade press frames price cut as breaking luxury taboo after 13 quarters of sales decline, a negative momentum narrative.",
+    "signal_tags": ["price_cut", "critical_angle", "organic"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-11-20-02",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline contrasts Gucci's price cut against LV's restraint and cites Kering CEO admitting overpricing hurt sales, a clear negative verdict on prior strategy.",
+    "signal_tags": ["price_cut", "critical_angle", "ceo_admission"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-11-20-03",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer backlash: buyers quoted as feeling cheated by sudden markdowns, no compensation offered; reputational fallout.",
+    "signal_tags": ["price_cut", "critical_angle", "consumer_backlash", "organic"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-11-20-04",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Sector-wide trade piece citing Gucci price cuts and resale value decline (-10%) as evidence of broken pricing power; Gucci is one of several brands cited.",
+    "signal_tags": ["price_cut", "resale_decline", "critical_angle"],
+    "confidence": 0.7
+  },
+  {
+    "id": "nea-2026-11-20-05",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci-owned holiday campaign with Mariah Carey; no independent evaluative verdict, activation discount applies.",
+    "signal_tags": ["activation_coverage", "gucci_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-11-20-06",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of ambassadors at Gucci-sponsored LACMA gala, outfit recap only, no independent critical verdict.",
+    "signal_tags": ["activation_coverage", "gucci_owned", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-11-20-07",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Press-release-style ambassador announcement, descriptive only; brand-owned promo copy is not public opinion.",
+    "signal_tags": ["activation_coverage", "gucci_owned", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-11-20-08",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fandom enthusiasm for Park Bo-gum's ambassador appointment; genuine organic positivity but damped under the fandom-spike trap.",
+    "signal_tags": ["fandom", "ambassador", "organic_reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-11-20-09",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press analysis skeptically questions whether price cuts can win back Chinese shoppers, citing deeper trust/relevance problems; clear critical thesis.",
+    "signal_tags": ["price_cut", "critical_angle", "china_demand"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-11-20-10",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Shanghai Cruise 2028 show as milestone investment in China / counter: announced amid weak store traffic and 6% revenue decline — two-sided, no clear verdict.",
+    "signal_tags": ["activation_coverage", "china_strategy", "mixed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "nea-2026-11-20-11",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Widely-reposted organic Weibo thread frames deep price cuts as proof the 'luxury only rises' myth has broken, a negative brand-power narrative.",
+    "signal_tags": ["price_cut", "critical_angle", "organic"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-11-20-12",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cuts create buying opportunity / counter: uncertainty over brand value trajectory after CEO/design shakeup — genuine two-sided weigh-up, no verdict.",
+    "signal_tags": ["price_cut", "mixed", "organic"],
+    "confidence": 0.55
+  },
+  {
+    "id": "nea-2026-11-20-13",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic consumer-community criticism of inconsistent 'two sets of accounts' pricing and quality/origin concerns under Demna era; clear critical thesis.",
+    "signal_tags": ["price_cut", "critical_angle", "quality_complaint", "made_in_china", "organic"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-11-20-14",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reports an 11% Kering share drop on failed China bottoming-out; sustained negative framing of turnaround narrative and stock decline.",
+    "signal_tags": ["critical_angle", "china_demand", "stock_decline"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-11-20-15",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Japanese business blog argues the brand has been 'half-destroyed' over three years, citing 11+ quarters of declines and 100+ store closures; strong unambiguous critical judgment, not brand-sourced.",
+    "signal_tags": ["critical_angle", "store_closures", "organic", "independent_judgment"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-11-20-16",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Firsthand organic SNS observation of Gucci outlet closure in Japan corroborating retail contraction; single low-reach post, factual tone rather than emotionally charged.",
+    "signal_tags": ["store_closures", "critical_angle", "organic"],
+    "confidence": 0.65
+  },
+  {
+    "id": "nea-2026-11-20-17",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Favorable independent trade-press critic roundup praising Demna's debut collection for reviving 1990s Gucci archive sensibility; independent design judgment, not brand-owned.",
+    "signal_tags": ["design_review", "independent_judgment", "stale_context_only"],
+    "confidence": 0.7
+  }
+]
