@@ -1,0 +1,146 @@
+[
+  {
+    "id": "EU-2026-11-21-01",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Confirmed ~30-job cuts at Swiss watchmaking site framed as cost-cutting; second wave after 2025 cuts signals sustained retrenchment.",
+    "signal_tags": ["critical", "layoffs", "watch_division"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-21-02",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Corroborating coverage of same layoffs, contextualized within a broader industry-wide Swiss watch squeeze, diluting Gucci-specific severity.",
+    "signal_tags": ["critical", "layoffs", "watch_division", "industry_context"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-21-03",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Trade-press confirmation of cuts plus union doubts about viability of the ultra-luxury watch pivot, a direct strategic critique.",
+    "signal_tags": ["critical", "layoffs", "watch_division"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-21-04",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cuts frame Gucci as breaking a luxury taboo/correcting a pricing bubble (brand-equity risk) / counter: Bernstein calls it a sensible correction; mixed-but-decided toward negative framing on Gucci specifically, LV comparison is peer SOV not polarity driver.",
+    "signal_tags": ["critical", "pricing_strategy", "competitor_comparison", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-21-05",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Hard data: double-digit price cuts, revenue down 6%, store traffic down 9%, weakest in China/Japan — sustained negative momentum reporting, not neutral fact statement.",
+    "signal_tags": ["critical", "pricing_strategy", "earnings", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-21-06",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sustained crisis framing of Gucci's collapse (sales nearly halved, operating profit collapse, stock drop costing Pinault family billions) — unambiguous negative thesis.",
+    "signal_tags": ["critical", "earnings", "stock_decline"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-21-07",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Financial-wire note on slow turnaround with analyst downgrade (Goldman cutting Q4 forecast to -4.3%); negative but measured/incidental tone caps magnitude.",
+    "signal_tags": ["critical", "earnings", "analyst_outlook", "negative_earnings"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-21-08",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive store-opening write-up (layout, design) with no independent evaluative verdict — activation coverage discounted to neutral.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-21-09",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Editorial writeup of brand-staged holiday campaign describing cast/product/soundtrack with no independent critical judgment — activation discount applies.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-21-10",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic negative public/fan backlash to the campaign ('depressing', 'boring', compared to JCPenney) — negative items are not subject to the activation cap.",
+    "signal_tags": ["critical", "campaign_backlash", "sns_aggregation"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-21-11",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Secondary-quoted TikTok criticism echoing same campaign backlash; magnitude capped as it's aggregated/secondary rather than directly verified viral volume.",
+    "signal_tags": ["critical", "campaign_backlash", "sns"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-21-12",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned X post promoting its own campaign; self-praise on owned channel is not public opinion, scored neutral per rubric.",
+    "signal_tags": ["activation_coverage", "owned_channel", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-21-13",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Aging community thread discussing/critiquing the SS27 store show with no clear single dominant verdict captured; treated as neutral discussion anchor.",
+    "signal_tags": ["community_discussion", "aging_thread", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "EU-2026-11-21-14",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Wire syndication of the same Swiss layoffs story for French investor audience; negative but purely syndicated/incidental relative to originals.",
+    "signal_tags": ["critical", "layoffs", "watch_division"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-21-15",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "New pricing-director hire reported as damage control following mismanaged price cuts; critical framing but about a corrective management action, so magnitude capped.",
+    "signal_tags": ["critical", "pricing_strategy", "management_change"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-21-16",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive German trade coverage of new flagship concept with no independent critical assessment — activation discount applies.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "nea-2026-11-21-01",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Shanghai Cruise 2028 show framed explicitly as a reaction to reignite China spending after reported 5% sales/8% revenue decline / counter: show itself is a forward-looking strategic move",
+    "signal_tags": ["china_strategy", "demna", "show_announcement", "negative_earnings"],
+    "confidence": 0.7
+  },
+  {
+    "id": "nea-2026-11-21-02",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Shanghai venue choice framed as part of a broader push to 'rebuild relevance' after Kering reported 6% LFL Gucci decline in Q3 / counter: strategic repositioning effort",
+    "signal_tags": ["china_strategy", "demna", "negative_earnings"],
+    "confidence": 0.7
+  },
+  {
+    "id": "nea-2026-11-21-03",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador/fan-event styling coverage, no independent evaluative verdict — activation discount applies",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-11-21-04",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-staged ambassador appointment announcement, press-kit derived with no independent judgment — activation discount applies",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-11-21-05",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci named among laggards losing share to Coach as budget-conscious younger consumers defect / counter: none, headline and framing are unambiguous competitive-loss narrative",
+    "signal_tags": ["critical_angle", "competitive_loss", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "nea-2026-11-21-06",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: organic consumer backlash over price cuts creating reputational fallout for recent buyers / counter: none, emotionally charged quoted frustration drives the piece",
+    "signal_tags": ["critical_angle", "consumer_backlash", "price_cut", "organic"],
+    "confidence": 0.8
+  },
+  {
+    "id": "nea-2026-11-21-07",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci forced into steep price cuts after 13 consecutive quarters of sales decline, contrasted against LVMH holding firm / counter: piece also frames LVMH's refusal as its own fear-driven taboo, giving some two-sidedness",
+    "signal_tags": ["critical_angle", "price_cut", "negative_earnings", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "nea-2026-11-21-08",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: resurfaced Tom Ford-era commentary used by community to question whether Demna's direction has strayed from core appeal / counter: thread format is nostalgic debate not full consensus",
+    "signal_tags": ["critical_angle", "lost_its_way", "organic", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-11-21-09",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuine two-sided organic community discussion of build quality vs brand cachet with no resolved verdict — neutral per mixed-no-verdict rule",
+    "signal_tags": ["organic", "quality_complaint", "mixed"],
+    "confidence": 0.7
+  },
+  {
+    "id": "nea-2026-11-21-10",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explicitly described as sharply polarized community debate on Demna's direction with no clear resolved verdict — neutral per mixed-no-verdict rule",
+    "signal_tags": ["mixed", "organic", "demna", "lost_its_way"],
+    "confidence": 0.75
+  },
+  {
+    "id": "nea-2026-11-21-11",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure brand-owned promotional campaign video, no independent evaluative framing — activation discount applies, self-praise is not public opinion",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "nea-2026-11-21-12",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Independent long-term review mixing praise for design with candid wear-and-tear notes, genuine two-sided testimony with no dominant verdict either way — neutral per mixed-no-verdict rule",
+    "signal_tags": ["organic", "mixed", "quality_review"],
+    "confidence": 0.6
+  },
+  {
+    "id": "nea-2026-11-21-13",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive fashion-editorial activation write-up of ambassador's gala look, no independent critical verdict rendered — activation discount applies",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.85
+  }
+]

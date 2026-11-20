@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-2026-11-21-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive WWD write-up of Mariah Carey holiday campaign cast/director/product with no independent critical verdict",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-21-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: fans call the Carey holiday ad 'depressing'/'boring'/'sterile' and worse than JCPenney / counter: minority praised the sequin look, but dominant headline+lede thesis is organic negative backlash",
+    "signal_tags": ["backlash", "campaign_reaction", "sns_sourced"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-21-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Forbes analysis frames 30% handbag price cuts as breaking luxury pricing taboo and evidence of weakened pricing power vs. LV",
+    "signal_tags": ["price_cut", "pricing_power", "independent_critical"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-21-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Retail Insider argues price cuts expose that brand prestige alone can't sustain premium pricing once desirability falters",
+    "signal_tags": ["price_cut", "pricing_power", "independent_critical"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-21-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci price cuts after 13 straight quarters of declining sales used as case study of aspirational-consumer pullback / counter: framed as broader industry shift, not solely a Gucci indictment",
+    "signal_tags": ["negative_earnings", "price_cut", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-21-006",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual corporate-restructuring report on new business units and senior advisers, neutral framing",
+    "signal_tags": ["corporate_restructuring"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-21-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive LACMA gala sponsorship coverage with no independent critical verdict on Gucci",
+    "signal_tags": ["activation_coverage", "sponsorship"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-21-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Tabloid descriptive wardrobe coverage of ambassador tour look, no brand-quality verdict",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-21-009",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned campaign film upload with no retrievable engagement signal, purely descriptive",
+    "signal_tags": ["activation_coverage", "owned_media"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-21-010",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: some members report cut corners on outlet lining quality / counter: others report consistent quality and active purchase intent on Demna-era pieces; genuine two-sided community chatter with no verdict",
+    "signal_tags": ["mixed", "quality_complaint", "community"],
+    "confidence": 0.6
+  }
+]

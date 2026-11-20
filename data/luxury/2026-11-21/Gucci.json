@@ -1,0 +1,136 @@
+{
+  "brand_group": "Gucci",
+  "date": "2026-11-21",
+  "mode": "daily",
+  "findings": [
+    {
+      "brand": "Gucci",
+      "event_type": "show",
+      "headline": "구찌, 중국 진출 30주년 맞아 2028 크루즈 쇼 상하이 개최 발표",
+      "headline_en": "Gucci to Stage Cruise 2028 Show in Shanghai, Marking 30 Years in China",
+      "summary": "구찌가 2027년 5월 17일 상하이에서 뎀나 연출의 2028 크루즈 컬렉션을 공개한다고 밝혔다. 중국 첫 매장 개점 30주년을 기념하는 행보로, 뎀나 체제 두 번째 크루즈 쇼이자 디올이 사흘 앞서 같은 도시에서 크루즈 쇼를 여는 것과 맞물려 중국 럭셔리 시장 공략 경쟁이 부각된다.",
+      "url": "https://theimpression.com/gucci-to-stage-cruise-2028-show-in-shanghai/",
+      "source": "The Impression",
+      "tier": "T2_general",
+      "published_at": "2026-11-16",
+      "why_it_matters": "중국 매출 약세가 3분기 실적 부진의 핵심 원인으로 지목된 가운데, 구찌가 대형 쇼를 통해 현지 재점화를 시도한다는 신호다 - 다만 효과는 실제 매장 트래픽 회복 여부로만 확인 가능하다.",
+      "why_it_matters_en": "With weak China demand cited as a key driver of Q3 underperformance, staging a flagship show there signals a reignition push - though impact is unverified until store traffic data confirms it.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "earnings",
+      "headline": "구찌 3분기 매출 6% 감소, 켈링 턴어라운드 목표에 발목",
+      "headline_en": "Gucci Q3 Sales Fall 6% on Comparable Basis, Dragging Kering's Turnaround Goal",
+      "summary": "켈링 3분기 전체 매출은 33.5억 유로로 보합(환율 고정 기준 -1%)인 반면, 구찌는 12.9억 유로로 전년 대비 4%(비교 기준 6%) 감소했다. 직영 매장 매출은 9% 줄었고, 특히 중국·일본 수요 약세가 원인으로 지목됐다. 켈링은 2026년 성장 회귀 가이던스를 철회했다.
+",
+      "url": "https://wwd.com/business-news/financial/kering-q3-revenues-flat-gucci-organic-sales-down-6-percent-1239380710/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-10-23",
+      "why_it_matters": "뎀나 취임 후 첫 신선함이 사라지며 매출 하락세가 이어지고 있다는 뜻이다 - 전환율·평균단가 개선이라는 긍정 신호는 있으나 매장 트래픽 자체는 여전히 줄고 있어 회복을 단정하기 이르다.",
+      "why_it_matters_en": "The decline continuing past Demna's initial novelty period signals an unresolved turnaround - improving conversion and average selling price are positive but store traffic itself is still falling, so recovery claims remain premature.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "pricing",
+      "headline": "구찌, 핸드백·스니커즈 가격 최대 30% 인하 - 루이비통은 동참 거부",
+      "headline_en": "Gucci Cuts Handbag and Sneaker Prices by Up to 30% - Louis Vuitton Declines to Follow",
+      "summary": "구찌가 13개 분기 연속 매출 하락 끝에 패드락 백 등 일부 핸드백 가격을 최대 30%, 스니커즈 일부를 800유로에서 560~595유로로 인하했다. 루카 드 메오 켈링 CEO는 \"과거처럼 가격 인상이 가능한 시대는 끝났다\"며 2000~3000유로대 평균가 안정화를 공식 전략으로 제시했다. 루이비통은 같은 전략을 따르지 않고 있다.",
+      "url": "https://www.theindustry.fashion/gucci-reportedly-cuts-prices-as-turnaround-pressure-builds/",
+      "source": "TheIndustry.fashion",
+      "tier": "T2_general",
+      "published_at": "2026-11-17",
+      "why_it_matters": "럭셔리 업계의 불문율이던 '가격은 내리지 않는다' 원칙을 구찌가 공개적으로 깬 사례로, 브랜드 가치 희석 우려와 수요 회복 기대가 동시에 걸려 있다 - 경쟁사가 동참하지 않을 경우 구찌만 저가 이미지로 고립될 위험도 있다.",
+      "why_it_matters_en": "Gucci publicly broke luxury's unwritten no-markdown rule, raising both demand-recovery hopes and brand-dilution risk - if rivals don't follow, Gucci risks being isolated with a discount image.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "켈링, 그룹 전체 가격 책임자 신설 - 구찌 가격 인하 후속 조치",
+      "headline_en": "Kering Appoints Group Director of Pricing Following Gucci Price Cuts",
+      "summary": "프란시스코 오찬도가 전 브랜드·전 지역을 총괄하는 켈링 그룹 가격 책임자(Group Director of Pricing)로 선임됐다고 11월 17일 밝혀졌다. 구찌의 가격 인하 발표 직후 신설된 직책으로, 가격 전략을 그룹 차원에서 중앙 통제하려는 의도로 해석된다.",
+      "url": "https://luxus-plus.com/en/after-price-cuts-at-gucci-kering-appoints-a-group-director-of-pricing/",
+      "source": "Luxus Plus",
+      "tier": "T2_general",
+      "published_at": "2026-11-17",
+      "why_it_matters": "가격 전략이 개별 브랜드 판단이 아니라 그룹 차원 통제 사안으로 격상됐다는 뜻으로, 구찌의 가격 실험이 그룹 전체 정책에 영향을 미치고 있음을 보여준다.",
+      "why_it_matters_en": "Pricing strategy has been elevated from brand-level decision to group-wide governance - Gucci's pricing experiment is now shaping policy across the entire Kering portfolio.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "구찌 스위스 시계 부문, 코르타요드 공장서 30명 추가 감원 추진",
+      "headline_en": "Gucci's Swiss Watch Division to Cut 30 Jobs at Cortaillod Plant",
+      "summary": "구찌의 스위스 시계 제조 자회사가 뇌샤텔주 코르타요드 사업장에서 약 30명(전체 95명 중 약 3분의 1)을 감원하는 협의 절차를 시작했다고 11월 19일 보도됐다. 물류 기능을 이탈리아 트레카테 본사로 이전하는 데 따른 조치로, 2025년 하이엔드 워치메이킹 집중 전략에 따른 20명 감원 이후 2년 내 두 번째 집단 감원이다. 협의는 12월 4일까지 진행된다.",
+      "url": "https://fashionunited.com/news/business/gucci-watchmaking-division-to-cut-30-jobs-in-switzerland/2026111975849",
+      "source": "FashionUnited",
+      "tier": "T2_general",
+      "published_at": "2026-11-19",
+      "why_it_matters": "구찌가 본체 매출 부진과 동시에 액세서리 다각화 부문인 워치메이킹에서도 구조조정을 반복하고 있다는 신호로, 턴어라운드가 핵심 라인뿐 아니라 주변 사업군에도 비용 압박을 가하고 있음을 보여준다 - 스위스 시계 수출 업황 둔화라는 업계 전반의 역풍도 겹쳐 있다.",
+      "why_it_matters_en": "A second round of layoffs in two years at Gucci's watchmaking arm shows the turnaround's cost pressure extending beyond the core business into diversification units - compounded by a broader Swiss watch export slowdown.",
+      "relevance": "competitive threat"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "campaign",
+      "headline": "구찌, 머라이어 캐리 기용한 2026 홀리데이 캠페인 '구찌 기프트' 공개",
+      "headline_en": "Gucci Unveils 'Gucci Gift' 2026 Holiday Campaign Starring Mariah Carey",
+      "summary": "하모니 코린이 연출한 구찌의 2026 홀리데이 캠페인이 머라이어 캐리를 주연으로 공개됐다. 캐럴 'All I Want For Christmas Is You'를 배경으로 호텔을 무대로 한 영상이며, 신규 버터플라이 컬렉션과 기프트 에디트 상품을 함께 선보인다.",
+      "url": "https://wwd.com/pop-culture/culture-news/mariah-carey-gucci-holiday-campaign-video-1239395541/",
+      "source": "WWD",
+      "tier": "T1",
+      "published_at": "2026-11-19",
+      "why_it_matters": "대형 셀럽을 동원한 홀리데이 마케팅 활동으로, 이는 구찌 자체 마케팅 활동 보도이며 소비자 여론 개선의 증거로 해석해서는 안 된다 - 실제 홀리데이 매출 반영 여부는 1월 실적 발표 전까지 미확인이다.",
+      "why_it_matters_en": "This is activation coverage of Gucci's own marketing output, not evidence of improved consumer sentiment - whether it moves holiday sales remains unverified until Q4/January results.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "retail",
+      "headline": "구찌, 파리 아브뉴 몽테뉴에 새 리테일 콘셉트 플래그십 오픈 - 런던·상하이·청두 순차 확장",
+      "headline_en": "Gucci Opens New Retail-Concept Flagship on Avenue Montaigne, Paris - London, Shanghai, Chengdu Rollout to Follow",
+      "summary": "구찌가 10월 30일 파리 아브뉴 몽테뉴 56번지에 4개 층, 1480제곱미터 규모의 신규 플래그십을 열었다. 이탈리아 헤리티지와 밀라노 디자인에서 영감받은 공간으로, 뎀나 체제 첫 매장 콘셉트다. 런던 해러즈 매장이 영국 최초로 이 콘셉트를 도입했고, 연내 런던·상하이·청두 매장 리뉴얼이 예정돼 있다. 동시에 켈링은 올해 구찌 매장 25곳을 폐점하며 '더 적고 더 큰 매장' 전략을 밀고 있다.",
+      "url": "https://hauteliving.com/2026/11/gucci-avenue-montaigne-flagship-paris/801255/",
+      "source": "Haute Living",
+      "tier": "T2_general",
+      "published_at": "2026-11-09",
+      "why_it_matters": "매장 수를 줄이면서 개별 매장의 몸값을 올리는 전략으로, 가격 인하와 동시에 추진된다는 점에서 상충 신호다 - 고급화와 저가화를 동시에 밀어붙이는 전략의 일관성은 아직 시장에서 검증되지 않았다.",
+      "why_it_matters_en": "The fewer-but-bigger-stores strategy runs alongside simultaneous price cuts - a potentially contradictory signal, since pursuing premiumization and markdowns at once has not yet been validated by the market.",
+      "relevance": "category trend"
+    },
+    {
+      "brand": "Gucci",
+      "event_type": "legal",
+      "headline": "코티-켈링 구찌 뷰티 라이선스 분쟁 합의 - 코티, 최소 2027년 6월까지 운영 유지",
+      "headline_en": "Coty-Kering Gucci Beauty License Dispute Settled - Coty Retains Operations Through at Least June 2027",
+      "summary": "켈링이 구찌 뷰티 라이선스를 로레알에 넘기는 거래를 추진하자 기존 라이선스 보유사인 코티가 영국 법원에 소송을 제기했으나, 켈링이 약 4억 달러(2026년 약 2.5억 달러, 2027년 최대 1.5억 달러)를 지급하는 조건으로 합의가 성립됐다. 코티는 2027년 6월 30일까지 구찌 뷰티 운영을 유지하며, 로레알은 50년 독점 라이선스로 이후를 이어받는다.",
+      "url": "https://www.thefashionlaw.com/future-of-luxury-licensing-gucci-beauty-deal/",
+      "source": "The Fashion Law",
+      "tier": "T2_trade",
+      "published_at": "2026-11-12",
+      "why_it_matters": "4억 달러 규모 합의금은 켈링이 구찌 뷰티 사업의 장기 가치를 높게 평가하고 있다는 뜻이지만, 동시에 라이선스 전환 비용이 본업 매출 부진 시기에 현금 유출로 작용한다는 부담도 함께 안고 있다.",
+      "why_it_matters_en": "The roughly $400M settlement signals Kering's high valuation of Gucci Beauty's long-term license, but it is also a cash outflow landing precisely when the core business is under revenue pressure.",
+      "relevance": "category trend"
+    }
+  ],
+  "keep": [
+    {
+      "brand": "Gucci",
+      "event_type": "executive",
+      "headline": "프란체스카 벨레티니, 구찌 신임 회장 겸 CEO로 공식 취임",
+      "headline_en": "Francesca Bellettini Confirmed as Gucci President and CEO",
+      "summary": "생로랑을 이끌었던 프란체스카 벨레티니가 2025년 9월 17일 구찌 회장 겸 CEO로 임명돼 루카 드 메오 켈링 CEO에게 직접 보고하는 구조로 전환됐다. 뎀나의 크리에이티브 턴어라운드를 비즈니스 측면에서 뒷받침하는 역할을 맡고 있다.",
+      "url": "https://www.kering.com/en/news/francesca-bellettini-appointed-president-and-ceo-of-gucci/",
+      "source": "Kering",
+      "tier": "T1",
+      "published_at": "2025-09-17",
+      "why_it_matters": "크리에이티브(뎀나)와 비즈니스(벨레티니) 리더십 분리 구조가 1년 넘게 이어지고 있으나, 3분기 실적이 여전히 부진해 이 리더십 조합의 효과는 아직 입증되지 않았다.",
+      "why_it_matters_en": "The creative (Demna) / business (Bellettini) leadership split has now run over a year, but Q3 results still underperforming means this leadership combination's effectiveness remains unproven.",
+      "relevance": "category trend"
+    }
+  ]
+}

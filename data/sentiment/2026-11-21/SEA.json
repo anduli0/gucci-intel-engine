@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SEA-2026-11-21-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Second round of Swiss watchmaking layoffs (30 jobs) tied to China/Middle East demand weakness; independent critical trade reporting, clear negative thesis.",
+    "signal_tags": ["critical", "layoffs", "restructuring", "negative_earnings"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-21-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: new pricing-discipline hire signals active turnaround effort / counter: framed as response to 13 quarters of sales declines and price-cut crisis management, dominant frame is negative.",
+    "signal_tags": ["critical", "price-cut", "turnaround", "negative_earnings", "mixed"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-21-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Goldman Sachs cut Q4 Gucci sales forecast and Kering shares fell below support; independent analyst downgrade directly shaping APAC investor sentiment.",
+    "signal_tags": ["critical", "negative_earnings", "analyst-downgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-21-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent analysis frames Gucci's price cuts as demand-weakness signal, contrasted unfavorably against Louis Vuitton's price discipline (peer-comparison trap applies to Gucci).",
+    "signal_tags": ["critical", "price-cut", "negative_earnings", "competitor-contrast"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-21-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador retrospective with a fandom-amplified sellout claim but no independent evaluative verdict; activation-coverage discount applies, capped neutral.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-21-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Promotional holiday gift-guide listicle with no independent verdict on the brand; descriptive activation coverage = neutral per rubric.",
+    "signal_tags": ["activation_coverage", "commerce", "holiday"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-21-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Baseline Thai community check surfaced only recurring low-level counterfeit/price/service chatter, no fresh viral thread; counterfeit inquiries default neutral-to-mild per trap rule.",
+    "signal_tags": ["neutral", "consumer-chatter", "counterfeit-concern"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-21-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Baseline Indonesian community check found only evergreen/colloquial threads, no fresh organic reaction; recorded dry-but-checked neutral.",
+    "signal_tags": ["neutral", "consumer-chatter"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-21-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic X commentary interprets price-cut/pricing-hire news as confirmation of demand weakness vs. LV; genuine public reaction but unverifiable reach caps magnitude.",
+    "signal_tags": ["critical", "price-cut", "sns-reaction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-21-010",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Corroborating independent trade coverage of the same 30-job Swiss watch-division cuts, contrasted against a still-growing overall Swiss watch export market, sharpening the Gucci-specific negative signal.",
+    "signal_tags": ["critical", "layoffs", "restructuring"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-21-011",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Facebook page routine campaign posts; self-praise is not public opinion per rubric, neutral baseline check.",
+    "signal_tags": ["activation_coverage", "brand-owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-21-012",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Resale guide reports Gucci secondhand values falling more sharply than LV/Chanel/Hermes (Marmont -47%); verification_required retailer-blog source cross-checked against independent price-cut coverage, magnitude held to 0.5 pending source tier.",
+    "signal_tags": ["critical", "resale-value", "verification_required"],
+    "confidence": 0.6
+  }
+]
