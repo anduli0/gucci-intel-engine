@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NEA-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: luxury sector's first-in-a-decade price cuts frame past pricing as having hurt volumes and fatigued consumers / counter: cut itself described as corrective, not purely bad news",
+    "signal_tags": ["price_cut", "negative_earnings", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Existing buyers' vocal backlash over sudden markdowns plus explicit mention of 13 consecutive quarters of sales decline",
+    "signal_tags": ["price_cut_backlash", "value_for_money", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci breaks a pricing taboo while LV hesitates / counter: both framed within a broader downturn and weak middle-class demand, no clear verdict on Gucci itself",
+    "signal_tags": ["mixed", "price_cut", "industry_comparison"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Analytical business piece on diverging pricing strategies amid contracting demand, stated without evaluative verdict on Gucci",
+    "signal_tags": ["negative_earnings", "mixed", "industry_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-appointment announcement, press-kit derived, no independent evaluative content",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-006",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Brand-staged gala write-up but outlet adds its own evaluative praise ('독보적 아우라', '빛내다') on ambassadors' looks; capped under activation + fandom discount",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual show-scheduling announcement with historical recap, no evaluative framing",
+    "signal_tags": ["activation_coverage", "schedule"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of a launch event and celebrity guest list, no outlet verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: informational FAQ-style explainer synthesizing Demna debut, store closures, and China-made sneaker / counter: no evaluative verdict offered, framed as neutral explainer",
+    "signal_tags": ["mixed", "negative_earnings", "store_closures"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Consumer guide on identifying manufacturing origin; reflects scrutiny but is informational, not evaluative",
+    "signal_tags": ["made_in_china", "mixed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Explainer tying price cuts and China-made production to margin pressure and demand strategy, analytical rather than verdict-driven",
+    "signal_tags": ["negative_earnings", "made_in_china", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Pointed public questioning of Gucci's brand-ranking slide to 9th place and 12 straight quarters of decline, viral FAQ-style framing",
+    "signal_tags": ["brand_ranking", "negative_earnings"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-013",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan community praise for ambassador's styling at a Gucci event; genuine positive reaction but dampened as a fandom spike rather than brand-affinity signal",
+    "signal_tags": ["fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-014",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: grassroots hands-on pros/cons watch review / counter: balanced pros-and-cons with no net verdict stated",
+    "signal_tags": ["mixed", "product_review"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-015",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "K-pop fan aggregator praising ambassador's appearance at Gucci-hosted gala; pure fandom spike, damped from brand-affinity signal",
+    "signal_tags": ["fandom", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-016",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Sector-wide price-cut coverage framed emotionally as luxury industry's 'white flag' and 'nose broken' after middle-class buyers withdrew",
+    "signal_tags": ["price_cut", "negative_earnings", "industry_comparison"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-017",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Reports 18% revenue decline driven by Asia sales weakness, framed around an ongoing turnaround struggle under Demna",
+    "signal_tags": ["negative_earnings", "asia_weakness"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-018",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade-press confirmation of first Made-in-China sneaker, company frames it as capability choice not cost cut; outside freshness window, treated as low-weight context",
+    "signal_tags": ["made_in_china", "mixed"],
+    "confidence": 0.45
+  }
+]

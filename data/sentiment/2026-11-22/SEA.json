@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-11-22-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent Forbes analysis: sustained negative framing of price cuts after 13 quarters of falling sales and a shrinking luxury customer base.",
+    "signal_tags": ["critical", "price-cut", "negative_earnings", "competitor-contrast"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-22-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Peer-comparison trap: Coach/Ralph Lauren China growth framed against Kering/LVMH double-digit declines, positioning Gucci as losing share to accessible-logo rivals.",
+    "signal_tags": ["critical", "competitor-contrast", "negative_earnings", "peer-comparison"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-22-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive retail promotion write-up (Scent Show discount), no independent evaluative verdict -> neutral under activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "price-cut", "retail-promotion"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-22-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure brand-staged campaign coverage (Mariah Carey holiday ad) with no independent critical angle -> neutral/press-kit-derived under activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "campaign", "holiday"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-22-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Evergreen Thai community baseline (authentication/price chatter), no fresh reactive thread this cycle.",
+    "signal_tags": ["neutral", "consumer-chatter", "counterfeit-concern"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-22-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Facebook promotion of Scent Show/holiday campaign; self-promotion is not public opinion.",
+    "signal_tags": ["activation_coverage", "brand-owned"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-22-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: holiday-campaign fan excitement / counter: price-conscious and ironic commentary on a 'no-discount' house running markdowns -- two-sided with no clear verdict.",
+    "signal_tags": ["mixed", "price-cut", "sns-reaction", "campaign"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-22-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Evergreen Kaskus baseline, no fresh Indonesia-specific reactive thread this cycle.",
+    "signal_tags": ["neutral", "consumer-chatter"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-22-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press corroboration of Coach/Ralph Lauren outperforming Kering/LVMH in China, reinforcing Gucci share-loss narrative.",
+    "signal_tags": ["critical", "competitor-contrast", "negative_earnings"],
+    "confidence": 0.75
+  }
+]

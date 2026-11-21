@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NA-2026-11-22-002",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Quantified independent third-party demand data (Lyst Q3 index) shows Gucci climbing to #4",
+    "signal_tags": [
+      "quantified_demand_data",
+      "ranking_improvement"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-22-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: genuine community debate on Flora bag durability / counter: no verdict reached, split opinions",
+    "signal_tags": [
+      "mixed",
+      "quality_debate",
+      "community"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-22-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Persistent organic quality/QC complaints (fraying thread, dye rub-off) with unfavorable peer comparison to LV/Chanel",
+    "signal_tags": [
+      "quality_complaint",
+      "peer_comparison",
+      "community"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-22-006",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci isn't failing, deliberate counter-narrative citing Lyst rank and narrowing sales decline / counter: acknowledges dominant crisis press line",
+    "signal_tags": [
+      "mixed",
+      "counter_narrative",
+      "opinion"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-22-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci under Demna has lost the plot creatively, unfavorable Balenciaga comparison / counter: concedes commercial approach could still work financially",
+    "signal_tags": [
+      "mixed",
+      "design_criticism",
+      "creative_direction"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-22-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: skeptical-but-fair creator weigh-up of Demna's collections vs Balenciaga legacy / counter: no clear verdict delivered",
+    "signal_tags": [
+      "mixed",
+      "creator_commentary",
+      "sns"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-22-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Creator review argues Pre-Fall 2026 collection recycles Tom Ford-era tropes rather than forging distinct new identity",
+    "signal_tags": [
+      "design_criticism",
+      "creator_commentary",
+      "sns"
+    ],
+    "confidence": 0.55
+  }
+]

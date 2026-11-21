@@ -1,0 +1,182 @@
+[
+  {
+    "id": "EU-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Second collective layoff wave (30 jobs) at Swiss watch unit signals structural trouble, not just a cost adjustment",
+    "signal_tags": ["labor", "layoffs", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Union confirms ~30 jobs at risk and frames difficulties as structural, reinforcing negative momentum narrative",
+    "signal_tags": ["labor", "layoffs", "union_statement"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Local follow-up on same Cortaillod layoffs, factual/regional tone, less charged but confirms repeat cuts",
+    "signal_tags": ["labor", "layoffs"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Regional radio frames layoffs as part of a tough period for the watch valley; negative but low-intensity local reporting",
+    "signal_tags": ["labor", "layoffs"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: investigative piece on EUR3.2bn loss and brand devaluation / counter: mostly a non-cash writedown — headline and framing ('svalutazione del marchio', crisis narrative) dominate as unambiguous decline story",
+    "signal_tags": ["negative_earnings", "brand_devaluation", "mixed_but_decided"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Goldman Sachs sharply deepens Q4 sales-decline forecast, pressuring Kering stock; clear negative analyst sentiment",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Follow-up wire reiterating the same Goldman downgrade; redundant confirmation, slightly lower incremental magnitude",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive WWD write-up of Gucci's own holiday campaign (what it is, who stars, products); activation coverage discount applies, no independent verdict",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic backlash against the campaign (fans call it 'cold', 'depressing', 'outdated'); negative items are not subject to the activation discount cap",
+    "signal_tags": ["backlash", "campaign_criticism"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Direct aggregated public comments are strongly negative/emotional ('JCPenney trying to be luxury', 'emotionless. Disappointing'), despite some minor praise for styling",
+    "signal_tags": ["sns", "backlash", "campaign_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci breaking luxury's pricing taboo via quiet discounts signals weakness, contrasted with LV holding firm / counter: framed as strategic repositioning — dominant thesis is brand-value erosion risk",
+    "signal_tags": ["price_cuts", "brand_devaluation", "peer_comparison"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-012",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Unannounced, quietly-implemented price cuts explicitly linked to thirteen consecutive quarters of sales declines — clear negative momentum framing",
+    "signal_tags": ["price_cuts", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-013",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: confirms ~30% price cut on Padlock bag amid sales recul / counter: Kering frames it as a limited, targeted correction, not broad repricing — mixed but decided toward negative, capped magnitude",
+    "signal_tags": ["price_cuts", "mixed_but_decided"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-014",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuine two-sided analysis questioning whether price cuts resolve or deepen the desirability problem, no clear verdict reached",
+    "signal_tags": ["mixed", "price_cuts", "strategy_debate"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-015",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive WWD coverage of new store concept launch at Harrods; activation coverage discount applies, no independent evaluative verdict given",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-016",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade-wire bundles store opening with layoff news without a clear dominant verdict either way; treated as descriptive dual-story digest",
+    "signal_tags": ["activation_coverage", "mixed"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-017",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual reporting on new business-unit restructuring and advisor appointments; no evaluative framing of outcomes",
+    "signal_tags": ["corporate_structure", "personnel"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-018",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuine two-sided fan-community debate on commercial vs creative direction with no resolved verdict; stale (outside window) further lowers confidence",
+    "signal_tags": ["mixed", "community", "stale"],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-019",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official brand account post on ambassadors at a gala; pure activation/brand-owned promo copy, not public opinion",
+    "signal_tags": ["activation_coverage", "ambassador", "owned_channel"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-020",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Stale analyst commentary ('more good than bad') cited only as proxy for ongoing chatter, outside freshness window; demoted from weak positive given low confidence per rubric rule",
+    "signal_tags": ["stale", "analyst_commentary", "low_confidence"],
+    "confidence": 0.4
+  }
+]
