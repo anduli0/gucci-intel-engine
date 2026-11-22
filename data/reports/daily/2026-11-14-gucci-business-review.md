@@ -8,6 +8,8 @@
 
 오늘 구찌는 두 갈래로 갈린다 — 유럽에서는 파리 신규 플래그십이 리테일 재편 신호로 호평받으며 분위기를 데웠지만[1][2], 중국 트래픽 부진과 머라이어 캐리 홀리데이 캠페인 반발이 그 온기를 상쇄했다[3][4]. 대화량은 구찌가 주도했으나, 그 화제가 긍정으로만 채워진 것은 아니다.
 
+![머라이어 캐리 홀리데이 캠페인에 대한 팬·SNS 부정 반응](https://s.yimg.com/lo/mysterio/api/ba4be89c7fbe3ea767ff5cd2e9f85852a3254f22015953382213a17e2b43841d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2F0dcf25b88af7c24bf101416aadaff8a1.jpg "Yahoo Entertainment|https://www.yahoo.com/entertainment/celebrity/fashion/articles/fans-disappointed-over-mariah-careys-130043587.html")
+
 ## 1. 오늘의 판정 — 활성화는 많았으나 소비자 체감은 엇갈렸다
 
 오늘의 결론은, 구찌가 활성화(activation) 물량을 쏟아냈지만 소비자 체감은 유럽에서만 개선됐다는 것이다. 유럽에서는 10월 30일 연 파리 플래그십이 '더 스토어 쇼' 1호점으로 리테일 재편 첫 증거로 읽혔으나, 응대 리뷰가 엇갈려 호평이 매장 경험까지 번지지는 않았다[1][2][5]. 또한 동북아의 박보검 앰배서더 기용은 호감을 끌되 구매 전환 증거가 없고[6][7], 북미·유럽의 머라이어 캐리 캠페인은 '차갑다'는 반발을 샀다 — 이는 활성화가 아닌 진짜 소비자 반응이라 할인 없이 받아야 한다[3][4].

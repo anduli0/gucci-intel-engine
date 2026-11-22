@@ -8,6 +8,8 @@
 
 오늘 업계의 한 줄은 수요가 식는 국면에서 브랜드가 제품이 아니라 사람과 서사를 바꾼다는 것이다 — 케링은 한 달 새 세 번째 CD 교체를, 디올은 'AI 논란'을 떠안았다. 그 소음 바깥에서 돈을 버는 쪽은 주얼리이며, 리치몬트는 7분기 연속 두 자릿수 성장을 이어갔다[8].
 
+![리치몬트 FY26 주얼리 메종 165억 유로, 까르띠에·반클리프 견인](https://www.theindustry.fashion/wp-content/uploads/2023/02/Richemont.jpg "TheIndustry.fashion|https://www.theindustry.fashion/cartier-and-van-cleef-lead-richemonts-double-digit-sales-rebound/")
+
 ## 1. 오늘의 한 줄 — 교체의 계절, 그러나 교체가 수요를 만들지는 않는다
 
 ![프라다그룹 안드레아 게라 CEO](https://theimpression.com/wp-content/uploads/2026/10/Andrea-Guerra-prada-group-scaled.jpeg "The Impression|https://theimpression.com/prada-group-nine-month-2026-revenue-miu-miu-versace/")
