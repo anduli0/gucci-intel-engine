@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NA-2026-11-23-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic third-party fan/consumer backlash to holiday campaign tone ('depressing', 'boring', 'JCPenney' comparison) is genuine negative public opinion, not activation puffery.",
+    "signal_tags": [
+      "campaign_backlash",
+      "consumer_reaction"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-23-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned promotional post with no independent evaluative verdict; self-praise is not public opinion.",
+    "signal_tags": [
+      "activation_coverage",
+      "brand_owned"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-23-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: price cuts break luxury pricing taboo as a distress response / counter: competitors resisting shows discipline, but dominant frame is 13 straight quarters of decline with no sales recovery yet.",
+    "signal_tags": [
+      "price_cut",
+      "distress_signal",
+      "negative_earnings"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-23-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Genuine organic viewer comments on brand's own film call it sterile/cold/horror-like, distinct from brand's intended framing; negative reaction not subject to activation cap.",
+    "signal_tags": [
+      "campaign_backlash",
+      "organic_sns"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-23-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent quantified resale depreciation data (GG Marmont avg resale $1,600 to $853; 30-45% immediate depreciation) is organic value-for-money/resale critique.",
+    "signal_tags": [
+      "resale_value",
+      "value_for_money"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-23-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: unclear, page unfetchable (403) / counter: described as mixed-to-skeptical by analogy to other threads; insufficient direct evidence to assign polarity.",
+    "signal_tags": [
+      "mixed",
+      "low_confidence_source"
+    ],
+    "confidence": 0.35
+  },
+  {
+    "id": "NA-2026-11-23-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic TikTok creator discourse questioning boycott status and mocking brand as tacky/overrated reflects genuine cultural-cachet erosion sentiment.",
+    "signal_tags": [
+      "organic_sns",
+      "cultural_cachet",
+      "boycott_chatter"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-23-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Factual earnings reporting (Gucci sales -6%, NA growth decelerating to +1% from +9-10%) stated with sustained negative framing of momentum deceleration rather than neutral stat recitation.",
+    "signal_tags": [
+      "negative_earnings",
+      "regional_data"
+    ],
+    "confidence": 0.7
+  }
+]

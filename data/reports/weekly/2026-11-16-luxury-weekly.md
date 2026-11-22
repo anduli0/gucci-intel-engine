@@ -24,7 +24,6 @@
 
 이번 주의 지배 구조는 하나다 — 같은 거시 역풍 아래에서도 주얼리와 뷰티는 두 자릿수로 성장했고 패션·가죽은 모든 진영에서 역성장했다[1][2][3][4]. 리슈몽에서는 카르티에·반클리프를 품은 주얼리 메종이 상반기 매출 91억 유로로 19% 성장하며 그룹 전체를 끌어올렸고[1], 케링에서도 부쉐론·포멜라토 등 주얼리 부문이 상반기 14%(비교 가능 기준 20%) 성장해 패션 본업을 앞질렀다[2]. 반면 LVMH 패션·가죽은 3분기 5% 역성장했고[3], 에르메스는 레디투웨어·액세서리가 수년 만에 처음 역성장하며 전체 성장률이 1년 전 9.6%에서 4.3%로 거의 반 토막 났다[4]. 즉, '어떤 브랜드냐'보다 '어떤 카테고리냐'가 올 하반기 성장을 더 강하게 가른다는 뜻이다.
 
-![에르메스 3분기 성장 4.3%(1년 전 9.6%에서 둔화, 컨센서스 약 1%p 하회), 중국 부진·아메리카 분기 8.8% 성장](https://data2.nssmag.com/images/galleries/50110/cover-hermes-results-wide.webp "nss magazine|https://www.nssmag.com/en/fashion/47391/is-the-luxury-crisis-hitting-hermes-too")
 
 다만 이 구조적 해석에도 균형추가 필요하다 — 주얼리 성장조차 둔화 신호를 품고 있다. 리슈몽 주얼리의 2분기 단독 성장률은 20%에서 14%로 꺾였고, 금값 급등이 마진을 압박해 발표 당일 주가는 6% 빠졌다[1]. 더불어 섹터 전반의 자본시장 평가도 호의적이지 않다 — 11월 14일 전후로 몽클레르 주가가 20% 급락하고 리슈몽도 4% 빠지는 등, 연초 대비 케링 41%·LVMH 35%·에르메스 37% 하락이라는 공통 약세가 이어졌다[10][11]. 요컨대 주얼리·뷰티는 '아직은 위'이지 '무한히 위'가 아니고, 이번 주 이야기는 특정 하우스의 승패가 아니라 섹터 전체의 밸류에이션 재조정이라고 보는 것이 정확하다.
 
@@ -194,7 +193,6 @@ The clearest structural shift in this week's data is that luxury demand has spli
 
 This week's dominant structure is singular — under the same macro headwind, jewelry and beauty grew double digits while fashion and leather goods contracted across every camp[1][2][3][4]. At Richemont, the jewelry maisons housing Cartier and Van Cleef & Arpels lifted the whole group with H1 sales of EUR 9.1 billion, up 19%[1], and at Kering, the jewelry division spanning Boucheron and Pomellato grew 14% reported (20% comparable) in H1, outpacing the core fashion business[2]. LVMH's fashion and leather goods, by contrast, contracted 5% in Q3[3], and Hermes saw ready-to-wear and accessories decline for the first time in years, with overall growth roughly halving from 9.6% a year earlier to 4.3%[4]. In short, which category a house competes in is now a stronger determinant of H2 growth than which brand it is.
 
-![Hermes Q3 growth at 4.3% (down from 9.6% a year earlier, about 1pp below consensus); China weakness, Americas up 8.8% in the quarter](https://data2.nssmag.com/images/galleries/50110/cover-hermes-results-wide.webp "nss magazine|https://www.nssmag.com/en/fashion/47391/is-the-luxury-crisis-hitting-hermes-too")
 
 That said, this structural reading needs its own counterweight — even jewelry's growth carries signs of deceleration. Richemont's jewelry division slowed from 20% to 14% growth quarter-on-quarter, and a surge in gold prices squeezed margins, sending the stock down 6% on the day of the announcement[1]. Further, capital markets have not rewarded the sector broadly — around November 14, Moncler shares plunged 20% and Richemont fell 4%, continuing a shared year-to-date slide of 41% for Kering, 35% for LVMH, and 37% for Hermes[10][11]. In short, jewelry and beauty are "up for now," not "up indefinitely," and the accurate reading of this week is a sector-wide valuation reset rather than any single house's win or loss.
 

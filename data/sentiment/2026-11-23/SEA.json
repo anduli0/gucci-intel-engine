@@ -1,0 +1,120 @@
+[
+  {
+    "id": "SEA-2026-11-23-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual strategic reporting on Shanghai Cruise show timing/location with no evaluative verdict toward the brand; SEA-neglect framing is implied, not asserted.",
+    "signal_tags": [
+      "neutral",
+      "china-focus",
+      "strategy",
+      "competitor-contrast"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-23-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation/society write-up (luncheon, Cruise preview, celebrity guests) with no independent critical or evaluative framing -- activation discount applies.",
+    "signal_tags": [
+      "activation_coverage",
+      "celebrity",
+      "retail-event"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-23-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard trade write-up of campaign launch event (who/what/where) with no independent evaluative verdict -- activation discount applies.",
+    "signal_tags": [
+      "activation_coverage",
+      "campaign",
+      "holiday"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-23-006",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Checked organic-community baseline; recurring evergreen counterfeit/price-comparison/ambassador threads with no single fresh decisive thread this cycle.",
+    "signal_tags": [
+      "neutral",
+      "consumer-chatter",
+      "counterfeit-concern"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-23-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Checked organic-community baseline; only evergreen/dry threads, no fresh news-reactive discussion met the freshness bar.",
+    "signal_tags": [
+      "neutral",
+      "consumer-chatter"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-23-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Substantive community criticism of Gucci as 'luxury trash tier' on quality/discounting and Made-in-Italy skepticism, but thread is stale (outside 14-day window) so confidence and magnitude are damped.",
+    "signal_tags": [
+      "critical",
+      "quality-complaint",
+      "discount-perception",
+      "stale-flagged"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-23-009",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned Facebook promotion of holiday campaign with no organic controversy -- self-praise is not public opinion, activation discount applies.",
+    "signal_tags": [
+      "activation_coverage",
+      "brand-owned"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-23-010",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: confirms Mariah Carey campaign backlash (gloomy/dated/boring) has organic reach into SEA social feeds / counter: also mixes in neutral Philippines store-shopping content -- dominant point of the item is the backlash spillover, so negative but diluted by the mixed content.",
+    "signal_tags": [
+      "mixed",
+      "campaign-backlash",
+      "sns-reaction"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-23-011",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: price-conscious consumers discuss ongoing price cuts / counter: regional frustration at being a 'second-tier' market versus China investment -- genuine two-sided chatter with no single verdict, labeled neutral per mixed rule.",
+    "signal_tags": [
+      "mixed",
+      "price-cut",
+      "sns-reaction",
+      "china-focus"
+    ],
+    "confidence": 0.5
+  }
+]

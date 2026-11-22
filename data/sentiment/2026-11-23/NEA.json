@@ -1,0 +1,224 @@
+[
+  {
+    "id": "NEA-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: middle-class pullback driving 13 straight quarters of decline and 30% price cuts / counter: none offered, framed as crisis",
+    "signal_tags": [
+      "negative_earnings",
+      "price_cut_backlash",
+      "demand_erosion"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Chinese Gen Z explicitly trading down from Gucci to Coach/Muji, logo luxury called 'outdated', China sales declines cited",
+    "signal_tags": [
+      "trade_down",
+      "china_demand",
+      "design_criticism"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: brand lost creative identity post-Michele across 4 CEOs / counter: none; retained as background context not fresh signal, but scored on its stated thesis",
+    "signal_tags": [
+      "design_criticism",
+      "identity_loss",
+      "stale_context"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "descriptive confirmation of Shanghai Cruise 2028 show date/location, no evaluative verdict",
+    "signal_tags": [
+      "activation_coverage",
+      "show_announcement"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: 'even proud luxury brands bowing' framing on eroding pricing power, Gucci cast as the one forced to cut / counter: LV holding firm contrast sharpens the negative framing",
+    "signal_tags": [
+      "price_cut_backlash",
+      "pricing_power_erosion"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cut could restore volume / counter: or merely confirm declining brand power — genuine two-sided weigh-up with no verdict",
+    "signal_tags": [
+      "mixed",
+      "price_cut_debate"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "purely descriptive ambassador appointment announcement, press-kit derived, no independent verdict",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador_news"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "neutral consumer price-gap guide, factual arbitrage info without brand judgment",
+    "signal_tags": [
+      "price_sensitivity",
+      "cross_border_buying"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: questions Gucci's luxury standing amid sustained revenue pressure / counter: valuation still near $15.2B tempers the blow, analytical not emotional tone",
+    "signal_tags": [
+      "negative_earnings",
+      "brand_standing_skepticism"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Demna debut breakout pieces generating buzz / counter: 40% price cuts and 105 store closures, ends on open 'worth buying now?' question — two-sided, no verdict",
+    "signal_tags": [
+      "mixed",
+      "store_closures",
+      "designer_debut"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "neutral first-person purchase-experience post, factual shipping details, no evaluative charge",
+    "signal_tags": [
+      "consumer_experience"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-013",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "fan community positive on ambassador styling at brand event, but damped per fandom-spike trap and activation discount",
+    "signal_tags": [
+      "activation_coverage",
+      "fandom",
+      "ambassador_news"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-014",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "descriptive note on ambassador's international media visibility, no evaluative verdict on the brand itself",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador_news"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-015",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "grassroots debate that Gucci's signature snake motif has fallen out of trend, mild/conditional skepticism",
+    "signal_tags": [
+      "design_criticism",
+      "trend_fatigue"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-016",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "sharp quality complaint comparing Gucci slipper build unfavorably to military-issue sliders, clear value-for-money disgust",
+    "signal_tags": [
+      "quality_complaint",
+      "value_for_money"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-017",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "counterfeit/inconsistent-documentation complaint via open marketplace, per rubric scored mild-negative",
+    "signal_tags": [
+      "counterfeit",
+      "authentication_concern"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-018",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "factual broadcast report on new Made-in-China sneaker labeling, framed as notable but not editorially condemned; stale context item",
+    "signal_tags": [
+      "factual_report",
+      "manufacturing_origin",
+      "stale_context"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-019",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: reviewer personally loves new Demna-era pieces / counter: acknowledges design is highly polarizing among fanbase — mixed-but-decided, capped magnitude",
+    "signal_tags": [
+      "mixed",
+      "design_praise",
+      "designer_debut"
+    ],
+    "confidence": 0.65
+  }
+]

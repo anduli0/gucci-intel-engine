@@ -1,0 +1,243 @@
+[
+  {
+    "id": "EU-001",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Goldman cuts Kering price target and Gucci Q4 organic sales forecast to -4.3%, negative momentum press.",
+    "signal_tags": [
+      "negative_earnings",
+      "analyst_downgrade"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-002",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "German wire follow-up reiterates Goldman downgrade, frames Gucci's stalled recovery as dominant swing factor.",
+    "signal_tags": [
+      "negative_earnings",
+      "analyst_downgrade"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of new Harrods store concept rollout, no independent evaluative verdict.",
+    "signal_tags": [
+      "activation_coverage",
+      "retail_expansion"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-004",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade coverage of new Gucci Beauty boutique concept, press-kit derived, no outlet verdict.",
+    "signal_tags": [
+      "activation_coverage",
+      "retail_expansion"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-005",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cuts are a defensible response to weak China demand / counter: risks diminishing exclusivity and alienating full-price buyers; genuine two-sided weigh-up with no verdict.",
+    "signal_tags": [
+      "mixed",
+      "pricing_strategy"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-007",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Headline-level framing of price cuts as response to 'turnaround pressure' after thirteen consecutive quarters of sales declines.",
+    "signal_tags": [
+      "negative_earnings",
+      "pricing_strategy"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-008",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "New group pricing-director role read by trade press as admission of pricing discipline failure after Gucci price-cut controversy.",
+    "signal_tags": [
+      "pricing_strategy",
+      "governance"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-009",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Commentary argues Gucci's price cuts expose structural crisis, warns of buyer backlash and eroding pricing power.",
+    "signal_tags": [
+      "pricing_strategy",
+      "brand_equity_risk"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-010",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Gucci watch division cuts 30 of 95 roles in Switzerland, second collective redundancy in two years.",
+    "signal_tags": [
+      "layoffs",
+      "negative_earnings"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-011",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Union confirms ~30 jobs at risk, calls difficulties structural rather than cyclical, reinforcing long-term decline narrative.",
+    "signal_tags": [
+      "layoffs",
+      "negative_earnings"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-012",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Swiss outlet covers layoff wave alongside Zenith, framing it as part of broader weak-demand rough patch, not Gucci-specific headline emotion.",
+    "signal_tags": [
+      "layoffs",
+      "industry_wide"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-013",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Regional TV segment on threatened jobs and worker/union reaction to restructuring.",
+    "signal_tags": [
+      "layoffs"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-014",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade blog analysis on why Gucci and Zenith are both cutting jobs, citing softening demand and overcapacity.",
+    "signal_tags": [
+      "layoffs",
+      "industry_wide"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-015",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive report of new business-unit organizational structure and senior adviser hires, no evaluative verdict.",
+    "signal_tags": [
+      "organizational_change"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-016",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of Gucci's own holiday campaign (what it is, who stars, where it runs), press-kit derived.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-017",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual consumer guide noting Gucci will not run a Black Friday sale in 2026.",
+    "signal_tags": [
+      "factual"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-018",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Reuters wire post reiterating prior Q3 sales-decline story, still circulating in Kering/Gucci stock commentary.",
+    "signal_tags": [
+      "negative_earnings"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-019",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum members call recent bags impractical and cite '10+ failed releases... a disaster' / counter: some defenders of Demna's direction; community fandom trap damps magnitude.",
+    "signal_tags": [
+      "design_criticism",
+      "mixed",
+      "community"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-020",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: syndicated forum roundup calls Demna's debut 'one big cliche' and 'a new low' / counter: some praise for styling choices referencing Tom Ford era.",
+    "signal_tags": [
+      "design_criticism",
+      "mixed",
+      "community"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-023",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Harrods boutique investment shows retail expansion / counter: parallel Swiss job cuts show cost-cutting; two-sided bundle with no verdict.",
+    "signal_tags": [
+      "mixed",
+      "layoffs",
+      "retail_expansion"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-024",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cuts could be deliberate repositioning strategy / counter: may deepen rather than resolve desirability problem; genuine two-sided weigh-up with no verdict.",
+    "signal_tags": [
+      "mixed",
+      "pricing_strategy"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-025",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual confirmation of Padlock bag price drop, framed by Kering as a targeted correction rather than broad repricing.",
+    "signal_tags": [
+      "pricing_strategy",
+      "factual"
+    ],
+    "confidence": 0.7
+  }
+]
