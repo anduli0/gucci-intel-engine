@@ -1,0 +1,200 @@
+[
+  {
+    "id": "NEA-2026-11-24-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: historic 21% price cut framed as sign of luxury industry distress / counter: none, headline+body both frame as crisis signal",
+    "signal_tags": ["price_cut", "negative_earnings", "industry_comparison"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-24-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: recent buyers feel cheated by abrupt markdown with no compensation, plus stealth price hikes elsewhere / counter: none offered",
+    "signal_tags": ["price_cut_backlash", "value_for_money", "trust_damage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-24-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci's steep discounting vs LV's restraint frames both as trapped in a pricing dilemma from middle-class erosion / counter: peer comparison partly about LV",
+    "signal_tags": ["price_cut", "industry_comparison", "negative_earnings"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-24-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci breaking luxury's 'never discount' taboo amid prolonged downturn framed negatively as crisis response",
+    "signal_tags": ["price_cut", "negative_earnings", "brand_equity"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-24-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: middle-class withdrawal from luxury has hit Gucci (and LV) with declining traffic — explicit crisis framing",
+    "signal_tags": ["negative_earnings", "traffic_decline", "industry_comparison"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-24-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: descriptive announcement of Shanghai Cruise 2028 show as reconnection strategy / counter: none, purely activation news with light strategic framing",
+    "signal_tags": ["activation_coverage", "show_announcement", "china_strategy"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-24-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: fan speculation/excitement over show announcement and guest list, genuine engagement but not evaluative of brand itself",
+    "signal_tags": ["fandom", "activation_coverage", "show_announcement"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-24-008",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: a glamorous show cannot restore trust after flagship closure and price-hike-then-discount pattern damaged credibility / counter: show could 'pull people back' but author doubts full-price conversion",
+    "signal_tags": ["trust_damage", "store_closure", "price_cut_backlash", "mixed"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-24-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: resale values fell alongside retail cuts, framing Gucci bags as poor investment regardless of markdown — quantified third-party resale data",
+    "signal_tags": ["resale_depreciation", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-24-010",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: price cut explained via 13 consecutive quarters of sales decline and eroding shopper visits, with buyers calculating losses — negative momentum framing",
+    "signal_tags": ["negative_earnings", "price_cut_backlash"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-24-011",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: overwhelmingly positive fan reaction to ambassador's styling at gala / counter: none, but ambassador fandom trap caps magnitude",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-24-012",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: descriptive activation write-up of ambassadors at gala with mild evaluative praise of styling, outlet's own verdict capped per activation discount",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-24-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: purely descriptive activation write-up of GucciCore launch event with celebrity attendees — no independent judgment, brand-adjacent press",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-24-014",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: strong organic fan praise of ambassador's look ('he himself is the luxury brand') / counter: skews promotional fan-service tone, fandom trap caps magnitude",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-24-015",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "brand-owned official press release confirming event detail — self-praise is not public opinion per rubric",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-24-016",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Q3 sales fell 6%, 11 consecutive quarters of decline, mass store closures and inventory cuts despite Demna — sustained negative momentum framing",
+    "signal_tags": ["negative_earnings", "store_closure"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-24-017",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: balanced explainer mixing creative-revival narrative (Primavera, campaign) with business distress (store closures, 30-40% price cuts), genuine two-sided weigh-up with no clear verdict",
+    "signal_tags": ["mixed", "negative_earnings", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-24-018",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: quantified resale data shows trend styles lost roughly half their value, weakening resale confidence — independent third-party data per rubric",
+    "signal_tags": ["resale_depreciation"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-24-019",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: item described only as retained for background context on recurring critical/skeptical commentary, no specific verdict content supplied, outside freshness window",
+    "signal_tags": ["mixed", "stale_context"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NEA-2026-11-24-020",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "purely descriptive product-launch activation coverage, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-24-021",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: explainer debating Gucci's hierarchy standing amid decline, framed as ongoing fight to defend position — descriptive/questioning rather than a settled negative verdict, two-sided discourse",
+    "signal_tags": ["mixed", "industry_comparison"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-24-022",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "stale background lookbook coverage retained only for continuity documentation, outside freshness window, no evaluative content",
+    "signal_tags": ["stale_context", "activation_coverage"],
+    "confidence": 0.5
+  }
+]

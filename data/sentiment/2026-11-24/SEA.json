@@ -1,0 +1,128 @@
+[
+  {
+    "id": "SEA-2026-11-24-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: permanent unannounced price cuts framed as turnaround pressure / counter: Kering calls it a targeted correction, but headline+lede emphasize desperation",
+    "signal_tags": ["price_cut", "value_for_money", "negative_earnings", "turnaround"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-24-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci breaking luxury's discounting taboo signals weakness vs rivals like LV holding firm / counter: framed as strategy, not failure",
+    "signal_tags": ["price_cut", "peer_comparison", "value_for_money"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-24-003",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering shares fell as Gucci comparable sales dropped 6% and retail sales fell 9% on weak foot traffic; sustained negative framing of earnings miss",
+    "signal_tags": ["negative_earnings", "momentum"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-24-004",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: continued sales declines straining Kering, Demna's creative reset has not yet produced a turnaround / counter: none offered",
+    "signal_tags": ["negative_earnings", "momentum", "creative_direction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-24-005",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "WWD's independent critic review favorably frames Demna's 'GucciCore' wardrobe-staples concept as addressing what the brand was missing",
+    "signal_tags": ["critic_review", "creative_direction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-24-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: fans disappointed, calling campaign 'boring'/'depressing'/compared to JCPenney / counter: some praised Carey's styling, but headline and dominant reaction are negative organic backlash",
+    "signal_tags": ["campaign_backlash", "activation_coverage"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-24-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "purely descriptive roundup of runway looks with no evaluative verdict from outlet; brand-adjacent activation coverage",
+    "signal_tags": ["activation_coverage", "runway"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-24-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "descriptive write-up of 'The Store Show' concept and format, no clear evaluative judgment given",
+    "signal_tags": ["activation_coverage", "runway"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-24-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: FAQ-style explainer bundles Demna debut with 40% price cuts and 105 store closures as the 'big news' / counter: neutral explainer tone but substance is negative operational facts",
+    "signal_tags": ["negative_earnings", "price_cut", "store_closures", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-24-010",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "two-sided creator commentary on Times Square takeover discussing concept and critical reception without a clear single verdict",
+    "signal_tags": ["mixed", "activation_coverage", "runway"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-24-011",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "short-form review content with no discernible stated verdict available from summary; default neutral when unsure",
+    "signal_tags": ["activation_coverage", "runway"],
+    "confidence": 0.4
+  },
+  {
+    "id": "SEA-2026-11-24-012",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "forum user expresses regret over Gucci purchase; value-for-money dispute, organic community sentiment but single-thread low-reach signal",
+    "signal_tags": ["value_for_money", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-24-013",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "user asks community to verify if belt buckle design is normal; authenticity-check question, not a verdict; also stale/excluded from freshness scoring",
+    "signal_tags": ["counterfeit_inquiry", "stale"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-24-014",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "resale guide reports Michele-era pieces lost 40-60% of retail value, worse than Hermes/Chanel/LV; verification_required tier and excluded from freshness scoring, retained as background only",
+    "signal_tags": ["resale_depreciation", "verification_required", "background_only"],
+    "confidence": 0.5
+  }
+]

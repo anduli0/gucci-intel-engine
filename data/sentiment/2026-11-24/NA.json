@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NA-2026-11-24-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure celebrity-dressing activation write-up with no outlet verdict; brand-owned red-carpet styling coverage.",
+    "signal_tags": ["activation_coverage", "celebrity_dressing"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-24-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual org-restructuring report with no evaluative framing; negative earnings context noted but not editorialized.",
+    "signal_tags": ["negative_earnings", "org_news"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-24-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of the holiday campaign, who/what/where only, no independent verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-24-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: independent compilation of organic fan backlash calling the campaign cold, outdated, 'depressing' and like a discount brand / counter: none offered, verdict unambiguous.",
+    "signal_tags": ["campaign_backlash", "design_criticism", "organic_reaction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-24-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned YouTube upload of campaign film with no exposed engagement metrics; self-promo coded neutral.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-24-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: aggregate unprompted consumer reviews skew negative on customer service, returns handling, and product-quality failures / counter: none, genuine organic community complaint channel.",
+    "signal_tags": ["quality_complaint", "customer_service", "organic_reaction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-24-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: two-sided community forum threads, some praising construction quality others flagging defects, no net verdict / counter: split sentiment explicitly described as such.",
+    "signal_tags": ["mixed", "quality_complaint", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-24-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: independent trade analysis frames quiet price cuts after 13 straight quarters of falling sales as breaking the luxury pricing taboo, with CEO conceding pricing power is gone / counter: contrast with LV not following underscores Gucci's weaker position, not a mitigating positive.",
+    "signal_tags": ["negative_earnings", "price_cut", "outlet_discount_image", "critical_trade_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-24-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Boycott-adjacent search-interest signal with unverifiable original-poster context; confidence below 0.5 so polarity demoted to neutral per rubric.",
+    "signal_tags": ["boycott_chatter", "sns_signal", "low_verifiability", "demoted_low_confidence"],
+    "confidence": 0.45
+  },
+  {
+    "id": "NA-2026-11-24-012",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "EU-market retail-concept store opening included only as regional context; factual activation reporting, no NA-specific verdict.",
+    "signal_tags": ["activation_coverage", "store_opening", "out_of_region_context"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-24-013",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: independent resale-value analysis concludes Gucci is only 'moderate' for resale liquidity and not an appreciating asset, pieces losing 30-45% immediately / counter: still retains 55-70% of retail for excellent-condition pieces, kept mixed-but-decided per dominant-thesis rule.",
+    "signal_tags": ["mixed", "resale_value", "value_for_money"],
+    "confidence": 0.65
+  }
+]

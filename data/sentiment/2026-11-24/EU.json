@@ -1,0 +1,182 @@
+[
+  {
+    "id": "EU-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: pricing exec hire frames Kering institutionalizing correction of past overreach / counter: pure personnel appointment reported factually, but tied explicitly to 6% Q3 revenue decline and admission hikes outpaced market",
+    "signal_tags": ["negative_earnings", "pricing_strategy", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Trade coverage of same pricing-architecture story, explicitly notes 15-30% price cuts on handbags/sneakers/apparel as backdrop, implying prior overpricing",
+    "signal_tags": ["pricing_strategy", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci breaking luxury's pricing taboo signals weakness/desperation / counter: framed as strategic repositioning, LV refusal implicitly validates taboo as correct, casting Gucci's move as a compromise",
+    "signal_tags": ["mixed", "pricing_strategy", "peer_comparison"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-004",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade breakdown of de Meo's price-stabilization plan and inventory cuts, explicitly notes turnaround 'not yet complete' - descriptive, no clear verdict",
+    "signal_tags": ["mixed", "negative_earnings", "pricing_strategy"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent analyst (Goldman Sachs) cuts price target and worsens Q4 sales forecast citing weak retail traffic - quantified third-party negative judgment, not brand-supplied",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive store-opening write-up (what/where/design lineage) with no outlet evaluative verdict - activation coverage discount applies",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-007",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Design-focused outlet gives own favorable evaluative verdict on the boutique as a design statement - activation coverage with verdict, capped at 0.5",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual trade rundown of relocation strategy paired neutrally with ongoing store-closure program figures - descriptive, no verdict",
+    "signal_tags": ["activation_coverage", "store_closures", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-009",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cuts aimed at winning back Chinese shoppers / counter (dominant in conclusion): early reaction is lukewarm, discount undercut by perception prices were already inflated - negative verdict wins via direct consumer quote",
+    "signal_tags": ["mixed", "pricing_strategy", "consumer_reaction"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan/consumer backlash against campaign as 'cold, emotionless, dated' with viral comparison to cheap retailer - unambiguous negative consumer verdict, not brand-staged praise",
+    "signal_tags": ["campaign_backlash", "ambassador_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Aggregated TikTok comments calling the holiday ad boring/depressing; organic negative reaction but unverifiable engagement counts and T3 secondary aggregation damp magnitude",
+    "signal_tags": ["campaign_backlash", "sns", "unverified_metrics"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-012",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive front-row/celebrity-attendance post with no evaluative content; also stale (outside freshness window) - activation coverage, no verdict",
+    "signal_tags": ["activation_coverage", "stale", "ambassador_coverage"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-013",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Community thread with multiple members reporting hardware tarnishing, loose stitching, strap peeling vs pre-2020 construction - genuine QC complaint pattern",
+    "signal_tags": ["quality_complaint", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-014",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Counter-thread with members sharing positive ownership experiences pushing back on decline narrative - genuine third-party quality praise, mild magnitude given balancing/minority context",
+    "signal_tags": ["quality_praise", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-015",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer value-for-money complaint about fragrance longevity not matching in-store sample, echoed by other posters - genuine QC/value complaint",
+    "signal_tags": ["quality_complaint", "value_for_money", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-016",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Genuine two-sided consumer weigh-up: some welcome accessible pricing, others read cuts as confirming overpricing/damaging desirability - no net verdict, tag mixed",
+    "signal_tags": ["mixed", "pricing_strategy", "consumer_reaction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-017",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 1.0,
+    "rationale": "Independent trade-press (BoF) judgment calling the flagship a blueprint for retail revamp, quoting exec characterization favorably - independent critical assessment, not brand copy",
+    "signal_tags": ["favorable_trade_press", "store_opening"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-018",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Frames price cuts as evidence of industry-wide crisis of customer loyalty after years of markup - negative framing of Gucci's position as symptomatic of deeper problem",
+    "signal_tags": ["negative_earnings", "pricing_strategy", "industry_crisis"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-019",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis (headline+conclusion): discounts and store closures 'may not be enough' due to structural demand problem - unambiguous skeptical verdict on turnaround odds",
+    "signal_tags": ["negative_earnings", "pricing_strategy", "skeptical_analysis"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-020",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive flagship-opening write-up; mentions 'reverse a prolonged sales slump' factually without outlet's own verdict on success - activation coverage, no clear verdict",
+    "signal_tags": ["activation_coverage", "store_opening", "negative_earnings"],
+    "confidence": 0.6
+  }
+]
