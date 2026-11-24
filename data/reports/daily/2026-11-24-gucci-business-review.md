@@ -22,6 +22,8 @@
 
 필요한 것은 할인 '수치'가 아니라 가격 '신뢰'이며, 접근성 메시지(2천달러 이하 신규 16종)와 열망을 분리해야 한다[3][11]. 상방(낮음)은 아오야마·LACMA 호감이 연말 구매로 전환되는 경우, 하방은 Goldman 하향·중국 미온이 추가 부정 보도를 부르는 경우다(실행안은 부록)[13][8][12].
 
+![가격 인하에도 중국 소비자 반응 미온적](https://cdn.sanity.io/images/f8lauh0h/production/42f5179351cb55b07ff3c0c0b0305909fdba8db7-1080x608.jpg "Jing Daily|https://jingdaily.com/posts/gucci-cuts-prices-but-will-chinese-shoppers-return")
+
 ## 주석
 
 - 활성화(activation) 커버리지: 브랜드가 집행한 캠페인·이벤트·앰배서더 노출. 소비자 여론과 구분해 가중 할인함(감성 루브릭 v1.1).
@@ -89,6 +91,8 @@ Most positive signal is bought coverage, not volunteered goodwill[13][14]. A cou
 ## 3. What to Watch Tomorrow
 
 Gucci needs price credibility, not discount figures, and must keep accessibility messaging separate from aspiration[3][11]. Upside: Aoyama/LACMA goodwill converts to purchases; downside: Goldman's downgrade and tepid China reaction draw more negative coverage[13][8][12].
+
+![lukewarm Chinese consumer reaction despite the price cuts](https://cdn.sanity.io/images/f8lauh0h/production/42f5179351cb55b07ff3c0c0b0305909fdba8db7-1080x608.jpg "Jing Daily|https://jingdaily.com/posts/gucci-cuts-prices-but-will-chinese-shoppers-return")
 
 ## Notes
 
