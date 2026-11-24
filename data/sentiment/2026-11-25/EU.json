@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EU-001",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Harrods store-concept rollout write-up with no outlet verdict.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-002",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade coverage describing new UK boutique's design cues; no independent evaluative verdict rendered.",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci cutting ~30 Swiss watchmaking jobs, second layoff round in two years amid weak China demand and tariffs / counter: none offered.",
+    "signal_tags": ["layoffs", "restructuring", "negative_earnings"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Goldman Sachs cut Q4 Gucci organic sales forecast to -4.3% citing weak China and softening Europe — negative momentum press.",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "SBG Securities downgraded Kering to hold, cut target, citing continued Gucci pressure and open questions on desirability/productivity.",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-006",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering shares sink as Gucci comparable sales fall 6% with persistent traffic weakness and accelerated store closures / counter: none; sustained negative framing.",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-007",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive holiday-campaign write-up explicitly noted as having no outlet verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: campaign praised as stylish departure from cliche / counter: called sterile and vampire-like — genuine two-sided public split with no verdict.",
+    "signal_tags": ["mixed", "campaign"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Gucci's own X post about LACMA gala red carpet — brand-owned promo content, not public opinion.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "EU-010",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ironic meme circulation ('Gucci Morty'), engagement is playful/meme-driven rather than brand-evaluative.",
+    "signal_tags": ["meme", "fandom_trap"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-011",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Independent forum commenter found SS27 show more wearable than prior 'vulgar/grotesque'-rated Demna collections — favorable comparative verdict, single-voice.",
+    "signal_tags": ["runway_review", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-012",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum commenters call Demna's consumerism-critique campaign framing 'tired and juvenile' and hypocritical / counter: none offered.",
+    "signal_tags": ["community", "campaign_backlash"],
+    "confidence": 0.65
+  }
+]

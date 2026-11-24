@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NA-2026-11-25-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: independent Forbes analysis frames unannounced steep price cuts as breaking luxury taboo and a demand-weakness signal, contrasted against LV holding firm / counter: none, unambiguous critical verdict",
+    "signal_tags": ["price_cut", "value_for_money", "independent_analysis"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-25-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Q3 earnings press with sustained negative framing ('recovery lags'), NA sales decelerated from +10% to -10%, shares sank / counter: none",
+    "signal_tags": ["negative_earnings", "momentum_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-25-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: accelerated store-closure target (125+) including NA closures framed as evidence turnaround still incomplete / counter: strategic 'fewer bigger stores' framing, but overall verdict remains critical",
+    "signal_tags": ["store_closures", "negative_earnings", "independent_analysis"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-25-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: factual organizational reporting on new internal structure supporting Demna / counter: none, descriptive with only contextual tie to sales decline",
+    "signal_tags": ["corporate_structure", "factual_reporting"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-25-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum verdicts genuinely split between praise for spectacle/casting and harsh dismissal as 'most boring Gucci show ever' / counter: no dominant resolution, two-sided with no clear verdict",
+    "signal_tags": ["mixed", "runway_review", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-25-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: organic community QC thread skews mixed-to-reassuring overall but surfaces isolated hardware-fading/craftsmanship complaints on Marmont line / counter: many long-time buyers report no issues",
+    "signal_tags": ["quality_complaint", "mixed", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-25-007",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: recurring independent TikTok consumer reaction calls holiday campaign styling 'cold,' 'depressing,' 'outdated,' likened to JCPenney / counter: smaller praise subset for Mariah Carey herself, but dominant thesis is critical of the brand execution",
+    "signal_tags": ["campaign_backlash", "independent_opinion", "sns"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-25-008",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: compiled independent social commentary describes holiday campaign mood as sterile, cold, 'uncanny,' fans 'disappointed' / counter: none, unambiguous negative consumer reaction reporting",
+    "signal_tags": ["campaign_backlash", "independent_opinion"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-25-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: consumer-advice blog concludes Gucci is a 'liquidity brand, not value-retention brand' citing weaker resale retention vs Hermes/Goyard / counter: none, but low-tier verification_required source caps magnitude as corroborating color",
+    "signal_tags": ["resale_value", "value_for_money"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-25-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: aggregate Trustpilot reviews skew negative on unresponsive customer service, slow returns, and hardware/quality failures / counter: none, unprompted organic consumer channel, direct critical counterweight to promo coverage",
+    "signal_tags": ["quality_complaint", "customer_service", "community"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-25-011",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: SCMP analysis argues discounts and store closures (incl. NA) may not be enough to offset luxury slowdown, analyst skepticism on turnaround pace / counter: none, but China-focused provenance pooled to NA secondarily so magnitude capped",
+    "signal_tags": ["negative_earnings", "store_closures", "independent_analysis"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-25-012",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: purely descriptive WWD write-up of Mariah Carey holiday campaign with no outlet verdict / counter: none, activation-coverage discount applies, brand-staged campaign write-up coded neutral",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  }
+]

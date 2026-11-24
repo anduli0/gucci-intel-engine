@@ -1,0 +1,200 @@
+[
+  {
+    "id": "NEA-2026-11-25-001",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive GucciCore launch-event write-up (attendees, outfits), no outlet verdict",
+    "signal_tags": ["activation_coverage", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-25-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Syndicated descriptive coverage of same GucciCore event, no evaluative verdict",
+    "signal_tags": ["activation_coverage", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-25-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: first markdown in a decade frames Gucci as cracking under eroding middle-class demand / counter: still factual price report",
+    "signal_tags": ["price_cut", "negative_earnings", "value_for_money"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-25-004",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: breaking luxury pricing rules amid falling sales/traffic signals weakness / counter: CEO frames cuts as deliberate reset, conversion improved",
+    "signal_tags": ["price_cut", "mixed", "negative_earnings"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-25-005",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent critical analysis arguing discounts/closures may not reverse China slide, CFO calls China 'major headwind'",
+    "signal_tags": ["china_slowdown", "negative_earnings", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-25-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Kering Q3: Gucci comparable sales down 6%, explicitly framed as the group's 'weak link' despite improved conversion/ticket",
+    "signal_tags": ["negative_earnings", "t1_source"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-25-007",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador photo activation with praised fan reaction; capped under activation/fandom trap",
+    "signal_tags": ["activation_coverage", "fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-25-008",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Organic fan comments praising ambassador photos; genuine but fandom-spike damped to 0.5",
+    "signal_tags": ["fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-25-009",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: FAQ-farm explainer mixing debut/price-cuts/store-closures with no clear verdict / counter: flagged as low-originality bot-like content",
+    "signal_tags": ["mixed", "low_confidence", "bot_suspect"],
+    "confidence": 0.35
+  },
+  {
+    "id": "NEA-2026-11-25-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Commercial livestream activation discussion, not public opinion about the brand itself",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-25-011",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: analytical essay on Demna's contrast aesthetic / counter: comments split on whether it resonates with core Chinese clientele - two-sided, no verdict",
+    "signal_tags": ["mixed", "creative_direction"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-25-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-bag story plus commenters debating that markdowns make Gucci feel less special",
+    "signal_tags": ["counterfeit", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-25-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: pros/cons watch review / counter: no decisive verdict either way, mixed-to-skeptical community chatter",
+    "signal_tags": ["mixed", "qc_quality"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-25-014",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Buyer backlash over uncompensated price cuts plus quietly raised prices elsewhere - direct consumer-trust damage",
+    "signal_tags": ["price_cut", "value_for_money", "consumer_trust"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-25-015",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Middle-class demand erosion framed as a 'crisis' hitting Gucci, price cuts read as defensive not goodwill",
+    "signal_tags": ["negative_earnings", "price_cut"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-25-016",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Syndicated duplicate of middle-class crisis story; same critical framing, discounted for redundancy",
+    "signal_tags": ["negative_earnings", "price_cut", "duplicate"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-25-017",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: luxury's price-hike formula has broken, Gucci cited as evidence / counter: industry-wide piece, Gucci is one of several examples",
+    "signal_tags": ["price_cut", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-25-018",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Gucci's price cuts framed as a 'white flag' under financial pressure, contrasted with LVMH's reluctance",
+    "signal_tags": ["price_cut", "negative_earnings"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-25-019",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Quantified resale data shows Gucci retaining less value than Hermes/Chanel, but templated FAQ-farm format lowers confidence",
+    "signal_tags": ["resale_value", "bot_suspect"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-25-020",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: China store cuts framed as deliberate 'fewer bigger better' strategy to rebuild appeal / counter: piece itself flags near-term retreat optics risk",
+    "signal_tags": ["mixed", "store_closures", "china_slowdown"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-25-021",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: critics/curators praise Demna's debut storytelling / counter: analysts warn dystopian aesthetic may not resonate, stock fell on hire news - genuine two-sided weigh-up",
+    "signal_tags": ["mixed", "creative_direction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-25-022",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive event-commentary clips from official outlet account, no independent verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.7
+  }
+]

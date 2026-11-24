@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEA-2026-11-25-001",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Price cuts framed against 13 consecutive quarters of declining sales and deteriorating middle-class demand; sustained negative momentum narrative, not a neutral fact statement.",
+    "signal_tags": ["price_cut", "negative_earnings", "middle_class_demand"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-25-002",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Official Kering Q3 disclosure: Gucci revenue down 6% comparable, APAC down 8%, store-closure target raised — quantified negative earnings/momentum data, independent of framing.",
+    "signal_tags": ["negative_earnings", "store_closures", "apac_decline"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-25-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive ambassador-appointment activation coverage with no independent evaluative verdict; activation-coverage discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador", "kpop_fandom"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-25-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Press-kit derived, admiring but non-evaluative cover-story write-up of an ambassador in Gucci Cruise 2027; descriptive activation coverage.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-25-005",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of the brand-staged Gucci Gift holiday campaign with Mariah Carey; no independent verdict, pure activation coverage.",
+    "signal_tags": ["activation_coverage", "holiday_campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-25-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: fans call campaign 'disappointing/depressing/sterile, cold, devoid of humanity' / counter: some defended Carey's holiday draw — dominant thesis is organic negative audience backlash, mixed-but-decided, magnitude capped.",
+    "signal_tags": ["activation_coverage", "mixed", "consumer_reaction"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-25-007",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "K-pop fan-account amplification of ambassador editorial; pure fandom celebration with no evaluative content toward the brand, damped per fandom trap.",
+    "signal_tags": ["activation_coverage", "kpop_fandom", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-25-008",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan-shot celebratory clip of a singer greeted by fans at a Gucci event; non-evaluative fandom amplification, damped per fandom trap.",
+    "signal_tags": ["activation_coverage", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-25-010",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: independent trade-adjacent critique frames Demna's FW2026 direction as a notable, confident design statement / counter: body-conscious sexualized styling is polarizing — mixed-to-positive independent review, dominant thesis favorable, magnitude capped as mixed-but-decided.",
+    "signal_tags": ["independent_review", "mixed"],
+    "confidence": 0.6
+  }
+]
