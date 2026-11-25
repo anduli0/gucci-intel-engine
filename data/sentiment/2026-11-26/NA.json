@@ -1,0 +1,173 @@
+[
+  {
+    "id": "NA-2026-11-26-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: independent analysis concludes Gucci sales decline reflects deeper appeal erosion / counter: none, unambiguous negative-momentum verdict",
+    "signal_tags": ["negative_earnings", "appeal_decline", "independent_press"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-26-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Organic fan/consumer backlash calling campaign 'depressing' and 'boring' - sustained negative reaction, not activation-discount capped since it's audience backlash not brand copy",
+    "signal_tags": ["campaign_backlash", "fan_reaction", "activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-26-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of holiday campaign with no outlet verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-26-004",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Quantified reach figure cited as evidence of campaign reach but no evaluative judgment of brand, descriptive trade coverage",
+    "signal_tags": ["activation_coverage", "engagement_metric"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-26-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: independent Forbes analysis frames unannounced price cuts as symptom of demand weakness breaking luxury taboo / counter: none, unambiguous independent critical framing",
+    "signal_tags": ["price_cut", "demand_weakness", "independent_press"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-26-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Store closure reported as background/context corroborating ongoing NA footprint rationalization narrative; stale item, magnitude damped",
+    "signal_tags": ["store_closure", "footprint_rationalization"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-26-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: mixed community QC discussion, some satisfied buyers alongside isolated hardware complaints / counter: no clear dominant verdict either way",
+    "signal_tags": ["mixed", "quality_complaint", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-26-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: genuine two-sided community debate on brand reliability / counter: some satisfied, some wary - no verdict reached",
+    "signal_tags": ["mixed", "resale_concern", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-26-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Unprompted recurring consumer complaints about customer service, returns, and quality defects - organic independent negative consumer sentiment",
+    "signal_tags": ["quality_complaint", "customer_service", "community"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-26-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: resale-value advice concludes Gucci is 'liquid, not appreciating', trend pieces unproven / counter: heritage pieces still recommended; verification_required tier damps magnitude",
+    "signal_tags": ["resale_value", "mixed", "verification_required"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-26-011",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Discounting across retailers and permanent list-price cuts read by piece as quiet acknowledgment of softened full-price demand; verification_required tier damps magnitude",
+    "signal_tags": ["discount_coverage", "price_cut", "verification_required"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-26-012",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: independent critic argues Demna's Gucci repeats troubling Balenciaga patterns, questions substance of design reset / counter: none strong, but single-creator critique without visible engagement caps magnitude",
+    "signal_tags": ["design_criticism", "independent_press"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-26-013",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: mixed critical verdict questioning whether debut collection played too safe / counter: not condemnation nor praise, genuine ambivalence",
+    "signal_tags": ["mixed", "design_criticism"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-26-014",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fandom spike celebrating celebrity sighting at show, no evaluative claim about brand itself - fandom trap, damped to neutral",
+    "signal_tags": ["fandom", "celebrity_sighting"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-26-015",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned promo copy announcing campaign - self-praise is not public opinion, coded neutral per rubric",
+    "signal_tags": ["brand_owned", "activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-26-016",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual organizational/structural reporting on new business units, no evaluative verdict on brand",
+    "signal_tags": ["organizational_news"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-26-017",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: community largely dismissed self-shot campaign as 'trash'/'tired and juvenile' / counter: some defended raw aesthetic as intentional; mixed-but-negative-leaning verdict, activation discount caps magnitude",
+    "signal_tags": ["activation_coverage", "mixed", "campaign_backlash"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-26-018",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive commerce/culture write-up of campaign tie-in, no outlet verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-26-019",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Positions Gucci among entry-level houses facing resale-value compression vs Hermes/Chanel, peer-comparison framing damaging to Gucci; verification_required tier damps magnitude",
+    "signal_tags": ["resale_value", "peer_comparison", "verification_required"],
+    "confidence": 0.6
+  }
+]

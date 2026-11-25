@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EU-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Price cuts framed against 6% Q3 decline and abandoned growth target signal sustained turnaround pressure, not a neutral pricing tweak",
+    "signal_tags": ["negative_earnings", "pricing", "turnaround"],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "New group pricing-discipline hire is a corporate-governance response implicitly confirming prior price hikes eroded demand; factual but negatively framed context",
+    "signal_tags": ["negative_earnings", "pricing", "corporate_governance"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Layoffs at Swiss watch site reported factually but as second such cut in two years amid sector downturn - mild negative momentum signal",
+    "signal_tags": ["layoffs", "negative_earnings"],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Goldman deepens Q4 decline forecast and cuts price target, flags weak Europe plus soft China / counter: projects 2027 recovery - near-term verdict is clearly negative",
+    "signal_tags": ["negative_earnings", "analyst_downgrade"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-005",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Duplicate trade confirmation of Cortaillod layoffs within broader cost-discipline push - factual negative restructuring news",
+    "signal_tags": ["layoffs", "negative_earnings"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-006",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of flagship store reopening and design concept, no independent evaluative verdict present",
+    "signal_tags": ["activation_coverage", "store_opening"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Aggregate Trustpilot rating 1.8/5 with 69% one-star and recurring themes of refund delays, defects and poor service is quantified, emotionally charged, organic consumer sentiment",
+    "signal_tags": ["quality_complaint", "customer_service", "quantified_demand_data"],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-008",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Ordinary consumer grumbling about feeling misled by fragrance and reformulation, low-grade but persistent quality skepticism",
+    "signal_tags": ["quality_complaint", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: sentiment warming toward Demna's SS27 collection / counter: skepticism on handbag direction persists - genuine two-sided weigh-up with no clear verdict",
+    "signal_tags": ["mixed", "creative_direction"],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: organic forum roundup calls pieces 'cheap, dated' and styling 'not sexy' / counter: smaller contingent defends the reset - dominant independent-community verdict is clearly negative",
+    "signal_tags": ["mixed", "creative_direction", "design_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-011",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Negative consumer backlash against a Gucci-initiated campaign (not subject to activation discount cap since negative); TikTok reactions call it cold, boring, outdated",
+    "signal_tags": ["activation_coverage", "campaign_backlash", "ambassador"],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-012",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Store Show concept framed as necessary strategic signal from Demna/Bellettini / counter: analysts unconvinced aesthetics alone reverse traffic and comp-sales declines - two-sided trade analysis with no firm verdict",
+    "signal_tags": ["mixed", "activation_coverage", "retail_strategy"],
+    "confidence": 0.6
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "NEA-2026-11-26-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive Art Wall mural activation write-up, no independent verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-26-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador appointment PR, descriptive only, discounted as brand activation",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom_trap"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-26-003",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: historic 21% Korea price cut frames pricing power collapse and hurt volumes / counter: none, framed as crisis milestone",
+    "signal_tags": ["price_cut", "negative_earnings", "pricing_power"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-26-004",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci forced into aggressive price cuts after 13 quarters of declining sales, contrasted against LVMH holding firm / counter: none",
+    "signal_tags": ["price_cut", "negative_earnings", "peer_comparison"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-26-005",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci breaking luxury pricing taboo under recession-driven demand weakness while LVMH resists / counter: none",
+    "signal_tags": ["price_cut", "negative_earnings", "peer_comparison"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-26-006",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: middle-class pullback forces Gucci into crisis-mode defensive price cuts, not confident strategy / counter: none",
+    "signal_tags": ["negative_earnings", "price_cut"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-26-007",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci's price cuts signal weakened luxury pricing power industry-wide / counter: framed as broader industry trend, Gucci one of two examples",
+    "signal_tags": ["price_cut", "pricing_power"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-26-008",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: genuine consumer grievance from recent buyers feeling cheated by sudden price drop and perceived value loss / counter: none",
+    "signal_tags": ["value_for_money", "consumer_backlash"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-26-009",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: discounts and store closures may not be enough to reverse Gucci's China slide, CFO calls China a 'major headwind' / counter: none",
+    "signal_tags": ["negative_earnings", "store_closures", "china_slowdown"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-26-010",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: continued Gucci store closures framed within broader 'high-end consumption is getting harder' narrative amid weak China demand and brand-transition friction / counter: none",
+    "signal_tags": ["store_closures", "negative_earnings", "china_slowdown"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-26-011",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: renewed store closures tied to weak footfall, brand-image fade, insufficient innovation, with concrete QC data showing return rate from oxidation/cracking rose 8%->23% / counter: none",
+    "signal_tags": ["store_closures", "quality_complaint", "china_slowdown"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-26-012",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci Korea reviewing 20% domestic store withdrawal amid recession, part of Kering's global closure pledge / counter: none",
+    "signal_tags": ["store_closures", "negative_earnings"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-26-013",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure holiday campaign/product descriptive write-up, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-26-014",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-news framing with Gucci campaign as secondary incidental mention, no brand verdict",
+    "signal_tags": ["activation_coverage", "incidental_mention"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-26-015",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official brand-owned promo upload, self-praise is not public opinion; no engagement metrics observed",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NEA-2026-11-26-016",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Templated SEO/bot-pattern explainer cluster on closures/earnings, low-trust, admitted as volume signal only not genuine sentiment",
+    "signal_tags": ["bot_suspect", "low_trust", "mixed"],
+    "confidence": 0.3
+  },
+  {
+    "id": "NEA-2026-11-26-017",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: counterfeit investigation thread highlighting gap between fake and real craftsmanship, counterfeit-market chatter reflecting mild brand-adjacent concern / counter: not direct brand critique",
+    "signal_tags": ["counterfeit"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-26-018",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: ordinary consumer thread concludes strong brand recognition but finishing/movement quality lags peers / counter: brand recognition praised",
+    "signal_tags": ["quality_complaint", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-26-019",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: financial-wire framing of luxury industry 'waving a white flag' on pricing after middle-class demand collapse, positions Gucci as most visible price-cutter / counter: none",
+    "signal_tags": ["price_cut", "negative_earnings"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-26-020",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: retrospective on Demna's Gucci tenure continuing 'pros and cons' coverage with polarized reception / counter: strong topicality noted alongside mixed substance, genuine two-sided weigh-up with no clear verdict",
+    "signal_tags": ["mixed", "creative_direction"],
+    "confidence": 0.6
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "SEA-2026-11-26-001",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of Gucci Beauty x King Power pop-up with no evaluative verdict",
+    "signal_tags": ["activation_coverage", "travel_retail", "holiday_campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-26-002",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Trade press descriptive coverage of same pop-up, no independent judgment expressed",
+    "signal_tags": ["activation_coverage", "travel_retail"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-26-003",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive introduction of Gucci Gift holiday campaign to Thai readers, no critical angle",
+    "signal_tags": ["activation_coverage", "holiday_campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-26-004",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: fans call Mariah Carey campaign disappointing/depressing/sterile and cold / counter: some viewers defended it, but headline and dominant reaction are negative",
+    "signal_tags": ["activation_coverage", "mixed", "consumer_reaction", "critical_angle"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-26-005",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Ambassador appointment is brand-driven PR/fandom coverage, not independent public opinion",
+    "signal_tags": ["activation_coverage", "ambassador", "kpop_fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-26-006",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Duplicate regional ambassador-announcement coverage, activation-discounted, not independent opinion",
+    "signal_tags": ["activation_coverage", "ambassador", "kpop_fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-26-007",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Reuters wire reports Gucci Q3 sales drop disappointing Kering turnaround hopes amid China/US headwinds / counter: none, straightforward negative earnings framing",
+    "signal_tags": ["negative_earnings", "macro_context", "critical_angle"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-26-008",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Bloomberg Opinion argues Kering/Gucci is losing credibility with shoppers and shareholders, citing weak APAC footfall / counter: none, sustained critical framing throughout",
+    "signal_tags": ["negative_earnings", "macro_context", "critical_angle", "independent_review"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-26-009",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: independent commentator personally observed empty Gucci stores across three SEA cities contrasted with Milan show spectacle / counter: none, but single-observer anecdotal and stale",
+    "signal_tags": ["critical_angle", "foot_traffic", "independent_review", "excluded_stale"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-26-010",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade coverage of new airport boutique opening, no evaluative content",
+    "signal_tags": ["activation_coverage", "store_opening", "excluded_stale"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-26-011",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum tag mixes fandom threads with authenticity-verification questions / counter: no dominant verdict, genuine two-sided community mix with mild counterfeit undertone",
+    "signal_tags": ["community_sentiment", "counterfeit_concern", "fandom", "undated", "mixed"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-26-012",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Dry source check, only stale evergreen threads found, no fresh evaluative content",
+    "signal_tags": ["community_sentiment", "excluded_stale", "dry_source"],
+    "confidence": 0.9
+  }
+]
