@@ -1,0 +1,137 @@
+[
+  {
+    "id": "SEA-2026-11-27-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive activation write-up of Manila holiday dinner with celebrity attendees; warm framing but no independent evaluative verdict beyond outlet's own soft praise.",
+    "signal_tags": ["activation_coverage", "celebrity", "event"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-27-002",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Activation write-up with outlet's own clear positive verdict (heritage-meets-modernity framing); capped at 0.5 under activation-coverage discount.",
+    "signal_tags": ["activation_coverage", "celebrity", "product_launch"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-27-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation/PR coverage of Cruise 2026 preview, no critical framing or independent verdict.",
+    "signal_tags": ["activation_coverage", "product_launch"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-27-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Society-page activation recap listing attendees/outfits; purely descriptive, no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "celebrity"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-27-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci breaking luxury's pricing taboo with steep discounts signals demand weakness / counter: move seen as proactive repositioning under new CEO; dominant frame is competitive-pressure and taboo-breaking under duress, independent T1 trade analysis.",
+    "signal_tags": ["negative_earnings", "price_cut", "trade_press"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-27-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: 13 consecutive quarters of declining sales and ~30% price cuts frame Gucci as under sustained pressure / counter: none offered, piece is one-sided on weakness; sustained negative framing of demand backdrop.",
+    "signal_tags": ["negative_earnings", "price_cut"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-27-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Kering shares sink as Gucci recovery lags, APAC down 8-11% with steepest regional contraction and store closures / counter: none; sustained negative earnings framing (\"recovery lags\", \"steepest contraction\").",
+    "signal_tags": ["negative_earnings", "trade_press", "apac_context"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-27-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit raid news; reflects chronic brand-protection/exclusivity pressure in PH market rather than direct brand criticism, so mild negative per counterfeit trap guidance.",
+    "signal_tags": ["counterfeit", "brand_protection"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-27-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer-guidance piece on counterfeit/authentication volumes topping for Gucci; mild negative reflecting persistent drag on perceived exclusivity, not acute crisis.",
+    "signal_tags": ["counterfeit", "authenticity_anxiety"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-27-010",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Local counterfeit enforcement fine in Da Nang; chronic brand-protection issue, mild negative per counterfeit trap guidance, outside freshness window so treated as background.",
+    "signal_tags": ["counterfeit", "stale"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-27-011",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan/entertainment-press amplification of the same holiday-lunch activation, purely descriptive photo recap with no independent verdict; damped per fandom-spike guidance.",
+    "signal_tags": ["activation_coverage", "fandom", "celebrity"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-27-012",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "K/T-pop ambassador fan-agency post on La Famiglia preview; fandom spike distinguished from genuine brand affinity, descriptive with no independent critical verdict, damped to 0.5 and stale (outside window).",
+    "signal_tags": ["fandom", "ambassador", "stale"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-27-013",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Thai fan-community Threads post celebrating ambassador appearance; fandom enthusiasm, not independent brand judgment, damped per fandom trap and stale (outside window).",
+    "signal_tags": ["fandom", "ambassador", "stale"],
+    "confidence": 0.5
+  },
+  {
+    "id": "SEA-2026-11-27-014",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer forum authenticity-verification question for secondhand bag without packaging; counterfeit/authenticity-anxiety trap, neutral-to-mild-negative, old thread.",
+    "signal_tags": ["counterfeit", "authenticity_anxiety", "stale", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-27-015",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Old forum thread on Gucci x One Piece capsule, purely descriptive fan appreciation of a past collaboration; no current evaluative content, included only as dry-channel evidence.",
+    "signal_tags": ["stale", "collaboration", "low_relevance"],
+    "confidence": 0.4
+  }
+]

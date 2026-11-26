@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NA-2026-11-27-001",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive sponsorship/gala coverage of brand-staged event; activation discount applies.",
+    "signal_tags": ["activation_coverage", "sponsorship"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-27-002",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive trade recap of same gala, no evaluative verdict on brand.",
+    "signal_tags": ["activation_coverage", "sponsorship"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-27-003",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Gucci quietly cutting prices up to 30% breaks luxury's pricing taboo and signals risk to brand positioning / counter: framed as pragmatic correction by CEO, but dominant thesis is critical and independent (Forbes/Bernstein analysis, not activation).",
+    "signal_tags": ["price_cut", "value_for_money", "independent_analysis"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-27-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent sell-side analyst downgrade of Q4 Gucci sales forecast (worse decline expected); material negative momentum signal, not activation-derived.",
+    "signal_tags": ["negative_earnings", "analyst_downgrade", "independent_analysis"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-27-005",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: Kering revenue flat with Gucci down 4-6% reported/comparable / counter: North America a relative bright spot with +2% growth; two-sided earnings recap with no single verdict, kept as background anchor.",
+    "signal_tags": ["mixed", "negative_earnings", "background_anchor"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-27-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Genuine unprompted fan backlash calling holiday campaign 'depressing'/'boring'/like budget retailer; organic negative reaction to activation, not subject to activation cap.",
+    "signal_tags": ["campaign_backlash", "organic_reaction"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-27-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of holiday campaign film and product lineup; no outlet verdict.",
+    "signal_tags": ["activation_coverage", "campaign"],
+    "confidence": 0.9
+  },
+  {
+    "id": "NA-2026-11-27-008",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: community split between trust in Gucci and wariness of Demna-era resale uncertainty / counter: some retain satisfaction with older pieces; genuine two-sided debate, no verdict.",
+    "signal_tags": ["mixed", "resale_value", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-27-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: YouTubers single out Gucci (GG Marmont) for poor resale value retention vs Chanel/Hermes/LV / counter: some members argue it depends on style/rarity; dominant thesis is critical but mixed-but-decided caps magnitude.",
+    "signal_tags": ["mixed", "resale_value", "community"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-27-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Recurring independent consumer complaints about customer service, returns, and hardware/quality failures; organic critical-angle signal.",
+    "signal_tags": ["quality_complaint", "customer_service", "community"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-27-011",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Consumer-advice blog concludes Gucci is 'liquid, not appreciating' at resale, favoring heritage over Demna-era pieces; verification_required tier limits magnitude/confidence.",
+    "signal_tags": ["resale_value", "verification_required"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NA-2026-11-27-012",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-owned promotional upload; self-praise is not public opinion per rubric.",
+    "signal_tags": ["activation_coverage", "brand_owned"],
+    "confidence": 0.95
+  },
+  {
+    "id": "NA-2026-11-27-013",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Paparazzi lifestyle sighting with no evaluative brand claim; neutral fandom-adjacent mention.",
+    "signal_tags": ["fandom", "sns"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-27-014",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: community reaction to Demna's self-shot 'Generation Gucci' campaign dismisses it as 'trash'/'tired and juvenile' / counter: others defend raw aesthetic as intentional consumerism commentary; negative-leaning dominant verdict, activation discount caps magnitude.",
+    "signal_tags": ["mixed", "activation_coverage", "creative_direction", "community"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-27-015",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador-appointment coverage, no evaluative verdict; activation discount applies.",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-27-016",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Third-party retailers discounting Gucci 25-65% plus permanent list-price cuts read as tacit sign of softened full-price demand; independent retail-guide interpretation but verification_required tier limits magnitude.",
+    "signal_tags": ["discount_image", "price_cut", "verification_required"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-27-017",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Industry-watcher amplification of WSJ reporting that LVMH views price cuts as damaging while Gucci proceeds anyway; mild organic negative framing of pricing strategy via low-engagement SNS post.",
+    "signal_tags": ["price_cut", "sns", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-27-018",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive culture-press recap of sponsored gala, corroborating other outlets; no evaluative verdict.",
+    "signal_tags": ["activation_coverage", "sponsorship"],
+    "confidence": 0.9
+  }
+]

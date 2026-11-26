@@ -1,0 +1,200 @@
+[
+  {
+    "id": "NEA-2026-11-27-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: historic price cut framed as reaction to 13 straight quarters of sales decline and 'serious volume damage' / counter: Kering spins it as confident 'reset' — but conclusion leans on negative earnings momentum",
+    "signal_tags": ["negative_earnings", "price_cut", "mixed"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-27-002",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brand-staged manga collab activation, purely descriptive write-up with no independent verdict",
+    "signal_tags": ["activation_coverage", "collab"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-27-003",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Celebrity-turnout activation descriptive report on GucciCore launch event, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "fandom"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-27-004",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan reaction to ambassador outfit is positive but narrow fandom-driven spike, damped per fandom trap",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-27-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive coverage of brand-run Art Wall mural campaign, no independent judgment expressed",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-27-006",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: genuine community debate framing price cuts as evidence of bursting luxury bubble, fading brand image and lack of design innovation / counter: none offered, discussion leans decisively negative",
+    "signal_tags": ["negative_earnings", "price_cut", "design_criticism"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-27-007",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Official brand-channel ambassador announcement, self-praise/promo not public opinion",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-27-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fetch blocked, sentiment of comments could not be verified independently; left neutral per doubt rule",
+    "signal_tags": ["unverified", "ambassador"],
+    "confidence": 0.3
+  },
+  {
+    "id": "NEA-2026-11-27-009",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Strongly positive fan reaction to ambassador campaign look, but narrowly fan-driven so damped under fandom trap",
+    "signal_tags": ["fandom", "ambassador"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-27-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: two-sided industry weigh-up (Gucci cuts vs LV holds firm) framed as unresolved dilemma amid weak demand, no verdict on Gucci specifically",
+    "signal_tags": ["mixed", "price_cut", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-27-011",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci broke industry's price-only-rises taboo under downturn pressure, situated amid consumer pushback against hikes / counter: framed partly as responsive move, capped as mixed-but-decided",
+    "signal_tags": ["price_cut", "mixed", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-27-012",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: structural middle-class demand collapse creating crisis for Gucci, price cuts framed as defensive not confident / counter: none, decisive negative framing",
+    "signal_tags": ["negative_earnings", "price_cut"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-27-013",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Genuine organic consumer backlash describing feeling cheated and resale-value loss after price cuts, not brand-seeded",
+    "signal_tags": ["price_cut", "resale_value", "consumer_backlash"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-27-014",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: critical-angle piece questioning whether discounts/store closures can fix China's structural slowdown / counter: none, unambiguous skeptical framing from major trade outlet",
+    "signal_tags": ["negative_earnings", "store_closures", "china_slowdown"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-27-015",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: two-sided industry dilemma framing (cut vs hold) citing CEO commentary on exhausted demand, no clear verdict specific to Gucci",
+    "signal_tags": ["mixed", "price_cut"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-27-016",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cuts symbolically framed as a 'white flag' surrender after years of hikes drove away middle-class shoppers / counter: broader industry pattern reversing, capped as mixed-but-decided",
+    "signal_tags": ["price_cut", "mixed", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-27-017",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit authentication Q&A thread reflects organic product interest, neutral-to-mild per counterfeit trap",
+    "signal_tags": ["counterfeit", "community"],
+    "confidence": 0.5
+  },
+  {
+    "id": "NEA-2026-11-27-018",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Peer-comparison ranking thread places Chanel/Hermes/LV above Gucci in user perception; peer-superior framing scores negative for Gucci per peer-comparison trap",
+    "signal_tags": ["peer_comparison", "brand_perception"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-27-019",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard seasonal product-launch descriptive coverage, no independent verdict, discounted as activation/PR",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-27-020",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Primary activation coverage of ambassador appointment quoting brand's own rationale, self-praise not public opinion",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NEA-2026-11-27-021",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Incidental mention within a mixed multi-brand news roundup, no evaluative content on Gucci specifically",
+    "signal_tags": ["incidental_mention"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-27-022",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Standard holiday campaign activation write-up, descriptive only, discounted as PR",
+    "signal_tags": ["activation_coverage", "ambassador"],
+    "confidence": 0.8
+  }
+]
