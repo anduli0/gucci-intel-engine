@@ -72,7 +72,8 @@
 
 톰 브라운의 다음 12개월 관전 포인트는 세 가지다. 첫째, 상업 반등의 실제 전환 시점 — 2026년 9개월 누계가 보고 -5.0%까지 낙폭을 좁혔으나 3분기 단독은 다시 -5.9%로 꺾였으므로, 다음 확인 기준은 제냐 그룹의 2026 연간 실적(통상 2027년 3월경 공개)에서 톰 브라운 사업부가 플러스 또는 보합권으로 올라서는지다[8]. 둘째, 도매 축소의 바닥 확인(가설) — 도매를 -36.8% 줄인 의도적 정리가 언제 끝나고 직영 성장(+6.3%)이 전체를 플러스로 끌어올리는지가 '전환기 숫자'와 '구조적 부진'을 가르는 분기점이다[8]. 셋째, CFDA 회장 임기 종료 이후의 창작 집중도 — 브라운의 CFDA 회장직이 2026년 말로 끝날 예정이므로, 2027년 그가 하우스 창작에 역량을 더 집중하는지, 아니면 후임 회장 선임과 맞물려 어떤 조직 변화가 생기는지가 관전 포인트다[6]. 더불어 평단이 지적한 '진화 정체'를 2027 시즌에 어떤 코드 변주로 응답하는지가, 단일 정체성 전략의 지속 가능성을 판단할 선행 지표다[11].
 
-![톰 브라운 회장 재선·2026년까지 임기 연장](https://cfda.com/wp-content/uploads/2024/12/2023_thombrowne_blainedavis_02_Reelected.jpg "CFDA|https://cfda.com/news/cfda-board-chairman-thom-browne-reelected-for-second-two-year-term/")
+![봄·여름 2026 리뷰·장인정신 9·온브랜드 9.5·진화 5](https://theimpression.com/wp-content/uploads/2025/10/thom-browne-spring-2026-fashion-show-the-impression-053-scaled-1.jpg "The Impression|https://theimpression.com/thom-browne-spring-2026-fashion-show-review/")
+
 
 ## 주석
 
@@ -176,7 +177,6 @@ Third, as a menswear benchmark Thom Browne offers Gucci a counter-example that t
 
 Three watch-points frame Browne's next twelve months. First, the actual timing of a commercial turn — the nine-month 2026 drop narrowed to -5.0% reported, but Q3 alone slipped back to -5.9%, so the next test is whether the Thom Browne division climbs to flat or positive in Zegna's full-year 2026 results (typically disclosed around March 2027)[8]. Second, confirming the floor of the wholesale cut (hypothesis) — when the deliberate -36.8% wholesale reduction ends and DTC growth (+6.3%) lifts the whole to positive is the fork between "transition-phase numbers" and "structural weakness"[8]. Third, creative focus after the CFDA chairmanship — Browne's CFDA term is set to end at the close of 2026, so whether he concentrates more on the house's creative in 2027, or whether organizational change comes with a successor chairman, is a watch-point[6]. In addition, how he answers the "stalled evolution" critique with code variation in the 2027 seasons is a leading indicator for judging the sustainability of the single-identity strategy[11].
 
-![Browne re-elected chairman, term extended through 2026](https://cfda.com/wp-content/uploads/2024/12/2023_thombrowne_blainedavis_02_Reelected.jpg "CFDA|https://cfda.com/news/cfda-board-chairman-thom-browne-reelected-for-second-two-year-term/")
 
 ## Notes
 
