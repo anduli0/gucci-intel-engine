@@ -63,7 +63,6 @@ LVMH 진영에서는 디렉터 교체의 '모범'과 '위기'가 같은 주에 �
 
 먼저 중국은 '마지막 안전지대'까지 흔들렸다 — 에르메스·카르티에 본토 매출이 8~9월 두 자릿수 감소하자, 중화권 안에서도 수요의 지리적 재배치가 진행됐다[1]. 본토 감소분 일부를 홍콩·마카오가 상쇄하고 있고, 루이비통은 마카오에서 카지노 운영사 샌즈차이나와 손잡고 브랜드 최초의 마카오 쇼를 열어 본토 트래픽이 빠진 자리를 관광·중화권 주변부 수요로 메우려는 움직임을 가시화했다[1][32]. 반면 미국·일본에는 잔열이 남아, LVMH 미국 5%·일본 6% 성장과 에르메스 미국·유럽 성장이 이를 뒷받침한다[9][8]. 더불어 미국 2선 상권으로의 확산도 이어져, 샤넬·에르메스·로로피아나가 샌디에이고 웨스트필드 UTC에 동반 첫 매장을 열었고 카르티에는 베벌리힐스에 네 번째 '템플'급 플래그십을 2027년 개장 목표로 추진 중이다[33][34]. 정리하자면, '중국은 꼭대기까지 식었지만 미국·일본·2선 상권은 아직 온기가 남아 있다'가 이번 주 지역 지형의 정확한 묘사다.
 
-![LVMH 주가 주간 -5%, CAC 40 최하위](https://www.ideal-investisseur.fr/img/0-202611191354-6afef17688bb8.jpg "Ideal Investisseur / Ad-hoc News / Worthbury|https://www.ideal-investisseur.fr/en/stock-news/lvmh-stock-at-the-bottom-of-the-cac-40-13-2-over-the-quarter/29628.html")
 
 ## 6. 트렌드 변곡 — 승계의 두 속도, 'AI 크래프트워싱', 가격 중앙집권화
 
@@ -228,7 +227,6 @@ Regional structure sorts into three directions — China has cooled all the way 
 
 China, first, saw even its "last safe zone" shaken — as Hermes and Cartier mainland sales fell by double digits in August-September, a geographic reshuffling of demand is underway even within the Greater China sphere[1]. Hong Kong and Macau are offsetting part of the mainland decline, and Louis Vuitton's first-ever Macau show, staged in partnership with casino operator Sands China, makes visible the move to fill the gap left by mainland traffic with tourism and peripheral Greater China demand[1][32]. The US and Japan, by contrast, retain residual warmth, supported by LVMH's 5% US and 6% Japan growth and Hermes's US and European growth[9][8]. Demand is also spreading into America's secondary shopping districts — Chanel, Hermes, and Loro Piana jointly opened their first stores at San Diego's Westfield UTC, and Cartier is pursuing a fourth "temple"-class flagship in Beverly Hills targeted for a 2027 opening[33][34]. In sum, the accurate description of this week's regional map is that China has cooled to the very top, while the US, Japan, and secondary American markets still retain warmth.
 
-![LVMH shares -5% on the week, bottom of CAC 40](https://www.ideal-investisseur.fr/img/0-202611191354-6afef17688bb8.jpg "Ideal Investisseur / Ad-hoc News / Worthbury|https://www.ideal-investisseur.fr/en/stock-news/lvmh-stock-at-the-bottom-of-the-cac-40-13-2-over-the-quarter/29628.html")
 
 ## 6. Trend Inflection — Two Speeds of Succession, "AI Craftwashing," and Pricing Centralization
 

@@ -1,0 +1,193 @@
+[
+  {
+    "id": "EU-2026-11-28-001",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Second redundancy round in two years; union rep flags real employment impact from Swiss watchmaking job cuts.",
+    "signal_tags": [
+      "labor",
+      "layoffs",
+      "negative_earnings"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "EU-2026-11-28-002",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Wire-syndicated corroboration of same job-cuts story, framed within wider Kering cost-discipline push; less emotionally charged than original.",
+    "signal_tags": [
+      "labor",
+      "layoffs",
+      "negative_earnings"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "EU-2026-11-28-003",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: price cuts are a reputational risk Gucci bears alone among top houses / counter: framed as deliberate 'price architecture reset' correcting past overreach -- mixed-but-decided toward reputational-risk framing.",
+    "signal_tags": [
+      "pricing",
+      "mixed",
+      "peer_comparison"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-28-004",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "Independent analytical verdict that discounting and store closures fail to fix structural demand slowdown and may erode desirability further.",
+    "signal_tags": [
+      "pricing",
+      "china_demand",
+      "negative_earnings"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-28-005",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive activation write-up of Mariah Carey holiday campaign, no independent evaluative verdict.",
+    "signal_tags": [
+      "activation_coverage",
+      "campaign"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "EU-2026-11-28-006",
+    "region": "EU",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Admiring celebrity-styling writeup with quoted fan praise, but enthusiasm directed mainly at Hailey Bieber/stylist rather than an independent brand verdict -- capped under activation-adjacent discount.",
+    "signal_tags": [
+      "activation_coverage",
+      "ambassador",
+      "fandom"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "id": "EU-2026-11-28-007",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Same Swiss job-cuts story framed within broader Kering cost-rationalization (store closures, Beauty divestment) to fund Gucci turnaround.",
+    "signal_tags": [
+      "labor",
+      "layoffs",
+      "negative_earnings"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-28-008",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Brief incidental mention of Mariah Carey campaign in a roundup, no independent verdict on Gucci.",
+    "signal_tags": [
+      "activation_coverage",
+      "incidental_mention"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-28-009",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Outside 14-day freshness window, retained only as background context; two-sided reaction (AI-slop criticism vs. visual-defenders) with no clear dominant verdict -- scored neutral per mixed rule, not counted toward today's quota.",
+    "signal_tags": [
+      "mixed",
+      "ai_controversy",
+      "stale_context"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "id": "EU-2026-11-28-010",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic SNS post framing price cuts after '13 straight quarters of declining sales' with skeptical emoji, implying watchful/critical reader reaction.",
+    "signal_tags": [
+      "pricing",
+      "negative_earnings",
+      "sns"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-28-013",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Viral ironic meme where Gucci mention is incidental to meme culture, not an evaluative statement about the brand.",
+    "signal_tags": [
+      "meme",
+      "buzz_volume",
+      "incidental_mention"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "id": "EU-2026-11-28-014",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic community QC complaints (hardware fading, inconsistent stitching) versus peers Hermes and Prada -- genuine consumer quality scrutiny.",
+    "signal_tags": [
+      "quality_complaint",
+      "peer_comparison"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "EU-2026-11-28-016",
+    "region": "EU",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum reaction skews toward 'vulgar' and lacking vision / counter: some praised its boldness -- decided-but-mixed, magnitude capped per dominant-thesis rule.",
+    "signal_tags": [
+      "mixed",
+      "design_criticism",
+      "creative_direction"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-28-017",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Comedic name-mispronunciation thread with no evaluative stance on the brand.",
+    "signal_tags": [
+      "incidental_mention",
+      "buzz_volume"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "id": "EU-2026-11-28-018",
+    "region": "EU",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Outside freshness window, retained only as background context on retail-footprint rationalization; plain factual store-closure reporting without framing, not counted toward today's quota.",
+    "signal_tags": [
+      "negative_earnings",
+      "stale_context",
+      "retail_footprint"
+    ],
+    "confidence": 0.5
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NEA-2026-11-28-001",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci breaks the industry's no-discount taboo with a 30% bag price cut / counter: framed as pragmatic repricing amid downturn, but headline casts it as a 'forbidden' admission of weakness",
+    "signal_tags": ["price_cut", "mixed", "negative_earnings", "industry_comparison"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-28-002",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: 21% price cut framed as 'unprecedented' and an 'unavoidable response to weakening demand' / counter: positioned as shrewd first-mover vs rivals who protect flagship pricing",
+    "signal_tags": ["price_cut", "negative_earnings", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NEA-2026-11-28-003",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: middle-class pullback is a structural crisis squeezing Gucci and LV alike, not a temporary dip",
+    "signal_tags": ["negative_earnings", "macro_demand"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-28-004",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Corporate CSR/PR certification announcement, press-kit derived, no independent evaluative verdict",
+    "signal_tags": ["activation_coverage", "csr"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-28-005",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure ambassador-appointment press release coverage with brand-staged quotes; no independent judgment",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-28-006",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive write-up of a brand-staged mural/art activation in Shanghai, no outlet verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-28-007",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: independent trade press skeptically questions whether price cuts will win back Chinese shoppers given deeper brand-perception problems / counter: acknowledges price cuts as a real attempt",
+    "signal_tags": ["mixed", "price_cut", "china_recovery_doubt"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-28-008",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive announcement of 2028 cruise show location/anniversary, press-kit framed, no independent verdict",
+    "signal_tags": ["activation_coverage"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-28-009",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci's 'unprecedented' price cuts break luxury pricing taboo, linked explicitly to 13 consecutive quarters of declining sales / counter: framed as deliberate 'price reset' strategy by new Kering CEO",
+    "signal_tags": ["price_cut", "negative_earnings", "mixed"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-28-010",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Pure retail store-opening/renovation activation coverage, descriptive only",
+    "signal_tags": ["activation_coverage", "retail"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NEA-2026-11-28-011",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan enthusiasm over ambassador pairing at brand event; genuine organic buzz but fandom-trap damping applies",
+    "signal_tags": ["fandom", "ambassador", "activation_coverage"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-28-012",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Fan-driven admiration of ambassador styling photos; fandom spike damped to mild magnitude",
+    "signal_tags": ["fandom", "ambassador"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NEA-2026-11-28-013",
+    "region": "NEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Factual explainer recap of price cuts, Demna debut, and beauty license change; no clear evaluative verdict, genuine two-sided factual summary",
+    "signal_tags": ["mixed", "price_cut", "negative_earnings"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-28-014",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-proliferation discussion coupled with price-value gap concerns; mild negative per counterfeit trap guidance",
+    "signal_tags": ["counterfeit", "value_for_money"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-28-015",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Genuine consumer community complaint about watch finishing/movement quality versus price point",
+    "signal_tags": ["quality_complaint", "value_for_money"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NEA-2026-11-28-016",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Korea's open-run culture collapsing as Gucci lowers prices is framed as an embarrassing reversal/humiliation for the brand's pricing-power stance",
+    "signal_tags": ["price_cut", "brand_image", "negative_earnings"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NEA-2026-11-28-017",
+    "region": "NEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: industry-dilemma framing implicitly casts Gucci as the more distressed brand forced to cut first versus LV holding firm / counter: presented as rational structural response",
+    "signal_tags": ["price_cut", "mixed", "industry_comparison"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NEA-2026-11-28-018",
+    "region": "NEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: independent critics give a mixed-to-positive verdict on Demna's debut (clear intent, strong storytelling) / counter: one critic calls it only a 'teaser' not a definitive direction; genuinely independent judgment, not activation, but dated/stale and mixed so magnitude capped",
+    "signal_tags": ["critic_review", "mixed", "creative_direction", "stale"],
+    "confidence": 0.6
+  }
+]

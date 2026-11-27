@@ -1,0 +1,119 @@
+[
+  {
+    "id": "NA-2026-11-28-001",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: independent Forbes analysis frames deep price cuts as breaking luxury taboo and risking aspirational customer base / counter: CEO frames it as healthy price correction, but critical framing dominates headline and conclusion",
+    "signal_tags": ["pricing_strategy", "independent_analysis", "negative_earnings"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-28-002",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: small rebound noted but dominant frame is fragile/volatile investor sentiment with stock down ~28% over three months and fresh price-target cuts / counter: 2.1% one-day gain",
+    "signal_tags": ["stock_signal", "negative_earnings", "mixed"],
+    "confidence": 0.65
+  },
+  {
+    "id": "NA-2026-11-28-003",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "descriptive trade coverage of new org structure/advisers, no evaluative verdict on the brand",
+    "signal_tags": ["corporate_restructuring", "descriptive"],
+    "confidence": 0.85
+  },
+  {
+    "id": "NA-2026-11-28-004",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: genuine organic fan backlash calling holiday campaign 'depressing,' 'emotionless,' comparing it unfavorably to JCPenney / counter: none, criticism is unambiguous and widely cited",
+    "signal_tags": ["campaign_backlash", "organic_consumer_reaction"],
+    "confidence": 0.8
+  },
+  {
+    "id": "NA-2026-11-28-005",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: third-party retailer discounting and permanently lowered list prices read as tacit admission of softened full-price demand / counter: no official BF/CM promo exists, low-tier corroborating source",
+    "signal_tags": ["pricing_strategy", "verification_required", "activation_coverage"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-28-006",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: resale-focused community debate singles out Gucci (GG Marmont) for poor value retention vs peers / counter: some pushback that retention depends on style/rarity, genuine two-sided but critical framing initiates and dominates the thread",
+    "signal_tags": ["resale_value", "peer_comparison", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-28-007",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "thesis: genuine two-sided community weigh-up on whether Gucci is a safe buy with no clear verdict reached",
+    "signal_tags": ["mixed", "resale_value", "creative_director_uncertainty"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-28-008",
+    "region": "NA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "thesis: organic community purchase-sharing shows continued genuine collector demand for Gucci bags alongside peer brands / counter: none, but incidental/low-charge forum post caps magnitude",
+    "signal_tags": ["purchase_intent", "organic_consumer_reaction"],
+    "confidence": 0.7
+  },
+  {
+    "id": "NA-2026-11-28-009",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: unprompted aggregate consumer reviews show recurring customer-service, returns, and quality-failure complaints / counter: none, direct organic critical-angle counterweight",
+    "signal_tags": ["quality_complaint", "customer_service", "organic_consumer_reaction"],
+    "confidence": 0.75
+  },
+  {
+    "id": "NA-2026-11-28-010",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: amplifies reporting that LVMH views price cuts as damaging to brand value, implicitly framing Gucci's move as risky / counter: purely descriptive relay of third-party reporting, low engagement visibility caps magnitude",
+    "signal_tags": ["pricing_strategy", "peer_comparison"],
+    "confidence": 0.55
+  },
+  {
+    "id": "NA-2026-11-28-011",
+    "region": "NA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "descriptive note of active haul/unboxing content with no measurable engagement and no clear evaluative verdict captured, demoted from tentative positive lean per low-confidence rule",
+    "signal_tags": ["activation_coverage", "organic_consumer_reaction", "low_confidence"],
+    "confidence": 0.4
+  },
+  {
+    "id": "NA-2026-11-28-012",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: forum-buzz piece headline frames campaign dismissively as 'Trash' with commenters calling it 'tired and juvenile' / counter: others defend the raw aesthetic as intentional commentary, genuine mixed activation reaction capped under discount",
+    "signal_tags": ["activation_coverage", "campaign_backlash", "mixed"],
+    "confidence": 0.6
+  },
+  {
+    "id": "NA-2026-11-28-013",
+    "region": "NA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: independent Goldman Sachs downgrade of Q4 organic sales forecast to -4.3% with recovery pushed to 2027, stock down ~29% YTD / counter: none, unambiguous analyst signal",
+    "signal_tags": ["negative_earnings", "independent_analysis", "stock_signal"],
+    "confidence": 0.85
+  }
+]

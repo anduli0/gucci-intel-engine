@@ -1,0 +1,128 @@
+[
+  {
+    "id": "SEA-2026-11-28-001",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Purely descriptive write-up of Gucci-staged Manila holiday dinner, no independent evaluative verdict.",
+    "signal_tags": ["activation_coverage", "ambassador", "event"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-28-002",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Fan/society-page photo recap of Gucci-hosted gathering, descriptive attendee tagging only, no verdict.",
+    "signal_tags": ["activation_coverage", "fandom", "sns"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-28-003",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive homecoming-narrative recap of Cruise 2027 show with no independent critical judgment offered.",
+    "signal_tags": ["activation_coverage", "background", "stale"],
+    "confidence": 0.75
+  },
+  {
+    "id": "SEA-2026-11-28-004",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Descriptive ambassador store-preview coverage, no independent evaluative verdict beyond press-kit framing.",
+    "signal_tags": ["activation_coverage", "ambassador", "background"],
+    "confidence": 0.8
+  },
+  {
+    "id": "SEA-2026-11-28-005",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: trade press frames Gucci's 30% price cut plus Q3 revenue decline as evidence premium pricing has become a brand liability / counter: none offered, verdict is unambiguous and quantified.",
+    "signal_tags": ["price_cuts", "negative_earnings", "value_for_money"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-28-006",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Organic SEA community criticism of discounting, counterfeit prevalence and brand dilution, but stale/off-window so capped at mild magnitude.",
+    "signal_tags": ["brand_dilution", "counterfeits", "community", "stale", "peer_comparison"],
+    "confidence": 0.7
+  },
+  {
+    "id": "SEA-2026-11-28-007",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 1.0,
+    "rationale": "thesis: Indonesian business press reports Gucci revenue plunge worse than forecast with Kering shares falling sharply / counter: none, sustained negative framing of a sharp earnings miss.",
+    "signal_tags": ["negative_earnings", "store_closures"],
+    "confidence": 0.85
+  },
+  {
+    "id": "SEA-2026-11-28-008",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: Gucci grouped among luxury brands shuttering China stores amid weak demand / counter: none, but item is industry-wide with Gucci only one example, diluting magnitude.",
+    "signal_tags": ["store_closures", "negative_earnings", "industry_wide"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-28-009",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-seizure reporting signals persistent fake-goods exposure for Gucci, mild negative per rubric default for counterfeit coverage.",
+    "signal_tags": ["counterfeits"],
+    "confidence": 0.6
+  },
+  {
+    "id": "SEA-2026-11-28-010",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Counterfeit-seizure reporting naming Gucci among most-faked brands; stale/background and superseded by fresher VnExpress item, kept mild.",
+    "signal_tags": ["counterfeits", "stale", "background"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-28-011",
+    "region": "SEA",
+    "sentiment": 1,
+    "magnitude": 0.5,
+    "rationale": "Ambassador fan-affinity roundup framed positively but descriptively; fandom trap damps magnitude to mild.",
+    "signal_tags": ["activation_coverage", "ambassador", "fandom"],
+    "confidence": 0.65
+  },
+  {
+    "id": "SEA-2026-11-28-012",
+    "region": "SEA",
+    "sentiment": 0,
+    "magnitude": 0.5,
+    "rationale": "Transactional resale listing with no opinion content, counted for buzz volume only.",
+    "signal_tags": ["community", "resale", "no_sentiment"],
+    "confidence": 0.9
+  },
+  {
+    "id": "SEA-2026-11-28-013",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "Authentication-anxiety thread reflecting grey-market/counterfeit concern among consumers, mild negative per rubric default.",
+    "signal_tags": ["counterfeits", "community"],
+    "confidence": 0.55
+  },
+  {
+    "id": "SEA-2026-11-28-014",
+    "region": "SEA",
+    "sentiment": -1,
+    "magnitude": 0.5,
+    "rationale": "thesis: ambassador-fandom controversy over unequal promotional treatment, including alleged doxxing, is reputational friction around brand's ambassador management / counter: not a product/brand quality critique, and stale/off-window so capped mild.",
+    "signal_tags": ["ambassador", "controversy", "fandom", "stale"],
+    "confidence": 0.55
+  }
+]

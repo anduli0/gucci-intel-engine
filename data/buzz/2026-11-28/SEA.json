@@ -1,0 +1,2040 @@
+{
+  "date": "2026-11-28",
+  "region": "SEA",
+  "collected_at": "2026-11-27T16:14:54+00:00",
+  "domains_scanned": 29,
+  "community_allocation": {
+    "NA_identified": 0,
+    "EU_identified": 0,
+    "p_NA": 0.73
+  },
+  "errors": [
+    "reddit gucci: HTTP Error 404: Not Found",
+    "reddit 구찌: HTTP Error 404: Not Found",
+    "reddit グッチ: HTTP Error 404: Not Found",
+    "reddit 古驰: HTTP Error 404: Not Found",
+    "reddit กุชชี่: HTTP Error 404: Not Found",
+    "reddit r/korea+hanguk+japan+japanlife+china+hongkong+taiwan+kpopfashion: HTTP Error 404: Not Found",
+    "reddit r/singapore+thailand+indonesia+philippines+malaysia+vietnam: HTTP Error 404: Not Found",
+    "reddit r/handbags+fashion+malefashionadvice+femalefashionadvice+luxury+streetwear+sneakers+nyc+losangeles+toronto: HTTP Error 404: Not Found",
+    "reddit r/unitedkingdom+london+france+italy+germany+spain+europe+femalefashion: HTTP Error 404: Not Found"
+  ],
+  "items": [
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "Russian AI model fills void in unfinished Gogol novel. Not everyone is happy - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-11-24",
+      "title": "Reuters wins Pulitzer Prize for breaking news photography of Hong Kong protests - Reuters",
+      "url": "https://www.reuters.com",
+      "source": "Reuters",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Mike Ashley Is Fixing Harvey Nichols in His Sports Direct Image - Bloomberg.com",
+      "url": "https://www.bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "Asmi Bhatia - Bloomberg.com",
+      "url": "https://bloomberg.com",
+      "source": "Bloomberg.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "The case for party jeans - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-05-18",
+      "title": "Nicola Moulton - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "McAfee Reports 91% Surge in Holiday Shopping Scams and Reveals Top 12 Targeted Gifts – Company Announcement - Financial Times",
+      "url": "https://markets.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "From vintage Rolexes to rare books: where to buy preloved gifts - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Untapping Chartreuse — the world’s most mysterious liqueur - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Why bow tie maxxing is in this party season - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Wear a cummerbund — and still look cool - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "You don’t need to reinvent yourself, you just need the right shirt - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Boutique El Fenn, an explosion of colour in the Marrakech medina - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2019-12-08",
+      "title": "Vivienne Becker - Financial Times",
+      "url": "https://www.ft.com",
+      "source": "Financial Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-12-20",
+      "title": "merchandising - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "British Fashion Awards - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-12-16",
+      "title": "Seoul, South Korea - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Childrenswear - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "accessories - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "Brussels, Belgium - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-26",
+      "title": "Chinese New Year - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "Millennials - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "fine-jewellery - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Trends - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "The China Edit - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "Virtual Fashion - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Rana Plaza - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-25",
+      "title": "Saint Laurent Paris - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "People - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "red-carpet - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Fur - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-09-13",
+      "title": "technology / Big Tech - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Consumer Psychology - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-30",
+      "title": "Collaboration - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-24",
+      "title": "met-gala - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Hong Kong - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-12-01",
+      "title": "Fashion Film - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Fashion’s ‘Grand Theft Auto VI’ Opportunity - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "styling - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Pricing - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Inside Mike Ashley’s Harvey Nichols Makeover - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-22",
+      "title": "Black Friday Is a Big Deal for Luxury, Just Don’t Call It Black Friday - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Manila, Philippines - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Moscow, Russia - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "Precarious Paris: A Risk for Luxury Retail - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Have We Reached Peak Louis Vuitton? - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "London Fashion Week - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Mumbai, India - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Coronavirus - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-09-13",
+      "title": "Workplace & Talent / Leadership - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-01-22",
+      "title": "stores - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-11-23",
+      "title": "Gen-Z - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2023-09-13",
+      "title": "Workplace & Talent / The Future of Work - The Business of Fashion",
+      "url": "https://www.businessoffashion.com",
+      "source": "The Business of Fashion",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Simone Ashley Brings Spring 2003 Gucci Heels to ‘Only Murders in London’ Premiere - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-11-09",
+      "title": "Gucci RTW Fall 2008 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2015-09-24",
+      "title": "Looking Back at Gucci Spring 2016 Runway Show – Alessandro Michele’s Second RTW Collection for Gucci - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2018-02-21",
+      "title": "Gucci RTW Fall 2018 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2017-05-29",
+      "title": "All the Looks from the Gucci Resort 2018 Show in Florence - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-02-25",
+      "title": "Gucci Fall 2025 Ready-to-Wear Collection Runway, Fashion Show & Collection Review [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2025-05-15",
+      "title": "Gucci Cruise 2026 Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "A ‘Bridgerton’ Reunion at the ‘Only Murders in the Building’ Season Six Premiere - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Adidas Terminates Yeezy Partnership With Ye With Immediate Effect - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Thom Browne and Teyana Taylor: Designer and Muse - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2022-06-24",
+      "title": "First Impressions: Paris Men’s Spring 2023 | Day 1 | John Elliott, EgonLab - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "These Inclusive Face Masks Provide Functional PPE to All Frontline Workers - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "Ferran Torres Talks World Cup and That Hat - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "Getting Ready for Marc Jacobs 2026 with Nicky Hilton - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Melania Trump Mixes Her Holiday Prints in Gianvito Rossi Heels for the White House Christmas tree Arrival - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Melania Trump Mixes Her Holiday Prints in Python Heels for the White House Christmas tree Arrival - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Paola Gabriela Gonzalez - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "'Only Murders in the Building' Season 6 London Premiere: Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Miss Universe 2026 Finale in Photos: Jennifer Bareto’s Win and Other Standout Moments - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Jennifer Barreto Becomes the First Mom to Win Miss Universe, Just Three Years After a Rule Change - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Video: Fashion for All CEO Hannah Stoudemire On Her #BreakingtheSilence Campaign⁣ - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Selena Gomez Doubles Down on Black Velvet With a Micro Mini and Sharp Shoulders for ‘Jimmy Kimmel Live’ - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Winter 2026 Coat Trend: Duster Coats on Jennifer Lawrence and More - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Travis Kelce’s Style Evolution Over the Years, Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "CEO Talks: Bang & Olufsen’s Gianfilippo Testa - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Hayley Atwell Updated Her Bob for the Opening Night of ‘Much Ado About Nothing’ - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Boucheron’s U.S. Business Nearly Triples as the House Expands to Orange County - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "How Rapport London, at 128 Years Old, Continues to Evolve - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Paolo Bulgari, Jeweler to Hollywood Stars and Chairman of the Roman House, Dies at 89 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "This Year’s Fashion Scholarship Fund ‘Friend-Raiser’ Was All About Giving Thanks - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Victoria’s Secret’s Switch at the Top, Chair Donna James Steps Down - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Jennifer Lopez Brings Dolce & Gabbana Jewels to 'The JLo Show' Premiere - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Bergdorf Goodman Presents a \"Winter's Invitation\" - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Jaime Ray Newman Is ‘Bigger, Bolder and Badder’ in Season Two of ‘The Hunting Wives’ - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Helena Bonham Carter, Olivia Dean, Romeo Beckham Fete Burberry’s V&A Christmas Tree Unveiling - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Ralph Lauren’s First Home Store Debuts in Milan - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Hôtel de Crillon Taps French Cashmere Brand Kujten for Terrasse Holiday Takeover - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Breaking Down the Best Thanksgiving Looks from ‘Gossip Girl,’ Photos - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "EXCLUSIVE: Burberry Taps Ann Carrington for V&A Christmas Tree - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "EXCLUSIVE: Kylie Jenner Is Opening Khy’s First Pop-up in Los Angeles - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "16Arlington Gives The London Edition’s Christmas Tree a Feathered Makeover - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Songmont Founder Shares Snaps with Bernard Arnault Ahead of Louis Vuitton's Shanghai Concert - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Ejae and Darlene Love Perform at Macy’s Holiday Windows Unveiling - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Princess Diana’s Summer Outfits for Royal Ascot, Polo to Go Under the Hammer at Kerry Taylor Auctions - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Elizabeth Debicki Embraces Animal Patterns in a Chic Tiger Print Ensemble - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "How the Stars of Netflix Hit ‘The Body’ Perfected Their Y2K Aesthetic - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Behind the Scenes of the Macy’s Thanksgiving Day Parade Prep - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "H&M: Advancing an Already Mature Business in North America - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "For Hayley Atwell’s Broadway Debut, ‘Joy Is a Radical Act’ - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Dolce & Gabbana Brings Festive Mood to Tessabit at Lake Como - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Stella McCartney Enlists Joan Collins for Festive Campaign - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Lululemon Taps Paula Conhain to Lead Communications - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Ermenegildo Zegna Group Unveils New Footwear, Leather Goods Facility in Italy - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "How Harry and Meghan Could Avoid Royal Headaches During the High-stakes Holiday Season in the U.K. - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "EXCLUSIVE: Isabel Marant Names Therese Lundström Chief Marketing Officer - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Retailers Sanguine for Black Friday - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Veruschka, the OG Supermodel and ’60s Icon, Dies at 87 - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "From the Archive: Thanksgiving Side Dishes for a Fashionable Feast - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Marc Jacobs Sales Hit $509M in Its Last Year Under LVMH - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Dior Marks One Year in Beijing With Holiday Wonderland, Jisoo and Zheng Qinwen - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Meet Frida, Milan’s New Address for Vintage Findings - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Sheryl Lee Ralph Pops in Sergio Hudson at 'Abbott Elementary' Event - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Repair Marketplace Tingit Gets Spotlight in France Through Vinted Go Campaign - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Ralph Lauren Holiday Windows at Bloomingdales for 2026 [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Forget the Gift Card, These Luxury Beauty Sets Are What She Really Wants This Holiday Season - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "EXCLUSIVE: Louis Vuitton to Launch Experiential Flagship at Hong Kong’s K11 Musea - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Bloomingdale’s Unveils the Art of Ralph Lauren for Its Holiday Windows - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Inside the Red Carpet Premiere of Melania Trump's New Amazon Series - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Agnès B. Looks to Manet for Musée d’Orsay 40th Anniversary Collab - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Roberto Coin Deepens U.S. Retail Footprint With Two Florida Openings - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Abercrombie & Fitch Powers Through Another Strong Quarter, Raises Outlook - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-22",
+      "title": "Kim Kardashian Doubles Down on Leather with Two Complementary Ensembles at Las Vegas Grand Prix - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Victor Weinsanto Gave Strasbourg’s City Hall a Christmas Facelift - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Milly Opens Upper East Side Flagship - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Victor Weinsanto’s Holiday Capsule Collection [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Pasquale Bruni Opens Paris Flagship on Faubourg Saint-Honoré - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-22",
+      "title": "Can Robert Pattinson Live Up to James Bond’s Legendary Fashion? This Style Director Needs Some Convincing - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Macy’s Postpones Thanksgiving Parade to Saturday - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Skyler Gisondo’s Big Swing - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "Simone Rocha Collaborates With (RED) for 20th Anniversary Holiday Collection Supporting AIDS Fight - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "EXCLUSIVE: Marimekko Collaborates With Comme des Garçons on Colorful Tote Bags - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Cardi B Piled Her Curls Sky-High at Billboard Canada’s Women in Music Awards - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Woolrich Opens Milan Flagship, Plans January Milan Runway Show - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Saks Fifth Avenue Unveils Holiday Windows Amid Protests Over Alleged Employee Treatment - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Elizabeth Debicki Does Valentino Couture - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Revolve’s Chief Merchant Divya Mathur Looks Beyond Fashion’s Traditional Capitals - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Zanellato Celebrates 50 Years With Anniversary Book - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Skyler Gisondo, Star of 'Focker in Law', Around New York City with WWD [PHOTOS] - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Miley Cyrus Ties the Knot in Classically Elegant Saint Laurent Gown and Matching Silk Pumps - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Emerging Tailoring Brand Esque/By Launches First Collection - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "EXCLUSIVE: J.Crew’s Julia Collier Said to Be Returning to Skims - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Jensen Huang’s Penchant for Leather Jackets Riles Men’s Designers - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Ariana Greenblatt Talks Feminism and What It Means to Be a Gen Z Role Model - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Hailee Steinfeld Dazzles in Metallic Harris Reed Suiting-Inspired Dress at 'Hexed' European Premiere - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "South Korean Brand Osoi Marks 10th Anniversary With Seoul and Shanghai Openings - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Kohl’s Returns to Growth in Q3, Raises Outlook - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "NYC Jewelry Week Names Inaugural Here We Are High School Award Winner - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Loulou Groupe Kicks Off Global Expansion With Restaurant Opening in St. Barths - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "First Armani Hotel, Residences to Bow in Egypt - WWD",
+      "url": "https://wwd.com",
+      "source": "WWD",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "China’s Luxury Problem Is Bigger Than the Economy - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Read Vogue’s Best Dressed Interview with Connor Storrie - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "The Vogue Business People Moves Tracker - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Part Handbag, Part Jewelry—The Best Chain Bags to Shop Now - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": " - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Kim Kardashian Is Dressing for Team Lewis Hamilton - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "The Secondhand Gifting Conundrum - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-08-07",
+      "title": "After Careful Review, These Are the Best Perfumes for Women - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Vogue’s Best Dressed People of 2026 - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Still, No One Does Thanksgiving Style Quite Like 'Gossip Girl’s' Blair Waldorf - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "The Fair Isle Sweater Is Never Not in Style—Shop the Season’s Very Best - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Dakota Johnson and Machine Gun Kelly’s Couple Style Is in the Bag - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "How to Style Straight-Leg Jeans—Denim’s Most Enduring Silhouette - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Hailey Bieber’s It-Jacket Wardrobe Is Becoming Untenable - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Miley Cyrus and Maxx Morando Are Married! See All the Photos Here - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "“I Feel Joyful”: Christopher Bailey on His Post-Burberry Reinvention - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Setting Up Shop in Istanbul - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "A Party to End All Parties—Fashionable London Fetes the Life of Antony Price - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Brave New Visions Creativity as Rebellion - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Why Luxury Watch Brands Are Still Struggling Online - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Who Topped the 2026 Vogue Business Watch Index? - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Gifting, Resale and the Power of Experiences: The Watch Industry Is in Its Customer Service Era - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "Allow Us to Guide You Through the Black Friday Sales - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "Winter’s Top Boot Color Isn’t Brown or Black—It’s Burgundy - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Shop the Perfect Hoop Earrings—No Jewelry Box Is Complete Without a Pair - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "2026’s Best Bucket Bags Put a Fresh Spin on a Classic - Vogue",
+      "url": "https://www.vogue.com",
+      "source": "Vogue",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Secretary Bird ready to take flight - The Straits Times",
+      "url": "https://www.straitstimes.com",
+      "source": "The Straits Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "Australians face uncertain shopping future as iconic department store collapses - The Straits Times",
+      "url": "https://www.straitstimes.com",
+      "source": "The Straits Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-22",
+      "title": "Luxury for the elite, hardship for the masses: North Korea’s economic divide - The Straits Times",
+      "url": "https://www.straitstimes.com",
+      "source": "The Straits Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-22",
+      "title": "Vietnam’s economic rise creates a growing middle class, but not everyone is better off - The Straits Times",
+      "url": "https://www.straitstimes.com",
+      "source": "The Straits Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2016-12-08",
+      "title": "Latest Vietnam News & Headlines, Top Stories Today - The Straits Times",
+      "url": "https://www.straitstimes.com",
+      "source": "The Straits Times",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Does a middle-aged man really need a leather jacket? - CNA Luxury",
+      "url": "https://cnaluxury.channelnewsasia.com",
+      "source": "CNA Luxury",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Money Mind 2026 - REITs payouts - CNA",
+      "url": "https://www.channelnewsasia.com",
+      "source": "CNA",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-08-05",
+      "title": "บทความและข่าว “เลขเด็ด 16 สิงหาคม 2569” ล่าสุด วันนี้ | ไทยรัฐออนไลน์ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2011-09-18",
+      "title": "บทความและข่าว “สินค้าฟุ่มเฟือย” ล่าสุด วันนี้ | ไทยรัฐออนไลน์ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2011-09-19",
+      "title": "บทความและข่าว “จันจิ จันจิรา” ล่าสุด วันนี้ | ไทยรัฐออนไลน์ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2012-08-25",
+      "title": "บทความและข่าว “ชวลี อมาตยกุล” ล่าสุด วันนี้ | ไทยรัฐออนไลน์ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-11-30",
+      "title": "บทความและข่าว “เนท My Mate Nate” ล่าสุด วันนี้ | ไทยรัฐออนไลน์ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2011-10-11",
+      "title": "บทความและข่าว “ดัง พันกร” ล่าสุด วันนี้ | ไทยรัฐออนไลน์ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-10-18",
+      "title": "บทความและข่าว “เอ็นอีซี ไนจ์เมเกน” ล่าสุด วันนี้ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2011-09-19",
+      "title": "บทความและข่าว “บี๋ สวิช” ล่าสุด วันนี้ - Thairath",
+      "url": "https://www.thairath.co.th",
+      "source": "Thairath",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2014-11-19",
+      "title": "บทความและข่าว “สุรัชนี ลิ่มอติบูลย์” ล่าสุด วันนี้ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2011-10-03",
+      "title": "บทความและข่าว “พัลลีพร พรประภา” ล่าสุด วันนี้ | ไทยรัฐออนไลน์ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2021-08-02",
+      "title": "บทความและข่าว “ครูไพบูลย์ แสงเดือน” ล่าสุด วันนี้ | ไทยรัฐออนไลน์ - thairath.co.th",
+      "url": "https://www.thairath.co.th",
+      "source": "thairath.co.th",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Summarecon President Director Set to Stand Trial Over HGB Bribery Case - Kompas.com",
+      "url": "https://go.kompas.com",
+      "source": "Kompas.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Ducati Scrambler Belonging to Noel Ebenezer Auctioned by KPK, Starting at Rp 269 Million - Kompas.com",
+      "url": "http://go.kompas.com",
+      "source": "Kompas.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "KPK Auctions Nissan GTR from K3 Ministry Case, Priced at IDR 3.9 Billion - Kompas.com",
+      "url": "http://go.kompas.com",
+      "source": "Kompas.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "KPK Auctions Luxury Bags and Corruptors' Jewelry, Valued at Rp 410 Billion - Kompas.com",
+      "url": "https://go.kompas.com",
+      "source": "Kompas.com",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Coach, Ralph Lauren defy China slump - The Star",
+      "url": "https://www.thestar.com.my",
+      "source": "The Star",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Focus Point’s optical segment to drive record year on strong 4Q - The Star",
+      "url": "https://www.thestar.com.my",
+      "source": "The Star",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say - The Star",
+      "url": "https://www.thestar.com.my",
+      "source": "The Star",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Focus Point unit nears break-even - The Star",
+      "url": "https://www.thestar.com.my",
+      "source": "The Star",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Latest - The Star",
+      "url": "https://www.thestar.com.my",
+      "source": "The Star",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-22",
+      "title": "Vietnam’s economic rise creates a growing middle class, but not everyone is better off - The Star",
+      "url": "https://www.thestar.com.my",
+      "source": "The Star",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Anutin says national interest will guide Thailand’s Myanmar ties - The Star",
+      "url": "https://www.thestar.com.my",
+      "source": "The Star",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya - The Star",
+      "url": "https://www.thestar.com.my",
+      "source": "The Star",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "Football: Soccer-Espi spares Mbappe's blushes as Real Madrid beat Celta Vigo - The Star",
+      "url": "https://www.thestar.com.my",
+      "source": "The Star",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-22",
+      "title": "Miley Cyrus, Maxx Morando tie the knot after five years of dating - Inquirer.net",
+      "url": "https://entertainment.inquirer.net",
+      "source": "Inquirer.net",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-27",
+      "title": "Black Friday shopping carts: Why do necessities join gifts? - Cebu Daily News",
+      "url": "https://cebudailynews.inquirer.net",
+      "source": "Cebu Daily News",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Add to cart: The best beauty products to shop this November 2026 - Vogue Singapore",
+      "url": "https://vogue.sg",
+      "source": "Vogue Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "Crocodile, rhinoceros, parrot and fish—the Cartier menagerie grows - Vogue Singapore",
+      "url": "https://vogue.sg",
+      "source": "Vogue Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Vogue’s edit of earthy, auburn jewels to usher in fall - Vogue Singapore",
+      "url": "https://vogue.sg",
+      "source": "Vogue Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Vogue’s guide to finding the perfect everyday Coach bag - Vogue Singapore",
+      "url": "https://vogue.sg",
+      "source": "Vogue Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "VOGUE SCOOP I 'เบ็คกี้-รีเบคก้า' กับตำแหน่งใหม่ใน Miu Miu ที่ถือว่า ‘ผิดคาด’ แต่ ‘ไม่ผิดหวัง’ - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "ลูกเต๋า ไพ่ และบอร์ดเกม! CELINE ชวนขบขันไปกับแคปซูลคอลเล็กชั่นที่ได้ไอเดียมาจากการเล่นเกมช่วงเทศกาล - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "โหลดฟรี! สติกเกอร์ชุดพิเศษของ Gucci ในรูป 'ใหม่-กลัฟ' สุดน่ารัก ต้อนรับเทศกาลแห่งความสุข - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-12",
+      "title": "Heize ชอบศิลปินรุ่นพี่อย่าง TAEYEON, ชอบกินต๊อกบกกี, ฝากมินิอัลบั้ม FALLIN’ - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-14",
+      "title": "จากภาพเสก็ตช์ในยุค 1940s สู่ผลงาน Gucci ไฟน์จิวเวลรี ‘Horsebit’ แห่งปี 2026 - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": true
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-14",
+      "title": "แฟนคลับลุ้น! 'พีพี-กฤษฏ์' ร่วมงาน 'Troye Sivan' หลังปรากฏตัวในคลิปเบื้องหลังเพลงใหม่ล่าสุด - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-12",
+      "title": "'ลิซ่า BLACKPINK' สร้างประวัติศาสตร์! คว้า Guinness World Records จากเพลง Money สำเร็จ - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-12",
+      "title": "Ningning in USA การแสดงไลฟ์สไตล์ท่องเที่ยวแบบเรียบง่ายที่สะท้อนเทรนด์บนโซเชียลยุคใหม่ - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-08-21",
+      "title": "Fashion, Runway, Society, Lifestyle, Watches & Jewellery - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-15",
+      "title": "รวม 10 น้ำหอมกลิ่นมะลิ กลิ่นหอมสดชื่น ปรับลุคให้ดูหรูหรายิ่งขึ้น - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-13",
+      "title": "อัปเดตทำเนียบ 'คนไทย' ในวงการแฟชั่นโลก ใครบ้างที่ได้เป็นเฟรนด์และแอมบาสเดอร์ของแบรนด์ดัง! - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-12",
+      "title": "V LOVE TO TALK EP.8 ทอล์กกับ 'โบว์-กัญญารัตน์' ถึงเส้นทางชีวิตยูทูเบอร์แห่งยุคที่มีผู้ติดตามหลักล้าน - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-13",
+      "title": "Louis Vuitton ประกาศจัดโชว์คอลเล็กชั่น Cruise 2026 ที่ประเทศฝรั่งเศส ในเดือนพฤษภาคมนี้! - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-12",
+      "title": "VOGUE SCOOP | 2026 Fashion Trend Predictions รวบเทรนด์แฟชั่นมาแรงปี 2026 และไอเท็มที่ควรมีติดตู้ - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-20",
+      "title": "ส่องลุคหลุดโลกของเลดี้ กาก้าจากทัวร์คอนเสิร์ตล่าสุด The Chromatica Ball - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-20",
+      "title": "3 น้ำหอมโทนฟลอรัลกลิ่นโปรดของ เมเบิ้ล-สิริวลี | Editors’ Favorites - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "จากจิวเวลรีเมื่อปี 1906 สู่ 'Sweet Butterflies' ผลงานเหนือจินตนาการครั้งใหม่จาก 'Van Cleef & Arpels' - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "เปิดอัลบั้มฉบับเต็มร้าน LV Emporium ที่ผสมความเป็นไทย พร้อมเจาะลุคแขกคนสำคัญอย่างครบถ้วน - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-12",
+      "title": "เปิดลุคชุดคัสตอมพิเศษจาก Dior ในทัวร์ของ Xin Liu แบรนด์แอมบาสเดอร์จากแดนมังกร - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-12",
+      "title": "ปีแห่งบังทัน! เมื่อปี 2026 บอยแบนด์ ‘BTS’ อาจกลับมาทวงบัลลังก์ ‘ราชาเคป๊อป’ อีกครั้ง - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-01-12",
+      "title": "ทำความรู้จักแบรนด์ ‘Ganni’ และแนวคิดการเป็นแบรนด์แฟชั่นรักษ์โลกยุคใหม่ที่ก้าวไปอีกขั้น! - Vogue Thailand",
+      "url": "https://vogue.co.th",
+      "source": "Vogue Thailand",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "From the Royal Jewel Box: How Kate Middleton Wears Queen Elizabeth II’s Jewellery - Prestige Online - Singapore",
+      "url": "https://www.prestigeonline.com",
+      "source": "Prestige Online - Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "7 best oud fragrances to try this winter - Prestige Online - Singapore",
+      "url": "https://www.prestigeonline.com",
+      "source": "Prestige Online - Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "The 2026 watch and jewellery gift guide for the glitziest person in your life - Lifestyle Asia Hong Kong",
+      "url": "https://www.lifestyleasia.com",
+      "source": "Lifestyle Asia Hong Kong",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "Looking for the perfect bag to wear this festive season? Here’s our holiday edit with Coach! - Lifestyle Asia Hong Kong",
+      "url": "https://www.lifestyleasia.com",
+      "source": "Lifestyle Asia Hong Kong",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "All The Must-Know Celebrity Campaigns Of 2026 - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-26",
+      "title": "Icons Forever: Bottega Veneta’s Corso Bag Highlights The Brand’s Intrecciato Technique - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-21",
+      "title": "25 Years Of Style, Shopping And Change: Revisiting Singapore’s Fashion History - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-23",
+      "title": "The A-Z Of Thai Brand Ambassadors - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2024-02-22",
+      "title": "News & Trends - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-25",
+      "title": "| Harper's Bazaar Singapore - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-09-03",
+      "title": "Dior - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2026-11-24",
+      "title": "The Best Black Friday Handbag Deals To Shop Now, According To BAZAAR Editors - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-08-13",
+      "title": "news - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "news",
+      "published_at": "2020-09-23",
+      "title": "Korean - Harper's Bazaar Singapore",
+      "url": "https://www.harpersbazaar.com.sg",
+      "source": "Harper's Bazaar Singapore",
+      "title_match": false
+    },
+    {
+      "source_type": "community",
+      "published_at": "2026-11-21",
+      "title": "PHV driver cut into my lane, then chased me down and tried to squeeze me into the kerb - HardwareZone Forums",
+      "url": "https://forums.hardwarezone.com.sg",
+      "source": "HardwareZone Forums",
+      "title_match": false
+    }
+  ]
+}
