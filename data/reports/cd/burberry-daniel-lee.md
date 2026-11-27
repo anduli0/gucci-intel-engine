@@ -1,6 +1,6 @@
 # 대니얼 리 — 버버리 (Burberry)
 
-2026-09-22 (dossier update — 2026-09-20 런던 패션위크 폐막작으로 여름 2027(SS27) 쇼 개최, 트렌치코트 170주년·셀리아 버트웰 협업·'기본으로의 회귀' 선언 반영; 직전 2026-08-26 FY2026 Q1 성장 정체·주가 연저점 라인 유지) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-11-28 (dossier update — 2026-11-26 보그 비즈니스 서밋에서 리가 안나 윈투어와 대담, '크리에이티브 디렉터에게는 안정과 시간이 필요하다'며 업계의 잦은 CD 교체 패턴에 반론 제기—지향점·구찌 관점 반영; 직전 2026-09-22 여름 2027(SS27) 트렌치 170주년 쇼 라인 유지) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## 목차
 1. 프로필 개요
@@ -45,6 +45,8 @@
 
 상업 논리도 명확하다. 그는 트렌치코트를 "버버리의 가장 상징적인 제품(most iconic product)"으로 규정하고 이를 디자인의 골격(framework)으로 삼는다고 밝히며,[11] 트렌치와 스카프를 축으로 하는 카테고리 우선순위를 공개적으로 못 박았다. 동시에 그는 유머와 자기희화를 영국성의 핵심으로 꼽으며,[11] 헤리티지를 경건하게 다루기보다 위트로 갱신하려 한다. 여름 2027 쇼에서 그는 이 철학을 '완벽함이 아닌 인간성'의 언어로 더 밀고 나갔다. 그는 컬렉션을 "사물의 근본으로의 회귀(a return to the basis of things)"로 규정하고,[26] "불완전함이 결국 더 인간적으로 느끼게 한다(imperfections ultimately make things feel more human)"[28]고 말하며, 산업적 완성도가 아니라 손의 흔적을 럭셔리의 증거로 내세웠다. 버트웰 기용 이유에 대해서도 그는 셀리아 버트웰이 널리 사랑받는 인물이자 영국 패션의 정수라고 설명하며,[28] 영국성을 특정 인물의 계보로 구체화했다. 다만 이 철학은 버버리 부임 초기 '헤리티지의 도발적 해체' 쪽으로 과도하게 기울며 상업 정체성과 마찰을 빚었고, 이후 슐먼 체제에서 '전통 위의 진화'로 무게중심을 되돌리는 조정이 이뤄졌다. 슐먼 역시 이 회복을 "타임리스 브리티시 럭셔리"의 일관된 표현 덕으로 규정하며, 리의 헤리티지 문법을 경영 서사의 중심에 놓는다.[19]
 
+2026년 11월 26일 보그 비즈니스 서밋에서 리는 이 철학을 창작 거버넌스의 언어로 확장했다. 그는 안나 윈투어와의 무대 대담에서 "사람들에게는 안정이 필요하다(people need stability)"고 말하고, 하우스의 아카이브·문화·사람을 이해하고 팀을 꾸리는 데는 시간이 걸린다고 강조하며,[29] 업계 전반의 잦고 빠른 CD 교체 패턴에 정면으로 반론을 제기했다. 즉 그는 창작 정체성을 디렉터 개인의 미학이 아니라 하우스와의 장기적 대화에서 빚어지는 것으로 규정한 셈이다. 다만 이 발언은 4개 분기 연속 성장이라는 자신의 실적을 배경에 둔 현직 디렉터의 자기정당화 논리로도 읽히므로, '안정론'을 보편적 처방으로 확대하기보다 리 자신의 궤적이 그것을 어떻게 뒷받침하는지를 함께 따져야 한다.
+
 ## 5. 현 하우스에서의 행보
 데뷔 반응은 화려했으나 양분됐다. AW23 데뷔는 다수 비평가에게 '이번 시즌 최고의 데뷔'라는 호평을 받으며 보테가에서 보인 에너지를 옮겨왔다는 평가를 얻었지만,[16] 동시에 하이스노비티는 이를 아이디어는 많으나 큐레이션이 부족한, 다소 어수선하지만 즐거운 컬렉션으로 규정했고, 소셜미디어에서는 "우아함은 죽었다(Elegance is dead)" 같은 반발과 런웨이가 완전한 재앙이라는 혹평이 동시에 터졌다.[7] 즉 리는 비평적 화제성은 확보했으나, 그 화제성이 곧바로 상업 전환으로 이어지지 못한 것이 초기 국면의 핵심 문제였다.
 
@@ -60,6 +62,8 @@
 
 ## 6. 구찌 관점
 구찌 입장에서 리는 가장 직접적인 '턴어라운드 CD 벤치마크'다. 케링이 뎀나를 구찌 아티스틱 디렉터로 앉히며 기대하는 서사—검증된 스타 디렉터가 침체 하우스를 재점화한다—의 원형이 바로 리의 보테가 사례이기 때문이다. 다만 두 사례의 교훈은 결이 다르다. 보테가에서 리는 로고 없는 소재 혁신으로 잇백을 만들어 상업과 비평을 동시에 잡았지만, 버버리에서는 창작 화제성만으로는 회복이 오지 않았고 CEO 주도 상업 아키텍처(버버리 포워드)와 결합된 뒤에야 지표가 돌아섰다. 구찌가 뎀나 체제에서 새길 함의는 명확하다. 디렉터의 미학적 강도만으로 턴어라운드가 완성되지 않으며, 가격대 재정렬·핵심 카테고리 집중·경영진 정렬이 창작과 맞물려야 한다는 점이다. [가설] 리의 초기 버버리 부진은 '창작-상업 분리'의 위험 사례로, 구찌의 뎀나 데뷔 상업화 설계에 직접적 반면교사가 된다.
+
+리의 '안정과 시간' 발언은 구찌의 뎀나 체제 커뮤니케이션에 직접적 함의를 던진다. 그가 보그 비즈니스 서밋에서 아카이브·문화·팀 구축에 시간이 걸린다며 잦은 CD 교체 패턴에 반론을 편 것은,[29] 자신의 4개 분기 연속 성장이 '부임 초기 양분된 혹평 → 슐먼 체제 정렬 → 지표 회복'이라는 다년간의 시퀀스를 거쳐 나왔다는 서사와 정확히 맞물린다. 즉 그는 턴어라운드의 전제조건으로 '디렉터의 미학'이 아니라 '시간과 안정'을 공개적으로 지목한 셈이다. 케링과 구찌가 이 사례에서 읽어야 할 것은 분명하다—뎀나 데뷔가 즉각적 지표로 전환되지 않더라도 CD 체제의 일관성 자체를 투자자·언론에 서사화할 근거가 생긴다는 점이다. [가설] 구찌는 '스타 디렉터 영입=즉효' 프레임 대신 리식 '시간·안정이 턴어라운드의 전제'라는 프레임으로 뎀나 체제의 기대치를 관리할 수 있다. 다만 이 균형추도 필요하다—'안정론'은 성과가 뒤따를 때만 설득력을 가지므로, 시간 매수 논리가 성과 부진의 알리바이로 변질되지 않으려면 분기별 전환 증거가 함께 제시돼야 한다.
 
 무엇보다 버버리의 최근 궤적은 구찌 자체 턴어라운드의 '속도 벤치마크'다. 슐먼·리의 헤리티지 우선 재정렬은 헤리티지 코드로 되돌아가는 노선이 지속적인(가속은 아니어도) 성장을 실제로 만들어낼 수 있음을 입증한다—버버리는 트렌치·체크라는 핵심 코드를 다시 축으로 삼아 4개 분기 연속 성장에 도달했다.[13][17][19] 여름 2027 쇼는 이 '아이코닉 카테고리 심화' 전략의 교본적 실행이다. 리는 이미 두 자릿수로 팔리는 트렌치를 170주년 쇼·V&A 전시로 상징 자본화하고, 색·소재·협업으로 아스피레이셔널 폭을 넓히면서도 카테고리 축을 흐트러뜨리지 않았다.[27][28] 뎀나 구찌가 스프링 2027(9월 25일 밀라노)에서 핸드백·액세서리를 핵심 축으로 예고한 것과 대비하면, 버버리는 '어떤 카테고리를 창작 서사의 중심에 놓고 헤리티지 이벤트로 증폭하는가'라는 실행 프로토콜을 앞서 보여준 셈이다. [가설] 구찌는 뎀나 데뷔 액세서리 축을 '실적 확인 후 상징 자본화'하는 버버리식 시퀀스—판매 확인→헤리티지 이벤트→아스피레이셔널 확장—를 벤치마크할 수 있다.
 
@@ -85,6 +89,7 @@
 - 리스트 인덱스(Lyst Index): 글로벌 검색·판매·소셜 데이터를 종합해 분기별 '핫 브랜드'를 매기는 패션 수요 지표.
 - 활성화 노출(activation coverage): 브랜드가 직접 집행한 캠페인·앰배서더·연출 이벤트의 노출로, 독립적으로 검증된 소비자 여론과 구분해 해석해야 한다.
 - 셀리아 버트웰(Celia Birtwell): 1960~70년대 오시 클라크와의 협업으로 유명한 영국 텍스타일 디자이너로, 버버리 SS27 프린트·모티프 협업 파트너.
+- 보그 비즈니스 서밋(Vogue Business Summit): 콩데 나스트 산하 보그 비즈니스가 주최하는 업계 컨퍼런스로, 경영진·디자이너 대담이 열린다.
 
 ## 출처
 [1] Bloomberg / WWD 종합 — 리의 보테가 결별(2021-11) 및 버버리 CCO 발표(2022-09), 2022-10-03 합류 — https://www.bloomberg.com/news/articles/2022-09-28/burberry-hires-daniel-lee-to-replace-riccardo-tisci-as-designer
@@ -114,12 +119,13 @@
 [26] TheIndustry.fashion — 여름 2027 쇼, 트렌치 재해석·'사물의 근본으로의 회귀' 리 발언, 센트럴 시 런웨이·데이비드 보위 사운드트랙 — https://www.theindustry.fashion/daniel-lee-reimagines-burberrys-iconic-trench-for-spring-summer-2027/
 [27] The Irish News / PA — 여름 2027 쇼가 트렌치 170주년 기념(첼시 예술대학·버터 옐로·페일 핑크 트렌치·V&A '더 버버리 트렌치' 전시 병행) — https://www.irishnews.com/life/burberry-celebrates-170-years-of-the-trench-coat-with-playful-london-fashion-week-show-K5F3Y4CEIBLX5KGYKGAIOTRAJ4/
 [28] WWD (Yahoo 신디케이션) — 버버리 스프링 2027 'In Bloom' 리뷰: 셀리아 버트웰 협업·실크 자수 트렌치·"불완전함이 더 인간적" 발언 및 버트웰에 대한 평가 — https://www.yahoo.com/entertainment/articles/burberry-spring-2027-bloom-212758587.html
+[29] ShowBiz (Vogue Business Summit 신디케이션) — 2026-11-26 리·안나 윈투어 대담, "사람들에게는 안정이 필요하다"·아카이브·문화·팀 구축에 시간 필요, 잦은 CD 교체 패턴에 반론 — https://showbiz.com/anna-wintour-and-burberrys-daniel-lee-weigh-in-on-fashions-creative-shake-up/
 
 <!-- ===== ENGLISH EDITION ===== -->
 
 # Daniel Lee — Burberry
 
-2026-09-22 (dossier update — Summer 2027 (SS27) show staged as the London Fashion Week closer on Sept. 20, 2026, marking the trench coat's 170th anniversary with a Celia Birtwell collaboration and a "return to the basis of things"; the prior Aug. 26 line on FY2026 Q1 plateau and shares near 2026 lows is retained) / CD DOSSIER / GUCCI INTELLIGENCE
+2026-11-28 (dossier update — At the Nov. 26, 2026 Vogue Business Summit, Lee, in conversation with Anna Wintour, argued that "creative directors need stability and time," pushing back against the industry's frequent CD turnover — reflected in Vision and Gucci Perspective; the prior Sept. 22 line on the Summer 2027 (SS27) trench 170th-anniversary show is retained) / CD DOSSIER / GUCCI INTELLIGENCE
 
 ## Table of Contents
 1. Profile Overview
@@ -164,6 +170,8 @@ The recurring axis in Lee's interviews is "21st-century Britishness rooted in tr
 
 His commercial logic is equally clear. He defines the trench coat as Burberry's "most iconic product" and states that he uses it as the framework for design,[11] having publicly nailed down category priorities centered on trench coats and scarves. At the same time, he cites humor and self-deprecation as central to Britishness,[11] preferring to renew heritage with wit rather than treat it with reverence. At the Summer 2027 show he pushed this philosophy further into a language of "humanity over perfection." He framed the collection as "a return to the basis of things,"[26] and said the "imperfections ultimately make things feel more human,"[28] holding up the trace of the hand — not industrial finish — as the proof of luxury. On choosing Birtwell, too, he described her as widely beloved and the epitome of British fashion,[28] concretizing Britishness through a specific lineage. However, this philosophy tilted too far toward "provocative deconstruction of heritage" in his early Burberry tenure, creating friction with the brand's commercial identity, and the subsequent Schulman era brought a rebalancing back toward "evolution atop tradition." Schulman, too, credits the recovery to a consistent expression of "timeless British luxury," placing Lee's heritage grammar at the center of the management narrative.[19]
 
+At the Vogue Business Summit on November 26, 2026, Lee extended this philosophy into the language of creative governance. In an on-stage conversation with Anna Wintour he said "people need stability" and stressed that understanding a house's archive, culture, and people — and building a team — takes time,[29] pushing back directly against the industry-wide pattern of frequent, rapid creative-director turnover. In effect, he framed creative identity as something forged through a long-term dialogue with the house rather than from a director's personal aesthetic alone. That said, the remark can also be read as the self-justifying logic of an incumbent director with four consecutive quarters of growth behind him, so the "stability case" should be weighed against how Lee's own trajectory supports it rather than universalized as a blanket prescription.
+
 ## 5. Tenure at the Current House
 The debut reaction was spectacular but polarized. The AW23 debut earned praise from many critics as "the best debut of the season," seen as carrying over the energy he brought to Bottega,[16] but Highsnobiety simultaneously characterized it as a collection with abundant ideas but insufficient curation — enjoyable yet somewhat chaotic — and social media saw a simultaneous backlash of "Elegance is dead" sentiment alongside criticism calling the runway an outright disaster.[7] In short, Lee secured critical buzz, but the core problem of the early period was that this buzz did not immediately translate into commercial conversion.
 
@@ -179,6 +187,8 @@ The crux is the widening gap between operational recovery and capital-market ass
 
 ## 6. Gucci Perspective
 From Gucci's vantage point, Lee is the most direct "turnaround CD benchmark" available. The narrative Kering hopes for in installing Demna as Gucci's artistic director — a proven star director reigniting a struggling house — has its prototype precisely in Lee's Bottega case. Yet the lessons from the two cases differ in texture. At Bottega, Lee captured both commerce and critical acclaim simultaneously through logo-free material innovation that produced it-bags; at Burberry, however, creative buzz alone did not deliver recovery, and metrics turned only after it was combined with CEO-led commercial architecture (Burberry Forward). The implication for Gucci under the Demna regime is clear: a director's aesthetic intensity alone does not complete a turnaround; price-tier realignment, focus on core categories, and management alignment must operate in tandem with creative direction. [Hypothesis] Lee's early struggles at Burberry stand as a cautionary case of "creative-commercial disconnection," and serve as a direct lesson for how Gucci designs the commercialization of Demna's debut.
+
+Lee's "stability and time" remark carries a direct implication for how Gucci communicates the Demna regime. His pushback at the Vogue Business Summit — that understanding archive, culture, and people and building a team takes time, against the pattern of frequent CD turnover[29] — dovetails precisely with the narrative that his own four consecutive quarters of growth emerged from a multi-year sequence: a polarized early panning, then alignment under Schulman, then a metrics recovery. In effect, he publicly named "time and stability," not "a director's aesthetic," as the precondition for a turnaround. What Kering and Gucci should read from this is clear — even if Demna's debut does not immediately convert into metrics, the consistency of the CD regime itself becomes grounds to narrate to investors and press. [Hypothesis] Gucci could manage expectations for the Demna regime through a Lee-style frame that "time and stability are the precondition for a turnaround," rather than a "star-director-equals-instant-fix" frame. This, too, needs a counterweight, however — the "stability case" only persuades when results follow, so for the buy-time logic not to curdle into an alibi for underperformance, quarterly evidence of conversion must be presented alongside it.
 
 Above all, Burberry's recent trajectory is a "pacing benchmark" for Gucci's own turnaround. The Schulman-Lee heritage-first realignment proves that a return to heritage codes can, in fact, produce sustained (if not accelerating) growth — Burberry reached four consecutive quarters of growth by re-centering on trench and check as its core codes.[13][17][19] The Summer 2027 show is a textbook execution of this "iconic-category deepening" strategy. Lee took a trench already selling in double digits and capitalized on it symbolically through a 170th-anniversary show and V&A exhibition, broadening aspirational reach through color, material, and collaboration without blurring the category axis.[27][28] Set against Demna-era Gucci previewing handbags and accessories as its core axis for Spring 2027 (September 25, Milan), Burberry has effectively pre-demonstrated an execution protocol: which category to place at the center of the creative narrative, then amplify with a heritage event. [Hypothesis] Gucci could benchmark a Burberry-style sequence for Demna's debut accessories axis — confirm sales, then symbolically capitalize via a heritage event, then extend aspirationally.
 
@@ -204,6 +214,7 @@ The second axis is whether Greater China momentum and category breadth persist. 
 - Lyst Index: A fashion-demand index that ranks quarterly "hottest brands" from aggregated global search, sales, and social data.
 - Activation coverage: Exposure from a brand's own campaigns, ambassadors, and staged events, which must be read as distinct from independently verified public sentiment.
 - Celia Birtwell: British textile designer famed for 1960s-70s collaborations with Ossie Clark; the print-and-motif collaboration partner for Burberry's SS27 collection.
+- Vogue Business Summit: An industry conference hosted by Vogue Business (Condé Nast), featuring on-stage conversations with executives and designers.
 
 ## Sources
 [1] Bloomberg / WWD (combined) — Lee's split from Bottega (Nov. 2021) and Burberry CCO announcement (Sept. 2022), joined Oct. 3, 2022 — https://www.bloomberg.com/news/articles/2022-09-28/burberry-hires-daniel-lee-to-replace-riccardo-tisci-as-designer
@@ -233,3 +244,4 @@ The second axis is whether Greater China momentum and category breadth persist. 
 [26] TheIndustry.fashion — Summer 2027 show, trench reinterpretation, Lee's "a return to the basis of things" remark, Central Cee runway walk, David Bowie soundtrack — https://www.theindustry.fashion/daniel-lee-reimagines-burberrys-iconic-trench-for-spring-summer-2027/
 [27] The Irish News / PA — Summer 2027 show marks the trench's 170th anniversary (Chelsea College of Arts; butter yellow, pale pink trenches; concurrent V&A "The Burberry Trench" exhibition) — https://www.irishnews.com/life/burberry-celebrates-170-years-of-the-trench-coat-with-playful-london-fashion-week-show-K5F3Y4CEIBLX5KGYKGAIOTRAJ4/
 [28] WWD (Yahoo syndication) — Burberry Spring 2027 "In Bloom" review: Celia Birtwell collaboration, silk embroidered trenches, "imperfections... feel more human" remark and Lee's characterization of Birtwell — https://www.yahoo.com/entertainment/articles/burberry-spring-2027-bloom-212758587.html
+[29] ShowBiz (Vogue Business Summit syndication) — Nov. 26, 2026 Lee-Anna Wintour conversation: "people need stability," understanding archive/culture/people and building a team takes time, pushback on frequent CD turnover — https://showbiz.com/anna-wintour-and-burberrys-daniel-lee-weigh-in-on-fashions-creative-shake-up/
